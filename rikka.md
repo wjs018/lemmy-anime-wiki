@@ -2,7 +2,7 @@
 title: Bot User Guide
 description: Your guide to rikka, the anime community discussion thread bot.
 published: true
-date: 2024-03-17T04:54:45.862Z
+date: 2024-03-17T05:21:42.510Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-17T04:44:34.849Z
@@ -12,7 +12,7 @@ dateCreated: 2024-03-17T04:44:34.849Z
 
 rikka is the name of the bot used to create discussion threads in the anime@ani.social community for currently airing series. Each season, there are ~50 different shows airing, more than our humble little community can handle if each episode that airs is given its own discussion thread. rikka was created to support creating threads just for the shows that the community has demonstrated an interest in.
 
-In this article, I have laid out the different functions of rikka and how you can interact with her to help you discuss the anime that you are interested in.
+On this page, I have laid out the different functions of rikka and how you can interact with her to help you discuss the anime that you are interested in.
 
 # What rikka Does
 
