@@ -2,7 +2,7 @@
 title: Bot User Guide
 description: Your guide to rikka, the anime community discussion thread bot.
 published: true
-date: 2024-03-17T05:21:42.510Z
+date: 2024-03-17T05:48:01.674Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-17T04:44:34.849Z
@@ -30,7 +30,7 @@ For shows that have not been enabled from the thread before the season, no discu
 
 Unlike the first week of the season, the subsequent episode discussion threads are only created if the previous episode's discussion thread has engagement from the community. Specifically, rikka will look at the total number of upvotes and comments on the previous episode's post to determine if there was enough interest to post the next episode. The exact thresholds that a discussion needs to meet will vary for now as the bot is new and I will be closely monitoring the engagement.
 
-The rationale for this engagement criteria is to help weed out shows that the community has stopped watching. It would not be desirable for rikka to continue making discussion posts for a series that no users are watching or engaging with, littering the community with empty posts.
+The rationale for this engagement criteria is to help weed out shows that the community has stopped watching. It would not be desirable for rikka to continue making discussion posts for a series that no users are watching or engaging with, littering the community with empty posts. If I find any users that are manipulating votes or creating junk comments to manipulate this, I will take moderator action as needed.
 
 If a show has become disabled through failing to meet the engagement thresholds, but a user still wants a discussion thread for an episode, it can be requested from rikka via pm. See [here](https://wiki.lemmyanime.com/en/rikka#requesting-discussion-threads-via-pm) for details.
 
@@ -75,3 +75,14 @@ There are a number of reasons that rikka will refuse to create a discussion thre
 | The specified episode has not aired yet | If the show + episode you are requesting has not aired yet (per the AniList api), then rikka will refuse to create the discussion thread. This can be an issue sometimes when different services air the episode at different times. |
 | There is a more recent episode discussion thread | If the show you have linked has a discussion thread for a later episode already created by rikka, then she will reject your request. For example, if you request a thread for episode 3, but there is already a discussion thread for episode 5, then rikka will reject this. The intention behind this is to prevent any confusion for users as threads would be made out of chronological order. |
 | The show is marked as NSFW by AniList | To make my moderating life easier, I am preventing any shows that are marked as NSFW by AniList from being added to rikka's database. If you want discussion threads about a show that is marked as NSFW, reach out to me directly and I can consider adding that show manually if I think it won't be a headache going forward. |
+
+# Episode Screenshots
+
+One of the things that rikka cannot do is post a silly/interesting screenshot from the episode that aired as the lead image in the discussion thread. This is something that I particularly enjoyed when all the episode discussion threads were being user-created and I am sad that it will need to go away as rikka takes over posting responsibilities.
+
+To help alleviate this, I am going to try to do my best to help participants of a discussion thread add a lead image to the post. If you have a screenshot from the episode that you would like to see as the lead image for the post, here is what you will need to do:
+
+1. Make a comment in the discussion thread in which you @mention rikka. The format to do this properly so that I can see it in the web-ui is `[rikka@ani.social](https://ani.social/u/rikka)`
+2. In that comment, embed an image, either uploaded to lemmy when making the comment, or a direct link to an image on an external hoster (imgur, etc.).
+
+I will try to regularly check the mentions portion of rikka's inbox to catch these. However, as it is being done manually, I can't promise I will always be able to respond timely or at all. Additionally, please ensure that the images you have chosen are appropriate (SFW, spoiler-free) to post to the community/instance.
