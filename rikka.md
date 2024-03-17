@@ -2,7 +2,7 @@
 title: Bot User Guide
 description: Your guide to rikka, the anime community discussion thread bot.
 published: true
-date: 2024-03-17T04:44:34.849Z
+date: 2024-03-17T04:54:24.798Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-17T04:44:34.849Z
@@ -24,7 +24,7 @@ Prior to the start of the season I, wjs018@ani.social, will create a thread in w
 
 When the season starts, rikka will create an episode discussion thread for any show that has been enabled in the database. The post will be created once the episode has finished airing (uses the [AniList api](https://anilist.gitbook.io/anilist-apiv2-docs) as a source).
 
-For shows that have not been enabled from the thread before the season, no discussion post will be made. Users are able to request a discussion thread for an episode that doesn't already have one through a pm. See here for details.
+For shows that have not been enabled from the thread before the season, no discussion post will be made. Users are able to request a discussion thread for an episode that doesn't already have one through a pm. See [here](https://wiki.lemmyanime.com/en/rikka#requesting-discussion-threads-via-pm) for details.
 
 ## As the Season Progresses
 
@@ -32,11 +32,11 @@ Unlike the first week of the season, the subsequent episode discussion threads a
 
 The rationale for this engagement criteria is to help weed out shows that the community has stopped watching. It would not be desirable for rikka to continue making discussion posts for a series that no users are watching or engaging with, littering the community with empty posts.
 
-If a show has become disabled through failing to meet the engagement thresholds, but a user still wants a discussion thread for an episode, it can be requested from rikka via pm. See here for details.
+If a show has become disabled through failing to meet the engagement thresholds, but a user still wants a discussion thread for an episode, it can be requested from rikka via pm. See [here](https://wiki.lemmyanime.com/en/rikka#requesting-discussion-threads-via-pm) for details.
 
 ## After the Final Episode
 
-Once a show ends, rikka will post an episode discussion thread like normal if the show is still enabled and the penultimate episode meets the engagement thresholds. If the show is disabled or fails to meet the engagement thresholds, then no discussion thread will be created. A user is still able to request a thread be created through pm'ing rikka for some time after the season has ended (see here for details). The exact amount of time after a season ends that a discussion thread can be requested is subject to change, but should be able to accommodate people that are a bit behind the airing episodes just fine.
+Once a show ends, rikka will post an episode discussion thread like normal if the show is still enabled and the penultimate episode meets the engagement thresholds. If the show is disabled or fails to meet the engagement thresholds, then no discussion thread will be created. A user is still able to request a thread be created through pm'ing rikka for some time after the season has ended (see [here](https://wiki.lemmyanime.com/en/rikka#requesting-discussion-threads-via-pm) for details). The exact amount of time after a season ends that a discussion thread can be requested is subject to change, but should be able to accommodate people that are a bit behind the airing episodes just fine.
 
 # Requesting Discussion Threads via PM
 
