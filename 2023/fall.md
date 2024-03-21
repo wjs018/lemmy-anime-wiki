@@ -2,7 +2,7 @@
 title: Fall 2023 Discussion Thread Index
 description: All the episode discussion threads for Fall 2023 shows
 published: true
-date: 2024-03-21T13:35:47.535Z
+date: 2024-03-21T13:41:19.293Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-21T13:34:13.035Z
@@ -85,3 +85,20 @@ Episode|Link|Episode|Link
 47|[Link](https://ani.social/post/1620853)
 48|[Link](https://ani.social/post/1717386)
 {.dense}
+
+## Kage no Jitsuryokusha ni Naritakute! Season 2 • The Eminence in Shadow Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/658344)
+2|[Link](https://ani.social/post/660956)
+3|[Link](https://ani.social/post/723735)
+4|[Link](https://ani.social/post/792135)
+5|[Link](https://ani.social/post/853682)
+6|[Link](https://ani.social/post/929305)
+7|[Link](https://ani.social/post/1000166)
+8|[Link](https://ani.social/post/1075423)
+9|[Link](https://ani.social/post/1155924)
+10|[Link](https://ani.social/post/1243243)
+11|[Link](https://ani.social/post/1329430)
+12|[Link](https://ani.social/post/1414408)
