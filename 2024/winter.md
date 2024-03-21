@@ -2,13 +2,11 @@
 title: Winter 2024 Discussion Thread Index
 description: All the episode discussion threads for Winter 2024 shows
 published: true
-date: 2024-03-21T04:49:08.258Z
+date: 2024-03-21T04:49:35.418Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-21T04:49:08.258Z
 ---
-
-# Index of Winter 2024 Show Discussion Threads
 
 Below, you can find an index of all the discussion threads for shows from the Winter 2024 anime season. Not every episode of every show may have a discussion thread and some threads may encompass more than one episode. To more easily find the show you are looking for, use the navigation menu for this page or use Ctrl+F.
 
