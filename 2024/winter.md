@@ -2,7 +2,7 @@
 title: Winter 2024 Discussion Thread Index
 description: All the episode discussion threads for Winter 2024 shows
 published: true
-date: 2024-03-21T12:02:23.296Z
+date: 2024-03-21T17:31:46.696Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-21T04:49:08.258Z
@@ -19,7 +19,7 @@ Below, you can find an index of all the discussion threads for shows from the Wi
 | 3 | [Link](https://ani.social/post/1788469) | 9 | [Link](https://ani.social/post/2410846) |
 | 4 | [Link](https://ani.social/post/1892000) | 10 | [Link](https://ani.social/post/2525388) |
 | 5 | [Link](https://ani.social/post/2001554) | 11 | [Link](https://ani.social/post/2632007) |
-| 6 | [Link](https://ani.social/post/2101729) | | |
+| 6 | [Link](https://ani.social/post/2101729) | 12 | [Link](https://ani.social/post/2745203) |
 {.dense}
 
 ## Dungeon Meshi • Delicious in Dungeon
