@@ -2,7 +2,7 @@
 title: Winter 2024 Discussion Thread Index
 description: All the episode discussion threads for Winter 2024 shows
 published: true
-date: 2024-03-21T04:49:35.418Z
+date: 2024-03-21T12:02:23.296Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-21T04:49:08.258Z
@@ -119,7 +119,7 @@ Below, you can find an index of all the discussion threads for shows from the Wi
 | 1 | [Link](https://ani.social/post/1662213) | 8 | [Link](https://ani.social/post/2365442) |
 | 2 | [Link](https://ani.social/post/1743702) | 9 | [Link](https://ani.social/post/2482096) |
 | 4 | [Link](https://ani.social/post/1956078) | 10 | [Link](https://ani.social/post/2586353) |
-| 5 | [Link](https://ani.social/post/2058327) | | |
+| 5 | [Link](https://ani.social/post/2058327) | 11 | [Link](https://ani.social/post/2736413) |
 | 6 | [Link](https://ani.social/post/2159696) | | |
 | 7 | [Link](https://ani.social/post/2274466) | | |
 {.dense}
@@ -272,6 +272,7 @@ Below, you can find an index of all the discussion threads for shows from the Wi
 | 3 | [Link](https://ani.social/post/2364953) |
 | 4 | [Link](https://ani.social/post/2465332) |
 | 5 | [Link](https://ani.social/post/2571411) |
+| 6 | [Link](https://ani.social/post/2736828) |
 {.dense}
 
 ## 30-sai made Doutei da to Mahou Tsukai ni Narerurashii • Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!
