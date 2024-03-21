@@ -2,7 +2,7 @@
 title: Fall 2023 Discussion Thread Index
 description: All the episode discussion threads for Fall 2023 shows
 published: true
-date: 2024-03-21T13:34:13.035Z
+date: 2024-03-21T13:35:47.535Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-21T13:34:13.035Z
@@ -65,4 +65,23 @@ Episode|Link|Episode|Link
 12|[Link](https://ani.social/post/1375828)
 13|[Link](https://ani.social/post/1460967)
 14|[Link](https://ani.social/post/1624617)
+{.dense}
+
+## Hirogaru Sky! Precure • Soaring Sky! Pretty Cure
+
+Episode|Link|Episode|Link
+:-:|:-:|:-:|:-:
+36|[Link](https://ani.social/post/631237)|49|[Link](https://ani.social/post/1815509)
+37|[Link](https://ani.social/post/692130)|50|[Link](https://ani.social/post/1924507)
+38|[Link](https://ani.social/post/754971)
+39|[Link](https://ani.social/post/822823)
+40|[Link](https://ani.social/post/961847)
+41|[Link](https://ani.social/post/1037029)
+42|[Link](https://ani.social/post/1114191)
+43|[Link](https://ani.social/post/1199063)
+44|[Link](https://ani.social/post/1288017)
+45|[Link](https://ani.social/post/1371952)
+46|[Link](https://ani.social/post/1456353)
+47|[Link](https://ani.social/post/1620853)
+48|[Link](https://ani.social/post/1717386)
 {.dense}
