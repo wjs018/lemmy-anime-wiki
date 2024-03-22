@@ -2,7 +2,7 @@
 title: Winter 2024 Discussion Thread Index
 description: All the episode discussion threads for Winter 2024 shows
 published: true
-date: 2024-03-21T17:31:46.696Z
+date: 2024-03-22T03:04:28.066Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-21T04:49:08.258Z
@@ -37,6 +37,7 @@ Below, you can find an index of all the discussion threads for shows from the Wi
 | 9 | [/c/dungeonmeshi](https://ani.social/post/2407194) |
 | 10 | [/c/dungeonmeshi](https://ani.social/post/2521771) |
 | 11 | [/c/dungeonmeshi](https://ani.social/post/2627403) |
+| 12 | [/c/dungeonmeshi](https://ani.social/post/2747194) |
 {.dense}
 
 ## Chiyu Mahou no Machigatta Tsukaikata • The Wrong Way to Use Healing Magic
