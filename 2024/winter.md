@@ -2,7 +2,7 @@
 title: Winter 2024 Discussion Thread Index
 description: All the episode discussion threads for Winter 2024 shows
 published: true
-date: 2024-03-23T03:53:14.094Z
+date: 2024-03-23T03:55:27.534Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-21T04:49:08.258Z
@@ -44,12 +44,13 @@ Below, you can find an index of all the discussion threads for shows from the Wi
 
 | Episode | Community Link(s) | Episode | Community Link(s) |
 |:-:|:-:|:-:|:-:|
-| 1 | [Link](https://ani.social/post/1654139) | 7 | [Link](https://ani.social/post/2217323) |
-| 2 | [Link](https://ani.social/post/1703160) | 8 | [Link](https://ani.social/post/2320369) |
-| 3 | [Link](https://ani.social/post/1804287) | 9 | [Link](https://ani.social/post/2427534) |
-| 4 | [Link](https://ani.social/post/1911331) | 10 | [Link](https://ani.social/post/2545735) |
-| 5 | [Link](https://ani.social/post/2015343) | 11 | [Link](https://ani.social/post/2648468) |
-| 6 | [Link](https://ani.social/post/2115344) | 12 | [Link](https://ani.social/post/2767596) |
+| 1 | [Link](https://ani.social/post/1654139) | 8 | [Link](https://ani.social/post/2320369) |
+| 2 | [Link](https://ani.social/post/1703160) | 9 | [Link](https://ani.social/post/2427534) |
+| 3 | [Link](https://ani.social/post/1804287) | 10 | [Link](https://ani.social/post/2545735) |
+| 4 | [Link](https://ani.social/post/1911331) | 11 | [Link](https://ani.social/post/2648468) |
+| 5 | [Link](https://ani.social/post/2015343) | 12 | [Link](https://ani.social/post/2767596) |
+| 6 | [Link](https://ani.social/post/2115344) | | |
+| 7 | [Link](https://ani.social/post/2217323) | | |
 {.dense}
 
 ## Sokushi Cheat ga Saikyou Sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga. • My Instant Death Ability is Overpowered
