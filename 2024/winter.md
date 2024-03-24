@@ -2,7 +2,7 @@
 title: Winter 2024 Discussion Thread Index
 description: All the episode discussion threads for Winter 2024 shows
 published: true
-date: 2024-03-23T03:55:27.534Z
+date: 2024-03-24T12:58:05.058Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-21T04:49:08.258Z
@@ -209,7 +209,7 @@ Below, you can find an index of all the discussion threads for shows from the Wi
 | 2 | [Link](https://ani.social/post/1732871) | 8 | [Link](https://ani.social/post/2441974) |
 | 3 | [Link](https://ani.social/post/1816626) | 9 | [Link](https://ani.social/post/2558012) |
 | 4 | [Link](https://ani.social/post/1926282) | 10 | [Link](https://ani.social/post/2666341) |
-| 5 | [Link](https://ani.social/post/2029796) | | |
+| 5 | [Link](https://ani.social/post/2029796) | 11 | [Link](https://ani.social/post/2783532) |
 | 6 | [Link](https://ani.social/post/2131196) | | |
 | 7 | [Link](https://ani.social/post/2228975) | | |
 {.dense}
@@ -267,9 +267,9 @@ Below, you can find an index of all the discussion threads for shows from the Wi
 
 ## Ninja Kamui
 
-| Episode | Community Link(s) |
-|:-:|:-:|
-| 1 | [Link](https://ani.social/post/2187776) |
+| Episode | Community Link(s) | Episode | Community Link(s) |
+|:-:|:-:|:-:|:-:|
+| 1 | [Link](https://ani.social/post/2187776) | 7 | [Link](https://ani.social/post/2783531) |
 | 2 | [Link](https://ani.social/post/2274101) |
 | 3 | [Link](https://ani.social/post/2364953) |
 | 4 | [Link](https://ani.social/post/2465332) |
@@ -291,4 +291,5 @@ Below, you can find an index of all the discussion threads for shows from the Wi
 | Episode | Community Link(s) |
 |:-:|:-:|
 | 10 | [Link](https://ani.social/post/2670702) |
+| 11 | [Link](https://ani.social/post/2783476) |
 {.dense}
