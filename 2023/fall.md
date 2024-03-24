@@ -2,7 +2,7 @@
 title: Fall 2023 Discussion Thread Index
 description: All the episode discussion threads for Fall 2023 shows
 published: true
-date: 2024-03-23T02:26:27.753Z
+date: 2024-03-24T13:03:08.421Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-21T13:34:13.035Z
@@ -43,7 +43,7 @@ Episode|Link|Episode|Link
 8|[Link](https://ani.social/post/1111149)|21|[Link](https://ani.social/post/2437503)
 9|[Link](https://ani.social/post/1196053)|22|[Link](https://ani.social/post/2550607)
 10|[Link](https://ani.social/post/1284677)|23|[Link](https://ani.social/post/2660506)
-11|[Link](https://ani.social/post/1367897)
+11|[Link](https://ani.social/post/1367897)|24|[Link](https://ani.social/post/2776025)
 12|[Link](https://ani.social/post/1456206)
 13|[Link](https://ani.social/post/1617743)
 {.dense}
@@ -61,7 +61,7 @@ Episode|Link|Episode|Link
 8|[Link](https://ani.social/post/1040751)|21|[Link](https://ani.social/post/2446338)
 9|[Link](https://ani.social/post/1117804)|22|[Link](https://ani.social/post/2559463)
 10|[Link](https://ani.social/post/1202094)|23|[Link](https://ani.social/post/2672827)
-11|[Link](https://ani.social/post/1291073)
+11|[Link](https://ani.social/post/1291073)|24|[Link](https://ani.social/post/2785067)
 12|[Link](https://ani.social/post/1375828)
 13|[Link](https://ani.social/post/1460967)
 14|[Link](https://ani.social/post/1624617)
