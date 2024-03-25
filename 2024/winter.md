@@ -2,7 +2,7 @@
 title: Winter 2024 Discussion Thread Index
 description: All the episode discussion threads for Winter 2024 shows
 published: true
-date: 2024-03-25T01:43:00.549Z
+date: 2024-03-25T14:36:19.515Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-21T04:49:08.258Z
@@ -236,6 +236,7 @@ Below, you can find an index of all the discussion threads for shows from the Wi
 | 9 | [Link](https://ani.social/post/2480553) | | |
 | 10 | [Link](https://ani.social/post/2587370) | | |
 | 11 | [Link](https://ani.social/post/2694940) | | |
+| 12 | [Link](https://ani.social/post/2804902) | | |
 {.dense}
 
 ## Yuuki Bakuhatsu Bang Bravern • Brave Bang Bravern!
