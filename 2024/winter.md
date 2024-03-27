@@ -2,7 +2,7 @@
 title: Winter 2024 Discussion Thread Index
 description: All the episode discussion threads for Winter 2024 shows
 published: true
-date: 2024-03-25T16:03:19.496Z
+date: 2024-03-27T02:07:57.414Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-21T04:49:08.258Z
@@ -155,7 +155,7 @@ Below, you can find an index of all the discussion threads for shows from the Wi
 | 3 | [Link](https://ani.social/post/1857533) | 9 | [Link](https://ani.social/post/2489238) |
 | 4 | [Link](https://ani.social/post/1966279) | 10 | [Link](https://ani.social/post/2595786) |
 | 5 | [Link](https://ani.social/post/2067520) | 11 | [Link](https://ani.social/post/2715994) |
-| 6 | [Link](https://ani.social/post/2172194) | | |
+| 6 | [Link](https://ani.social/post/2172194) | 12 | [Link](https://ani.social/post/2829078) |
 {.dense}
 
 ## Majo to Yajuu • The Witch and the Beast
