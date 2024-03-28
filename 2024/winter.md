@@ -2,7 +2,7 @@
 title: Winter 2024 Discussion Thread Index
 description: All the episode discussion threads for Winter 2024 shows
 published: true
-date: 2024-03-27T16:44:08.373Z
+date: 2024-03-28T01:52:02.297Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-21T04:49:08.258Z
@@ -185,7 +185,7 @@ Below, you can find an index of all the discussion threads for shows from the Wi
 | 2 | [Link](https://ani.social/post/1774024) | 9 | [Link](https://ani.social/post/2510810) |
 | 3 | [Link](https://ani.social/post/1876257) | 10 | [Link](https://ani.social/post/2616859) |
 | 4 | [Link](https://ani.social/post/1986421) | 11 | [Link](https://ani.social/post/2729729) |
-| 5 | [Link](https://ani.social/post/2087650) | | |
+| 5 | [Link](https://ani.social/post/2087650) | 12 | [Link](https://ani.social/post/2844960) |
 | 6 | [Link](https://ani.social/post/2186929) | | |
 | 7 | [Link](https://ani.social/post/2287392) | | |
 {.dense}
