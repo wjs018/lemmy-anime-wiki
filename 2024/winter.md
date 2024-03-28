@@ -2,7 +2,7 @@
 title: Winter 2024 Discussion Thread Index
 description: All the episode discussion threads for Winter 2024 shows
 published: true
-date: 2024-03-28T04:43:45.069Z
+date: 2024-03-28T05:13:34.002Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-21T04:49:08.258Z
@@ -284,7 +284,7 @@ Below, you can find an index of all the discussion threads for shows from the Wi
 |:-:|:-:|:-:|:-:|
 | 7 | [Link](https://ani.social/post/2288465) | 10 | [Link](https://ani.social/post/2618816) |
 | 8 | [Link](https://ani.social/post/2401890) | 11 | [Link](https://ani.social/post/2735625) |
-| 9 | [Link](https://ani.social/post/2511090) | | |
+| 9 | [Link](https://ani.social/post/2511090) | 12 | [Link](https://ani.social/post/2846467) |
 {.dense}
 
 ## Mashle: Magic and Muscles Season 2
