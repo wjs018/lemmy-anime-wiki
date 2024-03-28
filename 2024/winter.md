@@ -2,7 +2,7 @@
 title: Winter 2024 Discussion Thread Index
 description: All the episode discussion threads for Winter 2024 shows
 published: true
-date: 2024-03-28T01:52:02.297Z
+date: 2024-03-28T04:43:45.069Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-21T04:49:08.258Z
@@ -199,7 +199,7 @@ Below, you can find an index of all the discussion threads for shows from the Wi
 | 4 | [Link](https://ani.social/post/1878856) | 10 | [Link](https://ani.social/post/2511353) |
 | 5 | [Link](https://ani.social/post/1986199) | 11 | [Link](https://ani.social/post/2618847) |
 | 6 | [Link](https://ani.social/post/2087708) | 12 | [Link](https://ani.social/post/2735627) |
-| 7 | [Link](https://ani.social/post/2208022) | | |
+| 7 | [Link](https://ani.social/post/2208022) | 13 | [Link](https://ani.social/post/2846462) |
 {.dense}
 
 ## Ore dake Level Up na Ken • Solo Leveling
