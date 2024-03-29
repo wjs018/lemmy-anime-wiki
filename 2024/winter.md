@@ -2,7 +2,7 @@
 title: Winter 2024 Discussion Thread Index
 description: All the episode discussion threads for Winter 2024 shows
 published: true
-date: 2024-03-29T01:17:26.860Z
+date: 2024-03-29T03:35:33.533Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-21T04:49:08.258Z
@@ -248,7 +248,7 @@ Below, you can find an index of all the discussion threads for shows from the Wi
 | 3 | [Link](https://ani.social/post/1897636) | 9 | [Link](https://ani.social/post/2526009) |
 | 4 | [Link](https://ani.social/post/2002266) | 10 | [Link](https://ani.social/post/2633997) |
 | 5 | [Link](https://ani.social/post/2101199) | 11 | [Link](https://ani.social/post/2767169) |
-| 6 | [Link](https://ani.social/post/2202136) | | |
+| 6 | [Link](https://ani.social/post/2202136) | 12 | [Link](https://ani.social/post/2859987) |
 {.dense}
 
 ## Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou sareru • The Strongest Tank's Labyrinth Raids: A Tank with a Rare 9999 Resistance Skill Got Kicked from the Hero's Party
