@@ -2,13 +2,13 @@
 title: Episode Discussion Thread Index
 description: A collection of all the episode discussion threads from the community.
 published: true
-date: 2024-03-30T15:43:53.935Z
+date: 2024-03-30T15:44:24.024Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-21T04:46:16.316Z
 ---
 
-Please use the links below to find the discussion threads that you are looking for. Shows would be listed by the season of their start date. So, shows that run for multiple seasons, check the season during which episode 1 first aired.
+Please use the links below to find the discussion threads that you are looking for. Shows would be listed by the season of their start date. So, shows that run across multiple seasons, check the season during which episode 1 first aired.
 
 ## 2024
 
