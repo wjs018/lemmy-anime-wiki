@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-01T15:27:52.841Z
+date: 2024-04-01T18:56:48.595Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -43,4 +43,18 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/2921692)
+{.dense}
+
+## Ookami to Koushinryou: merchant meets the wise wolf • Spice and Wolf: merchant meets the wise wolf
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/2923188)
+{.dense}
+
+## Dekisokonai to Yobareta Moto Eiyuu wa, Jikka kara Tsuihou Sareta node Suki Katte ni Ikiru Koto ni Shita • The Banished Former Hero Lives as He Pleases
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/2923379)
 {.dense}
