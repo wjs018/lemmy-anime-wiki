@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-03-30T15:21:53.991Z
+date: 2024-04-01T15:27:52.841Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -29,4 +29,18 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/2883696)
+{.dense}
+
+## Shuumatsu Train Doko e Iku? • Train to the End of the World
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/2918364)
+{.dense}
+
+## Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu • I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/2921692)
 {.dense}
