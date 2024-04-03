@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-03T01:28:44.467Z
+date: 2024-04-03T17:31:53.135Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -22,6 +22,7 @@ Episode|Link
 6|[Link](https://ani.social/post/2744300)
 7|[Link](https://ani.social/post/2744300)
 8|[Link](https://ani.social/post/2832232)
+9|[Link](https://ani.social/post/2950184)
 {.dense}
 
 ## One Room, Hi Atari Futsuu, Tenshi Tsuki. • Studio Apartment, Good Lighting, Angel Included
@@ -71,4 +72,11 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/2946486)
+{.dense}
+
+## Bartender: Kami no Glass • BARTENDER Glass of God
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/2954644)
 {.dense}
