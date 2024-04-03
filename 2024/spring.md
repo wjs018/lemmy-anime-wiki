@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-01T18:56:48.595Z
+date: 2024-04-03T01:28:44.467Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -57,4 +57,18 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/2923379)
+{.dense}
+
+## Re:Monster
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/2946381)
+{.dense}
+
+## Kami wa Game ni Ueteiru. • Gods' Games We Play
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/2946486)
 {.dense}
