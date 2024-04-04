@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-03T18:35:34.486Z
+date: 2024-04-04T15:54:23.330Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -80,4 +80,32 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/2954644)
+{.dense}
+
+## Yuru Camp△ SEASON 3 • Laid-Back Camp Season 3
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/2968749)
+{.dense}
+
+## Hananoi-kun to Koi no Yamai • A Condition Called Love
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/2969677)
+{.dense}
+
+## Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii? • An Archdemon's Dilemma: How to Love Your Elf Bride
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/2969678)
+{.dense}
+
+## WIND BREAKER
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/2970200)
 {.dense}
