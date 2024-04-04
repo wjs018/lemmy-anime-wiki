@@ -2,7 +2,7 @@
 title: General Discussion Threads Index
 description: A collection of all the general discussion threads from the community.
 published: true
-date: 2024-04-04T16:50:43.831Z
+date: 2024-04-04T17:32:43.502Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-04T16:32:54.623Z
@@ -14,7 +14,7 @@ Please use the links below to browse the weekly general discussion threads. When
 
 | Week | Link | Notes |
 |---|---|---|
-| 1 | [Link](https://ani.social/post/1552654) | Winter Anime Season Kickoff |
+| 1 | [Link](https://ani.social/post/1552654) | Winter Season Kickoff |
 | 2 | [Link](https://ani.social/post/1638011) | |
 | 3 | [Link](https://ani.social/post/1735803) | |
 | 4 | [Link](https://ani.social/post/1836263) | |
