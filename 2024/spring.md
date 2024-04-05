@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-05T13:33:27.629Z
+date: 2024-04-05T14:54:51.797Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -129,4 +129,18 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/2982834)
+{.dense}
+
+## Tensei Shitara Slime Datta Ken 3rd Season • That Time I Got Reincarnated as a Slime Season 3
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/2983371)
+{.dense}
+
+## Mahouka Koukou no Rettousei 3rd Season • The Irregular at Magic High School Season 3
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/2983674)
 {.dense}
