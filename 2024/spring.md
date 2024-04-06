@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-06T16:23:54.930Z
+date: 2024-04-06T16:43:01.426Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -172,4 +172,11 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/2999657)
+{.dense}
+
+## The Fable
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/2999656)
 {.dense}
