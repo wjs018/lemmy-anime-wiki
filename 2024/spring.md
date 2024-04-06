@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-06T01:02:49.961Z
+date: 2024-04-06T14:36:12.197Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -30,6 +30,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/2883696)
+2|[Link](https://ani.social/post/2997707)
 {.dense}
 
 ## Shuumatsu Train Doko e Iku? • Train to the End of the World
