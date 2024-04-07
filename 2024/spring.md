@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-07T14:02:29.119Z
+date: 2024-04-07T14:04:17.883Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -200,4 +200,11 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/3012511)
+{.dense}
+
+## Yozakura-san Chi no Daisakusen • Mission: Yozakura Family
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/3012512)
 {.dense}
