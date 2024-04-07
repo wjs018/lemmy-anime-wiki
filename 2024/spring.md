@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-07T15:04:39.793Z
+date: 2024-04-07T15:15:53.790Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -228,4 +228,11 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/3016236)
+{.dense}
+
+## Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2 • Mushoku Tensei: Jobless Reincarnation Season 2 Part 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/3016694)
 {.dense}
