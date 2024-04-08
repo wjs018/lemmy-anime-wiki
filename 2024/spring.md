@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-07T16:41:07.430Z
+date: 2024-04-08T13:42:45.930Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -38,6 +38,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/2918364)
+2|[Link](https://ani.social/post/3033743)
 {.dense}
 
 ## Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu • I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability
@@ -75,6 +76,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/2946486)
+2|[Link](https://ani.social/post/3034383)
 {.dense}
 
 ## Bartender: Kami no Glass • BARTENDER Glass of God
