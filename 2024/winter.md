@@ -2,7 +2,7 @@
 title: Winter 2024 Discussion Thread Index
 description: All the episode discussion threads for Winter 2024 shows
 published: true
-date: 2024-04-07T13:27:09.066Z
+date: 2024-04-08T15:04:03.445Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-21T04:49:08.258Z
@@ -224,19 +224,21 @@ Below, you can find an index of all the discussion threads for shows from the Wi
 
 ## Tsuki ga Michibiku Isekai Douchuu Season 2 • Tsukimichi -Moonlit Fantasy- Season 2
 
-| Episode | Community Link(s) | Episode | Community Link(s) |
-|:-:|:-:|:-:|:-:|
-| 2 | [Link](https://ani.social/post/1750687) | 13 | [Link](https://ani.social/post/2921236) |
-| 3 | [Link](https://ani.social/post/1847228) | | |
-| 4 | [Link](https://ani.social/post/1956462) | | |
-| 5 | [Link](https://ani.social/post/2053581) | | |
-| 6 | [Link](https://ani.social/post/2152953) | | |
-| 7 | [Link](https://ani.social/post/2260408) | | |
-| 8 | [Link](https://ani.social/post/2364974) | | |
-| 9 | [Link](https://ani.social/post/2480553) | | |
-| 10 | [Link](https://ani.social/post/2587370) | | |
-| 11 | [Link](https://ani.social/post/2694940) | | |
-| 12 | [Link](https://ani.social/post/2804902) | | |
+Episode|Community Link(s)
+:-:|:-:
+2|[Link](https://ani.social/post/1750687)
+3|[Link](https://ani.social/post/1847228)
+4|[Link](https://ani.social/post/1956462)
+5|[Link](https://ani.social/post/2053581)
+6|[Link](https://ani.social/post/2152953)
+7|[Link](https://ani.social/post/2260408)
+8|[Link](https://ani.social/post/2364974)
+9|[Link](https://ani.social/post/2480553)
+10|[Link](https://ani.social/post/2587370)
+11|[Link](https://ani.social/post/2694940)
+12|[Link](https://ani.social/post/2804902)
+13|[Link](https://ani.social/post/2921236)
+14|[Link](https://ani.social/post/3035874)
 {.dense}
 
 ## Yuuki Bakuhatsu Bang Bravern • Brave Bang Bravern!
