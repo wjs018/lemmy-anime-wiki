@@ -2,7 +2,7 @@
 title: Bot User Guide
 description: Your guide to rikka, the anime community discussion thread bot.
 published: true
-date: 2024-03-17T05:48:01.674Z
+date: 2024-04-10T20:04:35.378Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-17T04:44:34.849Z
@@ -82,7 +82,7 @@ One of the things that rikka cannot do is post a silly/interesting screenshot fr
 
 To help alleviate this, I am going to try to do my best to help participants of a discussion thread add a lead image to the post. If you have a screenshot from the episode that you would like to see as the lead image for the post, here is what you will need to do:
 
-1. Make a comment in the discussion thread in which you @mention rikka. The format to do this properly so that I can see it in the web-ui is `[rikka@ani.social](https://ani.social/u/rikka)`
+1. Make a comment in the discussion thread in which you @mention rikka. The format to do this properly so that I can see it in the web-ui is `[@rikka@ani.social](https://ani.social/u/rikka)`
 2. In that comment, embed an image, either uploaded to lemmy when making the comment, or a direct link to an image on an external hoster (imgur, etc.).
 
 I will try to regularly check the mentions portion of rikka's inbox to catch these. However, as it is being done manually, I can't promise I will always be able to respond timely or at all. Additionally, please ensure that the images you have chosen are appropriate (SFW, spoiler-free) to post to the community/instance.
