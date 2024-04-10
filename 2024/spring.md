@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-10T15:42:54.065Z
+date: 2024-04-10T16:01:55.941Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -84,9 +84,11 @@ Episode|Link
 
 ## Bartender: Kami no Glass • BARTENDER Glass of God
 
+
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/2954644)
+2|[Link](https://ani.social/post/3074047)
 {.dense}
 
 ## Yuru Camp△ SEASON 3 • Laid-Back Camp Season 3
