@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-10T13:39:11.990Z
+date: 2024-04-10T15:42:54.065Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -298,4 +298,18 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/3071865)
+{.dense}
+
+## Kono Subarashii Sekai ni Shukufuku wo! 3 • KONOSUBA -God's Blessing on This Wonderful World! 3
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/3073738)
+{.dense}
+
+## Date A Live V
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/3073739)
 {.dense}
