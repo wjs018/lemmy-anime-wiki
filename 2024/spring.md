@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-10T16:01:55.941Z
+date: 2024-04-10T17:01:24.472Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -83,7 +83,6 @@ Episode|Link
 {.dense}
 
 ## Bartender: Kami no Glass • BARTENDER Glass of God
-
 
 Episode|Link
 :-:|:-:
@@ -314,4 +313,11 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/3073739)
+{.dense}
+
+## Kenka Dokugaku • Viral Hit
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/3074046)
 {.dense}
