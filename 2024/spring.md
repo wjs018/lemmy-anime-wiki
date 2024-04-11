@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-11T16:12:11.793Z
+date: 2024-04-11T16:43:02.113Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -119,6 +119,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/2970200)
+2|[Link](https://ani.social/post/3094334)
 {.dense}
 
 ## Henjin no Salad Bowl • A Salad Bowl of Eccentrics
