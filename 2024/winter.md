@@ -2,7 +2,7 @@
 title: Winter 2024 Discussion Thread Index
 description: All the episode discussion threads for Winter 2024 shows
 published: true
-date: 2024-04-08T15:04:03.445Z
+date: 2024-04-11T17:47:07.479Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-21T04:49:08.258Z
@@ -28,7 +28,7 @@ Below, you can find an index of all the discussion threads for shows from the Wi
 |:-:|:-:|:-:|:-:|
 | 1 | [/c/dungeonmeshi](https://ani.social/post/1615143) | 13 | [/c/dungeonmeshi](https://ani.social/post/2858086) |
 | 2 | [/c/anime](https://ani.social/post/1689038), [/c/dungeonmeshi](https://ani.social/post/1694757) | 14 | [/c/dungeonmeshi](https://ani.social/post/2972791) |
-| 3 | [/c/anime](https://ani.social/post/1782556), [/c/dungeonmeshi](https://ani.social/post/1780995) |
+| 3 | [/c/anime](https://ani.social/post/1782556), [/c/dungeonmeshi](https://ani.social/post/1780995) | 15 | [/c/dungeonmeshi](https://ani.social/post/3094178) |
 | 4 | [/c/anime](https://ani.social/post/1895375), [/c/dungeonmeshi](https://ani.social/post/1893963) |
 | 5 | [/c/dungeonmeshi](https://ani.social/post/1997152) |
 | 6 | [/c/dungeonmeshi](https://ani.social/post/2095391) |
