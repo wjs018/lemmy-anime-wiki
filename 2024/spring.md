@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-13T15:03:09.193Z
+date: 2024-04-13T17:48:43.726Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -192,6 +192,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/2999657)
+2|[Link](https://ani.social/post/3125571)
 {.dense}
 
 ## The Fable
@@ -199,6 +200,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/2999656)
+2|[Link](https://ani.social/post/3125570)
 {.dense}
 
 ## Tonari no Youkai-san • Tonari no Yokai-san
@@ -353,4 +355,18 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/3123171)
+{.dense}
+
+## THE NEW GATE
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/3125120)
+{.dense}
+
+## Sasayaku You ni Koi wo Utau • Whisper Me a Love Song
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/3125121)
 {.dense}
