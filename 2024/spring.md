@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-12T18:15:20.067Z
+date: 2024-04-13T02:52:46.237Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -184,6 +184,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/2991696)
+2|[Link](https://ani.social/post/3116706)
 {.dense}
 
 ## Yoru no Kurage wa Oyogenai • Jellyfish Can’t Swim in the Night
