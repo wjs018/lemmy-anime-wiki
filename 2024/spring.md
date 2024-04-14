@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-14T10:16:06.107Z
+date: 2024-04-14T15:52:52.242Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -240,6 +240,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/3015022)
+2|[Link](https://ani.social/post/3139382)
 {.dense}
 
 ## Tensei Kizoku, Kantei Skill de Nariagaru • As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World
@@ -247,6 +248,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/3015685)
+2|[Link](https://ani.social/post/3139379)
 {.dense}
 
 ## Blue Archive The Animation
@@ -254,6 +256,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/3016236)
+2|[Link](https://ani.social/post/3139554)
 {.dense}
 
 ## Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2 • Mushoku Tensei: Jobless Reincarnation Season 2 Part 2
@@ -296,6 +299,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/3063696)
+2|[Link](https://ani.social/post/3139381)
 {.dense}
 
 ## Tadaima, Okaeri
