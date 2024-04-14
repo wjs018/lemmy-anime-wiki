@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-14T15:52:52.242Z
+date: 2024-04-14T16:37:42.328Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -264,6 +264,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/3016694)
+2|[Link](https://ani.social/post/3139973)
 {.dense}
 
 ## Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life • Chillin' in Another World with Level 2 Super Cheat Powers
