@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-14T10:15:03.144Z
+date: 2024-04-14T10:16:06.107Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -232,6 +232,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/3012512)
+2|[Link](https://ani.social/post/3134838)
 {.dense}
 
 ## Jii-san Baa-san Wakagaeru • Grandpa and Grandma Turn Young Again
