@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-15T13:52:41.720Z
+date: 2024-04-15T15:06:59.116Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -274,6 +274,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/3034718)
+2|[Link](https://ani.social/post/3153293)
 {.dense}
 
 ## Boukyaku Battery (TV) • Oblivion Battery
