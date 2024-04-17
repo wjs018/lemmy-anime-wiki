@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-17T13:05:32.888Z
+date: 2024-04-17T14:46:18.704Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -329,11 +329,12 @@ Episode|Link
 2|[Link](https://ani.social/post/3181965)
 {.dense}
 
-## Kaii to Otome to Kamikakushi
+## Kaii to Otome to Kamikakushi • Mysterious Disappearances
 
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/3071865)
+2|[Link](https://ani.social/post/3182996)
 {.dense}
 
 ## Kono Subarashii Sekai ni Shukufuku wo! 3 • KONOSUBA -God's Blessing on This Wonderful World! 3
