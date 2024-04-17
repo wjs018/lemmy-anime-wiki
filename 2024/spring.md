@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-16T17:55:30.213Z
+date: 2024-04-17T13:05:32.888Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -326,6 +326,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/3071052)
+2|[Link](https://ani.social/post/3181965)
 {.dense}
 
 ## Kaii to Otome to Kamikakushi
