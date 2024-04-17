@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-17T15:02:17.165Z
+date: 2024-04-17T17:13:22.656Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -94,6 +94,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/2954644)
 2|[Link](https://ani.social/post/3074047)
+3|[Link](https://ani.social/post/3183975)
 {.dense}
 
 ## Yuru Camp△ SEASON 3 • Laid-Back Camp Season 3
