@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-18T15:09:41.232Z
+date: 2024-04-18T17:03:10.018Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -121,6 +121,7 @@ Episode|Link
 1|[Link](https://ani.social/post/2969678)
 2|[Link](https://ani.social/post/3093378)
 3|[Link](https://ani.social/post/3094722)
+4|[Link](https://ani.social/post/3201703)
 {.dense}
 
 ## WIND BREAKER
@@ -129,6 +130,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/2970200)
 2|[Link](https://ani.social/post/3094334)
+3|[Link](https://ani.social/post/3201142)
 {.dense}
 
 ## Henjin no Salad Bowl • A Salad Bowl of Eccentrics
