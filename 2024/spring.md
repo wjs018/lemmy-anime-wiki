@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-18T17:33:17.115Z
+date: 2024-04-19T14:28:07.187Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -371,6 +371,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/3106787)
+2|[Link](https://ani.social/post/3215061)
 {.dense}
 
 ## Kaijuu 8-gou • Kaiju No.8
