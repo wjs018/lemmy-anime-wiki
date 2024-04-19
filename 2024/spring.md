@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-19T17:15:44.434Z
+date: 2024-04-19T18:02:42.167Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -191,6 +191,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/2991643)
 2|[Link](https://ani.social/post/3111220)
+3|[Link](https://ani.social/post/3217848)
 {.dense}
 
 ## Ooi! Tonbo • Tonbo!
