@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-20T16:36:17.994Z
+date: 2024-04-20T17:02:03.433Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -217,6 +217,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/2999656)
 2|[Link](https://ani.social/post/3125570)
+3|[Link](https://ani.social/post/3232723)
 {.dense}
 
 ## Tonari no Youkai-san • Tonari no Yokai-san
