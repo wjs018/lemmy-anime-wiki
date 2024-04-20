@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-20T17:02:55.822Z
+date: 2024-04-20T21:06:58.120Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -401,6 +401,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/3125120)
+2|[Link](https://ani.social/post/3233050)
 {.dense}
 
 ## Sasayaku You ni Koi wo Utau • Whisper Me a Love Song
