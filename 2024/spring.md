@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-20T21:07:40.154Z
+date: 2024-04-20T21:08:25.031Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -227,6 +227,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/3000932)
 2|[Link](https://ani.social/post/3126373)
+3|[Link](https://ani.social/post/3233516)
 {.dense}
 
 ## Sentai Daishikkaku • GO! GO! Loser Ranger!
