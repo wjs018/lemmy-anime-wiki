@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-21T16:50:57.695Z
+date: 2024-04-21T16:51:16.983Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -263,6 +263,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/3015022)
 2|[Link](https://ani.social/post/3139382)
+3|[Link](https://ani.social/post/3246863)
 {.dense}
 
 ## Tensei Kizoku, Kantei Skill de Nariagaru • As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World
