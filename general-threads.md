@@ -2,7 +2,7 @@
 title: General Discussion Threads Index
 description: A collection of all the general discussion threads from the community.
 published: true
-date: 2024-04-08T11:35:42.968Z
+date: 2024-04-22T12:38:51.512Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-04T16:32:54.623Z
@@ -29,6 +29,8 @@ Please use the links below to browse the weekly general discussion threads. When
 | 13 | [Link](https://ani.social/post/2802530) | Winter Season Wrap-up |
 | 14 | [Link](https://ani.social/post/2914810) | Spring Season Kickoff |
 | 15 | [Link](https://ani.social/post/3033007) | |
+| 16 | [Link](https://ani.social/post/3148170) | |
+| 17 | [Link](https://ani.social/post/3260044) | |
 {.dense}
 
 ## 2023
