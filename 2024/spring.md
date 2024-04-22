@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-22T13:26:10.113Z
+date: 2024-04-22T14:01:37.644Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -87,6 +87,7 @@ Episode|Link
 1|[Link](https://ani.social/post/2946486)
 2|[Link](https://ani.social/post/3034383)
 3|[Link](https://ani.social/post/3152579)
+4|[Link](https://ani.social/post/3260785)
 {.dense}
 
 ## Bartender: Kami no Glass • BARTENDER Glass of God
