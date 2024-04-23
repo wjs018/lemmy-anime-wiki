@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-23T16:05:28.020Z
+date: 2024-04-23T18:26:53.858Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -50,6 +50,7 @@ Episode|Link
 1|[Link](https://ani.social/post/2921692)
 2|[Link](https://ani.social/post/3037147)
 3|[Link](https://ani.social/post/3154762)
+4|[Link](https://ani.social/post/3280325)
 {.dense}
 
 ## Ookami to Koushinryou: merchant meets the wise wolf • Spice and Wolf: merchant meets the wise wolf
