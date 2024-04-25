@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-25T16:48:27.862Z
+date: 2024-04-25T17:36:50.614Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -148,6 +148,7 @@ Episode|Link
 1|[Link](https://ani.social/post/2971322)
 2|[Link](https://ani.social/post/3095052)
 3|[Link](https://ani.social/post/3202275)
+4|[Link](https://ani.social/post/3311215)
 {.dense}
 
 ## Touken Ranbu Kai: Kyoden Moyuru Honnouji
