@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-26T14:41:39.198Z
+date: 2024-04-26T15:06:01.712Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -176,6 +176,7 @@ Episode|Link
 1|[Link](https://ani.social/post/2983371)
 2|[Link](https://ani.social/post/3108264)
 3|[Link](https://ani.social/post/3215556)
+4|[Link](https://ani.social/post/3326125)
 {.dense}
 
 ## Mahouka Koukou no Rettousei 3rd Season • The Irregular at Magic High School Season 3
