@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-27T03:00:31.145Z
+date: 2024-04-28T01:24:36.898Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -224,6 +224,7 @@ Episode|Link
 1|[Link](https://ani.social/post/2999657)
 2|[Link](https://ani.social/post/3125571)
 3|[Link](https://ani.social/post/3232724)
+4|[Link](https://ani.social/post/3342773)
 {.dense}
 
 ## The Fable
@@ -233,6 +234,7 @@ Episode|Link
 1|[Link](https://ani.social/post/2999656)
 2|[Link](https://ani.social/post/3125570)
 3|[Link](https://ani.social/post/3232723)
+4|[Link](https://ani.social/post/3342772)
 {.dense}
 
 ## Tonari no Youkai-san • Tonari no Yokai-san
@@ -242,6 +244,7 @@ Episode|Link
 1|[Link](https://ani.social/post/3000932)
 2|[Link](https://ani.social/post/3126373)
 3|[Link](https://ani.social/post/3233516)
+4|[Link](https://ani.social/post/3343281)
 {.dense}
 
 ## Sentai Daishikkaku • GO! GO! Loser Ranger!
@@ -417,6 +420,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/3122791)
 2|[Link](https://ani.social/post/3231357)
+3|[Link](https://ani.social/post/3341125)
 {.dense}
 
 ## Kuroshitsuji: Kishuku Gakkou-hen • Black Butler: Public School Arc
@@ -432,6 +436,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/3125120)
 2|[Link](https://ani.social/post/3233050)
+3|[Link](https://ani.social/post/3342953)
 {.dense}
 
 ## Sasayaku You ni Koi wo Utau • Whisper Me a Love Song
@@ -440,6 +445,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/3125121)
 2|[Link](https://ani.social/post/3233051)
+3|[Link](https://ani.social/post/3342954)
 {.dense}
 
 ## Jongtama Kan!! • Mahjong Soul KAN!!
