@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-28T01:24:36.898Z
+date: 2024-04-28T12:47:43.077Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -254,6 +254,7 @@ Episode|Link
 1|[Link](https://ani.social/post/3012253)
 2|[Link](https://ani.social/post/3134655)
 3|[Link](https://ani.social/post/3242827)
+4|[Link](https://ani.social/post/3352527)
 {.dense}
 
 ## Hibike! Euphonium 3 • Sound! Euphonium Season 3
@@ -263,6 +264,7 @@ Episode|Link
 1|[Link](https://ani.social/post/3012511)
 2|[Link](https://ani.social/post/3134837)
 3|[Link](https://ani.social/post/3242946)
+4|[Link](https://ani.social/post/3352741)
 {.dense}
 
 ## Yozakura-san Chi no Daisakusen • Mission: Yozakura Family
