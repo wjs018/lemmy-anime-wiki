@@ -2,13 +2,279 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-29T13:03:52.582Z
+date: 2024-04-29T13:38:18.155Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
 ---
 
 Below, you can find an index of all the discussion threads for shows from the Spring 2024 anime season. Not every episode of every show may have a discussion thread. To more easily find the show you are looking for, use the navigation menu for this page or use Ctrl+F.
+
+## Astro Note
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/2982834)
+2|[Link](https://ani.social/post/3107739)
+3|[Link](https://ani.social/post/3215448)
+4|[Link](https://ani.social/post/3325790)
+{.dense}
+
+## Bartender: Kami no Glass • BARTENDER Glass of God
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/2954644)
+2|[Link](https://ani.social/post/3074047)
+3|[Link](https://ani.social/post/3183975)
+4|[Link](https://ani.social/post/3293263)
+{.dense}
+
+## Boukyaku Battery (TV) • Oblivion Battery
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/3058389)
+2|[Link](https://ani.social/post/3169479)
+3|[Link](https://ani.social/post/3278416)
+{.dense}
+
+## Blue Archive The Animation
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/3016236)
+2|[Link](https://ani.social/post/3139554)
+{.dense}
+
+## Date A Live V
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/3073739)
+2|[Link](https://ani.social/post/3182997)
+3|[Link](https://ani.social/post/3331903)
+{.dense}
+
+## Dekisokonai to Yobareta Moto Eiyuu wa, Jikka kara Tsuihou Sareta node Suki Katte ni Ikiru Koto ni Shita • The Banished Former Hero Lives as He Pleases
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/2923379)
+2|[Link](https://ani.social/post/2923379)
+3|[Link](https://ani.social/post/3038667)
+4|[Link](https://ani.social/post/3156804)
+{.dense}
+
+## Girls Band Cry
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/2984969)
+2|[Link](https://ani.social/post/3109678)
+3|[Link](https://ani.social/post/3216821)
+4|[Link](https://ani.social/post/3327135)
+{.dense}
+
+## Hananoi-kun to Koi no Yamai • A Condition Called Love
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/2969677)
+2|[Link](https://ani.social/post/3093808)
+{.dense}
+
+## Henjin no Salad Bowl • A Salad Bowl of Eccentrics
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/2971322)
+2|[Link](https://ani.social/post/3095052)
+3|[Link](https://ani.social/post/3202275)
+4|[Link](https://ani.social/post/3311215)
+{.dense}
+
+## Hibike! Euphonium 3 • Sound! Euphonium Season 3
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/3012511)
+2|[Link](https://ani.social/post/3134837)
+3|[Link](https://ani.social/post/3242946)
+4|[Link](https://ani.social/post/3352741)
+{.dense}
+
+## HIGHSPEED Étoile
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/2991643)
+2|[Link](https://ani.social/post/3111220)
+3|[Link](https://ani.social/post/3217848)
+4|[Link](https://ani.social/post/3328376)
+{.dense}
+
+## Jii-san Baa-san Wakagaeru • Grandpa and Grandma Turn Young Again
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/3015022)
+2|[Link](https://ani.social/post/3139382)
+3|[Link](https://ani.social/post/3246863)
+4|[Link](https://ani.social/post/3356868)
+{.dense}
+
+## Jongtama Kan!! • Mahjong Soul KAN!!
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/3307470)
+{.dense}
+
+## Kaii to Otome to Kamikakushi • Mysterious Disappearances
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/3071865)
+2|[Link](https://ani.social/post/3182996)
+{.dense}
+
+## Kaijuu 8-gou • Kaiju No.8
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/3122791)
+2|[Link](https://ani.social/post/3231357)
+3|[Link](https://ani.social/post/3341125)
+{.dense}
+
+## Kami wa Game ni Ueteiru. • Gods' Games We Play
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/2946486)
+2|[Link](https://ani.social/post/3034383)
+3|[Link](https://ani.social/post/3152579)
+4|[Link](https://ani.social/post/3260785)
+{.dense}
+
+## Kenka Dokugaku • Viral Hit
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/3074046)
+2|[Link](https://ani.social/post/3185537)
+3|[Link](https://ani.social/post/3294442)
+{.dense}
+
+## Kono Subarashii Sekai ni Shukufuku wo! 3 • KONOSUBA -God's Blessing on This Wonderful World! 3
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/3073738)
+2|[Link](https://ani.social/post/3183231)
+3|[Link](https://ani.social/post/3292607)
+{.dense}
+
+## Kuroshitsuji: Kishuku Gakkou-hen • Black Butler: Public School Arc
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/3123171)
+{.dense}
+
+## Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life • Chillin' in Another World with Level 2 Super Cheat Powers
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/3034718)
+2|[Link](https://ani.social/post/3153293)
+3|[Link](https://ani.social/post/3261722)
+{.dense}
+
+## Mahouka Koukou no Rettousei 3rd Season • The Irregular at Magic High School Season 3
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/2983674)
+2|[Link](https://ani.social/post/3108696)
+{.dense}
+
+## Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2 • The Misfit of Demon King Academy II (Cour 2)
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/3106787)
+2|[Link](https://ani.social/post/3215061)
+3|[Link](https://ani.social/post/3325258)
+{.dense}
+
+## Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii? • An Archdemon's Dilemma: How to Love Your Elf Bride
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/2969678)
+2|[Link](https://ani.social/post/3093378)
+3|[Link](https://ani.social/post/3094722)
+4|[Link](https://ani.social/post/3201703)
+{.dense}
+
+## Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2 • Mushoku Tensei: Jobless Reincarnation Season 2 Part 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/3016694)
+2|[Link](https://ani.social/post/3139973)
+3|[Link](https://ani.social/post/3247221)
+4|[Link](https://ani.social/post/3357190)
+{.dense}
+
+## One Room, Hi Atari Futsuu, Tenshi Tsuki. • Studio Apartment, Good Lighting, Angel Included
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/2883696)
+2|[Link](https://ani.social/post/2997707)
+{.dense}
+
+## Ooi! Tonbo • Tonbo!
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/2991696)
+2|[Link](https://ani.social/post/3116706)
+3|[Link](https://ani.social/post/3224557)
+4|[Link](https://ani.social/post/3334543)
+{.dense}
+
+## Ookami to Koushinryou: merchant meets the wise wolf • Spice and Wolf: merchant meets the wise wolf
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/2923188)
+2|[Link](https://ani.social/post/3038383)
+3|[Link](https://ani.social/post/3156124)
+4|[Link](https://ani.social/post/3263504)
+{.dense}
+
+## Re:Monster
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/2946381)
+2|[Link](https://ani.social/post/3017943)
+3|[Link](https://ani.social/post/3154763)
+4|[Link](https://ani.social/post/3262520)
+{.dense}
+
+## Rinkai!
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/3058395)
+2|[Link](https://ani.social/post/3168844)
+3|[Link](https://ani.social/post/3278093)
+{.dense}
 
 ## SAND LAND: THE SERIES
 
@@ -25,12 +291,31 @@ Episode|Link
 9|[Link](https://ani.social/post/2950184)
 {.dense}
 
-## One Room, Hi Atari Futsuu, Tenshi Tsuki. • Studio Apartment, Good Lighting, Angel Included
+## Sasayaku You ni Koi wo Utau • Whisper Me a Love Song
 
 Episode|Link
 :-:|:-:
-1|[Link](https://ani.social/post/2883696)
-2|[Link](https://ani.social/post/2997707)
+1|[Link](https://ani.social/post/3125121)
+2|[Link](https://ani.social/post/3233051)
+3|[Link](https://ani.social/post/3342954)
+{.dense}
+
+## Seiyuu Radio no Uraomote • The Many Sides of Voice Actor Radio
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/3071052)
+2|[Link](https://ani.social/post/3181965)
+{.dense}
+
+## Sentai Daishikkaku • GO! GO! Loser Ranger!
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/3012253)
+2|[Link](https://ani.social/post/3134655)
+3|[Link](https://ani.social/post/3242827)
+4|[Link](https://ani.social/post/3352527)
 {.dense}
 
 ## Shuumatsu Train Doko e Iku? • Train to the End of the World
@@ -44,247 +329,12 @@ Episode|Link
 5|[Link](https://ani.social/post/3371373)
 {.dense}
 
-## Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu • I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability
+## Tadaima, Okaeri
 
 Episode|Link
 :-:|:-:
-1|[Link](https://ani.social/post/2921692)
-2|[Link](https://ani.social/post/3037147)
-3|[Link](https://ani.social/post/3154762)
-4|[Link](https://ani.social/post/3280325)
-{.dense}
-
-## Ookami to Koushinryou: merchant meets the wise wolf • Spice and Wolf: merchant meets the wise wolf
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/2923188)
-2|[Link](https://ani.social/post/3038383)
-3|[Link](https://ani.social/post/3156124)
-4|[Link](https://ani.social/post/3263504)
-{.dense}
-
-## Dekisokonai to Yobareta Moto Eiyuu wa, Jikka kara Tsuihou Sareta node Suki Katte ni Ikiru Koto ni Shita • The Banished Former Hero Lives as He Pleases
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/2923379)
-2|[Link](https://ani.social/post/2923379)
-3|[Link](https://ani.social/post/3038667)
-4|[Link](https://ani.social/post/3156804)
-{.dense}
-
-## Re:Monster
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/2946381)
-2|[Link](https://ani.social/post/3017943)
-3|[Link](https://ani.social/post/3154763)
-4|[Link](https://ani.social/post/3262520)
-{.dense}
-
-## Kami wa Game ni Ueteiru. • Gods' Games We Play
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/2946486)
-2|[Link](https://ani.social/post/3034383)
-3|[Link](https://ani.social/post/3152579)
-4|[Link](https://ani.social/post/3260785)
-{.dense}
-
-## Bartender: Kami no Glass • BARTENDER Glass of God
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/2954644)
-2|[Link](https://ani.social/post/3074047)
-3|[Link](https://ani.social/post/3183975)
-4|[Link](https://ani.social/post/3293263)
-{.dense}
-
-## Yuru Camp△ SEASON 3 • Laid-Back Camp Season 3
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/2968749)
-2|[Link](https://ani.social/post/3092790)
-3|[Link](https://ani.social/post/3200190)
-4|[Link](https://ani.social/post/3309295)
-{.dense}
-
-## Hananoi-kun to Koi no Yamai • A Condition Called Love
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/2969677)
-2|[Link](https://ani.social/post/3093808)
-{.dense}
-
-## Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii? • An Archdemon's Dilemma: How to Love Your Elf Bride
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/2969678)
-2|[Link](https://ani.social/post/3093378)
-3|[Link](https://ani.social/post/3094722)
-4|[Link](https://ani.social/post/3201703)
-{.dense}
-
-## WIND BREAKER
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/2970200)
-2|[Link](https://ani.social/post/3094334)
-3|[Link](https://ani.social/post/3201142)
-4|[Link](https://ani.social/post/3310343)
-{.dense}
-
-## Henjin no Salad Bowl • A Salad Bowl of Eccentrics
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/2971322)
-2|[Link](https://ani.social/post/3095052)
-3|[Link](https://ani.social/post/3202275)
-4|[Link](https://ani.social/post/3311215)
-{.dense}
-
-## Touken Ranbu Kai: Kyoden Moyuru Honnouji
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/2979240)
-2|[Link](https://ani.social/post/3058396)
-{.dense}
-
-## Astro Note
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/2982834)
-2|[Link](https://ani.social/post/3107739)
-3|[Link](https://ani.social/post/3215448)
-4|[Link](https://ani.social/post/3325790)
-{.dense}
-
-## Tensei Shitara Slime Datta Ken 3rd Season • That Time I Got Reincarnated as a Slime Season 3
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/2983371)
-2|[Link](https://ani.social/post/3108264)
-3|[Link](https://ani.social/post/3215556)
-4|[Link](https://ani.social/post/3326125)
-{.dense}
-
-## Mahouka Koukou no Rettousei 3rd Season • The Irregular at Magic High School Season 3
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/2983674)
-2|[Link](https://ani.social/post/3108696)
-{.dense}
-
-## Girls Band Cry
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/2984969)
-2|[Link](https://ani.social/post/3109678)
-3|[Link](https://ani.social/post/3216821)
-4|[Link](https://ani.social/post/3327135)
-{.dense}
-
-## HIGHSPEED Étoile
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/2991643)
-2|[Link](https://ani.social/post/3111220)
-3|[Link](https://ani.social/post/3217848)
-4|[Link](https://ani.social/post/3328376)
-{.dense}
-
-## Ooi! Tonbo • Tonbo!
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/2991696)
-2|[Link](https://ani.social/post/3116706)
-3|[Link](https://ani.social/post/3224557)
-4|[Link](https://ani.social/post/3334543)
-{.dense}
-
-## Yoru no Kurage wa Oyogenai • Jellyfish Can’t Swim in the Night
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/2999657)
-2|[Link](https://ani.social/post/3125571)
-3|[Link](https://ani.social/post/3232724)
-4|[Link](https://ani.social/post/3342773)
-{.dense}
-
-## The Fable
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/2999656)
-2|[Link](https://ani.social/post/3125570)
-3|[Link](https://ani.social/post/3232723)
-4|[Link](https://ani.social/post/3342772)
-{.dense}
-
-## Tonari no Youkai-san • Tonari no Yokai-san
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/3000932)
-2|[Link](https://ani.social/post/3126373)
-3|[Link](https://ani.social/post/3233516)
-4|[Link](https://ani.social/post/3343281)
-{.dense}
-
-## Sentai Daishikkaku • GO! GO! Loser Ranger!
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/3012253)
-2|[Link](https://ani.social/post/3134655)
-3|[Link](https://ani.social/post/3242827)
-4|[Link](https://ani.social/post/3352527)
-{.dense}
-
-## Hibike! Euphonium 3 • Sound! Euphonium Season 3
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/3012511)
-2|[Link](https://ani.social/post/3134837)
-3|[Link](https://ani.social/post/3242946)
-4|[Link](https://ani.social/post/3352741)
-{.dense}
-
-## Yozakura-san Chi no Daisakusen • Mission: Yozakura Family
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/3012512)
-2|[Link](https://ani.social/post/3134838)
-3|[Link](https://ani.social/post/3242947)
-{.dense}
-
-## Jii-san Baa-san Wakagaeru • Grandpa and Grandma Turn Young Again
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/3015022)
-2|[Link](https://ani.social/post/3139382)
-3|[Link](https://ani.social/post/3246863)
-4|[Link](https://ani.social/post/3356868)
+1|[Link](https://ani.social/post/3065572)
+2|[Link](https://ani.social/post/3155102)
 {.dense}
 
 ## Tensei Kizoku, Kantei Skill de Nariagaru • As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World
@@ -297,143 +347,34 @@ Episode|Link
 4|[Link](https://ani.social/post/3356867)
 {.dense}
 
-## Blue Archive The Animation
+## Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu • I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability
 
 Episode|Link
 :-:|:-:
-1|[Link](https://ani.social/post/3016236)
-2|[Link](https://ani.social/post/3139554)
+1|[Link](https://ani.social/post/2921692)
+2|[Link](https://ani.social/post/3037147)
+3|[Link](https://ani.social/post/3154762)
+4|[Link](https://ani.social/post/3280325)
 {.dense}
 
-## Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2 • Mushoku Tensei: Jobless Reincarnation Season 2 Part 2
+## Tensei Shitara Slime Datta Ken 3rd Season • That Time I Got Reincarnated as a Slime Season 3
 
 Episode|Link
 :-:|:-:
-1|[Link](https://ani.social/post/3016694)
-2|[Link](https://ani.social/post/3139973)
-3|[Link](https://ani.social/post/3247221)
-4|[Link](https://ani.social/post/3357190)
+1|[Link](https://ani.social/post/2983371)
+2|[Link](https://ani.social/post/3108264)
+3|[Link](https://ani.social/post/3215556)
+4|[Link](https://ani.social/post/3326125)
 {.dense}
 
-## Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life • Chillin' in Another World with Level 2 Super Cheat Powers
+## The Fable
 
 Episode|Link
 :-:|:-:
-1|[Link](https://ani.social/post/3034718)
-2|[Link](https://ani.social/post/3153293)
-3|[Link](https://ani.social/post/3261722)
-{.dense}
-
-## Boukyaku Battery (TV) • Oblivion Battery
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/3058389)
-2|[Link](https://ani.social/post/3169479)
-3|[Link](https://ani.social/post/3278416)
-{.dense}
-
-## Unnamed Memory
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/3058394)
-2|[Link](https://ani.social/post/3168843)
-3|[Link](https://ani.social/post/3278092)
-{.dense}
-
-## Rinkai!
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/3058395)
-2|[Link](https://ani.social/post/3168844)
-3|[Link](https://ani.social/post/3278093)
-{.dense}
-
-## Vampire Dormitory
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/3063696)
-2|[Link](https://ani.social/post/3139381)
-3|[Link](https://ani.social/post/3246832)
-{.dense}
-
-## Tadaima, Okaeri
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/3065572)
-2|[Link](https://ani.social/post/3155102)
-{.dense}
-
-## Seiyuu Radio no Uraomote • The Many Sides of Voice Actor Radio
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/3071052)
-2|[Link](https://ani.social/post/3181965)
-{.dense}
-
-## Kaii to Otome to Kamikakushi • Mysterious Disappearances
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/3071865)
-2|[Link](https://ani.social/post/3182996)
-{.dense}
-
-## Kono Subarashii Sekai ni Shukufuku wo! 3 • KONOSUBA -God's Blessing on This Wonderful World! 3
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/3073738)
-2|[Link](https://ani.social/post/3183231)
-3|[Link](https://ani.social/post/3292607)
-{.dense}
-
-## Date A Live V
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/3073739)
-2|[Link](https://ani.social/post/3182997)
-3|[Link](https://ani.social/post/3331903)
-{.dense}
-
-## Kenka Dokugaku • Viral Hit
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/3074046)
-2|[Link](https://ani.social/post/3185537)
-3|[Link](https://ani.social/post/3294442)
-{.dense}
-
-## Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2 • The Misfit of Demon King Academy II (Cour 2)
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/3106787)
-2|[Link](https://ani.social/post/3215061)
-3|[Link](https://ani.social/post/3325258)
-{.dense}
-
-## Kaijuu 8-gou • Kaiju No.8
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/3122791)
-2|[Link](https://ani.social/post/3231357)
-3|[Link](https://ani.social/post/3341125)
-{.dense}
-
-## Kuroshitsuji: Kishuku Gakkou-hen • Black Butler: Public School Arc
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/3123171)
+1|[Link](https://ani.social/post/2999656)
+2|[Link](https://ani.social/post/3125570)
+3|[Link](https://ani.social/post/3232723)
+4|[Link](https://ani.social/post/3342772)
 {.dense}
 
 ## THE NEW GATE
@@ -445,18 +386,77 @@ Episode|Link
 3|[Link](https://ani.social/post/3342953)
 {.dense}
 
-## Sasayaku You ni Koi wo Utau • Whisper Me a Love Song
+## Tonari no Youkai-san • Tonari no Yokai-san
 
 Episode|Link
 :-:|:-:
-1|[Link](https://ani.social/post/3125121)
-2|[Link](https://ani.social/post/3233051)
-3|[Link](https://ani.social/post/3342954)
+1|[Link](https://ani.social/post/3000932)
+2|[Link](https://ani.social/post/3126373)
+3|[Link](https://ani.social/post/3233516)
+4|[Link](https://ani.social/post/3343281)
 {.dense}
 
-## Jongtama Kan!! • Mahjong Soul KAN!!
+## Touken Ranbu Kai: Kyoden Moyuru Honnouji
 
 Episode|Link
 :-:|:-:
-1|[Link](https://ani.social/post/3307470)
+1|[Link](https://ani.social/post/2979240)
+2|[Link](https://ani.social/post/3058396)
+{.dense}
+
+## Unnamed Memory
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/3058394)
+2|[Link](https://ani.social/post/3168843)
+3|[Link](https://ani.social/post/3278092)
+{.dense}
+
+## Vampire Dormitory
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/3063696)
+2|[Link](https://ani.social/post/3139381)
+3|[Link](https://ani.social/post/3246832)
+{.dense}
+
+## WIND BREAKER
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/2970200)
+2|[Link](https://ani.social/post/3094334)
+3|[Link](https://ani.social/post/3201142)
+4|[Link](https://ani.social/post/3310343)
+{.dense}
+
+## Yoru no Kurage wa Oyogenai • Jellyfish Can’t Swim in the Night
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/2999657)
+2|[Link](https://ani.social/post/3125571)
+3|[Link](https://ani.social/post/3232724)
+4|[Link](https://ani.social/post/3342773)
+{.dense}
+
+## Yozakura-san Chi no Daisakusen • Mission: Yozakura Family
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/3012512)
+2|[Link](https://ani.social/post/3134838)
+3|[Link](https://ani.social/post/3242947)
+{.dense}
+
+## Yuru Camp△ SEASON 3 • Laid-Back Camp Season 3
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/2968749)
+2|[Link](https://ani.social/post/3092790)
+3|[Link](https://ani.social/post/3200190)
+4|[Link](https://ani.social/post/3309295)
 {.dense}
