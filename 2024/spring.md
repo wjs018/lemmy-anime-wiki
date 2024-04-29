@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-28T12:47:43.077Z
+date: 2024-04-29T02:52:42.297Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -283,6 +283,7 @@ Episode|Link
 1|[Link](https://ani.social/post/3015022)
 2|[Link](https://ani.social/post/3139382)
 3|[Link](https://ani.social/post/3246863)
+4|[Link](https://ani.social/post/3356868)
 {.dense}
 
 ## Tensei Kizoku, Kantei Skill de Nariagaru • As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World
@@ -292,6 +293,7 @@ Episode|Link
 1|[Link](https://ani.social/post/3015685)
 2|[Link](https://ani.social/post/3139379)
 3|[Link](https://ani.social/post/3246761)
+4|[Link](https://ani.social/post/3356867)
 {.dense}
 
 ## Blue Archive The Animation
@@ -309,6 +311,7 @@ Episode|Link
 1|[Link](https://ani.social/post/3016694)
 2|[Link](https://ani.social/post/3139973)
 3|[Link](https://ani.social/post/3247221)
+4|[Link](https://ani.social/post/3357190)
 {.dense}
 
 ## Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life • Chillin' in Another World with Level 2 Super Cheat Powers
