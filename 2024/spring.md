@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-04-29T02:52:42.297Z
+date: 2024-04-29T13:03:52.582Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -41,6 +41,7 @@ Episode|Link
 2|[Link](https://ani.social/post/3033743)
 3|[Link](https://ani.social/post/3152329)
 4|[Link](https://ani.social/post/3260503)
+5|[Link](https://ani.social/post/3371373)
 {.dense}
 
 ## Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu • I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability
