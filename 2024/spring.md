@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-05-01T03:04:51.540Z
+date: 2024-05-01T15:03:21.036Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -54,6 +54,7 @@ Episode|Link
 1|[Link](https://ani.social/post/3073739)
 2|[Link](https://ani.social/post/3182997)
 3|[Link](https://ani.social/post/3331903)
+4|[Link](https://ani.social/post/3407519)
 {.dense}
 
 ## Dekisokonai to Yobareta Moto Eiyuu wa, Jikka kara Tsuihou Sareta node Suki Katte ni Ikiru Koto ni Shita • The Banished Former Hero Lives as He Pleases
@@ -137,6 +138,8 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/3071865)
 2|[Link](https://ani.social/post/3182996)
+3|[Link](https://ani.social/post/3292356)
+4|[Link](https://ani.social/post/3407468)
 {.dense}
 
 ## Kaijuu 8-gou • Kaiju No.8
@@ -175,6 +178,7 @@ Episode|Link
 1|[Link](https://ani.social/post/3073738)
 2|[Link](https://ani.social/post/3183231)
 3|[Link](https://ani.social/post/3292607)
+4|[Link](https://ani.social/post/3407993)
 {.dense}
 
 ## Kuroshitsuji: Kishuku Gakkou-hen • Black Butler: Public School Arc
