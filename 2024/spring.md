@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-05-02T14:05:52.104Z
+date: 2024-05-02T15:03:25.059Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -479,4 +479,5 @@ Episode|Link
 2|[Link](https://ani.social/post/3092790)
 3|[Link](https://ani.social/post/3200190)
 4|[Link](https://ani.social/post/3309295)
+5|[Link](https://ani.social/post/3423047)
 {.dense}
