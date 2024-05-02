@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-05-01T17:39:03.743Z
+date: 2024-05-02T12:39:22.064Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -337,6 +337,13 @@ Episode|Link
 3|[Link](https://ani.social/post/3152329)
 4|[Link](https://ani.social/post/3260503)
 5|[Link](https://ani.social/post/3371373)
+{.dense}
+
+## T・P Bon
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/3418551)
 {.dense}
 
 ## Tadaima, Okaeri
