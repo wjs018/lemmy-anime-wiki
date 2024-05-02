@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-05-02T12:39:22.064Z
+date: 2024-05-02T14:05:52.104Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -131,6 +131,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/3307470)
+2|[Link](https://ani.social/post/3422450)
 {.dense}
 
 ## Kaii to Otome to Kamikakushi • Mysterious Disappearances
