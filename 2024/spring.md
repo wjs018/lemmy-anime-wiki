@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-05-02T16:51:14.071Z
+date: 2024-05-02T17:48:23.277Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -94,6 +94,7 @@ Episode|Link
 2|[Link](https://ani.social/post/3095052)
 3|[Link](https://ani.social/post/3202275)
 4|[Link](https://ani.social/post/3311215)
+5|[Link](https://ani.social/post/3425010)
 {.dense}
 
 ## Hibike! Euphonium 3 • Sound! Euphonium Season 3
