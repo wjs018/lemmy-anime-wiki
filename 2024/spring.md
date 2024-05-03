@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-05-02T17:48:23.277Z
+date: 2024-05-03T18:07:27.579Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -18,6 +18,7 @@ Episode|Link
 2|[Link](https://ani.social/post/3107739)
 3|[Link](https://ani.social/post/3215448)
 4|[Link](https://ani.social/post/3325790)
+5|[Link](https://ani.social/post/3440268)
 {.dense}
 
 ## Bartender: Kami no Glass • BARTENDER Glass of God
@@ -115,6 +116,7 @@ Episode|Link
 2|[Link](https://ani.social/post/3111220)
 3|[Link](https://ani.social/post/3217848)
 4|[Link](https://ani.social/post/3328376)
+5|[Link](https://ani.social/post/3442801)
 {.dense}
 
 ## Jii-san Baa-san Wakagaeru • Grandpa and Grandma Turn Young Again
@@ -217,6 +219,7 @@ Episode|Link
 1|[Link](https://ani.social/post/3106787)
 2|[Link](https://ani.social/post/3215061)
 3|[Link](https://ani.social/post/3325258)
+4|[Link](https://ani.social/post/3440132)
 {.dense}
 
 ## Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii? • An Archdemon's Dilemma: How to Love Your Elf Bride
@@ -385,6 +388,7 @@ Episode|Link
 2|[Link](https://ani.social/post/3108264)
 3|[Link](https://ani.social/post/3215556)
 4|[Link](https://ani.social/post/3326125)
+5|[Link](https://ani.social/post/3440540)
 {.dense}
 
 ## The Fable
