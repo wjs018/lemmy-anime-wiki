@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-05-03T18:07:27.579Z
+date: 2024-05-04T14:12:32.441Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -30,6 +30,13 @@ Episode|Link
 3|[Link](https://ani.social/post/3183975)
 4|[Link](https://ani.social/post/3293263)
 5|[Link](https://ani.social/post/3408458)
+{.dense}
+
+## Boku no Hero Academia 7 • My Hero Academia Season 7
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/3455752)
 {.dense}
 
 ## Boukyaku Battery (TV) • Oblivion Battery
