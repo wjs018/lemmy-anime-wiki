@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-05-05T03:08:32.624Z
+date: 2024-05-05T17:49:14.369Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -113,6 +113,7 @@ Episode|Link
 2|[Link](https://ani.social/post/3134837)
 3|[Link](https://ani.social/post/3242946)
 4|[Link](https://ani.social/post/3352741)
+5|[Link](https://ani.social/post/3468542)
 {.dense}
 
 ## HIGHSPEED Étoile
@@ -134,6 +135,7 @@ Episode|Link
 2|[Link](https://ani.social/post/3139382)
 3|[Link](https://ani.social/post/3246863)
 4|[Link](https://ani.social/post/3356868)
+5|[Link](https://ani.social/post/3472642)
 {.dense}
 
 ## Jongtama Kan!! • Mahjong Soul KAN!!
@@ -248,6 +250,7 @@ Episode|Link
 2|[Link](https://ani.social/post/3139973)
 3|[Link](https://ani.social/post/3247221)
 4|[Link](https://ani.social/post/3357190)
+5|[Link](https://ani.social/post/3472891)
 {.dense}
 
 ## One Room, Hi Atari Futsuu, Tenshi Tsuki. • Studio Apartment, Good Lighting, Angel Included
@@ -375,6 +378,7 @@ Episode|Link
 2|[Link](https://ani.social/post/3139379)
 3|[Link](https://ani.social/post/3246761)
 4|[Link](https://ani.social/post/3356867)
+5|[Link](https://ani.social/post/3472641)
 {.dense}
 
 ## Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu • I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability
