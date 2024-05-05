@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-05-04T14:12:32.441Z
+date: 2024-05-05T03:08:32.624Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -161,6 +161,7 @@ Episode|Link
 1|[Link](https://ani.social/post/3122791)
 2|[Link](https://ani.social/post/3231357)
 3|[Link](https://ani.social/post/3341125)
+4|[Link](https://ani.social/post/3456332)
 {.dense}
 
 ## Kami wa Game ni Ueteiru. • Gods' Games We Play
@@ -406,6 +407,7 @@ Episode|Link
 2|[Link](https://ani.social/post/3125570)
 3|[Link](https://ani.social/post/3232723)
 4|[Link](https://ani.social/post/3342772)
+5|[Link](https://ani.social/post/3457907)
 {.dense}
 
 ## THE NEW GATE
@@ -415,6 +417,7 @@ Episode|Link
 1|[Link](https://ani.social/post/3125120)
 2|[Link](https://ani.social/post/3233050)
 3|[Link](https://ani.social/post/3342953)
+4|[Link](https://ani.social/post/3458064)
 {.dense}
 
 ## Tonari no Youkai-san • Tonari no Yokai-san
@@ -425,6 +428,7 @@ Episode|Link
 2|[Link](https://ani.social/post/3126373)
 3|[Link](https://ani.social/post/3233516)
 4|[Link](https://ani.social/post/3343281)
+5|[Link](https://ani.social/post/3458426)
 {.dense}
 
 ## Touken Ranbu Kai: Kyoden Moyuru Honnouji
@@ -473,6 +477,7 @@ Episode|Link
 2|[Link](https://ani.social/post/3125571)
 3|[Link](https://ani.social/post/3232724)
 4|[Link](https://ani.social/post/3342773)
+5|[Link](https://ani.social/post/3457909)
 {.dense}
 
 ## Yozakura-san Chi no Daisakusen • Mission: Yozakura Family
