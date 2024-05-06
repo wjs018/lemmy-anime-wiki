@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-05-05T17:49:14.369Z
+date: 2024-05-06T13:48:37.147Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -175,6 +175,7 @@ Episode|Link
 3|[Link](https://ani.social/post/3152579)
 4|[Link](https://ani.social/post/3260785)
 5|[Link](https://ani.social/post/3371769)
+6|[Link](https://ani.social/post/3485898)
 {.dense}
 
 ## Kenka Dokugaku • Viral Hit
@@ -353,6 +354,7 @@ Episode|Link
 3|[Link](https://ani.social/post/3152329)
 4|[Link](https://ani.social/post/3260503)
 5|[Link](https://ani.social/post/3371373)
+6|[Link](https://ani.social/post/3485714)
 {.dense}
 
 ## T・P Bon
