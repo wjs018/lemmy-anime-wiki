@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-05-06T15:53:30.907Z
+date: 2024-05-08T14:40:03.486Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -64,6 +64,7 @@ Episode|Link
 2|[Link](https://ani.social/post/3182997)
 3|[Link](https://ani.social/post/3331903)
 4|[Link](https://ani.social/post/3407519)
+5|[Link](https://ani.social/post/3518995)
 {.dense}
 
 ## Dekisokonai to Yobareta Moto Eiyuu wa, Jikka kara Tsuihou Sareta node Suki Katte ni Ikiru Koto ni Shita • The Banished Former Hero Lives as He Pleases
@@ -154,6 +155,7 @@ Episode|Link
 2|[Link](https://ani.social/post/3182996)
 3|[Link](https://ani.social/post/3292356)
 4|[Link](https://ani.social/post/3407468)
+5|[Link](https://ani.social/post/3518994)
 {.dense}
 
 ## Kaijuu 8-gou • Kaiju No.8
@@ -282,6 +284,7 @@ Episode|Link
 3|[Link](https://ani.social/post/3156124)
 4|[Link](https://ani.social/post/3263504)
 5|[Link](https://ani.social/post/3375386)
+6|[Link](https://ani.social/post/3488660)
 {.dense}
 
 ## Re:Monster
@@ -293,6 +296,7 @@ Episode|Link
 3|[Link](https://ani.social/post/3154763)
 4|[Link](https://ani.social/post/3262520)
 5|[Link](https://ani.social/post/3397923)
+6|[Link](https://ani.social/post/3487457)
 {.dense}
 
 ## Rinkai!
@@ -394,6 +398,7 @@ Episode|Link
 3|[Link](https://ani.social/post/3154762)
 4|[Link](https://ani.social/post/3280325)
 5|[Link](https://ani.social/post/3373841)
+6|[Link](https://ani.social/post/3487456)
 {.dense}
 
 ## Tensei Shitara Slime Datta Ken 3rd Season • That Time I Got Reincarnated as a Slime Season 3
