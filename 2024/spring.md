@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-05-08T14:40:03.486Z
+date: 2024-05-08T15:21:51.976Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -198,6 +198,7 @@ Episode|Link
 2|[Link](https://ani.social/post/3183231)
 3|[Link](https://ani.social/post/3292607)
 4|[Link](https://ani.social/post/3407993)
+5|[Link](https://ani.social/post/3519322)
 {.dense}
 
 ## Kuroshitsuji: Kishuku Gakkou-hen • Black Butler: Public School Arc
