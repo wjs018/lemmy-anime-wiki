@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-05-10T02:39:35.130Z
+date: 2024-05-11T10:10:43.327Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -238,6 +238,7 @@ Episode|Link
 2|[Link](https://ani.social/post/3215061)
 3|[Link](https://ani.social/post/3325258)
 4|[Link](https://ani.social/post/3440132)
+5|[Link](https://ani.social/post/3550996)
 {.dense}
 
 ## Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii? • An Archdemon's Dilemma: How to Love Your Elf Bride
@@ -414,6 +415,7 @@ Episode|Link
 3|[Link](https://ani.social/post/3215556)
 4|[Link](https://ani.social/post/3326125)
 5|[Link](https://ani.social/post/3440540)
+6|[Link](https://ani.social/post/3551661)
 {.dense}
 
 ## The Fable
