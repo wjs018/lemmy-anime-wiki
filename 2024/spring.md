@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-05-13T00:53:19.783Z
+date: 2024-05-13T00:55:41.576Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -117,6 +117,7 @@ Episode|Link
 3|[Link](https://ani.social/post/3242946)
 4|[Link](https://ani.social/post/3352741)
 5|[Link](https://ani.social/post/3468542)
+6|[Link](https://ani.social/post/3581203)
 {.dense}
 
 ## HIGHSPEED Étoile
@@ -192,6 +193,13 @@ Episode|Link
 3|[Link](https://ani.social/post/3294442)
 4|[Link](https://ani.social/post/3409460)
 5|[Link](https://ani.social/post/3520609)
+{.dense}
+
+## Kimetsu no Yaiba: Hashira Geiko-hen • Demon Slayer: Kimetsu no Yaiba Hashira Training Arc
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/3584164)
 {.dense}
 
 ## Kono Subarashii Sekai ni Shukufuku wo! 3 • KONOSUBA -God's Blessing on This Wonderful World! 3
@@ -354,6 +362,7 @@ Episode|Link
 2|[Link](https://ani.social/post/3134655)
 3|[Link](https://ani.social/post/3242827)
 4|[Link](https://ani.social/post/3352527)
+5|[Link](https://ani.social/post/3581141)
 {.dense}
 
 ## Shuumatsu Train Doko e Iku? • Train to the End of the World
@@ -393,6 +402,7 @@ Episode|Link
 3|[Link](https://ani.social/post/3246761)
 4|[Link](https://ani.social/post/3356867)
 5|[Link](https://ani.social/post/3472641)
+6|[Link](https://ani.social/post/3585145)
 {.dense}
 
 ## Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu • I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability
