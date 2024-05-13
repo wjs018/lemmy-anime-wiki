@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-05-13T00:55:41.576Z
+date: 2024-05-13T00:56:20.716Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -269,6 +269,7 @@ Episode|Link
 3|[Link](https://ani.social/post/3247221)
 4|[Link](https://ani.social/post/3357190)
 5|[Link](https://ani.social/post/3472891)
+6|[Link](https://ani.social/post/3585514)
 {.dense}
 
 ## One Room, Hi Atari Futsuu, Tenshi Tsuki. • Studio Apartment, Good Lighting, Angel Included
