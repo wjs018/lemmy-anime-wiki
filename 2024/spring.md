@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-05-13T00:56:20.716Z
+date: 2024-05-13T18:03:57.361Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -182,6 +182,7 @@ Episode|Link
 4|[Link](https://ani.social/post/3260785)
 5|[Link](https://ani.social/post/3371769)
 6|[Link](https://ani.social/post/3485898)
+7|[Link](https://ani.social/post/3600340)
 {.dense}
 
 ## Kenka Dokugaku • Viral Hit
@@ -229,6 +230,7 @@ Episode|Link
 3|[Link](https://ani.social/post/3261722)
 4|[Link](https://ani.social/post/3373092)
 5|[Link](https://ani.social/post/3487038)
+6|[Link](https://ani.social/post/3601508)
 {.dense}
 
 ## Mahouka Koukou no Rettousei 3rd Season • The Irregular at Magic High School Season 3
@@ -300,6 +302,7 @@ Episode|Link
 4|[Link](https://ani.social/post/3263504)
 5|[Link](https://ani.social/post/3375386)
 6|[Link](https://ani.social/post/3488660)
+7|[Link](https://ani.social/post/3603686)
 {.dense}
 
 ## Re:Monster
@@ -312,6 +315,7 @@ Episode|Link
 4|[Link](https://ani.social/post/3262520)
 5|[Link](https://ani.social/post/3397923)
 6|[Link](https://ani.social/post/3487457)
+7|[Link](https://ani.social/post/3602551)
 {.dense}
 
 ## Rinkai!
@@ -416,6 +420,7 @@ Episode|Link
 4|[Link](https://ani.social/post/3280325)
 5|[Link](https://ani.social/post/3373841)
 6|[Link](https://ani.social/post/3487456)
+7|[Link](https://ani.social/post/3602552)
 {.dense}
 
 ## Tensei Shitara Slime Datta Ken 3rd Season • That Time I Got Reincarnated as a Slime Season 3
