@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-05-15T13:06:52.963Z
+date: 2024-05-15T17:38:44.830Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -31,6 +31,7 @@ Episode|Link
 4|[Link](https://ani.social/post/3293263)
 5|[Link](https://ani.social/post/3408458)
 6|[Link](https://ani.social/post/3520022)
+7|[Link](https://ani.social/post/3636069)
 {.dense}
 
 ## Boku no Hero Academia 7 • My Hero Academia Season 7
@@ -66,6 +67,7 @@ Episode|Link
 3|[Link](https://ani.social/post/3331903)
 4|[Link](https://ani.social/post/3407519)
 5|[Link](https://ani.social/post/3518995)
+6|[Link](https://ani.social/post/3634672)
 {.dense}
 
 ## Dekisokonai to Yobareta Moto Eiyuu wa, Jikka kara Tsuihou Sareta node Suki Katte ni Ikiru Koto ni Shita • The Banished Former Hero Lives as He Pleases
@@ -194,6 +196,7 @@ Episode|Link
 3|[Link](https://ani.social/post/3294442)
 4|[Link](https://ani.social/post/3409460)
 5|[Link](https://ani.social/post/3520609)
+6|[Link](https://ani.social/post/3637126)
 {.dense}
 
 ## Kimetsu no Yaiba: Hashira Geiko-hen • Demon Slayer: Kimetsu no Yaiba Hashira Training Arc
@@ -212,6 +215,7 @@ Episode|Link
 3|[Link](https://ani.social/post/3292607)
 4|[Link](https://ani.social/post/3407993)
 5|[Link](https://ani.social/post/3519322)
+6|[Link](https://ani.social/post/3635062)
 {.dense}
 
 ## Kuroshitsuji: Kishuku Gakkou-hen • Black Butler: Public School Arc
