@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-05-20T01:48:47.244Z
+date: 2024-05-20T15:30:14.137Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -189,6 +189,7 @@ Episode|Link
 5|[Link](https://ani.social/post/3371769)
 6|[Link](https://ani.social/post/3485898)
 7|[Link](https://ani.social/post/3600340)
+8|[Link](https://ani.social/post/3719951)
 {.dense}
 
 ## Kenka Dokugaku • Viral Hit
@@ -240,6 +241,7 @@ Episode|Link
 4|[Link](https://ani.social/post/3373092)
 5|[Link](https://ani.social/post/3487038)
 6|[Link](https://ani.social/post/3601508)
+7|[Link](https://ani.social/post/3720840)
 {.dense}
 
 ## Mahouka Koukou no Rettousei 3rd Season • The Irregular at Magic High School Season 3
@@ -391,6 +393,7 @@ Episode|Link
 5|[Link](https://ani.social/post/3371373)
 6|[Link](https://ani.social/post/3485714)
 7|[Link](https://ani.social/post/3676585)
+8|[Link](https://ani.social/post/3719669)
 {.dense}
 
 ## T・P Bon
