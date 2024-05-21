@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-05-21T03:54:43.699Z
+date: 2024-05-21T14:34:52.636Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -438,6 +438,7 @@ Episode|Link
 5|[Link](https://ani.social/post/3373841)
 6|[Link](https://ani.social/post/3487456)
 7|[Link](https://ani.social/post/3602552)
+8|[Link](https://ani.social/post/3738972)
 {.dense}
 
 ## Tensei Shitara Slime Datta Ken 3rd Season • That Time I Got Reincarnated as a Slime Season 3
