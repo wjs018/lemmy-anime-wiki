@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-05-22T16:49:11.457Z
+date: 2024-05-22T17:50:07.370Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -204,6 +204,7 @@ Episode|Link
 4|[Link](https://ani.social/post/3409460)
 5|[Link](https://ani.social/post/3520609)
 6|[Link](https://ani.social/post/3637126)
+7|[Link](https://ani.social/post/3761475)
 {.dense}
 
 ## Kimetsu no Yaiba: Hashira Geiko-hen • Demon Slayer: Kimetsu no Yaiba Hashira Training Arc
