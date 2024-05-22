@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-05-21T14:34:52.636Z
+date: 2024-05-22T16:49:11.457Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -32,6 +32,7 @@ Episode|Link
 5|[Link](https://ani.social/post/3408458)
 6|[Link](https://ani.social/post/3520022)
 7|[Link](https://ani.social/post/3636069)
+8|[Link](https://ani.social/post/3760461)
 {.dense}
 
 ## Boku no Hero Academia 7 • My Hero Academia Season 7
@@ -68,6 +69,7 @@ Episode|Link
 4|[Link](https://ani.social/post/3407519)
 5|[Link](https://ani.social/post/3518995)
 6|[Link](https://ani.social/post/3634672)
+7|[Link](https://ani.social/post/3759045)
 {.dense}
 
 ## Dekisokonai to Yobareta Moto Eiyuu wa, Jikka kara Tsuihou Sareta node Suki Katte ni Ikiru Koto ni Shita • The Banished Former Hero Lives as He Pleases
@@ -222,6 +224,7 @@ Episode|Link
 4|[Link](https://ani.social/post/3407993)
 5|[Link](https://ani.social/post/3519322)
 6|[Link](https://ani.social/post/3635062)
+7|[Link](https://ani.social/post/3759455)
 {.dense}
 
 ## Kuroshitsuji: Kishuku Gakkou-hen • Black Butler: Public School Arc
@@ -509,6 +512,7 @@ Episode|Link
 3|[Link](https://ani.social/post/3278092)
 4|[Link](https://ani.social/post/3390966)
 6|[Link](https://ani.social/post/3623584)
+7|[Link](https://ani.social/post/3740386)
 {.dense}
 
 ## Vampire Dormitory
