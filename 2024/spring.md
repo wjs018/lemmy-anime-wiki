@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-05-23T15:14:08.958Z
+date: 2024-05-23T17:33:11.749Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -112,6 +112,7 @@ Episode|Link
 5|[Link](https://ani.social/post/3425010)
 6|[Link](https://ani.social/post/3536933)
 7|[Link](https://ani.social/post/3654183)
+8|[Link](https://ani.social/post/3779988)
 {.dense}
 
 ## Hibike! Euphonium 3 • Sound! Euphonium Season 3
@@ -536,6 +537,7 @@ Episode|Link
 5|[Link](https://ani.social/post/3424347)
 6|[Link](https://ani.social/post/3536013)
 7|[Link](https://ani.social/post/3652707)
+8|[Link](https://ani.social/post/3779270)
 {.dense}
 
 ## Yoru no Kurage wa Oyogenai • Jellyfish Can’t Swim in the Night
