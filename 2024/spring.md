@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-05-24T16:23:47.628Z
+date: 2024-05-24T16:33:01.011Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -91,6 +91,7 @@ Episode|Link
 3|[Link](https://ani.social/post/3216821)
 4|[Link](https://ani.social/post/3327135)
 7|[Link](https://ani.social/post/3710824)
+8|[Link](https://ani.social/post/3800480)
 {.dense}
 
 ## Hananoi-kun to Koi no Yamai • A Condition Called Love
