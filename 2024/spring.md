@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-05-26T00:32:51.318Z
+date: 2024-05-27T03:00:49.264Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -216,6 +216,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/3584164)
 2|[Link](https://ani.social/post/3701620)
+3|[Link](https://ani.social/post/3836796)
 {.dense}
 
 ## Kono Subarashii Sekai ni Shukufuku wo! 3 • KONOSUBA -God's Blessing on This Wonderful World! 3
@@ -290,6 +291,7 @@ Episode|Link
 4|[Link](https://ani.social/post/3357190)
 5|[Link](https://ani.social/post/3472891)
 6|[Link](https://ani.social/post/3585514)
+7|[Link](https://ani.social/post/3838066)
 {.dense}
 
 ## One Room, Hi Atari Futsuu, Tenshi Tsuki. • Studio Apartment, Good Lighting, Angel Included
@@ -432,6 +434,7 @@ Episode|Link
 5|[Link](https://ani.social/post/3472641)
 6|[Link](https://ani.social/post/3585145)
 7|[Link](https://ani.social/post/3702568)
+8|[Link](https://ani.social/post/3837735)
 {.dense}
 
 ## Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu • I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability
