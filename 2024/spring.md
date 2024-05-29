@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-05-27T15:30:36.461Z
+date: 2024-05-29T02:56:06.993Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -326,6 +326,7 @@ Episode|Link
 6|[Link](https://ani.social/post/3488660)
 7|[Link](https://ani.social/post/3603686)
 8|[Link](https://ani.social/post/3722854)
+9|[Link](https://ani.social/post/3856623)
 {.dense}
 
 ## Re:Monster
@@ -340,6 +341,7 @@ Episode|Link
 6|[Link](https://ani.social/post/3487457)
 7|[Link](https://ani.social/post/3602551)
 8|[Link](https://ani.social/post/3721537)
+9|[Link](https://ani.social/post/3855445)
 {.dense}
 
 ## Rinkai!
@@ -452,6 +454,7 @@ Episode|Link
 6|[Link](https://ani.social/post/3487456)
 7|[Link](https://ani.social/post/3602552)
 8|[Link](https://ani.social/post/3738972)
+9|[Link](https://ani.social/post/3855447)
 {.dense}
 
 ## Tensei Shitara Slime Datta Ken 3rd Season • That Time I Got Reincarnated as a Slime Season 3
@@ -527,6 +530,7 @@ Episode|Link
 4|[Link](https://ani.social/post/3390966)
 6|[Link](https://ani.social/post/3623584)
 7|[Link](https://ani.social/post/3740386)
+8|[Link](https://ani.social/post/3872201)
 {.dense}
 
 ## Vampire Dormitory
