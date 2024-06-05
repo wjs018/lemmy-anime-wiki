@@ -2,7 +2,7 @@
 title: Winter 2024 Discussion Thread Index
 description: All the episode discussion threads for Winter 2024 shows
 published: true
-date: 2024-05-30T19:23:18.661Z
+date: 2024-06-05T01:23:13.230Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-21T04:49:08.258Z
@@ -233,7 +233,7 @@ Episode|Link|Episode|Link
 6|[Link](https://ani.social/post/2152953)|19|[Link](https://ani.social/post/3601459)
 7|[Link](https://ani.social/post/2260408)|20|[Link](https://ani.social/post/3720838)
 8|[Link](https://ani.social/post/2364974)|21|[Link](https://ani.social/post/3854508)
-9|[Link](https://ani.social/post/2480553)
+9|[Link](https://ani.social/post/2480553)|22|[Link](https://ani.social/post/3976298)
 10|[Link](https://ani.social/post/2587370)
 11|[Link](https://ani.social/post/2694940)
 12|[Link](https://ani.social/post/2804902)
