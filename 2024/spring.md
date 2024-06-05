@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-05-30T19:24:44.356Z
+date: 2024-06-05T01:22:42.310Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -74,6 +74,13 @@ Episode|Link
 8|[Link](https://ani.social/post/3889660)
 {.dense}
 
+## Dead Dead Demon's Dededededestruction • DEAD DEAD DEMONS DEDEDEDE DESTRUCTION
+
+Episode|Link
+:-:|:-:
+2|[Link](https://ani.social/post/3949973)
+{.dense}
+
 ## Dekisokonai to Yobareta Moto Eiyuu wa, Jikka kara Tsuihou Sareta node Suki Katte ni Ikiru Koto ni Shita • The Banished Former Hero Lives as He Pleases
 
 Episode|Link
@@ -94,6 +101,7 @@ Episode|Link
 4|[Link](https://ani.social/post/3327135)
 7|[Link](https://ani.social/post/3710824)
 8|[Link](https://ani.social/post/3800480)
+9|[Link](https://ani.social/post/3924454)
 {.dense}
 
 ## Hananoi-kun to Koi no Yamai • A Condition Called Love
@@ -130,6 +138,8 @@ Episode|Link
 5|[Link](https://ani.social/post/3468542)
 6|[Link](https://ani.social/post/3581203)
 7|[Link](https://ani.social/post/3698543)
+8|[Link](https://ani.social/post/3832412)
+9|[Link](https://ani.social/post/3954471)
 {.dense}
 
 ## HIGHSPEED Étoile
@@ -184,6 +194,7 @@ Episode|Link
 5|[Link](https://ani.social/post/3569643)
 6|[Link](https://ani.social/post/3686073)
 7|[Link](https://ani.social/post/3819423)
+8|[Link](https://ani.social/post/3940982)
 {.dense}
 
 ## Kami wa Game ni Ueteiru. • Gods' Games We Play
@@ -199,6 +210,7 @@ Episode|Link
 7|[Link](https://ani.social/post/3600340)
 8|[Link](https://ani.social/post/3719951)
 9|[Link](https://ani.social/post/3853062)
+10|[Link](https://ani.social/post/3975225)
 {.dense}
 
 ## Kenka Dokugaku • Viral Hit
@@ -222,6 +234,7 @@ Episode|Link
 1|[Link](https://ani.social/post/3584164)
 2|[Link](https://ani.social/post/3701620)
 3|[Link](https://ani.social/post/3836796)
+4|[Link](https://ani.social/post/3958390)
 {.dense}
 
 ## Kono Subarashii Sekai ni Shukufuku wo! 3 • KONOSUBA -God's Blessing on This Wonderful World! 3
@@ -257,6 +270,7 @@ Episode|Link
 6|[Link](https://ani.social/post/3601508)
 7|[Link](https://ani.social/post/3720840)
 8|[Link](https://ani.social/post/3854557)
+9|[Link](https://ani.social/post/3976300)
 {.dense}
 
 ## Mahouka Koukou no Rettousei 3rd Season • The Irregular at Magic High School Season 3
@@ -299,6 +313,7 @@ Episode|Link
 5|[Link](https://ani.social/post/3472891)
 6|[Link](https://ani.social/post/3585514)
 7|[Link](https://ani.social/post/3838066)
+8|[Link](https://ani.social/post/3959424)
 {.dense}
 
 ## One Room, Hi Atari Futsuu, Tenshi Tsuki. • Studio Apartment, Good Lighting, Angel Included
@@ -332,6 +347,7 @@ Episode|Link
 7|[Link](https://ani.social/post/3603686)
 8|[Link](https://ani.social/post/3722854)
 9|[Link](https://ani.social/post/3856623)
+10|[Link](https://ani.social/post/3978172)
 {.dense}
 
 ## Re:Monster
@@ -347,6 +363,7 @@ Episode|Link
 7|[Link](https://ani.social/post/3602551)
 8|[Link](https://ani.social/post/3721537)
 9|[Link](https://ani.social/post/3855445)
+10|[Link](https://ani.social/post/3977037)
 {.dense}
 
 ## Rinkai!
@@ -400,6 +417,8 @@ Episode|Link
 4|[Link](https://ani.social/post/3352527)
 5|[Link](https://ani.social/post/3581141)
 6|[Link](https://ani.social/post/3698120)
+7|[Link](https://ani.social/post/3831964)
+8|[Link](https://ani.social/post/3954199)
 {.dense}
 
 ## Shuumatsu Train Doko e Iku? • Train to the End of the World
@@ -415,6 +434,7 @@ Episode|Link
 7|[Link](https://ani.social/post/3676585)
 8|[Link](https://ani.social/post/3719669)
 9|[Link](https://ani.social/post/3852777)
+10|[Link](https://ani.social/post/3974769)
 {.dense}
 
 ## T・P Bon
@@ -445,6 +465,7 @@ Episode|Link
 6|[Link](https://ani.social/post/3585145)
 7|[Link](https://ani.social/post/3702568)
 8|[Link](https://ani.social/post/3837735)
+9|[Link](https://ani.social/post/3959043)
 {.dense}
 
 ## Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu • I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability
@@ -460,6 +481,7 @@ Episode|Link
 7|[Link](https://ani.social/post/3602552)
 8|[Link](https://ani.social/post/3738972)
 9|[Link](https://ani.social/post/3855447)
+10|[Link](https://ani.social/post/3977039)
 {.dense}
 
 ## Tensei Shitara Slime Datta Ken 3rd Season • That Time I Got Reincarnated as a Slime Season 3
@@ -474,6 +496,7 @@ Episode|Link
 6|[Link](https://ani.social/post/3551661)
 7|[Link](https://ani.social/post/3669125)
 8|[Link](https://ani.social/post/3798491)
+9|[Link](https://ani.social/post/3922846)
 {.dense}
 
 ## The Fable
@@ -488,6 +511,7 @@ Episode|Link
 6|[Link](https://ani.social/post/3570832)
 7|[Link](https://ani.social/post/3688162)
 8|[Link](https://ani.social/post/3821350)
+9|[Link](https://ani.social/post/3942578)
 {.dense}
 
 ## THE NEW GATE
@@ -515,6 +539,7 @@ Episode|Link
 6|[Link](https://ani.social/post/3571294)
 7|[Link](https://ani.social/post/3688796)
 8|[Link](https://ani.social/post/3821926)
+9|[Link](https://ani.social/post/3943274)
 {.dense}
 
 ## Touken Ranbu Kai: Kyoden Moyuru Honnouji
@@ -536,6 +561,7 @@ Episode|Link
 6|[Link](https://ani.social/post/3623584)
 7|[Link](https://ani.social/post/3740386)
 8|[Link](https://ani.social/post/3872201)
+9|[Link](https://ani.social/post/3994161)
 {.dense}
 
 ## Vampire Dormitory
@@ -574,6 +600,7 @@ Episode|Link
 6|[Link](https://ani.social/post/3570833)
 7|[Link](https://ani.social/post/3688163)
 8|[Link](https://ani.social/post/3821351)
+9|[Link](https://ani.social/post/3942579)
 {.dense}
 
 ## Yozakura-san Chi no Daisakusen • Mission: Yozakura Family
