@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-06-07T03:54:35.431Z
+date: 2024-06-07T05:52:59.065Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -80,6 +80,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 2|[Link](https://ani.social/post/3949973)
+3|[Link](https://ani.social/post/4035595)
 {.dense}
 
 ## Dekisokonai to Yobareta Moto Eiyuu wa, Jikka kara Tsuihou Sareta node Suki Katte ni Ikiru Koto ni Shita • The Banished Former Hero Lives as He Pleases
