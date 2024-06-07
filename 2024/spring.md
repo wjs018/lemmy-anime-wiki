@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-06-05T01:22:42.310Z
+date: 2024-06-07T03:54:35.431Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -72,6 +72,7 @@ Episode|Link
 6|[Link](https://ani.social/post/3634672)
 7|[Link](https://ani.social/post/3759045)
 8|[Link](https://ani.social/post/3889660)
+9|[Link](https://ani.social/post/4010391)
 {.dense}
 
 ## Dead Dead Demon's Dededededestruction • DEAD DEAD DEMONS DEDEDEDE DESTRUCTION
@@ -125,6 +126,7 @@ Episode|Link
 7|[Link](https://ani.social/post/3654183)
 8|[Link](https://ani.social/post/3779988)
 9|[Link](https://ani.social/post/3907986)
+10|[Link](https://ani.social/post/4028771)
 {.dense}
 
 ## Hibike! Euphonium 3 • Sound! Euphonium Season 3
@@ -225,6 +227,7 @@ Episode|Link
 6|[Link](https://ani.social/post/3637126)
 7|[Link](https://ani.social/post/3761475)
 8|[Link](https://ani.social/post/3891194)
+9|[Link](https://ani.social/post/4012030)
 {.dense}
 
 ## Kimetsu no Yaiba: Hashira Geiko-hen • Demon Slayer: Kimetsu no Yaiba Hashira Training Arc
@@ -249,6 +252,7 @@ Episode|Link
 6|[Link](https://ani.social/post/3635062)
 7|[Link](https://ani.social/post/3759455)
 8|[Link](https://ani.social/post/3890015)
+9|[Link](https://ani.social/post/4010700)
 {.dense}
 
 ## Kuroshitsuji: Kishuku Gakkou-hen • Black Butler: Public School Arc
@@ -586,6 +590,7 @@ Episode|Link
 7|[Link](https://ani.social/post/3652707)
 8|[Link](https://ani.social/post/3779270)
 9|[Link](https://ani.social/post/3907294)
+10|[Link](https://ani.social/post/4028046)
 {.dense}
 
 ## Yoru no Kurage wa Oyogenai • Jellyfish Can’t Swim in the Night
@@ -625,4 +630,5 @@ Episode|Link
 7|[Link](https://ani.social/post/3651350)
 8|[Link](https://ani.social/post/3777703)
 9|[Link](https://ani.social/post/3906119)
+10|[Link](https://ani.social/post/4026871)
 {.dense}
