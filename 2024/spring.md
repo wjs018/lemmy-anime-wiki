@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-06-07T05:52:59.065Z
+date: 2024-06-11T14:28:35.028Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -104,6 +104,7 @@ Episode|Link
 7|[Link](https://ani.social/post/3710824)
 8|[Link](https://ani.social/post/3800480)
 9|[Link](https://ani.social/post/3924454)
+10|[Link](https://ani.social/post/4044484)
 {.dense}
 
 ## Hananoi-kun to Koi no Yamai • A Condition Called Love
@@ -198,6 +199,7 @@ Episode|Link
 6|[Link](https://ani.social/post/3686073)
 7|[Link](https://ani.social/post/3819423)
 8|[Link](https://ani.social/post/3940982)
+9|[Link](https://ani.social/post/4062023)
 {.dense}
 
 ## Kami wa Game ni Ueteiru. • Gods' Games We Play
@@ -502,6 +504,7 @@ Episode|Link
 7|[Link](https://ani.social/post/3669125)
 8|[Link](https://ani.social/post/3798491)
 9|[Link](https://ani.social/post/3922846)
+10|[Link](https://ani.social/post/4055014)
 {.dense}
 
 ## The Fable
@@ -517,6 +520,7 @@ Episode|Link
 7|[Link](https://ani.social/post/3688162)
 8|[Link](https://ani.social/post/3821350)
 9|[Link](https://ani.social/post/3942578)
+10|[Link](https://ani.social/post/4063550)
 {.dense}
 
 ## THE NEW GATE
@@ -607,6 +611,7 @@ Episode|Link
 7|[Link](https://ani.social/post/3688163)
 8|[Link](https://ani.social/post/3821351)
 9|[Link](https://ani.social/post/3942579)
+10|[Link](https://ani.social/post/4063551)
 {.dense}
 
 ## Yozakura-san Chi no Daisakusen • Mission: Yozakura Family
