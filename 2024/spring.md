@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-06-11T14:33:02.603Z
+date: 2024-06-12T03:06:11.767Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -582,6 +582,7 @@ Episode|Link
 7|[Link](https://ani.social/post/3740386)
 8|[Link](https://ani.social/post/3872201)
 9|[Link](https://ani.social/post/3994161)
+10|[Link](https://ani.social/post/4122978)
 {.dense}
 
 ## Vampire Dormitory
