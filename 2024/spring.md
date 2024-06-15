@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-06-12T03:06:11.767Z
+date: 2024-06-15T16:02:58.439Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -73,6 +73,7 @@ Episode|Link
 7|[Link](https://ani.social/post/3759045)
 8|[Link](https://ani.social/post/3889660)
 9|[Link](https://ani.social/post/4010391)
+10|[Link](https://ani.social/post/4140872)
 {.dense}
 
 ## Dead Dead Demon's Dededededestruction • DEAD DEAD DEMONS DEDEDEDE DESTRUCTION
@@ -81,6 +82,7 @@ Episode|Link
 :-:|:-:
 2|[Link](https://ani.social/post/3949973)
 3|[Link](https://ani.social/post/4035595)
+4|[Link](https://ani.social/post/4168065)
 {.dense}
 
 ## Dekisokonai to Yobareta Moto Eiyuu wa, Jikka kara Tsuihou Sareta node Suki Katte ni Ikiru Koto ni Shita • The Banished Former Hero Lives as He Pleases
@@ -129,6 +131,7 @@ Episode|Link
 8|[Link](https://ani.social/post/3779988)
 9|[Link](https://ani.social/post/3907986)
 10|[Link](https://ani.social/post/4028771)
+11|[Link](https://ani.social/post/4160014)
 {.dense}
 
 ## Hibike! Euphonium 3 • Sound! Euphonium Season 3
@@ -233,6 +236,7 @@ Episode|Link
 7|[Link](https://ani.social/post/3761475)
 8|[Link](https://ani.social/post/3891194)
 9|[Link](https://ani.social/post/4012030)
+10|[Link](https://ani.social/post/4142945)
 {.dense}
 
 ## Kimetsu no Yaiba: Hashira Geiko-hen • Demon Slayer: Kimetsu no Yaiba Hashira Training Arc
@@ -259,6 +263,7 @@ Episode|Link
 7|[Link](https://ani.social/post/3759455)
 8|[Link](https://ani.social/post/3890015)
 9|[Link](https://ani.social/post/4010700)
+10|[Link](https://ani.social/post/4141323)
 {.dense}
 
 ## Kuroshitsuji: Kishuku Gakkou-hen • Black Butler: Public School Arc
@@ -608,6 +613,7 @@ Episode|Link
 8|[Link](https://ani.social/post/3779270)
 9|[Link](https://ani.social/post/3907294)
 10|[Link](https://ani.social/post/4028046)
+11|[Link](https://ani.social/post/4159341)
 {.dense}
 
 ## Yoru no Kurage wa Oyogenai • Jellyfish Can’t Swim in the Night
@@ -649,4 +655,5 @@ Episode|Link
 8|[Link](https://ani.social/post/3777703)
 9|[Link](https://ani.social/post/3906119)
 10|[Link](https://ani.social/post/4026871)
+11|[Link](https://ani.social/post/4158048)
 {.dense}
