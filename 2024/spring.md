@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-06-15T16:02:58.439Z
+date: 2024-06-15T16:04:09.549Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -107,6 +107,7 @@ Episode|Link
 8|[Link](https://ani.social/post/3800480)
 9|[Link](https://ani.social/post/3924454)
 10|[Link](https://ani.social/post/4044484)
+11|[Link](https://ani.social/post/4176397)
 {.dense}
 
 ## Hananoi-kun to Koi no Yamai • A Condition Called Love
@@ -204,6 +205,7 @@ Episode|Link
 7|[Link](https://ani.social/post/3819423)
 8|[Link](https://ani.social/post/3940982)
 9|[Link](https://ani.social/post/4062023)
+10|[Link](https://ani.social/post/4193927)
 {.dense}
 
 ## Kami wa Game ni Ueteiru. • Gods' Games We Play
@@ -520,6 +522,7 @@ Episode|Link
 8|[Link](https://ani.social/post/3798491)
 9|[Link](https://ani.social/post/3922846)
 10|[Link](https://ani.social/post/4055014)
+11|[Link](https://ani.social/post/4175465)
 {.dense}
 
 ## The Fable
