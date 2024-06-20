@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-06-15T16:04:09.549Z
+date: 2024-06-20T03:38:11.846Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -223,6 +223,7 @@ Episode|Link
 9|[Link](https://ani.social/post/3853062)
 10|[Link](https://ani.social/post/3975225)
 11|[Link](https://ani.social/post/4099995)
+12|[Link](https://ani.social/post/4227512)
 {.dense}
 
 ## Kenka Dokugaku • Viral Hit
@@ -239,6 +240,7 @@ Episode|Link
 8|[Link](https://ani.social/post/3891194)
 9|[Link](https://ani.social/post/4012030)
 10|[Link](https://ani.social/post/4142945)
+11|[Link](https://ani.social/post/4266389)
 {.dense}
 
 ## Kimetsu no Yaiba: Hashira Geiko-hen • Demon Slayer: Kimetsu no Yaiba Hashira Training Arc
@@ -250,6 +252,7 @@ Episode|Link
 3|[Link](https://ani.social/post/3836796)
 4|[Link](https://ani.social/post/3958390)
 5|[Link](https://ani.social/post/4081303)
+6|[Link](https://ani.social/post/4211137)
 {.dense}
 
 ## Kono Subarashii Sekai ni Shukufuku wo! 3 • KONOSUBA -God's Blessing on This Wonderful World! 3
@@ -266,6 +269,7 @@ Episode|Link
 8|[Link](https://ani.social/post/3890015)
 9|[Link](https://ani.social/post/4010700)
 10|[Link](https://ani.social/post/4141323)
+11|[Link](https://ani.social/post/4264344)
 {.dense}
 
 ## Kuroshitsuji: Kishuku Gakkou-hen • Black Butler: Public School Arc
@@ -333,6 +337,7 @@ Episode|Link
 7|[Link](https://ani.social/post/3838066)
 8|[Link](https://ani.social/post/3959424)
 9|[Link](https://ani.social/post/4082866)
+10|[Link](https://ani.social/post/4212726)
 {.dense}
 
 ## One Room, Hi Atari Futsuu, Tenshi Tsuki. • Studio Apartment, Good Lighting, Angel Included
@@ -384,6 +389,7 @@ Episode|Link
 9|[Link](https://ani.social/post/3855445)
 10|[Link](https://ani.social/post/3977037)
 11|[Link](https://ani.social/post/4102788)
+12|[Link](https://ani.social/post/4229839)
 {.dense}
 
 ## Rinkai!
@@ -489,6 +495,7 @@ Episode|Link
 8|[Link](https://ani.social/post/3837735)
 9|[Link](https://ani.social/post/3959043)
 10|[Link](https://ani.social/post/4082688)
+11|[Link](https://ani.social/post/4212344)
 {.dense}
 
 ## Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu • I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability
@@ -506,6 +513,7 @@ Episode|Link
 9|[Link](https://ani.social/post/3855447)
 10|[Link](https://ani.social/post/3977039)
 11|[Link](https://ani.social/post/4102790)
+12|[Link](https://ani.social/post/4238366)
 {.dense}
 
 ## Tensei Shitara Slime Datta Ken 3rd Season • That Time I Got Reincarnated as a Slime Season 3
@@ -539,6 +547,7 @@ Episode|Link
 8|[Link](https://ani.social/post/3821350)
 9|[Link](https://ani.social/post/3942578)
 10|[Link](https://ani.social/post/4063550)
+11|[Link](https://ani.social/post/4195292)
 {.dense}
 
 ## THE NEW GATE
@@ -568,6 +577,7 @@ Episode|Link
 8|[Link](https://ani.social/post/3821926)
 9|[Link](https://ani.social/post/3943274)
 10|[Link](https://ani.social/post/4064665)
+11|[Link](https://ani.social/post/4195768)
 {.dense}
 
 ## Touken Ranbu Kai: Kyoden Moyuru Honnouji
@@ -591,6 +601,7 @@ Episode|Link
 8|[Link](https://ani.social/post/3872201)
 9|[Link](https://ani.social/post/3994161)
 10|[Link](https://ani.social/post/4122978)
+11|[Link](https://ani.social/post/4246738)
 {.dense}
 
 ## Vampire Dormitory
@@ -633,6 +644,7 @@ Episode|Link
 8|[Link](https://ani.social/post/3821351)
 9|[Link](https://ani.social/post/3942579)
 10|[Link](https://ani.social/post/4063551)
+11|[Link](https://ani.social/post/4205429)
 {.dense}
 
 ## Yozakura-san Chi no Daisakusen • Mission: Yozakura Family
