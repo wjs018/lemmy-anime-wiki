@@ -77,7 +77,7 @@ These shows have had episodes air already, but no thread was created because the
 | Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 11 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 265 |
 | I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 36 |
-| Kumarba | Kumarba | https://anilist.co/anime/173249 | Episode 11 |
+| Kumarba | Kumarba | https://anilist.co/anime/173249 | Episode 12 |
 | Jongtama Kan!! | Mahjong Soul KAN!! | https://anilist.co/anime/172964 | Episode 9 |
 | Yozakura-san Chi no Daisakusen | Mission: Yozakura Family | https://anilist.co/anime/158898 | Episode 11 |
 | Boku no Hero Academia 7 | My Hero Academia Season 7 | https://anilist.co/anime/163139 | Episode 7 |
@@ -85,7 +85,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kaii to Otome to Kamikakushi | Mysterious Disappearances | https://anilist.co/anime/160090 | Episode 11 |
 | NIJIYON ANIMATION 2 | NIJIYON ANIMATION Season 2 | https://anilist.co/anime/172242 | Episode 12 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 122 |
-| Nyaaaanvy | Nyaaaanvy | https://anilist.co/anime/177798 | Episode 4 |
+| Nyaaaanvy | Nyaaaanvy | https://anilist.co/anime/177798 | Episode 5 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1109 |
 | Boukyaku Battery (TV) | Oblivion Battery | https://anilist.co/anime/167927 | Episode 10 |
 | Oomuro-ke: dear friends | Oomuro-ke: dear friends | https://anilist.co/anime/174383 | Episode 1 |
@@ -93,7 +93,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2049 |
 | RABBITS KINGDOM THE MOVIE | RABBITS KINGDOM THE MOVIE | https://anilist.co/anime/169766 | Episode 1 |
 | Rinkai! | Rinkai! | https://anilist.co/anime/163141 | Episode 11 |
-| SHIBUYA♡HACHI | SHIBUYA♡HACHI | https://anilist.co/anime/176577 | Episode 11 |
+| SHIBUYA♡HACHI | SHIBUYA♡HACHI | https://anilist.co/anime/176577 | Episode 12 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Battles | Sai-Kyo-Oh! Zukan: The Ultimate Battles | https://anilist.co/anime/173216 | Episode 24 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2739 |
 | Shadowverse Flame: Arc-hen | Shadowverse Flame: Arc-hen | https://anilist.co/anime/172187 | Episode 10 |
