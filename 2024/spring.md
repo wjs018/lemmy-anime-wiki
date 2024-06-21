@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-06-20T03:38:11.846Z
+date: 2024-06-21T19:05:30.715Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -83,6 +83,7 @@ Episode|Link
 2|[Link](https://ani.social/post/3949973)
 3|[Link](https://ani.social/post/4035595)
 4|[Link](https://ani.social/post/4168065)
+5|[Link](https://ani.social/post/4292711)
 {.dense}
 
 ## Dekisokonai to Yobareta Moto Eiyuu wa, Jikka kara Tsuihou Sareta node Suki Katte ni Ikiru Koto ni Shita • The Banished Former Hero Lives as He Pleases
@@ -133,6 +134,7 @@ Episode|Link
 9|[Link](https://ani.social/post/3907986)
 10|[Link](https://ani.social/post/4028771)
 11|[Link](https://ani.social/post/4160014)
+12|[Link](https://ani.social/post/4285014)
 {.dense}
 
 ## Hibike! Euphonium 3 • Sound! Euphonium Season 3
@@ -628,6 +630,7 @@ Episode|Link
 9|[Link](https://ani.social/post/3907294)
 10|[Link](https://ani.social/post/4028046)
 11|[Link](https://ani.social/post/4159341)
+12|[Link](https://ani.social/post/4283792)
 {.dense}
 
 ## Yoru no Kurage wa Oyogenai • Jellyfish Can’t Swim in the Night
@@ -671,4 +674,5 @@ Episode|Link
 9|[Link](https://ani.social/post/3906119)
 10|[Link](https://ani.social/post/4026871)
 11|[Link](https://ani.social/post/4158048)
+12|[Link](https://ani.social/post/4282296)
 {.dense}
