@@ -8,7 +8,6 @@ editor: markdown
 dateCreated: 2024-05-23T15:17:45.880Z
 ---
 
-
 ## Already Enabled Shows
 
 These shows are being tracked and are currently enabled in rikka's database. This means that when a new episode airs a discussion thread will be created unless the previous episode's discussion thread (if it exists) fails to meet the engagement criteria to continue posts for this show.
@@ -20,7 +19,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Dead Dead Demon's Dededededestruction | DEAD DEAD DEMONS DEDEDEDE DESTRUCTION | https://anilist.co/anime/177697 | [Link](https://ani.social/post/4292711) |
 | Kimetsu no Yaiba: Hashira Geiko-hen | Demon Slayer: Kimetsu no Yaiba Hashira Training Arc | https://anilist.co/anime/166240 | [Link](https://ani.social/post/4211137) |
 | Sentai Daishikkaku | GO! GO! Loser Ranger! | https://anilist.co/anime/158417 | [Link](https://ani.social/post/4208219) |
-| Girls Band Cry | Girls Band Cry | https://anilist.co/anime/164212 | [Link](https://ani.social/post/4176397) |
+| Girls Band Cry | Girls Band Cry | https://anilist.co/anime/164212 | [Link](https://ani.social/post/4301517) |
 | Kami wa Game ni Ueteiru. | Gods' Games We Play | https://anilist.co/anime/144176 | [Link](https://ani.social/post/4227512) |
 | Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu | I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability | https://anilist.co/anime/156415 | [Link](https://ani.social/post/4238366) |
 | Yoru no Kurage wa Oyogenai | Jellyfish Can’t Swim in the Night | https://anilist.co/anime/163078 | [Link](https://ani.social/post/4205429) |
@@ -106,7 +105,7 @@ These shows have had episodes air already, but no thread was created because the
 | One Room, Hi Atari Futsuu, Tenshi Tsuki. | Studio Apartment, Good Lighting, Angel Included | https://anilist.co/anime/169927 | Episode 12 |
 | Suu-funkan no Yell wo | Suu-funkan no Yell wo | https://anilist.co/anime/173935 | Episode 1 |
 | THE NEW GATE | THE NEW GATE | https://anilist.co/anime/170890 | Episode 10 |
-| The iDOLM@STER: Shiny Colors | THE iDOLM@STER SHINY COLORS | https://anilist.co/anime/162889 | Episode 11 |
+| The iDOLM@STER: Shiny Colors | THE iDOLM@STER SHINY COLORS | https://anilist.co/anime/162889 | Episode 12 |
 | Tadaima, Okaeri | Tadaima, Okaeri | https://anilist.co/anime/169698 | Episode 11 |
 | Tensei Shitara Slime Datta Ken 3rd Season | That Time I Got Reincarnated as a Slime Season 3 | https://anilist.co/anime/156822 | Episode 12 |
 | Dekisokonai to Yobareta Moto Eiyuu wa, Jikka kara Tsuihou Sareta node Suki Katte ni Ikiru Koto ni Shita | The Banished Former Hero Lives as He Pleases | https://anilist.co/anime/166372 | Episode 12 |
@@ -141,6 +140,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | SHY: Tokyo Dakkan-hen | SHY Season 2 | https://anilist.co/anime/171748 | July 01 at 15:00 |
 | Sore Ike! Anpanman: Baikinman to Ehon no Lulun | Sore Ike! Anpanman: Baikinman to Ehon no Lulun | https://anilist.co/anime/172965 | June 27 at 15:00 |
 | Isekai Suicide Squad | Suicide Squad ISEKAI | https://anilist.co/anime/166710 | June 26 at 15:00 |
+| Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru. | The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible | https://anilist.co/anime/163292 | July 01 at 17:00 |
 | Maou Gun Saikyou no Majutsushi wa Ningen datta | The Strongest Magician in the Demon Lord's Army was a Human | https://anilist.co/anime/173584 | June 26 at 13:30 |
 | Yuru Camp△ SEASON 3 OVA | Yuru Camp△ SEASON 3 OVA | https://anilist.co/anime/177007 | June 25 at 15:00 |
 {.dense}
