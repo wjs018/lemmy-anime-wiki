@@ -68,7 +68,6 @@ These shows have had episodes air already, but no thread was created because the
 | Dungeon Meshi | Delicious in Dungeon | https://anilist.co/anime/153518 | Episode 24 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 839 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 137 |
-| Garouden: The Way of the Lone Wolf | Garouden: The Way of the Lone Wolf | https://anilist.co/anime/177106 | Episode 1 |
 | Gintama on Theater 2D: Ikkoku Keisei-hen | Gintama on Theater 2D: Ikkoku Keisei-hen | https://anilist.co/anime/175573 | Episode 1 |
 | Jii-san Baa-san Wakagaeru | Grandpa and Grandma Turn Young Again | https://anilist.co/anime/168138 | Episode 11 |
 | Grrr Grrr Tummy | Grrr Grrr Tummy | https://anilist.co/anime/178102 | Episode 1 |
@@ -93,6 +92,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2049 |
 | RABBITS KINGDOM THE MOVIE | RABBITS KINGDOM THE MOVIE | https://anilist.co/anime/169766 | Episode 1 |
 | Rinkai! | Rinkai! | https://anilist.co/anime/163141 | Episode 11 |
+| Rising Impact | Rising Impact | https://anilist.co/anime/171115 | Episode 1 |
 | SHIBUYA♡HACHI | SHIBUYA♡HACHI | https://anilist.co/anime/176577 | Episode 12 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Battles | Sai-Kyo-Oh! Zukan: The Ultimate Battles | https://anilist.co/anime/173216 | Episode 24 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2739 |
@@ -136,7 +136,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Girls' F1st!!!! GT | Girls' F1st!!!! GT | https://anilist.co/anime/178067 | June 29 at 15:00 |
 | Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | June 25 at 15:00 |
 | Look Back | Look Back | https://anilist.co/anime/174788 | June 27 at 15:00 |
-| Rising Impact | Rising Impact | https://anilist.co/anime/171115 | June 22 at 07:00 |
 | SHY: Tokyo Dakkan-hen | SHY Season 2 | https://anilist.co/anime/171748 | July 01 at 15:00 |
 | Sore Ike! Anpanman: Baikinman to Ehon no Lulun | Sore Ike! Anpanman: Baikinman to Ehon no Lulun | https://anilist.co/anime/172965 | June 27 at 15:00 |
 | Isekai Suicide Squad | Suicide Squad ISEKAI | https://anilist.co/anime/166710 | June 26 at 15:00 |
