@@ -135,6 +135,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Girls' F1st!!!! GT | Girls' F1st!!!! GT | https://anilist.co/anime/178067 | June 29 at 15:00 |
 | Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | June 25 at 15:00 |
 | Look Back | Look Back | https://anilist.co/anime/174788 | June 27 at 15:00 |
+| NIJIYON ANIMATION 2: Shinsaku Animation | NIJIYON ANIMATION 2: Shinsaku Animation | https://anilist.co/anime/178396 | June 25 at 16:00 |
 | SHY: Tokyo Dakkan-hen | SHY Season 2 | https://anilist.co/anime/171748 | July 01 at 15:00 |
 | Sore Ike! Anpanman: Baikinman to Ehon no Lulun | Sore Ike! Anpanman: Baikinman to Ehon no Lulun | https://anilist.co/anime/172965 | June 27 at 15:00 |
 | Isekai Suicide Squad | Suicide Squad ISEKAI | https://anilist.co/anime/166710 | June 26 at 15:00 |
