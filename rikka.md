@@ -2,7 +2,7 @@
 title: Bot User Guide
 description: Your guide to rikka, the anime community discussion thread bot.
 published: true
-date: 2024-04-10T20:04:35.378Z
+date: 2024-06-22T03:25:44.400Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-17T04:44:34.849Z
@@ -41,6 +41,10 @@ Once a show ends, rikka will post an episode discussion thread like normal if th
 # Requesting Discussion Threads via PM
 
 If a show is disabled in rikka's database or if the previous episode fails to meet the engagement thresholds, there will not be any discussion thread made for that episode. If a user wants to have a thread to discuss an episode for which a thread wasn't created by rikka, they are able to request an episode be made by private messaging rikka@ani.social.
+
+## Eligible Shows
+
+It is only possible for rikka to make a thread about a show that she knows about. So, I have [made a page here](/requestable) that lists out all the shows that have recently aired or are airing soon and their current status in rikka's database. The shows that are requestable from the bot are in the [second table](https://wiki.lemmyanime.com/en/requestable#requestable-shows). The AniList link and most recently aired episode number are provided for convenience in crafting a message to rikka. Speaking of the format of the message...
 
 ## Format of the Message
 
