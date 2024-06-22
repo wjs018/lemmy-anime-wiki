@@ -24,7 +24,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu | I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability | https://anilist.co/anime/156415 | [Link](https://ani.social/post/4238366) |
 | Yoru no Kurage wa Oyogenai | Jellyfish Can’t Swim in the Night | https://anilist.co/anime/163078 | [Link](https://ani.social/post/4205429) |
 | Kono Subarashii Sekai ni Shukufuku wo! 3 | KONOSUBA -God's Blessing on This Wonderful World! 3 | https://anilist.co/anime/136804 | [Link](https://ani.social/post/4264344) |
-| Kaijuu 8-gou | Kaiju No.8 | https://anilist.co/anime/153288 | [Link](https://ani.social/post/4193927) |
+| Kaijuu 8-gou | Kaiju No.8 | https://anilist.co/anime/153288 | [Link](https://ani.social/post/4318230) |
 | Yuru Camp△ SEASON 3 | Laid-Back Camp Season 3 | https://anilist.co/anime/155908 | [Link](https://ani.social/post/4282296) |
 | Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2 | Mushoku Tensei: Jobless Reincarnation Season 2 Part 2 | https://anilist.co/anime/166873 | [Link](https://ani.social/post/4212726) |
 | Re:Monster | Re:Monster | https://anilist.co/anime/169417 | [Link](https://ani.social/post/4229839) |
@@ -64,7 +64,6 @@ These shows have had episodes air already, but no thread was created because the
 | Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life | Chillin' in Another World with Level 2 Super Cheat Powers | https://anilist.co/anime/170130 | Episode 11 |
 | Code Geass: Dakkan no Rozé | Code Geass: Rozé of the Recapture | https://anilist.co/anime/126830 | Episode 1 |
 | Date A Live V | Date A Live V | https://anilist.co/anime/151380 | Episode 11 |
-| Dead Dead Demon's Dededededestruction Koushou | Dead Dead Demon's Dededededestruction Koushou | https://anilist.co/anime/176218 | Episode 1 |
 | Dungeon Meshi | Delicious in Dungeon | https://anilist.co/anime/153518 | Episode 24 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 816 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 137 |
@@ -115,7 +114,6 @@ These shows have had episodes air already, but no thread was created because the
 | Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2 | The Misfit of Demon King Academy II (Cour 2) | https://anilist.co/anime/130590 | Episode 9 |
 | Ooi! Tonbo | Tonbo! | https://anilist.co/anime/164440 | Episode 12 |
 | Tousouchuu: Great Mission | Tousouchuu: Great Mission | https://anilist.co/anime/159560 | Episode 60 |
-| Uma Musume: Pretty Derby - Shin Jidai no Tobira | Uma Musume: Pretty Derby - Shin Jidai no Tobira | https://anilist.co/anime/172420 | Episode 1 |
 | Urusei Yatsura (2022) 2nd Season | Urusei Yatsura (2022) Season 3 | https://anilist.co/anime/155645 | Episode 23 |
 | Vampire Dormitory | Vampire Dormitory | https://anilist.co/anime/170604 | Episode 11 |
 | Wan Wan Train Doko e Iku? | Wan Wan Train Doko e Iku? | https://anilist.co/anime/177405 | Episode 9 |
