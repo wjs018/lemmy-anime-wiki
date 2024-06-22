@@ -66,7 +66,7 @@ These shows have had episodes air already, but no thread was created because the
 | Date A Live V | Date A Live V | https://anilist.co/anime/151380 | Episode 11 |
 | Dead Dead Demon's Dededededestruction Koushou | Dead Dead Demon's Dededededestruction Koushou | https://anilist.co/anime/176218 | Episode 1 |
 | Dungeon Meshi | Delicious in Dungeon | https://anilist.co/anime/153518 | Episode 24 |
-| Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 839 |
+| Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 816 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 137 |
 | Gintama on Theater 2D: Ikkoku Keisei-hen | Gintama on Theater 2D: Ikkoku Keisei-hen | https://anilist.co/anime/175573 | Episode 1 |
 | Jii-san Baa-san Wakagaeru | Grandpa and Grandma Turn Young Again | https://anilist.co/anime/168138 | Episode 11 |
