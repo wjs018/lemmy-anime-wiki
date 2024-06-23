@@ -22,7 +22,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kami wa Game ni Ueteiru. | Gods' Games We Play | https://anilist.co/anime/144176 | [Link](https://ani.social/post/4227512) |
 | Kaijuu 8-gou | Kaiju No.8 | https://anilist.co/anime/153288 | [Link](https://ani.social/post/4318230) |
 | Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2 | Mushoku Tensei: Jobless Reincarnation Season 2 Part 2 | https://anilist.co/anime/166873 | [Link](https://ani.social/post/4212726) |
-| Hibike! Euphonium 3 | Sound! Euphonium 3 | https://anilist.co/anime/109731 | [Link](https://ani.social/post/4208514) |
+| Hibike! Euphonium 3 | Sound! Euphonium 3 | https://anilist.co/anime/109731 | [Link](https://ani.social/post/4331284) |
 | Tsuki ga Michibiku Isekai Douchuu 2nd Season | TSUKIMICHI -Moonlit Fantasy- Season 2 | https://anilist.co/anime/139518 | [Link](https://ani.social/post/4228970) |
 | The Fable | The Fable | https://anilist.co/anime/166910 | [Link](https://ani.social/post/4320027) |
 | Tonari no Youkai-san | Tonari no Yokai-san | https://anilist.co/anime/146867 | [Link](https://ani.social/post/4321218) |
@@ -71,7 +71,7 @@ These shows have had episodes air already, but no thread was created because the
 | I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 36 |
 | Kumarba | Kumarba | https://anilist.co/anime/173249 | Episode 12 |
 | Jongtama Kan!! | Mahjong Soul KAN!! | https://anilist.co/anime/172964 | Episode 9 |
-| Yozakura-san Chi no Daisakusen | Mission: Yozakura Family | https://anilist.co/anime/158898 | Episode 11 |
+| Yozakura-san Chi no Daisakusen | Mission: Yozakura Family | https://anilist.co/anime/158898 | Episode 12 |
 | Boku no Hero Academia 7 | My Hero Academia Season 7 | https://anilist.co/anime/163139 | Episode 8 |
 | Kaii to Otome to Kamikakushi | Mysterious Disappearances | https://anilist.co/anime/160090 | Episode 11 |
 | NIJIYON ANIMATION 2 | NIJIYON ANIMATION Season 2 | https://anilist.co/anime/172242 | Episode 12 |
