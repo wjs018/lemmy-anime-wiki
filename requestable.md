@@ -17,7 +17,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Tensei Kizoku, Kantei Skill de Nariagaru | As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World | https://anilist.co/anime/164702 | [Link](https://ani.social/post/4212344) |
 | Dead Dead Demon's Dededededestruction | DEAD DEAD DEMONS DEDEDEDE DESTRUCTION | https://anilist.co/anime/177697 | [Link](https://ani.social/post/4292711) |
 | Kimetsu no Yaiba: Hashira Geiko-hen | Demon Slayer: Kimetsu no Yaiba Hashira Training Arc | https://anilist.co/anime/166240 | [Link](https://ani.social/post/4211137) |
-| Sentai Daishikkaku | GO! GO! Loser Ranger! | https://anilist.co/anime/158417 | [Link](https://ani.social/post/4208219) |
+| Sentai Daishikkaku | GO! GO! Loser Ranger! | https://anilist.co/anime/158417 | [Link](https://ani.social/post/4330973) |
 | Girls Band Cry | Girls Band Cry | https://anilist.co/anime/164212 | [Link](https://ani.social/post/4301517) |
 | Kami wa Game ni Ueteiru. | Gods' Games We Play | https://anilist.co/anime/144176 | [Link](https://ani.social/post/4227512) |
 | Kaijuu 8-gou | Kaiju No.8 | https://anilist.co/anime/153288 | [Link](https://ani.social/post/4318230) |
