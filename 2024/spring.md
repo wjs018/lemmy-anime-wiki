@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-06-21T19:06:44.830Z
+date: 2024-06-23T03:53:13.057Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -209,6 +209,7 @@ Episode|Link
 8|[Link](https://ani.social/post/3940982)
 9|[Link](https://ani.social/post/4062023)
 10|[Link](https://ani.social/post/4193927)
+11|[Link](https://ani.social/post/4318230)
 {.dense}
 
 ## Kami wa Game ni Ueteiru. • Gods' Games We Play
@@ -551,6 +552,7 @@ Episode|Link
 9|[Link](https://ani.social/post/3942578)
 10|[Link](https://ani.social/post/4063550)
 11|[Link](https://ani.social/post/4195292)
+12|[Link](https://ani.social/post/4320027)
 {.dense}
 
 ## THE NEW GATE
@@ -581,6 +583,7 @@ Episode|Link
 9|[Link](https://ani.social/post/3943274)
 10|[Link](https://ani.social/post/4064665)
 11|[Link](https://ani.social/post/4195768)
+12|[Link](https://ani.social/post/4321218)
 {.dense}
 
 ## Touken Ranbu Kai: Kyoden Moyuru Honnouji
@@ -649,6 +652,7 @@ Episode|Link
 9|[Link](https://ani.social/post/3942579)
 10|[Link](https://ani.social/post/4063551)
 11|[Link](https://ani.social/post/4205429)
+12|[Link](https://ani.social/post/4320028)
 {.dense}
 
 ## Yozakura-san Chi no Daisakusen • Mission: Yozakura Family
