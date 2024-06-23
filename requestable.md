@@ -98,7 +98,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shadowverse Flame: Arc-hen | Shadowverse Flame: Arc-hen | https://anilist.co/anime/172187 | Episode 10 |
 | Shimajirou no Wow! | Shimajiro: A Wonderful Adventure | https://anilist.co/anime/18941 | Episode 627 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1238 |
-| Shinkalion: Change the World | Shinkalion: Change the World | https://anilist.co/anime/172395 | Episode 11 |
+| Shinkalion: Change the World | Shinkalion: Change the World | https://anilist.co/anime/172395 | Episode 12 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1659 |
 | Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF | Spice and Wolf: MERCHANT MEETS THE WISE WOLF | https://anilist.co/anime/145728 | Episode 12 |
 | One Room, Hi Atari Futsuu, Tenshi Tsuki. | Studio Apartment, Good Lighting, Angel Included | https://anilist.co/anime/169927 | Episode 12 |
@@ -118,7 +118,7 @@ These shows have had episodes air already, but no thread was created because the
 | Vampire Dormitory | Vampire Dormitory | https://anilist.co/anime/170604 | Episode 11 |
 | Wan Wan Train Doko e Iku? | Wan Wan Train Doko e Iku? | https://anilist.co/anime/177405 | Episode 9 |
 | Sasayaku You ni Koi wo Utau | Whisper Me a Love Song | https://anilist.co/anime/160181 | Episode 9 |
-| Wonderful Precure! | Wonderful Precure! | https://anilist.co/anime/171030 | Episode 20 |
+| Wonderful Precure! | Wonderful Precure! | https://anilist.co/anime/171030 | Episode 21 |
 | Karasu wa Aruji wo Erabanai | YATAGARASU: The Raven Does Not Choose Its Master | https://anilist.co/anime/170503 | Episode 12 |
 | YouTuNya 2 | YouTuNya 2 | https://anilist.co/anime/176635 | Episode 12 |
 | Yozakura-san Chi no Mini Sakusen | Yozakura-san Chi no Mini Sakusen | https://anilist.co/anime/176909 | Episode 11 |
