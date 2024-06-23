@@ -14,20 +14,14 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
-| Henjin no Salad Bowl | A Salad Bowl of Eccentrics | https://anilist.co/anime/166828 | [Link](https://ani.social/post/4285014) |
 | Tensei Kizoku, Kantei Skill de Nariagaru | As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World | https://anilist.co/anime/164702 | [Link](https://ani.social/post/4212344) |
 | Dead Dead Demon's Dededededestruction | DEAD DEAD DEMONS DEDEDEDE DESTRUCTION | https://anilist.co/anime/177697 | [Link](https://ani.social/post/4292711) |
 | Kimetsu no Yaiba: Hashira Geiko-hen | Demon Slayer: Kimetsu no Yaiba Hashira Training Arc | https://anilist.co/anime/166240 | [Link](https://ani.social/post/4211137) |
 | Sentai Daishikkaku | GO! GO! Loser Ranger! | https://anilist.co/anime/158417 | [Link](https://ani.social/post/4208219) |
 | Girls Band Cry | Girls Band Cry | https://anilist.co/anime/164212 | [Link](https://ani.social/post/4301517) |
 | Kami wa Game ni Ueteiru. | Gods' Games We Play | https://anilist.co/anime/144176 | [Link](https://ani.social/post/4227512) |
-| Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu | I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability | https://anilist.co/anime/156415 | [Link](https://ani.social/post/4238366) |
-| Yoru no Kurage wa Oyogenai | Jellyfish Can’t Swim in the Night | https://anilist.co/anime/163078 | [Link](https://ani.social/post/4320028) |
-| Kono Subarashii Sekai ni Shukufuku wo! 3 | KONOSUBA -God's Blessing on This Wonderful World! 3 | https://anilist.co/anime/136804 | [Link](https://ani.social/post/4264344) |
 | Kaijuu 8-gou | Kaiju No.8 | https://anilist.co/anime/153288 | [Link](https://ani.social/post/4318230) |
-| Yuru Camp△ SEASON 3 | Laid-Back Camp Season 3 | https://anilist.co/anime/155908 | [Link](https://ani.social/post/4282296) |
 | Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2 | Mushoku Tensei: Jobless Reincarnation Season 2 Part 2 | https://anilist.co/anime/166873 | [Link](https://ani.social/post/4212726) |
-| Re:Monster | Re:Monster | https://anilist.co/anime/169417 | [Link](https://ani.social/post/4229839) |
 | Hibike! Euphonium 3 | Sound! Euphonium 3 | https://anilist.co/anime/109731 | [Link](https://ani.social/post/4208514) |
 | Tsuki ga Michibiku Isekai Douchuu 2nd Season | TSUKIMICHI -Moonlit Fantasy- Season 2 | https://anilist.co/anime/139518 | [Link](https://ani.social/post/4228970) |
 | The Fable | The Fable | https://anilist.co/anime/166910 | [Link](https://ani.social/post/4320027) |
