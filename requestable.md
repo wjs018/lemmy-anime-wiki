@@ -87,7 +87,7 @@ These shows have had episodes air already, but no thread was created because the
 | Rising Impact | Rising Impact | https://anilist.co/anime/171115 | Episode 1 |
 | SHIBUYA♡HACHI | SHIBUYA♡HACHI | https://anilist.co/anime/176577 | Episode 12 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Battles | Sai-Kyo-Oh! Zukan: The Ultimate Battles | https://anilist.co/anime/173216 | Episode 24 |
-| Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2739 |
+| Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2740 |
 | Shadowverse Flame: Arc-hen | Shadowverse Flame: Arc-hen | https://anilist.co/anime/172187 | Episode 10 |
 | Shimajirou no Wow! | Shimajiro: A Wonderful Adventure | https://anilist.co/anime/18941 | Episode 627 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1238 |
