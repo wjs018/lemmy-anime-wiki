@@ -2,7 +2,7 @@
 title: Spring 2024 Discussion Thread Index
 description: All the episode discussion threads for Spring 2024 shows
 published: true
-date: 2024-06-23T03:53:13.057Z
+date: 2024-06-24T14:23:19.087Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-30T04:19:46.345Z
@@ -152,6 +152,8 @@ Episode|Link
 8|[Link](https://ani.social/post/3832412)
 9|[Link](https://ani.social/post/3954471)
 10|[Link](https://ani.social/post/4077407)
+11|[Link](https://ani.social/post/4208514)
+12|[Link](https://ani.social/post/4331284)
 {.dense}
 
 ## HIGHSPEED Étoile
@@ -228,6 +230,7 @@ Episode|Link
 10|[Link](https://ani.social/post/3975225)
 11|[Link](https://ani.social/post/4099995)
 12|[Link](https://ani.social/post/4227512)
+13|[Link](https://ani.social/post/4351521)
 {.dense}
 
 ## Kenka Dokugaku • Viral Hit
@@ -257,6 +260,7 @@ Episode|Link
 4|[Link](https://ani.social/post/3958390)
 5|[Link](https://ani.social/post/4081303)
 6|[Link](https://ani.social/post/4211137)
+7|[Link](https://ani.social/post/4334589)
 {.dense}
 
 ## Kono Subarashii Sekai ni Shukufuku wo! 3 • KONOSUBA -God's Blessing on This Wonderful World! 3
@@ -342,6 +346,7 @@ Episode|Link
 8|[Link](https://ani.social/post/3959424)
 9|[Link](https://ani.social/post/4082866)
 10|[Link](https://ani.social/post/4212726)
+11|[Link](https://ani.social/post/4336328)
 {.dense}
 
 ## One Room, Hi Atari Futsuu, Tenshi Tsuki. • Studio Apartment, Good Lighting, Angel Included
@@ -450,6 +455,8 @@ Episode|Link
 7|[Link](https://ani.social/post/3831964)
 8|[Link](https://ani.social/post/3954199)
 9|[Link](https://ani.social/post/4076700)
+10|[Link](https://ani.social/post/4208219)
+11|[Link](https://ani.social/post/4330973)
 {.dense}
 
 ## Shuumatsu Train Doko e Iku? • Train to the End of the World
@@ -467,6 +474,7 @@ Episode|Link
 9|[Link](https://ani.social/post/3852777)
 10|[Link](https://ani.social/post/3974769)
 11|[Link](https://ani.social/post/4099651)
+12|[Link](https://ani.social/post/4351457)
 {.dense}
 
 ## T・P Bon
@@ -500,6 +508,7 @@ Episode|Link
 9|[Link](https://ani.social/post/3959043)
 10|[Link](https://ani.social/post/4082688)
 11|[Link](https://ani.social/post/4212344)
+12|[Link](https://ani.social/post/4335837)
 {.dense}
 
 ## Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu • I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability
