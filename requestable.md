@@ -14,10 +14,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
-| 0 Saiji Start Dash Monogatari | 0 Saiji Start Dash Monogatari | https://anilist.co/anime/177879 |  |
-| 2.5 Jigen no Ririsa | 2.5 Dimensional Seduction | https://anilist.co/anime/158559 |  |
-| Isekai Yururi Kikou: Kosodate Shinagara Boukensha Shimasu | A Journey Through Another World: Raising Kids While Adventuring | https://anilist.co/anime/171031 |  |
-| ATRI: My Dear Moments | ATRI -My Dear Moments- | https://anilist.co/anime/154963 |  |
 | Tensei Kizoku, Kantei Skill de Nariagaru | As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World | https://anilist.co/anime/164702 | [Link](https://ani.social/post/4335837) |
 | Atashin'chi NEXT | Atashin'chi NEXT | https://anilist.co/anime/173313 |  |
 | Bocchi the Rock! Re:Re: | Bocchi the Rock! Re:Re: | https://anilist.co/anime/171099 |  |
