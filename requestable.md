@@ -37,7 +37,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Senpai wa Otokonoko | Senpai is an Otokonoko | https://anilist.co/anime/163133 |  |
 | Hibike! Euphonium 3 | Sound! Euphonium 3 | https://anilist.co/anime/109731 | [Link](https://ani.social/post/4331284) |
 | Isekai Suicide Squad | Suicide Squad ISEKAI | https://anilist.co/anime/166710 |  |
-| Tsuki ga Michibiku Isekai Douchuu 2nd Season | TSUKIMICHI -Moonlit Fantasy- Season 2 | https://anilist.co/anime/139518 | [Link](https://ani.social/post/4228970) |
+| Tsuki ga Michibiku Isekai Douchuu 2nd Season | TSUKIMICHI -Moonlit Fantasy- Season 2 | https://anilist.co/anime/139518 | [Link](https://ani.social/post/4353266) |
 | The Fable | The Fable | https://anilist.co/anime/166910 | [Link](https://ani.social/post/4320027) |
 | Tonari no Youkai-san | Tonari no Yokai-san | https://anilist.co/anime/146867 | [Link](https://ani.social/post/4321218) |
 | Kami no Tou: Tower of God 2nd SEASON | Tower of God Season 2 | https://anilist.co/anime/153406 |  |
@@ -71,7 +71,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 12 |
 | Chibi Maruko-chan (1995) | Chibi Maruko-chan | https://anilist.co/anime/6149 | Episode 1436 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 175 |
-| Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life | Chillin' in Another World with Level 2 Super Cheat Powers | https://anilist.co/anime/170130 | Episode 11 |
+| Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life | Chillin' in Another World with Level 2 Super Cheat Powers | https://anilist.co/anime/170130 | Episode 12 |
 | Code Geass: Dakkan no Rozé | Code Geass: Rozé of the Recapture | https://anilist.co/anime/126830 | Episode 1 |
 | Date A Live V | Date A Live V | https://anilist.co/anime/151380 | Episode 11 |
 | Dungeon Meshi | Delicious in Dungeon | https://anilist.co/anime/153518 | Episode 24 |
@@ -144,6 +144,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Gimai Seikatsu | Days with My Stepsister | https://anilist.co/anime/152681 | July 04 at 12:00 |
 | Girls' F1st!!!! GT | Girls' F1st!!!! GT | https://anilist.co/anime/178067 | June 29 at 15:00 |
 | Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | June 25 at 15:00 |
+| Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai | I Parry Everything! | https://anilist.co/anime/170695 | July 04 at 15:00 |
 | Look Back | Look Back | https://anilist.co/anime/174788 | June 27 at 15:00 |
 | Maarui Kanojo to Zannen na Kareshi | Maarui Kanojo to Zannen na Kareshi | https://anilist.co/anime/178421 | June 28 at 17:56 |
 | NIJIYON ANIMATION 2: Shinsaku Animation | NIJIYON ANIMATION 2: Shinsaku Animation | https://anilist.co/anime/178396 | June 25 at 16:00 |
