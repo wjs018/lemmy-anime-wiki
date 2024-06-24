@@ -14,23 +14,83 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
+| 0 Saiji Start Dash Monogatari | 0 Saiji Start Dash Monogatari | https://anilist.co/anime/177879 |  |
+| 2.5 Jigen no Ririsa | 2.5 Dimensional Seduction | https://anilist.co/anime/158559 |  |
+| Isekai Yururi Kikou: Kosodate Shinagara Boukensha Shimasu | A Journey Through Another World: Raising Kids While Adventuring | https://anilist.co/anime/171031 |  |
+| ATRI: My Dear Moments | ATRI -My Dear Moments- | https://anilist.co/anime/154963 |  |
 | Tensei Kizoku, Kantei Skill de Nariagaru | As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World | https://anilist.co/anime/164702 | [Link](https://ani.social/post/4335837) |
+| Atashin'chi NEXT | Atashin'chi NEXT | https://anilist.co/anime/173313 |  |
+| Bocchi the Rock! Re:Re: | Bocchi the Rock! Re:Re: | https://anilist.co/anime/171099 |  |
+| Boku no Hero Academia THE MOVIE: YOU'RE NEXT | Boku no Hero Academia THE MOVIE: YOU'RE NEXT | https://anilist.co/anime/168013 |  |
+| Bye Bye, Earth | Bye Bye, Earth | https://anilist.co/anime/157371 |  |
+| Cardfight!! Vanguard: Divinez Season 2 | Cardfight!! Vanguard: Divinez Season 2 | https://anilist.co/anime/165681 |  |
+| Koneko no Chii: Ponponra Natsuyasumi | Chi’s Sweet Adventure: Summer Vacation | https://anilist.co/anime/175120 |  |
+| Crayon Shin-chan: Ora-tachi no Kyouryuu Nikki | Crayon Shin-chan: Ora-tachi no Kyouryuu Nikki | https://anilist.co/anime/171145 |  |
 | Dead Dead Demon's Dededededestruction | DEAD DEAD DEMONS DEDEDEDE DESTRUCTION | https://anilist.co/anime/177697 | [Link](https://ani.social/post/4292711) |
+| Gimai Seikatsu | Days with My Stepsister | https://anilist.co/anime/152681 |  |
+| Delico's Nursery | Delico's Nursery | https://anilist.co/anime/167991 |  |
 | Kimetsu no Yaiba: Hashira Geiko-hen | Demon Slayer: Kimetsu no Yaiba Hashira Training Arc | https://anilist.co/anime/166240 | [Link](https://ani.social/post/4334589) |
+| Dungeon no Naka no Hito | Dungeon People | https://anilist.co/anime/168345 |  |
+| FAIRY TAIL: 100 YEARS QUEST | FAIRY TAIL: 100 YEARS QUEST | https://anilist.co/anime/139095 |  |
 | Sentai Daishikkaku | GO! GO! Loser Ranger! | https://anilist.co/anime/158417 | [Link](https://ani.social/post/4330973) |
+| Bakeneko Anzu-chan | Ghost Cat Anzu | https://anilist.co/anime/158641 |  |
 | Girls Band Cry | Girls Band Cry | https://anilist.co/anime/164212 | [Link](https://ani.social/post/4301517) |
 | Kami wa Game ni Ueteiru. | Gods' Games We Play | https://anilist.co/anime/144176 | [Link](https://ani.social/post/4227512) |
+| Gotchard Short Anime: Gotchanime - Furasu Koukou Nanafushigi wo Gotcha Seyo! | Gotchard Short Anime: Gotchanime - Furasu Koukou Nanafushigi wo Gotcha Seyo! | https://anilist.co/anime/178352 |  |
+| Grendizer U | Grendizer U | https://anilist.co/anime/154195 |  |
+| Harimaware! Koinu 2nd Season | Harimaware! Koinu 2nd Season | https://anilist.co/anime/176283 |  |
+| Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | https://anilist.co/anime/173694 |  |
+| Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai | I Parry Everything! | https://anilist.co/anime/170695 |  |
+| Kengan Ashura Season 2 Part 2 | KENGAN ASHURA Season 2 Part.2 | https://anilist.co/anime/169692 |  |
+| KING OF PRISM -Dramatic PRISM.1- | KING OF PRISM -Dramatic PRISM.1- | https://anilist.co/anime/176275 |  |
 | Kaijuu 8-gou | Kaiju No.8 | https://anilist.co/anime/153288 | [Link](https://ani.social/post/4318230) |
+| Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita. | Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita. | https://anilist.co/anime/170938 |  |
+| Kimi ni Todoke 3RD SEASON | Kimi ni Todoke: From Me to You Season 3 | https://anilist.co/anime/168872 |  |
+| Kinnikuman: Kanpeki Choujin Shiso-hen | Kinnikuman: Kanpeki Choujin Shiso-hen | https://anilist.co/anime/162796 |  |
+| Koi wa Futago de Warikirenai | Love Is Indivisible by Twins | https://anilist.co/anime/167144 |  |
+| Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 1 | Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 1 | https://anilist.co/anime/166476 |  |
+| Madougushi Dahlia wa Utsumukanai | Madougushi Dahlia wa Utsumukanai | https://anilist.co/anime/168623 |  |
+| Make Heroine ga Oosugiru! | Makeine: Too Many Losing Heroines! | https://anilist.co/anime/171457 |  |
+| Mayonaka Punch | Mayonaka Punch | https://anilist.co/anime/174044 |  |
+| Mob kara Hajimaru Tansaku Eiyuutan | Mob kara Hajimaru Tansaku Eiyuutan | https://anilist.co/anime/172416 |  |
+| Monogatari Series: Off and Monster Season | Monogatari Series: Off and Monster Season | https://anilist.co/anime/173533 |  |
+| Mononoke: Karakasa | Mononoke: Karakasa | https://anilist.co/anime/151117 |  |
 | Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2 | Mushoku Tensei: Jobless Reincarnation Season 2 Part 2 | https://anilist.co/anime/166873 | [Link](https://ani.social/post/4336328) |
+| Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 |  |
+| Na-Nare Hana-Nare | Narenare -Cheer for You!- | https://anilist.co/anime/170891 |  |
+| NieR:Automata Ver1.1a 2nd Season | NieR:Automata Ver1.1a Cour 2 | https://anilist.co/anime/167420 |  |
+| Nige Jouzu no Wakagimi | Nige Jouzu no Wakagimi | https://anilist.co/anime/162896 |  |
+| Isekai Shikkaku | No Longer Allowed in Another World | https://anilist.co/anime/152137 |  |
+| Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II | Our Last Crusade or the Rise of a New World Season 2 | https://anilist.co/anime/139825 |  |
+| Elf-san wa Yaserarenai. | Plus-Sized Elf | https://anilist.co/anime/173388 |  |
+| Giji Harem | Pseudo Harem | https://anilist.co/anime/163623 |  |
+| Kono Sekai wa Fukanzen Sugiru | Quality Assurance in Another World | https://anilist.co/anime/163077 |  |
+| Ramen Aka Neko | Ramen Aka Neko | https://anilist.co/anime/170998 |  |
+| Shoushimin Series | SHOSHIMIN: How to Become Ordinary | https://anilist.co/anime/173295 |  |
+| Sengoku Youko: Senma Konton-hen | Sengoku Youko: Thousand Demons Chaos Arc | https://anilist.co/anime/176660 |  |
+| Senpai wa Otokonoko | Senpai is an Otokonoko | https://anilist.co/anime/163133 |  |
 | Hibike! Euphonium 3 | Sound! Euphonium 3 | https://anilist.co/anime/109731 | [Link](https://ani.social/post/4331284) |
+| StPri: Hajimari no Monogatari - Strawberry School Festival!!! | StPri: Hajimari no Monogatari - Strawberry School Festival!!! | https://anilist.co/anime/176319 |  |
 | Tsuki ga Michibiku Isekai Douchuu 2nd Season | TSUKIMICHI -Moonlit Fantasy- Season 2 | https://anilist.co/anime/139518 | [Link](https://ani.social/post/4228970) |
+| Tensui no Sakuna-hime | Tensui no Sakuna-hime | https://anilist.co/anime/175868 |  |
+| Terminator ZERO | Terminator ZERO | https://anilist.co/anime/177814 |  |
+| Megami no Café Terrace 2nd Season | The Café Terrace and Its Goddesses Season 2 | https://anilist.co/anime/166477 |  |
+| Kimi no Iro | The Colors Within | https://anilist.co/anime/158166 |  |
 | The Fable | The Fable | https://anilist.co/anime/166910 | [Link](https://ani.social/post/4320027) |
 | Tonari no Youkai-san | Tonari no Yokai-san | https://anilist.co/anime/146867 | [Link](https://ani.social/post/4321218) |
+| Kami no Tou: Tower of God 2nd SEASON | Tower of God Season 2 | https://anilist.co/anime/153406 |  |
 | Shuumatsu Train Doko e Iku? | Train to the End of the World | https://anilist.co/anime/155657 | [Link](https://ani.social/post/4099651) |
+| Tasogare Outfocus | Twilight Out of Focus | https://anilist.co/anime/166700 |  |
 | T・P Bon | T・P Bon | https://anilist.co/anime/169930 | [Link](https://ani.social/post/3487365) |
 | Unnamed Memory | Unnamed Memory | https://anilist.co/anime/158709 | [Link](https://ani.social/post/4246738) |
+| VTuber nanda ga Haishin Kiri Wasuretara Densetsu ni Natteta | VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream | https://anilist.co/anime/160488 |  |
 | Kenka Dokugaku | Viral Hit | https://anilist.co/anime/174653 | [Link](https://ani.social/post/4266389) |
 | WIND BREAKER | WIND BREAKER | https://anilist.co/anime/163270 | [Link](https://ani.social/post/4283792) |
+| Naze Boku no Sekai wo Daremo Oboeteinai no ka? | Why Does Nobody Remember Me in This World? | https://anilist.co/anime/167419 |  |
+| Tsue to Tsurugi no Wistoria | Wistoria: Wand and Sword | https://anilist.co/anime/174576 |  |
+| Wonderful Precure! The Movie! | Wonderful Precure! The Movie! | https://anilist.co/anime/169403 |  |
+| Yami Shibai 13 | Yami Shibai 13 | https://anilist.co/anime/177922 |  |
+| Zegapain STA | Zegapain STA | https://anilist.co/anime/168998 |  |
 {.dense}
 
 ## Requestable Shows
