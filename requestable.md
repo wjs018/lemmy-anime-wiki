@@ -17,6 +17,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san | Alya Sometimes Hides Her Feelings in Russian | https://anilist.co/anime/162804 |  |
 | Tensei Kizoku, Kantei Skill de Nariagaru | As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World | https://anilist.co/anime/164702 | [Link](https://ani.social/post/4335837) |
 | Boku no Tsuma wa Kanjou ga Nai | Boku no Tsuma wa Kanjou ga Nai | https://anilist.co/anime/175450 |  |
+| Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life | Chillin' in Another World with Level 2 Super Cheat Powers | https://anilist.co/anime/170130 | [Link](https://ani.social/post/4356171) |
 | Dead Dead Demon's Dededededestruction | DEAD DEAD DEMONS DEDEDEDE DESTRUCTION | https://anilist.co/anime/177697 | [Link](https://ani.social/post/4292711) |
 | Kimetsu no Yaiba: Hashira Geiko-hen | Demon Slayer: Kimetsu no Yaiba Hashira Training Arc | https://anilist.co/anime/166240 | [Link](https://ani.social/post/4334589) |
 | FAIRY TAIL: 100 YEARS QUEST | FAIRY TAIL: 100 YEARS QUEST | https://anilist.co/anime/139095 |  |
@@ -71,7 +72,6 @@ These shows have had episodes air already, but no thread was created because the
 | Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 12 |
 | Chibi Maruko-chan (1995) | Chibi Maruko-chan | https://anilist.co/anime/6149 | Episode 1436 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 175 |
-| Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life | Chillin' in Another World with Level 2 Super Cheat Powers | https://anilist.co/anime/170130 | Episode 12 |
 | Code Geass: Dakkan no Rozé | Code Geass: Rozé of the Recapture | https://anilist.co/anime/126830 | Episode 1 |
 | Date A Live V | Date A Live V | https://anilist.co/anime/151380 | Episode 11 |
 | Dungeon Meshi | Delicious in Dungeon | https://anilist.co/anime/153518 | Episode 24 |
