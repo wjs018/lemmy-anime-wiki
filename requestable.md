@@ -152,5 +152,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Tasuuketsu | TASUKETSU -Fate of the Majority- | https://anilist.co/anime/174070 | July 02 at 17:10 |
 | Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru. | The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible | https://anilist.co/anime/163292 | July 01 at 17:00 |
 | Maou Gun Saikyou no Majutsushi wa Ningen datta | The Strongest Magician in the Demon Lord's Army was a Human | https://anilist.co/anime/173584 | June 26 at 13:30 |
+| Tasogare Outfocus | Twilight Out of Focus | https://anilist.co/anime/166700 | July 04 at 14:30 |
 | Yuru Camp△ SEASON 3 OVA | Yuru Camp△ SEASON 3 OVA | https://anilist.co/anime/177007 | June 25 at 15:00 |
 {.dense}
