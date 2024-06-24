@@ -15,36 +15,12 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
 | Tensei Kizoku, Kantei Skill de Nariagaru | As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World | https://anilist.co/anime/164702 | [Link](https://ani.social/post/4335837) |
-| Atashin'chi NEXT | Atashin'chi NEXT | https://anilist.co/anime/173313 |  |
-| Bocchi the Rock! Re:Re: | Bocchi the Rock! Re:Re: | https://anilist.co/anime/171099 |  |
-| Boku no Hero Academia THE MOVIE: YOU'RE NEXT | Boku no Hero Academia THE MOVIE: YOU'RE NEXT | https://anilist.co/anime/168013 |  |
-| Bye Bye, Earth | Bye Bye, Earth | https://anilist.co/anime/157371 |  |
-| Cardfight!! Vanguard: Divinez Season 2 | Cardfight!! Vanguard: Divinez Season 2 | https://anilist.co/anime/165681 |  |
-| Koneko no Chii: Ponponra Natsuyasumi | Chi’s Sweet Adventure: Summer Vacation | https://anilist.co/anime/175120 |  |
-| Crayon Shin-chan: Ora-tachi no Kyouryuu Nikki | Crayon Shin-chan: Ora-tachi no Kyouryuu Nikki | https://anilist.co/anime/171145 |  |
 | Dead Dead Demon's Dededededestruction | DEAD DEAD DEMONS DEDEDEDE DESTRUCTION | https://anilist.co/anime/177697 | [Link](https://ani.social/post/4292711) |
-| Gimai Seikatsu | Days with My Stepsister | https://anilist.co/anime/152681 |  |
-| Delico's Nursery | Delico's Nursery | https://anilist.co/anime/167991 |  |
 | Kimetsu no Yaiba: Hashira Geiko-hen | Demon Slayer: Kimetsu no Yaiba Hashira Training Arc | https://anilist.co/anime/166240 | [Link](https://ani.social/post/4334589) |
-| Dungeon no Naka no Hito | Dungeon People | https://anilist.co/anime/168345 |  |
-| FAIRY TAIL: 100 YEARS QUEST | FAIRY TAIL: 100 YEARS QUEST | https://anilist.co/anime/139095 |  |
 | Sentai Daishikkaku | GO! GO! Loser Ranger! | https://anilist.co/anime/158417 | [Link](https://ani.social/post/4330973) |
-| Bakeneko Anzu-chan | Ghost Cat Anzu | https://anilist.co/anime/158641 |  |
 | Girls Band Cry | Girls Band Cry | https://anilist.co/anime/164212 | [Link](https://ani.social/post/4301517) |
 | Kami wa Game ni Ueteiru. | Gods' Games We Play | https://anilist.co/anime/144176 | [Link](https://ani.social/post/4227512) |
-| Gotchard Short Anime: Gotchanime - Furasu Koukou Nanafushigi wo Gotcha Seyo! | Gotchard Short Anime: Gotchanime - Furasu Koukou Nanafushigi wo Gotcha Seyo! | https://anilist.co/anime/178352 |  |
-| Grendizer U | Grendizer U | https://anilist.co/anime/154195 |  |
-| Harimaware! Koinu 2nd Season | Harimaware! Koinu 2nd Season | https://anilist.co/anime/176283 |  |
-| Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | https://anilist.co/anime/173694 |  |
-| Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai | I Parry Everything! | https://anilist.co/anime/170695 |  |
-| Kengan Ashura Season 2 Part 2 | KENGAN ASHURA Season 2 Part.2 | https://anilist.co/anime/169692 |  |
-| KING OF PRISM -Dramatic PRISM.1- | KING OF PRISM -Dramatic PRISM.1- | https://anilist.co/anime/176275 |  |
 | Kaijuu 8-gou | Kaiju No.8 | https://anilist.co/anime/153288 | [Link](https://ani.social/post/4318230) |
-| Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita. | Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita. | https://anilist.co/anime/170938 |  |
-| Kimi ni Todoke 3RD SEASON | Kimi ni Todoke: From Me to You Season 3 | https://anilist.co/anime/168872 |  |
-| Kinnikuman: Kanpeki Choujin Shiso-hen | Kinnikuman: Kanpeki Choujin Shiso-hen | https://anilist.co/anime/162796 |  |
-| Koi wa Futago de Warikirenai | Love Is Indivisible by Twins | https://anilist.co/anime/167144 |  |
-| Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 1 | Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 1 | https://anilist.co/anime/166476 |  |
 | Madougushi Dahlia wa Utsumukanai | Madougushi Dahlia wa Utsumukanai | https://anilist.co/anime/168623 |  |
 | Make Heroine ga Oosugiru! | Makeine: Too Many Losing Heroines! | https://anilist.co/anime/171457 |  |
 | Mayonaka Punch | Mayonaka Punch | https://anilist.co/anime/174044 |  |
@@ -75,7 +51,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | The Fable | The Fable | https://anilist.co/anime/166910 | [Link](https://ani.social/post/4320027) |
 | Tonari no Youkai-san | Tonari no Yokai-san | https://anilist.co/anime/146867 | [Link](https://ani.social/post/4321218) |
 | Kami no Tou: Tower of God 2nd SEASON | Tower of God Season 2 | https://anilist.co/anime/153406 |  |
-| Shuumatsu Train Doko e Iku? | Train to the End of the World | https://anilist.co/anime/155657 | [Link](https://ani.social/post/4099651) |
+| Shuumatsu Train Doko e Iku? | Train to the End of the World | https://anilist.co/anime/155657 | [Link](https://ani.social/post/4351457) |
 | Tasogare Outfocus | Twilight Out of Focus | https://anilist.co/anime/166700 |  |
 | T・P Bon | T・P Bon | https://anilist.co/anime/169930 | [Link](https://ani.social/post/3487365) |
 | Unnamed Memory | Unnamed Memory | https://anilist.co/anime/158709 | [Link](https://ani.social/post/4246738) |
@@ -183,6 +159,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san | Alya Sometimes Hides Her Feelings in Russian | https://anilist.co/anime/162804 | July 03 at 14:30 |
 | Boku no Tsuma wa Kanjou ga Nai | Boku no Tsuma wa Kanjou ga Nai | https://anilist.co/anime/175450 | July 02 at 14:00 |
 | Bouken Tairiku Ania Kingdom: Densetsu no Guardian-hen | Bouken Tairiku Ania Kingdom: Densetsu no Guardian-hen | https://anilist.co/anime/177160 | June 28 at 04:00 |
+| Gimai Seikatsu | Days with My Stepsister | https://anilist.co/anime/152681 | July 04 at 12:00 |
 | Girls' F1st!!!! GT | Girls' F1st!!!! GT | https://anilist.co/anime/178067 | June 29 at 15:00 |
 | Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | June 25 at 15:00 |
 | Look Back | Look Back | https://anilist.co/anime/174788 | June 27 at 15:00 |
