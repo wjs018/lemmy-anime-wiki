@@ -91,11 +91,12 @@ These shows have had episodes air already, but no thread was created because the
 | Yozakura-san Chi no Daisakusen | Mission: Yozakura Family | https://anilist.co/anime/158898 | Episode 12 |
 | Boku no Hero Academia 7 | My Hero Academia Season 7 | https://anilist.co/anime/163139 | Episode 8 |
 | Kaii to Otome to Kamikakushi | Mysterious Disappearances | https://anilist.co/anime/160090 | Episode 11 |
+| NIJIYON ANIMATION 2: Shinsaku Animation | NIJIYON ANIMATION 2: Shinsaku Animation | https://anilist.co/anime/178396 | Episode 1 |
 | NIJIYON ANIMATION 2 | NIJIYON ANIMATION Season 2 | https://anilist.co/anime/172242 | Episode 12 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 123 |
 | Nyaaaanvy | Nyaaaanvy | https://anilist.co/anime/177798 | Episode 5 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1109 |
-| Boukyaku Battery (TV) | Oblivion Battery | https://anilist.co/anime/167927 | Episode 10 |
+| Boukyaku Battery (TV) | Oblivion Battery | https://anilist.co/anime/167927 | Episode 11 |
 | Oomuro-ke: dear friends | Oomuro-ke: dear friends | https://anilist.co/anime/174383 | Episode 1 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 55 |
 | Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2050 |
@@ -153,7 +154,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Look Back | Look Back | https://anilist.co/anime/174788 | June 27 at 16:00 |
 | Maarui Kanojo to Zannen na Kareshi | Maarui Kanojo to Zannen na Kareshi | https://anilist.co/anime/178421 | June 28 at 17:56 |
 | Monogatari Series: Off and Monster Season | Monogatari Series: Off and Monster Season | https://anilist.co/anime/173533 | July 05 at 15:00 |
-| NIJIYON ANIMATION 2: Shinsaku Animation | NIJIYON ANIMATION 2: Shinsaku Animation | https://anilist.co/anime/178396 | June 25 at 16:00 |
 | SHY: Tokyo Dakkan-hen | SHY Season 2 | https://anilist.co/anime/171748 | July 01 at 15:00 |
 | Sore Ike! Anpanman: Baikinman to Ehon no Lulun | Sore Ike! Anpanman: Baikinman to Ehon no Lulun | https://anilist.co/anime/172965 | June 27 at 15:00 |
 | Tasuuketsu | TASUKETSU -Fate of the Majority- | https://anilist.co/anime/174070 | July 02 at 17:10 |
