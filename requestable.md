@@ -148,7 +148,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | https://anilist.co/anime/173694 | July 04 at 15:59 |
 | Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | June 25 at 15:00 |
 | Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai | I Parry Everything! | https://anilist.co/anime/170695 | July 04 at 15:00 |
-| Look Back | Look Back | https://anilist.co/anime/174788 | June 27 at 15:00 |
+| Look Back | Look Back | https://anilist.co/anime/174788 | June 27 at 16:00 |
 | Maarui Kanojo to Zannen na Kareshi | Maarui Kanojo to Zannen na Kareshi | https://anilist.co/anime/178421 | June 28 at 17:56 |
 | NIJIYON ANIMATION 2: Shinsaku Animation | NIJIYON ANIMATION 2: Shinsaku Animation | https://anilist.co/anime/178396 | June 25 at 16:00 |
 | SHY: Tokyo Dakkan-hen | SHY Season 2 | https://anilist.co/anime/171748 | July 01 at 15:00 |
