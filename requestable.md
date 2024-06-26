@@ -162,6 +162,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | SHY: Tokyo Dakkan-hen | SHY Season 2 | https://anilist.co/anime/171748 | July 01 at 15:00 |
 | Sore Ike! Anpanman: Baikinman to Ehon no Lulun | Sore Ike! Anpanman: Baikinman to Ehon no Lulun | https://anilist.co/anime/172965 | June 27 at 15:00 |
 | Tasuuketsu | TASUKETSU -Fate of the Majority- | https://anilist.co/anime/174070 | July 02 at 17:10 |
+| Tensui no Sakuna-hime | Tensui no Sakuna-hime | https://anilist.co/anime/175868 | July 06 at 14:00 |
 | Megami no Café Terrace 2nd Season | The Café Terrace and Its Goddesses Season 2 | https://anilist.co/anime/166477 | July 04 at 15:26 |
 | Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru. | The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible | https://anilist.co/anime/163292 | July 01 at 17:00 |
 | Tasogare Outfocus | Twilight Out of Focus | https://anilist.co/anime/166700 | July 04 at 14:30 |
