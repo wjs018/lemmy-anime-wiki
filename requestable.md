@@ -90,7 +90,7 @@ These shows have had episodes air already, but no thread was created because the
 | Jongtama Kan!! | Mahjong Soul KAN!! | https://anilist.co/anime/172964 | Episode 9 |
 | Yozakura-san Chi no Daisakusen | Mission: Yozakura Family | https://anilist.co/anime/158898 | Episode 12 |
 | Boku no Hero Academia 7 | My Hero Academia Season 7 | https://anilist.co/anime/163139 | Episode 8 |
-| Kaii to Otome to Kamikakushi | Mysterious Disappearances | https://anilist.co/anime/160090 | Episode 11 |
+| Kaii to Otome to Kamikakushi | Mysterious Disappearances | https://anilist.co/anime/160090 | Episode 12 |
 | NIJIYON ANIMATION 2: Shinsaku Animation | NIJIYON ANIMATION 2: Shinsaku Animation | https://anilist.co/anime/178396 | Episode 1 |
 | NIJIYON ANIMATION 2 | NIJIYON ANIMATION Season 2 | https://anilist.co/anime/172242 | Episode 12 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 123 |
@@ -158,6 +158,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Maarui Kanojo to Zannen na Kareshi | Maarui Kanojo to Zannen na Kareshi | https://anilist.co/anime/178421 | June 28 at 17:56 |
 | Mob kara Hajimaru Tansaku Eiyuutan | Mob kara Hajimaru Tansaku Eiyuutan | https://anilist.co/anime/172416 | July 06 at 13:00 |
 | Monogatari Series: Off and Monster Season | Monogatari Series: Off and Monster Season | https://anilist.co/anime/173533 | July 05 at 15:00 |
+| Nige Jouzu no Wakagimi | Nige Jouzu no Wakagimi | https://anilist.co/anime/162896 | July 06 at 14:30 |
 | Kono Sekai wa Fukanzen Sugiru | Quality Assurance in Another World | https://anilist.co/anime/163077 | July 05 at 17:23 |
 | SHY: Tokyo Dakkan-hen | SHY Season 2 | https://anilist.co/anime/171748 | July 01 at 15:00 |
 | Sore Ike! Anpanman: Baikinman to Ehon no Lulun | Sore Ike! Anpanman: Baikinman to Ehon no Lulun | https://anilist.co/anime/172965 | June 27 at 15:00 |
