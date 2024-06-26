@@ -45,7 +45,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Shuumatsu Train Doko e Iku? | Train to the End of the World | https://anilist.co/anime/155657 | [Link](https://ani.social/post/4351457) |
 | T・P Bon | T・P Bon | https://anilist.co/anime/169930 | [Link](https://ani.social/post/3487365) |
 | Unnamed Memory | Unnamed Memory | https://anilist.co/anime/158709 | [Link](https://ani.social/post/4370815) |
-| Kenka Dokugaku | Viral Hit | https://anilist.co/anime/174653 | [Link](https://ani.social/post/4266389) |
+| Kenka Dokugaku | Viral Hit | https://anilist.co/anime/174653 | [Link](https://ani.social/post/4389633) |
 | WIND BREAKER | WIND BREAKER | https://anilist.co/anime/163270 | [Link](https://ani.social/post/4283792) |
 | Tsue to Tsurugi no Wistoria | Wistoria: Wand and Sword | https://anilist.co/anime/174576 |  |
 {.dense}
