@@ -238,6 +238,7 @@ Episode|Link
 9|[Link](https://ani.social/post/4012030)
 10|[Link](https://ani.social/post/4142945)
 11|[Link](https://ani.social/post/4266389)
+12|[Link](https://ani.social/post/4389633)
 {.dense}
 
 ## Kimetsu no Yaiba: Hashira Geiko-hen • Demon Slayer: Kimetsu no Yaiba Hashira Training Arc
