@@ -36,6 +36,14 @@ Episode|Link
 9|[Link](https://ani.social/post/3890365)
 {.dense}
 
+## Blue Archive The Animation
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/3016236)
+2|[Link](https://ani.social/post/3139554)
+{.dense}
+
 ## Boku no Hero Academia 7 • My Hero Academia Season 7
 
 Episode|Link
@@ -52,14 +60,6 @@ Episode|Link
 3|[Link](https://ani.social/post/3278416)
 {.dense}
 
-## Blue Archive The Animation
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/3016236)
-2|[Link](https://ani.social/post/3139554)
-{.dense}
-
 ## Date A Live V
 
 Episode|Link
@@ -74,16 +74,6 @@ Episode|Link
 8|[Link](https://ani.social/post/3889660)
 9|[Link](https://ani.social/post/4010391)
 10|[Link](https://ani.social/post/4140872)
-{.dense}
-
-## Dead Dead Demon's Dededededestruction • DEAD DEAD DEMONS DEDEDEDE DESTRUCTION
-
-Episode|Link
-:-:|:-:
-2|[Link](https://ani.social/post/3949973)
-3|[Link](https://ani.social/post/4035595)
-4|[Link](https://ani.social/post/4168065)
-5|[Link](https://ani.social/post/4292711)
 {.dense}
 
 ## Dekisokonai to Yobareta Moto Eiyuu wa, Jikka kara Tsuihou Sareta node Suki Katte ni Ikiru Koto ni Shita • The Banished Former Hero Lives as He Pleases
@@ -112,6 +102,17 @@ Episode|Link
 12|[Link](https://ani.social/post/4301517)
 {.dense}
 
+## HIGHSPEED Étoile
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/2991643)
+2|[Link](https://ani.social/post/3111220)
+3|[Link](https://ani.social/post/3217848)
+4|[Link](https://ani.social/post/3328376)
+5|[Link](https://ani.social/post/3442801)
+{.dense}
+
 ## Hananoi-kun to Koi no Yamai • A Condition Called Love
 
 Episode|Link
@@ -138,7 +139,7 @@ Episode|Link
 12|[Link](https://ani.social/post/4285014)
 {.dense}
 
-## Hibike! Euphonium 3 • Sound! Euphonium Season 3
+## Hibike! Euphonium 3 • Sound! Euphonium 3
 
 Episode|Link
 :-:|:-:
@@ -154,17 +155,6 @@ Episode|Link
 10|[Link](https://ani.social/post/4077407)
 11|[Link](https://ani.social/post/4208514)
 12|[Link](https://ani.social/post/4331284)
-{.dense}
-
-## HIGHSPEED Étoile
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/2991643)
-2|[Link](https://ani.social/post/3111220)
-3|[Link](https://ani.social/post/3217848)
-4|[Link](https://ani.social/post/3328376)
-5|[Link](https://ani.social/post/3442801)
 {.dense}
 
 ## Jii-san Baa-san Wakagaeru • Grandpa and Grandma Turn Young Again
@@ -368,7 +358,7 @@ Episode|Link
 4|[Link](https://ani.social/post/3334543)
 {.dense}
 
-## Ookami to Koushinryou: merchant meets the wise wolf • Spice and Wolf: merchant meets the wise wolf
+## Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF • Spice and Wolf: MERCHANT MEETS THE WISE WOLF
 
 Episode|Link
 :-:|:-:
@@ -478,12 +468,17 @@ Episode|Link
 12|[Link](https://ani.social/post/4351457)
 {.dense}
 
-## T・P Bon
+## THE NEW GATE
 
 Episode|Link
 :-:|:-:
-1|[Link](https://ani.social/post/3418551)
-12|[Link](https://ani.social/post/3487365)
+1|[Link](https://ani.social/post/3125120)
+2|[Link](https://ani.social/post/3233050)
+3|[Link](https://ani.social/post/3342953)
+4|[Link](https://ani.social/post/3458064)
+5|[Link](https://ani.social/post/3570954)
+6|[Link](https://ani.social/post/3688577)
+7|[Link](https://ani.social/post/3821597)
 {.dense}
 
 ## Tadaima, Okaeri
@@ -565,19 +560,6 @@ Episode|Link
 12|[Link](https://ani.social/post/4320027)
 {.dense}
 
-## THE NEW GATE
-
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/3125120)
-2|[Link](https://ani.social/post/3233050)
-3|[Link](https://ani.social/post/3342953)
-4|[Link](https://ani.social/post/3458064)
-5|[Link](https://ani.social/post/3570954)
-6|[Link](https://ani.social/post/3688577)
-7|[Link](https://ani.social/post/3821597)
-{.dense}
-
 ## Tonari no Youkai-san • Tonari no Yokai-san
 
 Episode|Link
@@ -596,12 +578,20 @@ Episode|Link
 12|[Link](https://ani.social/post/4321218)
 {.dense}
 
-## Touken Ranbu Kai: Kyoden Moyuru Honnouji
+## Touken Ranbu Kai: Kyoden Moyuru Honnouji • TOUKEN RANBU KAI KYODEN
 
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/2979240)
 2|[Link](https://ani.social/post/3058396)
+{.dense}
+
+## T・P Bon
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/3418551)
+12|[Link](https://ani.social/post/3487365)
 {.dense}
 
 ## Unnamed Memory
@@ -618,6 +608,7 @@ Episode|Link
 9|[Link](https://ani.social/post/3994161)
 10|[Link](https://ani.social/post/4122978)
 11|[Link](https://ani.social/post/4246738)
+12|[Link](https://ani.social/post/4370815)
 {.dense}
 
 ## Vampire Dormitory
@@ -691,3 +682,4 @@ Episode|Link
 11|[Link](https://ani.social/post/4158048)
 12|[Link](https://ani.social/post/4282296)
 {.dense}
+
