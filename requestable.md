@@ -73,7 +73,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chibi Maruko-chan (1995) | Chibi Maruko-chan | https://anilist.co/anime/6149 | Episode 1436 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 175 |
 | Code Geass: Dakkan no Rozé | Code Geass: Rozé of the Recapture | https://anilist.co/anime/126830 | Episode 1 |
-| Date A Live V | Date A Live V | https://anilist.co/anime/151380 | Episode 11 |
+| Date A Live V | Date A Live V | https://anilist.co/anime/151380 | Episode 12 |
 | Dungeon Meshi | Delicious in Dungeon | https://anilist.co/anime/153518 | Episode 24 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 816 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 137 |
