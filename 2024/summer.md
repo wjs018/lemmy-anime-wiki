@@ -20,3 +20,10 @@ Episode|Link
 5|[Link](https://ani.social/post/4292711)
 {.dense}
 
+## Isekai Suicide Squad • Suicide Squad ISEKAI
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/4403191)
+{.dense}
+
