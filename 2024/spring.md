@@ -637,6 +637,7 @@ Episode|Link
 10|[Link](https://ani.social/post/4028046)
 11|[Link](https://ani.social/post/4159341)
 12|[Link](https://ani.social/post/4283792)
+13|[Link](https://ani.social/post/4406035)
 {.dense}
 
 ## Yoru no Kurage wa Oyogenai • Jellyfish Can’t Swim in the Night
