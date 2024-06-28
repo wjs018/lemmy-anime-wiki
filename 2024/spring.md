@@ -74,6 +74,7 @@ Episode|Link
 8|[Link](https://ani.social/post/3889660)
 9|[Link](https://ani.social/post/4010391)
 10|[Link](https://ani.social/post/4140872)
+12|[Link](https://ani.social/post/4418172)
 {.dense}
 
 ## Dekisokonai to Yobareta Moto Eiyuu wa, Jikka kara Tsuihou Sareta node Suki Katte ni Ikiru Koto ni Shita • The Banished Former Hero Lives as He Pleases
