@@ -101,6 +101,7 @@ Episode|Link
 10|[Link](https://ani.social/post/4044484)
 11|[Link](https://ani.social/post/4176397)
 12|[Link](https://ani.social/post/4301517)
+13|[Link](https://ani.social/post/4423881)
 {.dense}
 
 ## HIGHSPEED Étoile
