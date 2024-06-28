@@ -18,6 +18,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Tensei Kizoku, Kantei Skill de Nariagaru | As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World | https://anilist.co/anime/164702 | [Link](https://ani.social/post/4335837) |
 | Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life | Chillin' in Another World with Level 2 Super Cheat Powers | https://anilist.co/anime/170130 | [Link](https://ani.social/post/4356171) |
 | Dead Dead Demon's Dededededestruction | DEAD DEAD DEMONS DEDEDEDE DESTRUCTION | https://anilist.co/anime/177697 | [Link](https://ani.social/post/4416117) |
+| Date A Live V | Date A Live V | https://anilist.co/anime/151380 | [Link](https://ani.social/post/4418172) |
 | Kimetsu no Yaiba: Hashira Geiko-hen | Demon Slayer: Kimetsu no Yaiba Hashira Training Arc | https://anilist.co/anime/166240 | [Link](https://ani.social/post/4334589) |
 | FAIRY TAIL: 100 YEARS QUEST | FAIRY TAIL: 100 YEARS QUEST | https://anilist.co/anime/139095 |  |
 | Sentai Daishikkaku | GO! GO! Loser Ranger! | https://anilist.co/anime/158417 | [Link](https://ani.social/post/4330973) |
@@ -74,7 +75,6 @@ These shows have had episodes air already, but no thread was created because the
 | Chibi Maruko-chan (1995) | Chibi Maruko-chan | https://anilist.co/anime/6149 | Episode 1436 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 176 |
 | Code Geass: Dakkan no Rozé | Code Geass: Rozé of the Recapture | https://anilist.co/anime/126830 | Episode 2 |
-| Date A Live V | Date A Live V | https://anilist.co/anime/151380 | Episode 12 |
 | Dungeon Meshi | Delicious in Dungeon | https://anilist.co/anime/153518 | Episode 24 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 816 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 137 |
