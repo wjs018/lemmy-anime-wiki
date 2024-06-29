@@ -563,6 +563,7 @@ Episode|Link
 10|[Link](https://ani.social/post/4063550)
 11|[Link](https://ani.social/post/4195292)
 12|[Link](https://ani.social/post/4320027)
+13|[Link](https://ani.social/post/4442481)
 {.dense}
 
 ## Tonari no Youkai-san • Tonari no Yokai-san
