@@ -70,7 +70,7 @@ These shows have had episodes air already, but no thread was created because the
 | BONOBONO (2016) | Bono Bono (2016) | https://anilist.co/anime/21552 | Episode 416 |
 | Bouken Tairiku Ania Kingdom: Densetsu no Guardian-hen | Bouken Tairiku Ania Kingdom: Densetsu no Guardian-hen | https://anilist.co/anime/177160 | Episode 1 |
 | Captain Tsubasa: Season 2 - Junior Youth-hen | Captain Tsubasa: Junior Youth Arc | https://anilist.co/anime/163024 | Episode 38 |
-| Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1128 |
+| Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1129 |
 | Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 13 |
 | Chibi Maruko-chan (1995) | Chibi Maruko-chan | https://anilist.co/anime/6149 | Episode 1436 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 176 |
