@@ -543,6 +543,7 @@ Episode|Link
 9|[Link](https://ani.social/post/3922846)
 10|[Link](https://ani.social/post/4055014)
 11|[Link](https://ani.social/post/4175465)
+13|[Link](https://ani.social/post/4437970)
 {.dense}
 
 ## The Fable
