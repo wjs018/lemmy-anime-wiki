@@ -582,6 +582,7 @@ Episode|Link
 10|[Link](https://ani.social/post/4064665)
 11|[Link](https://ani.social/post/4195768)
 12|[Link](https://ani.social/post/4321218)
+13|[Link](https://ani.social/post/4443776)
 {.dense}
 
 ## Touken Ranbu Kai: Kyoden Moyuru Honnouji • TOUKEN RANBU KAI KYODEN
