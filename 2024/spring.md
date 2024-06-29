@@ -204,6 +204,7 @@ Episode|Link
 9|[Link](https://ani.social/post/4062023)
 10|[Link](https://ani.social/post/4193927)
 11|[Link](https://ani.social/post/4318230)
+12|[Link](https://ani.social/post/4440434)
 {.dense}
 
 ## Kami wa Game ni Ueteiru. • Gods' Games We Play
