@@ -41,7 +41,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Isekai Suicide Squad | Suicide Squad ISEKAI | https://anilist.co/anime/166710 | [Link](https://ani.social/post/4403191) |
 | Tsuki ga Michibiku Isekai Douchuu 2nd Season | TSUKIMICHI -Moonlit Fantasy- Season 2 | https://anilist.co/anime/139518 | [Link](https://ani.social/post/4353266) |
 | Tensei Shitara Slime Datta Ken 3rd Season | That Time I Got Reincarnated as a Slime Season 3 | https://anilist.co/anime/156822 | [Link](https://ani.social/post/4437970) |
-| The Fable | The Fable | https://anilist.co/anime/166910 | [Link](https://ani.social/post/4320027) |
+| The Fable | The Fable | https://anilist.co/anime/166910 | [Link](https://ani.social/post/4442481) |
 | Tonari no Youkai-san | Tonari no Yokai-san | https://anilist.co/anime/146867 | [Link](https://ani.social/post/4321218) |
 | Kami no Tou: Tower of God 2nd SEASON | Tower of God Season 2 | https://anilist.co/anime/153406 |  |
 | Shuumatsu Train Doko e Iku? | Train to the End of the World | https://anilist.co/anime/155657 | [Link](https://ani.social/post/4351457) |
