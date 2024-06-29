@@ -31,7 +31,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Mayonaka Punch | Mayonaka Punch | https://anilist.co/anime/174044 |  |
 | Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2 | Mushoku Tensei: Jobless Reincarnation Season 2 Part 2 | https://anilist.co/anime/166873 | [Link](https://ani.social/post/4336328) |
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 |  |
-| Boku no Tsuma wa Kanjou ga Nai | My Wife Has No Emotion | https://anilist.co/anime/175450 |  |
+| Boku no Tsuma wa Kanjou ga Nai | My Wife Has No Emotion | https://anilist.co/anime/175450 | [Link](https://ani.social/post/4439764) |
 | Na-Nare Hana-Nare | Narenare -Cheer for You!- | https://anilist.co/anime/170891 |  |
 | NieR:Automata Ver1.1a 2nd Season | NieR:Automata Ver1.1a Cour 2 | https://anilist.co/anime/167420 |  |
 | [Oshi no Ko] 2nd Season | Oshi no Ko Season 2 | https://anilist.co/anime/166531 |  |
