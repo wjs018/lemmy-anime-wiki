@@ -452,6 +452,7 @@ Episode|Link
 9|[Link](https://ani.social/post/4076700)
 10|[Link](https://ani.social/post/4208219)
 11|[Link](https://ani.social/post/4330973)
+12|[Link](https://ani.social/post/4452937)
 {.dense}
 
 ## Shuumatsu Train Doko e Iku? • Train to the End of the World
