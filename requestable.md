@@ -31,7 +31,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | [Oshi no Ko] 2nd Season | Oshi no Ko Season 2 | https://anilist.co/anime/166531 |  |
 | Giji Harem | Pseudo Harem | https://anilist.co/anime/163623 |  |
 | Senpai wa Otokonoko | Senpai is an Otokonoko | https://anilist.co/anime/163133 |  |
-| Hibike! Euphonium 3 | Sound! Euphonium 3 | https://anilist.co/anime/109731 | [Link](https://ani.social/post/4331284) |
+| Hibike! Euphonium 3 | Sound! Euphonium 3 | https://anilist.co/anime/109731 | [Link](https://ani.social/post/4453631) |
 | Isekai Suicide Squad | Suicide Squad ISEKAI | https://anilist.co/anime/166710 | [Link](https://ani.social/post/4403191) |
 | Tensei Shitara Slime Datta Ken 3rd Season | That Time I Got Reincarnated as a Slime Season 3 | https://anilist.co/anime/156822 | [Link](https://ani.social/post/4437970) |
 | The Fable | The Fable | https://anilist.co/anime/166910 | [Link](https://ani.social/post/4442481) |
@@ -83,7 +83,7 @@ These shows have had episodes air already, but no thread was created because the
 | Look Back | Look Back | https://anilist.co/anime/174788 | Episode 1 |
 | Maarui Kanojo to Zannen na Kareshi | Maarui Kanojo to Zannen na Kareshi | https://anilist.co/anime/178421 | Episode 4 |
 | Jongtama Kan!! | Mahjong Soul KAN!! | https://anilist.co/anime/172964 | Episode 10 |
-| Yozakura-san Chi no Daisakusen | Mission: Yozakura Family | https://anilist.co/anime/158898 | Episode 12 |
+| Yozakura-san Chi no Daisakusen | Mission: Yozakura Family | https://anilist.co/anime/158898 | Episode 13 |
 | Boku no Hero Academia 7 | My Hero Academia Season 7 | https://anilist.co/anime/163139 | Episode 9 |
 | Kaii to Otome to Kamikakushi | Mysterious Disappearances | https://anilist.co/anime/160090 | Episode 12 |
 | NIJIYON ANIMATION 2: Shinsaku Animation | NIJIYON ANIMATION 2: Shinsaku Animation | https://anilist.co/anime/178396 | Episode 1 |
