@@ -152,7 +152,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita. | Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita. | https://anilist.co/anime/170938 | July 09 at 13:45 |
 | Kinnikuman: Kanpeki Choujin Shiso-hen | Kinnikuman: Kanpeki Choujin Shiso-hen | https://anilist.co/anime/162796 | July 07 at 14:30 |
 | Mob kara Hajimaru Tansaku Eiyuutan | Mob kara Hajimaru Tansaku Eiyuutan | https://anilist.co/anime/172416 | July 06 at 13:00 |
-| Monogatari Series: Off and Monster Season | Monogatari Series: Off and Monster Season | https://anilist.co/anime/173533 | July 05 at 15:00 |
+| Monogatari Series: Off and Monster Season | Monogatari Series: Off and Monster Season | https://anilist.co/anime/173533 | July 06 at 13:00 |
 | Nige Jouzu no Wakagimi | Nige Jouzu no Wakagimi | https://anilist.co/anime/162896 | July 06 at 14:30 |
 | Isekai Shikkaku | No Longer Allowed in Another World | https://anilist.co/anime/152137 | July 09 at 14:30 |
 | Elf-san wa Yaserarenai. | Plus-Sized Elf | https://anilist.co/anime/173388 | July 06 at 16:30 |
