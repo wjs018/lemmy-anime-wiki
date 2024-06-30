@@ -344,6 +344,7 @@ Episode|Link
 9|[Link](https://ani.social/post/4082866)
 10|[Link](https://ani.social/post/4212726)
 11|[Link](https://ani.social/post/4336328)
+12|[Link](https://ani.social/post/4458459)
 {.dense}
 
 ## One Room, Hi Atari Futsuu, Tenshi Tsuki. • Studio Apartment, Good Lighting, Angel Included
