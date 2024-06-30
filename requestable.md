@@ -155,6 +155,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Monogatari Series: Off and Monster Season | Monogatari Series: Off and Monster Season | https://anilist.co/anime/173533 | July 06 at 13:00 |
 | Nige Jouzu no Wakagimi | Nige Jouzu no Wakagimi | https://anilist.co/anime/162896 | July 06 at 14:30 |
 | Isekai Shikkaku | No Longer Allowed in Another World | https://anilist.co/anime/152137 | July 09 at 14:30 |
+| Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II | Our Last Crusade or the Rise of a New World Season 2 | https://anilist.co/anime/139825 | July 10 at 16:30 |
 | Elf-san wa Yaserarenai. | Plus-Sized Elf | https://anilist.co/anime/173388 | July 06 at 16:30 |
 | Kono Sekai wa Fukanzen Sugiru | Quality Assurance in Another World | https://anilist.co/anime/163077 | July 05 at 17:23 |
 | Shoushimin Series | SHOSHIMIN: How to Become Ordinary | https://anilist.co/anime/173295 | July 06 at 16:30 |
