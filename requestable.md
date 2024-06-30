@@ -15,16 +15,10 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
 | Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san | Alya Sometimes Hides Her Feelings in Russian | https://anilist.co/anime/162804 |  |
-| Tensei Kizoku, Kantei Skill de Nariagaru | As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World | https://anilist.co/anime/164702 | [Link](https://ani.social/post/4335837) |
-| Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life | Chillin' in Another World with Level 2 Super Cheat Powers | https://anilist.co/anime/170130 | [Link](https://ani.social/post/4356171) |
 | Dead Dead Demon's Dededededestruction | DEAD DEAD DEMONS DEDEDEDE DESTRUCTION | https://anilist.co/anime/177697 | [Link](https://ani.social/post/4416117) |
-| Date A Live V | Date A Live V | https://anilist.co/anime/151380 | [Link](https://ani.social/post/4418172) |
 | Kimetsu no Yaiba: Hashira Geiko-hen | Demon Slayer: Kimetsu no Yaiba Hashira Training Arc | https://anilist.co/anime/166240 | [Link](https://ani.social/post/4334589) |
 | FAIRY TAIL: 100 YEARS QUEST | FAIRY TAIL: 100 YEARS QUEST | https://anilist.co/anime/139095 |  |
 | Sentai Daishikkaku | GO! GO! Loser Ranger! | https://anilist.co/anime/158417 | [Link](https://ani.social/post/4330973) |
-| Girls Band Cry | Girls Band Cry | https://anilist.co/anime/164212 | [Link](https://ani.social/post/4423881) |
-| Kami wa Game ni Ueteiru. | Gods' Games We Play | https://anilist.co/anime/144176 | [Link](https://ani.social/post/4351521) |
-| Kaijuu 8-gou | Kaiju No.8 | https://anilist.co/anime/153288 | [Link](https://ani.social/post/4440434) |
 | Koi wa Futago de Warikirenai | Love Is Indivisible by Twins | https://anilist.co/anime/167144 |  |
 | Madougushi Dahlia wa Utsumukanai | Madougushi Dahlia wa Utsumukanai | https://anilist.co/anime/168623 |  |
 | Make Heroine ga Oosugiru! | Makeine: Too Many Losing Heroines! | https://anilist.co/anime/171457 |  |
@@ -39,16 +33,10 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Senpai wa Otokonoko | Senpai is an Otokonoko | https://anilist.co/anime/163133 |  |
 | Hibike! Euphonium 3 | Sound! Euphonium 3 | https://anilist.co/anime/109731 | [Link](https://ani.social/post/4331284) |
 | Isekai Suicide Squad | Suicide Squad ISEKAI | https://anilist.co/anime/166710 | [Link](https://ani.social/post/4403191) |
-| Tsuki ga Michibiku Isekai Douchuu 2nd Season | TSUKIMICHI -Moonlit Fantasy- Season 2 | https://anilist.co/anime/139518 | [Link](https://ani.social/post/4353266) |
 | Tensei Shitara Slime Datta Ken 3rd Season | That Time I Got Reincarnated as a Slime Season 3 | https://anilist.co/anime/156822 | [Link](https://ani.social/post/4437970) |
 | The Fable | The Fable | https://anilist.co/anime/166910 | [Link](https://ani.social/post/4442481) |
-| Tonari no Youkai-san | Tonari no Yokai-san | https://anilist.co/anime/146867 | [Link](https://ani.social/post/4443776) |
 | Kami no Tou: Tower of God 2nd SEASON | Tower of God Season 2 | https://anilist.co/anime/153406 |  |
-| Shuumatsu Train Doko e Iku? | Train to the End of the World | https://anilist.co/anime/155657 | [Link](https://ani.social/post/4351457) |
 | T・P Bon | T・P Bon | https://anilist.co/anime/169930 | [Link](https://ani.social/post/3487365) |
-| Unnamed Memory | Unnamed Memory | https://anilist.co/anime/158709 | [Link](https://ani.social/post/4370815) |
-| Kenka Dokugaku | Viral Hit | https://anilist.co/anime/174653 | [Link](https://ani.social/post/4389633) |
-| WIND BREAKER | WIND BREAKER | https://anilist.co/anime/163270 | [Link](https://ani.social/post/4406035) |
 | Tsue to Tsurugi no Wistoria | Wistoria: Wand and Sword | https://anilist.co/anime/174576 |  |
 {.dense}
 
@@ -75,7 +63,9 @@ These shows have had episodes air already, but no thread was created because the
 | Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 13 |
 | Chibi Maruko-chan (1995) | Chibi Maruko-chan | https://anilist.co/anime/6149 | Episode 1436 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 176 |
+| Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life | Chillin' in Another World with Level 2 Super Cheat Powers | https://anilist.co/anime/170130 | Episode 11 |
 | Code Geass: Dakkan no Rozé | Code Geass: Rozé of the Recapture | https://anilist.co/anime/126830 | Episode 2 |
+| Date A Live V | Date A Live V | https://anilist.co/anime/151380 | Episode 11 |
 | Dungeon Meshi | Delicious in Dungeon | https://anilist.co/anime/153518 | Episode 24 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 817 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 138 |
