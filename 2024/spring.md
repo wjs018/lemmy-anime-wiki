@@ -157,6 +157,7 @@ Episode|Link
 10|[Link](https://ani.social/post/4077407)
 11|[Link](https://ani.social/post/4208514)
 12|[Link](https://ani.social/post/4331284)
+13|[Link](https://ani.social/post/4453631)
 {.dense}
 
 ## Jii-san Baa-san Wakagaeru • Grandpa and Grandma Turn Young Again
