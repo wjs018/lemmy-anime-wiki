@@ -256,6 +256,7 @@ Episode|Link
 5|[Link](https://ani.social/post/4081303)
 6|[Link](https://ani.social/post/4211137)
 7|[Link](https://ani.social/post/4334589)
+8|[Link](https://ani.social/post/4457465)
 {.dense}
 
 ## Kono Subarashii Sekai ni Shukufuku wo! 3 • KONOSUBA -God's Blessing on This Wonderful World! 3
