@@ -101,6 +101,7 @@ These shows have had episodes air already, but no thread was created because the
 | Rinkai! | Rinkai! | https://anilist.co/anime/163141 | Episode 12 |
 | Rising Impact | Rising Impact | https://anilist.co/anime/171115 | Episode 1 |
 | SHIBUYA♡HACHI | SHIBUYA♡HACHI | https://anilist.co/anime/176577 | Episode 13 |
+| SHY: Tokyo Dakkan-hen | SHY Season 2 | https://anilist.co/anime/171748 | Episode 1 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Battles | Sai-Kyo-Oh! Zukan: The Ultimate Battles | https://anilist.co/anime/173216 | Episode 26 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2741 |
 | Shadowverse Flame: Arc-hen | Shadowverse Flame: Arc-hen | https://anilist.co/anime/172187 | Episode 11 |
@@ -160,7 +161,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II | Our Last Crusade or the Rise of a New World Season 2 | https://anilist.co/anime/139825 | July 10 at 16:30 |
 | Kono Sekai wa Fukanzen Sugiru | Quality Assurance in Another World | https://anilist.co/anime/163077 | July 05 at 17:23 |
 | Shoushimin Series | SHOSHIMIN: How to Become Ordinary | https://anilist.co/anime/173295 | July 06 at 16:30 |
-| SHY: Tokyo Dakkan-hen | SHY Season 2 | https://anilist.co/anime/171748 | July 01 at 15:00 |
 | Tasuuketsu | TASUKETSU -Fate of the Majority- | https://anilist.co/anime/174070 | July 02 at 17:10 |
 | Tensui no Sakuna-hime | Tensui no Sakuna-hime | https://anilist.co/anime/175868 | July 06 at 14:00 |
 | Megami no Café Terrace 2nd Season | The Café Terrace and Its Goddesses Season 2 | https://anilist.co/anime/166477 | July 04 at 15:26 |
