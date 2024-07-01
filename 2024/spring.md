@@ -34,6 +34,7 @@ Episode|Link
 7|[Link](https://ani.social/post/3636069)
 8|[Link](https://ani.social/post/3760461)
 9|[Link](https://ani.social/post/3890365)
+12|[Link](https://ani.social/post/4467039)
 {.dense}
 
 ## Blue Archive The Animation
