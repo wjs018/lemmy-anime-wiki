@@ -15,6 +15,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
 | Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san | Alya Sometimes Hides Her Feelings in Russian | https://anilist.co/anime/162804 |  |
+| Bartender: Kami no Glass | BARTENDER Glass of God | https://anilist.co/anime/155890 | [Link](https://ani.social/post/4467039) |
 | Dead Dead Demon's Dededededestruction | DEAD DEAD DEMONS DEDEDEDE DESTRUCTION | https://anilist.co/anime/177697 | [Link](https://ani.social/post/4416117) |
 | Kimetsu no Yaiba: Hashira Geiko-hen | Demon Slayer: Kimetsu no Yaiba Hashira Training Arc | https://anilist.co/anime/166240 | [Link](https://ani.social/post/4457465) |
 | FAIRY TAIL: 100 YEARS QUEST | FAIRY TAIL: 100 YEARS QUEST | https://anilist.co/anime/139095 |  |
@@ -50,7 +51,6 @@ These shows have had episodes air already, but no thread was created because the
 | Ageo to Tim | Ageo to Tim | https://anilist.co/anime/173250 | Episode 12 |
 | Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii? | An Archdemon's Dilemma: How to Love Your Elf Bride | https://anilist.co/anime/156023 | Episode 12 |
 | Astro Note | Astro Note | https://anilist.co/anime/171040 | Episode 12 |
-| Bartender: Kami no Glass | BARTENDER Glass of God | https://anilist.co/anime/155890 | Episode 12 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 38 |
 | Hanma Baki VS Kengan Ashura | Baki Hanma VS Kengan Ashura | https://anilist.co/anime/176287 | Episode 1 |
 | Kuroshitsuji: Kishuku Gakkou-hen | Black Butler: Public School Arc | https://anilist.co/anime/166715 | Episode 11 |
