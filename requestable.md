@@ -149,6 +149,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | 2.5 Jigen no Ririsa | 2.5 Dimensional Seduction | https://anilist.co/anime/158559 | July 05 at 13:30 |
 | Isekai Yururi Kikou: Kosodate Shinagara Boukensha Shimasu | A Journey Through Another World: Raising Kids While Adventuring | https://anilist.co/anime/171031 | July 07 at 15:50 |
 | Atashin'chi NEXT | Atashin'chi NEXT | https://anilist.co/anime/173313 | July 04 at 22:30 |
+| Bye Bye, Earth | Bye Bye, Earth | https://anilist.co/anime/157371 | July 12 at 14:30 |
 | Cardfight!! Vanguard: Divinez Season 2 | Cardfight!! Vanguard: Divinez Season 2 | https://anilist.co/anime/165681 | July 05 at 23:00 |
 | Gimai Seikatsu | Days with My Stepsister | https://anilist.co/anime/152681 | July 04 at 12:00 |
 | Egumi Legacy | Egumi Legacy | https://anilist.co/anime/177097 | July 09 at 13:30 |
