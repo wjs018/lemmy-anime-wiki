@@ -153,6 +153,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Gimai Seikatsu | Days with My Stepsister | https://anilist.co/anime/152681 | July 04 at 12:00 |
 | Egumi Legacy | Egumi Legacy | https://anilist.co/anime/177097 | July 09 at 13:30 |
 | Grendizer U | Grendizer U | https://anilist.co/anime/154195 | July 04 at 16:23 |
+| Harimaware! Koinu 2nd Season | Harimaware! Koinu 2nd Season | https://anilist.co/anime/176283 | July 05 at 22:00 |
 | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | https://anilist.co/anime/173694 | July 04 at 15:59 |
 | Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai | I Parry Everything! | https://anilist.co/anime/170695 | July 04 at 15:00 |
 | Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita. | Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita. | https://anilist.co/anime/170938 | July 09 at 13:45 |
