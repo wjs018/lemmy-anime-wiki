@@ -32,7 +32,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Boku no Tsuma wa Kanjou ga Nai | My Wife Has No Emotion | https://anilist.co/anime/175450 | [Link](https://ani.social/post/4447021) |
 | Na-Nare Hana-Nare | Narenare -Cheer for You!- | https://anilist.co/anime/170891 |  |
 | NieR:Automata Ver1.1a 2nd Season | NieR:Automata Ver1.1a Cour 2 | https://anilist.co/anime/167420 |  |
-| [Oshi no Ko] 2nd Season | Oshi no Ko Season 2 | https://anilist.co/anime/166531 |  |
+| [Oshi no Ko] 2nd Season | Oshi no Ko Season 2 | https://anilist.co/anime/166531 | [Link](https://ani.social/post/4512143) |
 | Elf-san wa Yaserarenai. | Plus-Sized Elf | https://anilist.co/anime/173388 |  |
 | Giji Harem | Pseudo Harem | https://anilist.co/anime/163623 |  |
 | Senpai wa Otokonoko | Senpai is an Otokonoko | https://anilist.co/anime/163133 |  |
@@ -115,15 +115,15 @@ These shows have had episodes air already, but no thread was created because the
 | Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF | Spice and Wolf: MERCHANT MEETS THE WISE WOLF | https://anilist.co/anime/145728 | Episode 14 |
 | One Room, Hi Atari Futsuu, Tenshi Tsuki. | Studio Apartment, Good Lighting, Angel Included | https://anilist.co/anime/169927 | Episode 12 |
 | Suu-funkan no Yell wo | Suu-funkan no Yell wo | https://anilist.co/anime/173935 | Episode 1 |
-| Tasuuketsu | TASUKETSU -Fate of the Majority- | https://anilist.co/anime/174070 | Episode 1 |
 | THE NEW GATE | THE NEW GATE | https://anilist.co/anime/170890 | Episode 12 |
 | The iDOLM@STER: Shiny Colors | THE iDOLM@STER SHINY COLORS | https://anilist.co/anime/162889 | Episode 12 |
 | Tadaima, Okaeri | Tadaima, Okaeri | https://anilist.co/anime/169698 | Episode 12 |
+| Tasuuketsu | Tasuketsu -Fate of the Majority- | https://anilist.co/anime/174070 | Episode 1 |
 | Dekisokonai to Yobareta Moto Eiyuu wa, Jikka kara Tsuihou Sareta node Suki Katte ni Ikiru Koto ni Shita | The Banished Former Hero Lives as He Pleases | https://anilist.co/anime/166372 | Episode 12 |
 | Shinigami Bocchan to Kuro Maid 3rd Season | The Duke of Death and His Maid Season 3 | https://anilist.co/anime/169584 | Episode 12 |
 | Mahouka Koukou no Rettousei 3rd Season | The Irregular at Magic High School Season 3 | https://anilist.co/anime/143271 | Episode 13 |
 | Seiyuu Radio no Uraomote | The Many Sides of Voice Actor Radio | https://anilist.co/anime/159039 | Episode 12 |
-| Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2 | The Misfit of Demon King Academy II (Cour 2) | https://anilist.co/anime/130590 | Episode 10 |
+| Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2 | The Misfit of Demon King Academy II (Cour 2) | https://anilist.co/anime/130590 | Episode 11 |
 | Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru. | The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible | https://anilist.co/anime/163292 | Episode 1 |
 | Maou Gun Saikyou no Majutsushi wa Ningen datta | The Strongest Magician in the Demon Lord's Army was a Human | https://anilist.co/anime/173584 | Episode 1 |
 | Ooi! Tonbo | Tonbo! | https://anilist.co/anime/164440 | Episode 13 |
@@ -157,7 +157,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Grendizer U | Grendizer U | https://anilist.co/anime/154195 | July 04 at 16:23 |
 | Harimaware! Koinu 2nd Season | Harimaware! Koinu 2nd Season | https://anilist.co/anime/176283 | July 05 at 22:00 |
 | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | https://anilist.co/anime/173694 | July 04 at 15:59 |
-| Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai | I Parry Everything! | https://anilist.co/anime/170695 | July 04 at 15:00 |
+| Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai | I Parry Everything | https://anilist.co/anime/170695 | July 04 at 15:00 |
 | Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita. | Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita. | https://anilist.co/anime/170938 | July 09 at 13:45 |
 | Mob kara Hajimaru Tansaku Eiyuutan | Mob kara Hajimaru Tansaku Eiyuutan | https://anilist.co/anime/172416 | July 06 at 13:00 |
 | Monogatari Series: Off and Monster Season | Monogatari Series: Off and Monster Season | https://anilist.co/anime/173533 | July 06 at 13:00 |
