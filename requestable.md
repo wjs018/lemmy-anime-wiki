@@ -14,7 +14,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
-| Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san | Alya Sometimes Hides Her Feelings in Russian | https://anilist.co/anime/162804 |  |
+| Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san | Alya Sometimes Hides Her Feelings in Russian | https://anilist.co/anime/162804 | [Link](https://ani.social/post/4512905) |
 | Bartender: Kami no Glass | BARTENDER Glass of God | https://anilist.co/anime/155890 | [Link](https://ani.social/post/4467039) |
 | Dead Dead Demon's Dededededestruction | DEAD DEAD DEMONS DEDEDEDE DESTRUCTION | https://anilist.co/anime/177697 | [Link](https://ani.social/post/4416117) |
 | Kimetsu no Yaiba: Hashira Geiko-hen | Demon Slayer: Kimetsu no Yaiba Hashira Training Arc | https://anilist.co/anime/166240 | [Link](https://ani.social/post/4457465) |
@@ -125,7 +125,7 @@ These shows have had episodes air already, but no thread was created because the
 | Seiyuu Radio no Uraomote | The Many Sides of Voice Actor Radio | https://anilist.co/anime/159039 | Episode 12 |
 | Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2 | The Misfit of Demon King Academy II (Cour 2) | https://anilist.co/anime/130590 | Episode 11 |
 | Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru. | The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible | https://anilist.co/anime/163292 | Episode 1 |
-| Maou Gun Saikyou no Majutsushi wa Ningen datta | The Strongest Magician in the Demon Lord's Army was a Human | https://anilist.co/anime/173584 | Episode 1 |
+| Maou Gun Saikyou no Majutsushi wa Ningen datta | The Strongest Magician in the Demon Lord's Army was a Human | https://anilist.co/anime/173584 | Episode 2 |
 | Ooi! Tonbo | Tonbo! | https://anilist.co/anime/164440 | Episode 13 |
 | Tousouchuu: Great Mission | Tousouchuu: Great Mission | https://anilist.co/anime/159560 | Episode 62 |
 | Urusei Yatsura (2022) 2nd Season | Urusei Yatsura (2022) Season 3 | https://anilist.co/anime/155645 | Episode 23 |
