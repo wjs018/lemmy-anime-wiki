@@ -81,7 +81,7 @@ These shows have had episodes air already, but no thread was created because the
 | Grendizer U | Grendizer U | https://anilist.co/anime/154195 | Episode 1 |
 | Grrr Grrr Tummy | Grrr Grrr Tummy | https://anilist.co/anime/178102 | Episode 1 |
 | HIGHSPEED Étoile | HIGHSPEED Étoile | https://anilist.co/anime/152302 | Episode 12 |
-| Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 558 |
+| Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 559 |
 | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | https://anilist.co/anime/173694 | Episode 1 |
 | Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | Episode 1 |
 | Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 13 |
