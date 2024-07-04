@@ -172,4 +172,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Tensui no Sakuna-hime | Tensui no Sakuna-hime | https://anilist.co/anime/175868 | July 06 at 14:00 |
 | VTuber nanda ga Haishin Kiri Wasuretara Densetsu ni Natteta | VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream | https://anilist.co/anime/160488 | July 07 at 15:30 |
 | Naze Boku no Sekai wo Daremo Oboeteinai no ka? | Why Does Nobody Remember Me in This World? | https://anilist.co/anime/167419 | July 13 at 13:30 |
+| Yami Shibai 13 | Yami Shibai 13 | https://anilist.co/anime/177922 | July 14 at 17:50 |
 {.dense}
