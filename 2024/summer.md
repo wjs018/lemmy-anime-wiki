@@ -35,6 +35,7 @@ Episode|Link
 1|[Link](https://ani.social/post/4403191)
 2|[Link](https://ani.social/post/4403191)
 3|[Link](https://ani.social/post/4403191)
+4|[Link](https://ani.social/post/4527210)
 {.dense}
 
 ## Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san • Alya Sometimes Hides Her Feelings in Russian
