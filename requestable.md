@@ -70,6 +70,7 @@ These shows have had episodes air already, but no thread was created because the
 | Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life | Chillin' in Another World with Level 2 Super Cheat Powers | https://anilist.co/anime/170130 | Episode 11 |
 | Code Geass: Dakkan no Rozé | Code Geass: Rozé of the Recapture | https://anilist.co/anime/126830 | Episode 2 |
 | Date A Live V | Date A Live V | https://anilist.co/anime/151380 | Episode 11 |
+| Gimai Seikatsu | Days with My Stepsister | https://anilist.co/anime/152681 | Episode 1 |
 | Dungeon Meshi | Delicious in Dungeon | https://anilist.co/anime/153518 | Episode 24 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 817 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 138 |
@@ -153,7 +154,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Atashin'chi NEXT | Atashin'chi NEXT | https://anilist.co/anime/173313 | July 04 at 22:30 |
 | Bye Bye, Earth | Bye Bye, Earth | https://anilist.co/anime/157371 | July 12 at 14:30 |
 | Cardfight!! Vanguard: Divinez Season 2 | Cardfight!! Vanguard: Divinez Season 2 | https://anilist.co/anime/165681 | July 05 at 23:00 |
-| Gimai Seikatsu | Days with My Stepsister | https://anilist.co/anime/152681 | July 04 at 12:00 |
 | Egumi Legacy | Egumi Legacy | https://anilist.co/anime/177097 | July 09 at 13:30 |
 | Grendizer U | Grendizer U | https://anilist.co/anime/154195 | July 04 at 16:23 |
 | Harimaware! Koinu 2nd Season | Harimaware! Koinu 2nd Season | https://anilist.co/anime/176283 | July 05 at 22:00 |
