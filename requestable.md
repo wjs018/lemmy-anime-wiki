@@ -87,7 +87,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kumarba | Kumarba | https://anilist.co/anime/173249 | Episode 13 |
 | Look Back | Look Back | https://anilist.co/anime/174788 | Episode 1 |
 | Maarui Kanojo to Zannen na Kareshi | Maarui Kanojo to Zannen na Kareshi | https://anilist.co/anime/178421 | Episode 4 |
-| Jongtama Kan!! | Mahjong Soul KAN!! | https://anilist.co/anime/172964 | Episode 10 |
+| Jongtama Kan!! | Mahjong Soul KAN!! | https://anilist.co/anime/172964 | Episode 11 |
 | Yozakura-san Chi no Daisakusen | Mission: Yozakura Family | https://anilist.co/anime/158898 | Episode 13 |
 | Boku no Hero Academia 7 | My Hero Academia Season 7 | https://anilist.co/anime/163139 | Episode 9 |
 | Kaii to Otome to Kamikakushi | Mysterious Disappearances | https://anilist.co/anime/160090 | Episode 12 |
