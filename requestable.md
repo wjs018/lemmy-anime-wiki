@@ -129,6 +129,7 @@ These shows have had episodes air already, but no thread was created because the
 | Maou Gun Saikyou no Majutsushi wa Ningen datta | The Strongest Magician in the Demon Lord's Army was a Human | https://anilist.co/anime/173584 | Episode 2 |
 | Ooi! Tonbo | Tonbo! | https://anilist.co/anime/164440 | Episode 13 |
 | Tousouchuu: Great Mission | Tousouchuu: Great Mission | https://anilist.co/anime/159560 | Episode 62 |
+| Tasogare Outfocus | Twilight Out of Focus | https://anilist.co/anime/166700 | Episode 1 |
 | Urusei Yatsura (2022) 2nd Season | Urusei Yatsura (2022) Season 3 | https://anilist.co/anime/155645 | Episode 23 |
 | Vampire Dormitory | Vampire Dormitory | https://anilist.co/anime/170604 | Episode 12 |
 | Wan Wan Train Doko e Iku? | Wan Wan Train Doko e Iku? | https://anilist.co/anime/177405 | Episode 9 |
@@ -169,7 +170,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Shoushimin Series | SHOSHIMIN: How to Become Ordinary | https://anilist.co/anime/173295 | July 06 at 16:30 |
 | Tensui no Sakuna-hime | Tensui no Sakuna-hime | https://anilist.co/anime/175868 | July 06 at 14:00 |
 | Megami no Café Terrace 2nd Season | The Café Terrace and Its Goddesses Season 2 | https://anilist.co/anime/166477 | July 04 at 15:26 |
-| Tasogare Outfocus | Twilight Out of Focus | https://anilist.co/anime/166700 | July 04 at 14:30 |
 | VTuber nanda ga Haishin Kiri Wasuretara Densetsu ni Natteta | VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream | https://anilist.co/anime/160488 | July 07 at 15:30 |
 | Naze Boku no Sekai wo Daremo Oboeteinai no ka? | Why Does Nobody Remember Me in This World? | https://anilist.co/anime/167419 | July 13 at 13:30 |
 {.dense}
