@@ -34,7 +34,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | NieR:Automata Ver1.1a 2nd Season | NieR:Automata Ver1.1a Cour 2 | https://anilist.co/anime/167420 |  |
 | [Oshi no Ko] 2nd Season | Oshi no Ko Season 2 | https://anilist.co/anime/166531 | [Link](https://ani.social/post/4512143) |
 | Elf-san wa Yaserarenai. | Plus-Sized Elf | https://anilist.co/anime/173388 |  |
-| Giji Harem | Pseudo Harem | https://anilist.co/anime/163623 |  |
+| Giji Harem | Pseudo Harem | https://anilist.co/anime/163623 | [Link](https://ani.social/post/4534216) |
 | Senpai wa Otokonoko | Senpai is an Otokonoko | https://anilist.co/anime/163133 |  |
 | Hibike! Euphonium 3 | Sound! Euphonium 3 | https://anilist.co/anime/109731 | [Link](https://ani.social/post/4453631) |
 | Isekai Suicide Squad | Suicide Squad ISEKAI | https://anilist.co/anime/166710 | [Link](https://ani.social/post/4527210) |
@@ -122,6 +122,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tadaima, Okaeri | Tadaima, Okaeri | https://anilist.co/anime/169698 | Episode 12 |
 | Tasuuketsu | Tasuketsu -Fate of the Majority- | https://anilist.co/anime/174070 | Episode 1 |
 | Dekisokonai to Yobareta Moto Eiyuu wa, Jikka kara Tsuihou Sareta node Suki Katte ni Ikiru Koto ni Shita | The Banished Former Hero Lives as He Pleases | https://anilist.co/anime/166372 | Episode 12 |
+| Megami no Café Terrace 2nd Season | The Café Terrace and Its Goddesses Season 2 | https://anilist.co/anime/166477 | Episode 1 |
 | Shinigami Bocchan to Kuro Maid 3rd Season | The Duke of Death and His Maid Season 3 | https://anilist.co/anime/169584 | Episode 12 |
 | Mahouka Koukou no Rettousei 3rd Season | The Irregular at Magic High School Season 3 | https://anilist.co/anime/143271 | Episode 13 |
 | Seiyuu Radio no Uraomote | The Many Sides of Voice Actor Radio | https://anilist.co/anime/159039 | Episode 12 |
@@ -169,7 +170,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Kono Sekai wa Fukanzen Sugiru | Quality Assurance in Another World | https://anilist.co/anime/163077 | July 05 at 17:23 |
 | Shoushimin Series | SHOSHIMIN: How to Become Ordinary | https://anilist.co/anime/173295 | July 06 at 16:30 |
 | Tensui no Sakuna-hime | Tensui no Sakuna-hime | https://anilist.co/anime/175868 | July 06 at 14:00 |
-| Megami no Café Terrace 2nd Season | The Café Terrace and Its Goddesses Season 2 | https://anilist.co/anime/166477 | July 04 at 15:26 |
 | VTuber nanda ga Haishin Kiri Wasuretara Densetsu ni Natteta | VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream | https://anilist.co/anime/160488 | July 07 at 15:30 |
 | Naze Boku no Sekai wo Daremo Oboeteinai no ka? | Why Does Nobody Remember Me in This World? | https://anilist.co/anime/167419 | July 13 at 13:30 |
 {.dense}
