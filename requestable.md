@@ -77,6 +77,7 @@ These shows have had episodes air already, but no thread was created because the
 | Gintama on Theater 2D: Ikkoku Keisei-hen | Gintama on Theater 2D: Ikkoku Keisei-hen | https://anilist.co/anime/175573 | Episode 1 |
 | Girls' F1st!!!! GT | Girls' F1st!!!! GT | https://anilist.co/anime/178067 | Episode 4 |
 | Jii-san Baa-san Wakagaeru | Grandpa and Grandma Turn Young Again | https://anilist.co/anime/168138 | Episode 11 |
+| Grendizer U | Grendizer U | https://anilist.co/anime/154195 | Episode 1 |
 | Grrr Grrr Tummy | Grrr Grrr Tummy | https://anilist.co/anime/178102 | Episode 1 |
 | HIGHSPEED Étoile | HIGHSPEED Étoile | https://anilist.co/anime/152302 | Episode 12 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 558 |
@@ -159,7 +160,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Bye Bye, Earth | Bye Bye, Earth | https://anilist.co/anime/157371 | July 12 at 14:30 |
 | Cardfight!! Vanguard: Divinez Season 2 | Cardfight!! Vanguard: Divinez Season 2 | https://anilist.co/anime/165681 | July 05 at 23:00 |
 | Egumi Legacy | Egumi Legacy | https://anilist.co/anime/177097 | July 09 at 13:30 |
-| Grendizer U | Grendizer U | https://anilist.co/anime/154195 | July 04 at 16:23 |
 | Harimaware! Koinu 2nd Season | Harimaware! Koinu 2nd Season | https://anilist.co/anime/176283 | July 05 at 22:00 |
 | Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita. | Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita. | https://anilist.co/anime/170938 | July 09 at 13:45 |
 | Mob kara Hajimaru Tansaku Eiyuutan | Mob kara Hajimaru Tansaku Eiyuutan | https://anilist.co/anime/172416 | July 06 at 13:00 |
