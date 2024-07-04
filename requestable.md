@@ -55,6 +55,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ageo to Tim | Ageo to Tim | https://anilist.co/anime/173250 | Episode 12 |
 | Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii? | An Archdemon's Dilemma: How to Love Your Elf Bride | https://anilist.co/anime/156023 | Episode 12 |
 | Astro Note | Astro Note | https://anilist.co/anime/171040 | Episode 12 |
+| Atashin'chi NEXT | Atashin'chi NEXT | https://anilist.co/anime/173313 | Episode 2 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 38 |
 | Hanma Baki VS Kengan Ashura | Baki Hanma VS Kengan Ashura | https://anilist.co/anime/176287 | Episode 1 |
 | Kuroshitsuji: Kishuku Gakkou-hen | Black Butler: Public School Arc | https://anilist.co/anime/166715 | Episode 11 |
@@ -156,7 +157,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | 2.5 Jigen no Ririsa | 2.5 Dimensional Seduction | https://anilist.co/anime/158559 | July 05 at 13:30 |
 | Isekai Yururi Kikou: Kosodate Shinagara Boukensha Shimasu | A Journey Through Another World: Raising Kids While Adventuring | https://anilist.co/anime/171031 | July 07 at 15:50 |
 | ATRI: My Dear Moments | ATRI -My Dear Moments- | https://anilist.co/anime/154963 | July 13 at 15:00 |
-| Atashin'chi NEXT | Atashin'chi NEXT | https://anilist.co/anime/173313 | July 04 at 22:30 |
 | Bye Bye, Earth | Bye Bye, Earth | https://anilist.co/anime/157371 | July 12 at 14:30 |
 | Cardfight!! Vanguard: Divinez Season 2 | Cardfight!! Vanguard: Divinez Season 2 | https://anilist.co/anime/165681 | July 05 at 23:00 |
 | Egumi Legacy | Egumi Legacy | https://anilist.co/anime/177097 | July 09 at 13:30 |
