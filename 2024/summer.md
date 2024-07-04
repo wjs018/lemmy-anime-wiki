@@ -28,6 +28,13 @@ Episode|Link
 6|[Link](https://ani.social/post/4416117)
 {.dense}
 
+## Giji Harem • Pseudo Harem
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/4534216)
+{.dense}
+
 ## Isekai Suicide Squad • Suicide Squad ISEKAI
 
 Episode|Link
