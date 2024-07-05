@@ -68,6 +68,7 @@ These shows have had episodes air already, but no thread was created because the
 | BONOBONO (2016) | Bono Bono (2016) | https://anilist.co/anime/21552 | Episode 417 |
 | Bouken Tairiku Ania Kingdom: Densetsu no Guardian-hen | Bouken Tairiku Ania Kingdom: Densetsu no Guardian-hen | https://anilist.co/anime/177160 | Episode 2 |
 | Captain Tsubasa: Season 2 - Junior Youth-hen | Captain Tsubasa: Junior Youth Arc | https://anilist.co/anime/163024 | Episode 39 |
+| Cardfight!! Vanguard: Divinez Season 2 | Cardfight!! Vanguard: Divinez Season 2 | https://anilist.co/anime/165681 | Episode 1 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1129 |
 | Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 14 |
 | Chibi Maruko-chan (1995) | Chibi Maruko-chan | https://anilist.co/anime/6149 | Episode 1437 |
@@ -114,7 +115,7 @@ These shows have had episodes air already, but no thread was created because the
 | Rising Impact | Rising Impact | https://anilist.co/anime/171115 | Episode 1 |
 | SHIBUYA♡HACHI | SHIBUYA♡HACHI | https://anilist.co/anime/176577 | Episode 13 |
 | SHY: Tokyo Dakkan-hen | SHY Season 2 | https://anilist.co/anime/171748 | Episode 1 |
-| Sai-Kyo-Oh! Zukan: The Ultimate Battles | Sai-Kyo-Oh! Zukan: The Ultimate Battles | https://anilist.co/anime/173216 | Episode 26 |
+| Sai-Kyo-Oh! Zukan: The Ultimate Battles | Sai-Kyo-Oh! Zukan: The Ultimate Battles | https://anilist.co/anime/173216 | Episode 27 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2741 |
 | Shadowverse Flame: Arc-hen | Shadowverse Flame: Arc-hen | https://anilist.co/anime/172187 | Episode 11 |
 | Shimajirou no Wow! | Shimajiro: A Wonderful Adventure | https://anilist.co/anime/18941 | Episode 628 |
@@ -160,7 +161,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Isekai Yururi Kikou: Kosodate Shinagara Boukensha Shimasu | A Journey Through Another World: Raising Kids While Adventuring | https://anilist.co/anime/171031 | July 07 at 15:50 |
 | ATRI: My Dear Moments | ATRI -My Dear Moments- | https://anilist.co/anime/154963 | July 13 at 15:00 |
 | Bye Bye, Earth | Bye Bye, Earth | https://anilist.co/anime/157371 | July 12 at 14:30 |
-| Cardfight!! Vanguard: Divinez Season 2 | Cardfight!! Vanguard: Divinez Season 2 | https://anilist.co/anime/165681 | July 05 at 23:00 |
 | Egumi Legacy | Egumi Legacy | https://anilist.co/anime/177097 | July 09 at 13:30 |
 | Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita. | Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita. | https://anilist.co/anime/170938 | July 09 at 13:45 |
 | Mob kara Hajimaru Tansaku Eiyuutan | Mob kara Hajimaru Tansaku Eiyuutan | https://anilist.co/anime/172416 | July 06 at 13:00 |
