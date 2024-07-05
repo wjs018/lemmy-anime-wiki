@@ -39,7 +39,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Hibike! Euphonium 3 | Sound! Euphonium 3 | https://anilist.co/anime/109731 | [Link](https://ani.social/post/4453631) |
 | Isekai Suicide Squad | Suicide Squad ISEKAI | https://anilist.co/anime/166710 | [Link](https://ani.social/post/4527210) |
 | Tasuuketsu | Tasuketsu -Fate of the Majority- | https://anilist.co/anime/174070 | [Link](https://ani.social/post/4547030) |
-| Tensei Shitara Slime Datta Ken 3rd Season | That Time I Got Reincarnated as a Slime Season 3 | https://anilist.co/anime/156822 | [Link](https://ani.social/post/4437970) |
+| Tensei Shitara Slime Datta Ken 3rd Season | That Time I Got Reincarnated as a Slime Season 3 | https://anilist.co/anime/156822 | [Link](https://ani.social/post/4554446) |
 | The Fable | The Fable | https://anilist.co/anime/166910 | [Link](https://ani.social/post/4442481) |
 | Kami no Tou: Tower of God 2nd SEASON | Tower of God Season 2 | https://anilist.co/anime/153406 |  |
 | Tasogare Outfocus | Twilight Out of Focus | https://anilist.co/anime/166700 | [Link](https://ani.social/post/4546926) |
