@@ -36,6 +36,13 @@ Episode|Link
 1|[Link](https://ani.social/post/4534216)
 {.dense}
 
+## Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/4554668)
+{.dense}
+
 ## Isekai Suicide Squad • Suicide Squad ISEKAI
 
 Episode|Link
