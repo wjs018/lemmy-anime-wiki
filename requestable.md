@@ -38,6 +38,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Senpai wa Otokonoko | Senpai is an Otokonoko | https://anilist.co/anime/163133 | [Link](https://ani.social/post/4534712) |
 | Hibike! Euphonium 3 | Sound! Euphonium 3 | https://anilist.co/anime/109731 | [Link](https://ani.social/post/4453631) |
 | Isekai Suicide Squad | Suicide Squad ISEKAI | https://anilist.co/anime/166710 | [Link](https://ani.social/post/4527210) |
+| Tasuuketsu | Tasuketsu -Fate of the Majority- | https://anilist.co/anime/174070 | [Link](https://ani.social/post/4547030) |
 | Tensei Shitara Slime Datta Ken 3rd Season | That Time I Got Reincarnated as a Slime Season 3 | https://anilist.co/anime/156822 | [Link](https://ani.social/post/4437970) |
 | The Fable | The Fable | https://anilist.co/anime/166910 | [Link](https://ani.social/post/4442481) |
 | Kami no Tou: Tower of God 2nd SEASON | Tower of God Season 2 | https://anilist.co/anime/153406 |  |
@@ -124,7 +125,6 @@ These shows have had episodes air already, but no thread was created because the
 | THE NEW GATE | THE NEW GATE | https://anilist.co/anime/170890 | Episode 12 |
 | The iDOLM@STER: Shiny Colors | THE iDOLM@STER SHINY COLORS | https://anilist.co/anime/162889 | Episode 12 |
 | Tadaima, Okaeri | Tadaima, Okaeri | https://anilist.co/anime/169698 | Episode 12 |
-| Tasuuketsu | Tasuketsu -Fate of the Majority- | https://anilist.co/anime/174070 | Episode 1 |
 | Dekisokonai to Yobareta Moto Eiyuu wa, Jikka kara Tsuihou Sareta node Suki Katte ni Ikiru Koto ni Shita | The Banished Former Hero Lives as He Pleases | https://anilist.co/anime/166372 | Episode 12 |
 | Megami no Café Terrace 2nd Season | The Café Terrace and Its Goddesses Season 2 | https://anilist.co/anime/166477 | Episode 1 |
 | Shinigami Bocchan to Kuro Maid 3rd Season | The Duke of Death and His Maid Season 3 | https://anilist.co/anime/169584 | Episode 12 |
