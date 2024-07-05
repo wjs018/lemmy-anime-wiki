@@ -21,6 +21,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Dungeon no Naka no Hito | Dungeon People | https://anilist.co/anime/168345 |  |
 | FAIRY TAIL: 100 YEARS QUEST | FAIRY TAIL: 100 YEARS QUEST | https://anilist.co/anime/139095 |  |
 | Sentai Daishikkaku | GO! GO! Loser Ranger! | https://anilist.co/anime/158417 | [Link](https://ani.social/post/4452937) |
+| Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | https://anilist.co/anime/173694 | [Link](https://ani.social/post/4554668) |
 | Kengan Ashura Season 2 Part 2 | KENGAN ASHURA Season 2 Part.2 | https://anilist.co/anime/169692 |  |
 | Kinnikuman: Kanpeki Choujin Shiso-hen | Kinnikuman: Kanpeki Choujin Shiso-hen | https://anilist.co/anime/162796 |  |
 | Koi wa Futago de Warikirenai | Love Is Indivisible by Twins | https://anilist.co/anime/167144 |  |
@@ -85,7 +86,6 @@ These shows have had episodes air already, but no thread was created because the
 | Grrr Grrr Tummy | Grrr Grrr Tummy | https://anilist.co/anime/178102 | Episode 1 |
 | HIGHSPEED Étoile | HIGHSPEED Étoile | https://anilist.co/anime/152302 | Episode 12 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 559 |
-| Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | https://anilist.co/anime/173694 | Episode 1 |
 | Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | Episode 1 |
 | Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 13 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 267 |
