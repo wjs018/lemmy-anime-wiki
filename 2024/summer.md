@@ -46,6 +46,13 @@ Episode|Link
 4|[Link](https://ani.social/post/4527210)
 {.dense}
 
+## NieR:Automata Ver1.1a 2nd Season • NieR:Automata Ver1.1a Cour 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/4554077)
+{.dense}
+
 ## Senpai wa Otokonoko • Senpai is an Otokonoko
 
 Episode|Link
