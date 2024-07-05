@@ -26,6 +26,7 @@ Episode|Link
 4|[Link](https://ani.social/post/4168065)
 5|[Link](https://ani.social/post/4292711)
 6|[Link](https://ani.social/post/4416117)
+7|[Link](https://ani.social/post/4545249)
 {.dense}
 
 ## Giji Harem • Pseudo Harem
