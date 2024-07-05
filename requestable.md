@@ -18,7 +18,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Bartender: Kami no Glass | BARTENDER Glass of God | https://anilist.co/anime/155890 | [Link](https://ani.social/post/4467039) |
 | Dead Dead Demon's Dededededestruction | DEAD DEAD DEMONS DEDEDEDE DESTRUCTION | https://anilist.co/anime/177697 | [Link](https://ani.social/post/4545249) |
 | Kimetsu no Yaiba: Hashira Geiko-hen | Demon Slayer: Kimetsu no Yaiba Hashira Training Arc | https://anilist.co/anime/166240 | [Link](https://ani.social/post/4457465) |
-| Dungeon no Naka no Hito | Dungeon People | https://anilist.co/anime/168345 |  |
+| Dungeon no Naka no Hito | Dungeon People | https://anilist.co/anime/168345 | [Link](https://ani.social/post/4556120) |
 | FAIRY TAIL: 100 YEARS QUEST | FAIRY TAIL: 100 YEARS QUEST | https://anilist.co/anime/139095 |  |
 | Sentai Daishikkaku | GO! GO! Loser Ranger! | https://anilist.co/anime/158417 | [Link](https://ani.social/post/4452937) |
 | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | https://anilist.co/anime/173694 | [Link](https://ani.social/post/4554668) |
