@@ -29,6 +29,13 @@ Episode|Link
 7|[Link](https://ani.social/post/4545249)
 {.dense}
 
+## Dungeon no Naka no Hito • Dungeon People
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/4556120)
+{.dense}
+
 ## Giji Harem • Pseudo Harem
 
 Episode|Link
