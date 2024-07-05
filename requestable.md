@@ -16,7 +16,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | :-------- | :---------------- | :----------- | :--------------------: |
 | Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san | Alya Sometimes Hides Her Feelings in Russian | https://anilist.co/anime/162804 | [Link](https://ani.social/post/4512905) |
 | Bartender: Kami no Glass | BARTENDER Glass of God | https://anilist.co/anime/155890 | [Link](https://ani.social/post/4467039) |
-| Dead Dead Demon's Dededededestruction | DEAD DEAD DEMONS DEDEDEDE DESTRUCTION | https://anilist.co/anime/177697 | [Link](https://ani.social/post/4416117) |
+| Dead Dead Demon's Dededededestruction | DEAD DEAD DEMONS DEDEDEDE DESTRUCTION | https://anilist.co/anime/177697 | [Link](https://ani.social/post/4545249) |
 | Kimetsu no Yaiba: Hashira Geiko-hen | Demon Slayer: Kimetsu no Yaiba Hashira Training Arc | https://anilist.co/anime/166240 | [Link](https://ani.social/post/4457465) |
 | Dungeon no Naka no Hito | Dungeon People | https://anilist.co/anime/168345 |  |
 | FAIRY TAIL: 100 YEARS QUEST | FAIRY TAIL: 100 YEARS QUEST | https://anilist.co/anime/139095 |  |
@@ -62,7 +62,7 @@ These shows have had episodes air already, but no thread was created because the
 | Blue Archive The Animation | Blue Archive The Animation | https://anilist.co/anime/160589 | Episode 12 |
 | Bocchi the Rock! Re: | Bocchi the Rock! Re: | https://anilist.co/anime/165253 | Episode 1 |
 | BONOBONO (2016) | Bono Bono (2016) | https://anilist.co/anime/21552 | Episode 416 |
-| Bouken Tairiku Ania Kingdom: Densetsu no Guardian-hen | Bouken Tairiku Ania Kingdom: Densetsu no Guardian-hen | https://anilist.co/anime/177160 | Episode 1 |
+| Bouken Tairiku Ania Kingdom: Densetsu no Guardian-hen | Bouken Tairiku Ania Kingdom: Densetsu no Guardian-hen | https://anilist.co/anime/177160 | Episode 2 |
 | Captain Tsubasa: Season 2 - Junior Youth-hen | Captain Tsubasa: Junior Youth Arc | https://anilist.co/anime/163024 | Episode 39 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1129 |
 | Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 14 |
@@ -168,7 +168,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Isekai Shikkaku | No Longer Allowed in Another World | https://anilist.co/anime/152137 | July 09 at 14:30 |
 | Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II | Our Last Crusade or the Rise of a New World Season 2 | https://anilist.co/anime/139825 | July 10 at 16:30 |
 | Kono Sekai wa Fukanzen Sugiru | Quality Assurance in Another World | https://anilist.co/anime/163077 | July 05 at 17:23 |
-| Ramen Aka Neko | Ramen Aka Neko | https://anilist.co/anime/170998 | July 11 at 03:56 |
+| Ramen Aka Neko | Ramen Aka Neko | https://anilist.co/anime/170998 | July 11 at 15:56 |
 | Shoushimin Series | SHOSHIMIN: How to Become Ordinary | https://anilist.co/anime/173295 | July 06 at 16:30 |
 | Tensui no Sakuna-hime | Tensui no Sakuna-hime | https://anilist.co/anime/175868 | July 06 at 14:00 |
 | VTuber nanda ga Haishin Kiri Wasuretara Densetsu ni Natteta | VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream | https://anilist.co/anime/160488 | July 07 at 15:30 |
