@@ -61,7 +61,6 @@ These shows have had episodes air already, but no thread was created because the
 | Astro Note | Astro Note | https://anilist.co/anime/171040 | Episode 12 |
 | Atashin'chi NEXT | Atashin'chi NEXT | https://anilist.co/anime/173313 | Episode 2 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 39 |
-| Hanma Baki VS Kengan Ashura | Baki Hanma VS Kengan Ashura | https://anilist.co/anime/176287 | Episode 1 |
 | Kuroshitsuji: Kishuku Gakkou-hen | Black Butler: Public School Arc | https://anilist.co/anime/166715 | Episode 11 |
 | Blue Archive The Animation | Blue Archive The Animation | https://anilist.co/anime/160589 | Episode 12 |
 | Bocchi the Rock! Re: | Bocchi the Rock! Re: | https://anilist.co/anime/165253 | Episode 1 |
