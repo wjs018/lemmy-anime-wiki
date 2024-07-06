@@ -555,9 +555,9 @@ Episode|Link
 
 ## The Fable
 
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/2999656)
+Episode|Link|Episode|Link
+:-:|:-:|:-:|:-:
+1|[Link](https://ani.social/post/2999656)|14|[Link](https://ani.social/post/4575128)
 2|[Link](https://ani.social/post/3125570)
 3|[Link](https://ani.social/post/3232723)
 4|[Link](https://ani.social/post/3342772)
