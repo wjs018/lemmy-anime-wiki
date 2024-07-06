@@ -37,6 +37,13 @@ Episode|Link
 1|[Link](https://ani.social/post/4556120)
 {.dense}
 
+## Elf-san wa Yaserarenai. • Plus-Sized Elf
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/4574493)
+{.dense}
+
 ## Giji Harem • Pseudo Harem
 
 Episode|Link
