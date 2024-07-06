@@ -89,6 +89,13 @@ Episode|Link
 1|[Link](https://ani.social/post/4534712)
 {.dense}
 
+## Shikanoko Nokonoko Koshitantan • My Deer Friend Nokotan
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/4576448)
+{.dense}
+
 ## Shoushimin Series • SHOSHIMIN: How to Become Ordinary
 
 Episode|Link
