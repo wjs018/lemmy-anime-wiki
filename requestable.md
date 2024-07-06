@@ -30,7 +30,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Mayonaka Punch | Mayonaka Punch | https://anilist.co/anime/174044 |  |
 | Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2 | Mushoku Tensei: Jobless Reincarnation Season 2 Part 2 | https://anilist.co/anime/166873 | [Link](https://ani.social/post/4458459) |
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 |  |
-| Boku no Tsuma wa Kanjou ga Nai | My Wife Has No Emotion | https://anilist.co/anime/175450 | [Link](https://ani.social/post/4447021) |
+| Boku no Tsuma wa Kanjou ga Nai | My Wife Has No Emotion | https://anilist.co/anime/175450 | [Link](https://ani.social/post/4573281) |
 | Na-Nare Hana-Nare | Narenare -Cheer for You!- | https://anilist.co/anime/170891 |  |
 | NieR:Automata Ver1.1a 2nd Season | NieR:Automata Ver1.1a Cour 2 | https://anilist.co/anime/167420 | [Link](https://ani.social/post/4554077) |
 | [Oshi no Ko] 2nd Season | Oshi no Ko Season 2 | https://anilist.co/anime/166531 | [Link](https://ani.social/post/4512143) |
@@ -63,7 +63,6 @@ These shows have had episodes air already, but no thread was created because the
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 39 |
 | Kuroshitsuji: Kishuku Gakkou-hen | Black Butler: Public School Arc | https://anilist.co/anime/166715 | Episode 11 |
 | Blue Archive The Animation | Blue Archive The Animation | https://anilist.co/anime/160589 | Episode 12 |
-| Bocchi the Rock! Re: | Bocchi the Rock! Re: | https://anilist.co/anime/165253 | Episode 1 |
 | BONOBONO (2016) | Bono Bono (2016) | https://anilist.co/anime/21552 | Episode 417 |
 | Bouken Tairiku Ania Kingdom: Densetsu no Guardian-hen | Bouken Tairiku Ania Kingdom: Densetsu no Guardian-hen | https://anilist.co/anime/177160 | Episode 2 |
 | Captain Tsubasa: Season 2 - Junior Youth-hen | Captain Tsubasa: Junior Youth Arc | https://anilist.co/anime/163024 | Episode 39 |
