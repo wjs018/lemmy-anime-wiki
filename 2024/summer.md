@@ -15,6 +15,7 @@ Below, you can find an index of all the discussion threads for shows from the Su
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/4447021)
+2|[Link](https://ani.social/post/4573281)
 {.dense}
 
 ## Dead Dead Demon's Dededededestruction • DEAD DEAD DEMONS DEDEDEDE DESTRUCTION
