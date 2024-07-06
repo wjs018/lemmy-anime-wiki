@@ -60,6 +60,13 @@ Episode|Link
 4|[Link](https://ani.social/post/4527210)
 {.dense}
 
+## Madougushi Dahlia wa Utsumukanai
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/4570071)
+{.dense}
+
 ## NieR:Automata Ver1.1a 2nd Season • NieR:Automata Ver1.1a Cour 2
 
 Episode|Link
