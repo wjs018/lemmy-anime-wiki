@@ -89,6 +89,13 @@ Episode|Link
 1|[Link](https://ani.social/post/4534712)
 {.dense}
 
+## Shoushimin Series • SHOSHIMIN: How to Become Ordinary
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/4575608)
+{.dense}
+
 ## Tasogare Outfocus • Twilight Out of Focus
 
 Episode|Link
