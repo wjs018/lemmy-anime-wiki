@@ -75,6 +75,13 @@ Episode|Link
 1|[Link](https://ani.social/post/4570071)
 {.dense}
 
+## Monogatari Series: Off and Monster Season
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/4576630)
+{.dense}
+
 ## NieR:Automata Ver1.1a 2nd Season • NieR:Automata Ver1.1a Cour 2
 
 Episode|Link
