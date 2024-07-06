@@ -97,6 +97,8 @@ These shows have had episodes air already, but no thread was created because the
 | Maarui Kanojo to Zannen na Kareshi | Maarui Kanojo to Zannen na Kareshi | https://anilist.co/anime/178421 | Episode 5 |
 | Jongtama Kan!! | Mahjong Soul KAN!! | https://anilist.co/anime/172964 | Episode 11 |
 | Yozakura-san Chi no Daisakusen | Mission: Yozakura Family | https://anilist.co/anime/158898 | Episode 13 |
+| Mob kara Hajimaru Tansaku Eiyuutan | Mob kara Hajimaru Tansaku Eiyuutan | https://anilist.co/anime/172416 | Episode 1 |
+| Monogatari Series: Off and Monster Season | Monogatari Series: Off and Monster Season | https://anilist.co/anime/173533 | Episode 1 |
 | Boku no Hero Academia 7 | My Hero Academia Season 7 | https://anilist.co/anime/163139 | Episode 9 |
 | Kaii to Otome to Kamikakushi | Mysterious Disappearances | https://anilist.co/anime/160090 | Episode 12 |
 | NIJIYON ANIMATION 2: Shinsaku Animation | NIJIYON ANIMATION 2: Shinsaku Animation | https://anilist.co/anime/178396 | Episode 1 |
@@ -162,8 +164,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Bye Bye, Earth | Bye Bye, Earth | https://anilist.co/anime/157371 | July 12 at 14:30 |
 | Egumi Legacy | Egumi Legacy | https://anilist.co/anime/177097 | July 09 at 13:30 |
 | Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita. | Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita. | https://anilist.co/anime/170938 | July 09 at 13:45 |
-| Mob kara Hajimaru Tansaku Eiyuutan | Mob kara Hajimaru Tansaku Eiyuutan | https://anilist.co/anime/172416 | July 06 at 13:00 |
-| Monogatari Series: Off and Monster Season | Monogatari Series: Off and Monster Season | https://anilist.co/anime/173533 | July 06 at 13:00 |
 | Nige Jouzu no Wakagimi | Nige Jouzu no Wakagimi | https://anilist.co/anime/162896 | July 06 at 14:30 |
 | Isekai Shikkaku | No Longer Allowed in Another World | https://anilist.co/anime/152137 | July 09 at 14:30 |
 | Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II | Our Last Crusade or the Rise of a New World Season 2 | https://anilist.co/anime/139825 | July 10 at 13:30 |
