@@ -28,6 +28,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Madougushi Dahlia wa Utsumukanai | Madougushi Dahlia wa Utsumukanai | https://anilist.co/anime/168623 | [Link](https://ani.social/post/4570071) |
 | Make Heroine ga Oosugiru! | Makeine: Too Many Losing Heroines! | https://anilist.co/anime/171457 |  |
 | Mayonaka Punch | Mayonaka Punch | https://anilist.co/anime/174044 |  |
+| Monogatari Series: Off and Monster Season | Monogatari Series: Off and Monster Season | https://anilist.co/anime/173533 | [Link](https://ani.social/post/4576630) |
 | Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2 | Mushoku Tensei: Jobless Reincarnation Season 2 Part 2 | https://anilist.co/anime/166873 | [Link](https://ani.social/post/4458459) |
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | [Link](https://ani.social/post/4576448) |
 | Boku no Tsuma wa Kanjou ga Nai | My Wife Has No Emotion | https://anilist.co/anime/175450 | [Link](https://ani.social/post/4573281) |
@@ -98,7 +99,6 @@ These shows have had episodes air already, but no thread was created because the
 | Jongtama Kan!! | Mahjong Soul KAN!! | https://anilist.co/anime/172964 | Episode 11 |
 | Yozakura-san Chi no Daisakusen | Mission: Yozakura Family | https://anilist.co/anime/158898 | Episode 13 |
 | Mob kara Hajimaru Tansaku Eiyuutan | Mob kara Hajimaru Tansaku Eiyuutan | https://anilist.co/anime/172416 | Episode 1 |
-| Monogatari Series: Off and Monster Season | Monogatari Series: Off and Monster Season | https://anilist.co/anime/173533 | Episode 1 |
 | Boku no Hero Academia 7 | My Hero Academia Season 7 | https://anilist.co/anime/163139 | Episode 9 |
 | Kaii to Otome to Kamikakushi | Mysterious Disappearances | https://anilist.co/anime/160090 | Episode 12 |
 | NIJIYON ANIMATION 2: Shinsaku Animation | NIJIYON ANIMATION 2: Shinsaku Animation | https://anilist.co/anime/178396 | Episode 1 |
