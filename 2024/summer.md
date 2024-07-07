@@ -75,6 +75,13 @@ Episode|Link
 4|[Link](https://ani.social/post/4527210)
 {.dense}
 
+## Kami no Tou: Tower of God 2nd SEASON • Tower of God Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/4591392)
+{.dense}
+
 ## Madougushi Dahlia wa Utsumukanai • Dahlia in Bloom: Crafting a Fresh Start with Magical Tools
 
 Episode|Link
