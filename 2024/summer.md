@@ -96,6 +96,13 @@ Episode|Link
 1|[Link](https://ani.social/post/4576630)
 {.dense}
 
+## Na-Nare Hana-Nare • Narenare -Cheer for You!-
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/4592139)
+{.dense}
+
 ## NieR:Automata Ver1.1a 2nd Season • NieR:Automata Ver1.1a Cour 2
 
 Episode|Link
