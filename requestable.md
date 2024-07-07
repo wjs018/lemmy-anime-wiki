@@ -142,7 +142,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru. | The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible | https://anilist.co/anime/163292 | Episode 1 |
 | Maou Gun Saikyou no Majutsushi wa Ningen datta | The Strongest Magician in the Demon Lord's Army was a Human | https://anilist.co/anime/173584 | Episode 2 |
 | Ooi! Tonbo | Tonbo! | https://anilist.co/anime/164440 | Episode 13 |
-| Tousouchuu: Great Mission | Tousouchuu: Great Mission | https://anilist.co/anime/159560 | Episode 62 |
+| Tousouchuu: Great Mission | Tousouchuu: Great Mission | https://anilist.co/anime/159560 | Episode 63 |
 | Urusei Yatsura (2022) 2nd Season | Urusei Yatsura (2022) Season 3 | https://anilist.co/anime/155645 | Episode 23 |
 | Vampire Dormitory | Vampire Dormitory | https://anilist.co/anime/170604 | Episode 12 |
 | Wan Wan Train Doko e Iku? | Wan Wan Train Doko e Iku? | https://anilist.co/anime/177405 | Episode 9 |
