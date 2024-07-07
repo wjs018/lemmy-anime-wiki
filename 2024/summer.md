@@ -131,6 +131,13 @@ Episode|Link
 1|[Link](https://ani.social/post/4512905)
 {.dense}
 
+## Tsue to Tsurugi no Wistoria • Wistoria: Wand and Sword
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/4585876)
+{.dense}
+
 ## [Oshi no Ko] 2nd Season • Oshi no Ko Season 2
 
 Episode|Link
