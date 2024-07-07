@@ -42,7 +42,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kami no Tou: Tower of God 2nd SEASON | Tower of God Season 2 | https://anilist.co/anime/153406 |  |
 | Tasogare Outfocus | Twilight Out of Focus | https://anilist.co/anime/166700 | [Link](https://ani.social/post/4546926) |
 | T・P Bon | T・P Bon | https://anilist.co/anime/169930 | [Link](https://ani.social/post/3487365) |
-| Tsue to Tsurugi no Wistoria | Wistoria: Wand and Sword | https://anilist.co/anime/174576 |  |
+| Tsue to Tsurugi no Wistoria | Wistoria: Wand and Sword | https://anilist.co/anime/174576 | [Link](https://ani.social/post/4585876) |
 {.dense}
 
 ## Requestable Shows
