@@ -82,6 +82,13 @@ Episode|Link
 1|[Link](https://ani.social/post/4591392)
 {.dense}
 
+## Kinnikuman: Kanpeki Choujin Shiso-hen • Kinnikuman Perfect Origin Arc
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/4592551)
+{.dense}
+
 ## Madougushi Dahlia wa Utsumukanai • Dahlia in Bloom: Crafting a Fresh Start with Magical Tools
 
 Episode|Link
