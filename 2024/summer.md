@@ -51,7 +51,7 @@ Episode|Link
 1|[Link](https://ani.social/post/4534216)
 {.dense}
 
-## Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made
+## Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made • Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells
 
 Episode|Link
 :-:|:-:
@@ -68,7 +68,7 @@ Episode|Link
 4|[Link](https://ani.social/post/4527210)
 {.dense}
 
-## Madougushi Dahlia wa Utsumukanai
+## Madougushi Dahlia wa Utsumukanai • Dahlia in Bloom: Crafting a Fresh Start with Magical Tools
 
 Episode|Link
 :-:|:-:
