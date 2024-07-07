@@ -90,7 +90,7 @@ These shows have had episodes air already, but no thread was created because the
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 559 |
 | Harimaware! Koinu 2nd Season | Harimaware! Koinu 2nd Season | https://anilist.co/anime/176283 | Episode 1 |
 | Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | Episode 1 |
-| Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 13 |
+| Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 14 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 267 |
 | Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai | I Parry Everything | https://anilist.co/anime/170695 | Episode 1 |
 | I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 38 |
