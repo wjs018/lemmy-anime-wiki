@@ -14,6 +14,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
+| Isekai Yururi Kikou: Kosodate Shinagara Boukensha Shimasu | A Journey Through Another World: Raising Kids While Adventuring | https://anilist.co/anime/171031 | [Link](https://ani.social/post/4595287) |
 | Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san | Alya Sometimes Hides Her Feelings in Russian | https://anilist.co/anime/162804 | [Link](https://ani.social/post/4512905) |
 | Dead Dead Demon's Dededededestruction | DEAD DEAD DEMONS DEDEDEDE DESTRUCTION | https://anilist.co/anime/177697 | [Link](https://ani.social/post/4545249) |
 | Madougushi Dahlia wa Utsumukanai | Dahlia in Bloom: Crafting a Fresh Start with Magical Tools | https://anilist.co/anime/168623 | [Link](https://ani.social/post/4570071) |
@@ -54,7 +55,6 @@ These shows have had episodes air already, but no thread was created because the
 | 0 Saiji Start Dash Monogatari | 0 Saiji Start Dash Monogatari | https://anilist.co/anime/177879 | Episode 1 |
 | 2.5 Jigen no Ririsa | 2.5 Dimensional Seduction | https://anilist.co/anime/158559 | Episode 1 |
 | Hananoi-kun to Koi no Yamai | A Condition Called Love | https://anilist.co/anime/165855 | Episode 12 |
-| Isekai Yururi Kikou: Kosodate Shinagara Boukensha Shimasu | A Journey Through Another World: Raising Kids While Adventuring | https://anilist.co/anime/171031 | Episode 1 |
 | Mob kara Hajimaru Tansaku Eiyuutan | A Nobody's Way Up to an Exploration Hero | https://anilist.co/anime/172416 | Episode 1 |
 | Ageo to Tim | Ageo to Tim | https://anilist.co/anime/173250 | Episode 12 |
 | Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii? | An Archdemon's Dilemma: How to Love Your Elf Bride | https://anilist.co/anime/156023 | Episode 12 |
