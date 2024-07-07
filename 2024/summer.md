@@ -75,6 +75,13 @@ Episode|Link
 4|[Link](https://ani.social/post/4527210)
 {.dense}
 
+## Isekai Yururi Kikou: Kosodate Shinagara Boukensha Shimasu • A Journey Through Another World: Raising Kids While Adventuring
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/4595287)
+{.dense}
+
 ## Kami no Tou: Tower of God 2nd SEASON • Tower of God Season 2
 
 Episode|Link
