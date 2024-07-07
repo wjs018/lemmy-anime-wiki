@@ -44,6 +44,13 @@ Episode|Link
 1|[Link](https://ani.social/post/4574493)
 {.dense}
 
+## FAIRY TAIL: 100 YEARS QUEST
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/4586544)
+{.dense}
+
 ## Giji Harem • Pseudo Harem
 
 Episode|Link
