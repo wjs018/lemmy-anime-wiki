@@ -104,6 +104,13 @@ Episode|Link
 1|[Link](https://ani.social/post/4570071)
 {.dense}
 
+## Mayonaka Punch
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/4608800)
+{.dense}
+
 ## Monogatari Series: Off and Monster Season
 
 Episode|Link
