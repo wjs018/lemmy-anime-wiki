@@ -80,6 +80,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/4595287)
+2|[Link](https://ani.social/post/4602523)
 {.dense}
 
 ## Kami no Tou: Tower of God 2nd SEASON • Tower of God Season 2
