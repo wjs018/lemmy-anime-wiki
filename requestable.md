@@ -136,7 +136,7 @@ These shows have had episodes air already, but no thread was created because the
 | Mahouka Koukou no Rettousei 3rd Season | The Irregular at Magic High School Season 3 | https://anilist.co/anime/143271 | Episode 13 |
 | Seiyuu Radio no Uraomote | The Many Sides of Voice Actor Radio | https://anilist.co/anime/159039 | Episode 12 |
 | Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2 | The Misfit of Demon King Academy II (Cour 2) | https://anilist.co/anime/130590 | Episode 11 |
-| Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru. | The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible | https://anilist.co/anime/163292 | Episode 1 |
+| Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru. | The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible | https://anilist.co/anime/163292 | Episode 2 |
 | Maou Gun Saikyou no Majutsushi wa Ningen datta | The Strongest Magician in the Demon Lord's Army was a Human | https://anilist.co/anime/173584 | Episode 2 |
 | Ooi! Tonbo | Tonbo! | https://anilist.co/anime/164440 | Episode 13 |
 | Tousouchuu: Great Mission | Tousouchuu: Great Mission | https://anilist.co/anime/159560 | Episode 63 |
