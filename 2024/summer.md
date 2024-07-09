@@ -153,6 +153,13 @@ Episode|Link
 1|[Link](https://ani.social/post/4576448)
 {.dense}
 
+## Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru. • The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible
+
+Episode|Link
+:-:|:-:
+2|[Link](https://ani.social/post/4623365)
+{.dense}
+
 ## Shoushimin Series • SHOSHIMIN: How to Become Ordinary
 
 Episode|Link
