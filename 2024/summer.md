@@ -65,6 +65,13 @@ Episode|Link
 1|[Link](https://ani.social/post/4554668)
 {.dense}
 
+## Isekai Shikkaku • No Longer Allowed in Another World
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/4630947)
+{.dense}
+
 ## Isekai Suicide Squad • Suicide Squad ISEKAI
 
 Episode|Link
