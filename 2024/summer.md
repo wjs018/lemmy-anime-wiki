@@ -188,6 +188,13 @@ Episode|Link
 1|[Link](https://ani.social/post/4585876)
 {.dense}
 
+## VTuber nanda ga Haishin Kiri Wasuretara Densetsu ni Natteta • VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/4621023)
+{.dense}
+
 ## [Oshi no Ko] 2nd Season • Oshi no Ko Season 2
 
 Episode|Link
