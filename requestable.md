@@ -32,6 +32,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Boku no Tsuma wa Kanjou ga Nai | My Wife Has No Emotion | https://anilist.co/anime/175450 | [Link](https://ani.social/post/4573281) |
 | Na-Nare Hana-Nare | Narenare -Cheer for You!- | https://anilist.co/anime/170891 | [Link](https://ani.social/post/4592139) |
 | NieR:Automata Ver1.1a 2nd Season | NieR:Automata Ver1.1a Cour 2 | https://anilist.co/anime/167420 | [Link](https://ani.social/post/4554077) |
+| Isekai Shikkaku | No Longer Allowed in Another World | https://anilist.co/anime/152137 | [Link](https://ani.social/post/4630947) |
 | [Oshi no Ko] 2nd Season | Oshi no Ko Season 2 | https://anilist.co/anime/166531 | [Link](https://ani.social/post/4512143) |
 | Elf-san wa Yaserarenai. | Plus-Sized Elf | https://anilist.co/anime/173388 | [Link](https://ani.social/post/4574493) |
 | Giji Harem | Pseudo Harem | https://anilist.co/anime/163623 | [Link](https://ani.social/post/4534216) |
@@ -106,7 +107,6 @@ These shows have had episodes air already, but no thread was created because the
 | NIJIYON ANIMATION 2: Shinsaku Animation | NIJIYON ANIMATION 2: Shinsaku Animation | https://anilist.co/anime/178396 | Episode 1 |
 | NIJIYON ANIMATION 2 | NIJIYON ANIMATION Season 2 | https://anilist.co/anime/172242 | Episode 12 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 125 |
-| Isekai Shikkaku | No Longer Allowed in Another World | https://anilist.co/anime/152137 | Episode 1 |
 | Nyaaaanvy | Nyaaaanvy | https://anilist.co/anime/177798 | Episode 6 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1111 |
 | Boukyaku Battery (TV) | Oblivion Battery | https://anilist.co/anime/167927 | Episode 12 |
