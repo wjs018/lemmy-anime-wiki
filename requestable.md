@@ -35,6 +35,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | [Oshi no Ko] 2nd Season | Oshi no Ko Season 2 | https://anilist.co/anime/166531 | [Link](https://ani.social/post/4512143) |
 | Elf-san wa Yaserarenai. | Plus-Sized Elf | https://anilist.co/anime/173388 | [Link](https://ani.social/post/4574493) |
 | Giji Harem | Pseudo Harem | https://anilist.co/anime/163623 | [Link](https://ani.social/post/4534216) |
+| Kono Sekai wa Fukanzen Sugiru | Quality Assurance in Another World | https://anilist.co/anime/163077 | [Link](https://ani.social/post/4627064) |
 | Shoushimin Series | SHOSHIMIN: How to Become Ordinary | https://anilist.co/anime/173295 | [Link](https://ani.social/post/4575608) |
 | Senpai wa Otokonoko | Senpai is an Otokonoko | https://anilist.co/anime/163133 | [Link](https://ani.social/post/4534712) |
 | Isekai Suicide Squad | Suicide Squad ISEKAI | https://anilist.co/anime/166710 | [Link](https://ani.social/post/4527210) |
@@ -111,7 +112,6 @@ These shows have had episodes air already, but no thread was created because the
 | Oomuro-ke: dear friends | Oomuro-ke: dear friends | https://anilist.co/anime/174383 | Episode 1 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 57 |
 | Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2052 |
-| Kono Sekai wa Fukanzen Sugiru | Quality Assurance in Another World | https://anilist.co/anime/163077 | Episode 1 |
 | RABBITS KINGDOM THE MOVIE | RABBITS KINGDOM THE MOVIE | https://anilist.co/anime/169766 | Episode 1 |
 | Rinkai! | Rinkai! | https://anilist.co/anime/163141 | Episode 12 |
 | Rising Impact | Rising Impact | https://anilist.co/anime/171115 | Episode 1 |
@@ -137,6 +137,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shinigami Bocchan to Kuro Maid 3rd Season | The Duke of Death and His Maid Season 3 | https://anilist.co/anime/169584 | Episode 12 |
 | Nige Jouzu no Wakagimi | The Elusive Samurai | https://anilist.co/anime/162896 | Episode 1 |
 | Mahouka Koukou no Rettousei 3rd Season | The Irregular at Magic High School Season 3 | https://anilist.co/anime/143271 | Episode 13 |
+| Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita. | The Magical Girl and the Evil Lieutenant Used to Be Archenemies | https://anilist.co/anime/170938 | Episode 1 |
 | Seiyuu Radio no Uraomote | The Many Sides of Voice Actor Radio | https://anilist.co/anime/159039 | Episode 12 |
 | Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II Part 2 | The Misfit of Demon King Academy II (Cour 2) | https://anilist.co/anime/130590 | Episode 11 |
 | Maou Gun Saikyou no Majutsushi wa Ningen datta | The Strongest Magician in the Demon Lord's Army was a Human | https://anilist.co/anime/173584 | Episode 2 |
@@ -169,7 +170,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Ramen Aka Neko | Ramen Akaneko | https://anilist.co/anime/170998 | July 11 at 15:56 |
 | Sengoku Youko: Senma Konton-hen | Sengoku Youko: Thousand Demons Chaos Arc | https://anilist.co/anime/176660 | July 17 at 15:00 |
 | StPri: Hajimari no Monogatari - Strawberry School Festival!!! | StPri: Hajimari no Monogatari - Strawberry School Festival!!! | https://anilist.co/anime/176319 | July 18 at 16:00 |
-| Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita. | The Magical Girl and the Evil Lieutenant Used to Be Archenemies | https://anilist.co/anime/170938 | July 09 at 13:45 |
 | Yami Shibai 13 | Theatre of Darkness: Yamishibai 13 | https://anilist.co/anime/177922 | July 14 at 17:50 |
 | Naze Boku no Sekai wo Daremo Oboeteinai no ka? | Why Does Nobody Remember Me in This World? | https://anilist.co/anime/167419 | July 13 at 13:30 |
 {.dense}
