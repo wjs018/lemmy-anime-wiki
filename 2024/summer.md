@@ -97,6 +97,13 @@ Episode|Link
 1|[Link](https://ani.social/post/4592551)
 {.dense}
 
+## Kono Sekai wa Fukanzen Sugiru • Quality Assurance in Another World
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/4627064)
+{.dense}
+
 ## Madougushi Dahlia wa Utsumukanai • Dahlia in Bloom: Crafting a Fresh Start with Magical Tools
 
 Episode|Link
