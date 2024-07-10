@@ -146,6 +146,13 @@ Episode|Link
 1|[Link](https://ani.social/post/4554077)
 {.dense}
 
+## Nige Jouzu no Wakagimi • The Elusive Samurai
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/4638896)
+{.dense}
+
 ## Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai • I Parry Everything
 
 Episode|Link
