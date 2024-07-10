@@ -111,6 +111,13 @@ Episode|Link
 1|[Link](https://ani.social/post/4592551)
 {.dense}
 
+## Koi wa Futago de Warikirenai • Love Is Indivisible by Twins
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/4645805)
+{.dense}
+
 ## Kono Sekai wa Fukanzen Sugiru • Quality Assurance in Another World
 
 Episode|Link
