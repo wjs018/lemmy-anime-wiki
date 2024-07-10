@@ -97,6 +97,13 @@ Episode|Link
 1|[Link](https://ani.social/post/4591392)
 {.dense}
 
+## Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita. • The Magical Girl and the Evil Lieutenant Used to Be Archenemies
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/4639802)
+{.dense}
+
 ## Kinnikuman: Kanpeki Choujin Shiso-hen • Kinnikuman Perfect Origin Arc
 
 Episode|Link
