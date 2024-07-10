@@ -136,7 +136,6 @@ These shows have had episodes air already, but no thread was created because the
 | THE NEW GATE | THE NEW GATE | https://anilist.co/anime/170890 | Episode 12 |
 | The iDOLM@STER: Shiny Colors | THE iDOLM@STER SHINY COLORS | https://anilist.co/anime/162889 | Episode 12 |
 | Tadaima, Okaeri | Tadaima, Okaeri | https://anilist.co/anime/169698 | Episode 12 |
-| Dekisokonai to Yobareta Moto Eiyuu wa, Jikka kara Tsuihou Sareta node Suki Katte ni Ikiru Koto ni Shita | The Banished Former Hero Lives as He Pleases | https://anilist.co/anime/166372 | Episode 12 |
 | Megami no Café Terrace 2nd Season | The Café Terrace and Its Goddesses Season 2 | https://anilist.co/anime/166477 | Episode 1 |
 | Shinigami Bocchan to Kuro Maid 3rd Season | The Duke of Death and His Maid Season 3 | https://anilist.co/anime/169584 | Episode 12 |
 | Mahouka Koukou no Rettousei 3rd Season | The Irregular at Magic High School Season 3 | https://anilist.co/anime/143271 | Episode 13 |
