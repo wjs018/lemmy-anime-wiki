@@ -24,7 +24,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai | I Parry Everything | https://anilist.co/anime/170695 | [Link](https://ani.social/post/4600716) |
 | Kengan Ashura Season 2 Part 2 | KENGAN ASHURA Season 2 Part.2 | https://anilist.co/anime/169692 |  |
 | Kinnikuman: Kanpeki Choujin Shiso-hen | Kinnikuman Perfect Origin Arc | https://anilist.co/anime/162796 | [Link](https://ani.social/post/4592551) |
-| Koi wa Futago de Warikirenai | Love Is Indivisible by Twins | https://anilist.co/anime/167144 |  |
+| Koi wa Futago de Warikirenai | Love Is Indivisible by Twins | https://anilist.co/anime/167144 | [Link](https://ani.social/post/4645805) |
 | Make Heroine ga Oosugiru! | Makeine: Too Many Losing Heroines! | https://anilist.co/anime/171457 |  |
 | Mayonaka Punch | Mayonaka Punch | https://anilist.co/anime/174044 | [Link](https://ani.social/post/4608800) |
 | Monogatari Series: Off and Monster Season | Monogatari Series: Off and Monster Season | https://anilist.co/anime/173533 | [Link](https://ani.social/post/4576630) |
@@ -113,6 +113,7 @@ These shows have had episodes air already, but no thread was created because the
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1111 |
 | Boukyaku Battery (TV) | Oblivion Battery | https://anilist.co/anime/167927 | Episode 12 |
 | Oomuro-ke: dear friends | Oomuro-ke: dear friends | https://anilist.co/anime/174383 | Episode 1 |
+| Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II | Our Last Crusade or the Rise of a New World Season 2 | https://anilist.co/anime/139825 | Episode 1 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 57 |
 | Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2052 |
 | RABBITS KINGDOM THE MOVIE | RABBITS KINGDOM THE MOVIE | https://anilist.co/anime/169766 | Episode 1 |
@@ -166,7 +167,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Bye Bye, Earth | Bye Bye, Earth | https://anilist.co/anime/157371 | July 12 at 14:30 |
 | Koneko no Chii: Ponponra Natsuyasumi | Chi’s Sweet Adventure: Summer Vacation | https://anilist.co/anime/175120 | July 18 at 15:00 |
 | Bakeneko Anzu-chan | Ghost Cat Anzu | https://anilist.co/anime/158641 | July 18 at 16:00 |
-| Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II | Our Last Crusade or the Rise of a New World Season 2 | https://anilist.co/anime/139825 | July 10 at 13:30 |
 | Ramen Aka Neko | Ramen Akaneko | https://anilist.co/anime/170998 | July 11 at 15:56 |
 | Sengoku Youko: Senma Konton-hen | Sengoku Youko: Thousand Demons Chaos Arc | https://anilist.co/anime/176660 | July 17 at 15:00 |
 | StPri: Hajimari no Monogatari - Strawberry School Festival!!! | StPri: Hajimari no Monogatari - Strawberry School Festival!!! | https://anilist.co/anime/176319 | July 18 at 16:00 |
