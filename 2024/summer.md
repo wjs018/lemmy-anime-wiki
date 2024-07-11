@@ -44,7 +44,7 @@ Episode|Link
 1|[Link](https://ani.social/post/4574493)
 {.dense}
 
-## FAIRY TAIL: 100 YEARS QUEST
+## FAIRY TAIL: 100 YEARS QUEST • FAIRY TAIL 100 YEARS QUEST
 
 Episode|Link
 :-:|:-:
@@ -153,7 +153,7 @@ Episode|Link
 1|[Link](https://ani.social/post/4576630)
 {.dense}
 
-## Na-Nare Hana-Nare • Narenare -Cheer for You!-
+## Na-Nare Hana-Nare • Narenare -Cheer for you!-
 
 Episode|Link
 :-:|:-:
