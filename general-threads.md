@@ -2,7 +2,7 @@
 title: General Discussion Threads Index
 description: A collection of all the general discussion threads from the community.
 published: true
-date: 2024-06-05T01:24:36.077Z
+date: 2024-07-11T14:40:47.684Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-04T16:32:54.623Z
@@ -37,6 +37,11 @@ Please use the links below to browse the weekly general discussion threads. When
 | 21 | [Link](https://ani.social/post/3719729) | Spring 2024 Midterms |
 | 22 | [Link](https://ani.social/post/3852625) | |
 | 23 | [Link](https://ani.social/post/3973514) | |
+| 24 | [Link](https://ani.social/post/4098763) | |
+| 25 | [Link](https://ani.social/post/4222076) | |
+| 26 | [Link](https://ani.social/post/4351238) | Summer Season Preview |
+| 27 | [Link](https://ani.social/post/4470116) | |
+| 28 | [Link](https://ani.social/post/4602578) | |
 {.dense}
 
 ## 2023
