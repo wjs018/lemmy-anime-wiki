@@ -19,7 +19,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Dead Dead Demon's Dededededestruction | DEAD DEAD DEMONS DEDEDEDE DESTRUCTION | https://anilist.co/anime/177697 | [Link](https://ani.social/post/4545249) |
 | Madougushi Dahlia wa Utsumukanai | Dahlia in Bloom: Crafting a Fresh Start with Magical Tools | https://anilist.co/anime/168623 | [Link](https://ani.social/post/4570071) |
 | Dungeon no Naka no Hito | Dungeon People | https://anilist.co/anime/168345 | [Link](https://ani.social/post/4556120) |
-| FAIRY TAIL: 100 YEARS QUEST | FAIRY TAIL: 100 YEARS QUEST | https://anilist.co/anime/139095 | [Link](https://ani.social/post/4586544) |
+| FAIRY TAIL: 100 YEARS QUEST | FAIRY TAIL 100 YEARS QUEST | https://anilist.co/anime/139095 | [Link](https://ani.social/post/4586544) |
 | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells | https://anilist.co/anime/173694 | [Link](https://ani.social/post/4554668) |
 | Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai | I Parry Everything | https://anilist.co/anime/170695 | [Link](https://ani.social/post/4600716) |
 | Kengan Ashura Season 2 Part 2 | KENGAN ASHURA Season 2 Part.2 | https://anilist.co/anime/169692 |  |
@@ -30,7 +30,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Monogatari Series: Off and Monster Season | Monogatari Series: Off and Monster Season | https://anilist.co/anime/173533 | [Link](https://ani.social/post/4576630) |
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | [Link](https://ani.social/post/4648089) |
 | Boku no Tsuma wa Kanjou ga Nai | My Wife Has No Emotion | https://anilist.co/anime/175450 | [Link](https://ani.social/post/4573281) |
-| Na-Nare Hana-Nare | Narenare -Cheer for You!- | https://anilist.co/anime/170891 | [Link](https://ani.social/post/4592139) |
+| Na-Nare Hana-Nare | Narenare -Cheer for you!- | https://anilist.co/anime/170891 | [Link](https://ani.social/post/4592139) |
 | NieR:Automata Ver1.1a 2nd Season | NieR:Automata Ver1.1a Cour 2 | https://anilist.co/anime/167420 | [Link](https://ani.social/post/4554077) |
 | Isekai Shikkaku | No Longer Allowed in Another World | https://anilist.co/anime/152137 | [Link](https://ani.social/post/4630947) |
 | [Oshi no Ko] 2nd Season | Oshi no Ko Season 2 | https://anilist.co/anime/166531 | [Link](https://ani.social/post/4647531) |
