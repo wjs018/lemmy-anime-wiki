@@ -82,7 +82,7 @@ These shows have had episodes air already, but no thread was created because the
 | Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life | Chillin' in Another World with Level 2 Super Cheat Powers | https://anilist.co/anime/170130 | Episode 11 |
 | Code Geass: Dakkan no Rozé | Code Geass: Rozé of the Recapture | https://anilist.co/anime/126830 | Episode 3 |
 | Date A Live V | Date A Live V | https://anilist.co/anime/151380 | Episode 11 |
-| Gimai Seikatsu | Days with My Stepsister | https://anilist.co/anime/152681 | Episode 1 |
+| Gimai Seikatsu | Days with My Stepsister | https://anilist.co/anime/152681 | Episode 2 |
 | Dungeon Meshi | Delicious in Dungeon | https://anilist.co/anime/153518 | Episode 24 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 818 |
 | Egumi Legacy | Egumi Legacy | https://anilist.co/anime/177097 | Episode 1 |
