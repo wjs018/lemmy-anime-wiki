@@ -536,9 +536,9 @@ Episode|Link
 
 ## Tensei Shitara Slime Datta Ken 3rd Season • That Time I Got Reincarnated as a Slime Season 3
 
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/2983371)
+Episode|Link|Episode|Link
+:-:|:-:|:-:|:-:
+1|[Link](https://ani.social/post/2983371)|15|[Link](https://ani.social/post/4684583)
 2|[Link](https://ani.social/post/3108264)
 3|[Link](https://ani.social/post/3215556)
 4|[Link](https://ani.social/post/3326125)
