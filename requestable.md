@@ -67,7 +67,7 @@ These shows have had episodes air already, but no thread was created because the
 | Astro Note | Astro Note | https://anilist.co/anime/171040 | Episode 12 |
 | Atashin'chi NEXT | Atashin'chi NEXT | https://anilist.co/anime/173313 | Episode 2 |
 | Bartender: Kami no Glass | BARTENDER Glass of God | https://anilist.co/anime/155890 | Episode 11 |
-| BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 39 |
+| BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 40 |
 | Kuroshitsuji: Kishuku Gakkou-hen | Black Butler: Public School Arc | https://anilist.co/anime/166715 | Episode 11 |
 | Blue Archive The Animation | Blue Archive The Animation | https://anilist.co/anime/160589 | Episode 12 |
 | BONOBONO (2016) | Bono Bono (2016) | https://anilist.co/anime/21552 | Episode 417 |
@@ -167,6 +167,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Koneko no Chii: Ponponra Natsuyasumi | Chi’s Sweet Adventure: Summer Vacation | https://anilist.co/anime/175120 | July 18 at 15:00 |
 | Bakeneko Anzu-chan | Ghost Cat Anzu | https://anilist.co/anime/158641 | July 18 at 16:00 |
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | July 17 at 15:30 |
+| Naoe-kun wa Yasesasetai. | Naoe-kun wa Yasesasetai. | https://anilist.co/anime/179212 | July 13 at 16:00 |
 | Sengoku Youko: Senma Konton-hen | Sengoku Youko: Thousand Demons Chaos Arc | https://anilist.co/anime/176660 | July 17 at 15:00 |
 | StPri: Hajimari no Monogatari - Strawberry School Festival!!! | StPri: Hajimari no Monogatari - Strawberry School Festival!!! | https://anilist.co/anime/176319 | July 18 at 16:00 |
 | Yami Shibai 13 | Theatre of Darkness: Yamishibai 13 | https://anilist.co/anime/177922 | July 14 at 17:50 |
