@@ -66,7 +66,6 @@ These shows have had episodes air already, but no thread was created because the
 | Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii? | An Archdemon's Dilemma: How to Love Your Elf Bride | https://anilist.co/anime/156023 | Episode 12 |
 | Astro Note | Astro Note | https://anilist.co/anime/171040 | Episode 12 |
 | Atashin'chi NEXT | Atashin'chi NEXT | https://anilist.co/anime/173313 | Episode 2 |
-| Bartender: Kami no Glass | BARTENDER Glass of God | https://anilist.co/anime/155890 | Episode 11 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 40 |
 | Kuroshitsuji: Kishuku Gakkou-hen | Black Butler: Public School Arc | https://anilist.co/anime/166715 | Episode 11 |
 | Blue Archive The Animation | Blue Archive The Animation | https://anilist.co/anime/160589 | Episode 12 |
