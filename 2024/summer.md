@@ -36,6 +36,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/4556120)
+2|[Link](https://ani.social/post/4687985)
 {.dense}
 
 ## Elf-san wa Yaserarenai. • Plus-Sized Elf
