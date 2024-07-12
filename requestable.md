@@ -28,7 +28,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Make Heroine ga Oosugiru! | Makeine: Too Many Losing Heroines! | https://anilist.co/anime/171457 |  |
 | Mayonaka Punch | Mayonaka Punch | https://anilist.co/anime/174044 | [Link](https://ani.social/post/4608800) |
 | Monogatari Series: Off and Monster Season | Monogatari Series: Off and Monster Season | https://anilist.co/anime/173533 | [Link](https://ani.social/post/4576630) |
-| Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | [Link](https://ani.social/post/4648089) |
 | Boku no Tsuma wa Kanjou ga Nai | My Wife Has No Emotion | https://anilist.co/anime/175450 | [Link](https://ani.social/post/4573281) |
 | Na-Nare Hana-Nare | Narenare -Cheer for you!- | https://anilist.co/anime/170891 | [Link](https://ani.social/post/4592139) |
 | NieR:Automata Ver1.1a 2nd Season | NieR:Automata Ver1.1a Cour 2 | https://anilist.co/anime/167420 | [Link](https://ani.social/post/4554077) |
@@ -167,6 +166,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Bye Bye, Earth | Bye Bye, Earth | https://anilist.co/anime/157371 | July 12 at 14:30 |
 | Koneko no Chii: Ponponra Natsuyasumi | Chi’s Sweet Adventure: Summer Vacation | https://anilist.co/anime/175120 | July 18 at 15:00 |
 | Bakeneko Anzu-chan | Ghost Cat Anzu | https://anilist.co/anime/158641 | July 18 at 16:00 |
+| Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | July 17 at 15:30 |
 | Sengoku Youko: Senma Konton-hen | Sengoku Youko: Thousand Demons Chaos Arc | https://anilist.co/anime/176660 | July 17 at 15:00 |
 | StPri: Hajimari no Monogatari - Strawberry School Festival!!! | StPri: Hajimari no Monogatari - Strawberry School Festival!!! | https://anilist.co/anime/176319 | July 18 at 16:00 |
 | Yami Shibai 13 | Theatre of Darkness: Yamishibai 13 | https://anilist.co/anime/177922 | July 14 at 17:50 |
