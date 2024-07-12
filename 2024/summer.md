@@ -18,6 +18,13 @@ Episode|Link
 2|[Link](https://ani.social/post/4573281)
 {.dense}
 
+## Bye Bye, Earth
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/4692120)
+{.dense}
+
 ## Dead Dead Demon's Dededededestruction • DEAD DEAD DEMONS DEDEDEDE DESTRUCTION
 
 Episode|Link
