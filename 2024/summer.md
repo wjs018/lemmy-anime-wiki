@@ -153,6 +153,13 @@ Episode|Link
 2|[Link](https://ani.social/post/4701058)
 {.dense}
 
+## Make Heroine ga Oosugiru! • Makeine: Too Many Losing Heroines!
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/4703203)
+{.dense}
+
 ## Mayonaka Punch
 
 Episode|Link
@@ -188,6 +195,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/4638896)
+2|[Link](https://ani.social/post/4703202)
 {.dense}
 
 ## Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai • I Parry Everything
