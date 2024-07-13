@@ -149,6 +149,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/4570071)
+2|[Link](https://ani.social/post/4701058)
 {.dense}
 
 ## Mayonaka Punch
@@ -163,6 +164,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/4576630)
+2|[Link](https://ani.social/post/4701059)
 {.dense}
 
 ## Na-Nare Hana-Nare • Narenare -Cheer for you!-
