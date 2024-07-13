@@ -148,6 +148,7 @@ These shows have had episodes air already, but no thread was created because the
 | Vampire Dormitory | Vampire Dormitory | https://anilist.co/anime/170604 | Episode 12 |
 | Wan Wan Train Doko e Iku? | Wan Wan Train Doko e Iku? | https://anilist.co/anime/177405 | Episode 9 |
 | Sasayaku You ni Koi wo Utau | Whisper Me a Love Song | https://anilist.co/anime/160181 | Episode 11 |
+| Naze Boku no Sekai wo Daremo Oboeteinai no ka? | Why Does Nobody Remember Me in This World? | https://anilist.co/anime/167419 | Episode 1 |
 | Wonderful Precure! | Wonderful Precure! | https://anilist.co/anime/171030 | Episode 23 |
 | Karasu wa Aruji wo Erabanai | YATAGARASU: The Raven Does Not Choose Its Master | https://anilist.co/anime/170503 | Episode 14 |
 | YouTuNya 2 | YouTuNya 2 | https://anilist.co/anime/176635 | Episode 13 |
@@ -171,5 +172,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Sengoku Youko: Senma Konton-hen | Sengoku Youko: Thousand Demons Chaos Arc | https://anilist.co/anime/176660 | July 17 at 15:00 |
 | StPri: Hajimari no Monogatari - Strawberry School Festival!!! | StPri: Hajimari no Monogatari - Strawberry School Festival!!! | https://anilist.co/anime/176319 | July 18 at 16:00 |
 | Yami Shibai 13 | Theatre of Darkness: Yamishibai 13 | https://anilist.co/anime/177922 | July 14 at 17:50 |
-| Naze Boku no Sekai wo Daremo Oboeteinai no ka? | Why Does Nobody Remember Me in This World? | https://anilist.co/anime/167419 | July 13 at 13:30 |
 {.dense}
