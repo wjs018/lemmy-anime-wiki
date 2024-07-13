@@ -183,6 +183,13 @@ Episode|Link
 1|[Link](https://ani.social/post/4592139)
 {.dense}
 
+## Naze Boku no Sekai wo Daremo Oboeteinai no ka? • Why Does Nobody Remember Me in This World?
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/4705898)
+{.dense}
+
 ## NieR:Automata Ver1.1a 2nd Season • NieR:Automata Ver1.1a Cour 2
 
 Episode|Link
