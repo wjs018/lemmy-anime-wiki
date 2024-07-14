@@ -291,6 +291,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/4621023)
+2|[Link](https://ani.social/post/4720603)
 {.dense}
 
 ## [Oshi no Ko] 2nd Season • Oshi no Ko Season 2
