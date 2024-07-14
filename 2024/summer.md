@@ -281,6 +281,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/4585876)
+2|[Link](https://ani.social/post/4715126)
 {.dense}
 
 ## VTuber nanda ga Haishin Kiri Wasuretara Densetsu ni Natteta • VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream
