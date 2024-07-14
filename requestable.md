@@ -47,7 +47,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | The Fable | The Fable | https://anilist.co/anime/166910 | [Link](https://ani.social/post/4704621) |
 | Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita. | The Magical Girl and the Evil Lieutenant Used to Be Archenemies | https://anilist.co/anime/170938 | [Link](https://ani.social/post/4639802) |
 | Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru. | The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible | https://anilist.co/anime/163292 | [Link](https://ani.social/post/4623365) |
-| Kami no Tou: Tower of God 2nd SEASON | Tower of God Season 2 | https://anilist.co/anime/153406 | [Link](https://ani.social/post/4591392) |
+| Kami no Tou: Tower of God - Ouji no Kikan | Tower of God Season 2 | https://anilist.co/anime/153406 | [Link](https://ani.social/post/4591392) |
 | Tasogare Outfocus | Twilight Out of Focus | https://anilist.co/anime/166700 | [Link](https://ani.social/post/4666258) |
 | T・P Bon | T・P Bon | https://anilist.co/anime/169930 | [Link](https://ani.social/post/3487365) |
 | VTuber nanda ga Haishin Kiri Wasuretara Densetsu ni Natteta | VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream | https://anilist.co/anime/160488 | [Link](https://ani.social/post/4621023) |
@@ -165,7 +165,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Bakeneko Anzu-chan | Ghost Cat Anzu | https://anilist.co/anime/158641 | July 18 at 16:00 |
 | JOCHUM | JOCHUM | https://anilist.co/anime/179408 | July 19 at 23:35 |
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | July 17 at 15:30 |
-| Sengoku Youko: Senma Konton-hen | Sengoku Youko: Thousand Demons Chaos Arc | https://anilist.co/anime/176660 | July 17 at 15:00 |
+| Sengoku Youko: Senma Konton-hen | Sengoku Youko: The Thousandfold Chaos Arc | https://anilist.co/anime/176660 | July 17 at 15:00 |
 | StPri: Hajimari no Monogatari - Strawberry School Festival!!! | StPri: Hajimari no Monogatari - Strawberry School Festival!!! | https://anilist.co/anime/176319 | July 18 at 16:00 |
 | Yami Shibai 13 | Theatre of Darkness: Yamishibai 13 | https://anilist.co/anime/177922 | July 14 at 17:50 |
 {.dense}
