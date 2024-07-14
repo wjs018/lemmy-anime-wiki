@@ -190,6 +190,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/4592139)
+2|[Link](https://ani.social/post/4720872)
 {.dense}
 
 ## Naze Boku no Sekai wo Daremo Oboeteinai no ka? • Why Does Nobody Remember Me in This World?
