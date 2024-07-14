@@ -60,7 +60,7 @@ These shows have had episodes air already, but no thread was created because the
 
 | Show Name | English Show Name | AniList Link | Most Recently Episode Number  |
 | :-------- | :---------------- | :----------- | :--------------------------: |
-| 0 Saiji Start Dash Monogatari | 0 Saiji Start Dash Monogatari | https://anilist.co/anime/177879 | Episode 1 |
+| 0 Saiji Start Dash Monogatari | 0 Saiji Start Dash Monogatari | https://anilist.co/anime/177879 | Episode 2 |
 | 2.5 Jigen no Ririsa | 2.5 Dimensional Seduction | https://anilist.co/anime/158559 | Episode 2 |
 | Hananoi-kun to Koi no Yamai | A Condition Called Love | https://anilist.co/anime/165855 | Episode 12 |
 | Mob kara Hajimaru Tansaku Eiyuutan | A Nobody's Way Up to an Exploration Hero | https://anilist.co/anime/172416 | Episode 3 |
@@ -76,7 +76,7 @@ These shows have had episodes air already, but no thread was created because the
 | Captain Tsubasa: Season 2 - Junior Youth-hen | Captain Tsubasa: Junior Youth Arc | https://anilist.co/anime/163024 | Episode 39 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1131 |
 | Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 15 |
-| Chibi Maruko-chan (1995) | Chibi Maruko-chan | https://anilist.co/anime/6149 | Episode 1438 |
+| Chibi Maruko-chan (1995) | Chibi Maruko-chan | https://anilist.co/anime/6149 | Episode 1439 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 181 |
 | Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life | Chillin' in Another World with Level 2 Super Cheat Powers | https://anilist.co/anime/170130 | Episode 11 |
 | Code Geass: Dakkan no Rozé | Code Geass: Rozé of the Recapture | https://anilist.co/anime/126830 | Episode 4 |
@@ -96,7 +96,7 @@ These shows have had episodes air already, but no thread was created because the
 | Harimaware! Koinu 2nd Season | Harimaware! Koinu 2nd Season | https://anilist.co/anime/176283 | Episode 2 |
 | Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | Episode 1 |
 | Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 15 |
-| Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 268 |
+| Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 269 |
 | I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 39 |
 | Kumarba | Kumarba | https://anilist.co/anime/173249 | Episode 13 |
 | Look Back | Look Back | https://anilist.co/anime/174788 | Episode 1 |
