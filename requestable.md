@@ -114,7 +114,7 @@ These shows have had episodes air already, but no thread was created because the
 | Boukyaku Battery (TV) | Oblivion Battery | https://anilist.co/anime/167927 | Episode 12 |
 | Oomuro-ke: dear friends | Oomuro-ke: dear friends | https://anilist.co/anime/174383 | Episode 1 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 58 |
-| Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2052 |
+| Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2053 |
 | Ramen Aka Neko | Ramen Akaneko | https://anilist.co/anime/170998 | Episode 2 |
 | Rinkai! | Rinkai! | https://anilist.co/anime/163141 | Episode 12 |
 | Rising Impact | Rising Impact | https://anilist.co/anime/171115 | Episode 1 |
