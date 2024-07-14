@@ -21,7 +21,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Dead Dead Demon's Dededededestruction | DEAD DEAD DEMONS DEDEDEDE DESTRUCTION | https://anilist.co/anime/177697 | [Link](https://ani.social/post/4676415) |
 | Madougushi Dahlia wa Utsumukanai | Dahlia in Bloom: Crafting a Fresh Start with Magical Tools | https://anilist.co/anime/168623 | [Link](https://ani.social/post/4701058) |
 | Dungeon no Naka no Hito | Dungeon People | https://anilist.co/anime/168345 | [Link](https://ani.social/post/4687985) |
-| FAIRY TAIL: 100 YEARS QUEST | FAIRY TAIL 100 YEARS QUEST | https://anilist.co/anime/139095 | [Link](https://ani.social/post/4586544) |
 | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells | https://anilist.co/anime/173694 | [Link](https://ani.social/post/4667983) |
 | Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai | I Parry Everything | https://anilist.co/anime/170695 | [Link](https://ani.social/post/4666961) |
 | Kengan Ashura Season 2 Part 2 | KENGAN ASHURA Season 2 Part.2 | https://anilist.co/anime/169692 |  |
@@ -162,6 +161,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Koneko no Chii: Ponponra Natsuyasumi | Chi’s Sweet Adventure: Summer Vacation | https://anilist.co/anime/175120 | July 18 at 15:00 |
+| FAIRY TAIL: 100 YEARS QUEST | FAIRY TAIL 100 YEARS QUEST | https://anilist.co/anime/139095 | July 14 at 09:30 |
 | Bakeneko Anzu-chan | Ghost Cat Anzu | https://anilist.co/anime/158641 | July 18 at 16:00 |
 | JOCHUM | JOCHUM | https://anilist.co/anime/179408 | July 19 at 23:35 |
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | July 17 at 15:30 |
