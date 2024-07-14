@@ -136,6 +136,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/4592551)
+2|[Link](https://ani.social/post/4719962)
 {.dense}
 
 ## Koi wa Futago de Warikirenai • Love Is Indivisible by Twins
