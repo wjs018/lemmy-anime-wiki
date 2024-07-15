@@ -129,7 +129,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shinkalion: Change the World | Shinkalion: Change the World | https://anilist.co/anime/172395 | Episode 14 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1662 |
 | Sore Ike! Anpanman: Baikinman to Ehon no Lulun | Sore Ike! Anpanman: Baikinman to Ehon no Lulun | https://anilist.co/anime/172965 | Episode 1 |
-| Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF | Spice and Wolf: MERCHANT MEETS THE WISE WOLF | https://anilist.co/anime/145728 | Episode 15 |
+| Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF | Spice and Wolf: MERCHANT MEETS THE WISE WOLF | https://anilist.co/anime/145728 | Episode 16 |
 | Isekai Suicide Squad | Suicide Squad ISEKAI | https://anilist.co/anime/166710 | Episode 5 |
 | THE NEW GATE | THE NEW GATE | https://anilist.co/anime/170890 | Episode 12 |
 | The iDOLM@STER: Shiny Colors | THE iDOLM@STER SHINY COLORS | https://anilist.co/anime/162889 | Episode 12 |
