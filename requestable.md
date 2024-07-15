@@ -164,6 +164,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Koneko no Chii: Ponponra Natsuyasumi | Chi’s Sweet Adventure: Summer Vacation | https://anilist.co/anime/175120 | July 18 at 15:00 |
 | Bakeneko Anzu-chan | Ghost Cat Anzu | https://anilist.co/anime/158641 | July 18 at 16:00 |
 | JOCHUM | JOCHUM | https://anilist.co/anime/179408 | July 19 at 23:35 |
+| Mononoke: Karakasa | Mononoke: Karakasa | https://anilist.co/anime/151117 | July 25 at 15:00 |
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | July 17 at 15:30 |
 | Sengoku Youko: Senma Konton-hen | Sengoku Youko: The Thousandfold Chaos Arc | https://anilist.co/anime/176660 | July 17 at 15:00 |
 | StPri: Hajimari no Monogatari - Strawberry School Festival!!! | StPri: Hajimari no Monogatari - Strawberry School Festival!!! | https://anilist.co/anime/176319 | July 18 at 16:00 |
