@@ -32,7 +32,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Boku no Tsuma wa Kanjou ga Nai | My Wife Has No Emotion | https://anilist.co/anime/175450 | [Link](https://ani.social/post/4702862) |
 | Na-Nare Hana-Nare | Narenare -Cheer for you!- | https://anilist.co/anime/170891 | [Link](https://ani.social/post/4720872) |
 | NieR:Automata Ver1.1a 2nd Season | NieR:Automata Ver1.1a Cour 2 | https://anilist.co/anime/167420 | [Link](https://ani.social/post/4685041) |
-| Isekai Shikkaku | No Longer Allowed in Another World | https://anilist.co/anime/152137 | [Link](https://ani.social/post/4630947) |
+| Isekai Shikkaku | No Longer Allowed in Another World | https://anilist.co/anime/152137 | [Link](https://ani.social/post/4759227) |
 | [Oshi no Ko] 2nd Season | Oshi no Ko Season 2 | https://anilist.co/anime/166531 | [Link](https://ani.social/post/4647531) |
 | Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II | Our Last Crusade or the Rise of a New World Season 2 | https://anilist.co/anime/139825 | [Link](https://ani.social/post/4649975) |
 | Elf-san wa Yaserarenai. | Plus-Sized Elf | https://anilist.co/anime/173388 | [Link](https://ani.social/post/4705600) |
@@ -88,7 +88,6 @@ These shows have had episodes air already, but no thread was created because the
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 140 |
 | Gintama on Theater 2D: Ikkoku Keisei-hen | Gintama on Theater 2D: Ikkoku Keisei-hen | https://anilist.co/anime/175573 | Episode 1 |
 | Girls' F1st!!!! GT | Girls' F1st!!!! GT | https://anilist.co/anime/178067 | Episode 5 |
-| Jii-san Baa-san Wakagaeru | Grandpa and Grandma Turn Young Again | https://anilist.co/anime/168138 | Episode 11 |
 | Grendizer U | Grendizer U | https://anilist.co/anime/154195 | Episode 2 |
 | Grrr Grrr Tummy | Grrr Grrr Tummy | https://anilist.co/anime/178102 | Episode 1 |
 | HIGHSPEED Étoile | HIGHSPEED Étoile | https://anilist.co/anime/152302 | Episode 12 |
