@@ -101,6 +101,7 @@ Episode|Link
 2|[Link](https://ani.social/post/4403191)
 3|[Link](https://ani.social/post/4403191)
 4|[Link](https://ani.social/post/4527210)
+5|[Link](https://ani.social/post/4770079)
 {.dense}
 
 ## Isekai Yururi Kikou: Kosodate Shinagara Boukensha Shimasu • A Journey Through Another World: Raising Kids While Adventuring
