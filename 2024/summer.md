@@ -286,6 +286,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/4512905)
 2|[Link](https://ani.social/post/4648088)
+3|[Link](https://ani.social/post/4778784)
 {.dense}
 
 ## Tsue to Tsurugi no Wistoria • Wistoria: Wand and Sword
