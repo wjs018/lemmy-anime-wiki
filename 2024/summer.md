@@ -134,6 +134,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/4649975)
+2|[Link](https://ani.social/post/4777631)
 {.dense}
 
 ## Kinnikuman: Kanpeki Choujin Shiso-hen • Kinnikuman Perfect Origin Arc
@@ -149,6 +150,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/4645805)
+2|[Link](https://ani.social/post/4777628)
 {.dense}
 
 ## Kono Sekai wa Fukanzen Sugiru • Quality Assurance in Another World
