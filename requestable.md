@@ -33,7 +33,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Na-Nare Hana-Nare | Narenare -Cheer for you!- | https://anilist.co/anime/170891 | [Link](https://ani.social/post/4720872) |
 | NieR:Automata Ver1.1a 2nd Season | NieR:Automata Ver1.1a Cour 2 | https://anilist.co/anime/167420 | [Link](https://ani.social/post/4685041) |
 | Isekai Shikkaku | No Longer Allowed in Another World | https://anilist.co/anime/152137 | [Link](https://ani.social/post/4759227) |
-| [Oshi no Ko] 2nd Season | Oshi no Ko Season 2 | https://anilist.co/anime/166531 | [Link](https://ani.social/post/4647531) |
+| [Oshi no Ko] 2nd Season | Oshi no Ko Season 2 | https://anilist.co/anime/166531 | [Link](https://ani.social/post/4778362) |
 | Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II | Our Last Crusade or the Rise of a New World Season 2 | https://anilist.co/anime/139825 | [Link](https://ani.social/post/4777631) |
 | Elf-san wa Yaserarenai. | Plus-Sized Elf | https://anilist.co/anime/173388 | [Link](https://ani.social/post/4705600) |
 | Giji Harem | Pseudo Harem | https://anilist.co/anime/163623 | [Link](https://ani.social/post/4667521) |
@@ -79,7 +79,6 @@ These shows have had episodes air already, but no thread was created because the
 | Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 16 |
 | Chibi Maruko-chan (1995) | Chibi Maruko-chan | https://anilist.co/anime/6149 | Episode 1439 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 181 |
-| Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life | Chillin' in Another World with Level 2 Super Cheat Powers | https://anilist.co/anime/170130 | Episode 11 |
 | Code Geass: Dakkan no Rozé | Code Geass: Rozé of the Recapture | https://anilist.co/anime/126830 | Episode 4 |
 | Date A Live V | Date A Live V | https://anilist.co/anime/151380 | Episode 11 |
 | Gimai Seikatsu | Days with My Stepsister | https://anilist.co/anime/152681 | Episode 2 |
@@ -123,6 +122,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sai-Kyo-Oh! Zukan: The Ultimate Battles | Sai-Kyo-Oh! Zukan: The Ultimate Battles | https://anilist.co/anime/173216 | Episode 28 |
 | Tensui no Sakuna-hime | Sakuna: Of Rice and Ruin | https://anilist.co/anime/175868 | Episode 2 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2743 |
+| Sengoku Youko: Senma Konton-hen | Sengoku Youko: The Thousandfold Chaos Arc | https://anilist.co/anime/176660 | Episode 1 |
 | Shadowverse Flame: Arc-hen | Shadowverse Flame: Arc-hen | https://anilist.co/anime/172187 | Episode 13 |
 | Shimajirou no Wow! | Shimajiro: A Wonderful Adventure | https://anilist.co/anime/18941 | Episode 630 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1241 |
@@ -165,6 +165,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | JOCHUM | JOCHUM | https://anilist.co/anime/179408 | July 19 at 23:35 |
 | Mononoke: Karakasa | Mononoke: Karakasa | https://anilist.co/anime/151117 | July 25 at 15:00 |
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | July 17 at 15:30 |
-| Sengoku Youko: Senma Konton-hen | Sengoku Youko: The Thousandfold Chaos Arc | https://anilist.co/anime/176660 | July 17 at 15:00 |
 | StPri: Hajimari no Monogatari - Strawberry School Festival!!! | StPri: Hajimari no Monogatari - Strawberry School Festival!!! | https://anilist.co/anime/176319 | July 18 at 16:00 |
 {.dense}
