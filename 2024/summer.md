@@ -230,6 +230,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/4600716)
 2|[Link](https://ani.social/post/4666961)
+3|[Link](https://ani.social/post/4797189)
 {.dense}
 
 ## Senpai wa Otokonoko • Senpai is an Otokonoko
