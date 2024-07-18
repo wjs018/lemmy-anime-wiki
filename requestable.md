@@ -91,7 +91,7 @@ These shows have had episodes air already, but no thread was created because the
 | Girls' F1st!!!! GT | Girls' F1st!!!! GT | https://anilist.co/anime/178067 | Episode 5 |
 | Grendizer U | Grendizer U | https://anilist.co/anime/154195 | Episode 2 |
 | HIGHSPEED Étoile | HIGHSPEED Étoile | https://anilist.co/anime/152302 | Episode 12 |
-| Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 560 |
+| Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 561 |
 | Harimaware! Koinu 2nd Season | Harimaware! Koinu 2nd Season | https://anilist.co/anime/176283 | Episode 2 |
 | Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | Episode 1 |
 | Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 15 |
