@@ -270,6 +270,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/4546926)
 2|[Link](https://ani.social/post/4666258)
+3|[Link](https://ani.social/post/4796854)
 {.dense}
 
 ## Tasuuketsu • Tasuketsu -Fate of the Majority-
