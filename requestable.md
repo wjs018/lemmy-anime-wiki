@@ -80,7 +80,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 181 |
 | Code Geass: Dakkan no Rozé | Code Geass: Rozé of the Recapture | https://anilist.co/anime/126830 | Episode 4 |
 | Date A Live V | Date A Live V | https://anilist.co/anime/151380 | Episode 11 |
-| Gimai Seikatsu | Days with My Stepsister | https://anilist.co/anime/152681 | Episode 2 |
+| Gimai Seikatsu | Days with My Stepsister | https://anilist.co/anime/152681 | Episode 3 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 819 |
 | Egumi Legacy | Egumi Legacy | https://anilist.co/anime/177097 | Episode 2 |
 | FAIRY TAIL: 100 YEARS QUEST | FAIRY TAIL 100 YEARS QUEST | https://anilist.co/anime/139095 | Episode 2 |
