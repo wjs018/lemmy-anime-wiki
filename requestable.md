@@ -144,7 +144,6 @@ These shows have had episodes air already, but no thread was created because the
 | Tousouchuu: Great Mission | Tousouchuu: Great Mission | https://anilist.co/anime/159560 | Episode 64 |
 | Urusei Yatsura (2022) 2nd Season | Urusei Yatsura (2022) Season 3 | https://anilist.co/anime/155645 | Episode 23 |
 | Vampire Dormitory | Vampire Dormitory | https://anilist.co/anime/170604 | Episode 12 |
-| Wan Wan Train Doko e Iku? | Wan Wan Train Doko e Iku? | https://anilist.co/anime/177405 | Episode 9 |
 | Sasayaku You ni Koi wo Utau | Whisper Me a Love Song | https://anilist.co/anime/160181 | Episode 11 |
 | Wonderful Precure! | Wonderful Precure! | https://anilist.co/anime/171030 | Episode 24 |
 | Karasu wa Aruji wo Erabanai | YATAGARASU: The Raven Does Not Choose Its Master | https://anilist.co/anime/170503 | Episode 15 |
