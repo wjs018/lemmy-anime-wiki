@@ -171,6 +171,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/4627064)
 2|[Link](https://ani.social/post/4688424)
+3|[Link](https://ani.social/post/4817121)
 {.dense}
 
 ## Madougushi Dahlia wa Utsumukanai • Dahlia in Bloom: Crafting a Fresh Start with Magical Tools
