@@ -81,7 +81,7 @@ These shows have had episodes air already, but no thread was created because the
 | Koneko no Chii: Ponponra Natsuyasumi | Chi’s Sweet Adventure: Summer Vacation | https://anilist.co/anime/175120 | Episode 1 |
 | Code Geass: Dakkan no Rozé | Code Geass: Rozé of the Recapture | https://anilist.co/anime/126830 | Episode 5 |
 | Dead Dead Demon's Dededededestruction | DEAD DEAD DEMONS DEDEDEDE DESTRUCTION | https://anilist.co/anime/177697 | Episode 9 |
-| Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 819 |
+| Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 820 |
 | Egumi Legacy | Egumi Legacy | https://anilist.co/anime/177097 | Episode 2 |
 | FAIRY TAIL: 100 YEARS QUEST | FAIRY TAIL 100 YEARS QUEST | https://anilist.co/anime/139095 | Episode 2 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 141 |
