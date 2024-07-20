@@ -64,6 +64,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/4574493)
 2|[Link](https://ani.social/post/4705600)
+3|[Link](https://ani.social/post/4835107)
 {.dense}
 
 ## FAIRY TAIL: 100 YEARS QUEST • FAIRY TAIL 100 YEARS QUEST
@@ -284,6 +285,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/4575608)
 2|[Link](https://ani.social/post/4705601)
+3|[Link](https://ani.social/post/4835108)
 {.dense}
 
 ## Tasogare Outfocus • Twilight Out of Focus
