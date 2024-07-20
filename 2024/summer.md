@@ -180,6 +180,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/4570071)
 2|[Link](https://ani.social/post/4701058)
+3|[Link](https://ani.social/post/4829819)
 {.dense}
 
 ## Make Heroine ga Oosugiru! • Makeine: Too Many Losing Heroines!
@@ -203,6 +204,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/4576630)
 2|[Link](https://ani.social/post/4701059)
+3|[Link](https://ani.social/post/4829820)
 {.dense}
 
 ## Na-Nare Hana-Nare • Narenare -Cheer for you!-
