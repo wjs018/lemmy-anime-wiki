@@ -15,6 +15,7 @@ Below, you can find an index of all the discussion threads for shows from the Su
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/4706301)
+2|[Link](https://ani.social/post/4833029)
 {.dense}
 
 ## Boku no Tsuma wa Kanjou ga Nai • My Wife Has No Emotion
