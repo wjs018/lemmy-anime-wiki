@@ -15,7 +15,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
 | Isekai Yururi Kikou: Kosodate Shinagara Boukensha Shimasu | A Journey Through Another World: Raising Kids While Adventuring | https://anilist.co/anime/171031 | [Link](https://ani.social/post/4724023) |
-| ATRI: My Dear Moments | ATRI -My Dear Moments- | https://anilist.co/anime/154963 | [Link](https://ani.social/post/4706301) |
+| ATRI: My Dear Moments | ATRI -My Dear Moments- | https://anilist.co/anime/154963 | [Link](https://ani.social/post/4833029) |
 | Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san | Alya Sometimes Hides Her Feelings in Russian | https://anilist.co/anime/162804 | [Link](https://ani.social/post/4778784) |
 | Bye Bye, Earth | Bye Bye, Earth | https://anilist.co/anime/157371 | [Link](https://ani.social/post/4814115) |
 | Madougushi Dahlia wa Utsumukanai | Dahlia in Bloom: Crafting a Fresh Start with Magical Tools | https://anilist.co/anime/168623 | [Link](https://ani.social/post/4829819) |
@@ -63,7 +63,6 @@ These shows have had episodes air already, but no thread was created because the
 | :-------- | :---------------- | :----------- | :--------------------------: |
 | 0 Saiji Start Dash Monogatari | 0 Saiji Start Dash Monogatari | https://anilist.co/anime/177879 | Episode 2 |
 | 2.5 Jigen no Ririsa | 2.5 Dimensional Seduction | https://anilist.co/anime/158559 | Episode 3 |
-| Hananoi-kun to Koi no Yamai | A Condition Called Love | https://anilist.co/anime/165855 | Episode 12 |
 | Mob kara Hajimaru Tansaku Eiyuutan | A Nobody's Way Up to an Exploration Hero | https://anilist.co/anime/172416 | Episode 4 |
 | Astro Note | Astro Note | https://anilist.co/anime/171040 | Episode 12 |
 | Atashin'chi NEXT | Atashin'chi NEXT | https://anilist.co/anime/173313 | Episode 2 |
@@ -106,12 +105,11 @@ These shows have had episodes air already, but no thread was created because the
 | Kaii to Otome to Kamikakushi | Mysterious Disappearances | https://anilist.co/anime/160090 | Episode 12 |
 | NIJIYON ANIMATION 2: Shinsaku Animation | NIJIYON ANIMATION 2: Shinsaku Animation | https://anilist.co/anime/178396 | Episode 1 |
 | NIJIYON ANIMATION 2 | NIJIYON ANIMATION Season 2 | https://anilist.co/anime/172242 | Episode 12 |
-| Naoe-kun wa Yasesasetai. | Naoe-kun wa Yasesasetai. | https://anilist.co/anime/179212 | Episode 2 |
+| Naoe-kun wa Yasesasetai. | Naoe-kun wa Yasesasetai. | https://anilist.co/anime/179212 | Episode 3 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 127 |
 | Nyaaaanvy | Nyaaaanvy | https://anilist.co/anime/177798 | Episode 6 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1112 |
 | Boukyaku Battery (TV) | Oblivion Battery | https://anilist.co/anime/167927 | Episode 12 |
-| Oomuro-ke: dear friends | Oomuro-ke: dear friends | https://anilist.co/anime/174383 | Episode 1 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 58 |
 | Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2053 |
 | Ramen Aka Neko | Ramen Akaneko | https://anilist.co/anime/170998 | Episode 3 |
