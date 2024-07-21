@@ -140,7 +140,7 @@ These shows have had episodes air already, but no thread was created because the
 | Maou Gun Saikyou no Majutsushi wa Ningen datta | The Strongest Magician in the Demon Lord's Army was a Human | https://anilist.co/anime/173584 | Episode 4 |
 | Yami Shibai 13 | Theatre of Darkness: Yamishibai 13 | https://anilist.co/anime/177922 | Episode 2 |
 | Ooi! Tonbo | Tonbo! | https://anilist.co/anime/164440 | Episode 13 |
-| Tousouchuu: Great Mission | Tousouchuu: Great Mission | https://anilist.co/anime/159560 | Episode 64 |
+| Tousouchuu: Great Mission | Tousouchuu: Great Mission | https://anilist.co/anime/159560 | Episode 65 |
 | Vampire Dormitory | Vampire Dormitory | https://anilist.co/anime/170604 | Episode 12 |
 | Sasayaku You ni Koi wo Utau | Whisper Me a Love Song | https://anilist.co/anime/160181 | Episode 11 |
 | Wonderful Precure! | Wonderful Precure! | https://anilist.co/anime/171030 | Episode 25 |
