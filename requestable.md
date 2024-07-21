@@ -49,7 +49,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru. | The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible | https://anilist.co/anime/163292 | [Link](https://ani.social/post/4743234) |
 | Kami no Tou: Tower of God - Ouji no Kikan | Tower of God Season 2 | https://anilist.co/anime/153406 | [Link](https://ani.social/post/4720375) |
 | Tasogare Outfocus | Twilight Out of Focus | https://anilist.co/anime/166700 | [Link](https://ani.social/post/4796854) |
-| T・P Bon | T・P Bon | https://anilist.co/anime/169930 | [Link](https://ani.social/post/4772303) |
 | VTuber nanda ga Haishin Kiri Wasuretara Densetsu ni Natteta | VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream | https://anilist.co/anime/160488 | [Link](https://ani.social/post/4720603) |
 | Naze Boku no Sekai wo Daremo Oboeteinai no ka? | Why Does Nobody Remember Me in This World? | https://anilist.co/anime/167419 | [Link](https://ani.social/post/4831049) |
 | Tsue to Tsurugi no Wistoria | Wistoria: Wand and Sword | https://anilist.co/anime/174576 | [Link](https://ani.social/post/4715126) |
