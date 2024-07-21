@@ -102,6 +102,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kaii to Otome to Kamikakushi | Mysterious Disappearances | https://anilist.co/anime/160090 | Episode 12 |
 | NIJIYON ANIMATION 2: Shinsaku Animation | NIJIYON ANIMATION 2: Shinsaku Animation | https://anilist.co/anime/178396 | Episode 1 |
 | Naoe-kun wa Yasesasetai. | Naoe-kun wa Yasesasetai. | https://anilist.co/anime/179212 | Episode 3 |
+| Na-Nare Hana-Nare | Narenare -Cheer for you!- | https://anilist.co/anime/170891 | Episode 3 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 127 |
 | Nyaaaanvy | Nyaaaanvy | https://anilist.co/anime/177798 | Episode 6 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1113 |
@@ -154,5 +155,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Mononoke: Karakasa | Mononoke: Karakasa | https://anilist.co/anime/151117 | July 25 at 15:00 |
-| Na-Nare Hana-Nare | Narenare -Cheer for you!- | https://anilist.co/anime/170891 | July 21 at 15:45 |
 {.dense}
