@@ -159,6 +159,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/4592551)
 2|[Link](https://ani.social/post/4719962)
+3|[Link](https://ani.social/post/4850680)
 {.dense}
 
 ## Koi wa Futago de Warikirenai • Love Is Indivisible by Twins
@@ -332,6 +333,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/4621023)
 2|[Link](https://ani.social/post/4720603)
+3|[Link](https://ani.social/post/4850679)
 {.dense}
 
 ## [Oshi no Ko] 2nd Season • Oshi no Ko Season 2
