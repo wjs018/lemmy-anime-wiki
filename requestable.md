@@ -61,7 +61,7 @@ These shows have had episodes air already, but no thread was created because the
 
 | Show Name | English Show Name | AniList Link | Most Recently Episode Number  |
 | :-------- | :---------------- | :----------- | :--------------------------: |
-| 0 Saiji Start Dash Monogatari | 0 Saiji Start Dash Monogatari | https://anilist.co/anime/177879 | Episode 2 |
+| 0 Saiji Start Dash Monogatari | 0 Saiji Start Dash Monogatari | https://anilist.co/anime/177879 | Episode 3 |
 | 2.5 Jigen no Ririsa | 2.5 Dimensional Seduction | https://anilist.co/anime/158559 | Episode 3 |
 | Mob kara Hajimaru Tansaku Eiyuutan | A Nobody's Way Up to an Exploration Hero | https://anilist.co/anime/172416 | Episode 4 |
 | Astro Note | Astro Note | https://anilist.co/anime/171040 | Episode 12 |
@@ -92,7 +92,7 @@ These shows have had episodes air already, but no thread was created because the
 | Harimaware! Koinu 2nd Season | Harimaware! Koinu 2nd Season | https://anilist.co/anime/176283 | Episode 3 |
 | Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | Episode 1 |
 | Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 16 |
-| Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 269 |
+| Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 270 |
 | I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 40 |
 | JOCHUM | JOCHUM | https://anilist.co/anime/179408 | Episode 2 |
 | Kumarba | Kumarba | https://anilist.co/anime/173249 | Episode 13 |
