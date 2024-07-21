@@ -103,7 +103,6 @@ These shows have had episodes air already, but no thread was created because the
 | Boku no Hero Academia 7 | My Hero Academia Season 7 | https://anilist.co/anime/163139 | Episode 11 |
 | Kaii to Otome to Kamikakushi | Mysterious Disappearances | https://anilist.co/anime/160090 | Episode 12 |
 | NIJIYON ANIMATION 2: Shinsaku Animation | NIJIYON ANIMATION 2: Shinsaku Animation | https://anilist.co/anime/178396 | Episode 1 |
-| NIJIYON ANIMATION 2 | NIJIYON ANIMATION Season 2 | https://anilist.co/anime/172242 | Episode 12 |
 | Naoe-kun wa Yasesasetai. | Naoe-kun wa Yasesasetai. | https://anilist.co/anime/179212 | Episode 3 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 127 |
 | Nyaaaanvy | Nyaaaanvy | https://anilist.co/anime/177798 | Episode 6 |
