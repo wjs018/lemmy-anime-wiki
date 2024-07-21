@@ -108,7 +108,7 @@ These shows have had episodes air already, but no thread was created because the
 | Naoe-kun wa Yasesasetai. | Naoe-kun wa Yasesasetai. | https://anilist.co/anime/179212 | Episode 3 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 127 |
 | Nyaaaanvy | Nyaaaanvy | https://anilist.co/anime/177798 | Episode 6 |
-| ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1112 |
+| ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1113 |
 | Boukyaku Battery (TV) | Oblivion Battery | https://anilist.co/anime/167927 | Episode 12 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 58 |
 | Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2053 |
