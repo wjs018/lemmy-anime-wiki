@@ -121,7 +121,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shinkalion: Change the World | Shinkalion: Change the World | https://anilist.co/anime/172395 | Episode 15 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1663 |
 | Sore Ike! Anpanman: Baikinman to Ehon no Lulun | Sore Ike! Anpanman: Baikinman to Ehon no Lulun | https://anilist.co/anime/172965 | Episode 1 |
-| Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF | Spice and Wolf: MERCHANT MEETS THE WISE WOLF | https://anilist.co/anime/145728 | Episode 16 |
+| Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF | Spice and Wolf: MERCHANT MEETS THE WISE WOLF | https://anilist.co/anime/145728 | Episode 17 |
 | StPri: Hajimari no Monogatari - Strawberry School Festival!!! | StPri: Hajimari no Monogatari - Strawberry School Festival!!! | https://anilist.co/anime/176319 | Episode 1 |
 | THE NEW GATE | THE NEW GATE | https://anilist.co/anime/170890 | Episode 12 |
 | Tadaima, Okaeri | Tadaima, Okaeri | https://anilist.co/anime/169698 | Episode 12 |
