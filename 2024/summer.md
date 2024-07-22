@@ -282,6 +282,7 @@ Episode|Link
 :-:|:-:
 2|[Link](https://ani.social/post/4623365)
 3|[Link](https://ani.social/post/4743234)
+4|[Link](https://ani.social/post/4873934)
 {.dense}
 
 ## Shoushimin Series • SHOSHIMIN: How to Become Ordinary
