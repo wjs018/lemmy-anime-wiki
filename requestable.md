@@ -65,7 +65,6 @@ These shows have had episodes air already, but no thread was created because the
 | Mob kara Hajimaru Tansaku Eiyuutan | A Nobody's Way Up to an Exploration Hero | https://anilist.co/anime/172416 | Episode 4 |
 | Atashin'chi NEXT | Atashin'chi NEXT | https://anilist.co/anime/173313 | Episode 2 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 41 |
-| Kuroshitsuji: Kishuku Gakkou-hen | Black Butler: Public School Arc | https://anilist.co/anime/166715 | Episode 11 |
 | Blue Archive The Animation | Blue Archive The Animation | https://anilist.co/anime/160589 | Episode 12 |
 | BONOBONO (2016) | Bono Bono (2016) | https://anilist.co/anime/21552 | Episode 419 |
 | Bouken Tairiku Ania Kingdom: Densetsu no Guardian-hen | Bouken Tairiku Ania Kingdom: Densetsu no Guardian-hen | https://anilist.co/anime/177160 | Episode 4 |
