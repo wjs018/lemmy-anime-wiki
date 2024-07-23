@@ -70,7 +70,7 @@ These shows have had episodes air already, but no thread was created because the
 | Cardfight!! Vanguard: Divinez Season 2 | CARDFIGHT!! VANGUARD Divinez Season 2 | https://anilist.co/anime/165681 | Episode 3 |
 | Captain Tsubasa: Season 2 - Junior Youth-hen | Captain Tsubasa: Junior Youth Arc | https://anilist.co/anime/163024 | Episode 39 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1130 |
-| Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 16 |
+| Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 17 |
 | Chibi Maruko-chan (1995) | Chibi Maruko-chan | https://anilist.co/anime/6149 | Episode 1439 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 182 |
 | Koneko no Chii: Ponponra Natsuyasumi | Chi’s Sweet Adventure: Summer Vacation | https://anilist.co/anime/175120 | Episode 1 |
