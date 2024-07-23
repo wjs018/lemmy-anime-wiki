@@ -105,6 +105,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/4630947)
 2|[Link](https://ani.social/post/4759227)
+3|[Link](https://ani.social/post/4889276)
 {.dense}
 
 ## Isekai Suicide Squad • Suicide Squad ISEKAI
