@@ -172,6 +172,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/4645805)
 2|[Link](https://ani.social/post/4777628)
+3|[Link](https://ani.social/post/4908783)
 {.dense}
 
 ## Kono Sekai wa Fukanzen Sugiru • Quality Assurance in Another World
@@ -323,6 +324,7 @@ Episode|Link
 1|[Link](https://ani.social/post/4512905)
 2|[Link](https://ani.social/post/4648088)
 3|[Link](https://ani.social/post/4778784)
+4|[Link](https://ani.social/post/4908782)
 {.dense}
 
 ## Tsue to Tsurugi no Wistoria • Wistoria: Wand and Sword
