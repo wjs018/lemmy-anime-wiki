@@ -154,6 +154,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/4649975)
 2|[Link](https://ani.social/post/4777631)
+3|[Link](https://ani.social/post/4907889)
 {.dense}
 
 ## Kinnikuman: Kanpeki Choujin Shiso-hen • Kinnikuman Perfect Origin Arc
