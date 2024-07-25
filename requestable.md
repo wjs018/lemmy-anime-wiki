@@ -129,6 +129,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yami Shibai 13 | Theatre of Darkness: Yamishibai 13 | https://anilist.co/anime/177922 | Episode 2 |
 | Ooi! Tonbo | Tonbo! | https://anilist.co/anime/164440 | Episode 13 |
 | Tousouchuu: Great Mission | Tousouchuu: Great Mission | https://anilist.co/anime/159560 | Episode 65 |
+| Tasogare Outfocus | Twilight Out of Focus | https://anilist.co/anime/166700 | Episode 4 |
 | Sasayaku You ni Koi wo Utau | Whisper Me a Love Song | https://anilist.co/anime/160181 | Episode 11 |
 | Wonderful Precure! | Wonderful Precure! | https://anilist.co/anime/171030 | Episode 25 |
 | Karasu wa Aruji wo Erabanai | YATAGARASU: The Raven Does Not Choose Its Master | https://anilist.co/anime/170503 | Episode 14 |
@@ -145,5 +146,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | July 30 at 15:00 |
 | Kimi ni Todoke 3RD SEASON | Kimi ni Todoke: From Me to You Season 3 | https://anilist.co/anime/168872 | August 01 at 07:00 |
 | Boku no Hero Academia THE MOVIE: YOU'RE NEXT | My Hero Academia: You’re Next | https://anilist.co/anime/168013 | August 01 at 15:00 |
-| Tasogare Outfocus | Twilight Out of Focus | https://anilist.co/anime/166700 | July 25 at 15:30 |
 {.dense}
