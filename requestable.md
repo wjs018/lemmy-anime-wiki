@@ -84,7 +84,6 @@ These shows have had episodes air already, but no thread was created because the
 | Grendizer U | Grendizer U | https://anilist.co/anime/154195 | Episode 3 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 561 |
 | Harimaware! Koinu 2nd Season | Harimaware! Koinu 2nd Season | https://anilist.co/anime/176283 | Episode 3 |
-| Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | Episode 1 |
 | Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 16 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 270 |
 | I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 41 |
@@ -94,6 +93,7 @@ These shows have had episodes air already, but no thread was created because the
 | Maarui Kanojo to Zannen na Kareshi | Maarui Kanojo to Zannen na Kareshi | https://anilist.co/anime/178421 | Episode 6 |
 | Jongtama Kan!! | Mahjong Soul KAN!! | https://anilist.co/anime/172964 | Episode 13 |
 | Yozakura-san Chi no Daisakusen | Mission: Yozakura Family | https://anilist.co/anime/158898 | Episode 16 |
+| Mononoke: Karakasa | Mononoke: Karakasa | https://anilist.co/anime/151117 | Episode 1 |
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | Episode 4 |
 | Boku no Hero Academia 7 | My Hero Academia Season 7 | https://anilist.co/anime/163139 | Episode 11 |
 | Kaii to Otome to Kamikakushi | Mysterious Disappearances | https://anilist.co/anime/160090 | Episode 12 |
@@ -135,7 +135,6 @@ These shows have had episodes air already, but no thread was created because the
 | Wonderful Precure! | Wonderful Precure! | https://anilist.co/anime/171030 | Episode 25 |
 | Karasu wa Aruji wo Erabanai | YATAGARASU: The Raven Does Not Choose Its Master | https://anilist.co/anime/170503 | Episode 14 |
 | Yozakura-san Chi no Mini Sakusen | Yozakura-san Chi no Mini Sakusen | https://anilist.co/anime/176909 | Episode 16 |
-| Yuru Camp△ SEASON 3 OVA | Yuru Camp△ SEASON 3 OVA | https://anilist.co/anime/177007 | Episode 1 |
 | Yu☆Gi☆Oh! Go Rush!! | Yu☆Gi☆Oh! Go Rush!! | https://anilist.co/anime/142842 | Episode 117 |
 {.dense}
 
@@ -145,7 +144,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
+| Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | July 30 at 15:00 |
 | Kimi ni Todoke 3RD SEASON | Kimi ni Todoke: From Me to You Season 3 | https://anilist.co/anime/168872 | August 01 at 07:00 |
-| Mononoke: Karakasa | Mononoke: Karakasa | https://anilist.co/anime/151117 | July 25 at 15:00 |
 | Boku no Hero Academia THE MOVIE: YOU'RE NEXT | My Hero Academia: You’re Next | https://anilist.co/anime/168013 | August 01 at 15:00 |
 {.dense}
