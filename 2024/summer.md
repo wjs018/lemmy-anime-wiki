@@ -100,6 +100,7 @@ Episode|Link
 1|[Link](https://ani.social/post/4554668)
 2|[Link](https://ani.social/post/4667983)
 3|[Link](https://ani.social/post/4798079)
+4|[Link](https://ani.social/post/4930718)
 {.dense}
 
 ## Isekai Shikkaku • No Longer Allowed in Another World
@@ -274,6 +275,7 @@ Episode|Link
 1|[Link](https://ani.social/post/4534712)
 2|[Link](https://ani.social/post/4667982)
 3|[Link](https://ani.social/post/4798078)
+4|[Link](https://ani.social/post/4930682)
 {.dense}
 
 ## Shikanoko Nokonoko Koshitantan • My Deer Friend Nokotan
