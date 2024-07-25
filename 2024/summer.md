@@ -47,6 +47,7 @@ Episode|Link
 6|[Link](https://ani.social/post/4416117)
 7|[Link](https://ani.social/post/4545249)
 8|[Link](https://ani.social/post/4676415)
+9|[Link](https://ani.social/post/4918578)
 {.dense}
 
 ## Dungeon no Naka no Hito • Dungeon People
