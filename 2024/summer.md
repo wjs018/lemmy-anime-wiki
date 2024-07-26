@@ -34,6 +34,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/4692120)
 2|[Link](https://ani.social/post/4814115)
+3|[Link](https://ani.social/post/4947718)
 {.dense}
 
 ## Dead Dead Demon's Dededededestruction • DEAD DEAD DEMONS DEDEDEDE DESTRUCTION
