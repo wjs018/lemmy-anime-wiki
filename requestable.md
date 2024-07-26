@@ -72,7 +72,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chibi Maruko-chan (1995) | Chibi Maruko-chan | https://anilist.co/anime/6149 | Episode 1439 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 183 |
 | Koneko no Chii: Ponponra Natsuyasumi | Chi’s Sweet Adventure: Summer Vacation | https://anilist.co/anime/175120 | Episode 1 |
-| Code Geass: Dakkan no Rozé | Code Geass: Rozé of the Recapture | https://anilist.co/anime/126830 | Episode 5 |
+| Code Geass: Dakkan no Rozé | Code Geass: Rozé of the Recapture | https://anilist.co/anime/126830 | Episode 6 |
 | Dead Dead Demon's Dededededestruction | DEAD DEAD DEMONS DEDEDEDE DESTRUCTION | https://anilist.co/anime/177697 | Episode 10 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 820 |
 | Egumi Legacy | Egumi Legacy | https://anilist.co/anime/177097 | Episode 3 |
