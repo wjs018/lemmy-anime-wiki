@@ -47,7 +47,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru. | The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible | https://anilist.co/anime/163292 | [Link](https://ani.social/post/4873934) |
 | Kami no Tou: Tower of God - Ouji no Kikan | Tower of God Season 2 | https://anilist.co/anime/153406 | [Link](https://ani.social/post/4850418) |
 | VTuber nanda ga Haishin Kiri Wasuretara Densetsu ni Natteta | VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream | https://anilist.co/anime/160488 | [Link](https://ani.social/post/4850679) |
-| Naze Boku no Sekai wo Daremo Oboeteinai no ka? | Why Does Nobody Remember Me in This World? | https://anilist.co/anime/167419 | [Link](https://ani.social/post/4831049) |
+| Naze Boku no Sekai wo Daremo Oboeteinai no ka? | Why Does Nobody Remember Me in This World? | https://anilist.co/anime/167419 | [Link](https://ani.social/post/4966574) |
 | Tsue to Tsurugi no Wistoria | Wistoria: Wand and Sword | https://anilist.co/anime/174576 | [Link](https://ani.social/post/4845928) |
 {.dense}
 
