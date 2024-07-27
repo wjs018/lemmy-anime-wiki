@@ -199,6 +199,7 @@ Episode|Link
 1|[Link](https://ani.social/post/4570071)
 2|[Link](https://ani.social/post/4701058)
 3|[Link](https://ani.social/post/4829819)
+4|[Link](https://ani.social/post/4965259)
 {.dense}
 
 ## Make Heroine ga Oosugiru! • Makeine: Too Many Losing Heroines!
