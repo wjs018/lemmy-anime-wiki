@@ -41,7 +41,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Isekai Suicide Squad | Suicide Squad ISEKAI | https://anilist.co/anime/166710 | [Link](https://ani.social/post/4922375) |
 | Tasuuketsu | Tasuketsu -Fate of the Majority- | https://anilist.co/anime/174070 | [Link](https://ani.social/post/4892464) |
 | Tensei Shitara Slime Datta Ken 3rd Season | That Time I Got Reincarnated as a Slime Season 3 | https://anilist.co/anime/156822 | [Link](https://ani.social/post/4947301) |
-| Nige Jouzu no Wakagimi | The Elusive Samurai | https://anilist.co/anime/162896 | [Link](https://ani.social/post/4832172) |
 | The Fable | The Fable | https://anilist.co/anime/166910 | [Link](https://ani.social/post/4834314) |
 | Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita. | The Magical Girl and the Evil Lieutenant Used to Be Archenemies | https://anilist.co/anime/170938 | [Link](https://ani.social/post/4888494) |
 | Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru. | The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible | https://anilist.co/anime/163292 | [Link](https://ani.social/post/4873934) |
@@ -142,4 +141,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | July 30 at 15:00 |
 | Kimi ni Todoke 3RD SEASON | Kimi ni Todoke: From Me to You Season 3 | https://anilist.co/anime/168872 | August 01 at 07:00 |
 | Boku no Hero Academia THE MOVIE: YOU'RE NEXT | My Hero Academia: You’re Next | https://anilist.co/anime/168013 | August 01 at 15:00 |
+| Nige Jouzu no Wakagimi | The Elusive Samurai | https://anilist.co/anime/162896 | July 27 at 15:30 |
 {.dense}
