@@ -18,7 +18,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | ATRI: My Dear Moments | ATRI -My Dear Moments- | https://anilist.co/anime/154963 | [Link](https://ani.social/post/4833029) |
 | Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san | Alya Sometimes Hides Her Feelings in Russian | https://anilist.co/anime/162804 | [Link](https://ani.social/post/4908782) |
 | Bye Bye, Earth | Bye Bye, Earth | https://anilist.co/anime/157371 | [Link](https://ani.social/post/4947718) |
-| Madougushi Dahlia wa Utsumukanai | Dahlia in Bloom: Crafting a Fresh Start with Magical Tools | https://anilist.co/anime/168623 | [Link](https://ani.social/post/4829819) |
+| Madougushi Dahlia wa Utsumukanai | Dahlia in Bloom: Crafting a Fresh Start with Magical Tools | https://anilist.co/anime/168623 | [Link](https://ani.social/post/4965259) |
 | Gimai Seikatsu | Days with My Stepsister | https://anilist.co/anime/152681 | [Link](https://ani.social/post/4926267) |
 | Dungeon no Naka no Hito | Dungeon People | https://anilist.co/anime/168345 | [Link](https://ani.social/post/4950378) |
 | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells | https://anilist.co/anime/173694 | [Link](https://ani.social/post/4930718) |
@@ -28,7 +28,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Koi wa Futago de Warikirenai | Love Is Indivisible by Twins | https://anilist.co/anime/167144 | [Link](https://ani.social/post/4908783) |
 | Make Heroine ga Oosugiru! | Makeine: Too Many Losing Heroines! | https://anilist.co/anime/171457 | [Link](https://ani.social/post/4833742) |
 | Mayonaka Punch | Mayonaka Punch | https://anilist.co/anime/174044 | [Link](https://ani.social/post/4869919) |
-| Monogatari Series: Off and Monster Season | Monogatari Series: Off and Monster Season | https://anilist.co/anime/173533 | [Link](https://ani.social/post/4829820) |
 | Boku no Tsuma wa Kanjou ga Nai | My Wife Has No Emotion | https://anilist.co/anime/175450 | [Link](https://ani.social/post/4831679) |
 | NieR:Automata Ver1.1a 2nd Season | NieR:Automata Ver1.1a Cour 2 | https://anilist.co/anime/167420 | [Link](https://ani.social/post/4947993) |
 | Isekai Shikkaku | No Longer Allowed in Another World | https://anilist.co/anime/152137 | [Link](https://ani.social/post/4889276) |
@@ -142,5 +141,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | July 30 at 15:00 |
 | Kimi ni Todoke 3RD SEASON | Kimi ni Todoke: From Me to You Season 3 | https://anilist.co/anime/168872 | August 01 at 07:00 |
+| Monogatari Series: Off and Monster Season | Monogatari Series: Off and Monster Season | https://anilist.co/anime/173533 | July 27 at 13:00 |
 | Boku no Hero Academia THE MOVIE: YOU'RE NEXT | My Hero Academia: You’re Next | https://anilist.co/anime/168013 | August 01 at 15:00 |
 {.dense}
