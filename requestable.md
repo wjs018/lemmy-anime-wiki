@@ -129,7 +129,7 @@ These shows have had episodes air already, but no thread was created because the
 | Wonderful Precure! | Wonderful Precure! | https://anilist.co/anime/171030 | Episode 25 |
 | Karasu wa Aruji wo Erabanai | YATAGARASU: The Raven Does Not Choose Its Master | https://anilist.co/anime/170503 | Episode 15 |
 | Yozakura-san Chi no Mini Sakusen | Yozakura-san Chi no Mini Sakusen | https://anilist.co/anime/176909 | Episode 16 |
-| Yu☆Gi☆Oh! Go Rush!! | Yu☆Gi☆Oh! Go Rush!! | https://anilist.co/anime/142842 | Episode 117 |
+| Yu☆Gi☆Oh! Go Rush!! | Yu☆Gi☆Oh! Go Rush!! | https://anilist.co/anime/142842 | Episode 118 |
 {.dense}
 
 ## Upcoming Shows
