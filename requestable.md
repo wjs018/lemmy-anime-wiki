@@ -37,7 +37,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Senpai wa Otokonoko | Senpai is an Otokonoko | https://anilist.co/anime/163133 | [Link](https://ani.social/post/4930682) |
 | Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF | Spice and Wolf: MERCHANT MEETS THE WISE WOLF | https://anilist.co/anime/145728 | [Link](https://ani.social/post/5014451) |
 | Isekai Suicide Squad | Suicide Squad ISEKAI | https://anilist.co/anime/166710 | [Link](https://ani.social/post/4922375) |
-| Tasuuketsu | Tasuketsu -Fate of the Majority- | https://anilist.co/anime/174070 | [Link](https://ani.social/post/4892464) |
 | Tensei Shitara Slime Datta Ken 3rd Season | That Time I Got Reincarnated as a Slime Season 3 | https://anilist.co/anime/156822 | [Link](https://ani.social/post/4947301) |
 | The Fable | The Fable | https://anilist.co/anime/166910 | [Link](https://ani.social/post/4968854) |
 | Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita. | The Magical Girl and the Evil Lieutenant Used to Be Archenemies | https://anilist.co/anime/170938 | [Link](https://ani.social/post/5022267) |
@@ -138,4 +137,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Kimi ni Todoke 3RD SEASON | Kimi ni Todoke: From Me to You Season 3 | https://anilist.co/anime/168872 | August 01 at 07:00 |
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | July 31 at 15:30 |
 | Boku no Hero Academia THE MOVIE: YOU'RE NEXT | My Hero Academia: You’re Next | https://anilist.co/anime/168013 | August 01 at 15:00 |
+| Tasuuketsu | Tasuketsu -Fate of the Majority- | https://anilist.co/anime/174070 | July 30 at 17:59 |
 {.dense}
