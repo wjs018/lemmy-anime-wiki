@@ -70,6 +70,7 @@ These shows have had episodes air already, but no thread was created because the
 | Koneko no Chii: Ponponra Natsuyasumi | Chi’s Sweet Adventure: Summer Vacation | https://anilist.co/anime/175120 | Episode 1 |
 | Code Geass: Dakkan no Rozé | Code Geass: Rozé of the Recapture | https://anilist.co/anime/126830 | Episode 6 |
 | Dead Dead Demon's Dededededestruction | DEAD DEAD DEMONS DEDEDEDE DESTRUCTION | https://anilist.co/anime/177697 | Episode 10 |
+| Yuureibune-sen | Dead Ma’am’s Chest | https://anilist.co/anime/179880 | Episode 1 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 821 |
 | Egumi Legacy | Egumi Legacy | https://anilist.co/anime/177097 | Episode 3 |
 | FAIRY TAIL: 100 YEARS QUEST | FAIRY TAIL 100 YEARS QUEST | https://anilist.co/anime/139095 | Episode 4 |
@@ -132,7 +133,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Bocchi the Rock! Re:Re: | Bocchi the Rock! Re:Re: | https://anilist.co/anime/171099 | August 08 at 15:00 |
 | Crayon Shin-chan: Ora-tachi no Kyouryuu Nikki | Crayon Shin-chan: Ora-tachi no Kyouryuu Nikki | https://anilist.co/anime/171145 | August 08 at 15:00 |
-| Yuureibune-sen | Dead Ma’am’s Chest | https://anilist.co/anime/179880 | July 30 at 12:00 |
 | Delico's Nursery | Delico's Nursery | https://anilist.co/anime/167991 | August 07 at 15:30 |
 | Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | July 30 at 15:00 |
 | Kimi ni Todoke 3RD SEASON | Kimi ni Todoke: From Me to You Season 3 | https://anilist.co/anime/168872 | August 01 at 07:00 |
