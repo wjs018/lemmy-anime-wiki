@@ -86,6 +86,7 @@ Episode|Link
 2|[Link](https://ani.social/post/4667521)
 3|[Link](https://ani.social/post/4797572)
 4|[Link](https://ani.social/post/4929886)
+5|[Link](https://ani.social/post/5064678)
 {.dense}
 
 ## Gimai Seikatsu • Days with My Stepsister
