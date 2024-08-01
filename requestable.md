@@ -35,7 +35,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Shoushimin Series | SHOSHIMIN: How to Become Ordinary | https://anilist.co/anime/173295 | [Link](https://ani.social/post/4835108) |
 | Senpai wa Otokonoko | Senpai is an Otokonoko | https://anilist.co/anime/163133 | [Link](https://ani.social/post/4930682) |
 | Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF | Spice and Wolf: MERCHANT MEETS THE WISE WOLF | https://anilist.co/anime/145728 | [Link](https://ani.social/post/5014451) |
-| Isekai Suicide Squad | Suicide Squad ISEKAI | https://anilist.co/anime/166710 | [Link](https://ani.social/post/4922375) |
+| Isekai Suicide Squad | Suicide Squad ISEKAI | https://anilist.co/anime/166710 | [Link](https://ani.social/post/5057691) |
 | Tensei Shitara Slime Datta Ken 3rd Season | That Time I Got Reincarnated as a Slime Season 3 | https://anilist.co/anime/156822 | [Link](https://ani.social/post/4947301) |
 | Nige Jouzu no Wakagimi | The Elusive Samurai | https://anilist.co/anime/162896 | [Link](https://ani.social/post/5056451) |
 | The Fable | The Fable | https://anilist.co/anime/166910 | [Link](https://ani.social/post/4968854) |
