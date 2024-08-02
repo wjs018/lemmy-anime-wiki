@@ -60,7 +60,7 @@ These shows have had episodes air already, but no thread was created because the
 | Atashin'chi NEXT | Atashin'chi NEXT | https://anilist.co/anime/173313 | Episode 2 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 42 |
 | BONOBONO (2016) | Bono Bono (2016) | https://anilist.co/anime/21552 | Episode 420 |
-| Bouken Tairiku Ania Kingdom: Densetsu no Guardian-hen | Bouken Tairiku Ania Kingdom: Densetsu no Guardian-hen | https://anilist.co/anime/177160 | Episode 5 |
+| Bouken Tairiku Ania Kingdom: Densetsu no Guardian-hen | Bouken Tairiku Ania Kingdom: Densetsu no Guardian-hen | https://anilist.co/anime/177160 | Episode 6 |
 | Cardfight!! Vanguard: Divinez Season 2 | CARDFIGHT!! VANGUARD Divinez Season 2 | https://anilist.co/anime/165681 | Episode 4 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1130 |
 | Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 18 |
@@ -68,7 +68,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 184 |
 | Koneko no Chii: Ponponra Natsuyasumi | Chi’s Sweet Adventure: Summer Vacation | https://anilist.co/anime/175120 | Episode 1 |
 | Code Geass: Dakkan no Rozé | Code Geass: Rozé of the Recapture | https://anilist.co/anime/126830 | Episode 6 |
-| Dead Dead Demon's Dededededestruction | DEAD DEAD DEMONS DEDEDEDE DESTRUCTION | https://anilist.co/anime/177697 | Episode 10 |
+| Dead Dead Demon's Dededededestruction | DEAD DEAD DEMONS DEDEDEDE DESTRUCTION | https://anilist.co/anime/177697 | Episode 11 |
 | Yuureibune-sen | Dead Ma’am’s Chest | https://anilist.co/anime/179880 | Episode 1 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 821 |
 | Egumi Legacy | Egumi Legacy | https://anilist.co/anime/177097 | Episode 4 |
