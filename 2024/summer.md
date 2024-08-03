@@ -258,6 +258,7 @@ Episode|Link
 1|[Link](https://ani.social/post/4705898)
 2|[Link](https://ani.social/post/4831049)
 3|[Link](https://ani.social/post/4966574)
+4|[Link](https://ani.social/post/5102357)
 {.dense}
 
 ## NieR:Automata Ver1.1a 2nd Season • NieR:Automata Ver1.1a Cour 2
