@@ -16,6 +16,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | :-------- | :---------------- | :----------- | :--------------------: |
 | Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san | Alya Sometimes Hides Her Feelings in Russian | https://anilist.co/anime/162804 | [Link](https://ani.social/post/5043453) |
 | Bye Bye, Earth | Bye Bye, Earth | https://anilist.co/anime/157371 | [Link](https://ani.social/post/5084100) |
+| Dead Dead Demon's Dededededestruction | DEAD DEAD DEMONS DEDEDEDE DESTRUCTION | https://anilist.co/anime/177697 | [Link](https://ani.social/post/5093112) |
 | Madougushi Dahlia wa Utsumukanai | Dahlia in Bloom: Crafting a Fresh Start with Magical Tools | https://anilist.co/anime/168623 | [Link](https://ani.social/post/4965259) |
 | Gimai Seikatsu | Days with My Stepsister | https://anilist.co/anime/152681 | [Link](https://ani.social/post/5061229) |
 | Dungeon no Naka no Hito | Dungeon People | https://anilist.co/anime/168345 | [Link](https://ani.social/post/4950378) |
@@ -68,7 +69,6 @@ These shows have had episodes air already, but no thread was created because the
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 184 |
 | Koneko no Chii: Ponponra Natsuyasumi | Chi’s Sweet Adventure: Summer Vacation | https://anilist.co/anime/175120 | Episode 1 |
 | Code Geass: Dakkan no Rozé | Code Geass: Rozé of the Recapture | https://anilist.co/anime/126830 | Episode 7 |
-| Dead Dead Demon's Dededededestruction | DEAD DEAD DEMONS DEDEDEDE DESTRUCTION | https://anilist.co/anime/177697 | Episode 11 |
 | Yuureibune-sen | Dead Ma’am’s Chest | https://anilist.co/anime/179880 | Episode 1 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 821 |
 | Egumi Legacy | Egumi Legacy | https://anilist.co/anime/177097 | Episode 4 |
