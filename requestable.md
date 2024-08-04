@@ -27,7 +27,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Koi wa Futago de Warikirenai | Love Is Indivisible by Twins | https://anilist.co/anime/167144 | [Link](https://ani.social/post/5043454) |
 | Make Heroine ga Oosugiru! | Makeine: Too Many Losing Heroines! | https://anilist.co/anime/171457 | [Link](https://ani.social/post/5104397) |
 | Mayonaka Punch | Mayonaka Punch | https://anilist.co/anime/174044 | [Link](https://ani.social/post/5003006) |
-| Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | [Link](https://ani.social/post/4977090) |
+| Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | [Link](https://ani.social/post/5122193) |
 | Boku no Tsuma wa Kanjou ga Nai | My Wife Has No Emotion | https://anilist.co/anime/175450 | [Link](https://ani.social/post/5103185) |
 | NieR:Automata Ver1.1a 2nd Season | NieR:Automata Ver1.1a Cour 2 | https://anilist.co/anime/167420 | [Link](https://ani.social/post/5084101) |
 | Isekai Shikkaku | No Longer Allowed in Another World | https://anilist.co/anime/152137 | [Link](https://ani.social/post/5023000) |
