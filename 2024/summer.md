@@ -154,6 +154,7 @@ Episode|Link
 2|[Link](https://ani.social/post/4720375)
 3|[Link](https://ani.social/post/4850418)
 4|[Link](https://ani.social/post/4985085)
+5|[Link](https://ani.social/post/5122576)
 {.dense}
 
 ## Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita. • The Magical Girl and the Evil Lieutenant Used to Be Archenemies
