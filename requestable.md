@@ -140,4 +140,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Crayon Shin-chan: Ora-tachi no Kyouryuu Nikki | Crayon Shin-chan: Ora-tachi no Kyouryuu Nikki | https://anilist.co/anime/171145 | August 08 at 15:00 |
 | Delico's Nursery | Delico's Nursery | https://anilist.co/anime/167991 | August 07 at 15:30 |
 | Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 2 | Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 2 | https://anilist.co/anime/179991 | August 06 at 20:00 |
+| KING OF PRISM -Dramatic PRISM.1- | KING OF PRISM -Dramatic PRISM.1- | https://anilist.co/anime/176275 | August 15 at 16:00 |
+| Zegapain STA | Zegapain STA | https://anilist.co/anime/168998 | August 15 at 15:00 |
 {.dense}
