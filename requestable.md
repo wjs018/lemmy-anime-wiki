@@ -30,7 +30,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | [Link](https://ani.social/post/5122193) |
 | Boku no Tsuma wa Kanjou ga Nai | My Wife Has No Emotion | https://anilist.co/anime/175450 | [Link](https://ani.social/post/5103185) |
 | NieR:Automata Ver1.1a 2nd Season | NieR:Automata Ver1.1a Cour 2 | https://anilist.co/anime/167420 | [Link](https://ani.social/post/5084101) |
-| Isekai Shikkaku | No Longer Allowed in Another World | https://anilist.co/anime/152137 | [Link](https://ani.social/post/5023000) |
+| Isekai Shikkaku | No Longer Allowed in Another World | https://anilist.co/anime/152137 | [Link](https://ani.social/post/5161303) |
 | [Oshi no Ko] 2nd Season | Oshi no Ko Season 2 | https://anilist.co/anime/166531 | [Link](https://ani.social/post/5042990) |
 | Giji Harem | Pseudo Harem | https://anilist.co/anime/163623 | [Link](https://ani.social/post/5064678) |
 | Kono Sekai wa Fukanzen Sugiru | Quality Assurance in Another World | https://anilist.co/anime/163077 | [Link](https://ani.social/post/4950906) |
