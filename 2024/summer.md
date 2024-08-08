@@ -90,6 +90,7 @@ Episode|Link
 3|[Link](https://ani.social/post/4797572)
 4|[Link](https://ani.social/post/4929886)
 5|[Link](https://ani.social/post/5064678)
+6|[Link](https://ani.social/post/5201893)
 {.dense}
 
 ## Gimai Seikatsu • Days with My Stepsister
@@ -111,6 +112,7 @@ Episode|Link
 3|[Link](https://ani.social/post/4798079)
 4|[Link](https://ani.social/post/4930718)
 5|[Link](https://ani.social/post/5065367)
+6|[Link](https://ani.social/post/5201894)
 {.dense}
 
 ## Isekai Shikkaku • No Longer Allowed in Another World
