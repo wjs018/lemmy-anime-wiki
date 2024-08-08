@@ -79,7 +79,7 @@ These shows have had episodes air already, but no thread was created because the
 | Bakeneko Anzu-chan | Ghost Cat Anzu | https://anilist.co/anime/158641 | Episode 1 |
 | Girls' F1st!!!! GT | Girls' F1st!!!! GT | https://anilist.co/anime/178067 | Episode 6 |
 | Grendizer U | Grendizer U | https://anilist.co/anime/154195 | Episode 5 |
-| Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 563 |
+| Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 564 |
 | Harimaware! Koinu 2nd Season | Harimaware! Koinu 2nd Season | https://anilist.co/anime/176283 | Episode 5 |
 | Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | Episode 2 |
 | Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 18 |
