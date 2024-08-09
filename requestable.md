@@ -85,7 +85,7 @@ These shows have had episodes air already, but no thread was created because the
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 272 |
 | I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 42 |
 | Ikinie | Ikinie | https://anilist.co/anime/179953 | Episode 1 |
-| JOCHUM | JOCHUM | https://anilist.co/anime/179408 | Episode 4 |
+| JOCHUM | JOCHUM | https://anilist.co/anime/179408 | Episode 5 |
 | Kimi ni Todoke 3RD SEASON | Kimi ni Todoke: From Me to You Season 3 | https://anilist.co/anime/168872 | Episode 1 |
 | Maarui Kanojo to Zannen na Kareshi | Maarui Kanojo to Zannen na Kareshi | https://anilist.co/anime/178421 | Episode 6 |
 | Jongtama Kan!! | Mahjong Soul KAN!! | https://anilist.co/anime/172964 | Episode 13 |
