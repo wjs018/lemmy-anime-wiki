@@ -77,7 +77,7 @@ These shows have had episodes air already, but no thread was created because the
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 144 |
 | Bakeneko Anzu-chan | Ghost Cat Anzu | https://anilist.co/anime/158641 | Episode 1 |
 | Girls' F1st!!!! GT | Girls' F1st!!!! GT | https://anilist.co/anime/178067 | Episode 6 |
-| Grendizer U | Grendizer U | https://anilist.co/anime/154195 | Episode 5 |
+| Grendizer U | Grendizer U | https://anilist.co/anime/154195 | Episode 6 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 564 |
 | Harimaware! Koinu 2nd Season | Harimaware! Koinu 2nd Season | https://anilist.co/anime/176283 | Episode 5 |
 | Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | Episode 2 |
