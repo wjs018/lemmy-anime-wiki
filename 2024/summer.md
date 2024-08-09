@@ -38,6 +38,7 @@ Episode|Link
 2|[Link](https://ani.social/post/4814115)
 3|[Link](https://ani.social/post/4947718)
 4|[Link](https://ani.social/post/5084100)
+5|[Link](https://ani.social/post/5220421)
 {.dense}
 
 ## Dead Dead Demon's Dededededestruction • DEAD DEAD DEMONS DEDEDEDE DESTRUCTION
@@ -283,6 +284,7 @@ Episode|Link
 3|[Link](https://ani.social/post/4814116)
 4|[Link](https://ani.social/post/4947993)
 5|[Link](https://ani.social/post/5084101)
+6|[Link](https://ani.social/post/5220422)
 {.dense}
 
 ## Nige Jouzu no Wakagimi • The Elusive Samurai
