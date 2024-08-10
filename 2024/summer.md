@@ -28,6 +28,7 @@ Episode|Link
 4|[Link](https://ani.social/post/4831679)
 5|[Link](https://ani.social/post/4967069)
 6|[Link](https://ani.social/post/5103185)
+7|[Link](https://ani.social/post/5239084)
 {.dense}
 
 ## Bye Bye, Earth
