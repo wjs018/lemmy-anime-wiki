@@ -17,7 +17,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san | Alya Sometimes Hides Her Feelings in Russian | https://anilist.co/anime/162804 | [Link](https://ani.social/post/5180254) |
 | Bye Bye, Earth | Bye Bye, Earth | https://anilist.co/anime/157371 | [Link](https://ani.social/post/5220421) |
 | Dead Dead Demon's Dededededestruction | DEAD DEAD DEMONS DEDEDEDE DESTRUCTION | https://anilist.co/anime/177697 | [Link](https://ani.social/post/5210458) |
-| Madougushi Dahlia wa Utsumukanai | Dahlia in Bloom: Crafting a Fresh Start with Magical Tools | https://anilist.co/anime/168623 | [Link](https://ani.social/post/5101185) |
+| Madougushi Dahlia wa Utsumukanai | Dahlia in Bloom: Crafting a Fresh Start with Magical Tools | https://anilist.co/anime/168623 | [Link](https://ani.social/post/5236715) |
 | Gimai Seikatsu | Days with My Stepsister | https://anilist.co/anime/152681 | [Link](https://ani.social/post/5197816) |
 | Dungeon no Naka no Hito | Dungeon People | https://anilist.co/anime/168345 | [Link](https://ani.social/post/5222597) |
 | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells | https://anilist.co/anime/173694 | [Link](https://ani.social/post/5201894) |
@@ -91,7 +91,7 @@ These shows have had episodes air already, but no thread was created because the
 | Jongtama Kan!! | Mahjong Soul KAN!! | https://anilist.co/anime/172964 | Episode 13 |
 | Mirai no Kuromakukei Akuyaku Reijou Moriarty no Isekai Kanzen Hanzai Hakusho | Mirai no Kuromakukei Akuyaku Reijou Moriarty no Isekai Kanzen Hanzai Hakusho | https://anilist.co/anime/179954 | Episode 4 |
 | Yozakura-san Chi no Daisakusen | Mission: Yozakura Family | https://anilist.co/anime/158898 | Episode 18 |
-| Monogatari Series: Off and Monster Season | Monogatari Series: Off and Monster Season | https://anilist.co/anime/173533 | Episode 5 |
+| Monogatari Series: Off and Monster Season | Monogatari Series: Off and Monster Season | https://anilist.co/anime/173533 | Episode 6 |
 | Mononoke: Karakasa | Mononoke the Movie: Phantom in the Rain | https://anilist.co/anime/151117 | Episode 1 |
 | Boku no Hero Academia 7 | My Hero Academia Season 7 | https://anilist.co/anime/163139 | Episode 12 |
 | Boku no Hero Academia THE MOVIE: YOU'RE NEXT | My Hero Academia: You’re Next | https://anilist.co/anime/168013 | Episode 1 |
