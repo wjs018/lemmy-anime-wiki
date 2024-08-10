@@ -54,7 +54,7 @@ These shows have had episodes air already, but no thread was created because the
 | 2.5 Jigen no Ririsa | 2.5 Dimensional Seduction | https://anilist.co/anime/158559 | Episode 6 |
 | Isekai Yururi Kikou: Kosodate Shinagara Boukensha Shimasu | A Journey Through Another World: Raising Kids While Adventuring | https://anilist.co/anime/171031 | Episode 6 |
 | Mob kara Hajimaru Tansaku Eiyuutan | A Nobody's Way Up to an Exploration Hero | https://anilist.co/anime/172416 | Episode 7 |
-| ATRI: My Dear Moments | ATRI -My Dear Moments- | https://anilist.co/anime/154963 | Episode 4 |
+| ATRI: My Dear Moments | ATRI -My Dear Moments- | https://anilist.co/anime/154963 | Episode 5 |
 | Atashin'chi NEXT | Atashin'chi NEXT | https://anilist.co/anime/173313 | Episode 3 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 43 |
 | Bocchi the Rock! Re:Re: | Bocchi the Rock! Re:Re: | https://anilist.co/anime/171099 | Episode 1 |
@@ -95,7 +95,7 @@ These shows have had episodes air already, but no thread was created because the
 | Mononoke: Karakasa | Mononoke the Movie: Phantom in the Rain | https://anilist.co/anime/151117 | Episode 1 |
 | Boku no Hero Academia 7 | My Hero Academia Season 7 | https://anilist.co/anime/163139 | Episode 12 |
 | Boku no Hero Academia THE MOVIE: YOU'RE NEXT | My Hero Academia: You’re Next | https://anilist.co/anime/168013 | Episode 1 |
-| Naoe-kun wa Yasesasetai. | Naoe-kun wa Yasesasetai. | https://anilist.co/anime/179212 | Episode 5 |
+| Naoe-kun wa Yasesasetai. | Naoe-kun wa Yasesasetai. | https://anilist.co/anime/179212 | Episode 6 |
 | Na-Nare Hana-Nare | Narenare -Cheer for you!- | https://anilist.co/anime/170891 | Episode 5 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 130 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1114 |
