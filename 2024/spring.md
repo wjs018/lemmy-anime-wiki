@@ -88,7 +88,7 @@ Episode|Link
 4|[Link](https://ani.social/post/3156804)
 {.dense}
 
-## Girls Band Cry
+## GIRLS BAND CRY
 
 Episode|Link
 :-:|:-:
