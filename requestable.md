@@ -124,6 +124,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tousouchuu: Great Mission | Tousouchuu: Great Mission | https://anilist.co/anime/159560 | Episode 67 |
 | Tasogare Outfocus | Twilight Out of Focus | https://anilist.co/anime/166700 | Episode 6 |
 | VTuber nanda ga Haishin Kiri Wasuretara Densetsu ni Natteta | VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream | https://anilist.co/anime/160488 | Episode 5 |
+| Tsue to Tsurugi no Wistoria | Wistoria: Wand and Sword | https://anilist.co/anime/174576 | Episode 5 |
 | Wonderful Precure! | Wonderful Precure! | https://anilist.co/anime/171030 | Episode 28 |
 | Karasu wa Aruji wo Erabanai | YATAGARASU: The Raven Does Not Choose Its Master | https://anilist.co/anime/170503 | Episode 15 |
 | Yozakura-san Chi no Mini Sakusen | Yozakura-san Chi no Mini Sakusen | https://anilist.co/anime/176909 | Episode 18 |
@@ -140,6 +141,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | August 14 at 15:30 |
 | Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru. | The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible | https://anilist.co/anime/163292 | August 12 at 18:00 |
 | Touken Ranbu Kai: Douden Chikashi Haberau Monora | Touken Ranbu Kai: Douden Chikashi Haberau Monora | https://anilist.co/anime/177680 | August 15 at 16:00 |
-| Tsue to Tsurugi no Wistoria | Wistoria: Wand and Sword | https://anilist.co/anime/174576 | August 11 at 08:30 |
 | Zegapain STA | Zegapain STA | https://anilist.co/anime/168998 | August 15 at 15:00 |
 {.dense}
