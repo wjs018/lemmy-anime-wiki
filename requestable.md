@@ -41,7 +41,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | The Fable | The Fable | https://anilist.co/anime/166910 | [Link](https://ani.social/post/5104986) |
 | Kami no Tou: Tower of God - Ouji no Kikan | Tower of God Season 2 | https://anilist.co/anime/153406 | [Link](https://ani.social/post/5122576) |
 | Naze Boku no Sekai wo Daremo Oboeteinai no ka? | Why Does Nobody Remember Me in This World? | https://anilist.co/anime/167419 | [Link](https://ani.social/post/5238459) |
-| Tsue to Tsurugi no Wistoria | Wistoria: Wand and Sword | https://anilist.co/anime/174576 | [Link](https://ani.social/post/5117138) |
 {.dense}
 
 ## Requestable Shows
@@ -141,5 +140,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | August 14 at 15:30 |
 | Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru. | The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible | https://anilist.co/anime/163292 | August 12 at 18:00 |
 | Touken Ranbu Kai: Douden Chikashi Haberau Monora | Touken Ranbu Kai: Douden Chikashi Haberau Monora | https://anilist.co/anime/177680 | August 15 at 16:00 |
+| Tsue to Tsurugi no Wistoria | Wistoria: Wand and Sword | https://anilist.co/anime/174576 | August 11 at 08:30 |
 | Zegapain STA | Zegapain STA | https://anilist.co/anime/168998 | August 15 at 15:00 |
 {.dense}
