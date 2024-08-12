@@ -381,6 +381,7 @@ Episode|Link
 9|[Link](https://ani.social/post/3856623)
 10|[Link](https://ani.social/post/3978172)
 18|[Link](https://ani.social/post/5014451)
+19|[Link](https://ani.social/post/5281757)
 {.dense}
 
 ## Re:Monster
