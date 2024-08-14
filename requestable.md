@@ -14,7 +14,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
-| Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san | Alya Sometimes Hides Her Feelings in Russian | https://anilist.co/anime/162804 | [Link](https://ani.social/post/5180254) |
+| Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san | Alya Sometimes Hides Her Feelings in Russian | https://anilist.co/anime/162804 | [Link](https://ani.social/post/5320407) |
 | Bye Bye, Earth | Bye Bye, Earth | https://anilist.co/anime/157371 | [Link](https://ani.social/post/5220421) |
 | Dead Dead Demon's Dededededestruction | DEAD DEAD DEMONS DEDEDEDE DESTRUCTION | https://anilist.co/anime/177697 | [Link](https://ani.social/post/5210458) |
 | Madougushi Dahlia wa Utsumukanai | Dahlia in Bloom: Crafting a Fresh Start with Magical Tools | https://anilist.co/anime/168623 | [Link](https://ani.social/post/5236715) |
@@ -23,7 +23,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells | https://anilist.co/anime/173694 | [Link](https://ani.social/post/5201894) |
 | Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai | I Parry Everything | https://anilist.co/anime/170695 | [Link](https://ani.social/post/5200801) |
 | Kengan Ashura Season 2 Part 2 | KENGAN ASHURA Season 2 Part.2 | https://anilist.co/anime/169692 |  |
-| Koi wa Futago de Warikirenai | Love Is Indivisible by Twins | https://anilist.co/anime/167144 | [Link](https://ani.social/post/5180256) |
+| Koi wa Futago de Warikirenai | Love Is Indivisible by Twins | https://anilist.co/anime/167144 | [Link](https://ani.social/post/5320409) |
 | Make Heroine ga Oosugiru! | Makeine: Too Many Losing Heroines! | https://anilist.co/anime/171457 | [Link](https://ani.social/post/5240783) |
 | Mayonaka Punch | Mayonaka Punch | https://anilist.co/anime/174044 | [Link](https://ani.social/post/5277626) |
 | Boku no Tsuma wa Kanjou ga Nai | My Wife Has No Emotion | https://anilist.co/anime/175450 | [Link](https://ani.social/post/5239084) |
@@ -67,7 +67,7 @@ These shows have had episodes air already, but no thread was created because the
 | Code Geass: Dakkan no Rozé | Code Geass: Rozé of the Recapture | https://anilist.co/anime/126830 | Episode 8 |
 | Crayon Shin-chan: Ora-tachi no Kyouryuu Nikki | Crayon Shin-chan: Ora-tachi no Kyouryuu Nikki | https://anilist.co/anime/171145 | Episode 1 |
 | Yuureisen-sen | Dead Ma’am’s Chest | https://anilist.co/anime/179880 | Episode 1 |
-| Delico's Nursery | Delico's Nursery | https://anilist.co/anime/167991 | Episode 1 |
+| Delico's Nursery | Delico's Nursery | https://anilist.co/anime/167991 | Episode 2 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 823 |
 | Egumi Legacy | Egumi Legacy | https://anilist.co/anime/177097 | Episode 6 |
 | FAIRY TAIL: 100 YEARS QUEST | FAIRY TAIL 100 YEARS QUEST | https://anilist.co/anime/139095 | Episode 6 |
@@ -91,6 +91,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yozakura-san Chi no Daisakusen | Mission: Yozakura Family | https://anilist.co/anime/158898 | Episode 19 |
 | Monogatari Series: Off and Monster Season | Monogatari Series: Off and Monster Season | https://anilist.co/anime/173533 | Episode 6 |
 | Mononoke: Karakasa | Mononoke the Movie: Phantom in the Rain | https://anilist.co/anime/151117 | Episode 1 |
+| Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | Episode 7 |
 | Boku no Hero Academia 7 | My Hero Academia Season 7 | https://anilist.co/anime/163139 | Episode 12 |
 | Boku no Hero Academia THE MOVIE: YOU'RE NEXT | My Hero Academia: You’re Next | https://anilist.co/anime/168013 | Episode 1 |
 | Naoe-kun wa Yasesasetai. | Naoe-kun wa Yasesasetai. | https://anilist.co/anime/179212 | Episode 6 |
@@ -139,7 +140,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | KING OF PRISM -Dramatic PRISM.1- | KING OF PRISM -Dramatic PRISM.1- | https://anilist.co/anime/176275 | August 15 at 16:00 |
-| Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | August 14 at 15:30 |
 | Touken Ranbu Kai: Douden Chikashi Haberau Monora | Touken Ranbu Kai: Douden Chikashi Haberau Monora | https://anilist.co/anime/177680 | August 15 at 16:00 |
 | Zegapain STA | Zegapain STA | https://anilist.co/anime/168998 | August 15 at 15:00 |
 {.dense}
