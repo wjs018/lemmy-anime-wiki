@@ -141,5 +141,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | KING OF PRISM -Dramatic PRISM.1- | KING OF PRISM -Dramatic PRISM.1- | https://anilist.co/anime/176275 | August 15 at 16:00 |
 | Touken Ranbu Kai: Douden Chikashi Haberau Monora | Touken Ranbu Kai: Douden Chikashi Haberau Monora | https://anilist.co/anime/177680 | August 15 at 16:00 |
+| Girigiri Warukunai Watame | Watame Did Borderline Nothing Wrong | https://anilist.co/anime/146004 | August 16 at 11:00 |
 | Zegapain STA | Zegapain STA | https://anilist.co/anime/168998 | August 15 at 15:00 |
 {.dense}
