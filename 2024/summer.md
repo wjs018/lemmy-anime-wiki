@@ -105,6 +105,7 @@ Episode|Link
 4|[Link](https://ani.social/post/4926267)
 5|[Link](https://ani.social/post/5061229)
 6|[Link](https://ani.social/post/5197816)
+7|[Link](https://ani.social/post/5337534)
 {.dense}
 
 ## Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made • Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells
