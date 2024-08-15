@@ -22,7 +22,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Dungeon no Naka no Hito | Dungeon People | https://anilist.co/anime/168345 | [Link](https://ani.social/post/5222597) |
 | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells | https://anilist.co/anime/173694 | [Link](https://ani.social/post/5201894) |
 | Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai | I Parry Everything | https://anilist.co/anime/170695 | [Link](https://ani.social/post/5200801) |
-| Kengan Ashura Season 2 Part 2 | KENGAN ASHURA Season 2 Part.2 | https://anilist.co/anime/169692 |  |
+| Kengan Ashura Season 2 Part 2 | KENGAN ASHURA Season 2 Part.2 | https://anilist.co/anime/169692 | [Link](https://ani.social/post/5333809) |
 | Koi wa Futago de Warikirenai | Love Is Indivisible by Twins | https://anilist.co/anime/167144 | [Link](https://ani.social/post/5320409) |
 | Make Heroine ga Oosugiru! | Makeine: Too Many Losing Heroines! | https://anilist.co/anime/171457 | [Link](https://ani.social/post/5240783) |
 | Mayonaka Punch | Mayonaka Punch | https://anilist.co/anime/174044 | [Link](https://ani.social/post/5277626) |
