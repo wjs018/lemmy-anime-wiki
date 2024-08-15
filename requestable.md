@@ -21,7 +21,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Gimai Seikatsu | Days with My Stepsister | https://anilist.co/anime/152681 | [Link](https://ani.social/post/5337534) |
 | Dungeon no Naka no Hito | Dungeon People | https://anilist.co/anime/168345 | [Link](https://ani.social/post/5222597) |
 | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells | https://anilist.co/anime/173694 | [Link](https://ani.social/post/5201894) |
-| Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai | I Parry Everything | https://anilist.co/anime/170695 | [Link](https://ani.social/post/5200801) |
+| Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai | I Parry Everything | https://anilist.co/anime/170695 | [Link](https://ani.social/post/5340825) |
 | Kengan Ashura Season 2 Part 2 | KENGAN ASHURA Season 2 Part.2 | https://anilist.co/anime/169692 | [Link](https://ani.social/post/5333809) |
 | Koi wa Futago de Warikirenai | Love Is Indivisible by Twins | https://anilist.co/anime/167144 | [Link](https://ani.social/post/5320409) |
 | Make Heroine ga Oosugiru! | Makeine: Too Many Losing Heroines! | https://anilist.co/anime/171457 | [Link](https://ani.social/post/5240783) |
@@ -84,6 +84,7 @@ These shows have had episodes air already, but no thread was created because the
 | I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 43 |
 | Ikinie | Ikinie | https://anilist.co/anime/179953 | Episode 1 |
 | JOCHUM | JOCHUM | https://anilist.co/anime/179408 | Episode 5 |
+| KING OF PRISM -Dramatic PRISM.1- | KING OF PRISM -Dramatic PRISM.1- | https://anilist.co/anime/176275 | Episode 1 |
 | Kimi ni Todoke 3RD SEASON | Kimi ni Todoke: From Me to You Season 3 | https://anilist.co/anime/168872 | Episode 1 |
 | Kinnikuman: Kanpeki Choujin Shiso-hen | Kinnikuman Perfect Origin Arc | https://anilist.co/anime/162796 | Episode 6 |
 | Jongtama Kan!! | Mahjong Soul KAN!! | https://anilist.co/anime/172964 | Episode 13 |
@@ -102,7 +103,7 @@ These shows have had episodes air already, but no thread was created because the
 | Elf-san wa Yaserarenai. | Plus-Sized Elf | https://anilist.co/anime/173388 | Episode 6 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 60 |
 | Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2057 |
-| Ramen Aka Neko | Ramen Akaneko | https://anilist.co/anime/170998 | Episode 6 |
+| Ramen Aka Neko | Ramen Akaneko | https://anilist.co/anime/170998 | Episode 7 |
 | Rick and Morty: The Anime | Rick and Morty: The Anime | https://anilist.co/anime/150103 | Episode 1 |
 | Shoushimin Series | SHOSHIMIN: How to Become Ordinary | https://anilist.co/anime/173295 | Episode 5 |
 | SHY: Tokyo Dakkan-hen | SHY Season 2 | https://anilist.co/anime/171748 | Episode 6 |
@@ -123,6 +124,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru. | The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible | https://anilist.co/anime/163292 | Episode 6 |
 | Maou Gun Saikyou no Majutsushi wa Ningen datta | The Strongest Magician in the Demon Lord's Army was a Human | https://anilist.co/anime/173584 | Episode 8 |
 | Yami Shibai 13 | Theatre of Darkness: Yamishibai 13 | https://anilist.co/anime/177922 | Episode 5 |
+| Touken Ranbu Kai: Douden Chikashi Haberau Monora | Touken Ranbu Kai: Douden Chikashi Haberau Monora | https://anilist.co/anime/177680 | Episode 1 |
 | Tousouchuu: Great Mission | Tousouchuu: Great Mission | https://anilist.co/anime/159560 | Episode 67 |
 | Tasogare Outfocus | Twilight Out of Focus | https://anilist.co/anime/166700 | Episode 7 |
 | VTuber nanda ga Haishin Kiri Wasuretara Densetsu ni Natteta | VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream | https://anilist.co/anime/160488 | Episode 6 |
@@ -140,7 +142,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
-| KING OF PRISM -Dramatic PRISM.1- | KING OF PRISM -Dramatic PRISM.1- | https://anilist.co/anime/176275 | August 15 at 16:00 |
-| Touken Ranbu Kai: Douden Chikashi Haberau Monora | Touken Ranbu Kai: Douden Chikashi Haberau Monora | https://anilist.co/anime/177680 | August 15 at 16:00 |
 | Girigiri Warukunai Watame | Watame Did Borderline Nothing Wrong | https://anilist.co/anime/146004 | August 16 at 11:00 |
 {.dense}
