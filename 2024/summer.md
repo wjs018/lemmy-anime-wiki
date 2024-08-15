@@ -178,6 +178,13 @@ Episode|Link
 4|[Link](https://ani.social/post/5022267)
 {.dense}
 
+## Kengan Ashura Season 2 Part 2 • KENGAN ASHURA Season 2 Part.2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/5333809)
+{.dense}
+
 ## Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II • Our Last Crusade or the Rise of a New World Season 2
 
 Episode|Link
