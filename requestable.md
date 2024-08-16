@@ -36,7 +36,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Senpai wa Otokonoko | Senpai is an Otokonoko | https://anilist.co/anime/163133 | [Link](https://ani.social/post/5341679) |
 | Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF | Spice and Wolf: MERCHANT MEETS THE WISE WOLF | https://anilist.co/anime/145728 | [Link](https://ani.social/post/5281757) |
 | Isekai Suicide Squad | Suicide Squad ISEKAI | https://anilist.co/anime/166710 | [Link](https://ani.social/post/5334214) |
-| Tensei Shitara Slime Datta Ken 3rd Season | That Time I Got Reincarnated as a Slime Season 3 | https://anilist.co/anime/156822 | [Link](https://ani.social/post/5083945) |
+| Tensei Shitara Slime Datta Ken 3rd Season | That Time I Got Reincarnated as a Slime Season 3 | https://anilist.co/anime/156822 | [Link](https://ani.social/post/5359836) |
 | Nige Jouzu no Wakagimi | The Elusive Samurai | https://anilist.co/anime/162896 | [Link](https://ani.social/post/5239781) |
 | The Fable | The Fable | https://anilist.co/anime/166910 | [Link](https://ani.social/post/5104986) |
 | Kami no Tou: Tower of God - Ouji no Kikan | Tower of God Season 2 | https://anilist.co/anime/153406 | [Link](https://ani.social/post/5258920) |
