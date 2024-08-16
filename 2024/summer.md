@@ -334,6 +334,13 @@ Episode|Link
 7|[Link](https://ani.social/post/5340825)
 {.dense}
 
+## Rick and Morty: The Anime
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/5354488)
+{.dense}
+
 ## Senpai wa Otokonoko • Senpai is an Otokonoko
 
 Episode|Link
