@@ -89,7 +89,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kimi ni Todoke 3RD SEASON | Kimi ni Todoke: From Me to You Season 3 | https://anilist.co/anime/168872 | Episode 1 |
 | Kinnikuman: Kanpeki Choujin Shiso-hen | Kinnikuman Perfect Origin Arc | https://anilist.co/anime/162796 | Episode 6 |
 | Jongtama Kan!! | Mahjong Soul KAN!! | https://anilist.co/anime/172964 | Episode 13 |
-| Mirai no Kuromakukei Akuyaku Reijou Moriarty no Isekai Kanzen Hanzai Hakusho | Mirai no Kuromakukei Akuyaku Reijou Moriarty no Isekai Kanzen Hanzai Hakusho | https://anilist.co/anime/179954 | Episode 4 |
+| Mirai no Kuromakukei Akuyaku Reijou Moriarty no Isekai Kanzen Hanzai Hakusho | Mirai no Kuromakukei Akuyaku Reijou Moriarty no Isekai Kanzen Hanzai Hakusho | https://anilist.co/anime/179954 | Episode 5 |
 | Yozakura-san Chi no Daisakusen | Mission: Yozakura Family | https://anilist.co/anime/158898 | Episode 19 |
 | Monogatari Series: Off and Monster Season | Monogatari Series: Off and Monster Season | https://anilist.co/anime/173533 | Episode 6 |
 | Mononoke: Karakasa | Mononoke the Movie: Phantom in the Rain | https://anilist.co/anime/151117 | Episode 1 |
