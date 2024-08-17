@@ -39,7 +39,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Nige Jouzu no Wakagimi | The Elusive Samurai | https://anilist.co/anime/162896 | [Link](https://ani.social/post/5239781) |
 | The Fable | The Fable | https://anilist.co/anime/166910 | [Link](https://ani.social/post/5104986) |
 | Kami no Tou: Tower of God - Ouji no Kikan | Tower of God Season 2 | https://anilist.co/anime/153406 | [Link](https://ani.social/post/5258920) |
-| Naze Boku no Sekai wo Daremo Oboeteinai no ka? | Why Does Nobody Remember Me in This World? | https://anilist.co/anime/167419 | [Link](https://ani.social/post/5238459) |
 {.dense}
 
 ## Requestable Shows
@@ -142,4 +141,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
+| Naze Boku no Sekai wo Daremo Oboeteinai no ka? | Why Does Nobody Remember Me in This World? | https://anilist.co/anime/167419 | August 17 at 14:30 |
 {.dense}
