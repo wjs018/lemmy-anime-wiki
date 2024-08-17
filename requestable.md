@@ -92,6 +92,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | Episode 7 |
 | Boku no Hero Academia 7 | My Hero Academia Season 7 | https://anilist.co/anime/163139 | Episode 13 |
 | Boku no Hero Academia THE MOVIE: YOU'RE NEXT | My Hero Academia: You’re Next | https://anilist.co/anime/168013 | Episode 1 |
+| Boku no Tsuma wa Kanjou ga Nai | My Wife Has No Emotion | https://anilist.co/anime/175450 | Episode 8 |
 | Naoe-kun wa Yasesasetai. | Naoe-kun wa Yasesasetai. | https://anilist.co/anime/179212 | Episode 6 |
 | Na-Nare Hana-Nare | Narenare -Cheer for you!- | https://anilist.co/anime/170891 | Episode 6 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 131 |
@@ -140,6 +141,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
-| Boku no Tsuma wa Kanjou ga Nai | My Wife Has No Emotion | https://anilist.co/anime/175450 | August 17 at 15:00 |
 | Yuru Camp△ SEASON 3 OVA | Yuru Camp△ SEASON 3 OVA | https://anilist.co/anime/177007 | August 27 at 15:00 |
 {.dense}
