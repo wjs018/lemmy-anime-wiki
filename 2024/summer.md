@@ -258,6 +258,7 @@ Episode|Link
 3|[Link](https://ani.social/post/4981110)
 4|[Link](https://ani.social/post/5104397)
 5|[Link](https://ani.social/post/5240783)
+6|[Link](https://ani.social/post/5379882)
 {.dense}
 
 ## Mayonaka Punch
