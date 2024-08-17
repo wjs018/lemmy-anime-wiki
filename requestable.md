@@ -23,7 +23,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai | I Parry Everything | https://anilist.co/anime/170695 | [Link](https://ani.social/post/5340825) |
 | Kengan Ashura Season 2 Part 2 | KENGAN ASHURA Season 2 Part.2 | https://anilist.co/anime/169692 | [Link](https://ani.social/post/5333809) |
 | Koi wa Futago de Warikirenai | Love Is Indivisible by Twins | https://anilist.co/anime/167144 | [Link](https://ani.social/post/5320409) |
-| Make Heroine ga Oosugiru! | Makeine: Too Many Losing Heroines! | https://anilist.co/anime/171457 | [Link](https://ani.social/post/5240783) |
+| Make Heroine ga Oosugiru! | Makeine: Too Many Losing Heroines! | https://anilist.co/anime/171457 | [Link](https://ani.social/post/5379882) |
 | Mayonaka Punch | Mayonaka Punch | https://anilist.co/anime/174044 | [Link](https://ani.social/post/5277626) |
 | NieR:Automata Ver1.1a 2nd Season | NieR:Automata Ver1.1a Cour 2 | https://anilist.co/anime/167420 | [Link](https://ani.social/post/5220422) |
 | Isekai Shikkaku | No Longer Allowed in Another World | https://anilist.co/anime/152137 | [Link](https://ani.social/post/5299396) |
