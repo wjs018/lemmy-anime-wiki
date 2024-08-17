@@ -322,6 +322,7 @@ Episode|Link
 4|[Link](https://ani.social/post/5056451)
 5|[Link](https://ani.social/post/5103663)
 6|[Link](https://ani.social/post/5239781)
+7|[Link](https://ani.social/post/5378957)
 {.dense}
 
 ## Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai • I Parry Everything
