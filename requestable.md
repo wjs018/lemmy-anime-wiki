@@ -97,7 +97,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II | Our Last Crusade or the Rise of a New World Season 2 | https://anilist.co/anime/139825 | Episode 6 |
 | Elf-san wa Yaserarenai. | Plus-Sized Elf | https://anilist.co/anime/173388 | Episode 7 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 61 |
-| Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2057 |
+| Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2058 |
 | Ramen Aka Neko | Ramen Akaneko | https://anilist.co/anime/170998 | Episode 7 |
 | Shoushimin Series | SHOSHIMIN: How to Become Ordinary | https://anilist.co/anime/173295 | Episode 6 |
 | SHY: Tokyo Dakkan-hen | SHY Season 2 | https://anilist.co/anime/171748 | Episode 6 |
