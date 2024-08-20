@@ -137,6 +137,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
+| Garden of Remembrance | Garden of Remembrance | https://anilist.co/anime/151017 | August 30 at 02:00 |
 | Terminator 0 | TERMINATOR ZERO | https://anilist.co/anime/177814 | August 29 at 07:00 |
 | Kimi no Iro | The Colors Within | https://anilist.co/anime/158166 | August 29 at 15:00 |
 | Yuru Camp△ SEASON 3 OVA | Yuru Camp△ SEASON 3 OVA | https://anilist.co/anime/177007 | August 27 at 15:00 |
