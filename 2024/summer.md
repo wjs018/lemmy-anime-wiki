@@ -372,6 +372,7 @@ Episode|Link
 5|[Link](https://ani.social/post/5122193)
 6|[Link](https://ani.social/post/5179711)
 7|[Link](https://ani.social/post/5321509)
+8|[Link](https://ani.social/post/5455297)
 {.dense}
 
 ## Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru. • The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible
