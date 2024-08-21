@@ -455,5 +455,6 @@ Episode|Link
 5|[Link](https://ani.social/post/5042990)
 6|[Link](https://ani.social/post/5179709)
 7|[Link](https://ani.social/post/5319912)
+8|[Link](https://ani.social/post/5455355)
 {.dense}
 
