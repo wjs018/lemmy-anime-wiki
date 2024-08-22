@@ -341,6 +341,7 @@ Episode|Link
 5|[Link](https://ani.social/post/5064380)
 6|[Link](https://ani.social/post/5200801)
 7|[Link](https://ani.social/post/5340825)
+8|[Link](https://ani.social/post/5475848)
 {.dense}
 
 ## Rick and Morty: The Anime
