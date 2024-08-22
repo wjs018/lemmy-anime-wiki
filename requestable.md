@@ -61,6 +61,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 186 |
 | Code Geass: Dakkan no Rozé | Code Geass: Rozé of the Recapture | https://anilist.co/anime/126830 | Episode 9 |
 | Crayon Shin-chan: Ora-tachi no Kyouryuu Nikki | Crayon Shin-chan: Ora-tachi no Kyouryuu Nikki | https://anilist.co/anime/171145 | Episode 1 |
+| Gimai Seikatsu | Days with My Stepsister | https://anilist.co/anime/152681 | Episode 8 |
 | Yuureisen-sen | Dead Ma’am’s Chest | https://anilist.co/anime/179880 | Episode 1 |
 | Delico's Nursery | Delico's Nursery | https://anilist.co/anime/167991 | Episode 3 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 824 |
@@ -136,7 +137,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
-| Gimai Seikatsu | Days with My Stepsister | https://anilist.co/anime/152681 | August 22 at 13:00 |
 | Garden of Remembrance | Garden of Remembrance | https://anilist.co/anime/151017 | August 30 at 02:00 |
 | Terminator 0 | TERMINATOR ZERO | https://anilist.co/anime/177814 | August 29 at 07:00 |
 | Kimi no Iro | The Colors Within | https://anilist.co/anime/158166 | August 29 at 15:00 |
