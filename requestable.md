@@ -70,7 +70,7 @@ These shows have had episodes air already, but no thread was created because the
 | Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 2 | Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 2 | https://anilist.co/anime/179991 | Episode 5 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 146 |
 | Girls' F1st!!!! GT | Girls' F1st!!!! GT | https://anilist.co/anime/178067 | Episode 7 |
-| Grendizer U | Grendizer U | https://anilist.co/anime/154195 | Episode 7 |
+| Grendizer U | Grendizer U | https://anilist.co/anime/154195 | Episode 8 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 566 |
 | Harimaware! Koinu 2nd Season | Harimaware! Koinu 2nd Season | https://anilist.co/anime/176283 | Episode 7 |
 | Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | Episode 2 |
