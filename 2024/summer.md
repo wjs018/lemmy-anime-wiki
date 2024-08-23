@@ -317,6 +317,7 @@ Episode|Link
 4|[Link](https://ani.social/post/4947993)
 5|[Link](https://ani.social/post/5084101)
 6|[Link](https://ani.social/post/5220422)
+7|[Link](https://ani.social/post/5496121)
 {.dense}
 
 ## Nige Jouzu no Wakagimi • The Elusive Samurai
