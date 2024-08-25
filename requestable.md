@@ -74,7 +74,7 @@ These shows have had episodes air already, but no thread was created because the
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 566 |
 | Harimaware! Koinu 2nd Season | Harimaware! Koinu 2nd Season | https://anilist.co/anime/176283 | Episode 8 |
 | Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | Episode 2 |
-| Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 20 |
+| Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 21 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 274 |
 | I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 44 |
 | Ikinie | Ikinie | https://anilist.co/anime/179953 | Episode 1 |
