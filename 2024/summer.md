@@ -283,6 +283,7 @@ Episode|Link
 5|[Link](https://ani.social/post/5140589)
 6|[Link](https://ani.social/post/5277626)
 7|[Link](https://ani.social/post/5416908)
+8|[Link](https://ani.social/post/5557624)
 {.dense}
 
 ## Monogatari Series: Off and Monster Season
