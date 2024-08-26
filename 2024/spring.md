@@ -368,9 +368,9 @@ Episode|Link
 
 ## Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF • Spice and Wolf: MERCHANT MEETS THE WISE WOLF
 
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/2923188)
+Episode|Link|Episode|Link
+:-:|:-:|:-:|:-:
+1|[Link](https://ani.social/post/2923188)|21|[Link](https://ani.social/post/5560602)
 2|[Link](https://ani.social/post/3038383)
 3|[Link](https://ani.social/post/3156124)
 4|[Link](https://ani.social/post/3263504)
