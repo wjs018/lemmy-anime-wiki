@@ -230,6 +230,7 @@ Episode|Link
 5|[Link](https://ani.social/post/5180256)
 6|[Link](https://ani.social/post/5320409)
 7|[Link](https://ani.social/post/5455755)
+8|[Link](https://ani.social/post/5601720)
 {.dense}
 
 ## Kono Sekai wa Fukanzen Sugiru • Quality Assurance in Another World
@@ -389,6 +390,7 @@ Episode|Link
 6|[Link](https://ani.social/post/5179711)
 7|[Link](https://ani.social/post/5321509)
 8|[Link](https://ani.social/post/5455297)
+9|[Link](https://ani.social/post/5600996)
 {.dense}
 
 ## Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru. • The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible
@@ -441,6 +443,7 @@ Episode|Link
 6|[Link](https://ani.social/post/5180254)
 7|[Link](https://ani.social/post/5320407)
 8|[Link](https://ani.social/post/5455754)
+9|[Link](https://ani.social/post/5601719)
 {.dense}
 
 ## Tsue to Tsurugi no Wistoria • Wistoria: Wand and Sword
