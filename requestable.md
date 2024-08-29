@@ -32,6 +32,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Rick and Morty: The Anime | Rick and Morty: The Anime | https://anilist.co/anime/150103 | [Link](https://ani.social/post/5488362) |
 | Senpai wa Otokonoko | Senpai is an Otokonoko | https://anilist.co/anime/163133 | [Link](https://ani.social/post/5477024) |
 | Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF | Spice and Wolf: MERCHANT MEETS THE WISE WOLF | https://anilist.co/anime/145728 | [Link](https://ani.social/post/5560602) |
+| Terminator 0 | TERMINATOR ZERO | https://anilist.co/anime/177814 | [Link](https://ani.social/post/5618877) |
 | Tensei Shitara Slime Datta Ken 3rd Season | That Time I Got Reincarnated as a Slime Season 3 | https://anilist.co/anime/156822 | [Link](https://ani.social/post/5495886) |
 | Nige Jouzu no Wakagimi | The Elusive Samurai | https://anilist.co/anime/162896 | [Link](https://ani.social/post/5515998) |
 | The Fable | The Fable | https://anilist.co/anime/166910 | [Link](https://ani.social/post/5517927) |
@@ -109,7 +110,6 @@ These shows have had episodes air already, but no thread was created because the
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1247 |
 | Shinkalion: Change the World | Shinkalion: Change the World | https://anilist.co/anime/172395 | Episode 19 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1664 |
-| Terminator 0 | TERMINATOR ZERO | https://anilist.co/anime/177814 | Episode 1 |
 | Tasuuketsu | Tasuketsu -Fate of the Majority- | https://anilist.co/anime/174070 | Episode 7 |
 | Megami no Café Terrace 2nd Season | The Café Terrace and Its Goddesses Season 2 | https://anilist.co/anime/166477 | Episode 8 |
 | Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita. | The Magical Girl and the Evil Lieutenant Used to Be Archenemies | https://anilist.co/anime/170938 | Episode 8 |
