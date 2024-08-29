@@ -76,7 +76,7 @@ These shows have had episodes air already, but no thread was created because the
 | Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | Episode 3 |
 | Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 21 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 275 |
-| I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 44 |
+| I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 45 |
 | Ikinie | Ikinie | https://anilist.co/anime/179953 | Episode 1 |
 | JOCHUM | JOCHUM | https://anilist.co/anime/179408 | Episode 7 |
 | KING OF PRISM -Dramatic PRISM.1- | KING OF PRISM -Dramatic PRISM.1- | https://anilist.co/anime/176275 | Episode 1 |
