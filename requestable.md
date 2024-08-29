@@ -63,7 +63,6 @@ These shows have had episodes air already, but no thread was created because the
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 187 |
 | Code Geass: Dakkan no Rozé | Code Geass: Rozé of the Recapture | https://anilist.co/anime/126830 | Episode 10 |
 | Crayon Shin-chan: Ora-tachi no Kyouryuu Nikki | Crayon Shin-chan: Ora-tachi no Kyouryuu Nikki | https://anilist.co/anime/171145 | Episode 1 |
-| Yuureisen-sen | Dead Ma’am’s Chest | https://anilist.co/anime/179880 | Episode 1 |
 | Delico's Nursery | Delico's Nursery | https://anilist.co/anime/167991 | Episode 4 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 825 |
 | Egumi Legacy | Egumi Legacy | https://anilist.co/anime/177097 | Episode 8 |
