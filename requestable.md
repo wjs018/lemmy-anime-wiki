@@ -109,6 +109,7 @@ These shows have had episodes air already, but no thread was created because the
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1247 |
 | Shinkalion: Change the World | Shinkalion: Change the World | https://anilist.co/anime/172395 | Episode 19 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1664 |
+| Terminator 0 | TERMINATOR ZERO | https://anilist.co/anime/177814 | Episode 1 |
 | Tasuuketsu | Tasuketsu -Fate of the Majority- | https://anilist.co/anime/174070 | Episode 7 |
 | Megami no Café Terrace 2nd Season | The Café Terrace and Its Goddesses Season 2 | https://anilist.co/anime/166477 | Episode 8 |
 | Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita. | The Magical Girl and the Evil Lieutenant Used to Be Archenemies | https://anilist.co/anime/170938 | Episode 8 |
@@ -138,6 +139,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Garden of Remembrance | Garden of Remembrance | https://anilist.co/anime/151017 | August 30 at 02:00 |
 | Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 1 | Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 1 | https://anilist.co/anime/166476 | September 05 at 15:00 |
-| Terminator 0 | TERMINATOR ZERO | https://anilist.co/anime/177814 | August 29 at 07:00 |
 | Kimi no Iro | The Colors Within | https://anilist.co/anime/158166 | August 29 at 15:00 |
 {.dense}
