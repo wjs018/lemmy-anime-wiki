@@ -24,7 +24,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Koi wa Futago de Warikirenai | Love Is Indivisible by Twins | https://anilist.co/anime/167144 | [Link](https://ani.social/post/5601720) |
 | Make Heroine ga Oosugiru! | Makeine: Too Many Losing Heroines! | https://anilist.co/anime/171457 | [Link](https://ani.social/post/5516951) |
 | Mayonaka Punch | Mayonaka Punch | https://anilist.co/anime/174044 | [Link](https://ani.social/post/5557624) |
-| NieR:Automata Ver1.1a 2nd Season | NieR:Automata Ver1.1a Cour 2 | https://anilist.co/anime/167420 | [Link](https://ani.social/post/5496121) |
 | Isekai Shikkaku | No Longer Allowed in Another World | https://anilist.co/anime/152137 | [Link](https://ani.social/post/5579429) |
 | [Oshi no Ko] 2nd Season | Oshi no Ko Season 2 | https://anilist.co/anime/166531 | [Link](https://ani.social/post/5601100) |
 | Giji Harem | Pseudo Harem | https://anilist.co/anime/163623 | [Link](https://ani.social/post/5623820) |
@@ -55,7 +54,7 @@ These shows have had episodes air already, but no thread was created because the
 | Bocchi the Rock! Re:Re: | Bocchi the Rock! Re:Re: | https://anilist.co/anime/171099 | Episode 1 |
 | BONOBONO (2016) | Bono Bono (2016) | https://anilist.co/anime/21552 | Episode 424 |
 | Bouken Tairiku Ania Kingdom: Densetsu no Guardian-hen | Bouken Tairiku Ania Kingdom: Densetsu no Guardian-hen | https://anilist.co/anime/177160 | Episode 6 |
-| Bye Bye, Earth | Bye Bye, Earth | https://anilist.co/anime/157371 | Episode 7 |
+| Bye Bye, Earth | Bye Bye, Earth | https://anilist.co/anime/157371 | Episode 8 |
 | Cardfight!! Vanguard: Divinez Season 2 | CARDFIGHT!! VANGUARD Divinez Season 2 | https://anilist.co/anime/165681 | Episode 7 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1133 |
 | Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 22 |
@@ -139,4 +138,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 1 | Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 1 | https://anilist.co/anime/166476 | September 05 at 15:00 |
+| NieR:Automata Ver1.1a 2nd Season | NieR:Automata Ver1.1a Cour 2 | https://anilist.co/anime/167420 | August 30 at 15:30 |
 {.dense}
