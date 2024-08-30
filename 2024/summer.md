@@ -58,6 +58,7 @@ Episode|Link
 12|[Link](https://ani.social/post/5210458)
 13|[Link](https://ani.social/post/5351180)
 14|[Link](https://ani.social/post/5488360)
+15|[Link](https://ani.social/post/5633334)
 {.dense}
 
 ## Dungeon no Naka no Hito • Dungeon People
@@ -367,6 +368,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/5354488)
 2|[Link](https://ani.social/post/5488362)
+3|[Link](https://ani.social/post/5633335)
 {.dense}
 
 ## Senpai wa Otokonoko • Senpai is an Otokonoko
