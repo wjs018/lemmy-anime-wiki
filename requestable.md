@@ -59,6 +59,7 @@ These shows have had episodes air already, but no thread was created because the
 | Code Geass: Dakkan no Rozé | Code Geass: Rozé of the Recapture | https://anilist.co/anime/126830 | Episode 11 |
 | Crayon Shin-chan: Ora-tachi no Kyouryuu Nikki | Crayon Shin-chan: Ora-tachi no Kyouryuu Nikki | https://anilist.co/anime/171145 | Episode 1 |
 | Madougushi Dahlia wa Utsumukanai | Dahlia in Bloom: Crafting a Fresh Start with Magical Tools | https://anilist.co/anime/168623 | Episode 9 |
+| Gimai Seikatsu | Days with My Stepsister | https://anilist.co/anime/152681 | Episode 10 |
 | Delico's Nursery | Delico's Nursery | https://anilist.co/anime/167991 | Episode 5 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 826 |
 | Egumi Legacy | Egumi Legacy | https://anilist.co/anime/177097 | Episode 9 |
@@ -132,7 +133,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
-| Gimai Seikatsu | Days with My Stepsister | https://anilist.co/anime/152681 | September 05 at 13:00 |
 | Go-Getters | Go-Getters | https://anilist.co/anime/180817 | September 06 at 03:00 |
 | Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 1 | Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 1 | https://anilist.co/anime/166476 | September 05 at 16:00 |
 | Murai no Koi | Murai In Love | https://anilist.co/anime/150930 | September 11 at 08:00 |
