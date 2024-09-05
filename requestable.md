@@ -18,7 +18,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Dead Dead Demon's Dededededestruction | DEAD DEAD DEMONS DEDEDEDE DESTRUCTION | https://anilist.co/anime/177697 | [Link](https://ani.social/post/5633334) |
 | Dungeon no Naka no Hito | Dungeon People | https://anilist.co/anime/168345 | [Link](https://ani.social/post/5644655) |
 | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells | https://anilist.co/anime/173694 | [Link](https://ani.social/post/5624599) |
-| Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai | I Parry Everything | https://anilist.co/anime/170695 | [Link](https://ani.social/post/5623288) |
+| Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai | I Parry Everything | https://anilist.co/anime/170695 | [Link](https://ani.social/post/5760454) |
 | Koi wa Futago de Warikirenai | Love Is Indivisible by Twins | https://anilist.co/anime/167144 | [Link](https://ani.social/post/5739388) |
 | Make Heroine ga Oosugiru! | Makeine: Too Many Losing Heroines! | https://anilist.co/anime/171457 | [Link](https://ani.social/post/5661346) |
 | Mayonaka Punch | Mayonaka Punch | https://anilist.co/anime/174044 | [Link](https://ani.social/post/5697510) |
@@ -78,6 +78,7 @@ These shows have had episodes air already, but no thread was created because the
 | JOCHUM | JOCHUM | https://anilist.co/anime/179408 | Episode 8 |
 | KING OF PRISM -Dramatic PRISM.1- | KING OF PRISM -Dramatic PRISM.1- | https://anilist.co/anime/176275 | Episode 1 |
 | Kinnikuman: Kanpeki Choujin Shiso-hen | Kinnikuman Perfect Origin Arc | https://anilist.co/anime/162796 | Episode 9 |
+| Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 1 | Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 1 | https://anilist.co/anime/166476 | Episode 1 |
 | Mirai no Kuromakukei Akuyaku Reijou Moriarty no Isekai Kanzen Hanzai Hakusho | Mirai no Kuromakukei Akuyaku Reijou Moriarty no Isekai Kanzen Hanzai Hakusho | https://anilist.co/anime/179954 | Episode 7 |
 | Yozakura-san Chi no Daisakusen | Mission: Yozakura Family | https://anilist.co/anime/158898 | Episode 22 |
 | Monogatari Series: Off and Monster Season | Monogatari Series: Off and Monster Season | https://anilist.co/anime/173533 | Episode 8 |
@@ -93,7 +94,7 @@ These shows have had episodes air already, but no thread was created because the
 | Elf-san wa Yaserarenai. | Plus-Sized Elf | https://anilist.co/anime/173388 | Episode 9 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 63 |
 | Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2060 |
-| Ramen Aka Neko | Ramen Akaneko | https://anilist.co/anime/170998 | Episode 9 |
+| Ramen Aka Neko | Ramen Akaneko | https://anilist.co/anime/170998 | Episode 10 |
 | Shoushimin Series | SHOSHIMIN: How to Become Ordinary | https://anilist.co/anime/173295 | Episode 8 |
 | SHY: Tokyo Dakkan-hen | SHY Season 2 | https://anilist.co/anime/171748 | Episode 9 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Battles | Sai-Kyo-Oh! Zukan: The Ultimate Battles | https://anilist.co/anime/173216 | Episode 35 |
@@ -134,7 +135,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Go-Getters | Go-Getters | https://anilist.co/anime/180817 | September 06 at 03:00 |
-| Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 1 | Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 1 | https://anilist.co/anime/166476 | September 05 at 16:00 |
 | Murai no Koi | Murai In Love | https://anilist.co/anime/150930 | September 11 at 08:00 |
 | Wonderful Precure! The Movie! Dokidoki♡Game no Sekai de Daibouken! | Wonderful Precure! The Movie! Dokidoki♡Game no Sekai de Daibouken! | https://anilist.co/anime/169403 | September 12 at 15:00 |
 {.dense}
