@@ -55,7 +55,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 23 |
 | Chibi Maruko-chan (1995) | Chibi Maruko-chan | https://anilist.co/anime/6149 | Episode 1445 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 189 |
-| Code Geass: Dakkan no Rozé | Code Geass: Rozé of the Recapture | https://anilist.co/anime/126830 | Episode 11 |
+| Code Geass: Dakkan no Rozé | Code Geass: Rozé of the Recapture | https://anilist.co/anime/126830 | Episode 12 |
 | Crayon Shin-chan: Ora-tachi no Kyouryuu Nikki | Crayon Shin-chan: Ora-tachi no Kyouryuu Nikki | https://anilist.co/anime/171145 | Episode 1 |
 | Madougushi Dahlia wa Utsumukanai | Dahlia in Bloom: Crafting a Fresh Start with Magical Tools | https://anilist.co/anime/168623 | Episode 9 |
 | Gimai Seikatsu | Days with My Stepsister | https://anilist.co/anime/152681 | Episode 10 |
