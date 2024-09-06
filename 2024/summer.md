@@ -44,9 +44,9 @@ Episode|Link
 
 ## Dead Dead Demon's Dededededestruction • DEAD DEAD DEMONS DEDEDEDE DESTRUCTION
 
-Episode|Link
-:-:|:-:
-2|[Link](https://ani.social/post/3949973)
+Episode|Link|Episode|Link
+:-:|:-:|:-:|:-:
+2|[Link](https://ani.social/post/3949973)|16|[Link](https://ani.social/post/5771047)
 3|[Link](https://ani.social/post/4035595)
 4|[Link](https://ani.social/post/4168065)
 5|[Link](https://ani.social/post/4292711)
@@ -379,6 +379,7 @@ Episode|Link
 1|[Link](https://ani.social/post/5354488)
 2|[Link](https://ani.social/post/5488362)
 3|[Link](https://ani.social/post/5633335)
+4|[Link](https://ani.social/post/5771048)
 {.dense}
 
 ## Senpai wa Otokonoko • Senpai is an Otokonoko
