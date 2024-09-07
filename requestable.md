@@ -122,7 +122,7 @@ These shows have had episodes air already, but no thread was created because the
 | Naze Boku no Sekai wo Daremo Oboeteinai no ka? | Why Does Nobody Remember Me in This World? | https://anilist.co/anime/167419 | Episode 9 |
 | Tsue to Tsurugi no Wistoria | Wistoria: Wand and Sword | https://anilist.co/anime/174576 | Episode 8 |
 | Wonderful Precure! | Wonderful Precure! | https://anilist.co/anime/171030 | Episode 31 |
-| Karasu wa Aruji wo Erabanai | YATAGARASU: The Raven Does Not Choose Its Master | https://anilist.co/anime/170503 | Episode 17 |
+| Karasu wa Aruji wo Erabanai | YATAGARASU: The Raven Does Not Choose Its Master | https://anilist.co/anime/170503 | Episode 18 |
 | Yozakura-san Chi no Mini Sakusen | Yozakura-san Chi no Mini Sakusen | https://anilist.co/anime/176909 | Episode 22 |
 | Yuru Camp△ SEASON 3 OVA | Yuru Camp△ SEASON 3 OVA | https://anilist.co/anime/177007 | Episode 2 |
 | Yu☆Gi☆Oh! Go Rush!! | Yu☆Gi☆Oh! Go Rush!! | https://anilist.co/anime/142842 | Episode 123 |
