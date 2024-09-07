@@ -284,6 +284,7 @@ Episode|Link
 6|[Link](https://ani.social/post/5379882)
 7|[Link](https://ani.social/post/5516951)
 8|[Link](https://ani.social/post/5661346)
+9|[Link](https://ani.social/post/5801740)
 {.dense}
 
 ## Mayonaka Punch
