@@ -133,6 +133,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
+| Allegro | Allegro | https://anilist.co/anime/180870 | September 09 at 10:00 |
 | Murai no Koi | Murai In Love | https://anilist.co/anime/150930 | September 11 at 08:00 |
 | Wonderful Precure! The Movie! Dokidoki♡Game no Sekai de Daibouken! | Wonderful Precure! The Movie! Dokidoki♡Game no Sekai de Daibouken! | https://anilist.co/anime/169403 | September 12 at 15:00 |
 {.dense}
