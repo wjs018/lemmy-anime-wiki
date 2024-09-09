@@ -45,6 +45,7 @@ These shows have had episodes air already, but no thread was created because the
 | Isekai Yururi Kikou: Kosodate Shinagara Boukensha Shimasu | A Journey Through Another World: Raising Kids While Adventuring | https://anilist.co/anime/171031 | Episode 11 |
 | Mob kara Hajimaru Tansaku Eiyuutan | A Nobody's Way Up to an Exploration Hero | https://anilist.co/anime/172416 | Episode 11 |
 | ATRI: My Dear Moments | ATRI -My Dear Moments- | https://anilist.co/anime/154963 | Episode 9 |
+| Allegro | Allegro | https://anilist.co/anime/180870 | Episode 1 |
 | Atashin'chi NEXT | Atashin'chi NEXT | https://anilist.co/anime/173313 | Episode 4 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 47 |
 | BONOBONO (2016) | Bono Bono (2016) | https://anilist.co/anime/21552 | Episode 426 |
@@ -133,7 +134,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
-| Allegro | Allegro | https://anilist.co/anime/180870 | September 09 at 10:00 |
 | Murai no Koi | Murai In Love | https://anilist.co/anime/150930 | September 11 at 08:00 |
 | Wonderful Precure! The Movie! Dokidoki♡Game no Sekai de Daibouken! | Wonderful Precure! The Movie! Dokidoki♡Game no Sekai de Daibouken! | https://anilist.co/anime/169403 | September 12 at 15:00 |
 {.dense}
