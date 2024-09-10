@@ -52,7 +52,7 @@ These shows have had episodes air already, but no thread was created because the
 | Bye Bye, Earth | Bye Bye, Earth | https://anilist.co/anime/157371 | Episode 9 |
 | Cardfight!! Vanguard: Divinez Season 2 | CARDFIGHT!! VANGUARD Divinez Season 2 | https://anilist.co/anime/165681 | Episode 9 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1134 |
-| Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 23 |
+| Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 24 |
 | Chibi Maruko-chan (1995) | Chibi Maruko-chan | https://anilist.co/anime/6149 | Episode 1446 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 189 |
 | Code Geass: Dakkan no Rozé | Code Geass: Rozé of the Recapture | https://anilist.co/anime/126830 | Episode 12 |
