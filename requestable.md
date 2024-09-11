@@ -58,7 +58,7 @@ These shows have had episodes air already, but no thread was created because the
 | Code Geass: Dakkan no Rozé | Code Geass: Rozé of the Recapture | https://anilist.co/anime/126830 | Episode 12 |
 | Madougushi Dahlia wa Utsumukanai | Dahlia in Bloom: Crafting a Fresh Start with Magical Tools | https://anilist.co/anime/168623 | Episode 10 |
 | Gimai Seikatsu | Days with My Stepsister | https://anilist.co/anime/152681 | Episode 10 |
-| Delico's Nursery | Delico's Nursery | https://anilist.co/anime/167991 | Episode 5 |
+| Delico's Nursery | Delico's Nursery | https://anilist.co/anime/167991 | Episode 6 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 827 |
 | Egumi Legacy | Egumi Legacy | https://anilist.co/anime/177097 | Episode 10 |
 | FAIRY TAIL: 100 YEARS QUEST | FAIRY TAIL 100 YEARS QUEST | https://anilist.co/anime/139095 | Episode 10 |
