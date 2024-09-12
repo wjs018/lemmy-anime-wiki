@@ -23,7 +23,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Mayonaka Punch | Mayonaka Punch | https://anilist.co/anime/174044 | [Link](https://ani.social/post/5841702) |
 | Isekai Shikkaku | No Longer Allowed in Another World | https://anilist.co/anime/152137 | [Link](https://ani.social/post/5863868) |
 | [Oshi no Ko] 2nd Season | Oshi no Ko Season 2 | https://anilist.co/anime/166531 | [Link](https://ani.social/post/5884298) |
-| Giji Harem | Pseudo Harem | https://anilist.co/anime/163623 | [Link](https://ani.social/post/5760767) |
 | Kono Sekai wa Fukanzen Sugiru | Quality Assurance in Another World | https://anilist.co/anime/163077 | [Link](https://ani.social/post/5783667) |
 | Rick and Morty: The Anime | Rick and Morty: The Anime | https://anilist.co/anime/150103 | [Link](https://ani.social/post/5771048) |
 | Senpai wa Otokonoko | Senpai is an Otokonoko | https://anilist.co/anime/163133 | [Link](https://ani.social/post/5761305) |
@@ -140,4 +139,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Go-toubun no Hanayome * | Go-toubun no Hanayome * | https://anilist.co/anime/177191 | September 19 at 15:00 |
 | Kankin Kuiki Level X | Kankin Kuiki Level X | https://anilist.co/anime/180923 | September 13 at 17:56 |
 | Overlord: Sei Oukoku-hen | OVERLORD: The Sacred Kingdom | https://anilist.co/anime/133845 | September 19 at 15:00 |
+| Giji Harem | Pseudo Harem | https://anilist.co/anime/163623 | September 12 at 16:30 |
 {.dense}
