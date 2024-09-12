@@ -403,6 +403,7 @@ Episode|Link
 7|[Link](https://ani.social/post/5477024)
 8|[Link](https://ani.social/post/5624597)
 9|[Link](https://ani.social/post/5761305)
+10|[Link](https://ani.social/post/5908106)
 {.dense}
 
 ## Shikanoko Nokonoko Koshitantan • My Deer Friend Nokotan
