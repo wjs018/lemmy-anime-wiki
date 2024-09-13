@@ -72,7 +72,7 @@ These shows have had episodes air already, but no thread was created because the
 | Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 23 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 277 |
 | I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 47 |
-| JOCHUM | JOCHUM | https://anilist.co/anime/179408 | Episode 9 |
+| JOCHUM | JOCHUM | https://anilist.co/anime/179408 | Episode 10 |
 | KING OF PRISM -Dramatic PRISM.1- | KING OF PRISM -Dramatic PRISM.1- | https://anilist.co/anime/176275 | Episode 1 |
 | Kankin Kuiki Level X | Kankin Kuiki Level X | https://anilist.co/anime/180923 | Episode 2 |
 | Kinnikuman: Kanpeki Choujin Shiso-hen | Kinnikuman Perfect Origin Arc | https://anilist.co/anime/162796 | Episode 10 |
