@@ -47,7 +47,7 @@ These shows have had episodes air already, but no thread was created because the
 | Atashin'chi NEXT | Atashin'chi NEXT | https://anilist.co/anime/173313 | Episode 4 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 48 |
 | BONOBONO (2016) | Bono Bono (2016) | https://anilist.co/anime/21552 | Episode 426 |
-| Bye Bye, Earth | Bye Bye, Earth | https://anilist.co/anime/157371 | Episode 9 |
+| Bye Bye, Earth | Bye Bye, Earth | https://anilist.co/anime/157371 | Episode 10 |
 | Cardfight!! Vanguard: Divinez Season 2 | CARDFIGHT!! VANGUARD Divinez Season 2 | https://anilist.co/anime/165681 | Episode 9 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1134 |
 | Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 24 |
@@ -81,12 +81,11 @@ These shows have had episodes air already, but no thread was created because the
 | Yozakura-san Chi no Daisakusen | Mission: Yozakura Family | https://anilist.co/anime/158898 | Episode 23 |
 | Monogatari Series: Off and Monster Season | Monogatari Series: Off and Monster Season | https://anilist.co/anime/173533 | Episode 8 |
 | Murai no Koi | Murai In Love | https://anilist.co/anime/150930 | Episode 2 |
-| Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | Episode 7 |
 | Boku no Hero Academia 7 | My Hero Academia Season 7 | https://anilist.co/anime/163139 | Episode 16 |
 | Boku no Tsuma wa Kanjou ga Nai | My Wife Has No Emotion | https://anilist.co/anime/175450 | Episode 11 |
 | Naoe-kun wa Yasesasetai. | Naoe-kun wa Yasesasetai. | https://anilist.co/anime/179212 | Episode 10 |
 | Na-Nare Hana-Nare | Narenare -Cheer for you!- | https://anilist.co/anime/170891 | Episode 10 |
-| NieR:Automata Ver1.1a 2nd Season | NieR:Automata Ver1.1a Cour 2 | https://anilist.co/anime/167420 | Episode 9 |
+| NieR:Automata Ver1.1a 2nd Season | NieR:Automata Ver1.1a Cour 2 | https://anilist.co/anime/167420 | Episode 10 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 134 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1118 |
 | Elf-san wa Yaserarenai. | Plus-Sized Elf | https://anilist.co/anime/173388 | Episode 10 |
@@ -138,5 +137,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Given: Umi e | Given: Umi e | https://anilist.co/anime/175199 | September 19 at 15:00 |
 | Go-toubun no Hanayome * | Go-toubun no Hanayome * | https://anilist.co/anime/177191 | September 19 at 15:00 |
 | Kankin Kuiki Level X | Kankin Kuiki Level X | https://anilist.co/anime/180923 | September 13 at 17:56 |
+| Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | August 21 at 15:30 |
 | Overlord: Sei Oukoku-hen | OVERLORD: The Sacred Kingdom | https://anilist.co/anime/133845 | September 19 at 15:00 |
 {.dense}
