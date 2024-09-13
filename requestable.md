@@ -45,7 +45,7 @@ These shows have had episodes air already, but no thread was created because the
 | ATRI: My Dear Moments | ATRI -My Dear Moments- | https://anilist.co/anime/154963 | Episode 9 |
 | Allegro | Allegro | https://anilist.co/anime/180870 | Episode 1 |
 | Atashin'chi NEXT | Atashin'chi NEXT | https://anilist.co/anime/173313 | Episode 4 |
-| BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 47 |
+| BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 48 |
 | BONOBONO (2016) | Bono Bono (2016) | https://anilist.co/anime/21552 | Episode 426 |
 | Bye Bye, Earth | Bye Bye, Earth | https://anilist.co/anime/157371 | Episode 9 |
 | Cardfight!! Vanguard: Divinez Season 2 | CARDFIGHT!! VANGUARD Divinez Season 2 | https://anilist.co/anime/165681 | Episode 9 |
