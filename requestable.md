@@ -66,7 +66,7 @@ These shows have had episodes air already, but no thread was created because the
 | Garden of Remembrance | Garden of Remembrance | https://anilist.co/anime/151017 | Episode 1 |
 | Girls' F1st!!!! GT | Girls' F1st!!!! GT | https://anilist.co/anime/178067 | Episode 9 |
 | Go-Getters | Go-Getters | https://anilist.co/anime/180817 | Episode 1 |
-| Grendizer U | Grendizer U | https://anilist.co/anime/154195 | Episode 10 |
+| Grendizer U | Grendizer U | https://anilist.co/anime/154195 | Episode 11 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 569 |
 | Harimaware! Koinu 2nd Season | Harimaware! Koinu 2nd Season | https://anilist.co/anime/176283 | Episode 10 |
 | Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | Episode 3 |
