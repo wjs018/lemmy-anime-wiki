@@ -23,7 +23,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Mayonaka Punch | Mayonaka Punch | https://anilist.co/anime/174044 | [Link](https://ani.social/post/5841702) |
 | Isekai Shikkaku | No Longer Allowed in Another World | https://anilist.co/anime/152137 | [Link](https://ani.social/post/5863868) |
 | [Oshi no Ko] 2nd Season | Oshi no Ko Season 2 | https://anilist.co/anime/166531 | [Link](https://ani.social/post/5884298) |
-| Kono Sekai wa Fukanzen Sugiru | Quality Assurance in Another World | https://anilist.co/anime/163077 | [Link](https://ani.social/post/5783667) |
 | Senpai wa Otokonoko | Senpai is an Otokonoko | https://anilist.co/anime/163133 | [Link](https://ani.social/post/5908106) |
 | Tensei Shitara Slime Datta Ken 3rd Season | That Time I Got Reincarnated as a Slime Season 3 | https://anilist.co/anime/156822 | [Link](https://ani.social/post/5927344) |
 | Nige Jouzu no Wakagimi | The Elusive Samurai | https://anilist.co/anime/162896 | [Link](https://ani.social/post/5659999) |
@@ -139,4 +138,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Go-toubun no Hanayome * | Go-toubun no Hanayome * | https://anilist.co/anime/177191 | September 19 at 15:00 |
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | August 21 at 15:30 |
 | Overlord: Sei Oukoku-hen | OVERLORD: The Sacred Kingdom | https://anilist.co/anime/133845 | September 19 at 15:00 |
+| Kono Sekai wa Fukanzen Sugiru | Quality Assurance in Another World | https://anilist.co/anime/163077 | September 13 at 18:23 |
 {.dense}
