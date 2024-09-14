@@ -40,7 +40,7 @@ These shows have had episodes air already, but no thread was created because the
 | 0 Saiji Start Dash Monogatari | 0 Saiji Start Dash Monogatari | https://anilist.co/anime/177879 | Episode 10 |
 | 2.5 Jigen no Ririsa | 2.5 Dimensional Seduction | https://anilist.co/anime/158559 | Episode 11 |
 | Isekai Yururi Kikou: Kosodate Shinagara Boukensha Shimasu | A Journey Through Another World: Raising Kids While Adventuring | https://anilist.co/anime/171031 | Episode 11 |
-| Mob kara Hajimaru Tansaku Eiyuutan | A Nobody's Way Up to an Exploration Hero | https://anilist.co/anime/172416 | Episode 11 |
+| Mob kara Hajimaru Tansaku Eiyuutan | A Nobody's Way Up to an Exploration Hero | https://anilist.co/anime/172416 | Episode 12 |
 | ATRI: My Dear Moments | ATRI -My Dear Moments- | https://anilist.co/anime/154963 | Episode 9 |
 | Allegro | Allegro | https://anilist.co/anime/180870 | Episode 1 |
 | Atashin'chi NEXT | Atashin'chi NEXT | https://anilist.co/anime/173313 | Episode 4 |
