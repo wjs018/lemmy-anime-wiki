@@ -569,7 +569,7 @@ Episode|Link|Episode|Link
 7|[Link](https://ani.social/post/3688162)|20|[Link](https://ani.social/post/5517551)
 8|[Link](https://ani.social/post/3821350)|21|[Link](https://ani.social/post/5517927)
 9|[Link](https://ani.social/post/3942578)|22|[Link](https://ani.social/post/5802556)
-10|[Link](https://ani.social/post/4063550)
+10|[Link](https://ani.social/post/4063550)|23|[Link](https://ani.social/post/5948988)
 11|[Link](https://ani.social/post/4195292)
 12|[Link](https://ani.social/post/4320027)
 13|[Link](https://ani.social/post/4442481)
