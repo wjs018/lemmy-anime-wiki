@@ -90,7 +90,7 @@ These shows have had episodes air already, but no thread was created because the
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1119 |
 | Elf-san wa Yaserarenai. | Plus-Sized Elf | https://anilist.co/anime/173388 | Episode 11 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 65 |
-| Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2061 |
+| Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2062 |
 | Giji Harem | Pseudo Harem | https://anilist.co/anime/163623 | Episode 11 |
 | Kono Sekai wa Fukanzen Sugiru | Quality Assurance in Another World | https://anilist.co/anime/163077 | Episode 11 |
 | Ramen Aka Neko | Ramen Akaneko | https://anilist.co/anime/170998 | Episode 11 |
