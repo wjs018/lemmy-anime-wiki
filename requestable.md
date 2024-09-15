@@ -111,7 +111,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kimi no Iro | The Colors Within | https://anilist.co/anime/158166 | Episode 1 |
 | Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita. | The Magical Girl and the Evil Lieutenant Used to Be Archenemies | https://anilist.co/anime/170938 | Episode 10 |
 | Maou Gun Saikyou no Majutsushi wa Ningen datta | The Strongest Magician in the Demon Lord's Army was a Human | https://anilist.co/anime/173584 | Episode 12 |
-| Yami Shibai 13 | Theatre of Darkness: Yamishibai 13 | https://anilist.co/anime/177922 | Episode 9 |
+| Yami Shibai 13 | Theatre of Darkness: Yamishibai 13 | https://anilist.co/anime/177922 | Episode 10 |
 | Tousouchuu: Great Mission | Tousouchuu: Great Mission | https://anilist.co/anime/159560 | Episode 72 |
 | Tasogare Outfocus | Twilight Out of Focus | https://anilist.co/anime/166700 | Episode 11 |
 | VTuber nanda ga Haishin Kiri Wasuretara Densetsu ni Natteta | VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream | https://anilist.co/anime/160488 | Episode 11 |
