@@ -17,6 +17,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Acro Trip | Acro Trip | https://anilist.co/anime/157965 |  |
 | Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san | Alya Sometimes Hides Her Feelings in Russian | https://anilist.co/anime/162804 | [Link](https://ani.social/post/5884955) |
 | Blue Lock VS. U-20 JAPAN | BLUE LOCK Season 2 | https://anilist.co/anime/163146 |  |
+| Ao no Hako | Blue Box | https://anilist.co/anime/170942 |  |
 | Dandadan | DAN DA DAN | https://anilist.co/anime/171018 |  |
 | Dead Dead Demon's Dededededestruction | DEAD DEAD DEMONS DEDEDEDE DESTRUCTION | https://anilist.co/anime/177697 | [Link](https://ani.social/post/5918666) |
 | Dungeon no Naka no Hito | Dungeon People | https://anilist.co/anime/168345 | [Link](https://ani.social/post/5930266) |
@@ -25,24 +26,30 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Rekishi ni Nokoru Akujo ni Naruzo | I’ll Become a Villainess Who Goes Down in History | https://anilist.co/anime/168139 |  |
 | Kabushiki Gaisha Magi Lumiere | Kabushiki Gaisha Magi Lumiere | https://anilist.co/anime/171025 |  |
 | Kekkon Suru tte, Hontou desu ka: 365 Days To The Wedding | Kekkon Suru tte, Hontou desu ka: 365 Days To The Wedding | https://anilist.co/anime/165790 |  |
+| Hitoribocchi no Isekai Kouryaku | Loner Life in Another World | https://anilist.co/anime/173693 |  |
 | Koi wa Futago de Warikirenai | Love Is Indivisible by Twins | https://anilist.co/anime/167144 | [Link](https://ani.social/post/5884956) |
 | Make Heroine ga Oosugiru! | Makeine: Too Many Losing Heroines! | https://anilist.co/anime/171457 | [Link](https://ani.social/post/5948646) |
 | Mayonaka Punch | Mayonaka Punch | https://anilist.co/anime/174044 | [Link](https://ani.social/post/5841702) |
 | Murai no Koi | Murai In Love | https://anilist.co/anime/150930 |  |
+| Natsume Yuujinchou Shichi | Natsume Yuujinchou Shichi | https://anilist.co/anime/166611 |  |
+| NegaPosi Angler | NegaPosi Angler | https://anilist.co/anime/179919 |  |
 | Isekai Shikkaku | No Longer Allowed in Another World | https://anilist.co/anime/152137 | [Link](https://ani.social/post/5863868) |
 | Chi.: Chikyuu no Undou ni Tsuite | Orb: On the Movements of the Earth | https://anilist.co/anime/151514 |  |
 | [Oshi no Ko] 2nd Season | Oshi no Ko Season 2 | https://anilist.co/anime/166531 | [Link](https://ani.social/post/5884298) |
 | Puniru wa Kawaii Slime | Puniru wa Kawaii Slime | https://anilist.co/anime/171400 |  |
 | Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season | Re:ZERO -Starting Life in Another World- Season 3 | https://anilist.co/anime/163134 |  |
 | Kamonohashi Ron no Kindan Suiri 2nd Season | Ron Kamonohashi’s Forbidden Deductions Season 2 | https://anilist.co/anime/172355 |  |
+| Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran | Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran | https://anilist.co/anime/171637 |  |
 | Shoushimin Series | SHOSHIMIN: How to Become Ordinary | https://anilist.co/anime/173295 | [Link](https://ani.social/post/5971025) |
 | Senpai wa Otokonoko | Senpai is an Otokonoko | https://anilist.co/anime/163133 | [Link](https://ani.social/post/5908106) |
+| Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season | Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season | https://anilist.co/anime/178434 |  |
 | Tensei Shitara Slime Datta Ken 3rd Season | That Time I Got Reincarnated as a Slime Season 3 | https://anilist.co/anime/156822 | [Link](https://ani.social/post/5927344) |
 | Nige Jouzu no Wakagimi | The Elusive Samurai | https://anilist.co/anime/162896 | [Link](https://ani.social/post/5947536) |
 | The Fable | The Fable | https://anilist.co/anime/166910 | [Link](https://ani.social/post/5948988) |
 | Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru. | The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible | https://anilist.co/anime/163292 | [Link](https://ani.social/post/5845381) |
 | Kami no Tou: Tower of God - Ouji no Kikan | Tower of God Season 2 | https://anilist.co/anime/153406 | [Link](https://ani.social/post/5966973) |
 | Trillion Game | Trillion Game | https://anilist.co/anime/169315 |  |
+| Tsuma, Shougakusei ni Naru. | Tsuma, Shougakusei ni Naru. | https://anilist.co/anime/162785 |  |
 | Uzumaki | Uzumaki | https://anilist.co/anime/111314 |  |
 | Raise wa Tanin ga Ii | Yakuza Fiancé | https://anilist.co/anime/170468 |  |
 | Kimi wa Meido-sama. | You are Ms. Servant | https://anilist.co/anime/172190 |  |
