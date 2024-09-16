@@ -154,6 +154,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
+| BanG Dream! It's MyGO!!!!! Movie | BanG Dream! It's MyGO!!!!! Movie | https://anilist.co/anime/173174 | September 26 at 15:00 |
 | Given: Umi e | Given: Umi e | https://anilist.co/anime/175199 | September 19 at 15:00 |
 | Go-toubun no Hanayome * | Go-toubun no Hanayome * | https://anilist.co/anime/177191 | September 19 at 15:00 |
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | August 21 at 15:30 |
