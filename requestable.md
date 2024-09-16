@@ -45,7 +45,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Tensei Shitara Slime Datta Ken 3rd Season | That Time I Got Reincarnated as a Slime Season 3 | https://anilist.co/anime/156822 | [Link](https://ani.social/post/5927344) |
 | Nige Jouzu no Wakagimi | The Elusive Samurai | https://anilist.co/anime/162896 | [Link](https://ani.social/post/5947536) |
 | The Fable | The Fable | https://anilist.co/anime/166910 | [Link](https://ani.social/post/5948988) |
-| Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru. | The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible | https://anilist.co/anime/163292 | [Link](https://ani.social/post/5845381) |
+| Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru. | The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible | https://anilist.co/anime/163292 | [Link](https://ani.social/post/5989824) |
 | Kami no Tou: Tower of God - Ouji no Kikan | Tower of God Season 2 | https://anilist.co/anime/153406 | [Link](https://ani.social/post/5966973) |
 | Trillion Game | Trillion Game | https://anilist.co/anime/169315 |  |
 | Tsuma, Shougakusei ni Naru. | Tsuma, Shougakusei ni Naru. | https://anilist.co/anime/162785 |  |
