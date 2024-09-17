@@ -29,6 +29,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Koi wa Futago de Warikirenai | Love Is Indivisible by Twins | https://anilist.co/anime/167144 | [Link](https://ani.social/post/5884956) |
 | Make Heroine ga Oosugiru! | Makeine: Too Many Losing Heroines! | https://anilist.co/anime/171457 | [Link](https://ani.social/post/5948646) |
 | Mayonaka Punch | Mayonaka Punch | https://anilist.co/anime/174044 | [Link](https://ani.social/post/5985929) |
+| Mecha-ude (TV) | Mechanical Arms | https://anilist.co/anime/154673 |  |
 | Murai no Koi | Murai In Love | https://anilist.co/anime/150930 |  |
 | Natsume Yuujinchou Shichi | Natsume Yuujinchou Shichi | https://anilist.co/anime/166611 |  |
 | NegaPosi Angler | NegaPosi Angler | https://anilist.co/anime/179919 |  |
@@ -41,6 +42,8 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran | Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran | https://anilist.co/anime/171637 |  |
 | Shoushimin Series | SHOSHIMIN: How to Become Ordinary | https://anilist.co/anime/173295 | [Link](https://ani.social/post/5971025) |
 | Senpai wa Otokonoko | Senpai is an Otokonoko | https://anilist.co/anime/163133 | [Link](https://ani.social/post/5908106) |
+| Shangri-La Frontier 2nd Season | Shangri-La Frontier Season 2 | https://anilist.co/anime/176508 |  |
+| Sword Art Online Alternative: Gun Gale Online II | Sword Art Online Alternative: Gun Gale Online II | https://anilist.co/anime/167141 |  |
 | Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season | Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season | https://anilist.co/anime/178434 |  |
 | Tensei Shitara Slime Datta Ken 3rd Season | That Time I Got Reincarnated as a Slime Season 3 | https://anilist.co/anime/156822 | [Link](https://ani.social/post/5927344) |
 | Nige Jouzu no Wakagimi | The Elusive Samurai | https://anilist.co/anime/162896 | [Link](https://ani.social/post/5947536) |
