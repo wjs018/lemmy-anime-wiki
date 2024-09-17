@@ -27,6 +27,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kekkon Suru tte, Hontou desu ka: 365 Days To The Wedding | Kekkon Suru tte, Hontou desu ka: 365 Days To The Wedding | https://anilist.co/anime/165790 |  |
 | Hitoribocchi no Isekai Kouryaku | Loner Life in Another World | https://anilist.co/anime/173693 |  |
 | Koi wa Futago de Warikirenai | Love Is Indivisible by Twins | https://anilist.co/anime/167144 | [Link](https://ani.social/post/5884956) |
+| MF Ghost 2nd Season | MF GHOST Season 2 | https://anilist.co/anime/171642 |  |
 | Make Heroine ga Oosugiru! | Makeine: Too Many Losing Heroines! | https://anilist.co/anime/171457 | [Link](https://ani.social/post/5948646) |
 | Mayonaka Punch | Mayonaka Punch | https://anilist.co/anime/174044 | [Link](https://ani.social/post/5985929) |
 | Mecha-ude (TV) | Mechanical Arms | https://anilist.co/anime/154673 |  |
