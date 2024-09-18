@@ -31,7 +31,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Make Heroine ga Oosugiru! | Makeine: Too Many Losing Heroines! | https://anilist.co/anime/171457 | [Link](https://ani.social/post/5948646) |
 | Mayonaka Punch | Mayonaka Punch | https://anilist.co/anime/174044 | [Link](https://ani.social/post/5985929) |
 | Mecha-ude (TV) | Mechanical Arms | https://anilist.co/anime/154673 |  |
-| Murai no Koi | Murai In Love | https://anilist.co/anime/150930 |  |
+| Murai no Koi | Murai In Love | https://anilist.co/anime/150930 | [Link](https://ani.social/post/6020507) |
 | Natsume Yuujinchou Shichi | Natsume Yuujinchou Shichi | https://anilist.co/anime/166611 |  |
 | NegaPosi Angler | NegaPosi Angler | https://anilist.co/anime/179919 |  |
 | Isekai Shikkaku | No Longer Allowed in Another World | https://anilist.co/anime/152137 | [Link](https://ani.social/post/6006974) |
