@@ -96,7 +96,7 @@ These shows have had episodes air already, but no thread was created because the
 | Go-Getters | Go-Getters | https://anilist.co/anime/180817 | Episode 1 |
 | Go-toubun no Hanayome * | Go-toubun no Hanayome * | https://anilist.co/anime/177191 | Episode 1 |
 | Grendizer U | Grendizer U | https://anilist.co/anime/154195 | Episode 11 |
-| Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 569 |
+| Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 570 |
 | Harimaware! Koinu 2nd Season | Harimaware! Koinu 2nd Season | https://anilist.co/anime/176283 | Episode 11 |
 | Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | Episode 3 |
 | Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 24 |
