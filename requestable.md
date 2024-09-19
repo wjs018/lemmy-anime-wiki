@@ -21,7 +21,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Dead Dead Demon's Dededededestruction | DEAD DEAD DEMONS DEDEDEDE DESTRUCTION | https://anilist.co/anime/177697 | [Link](https://ani.social/post/5918666) |
 | Dungeon no Naka no Hito | Dungeon People | https://anilist.co/anime/168345 | [Link](https://ani.social/post/5930266) |
 | Kidou Senshi Gundam: Fukushuu no Requiem | GUNDAM: Requiem for Vengeance | https://anilist.co/anime/166703 |  |
-| Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai | I Parry Everything | https://anilist.co/anime/170695 | [Link](https://ani.social/post/5907245) |
+| Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai | I Parry Everything | https://anilist.co/anime/170695 | [Link](https://ani.social/post/6049050) |
 | Rekishi ni Nokoru Akujo ni Naruzo | I’ll Become a Villainess Who Goes Down in History | https://anilist.co/anime/168139 |  |
 | Kabushiki Gaisha Magi Lumiere | Kabushiki Gaisha Magi Lumiere | https://anilist.co/anime/171025 |  |
 | Kekkon Suru tte, Hontou desu ka: 365 Days To The Wedding | Kekkon Suru tte, Hontou desu ka: 365 Days To The Wedding | https://anilist.co/anime/165790 |  |
@@ -124,7 +124,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2062 |
 | Giji Harem | Pseudo Harem | https://anilist.co/anime/163623 | Episode 11 |
 | Kono Sekai wa Fukanzen Sugiru | Quality Assurance in Another World | https://anilist.co/anime/163077 | Episode 11 |
-| Ramen Aka Neko | Ramen Akaneko | https://anilist.co/anime/170998 | Episode 11 |
+| Ramen Aka Neko | Ramen Akaneko | https://anilist.co/anime/170998 | Episode 12 |
 | Rick and Morty: The Anime | Rick and Morty: The Anime | https://anilist.co/anime/150103 | Episode 5 |
 | SHY: Tokyo Dakkan-hen | SHY Season 2 | https://anilist.co/anime/171748 | Episode 11 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Battles | Sai-Kyo-Oh! Zukan: The Ultimate Battles | https://anilist.co/anime/173216 | Episode 37 |
