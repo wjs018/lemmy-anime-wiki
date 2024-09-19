@@ -38,6 +38,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Chi.: Chikyuu no Undou ni Tsuite | Orb: On the Movements of the Earth | https://anilist.co/anime/151514 |  |
 | [Oshi no Ko] 2nd Season | Oshi no Ko Season 2 | https://anilist.co/anime/166531 | [Link](https://ani.social/post/6026217) |
 | Puniru wa Kawaii Slime | Puniru wa Kawaii Slime | https://anilist.co/anime/171400 |  |
+| Ranma 1/2 (2024) | Ranma1/2 (2024) | https://anilist.co/anime/178533 |  |
 | Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season | Re:ZERO -Starting Life in Another World- Season 3 | https://anilist.co/anime/163134 |  |
 | Kamonohashi Ron no Kindan Suiri 2nd Season | Ron Kamonohashi’s Forbidden Deductions Season 2 | https://anilist.co/anime/172355 |  |
 | Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran | Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran | https://anilist.co/anime/171637 |  |
