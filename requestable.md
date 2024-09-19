@@ -93,7 +93,9 @@ These shows have had episodes air already, but no thread was created because the
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 149 |
 | Garden of Remembrance | Garden of Remembrance | https://anilist.co/anime/151017 | Episode 1 |
 | Girls' F1st!!!! GT | Girls' F1st!!!! GT | https://anilist.co/anime/178067 | Episode 9 |
+| Given: Umi e | Given: Umi e | https://anilist.co/anime/175199 | Episode 1 |
 | Go-Getters | Go-Getters | https://anilist.co/anime/180817 | Episode 1 |
+| Go-toubun no Hanayome * | Go-toubun no Hanayome * | https://anilist.co/anime/177191 | Episode 1 |
 | Grendizer U | Grendizer U | https://anilist.co/anime/154195 | Episode 11 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 569 |
 | Harimaware! Koinu 2nd Season | Harimaware! Koinu 2nd Season | https://anilist.co/anime/176283 | Episode 11 |
@@ -116,6 +118,7 @@ These shows have had episodes air already, but no thread was created because the
 | NieR:Automata Ver1.1a 2nd Season | NieR:Automata Ver1.1a Cour 2 | https://anilist.co/anime/167420 | Episode 10 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 135 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1119 |
+| Overlord: Sei Oukoku-hen | OVERLORD: The Sacred Kingdom | https://anilist.co/anime/133845 | Episode 1 |
 | Elf-san wa Yaserarenai. | Plus-Sized Elf | https://anilist.co/anime/173388 | Episode 11 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 65 |
 | Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2062 |
@@ -161,7 +164,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | BanG Dream! It's MyGO!!!!! Movie | BanG Dream! It's MyGO!!!!! Movie | https://anilist.co/anime/173174 | September 26 at 15:00 |
-| Given: Umi e | Given: Umi e | https://anilist.co/anime/175199 | September 19 at 15:00 |
-| Go-toubun no Hanayome * | Go-toubun no Hanayome * | https://anilist.co/anime/177191 | September 19 at 15:00 |
-| Overlord: Sei Oukoku-hen | OVERLORD: The Sacred Kingdom | https://anilist.co/anime/133845 | September 19 at 15:00 |
 {.dense}
