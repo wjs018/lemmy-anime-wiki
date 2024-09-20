@@ -43,6 +43,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kamonohashi Ron no Kindan Suiri 2nd Season | Ron Kamonohashi’s Forbidden Deductions Season 2 | https://anilist.co/anime/172355 |  |
 | Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran | Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran | https://anilist.co/anime/171637 |  |
 | Shoushimin Series | SHOSHIMIN: How to Become Ordinary | https://anilist.co/anime/173295 | [Link](https://ani.social/post/5971025) |
+| Senpai wa Otokonoko | Senpai is an Otokonoko | https://anilist.co/anime/163133 | [Link](https://ani.social/post/6060493) |
 | Shangri-La Frontier 2nd Season | Shangri-La Frontier Season 2 | https://anilist.co/anime/176508 |  |
 | Sword Art Online Alternative: Gun Gale Online II | Sword Art Online Alternative: Gun Gale Online II | https://anilist.co/anime/167141 |  |
 | Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season | Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season | https://anilist.co/anime/178434 |  |
@@ -130,7 +131,6 @@ These shows have had episodes air already, but no thread was created because the
 | Tensui no Sakuna-hime | Sakuna: Of Rice and Ruin | https://anilist.co/anime/175868 | Episode 11 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2752 |
 | Sengoku Youko: Senma Konton-hen | Sengoku Youko: The Thousandfold Chaos Arc | https://anilist.co/anime/176660 | Episode 10 |
-| Senpai wa Otokonoko | Senpai is an Otokonoko | https://anilist.co/anime/163133 | Episode 11 |
 | Shadowverse Flame: Arc-hen | Shadowverse Flame: Arc-hen | https://anilist.co/anime/172187 | Episode 21 |
 | Shimajirou no Wow! | Shimajiro: A Wonderful Adventure | https://anilist.co/anime/18941 | Episode 639 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1250 |
