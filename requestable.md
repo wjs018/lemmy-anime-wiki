@@ -19,7 +19,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Blue Lock VS. U-20 JAPAN | BLUE LOCK Season 2 | https://anilist.co/anime/163146 |  |
 | Ao no Hako | Blue Box | https://anilist.co/anime/170942 |  |
 | Dead Dead Demon's Dededededestruction | DEAD DEAD DEMONS DEDEDEDE DESTRUCTION | https://anilist.co/anime/177697 | [Link](https://ani.social/post/6060569) |
-| Dungeon no Naka no Hito | Dungeon People | https://anilist.co/anime/168345 | [Link](https://ani.social/post/5930266) |
+| Dungeon no Naka no Hito | Dungeon People | https://anilist.co/anime/168345 | [Link](https://ani.social/post/6073465) |
 | Kidou Senshi Gundam: Fukushuu no Requiem | GUNDAM: Requiem for Vengeance | https://anilist.co/anime/166703 |  |
 | Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai | I Parry Everything | https://anilist.co/anime/170695 | [Link](https://ani.social/post/6049050) |
 | Rekishi ni Nokoru Akujo ni Naruzo | I’ll Become a Villainess Who Goes Down in History | https://anilist.co/anime/168139 |  |
@@ -104,7 +104,7 @@ These shows have had episodes air already, but no thread was created because the
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 278 |
 | I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 48 |
 | JOCHUM | JOCHUM | https://anilist.co/anime/179408 | Episode 10 |
-| Kankin Kuiki Level X | Kankin Kuiki Level X | https://anilist.co/anime/180923 | Episode 2 |
+| Kankin Kuiki Level X | Kankin Kuiki Level X | https://anilist.co/anime/180923 | Episode 3 |
 | Kinnikuman: Kanpeki Choujin Shiso-hen | Kinnikuman Perfect Origin Arc | https://anilist.co/anime/162796 | Episode 11 |
 | Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 1 | Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 1 | https://anilist.co/anime/166476 | Episode 1 |
 | Mirai no Kuromakukei Akuyaku Reijou Moriarty no Isekai Kanzen Hanzai Hakusho | Mirai no Kuromakukei Akuyaku Reijou Moriarty no Isekai Kanzen Hanzai Hakusho | https://anilist.co/anime/179954 | Episode 9 |
