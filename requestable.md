@@ -92,7 +92,7 @@ These shows have had episodes air already, but no thread was created because the
 | Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 2 | Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 2 | https://anilist.co/anime/179991 | Episode 9 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 150 |
 | Garden of Remembrance | Garden of Remembrance | https://anilist.co/anime/151017 | Episode 1 |
-| Girls' F1st!!!! GT | Girls' F1st!!!! GT | https://anilist.co/anime/178067 | Episode 9 |
+| Girls' F1st!!!! GT | Girls' F1st!!!! GT | https://anilist.co/anime/178067 | Episode 10 |
 | Given: Umi e | Given: Umi e | https://anilist.co/anime/175199 | Episode 1 |
 | Go-Getters | Go-Getters | https://anilist.co/anime/180817 | Episode 1 |
 | Go-toubun no Hanayome * | Go-toubun no Hanayome * | https://anilist.co/anime/177191 | Episode 1 |
@@ -128,7 +128,7 @@ These shows have had episodes air already, but no thread was created because the
 | Rick and Morty: The Anime | Rick and Morty: The Anime | https://anilist.co/anime/150103 | Episode 6 |
 | SHY: Tokyo Dakkan-hen | SHY Season 2 | https://anilist.co/anime/171748 | Episode 11 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Battles | Sai-Kyo-Oh! Zukan: The Ultimate Battles | https://anilist.co/anime/173216 | Episode 38 |
-| Tensui no Sakuna-hime | Sakuna: Of Rice and Ruin | https://anilist.co/anime/175868 | Episode 11 |
+| Tensui no Sakuna-hime | Sakuna: Of Rice and Ruin | https://anilist.co/anime/175868 | Episode 12 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2752 |
 | Sengoku Youko: Senma Konton-hen | Sengoku Youko: The Thousandfold Chaos Arc | https://anilist.co/anime/176660 | Episode 10 |
 | Shadowverse Flame: Arc-hen | Shadowverse Flame: Arc-hen | https://anilist.co/anime/172187 | Episode 22 |
@@ -166,4 +166,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | BanG Dream! It's MyGO!!!!! Movie | BanG Dream! It's MyGO!!!!! Movie | https://anilist.co/anime/173174 | September 26 at 15:00 |
 | Goukon ni Ittara Onna ga Inakatta Hanashi | How I Attended an All-Guy's Mixer | https://anilist.co/anime/169931 | September 29 at 16:30 |
 | Nageki no Bourei ha Intai Shitai | Nageki no Bourei ha Intai Shitai | https://anilist.co/anime/175019 | October 01 at 14:30 |
+| Amagami-san Chi no Enmusubi | Tying the Knot with an Amagami Sister | https://anilist.co/anime/164172 | October 01 at 15:00 |
 {.dense}
