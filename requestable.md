@@ -85,7 +85,7 @@ These shows have had episodes air already, but no thread was created because the
 | Madougushi Dahlia wa Utsumukanai | Dahlia in Bloom: Crafting a Fresh Start with Magical Tools | https://anilist.co/anime/168623 | Episode 11 |
 | Gimai Seikatsu | Days with My Stepsister | https://anilist.co/anime/152681 | Episode 12 |
 | Delico's Nursery | Delico's Nursery | https://anilist.co/anime/167991 | Episode 7 |
-| Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 828 |
+| Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 829 |
 | Egumi Legacy | Egumi Legacy | https://anilist.co/anime/177097 | Episode 11 |
 | FAIRY TAIL: 100 YEARS QUEST | FAIRY TAIL 100 YEARS QUEST | https://anilist.co/anime/139095 | Episode 11 |
 | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells | https://anilist.co/anime/173694 | Episode 11 |
