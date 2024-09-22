@@ -260,7 +260,7 @@ Episode|Link
 8|[Link](https://ani.social/post/4457465)
 {.dense}
 
-## Kono Subarashii Sekai ni Shukufuku wo! 3 • KONOSUBA -God's Blessing on This Wonderful World! 3
+## Kono Subarashii Sekai ni Shukufuku wo! 3 • KONOSUBA -God's blessing on this wonderful world! 3
 
 Episode|Link
 :-:|:-:
