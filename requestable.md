@@ -164,6 +164,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Dandadan | DAN DA DAN | https://anilist.co/anime/171018 | October 03 at 15:26 |
 | Elf-san wa Yaserarenai. Specials | Elf-san wa Yaserarenai. Specials | https://anilist.co/anime/179126 | September 28 at 16:00 |
 | Fureru. | Fureru. | https://anilist.co/anime/171109 | October 03 at 15:00 |
+| Sayonara Ryuusei Konnichiwa Jinsei | Good Bye, Dragon Life | https://anilist.co/anime/176053 | October 03 at 17:00 |
 | Hamidashi Creative | Hamidashi Creative | https://anilist.co/anime/169098 | October 03 at 17:00 |
 | Goukon ni Ittara Onna ga Inakatta Hanashi | How I Attended an All-Guy's Mixer | https://anilist.co/anime/169931 | September 29 at 16:30 |
 | Kinokoinu | Kinokoinu | https://anilist.co/anime/177581 | October 03 at 12:00 |
