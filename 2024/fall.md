@@ -8,5 +8,12 @@ editor: markdown
 dateCreated: 2024-09-23T02:42:37.398Z
 ---
 
-# Header
-Your content here
+Below, you can find an index of all the discussion threads for shows from the Fall 2024 anime season. Not every episode of every show may have a discussion thread. To more easily find the show you are looking for, use the navigation menu for this page or use Ctrl+F.
+
+## Murai no Koi • Murai In Love
+
+Episode|Link
+:-:|:-:
+3|[Link](https://ani.social/post/6020507)
+{.dense}
+
