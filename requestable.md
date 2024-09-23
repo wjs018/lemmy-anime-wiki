@@ -162,6 +162,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | BanG Dream! It's MyGO!!!!!: Haru no Hidamari, Mayoi Neko | BanG Dream! It's MyGO!!!!!: Haru no Hidamari, Mayoi Neko | https://anilist.co/anime/173174 | September 26 at 15:00 |
 | Elf-san wa Yaserarenai. Specials | Elf-san wa Yaserarenai. Specials | https://anilist.co/anime/179126 | September 28 at 16:00 |
+| Fureru. | Fureru. | https://anilist.co/anime/171109 | October 03 at 15:00 |
 | Goukon ni Ittara Onna ga Inakatta Hanashi | How I Attended an All-Guy's Mixer | https://anilist.co/anime/169931 | September 29 at 16:30 |
 | Kinokoinu | Kinokoinu | https://anilist.co/anime/177581 | October 03 at 12:00 |
 | Nageki no Bourei ha Intai Shitai | Let This Grieving Soul Retire | https://anilist.co/anime/175019 | October 01 at 14:30 |
