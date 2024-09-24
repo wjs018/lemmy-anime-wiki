@@ -108,6 +108,7 @@ Episode|Link
 8|[Link](https://ani.social/post/5476451)
 9|[Link](https://ani.social/post/5623820)
 10|[Link](https://ani.social/post/5760767)
+12|[Link](https://ani.social/post/6157823)
 {.dense}
 
 ## Gimai Seikatsu • Days with My Stepsister
@@ -152,6 +153,7 @@ Episode|Link
 9|[Link](https://ani.social/post/5719117)
 10|[Link](https://ani.social/post/5863868)
 11|[Link](https://ani.social/post/6006974)
+12|[Link](https://ani.social/post/6157819)
 {.dense}
 
 ## Isekai Suicide Squad • Suicide Squad ISEKAI
