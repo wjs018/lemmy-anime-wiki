@@ -33,7 +33,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | NegaPosi Angler | Negative Positive Angler | https://anilist.co/anime/179919 |  |
 | Isekai Shikkaku | No Longer Allowed in Another World | https://anilist.co/anime/152137 | [Link](https://ani.social/post/6157819) |
 | Chi.: Chikyuu no Undou ni Tsuite | Orb: On the Movements of the Earth | https://anilist.co/anime/151514 |  |
-| [Oshi no Ko] 2nd Season | Oshi no Ko Season 2 | https://anilist.co/anime/166531 | [Link](https://ani.social/post/6026217) |
+| [Oshi no Ko] 2nd Season | Oshi no Ko Season 2 | https://anilist.co/anime/166531 | [Link](https://ani.social/post/6180923) |
 | Giji Harem | Pseudo Harem | https://anilist.co/anime/163623 | [Link](https://ani.social/post/6157823) |
 | Puniru wa Kawaii Slime | Puniru wa Kawaii Slime | https://anilist.co/anime/171400 |  |
 | Ranma 1/2 (2024) | Ranma1/2 (2024) | https://anilist.co/anime/178533 |  |
