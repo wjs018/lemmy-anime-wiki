@@ -252,6 +252,7 @@ Episode|Link
 9|[Link](https://ani.social/post/5739388)
 10|[Link](https://ani.social/post/5884956)
 11|[Link](https://ani.social/post/6026837)
+12|[Link](https://ani.social/post/6181506)
 {.dense}
 
 ## Kono Sekai wa Fukanzen Sugiru • Quality Assurance in Another World
