@@ -25,7 +25,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Rekishi ni Nokoru Akujo ni Naruzo | I’ll Become a Villainess Who Goes Down in History | https://anilist.co/anime/168139 |  |
 | Kabushiki Gaisha Magi Lumiere | Kabushiki Gaisha Magi Lumiere | https://anilist.co/anime/171025 |  |
 | Hitoribocchi no Isekai Kouryaku | Loner Life in Another World | https://anilist.co/anime/173693 |  |
-| Koi wa Futago de Warikirenai | Love Is Indivisible by Twins | https://anilist.co/anime/167144 | [Link](https://ani.social/post/6026837) |
+| Koi wa Futago de Warikirenai | Love Is Indivisible by Twins | https://anilist.co/anime/167144 | [Link](https://ani.social/post/6181506) |
 | MF Ghost 2nd Season | MF GHOST Season 2 | https://anilist.co/anime/171642 |  |
 | Make Heroine ga Oosugiru! | Makeine: Too Many Losing Heroines! | https://anilist.co/anime/171457 | [Link](https://ani.social/post/6094283) |
 | Mecha-ude (TV) | Mecha Ude: Mechanical Arms | https://anilist.co/anime/154673 |  |
@@ -162,6 +162,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | BLEACH: Sennen Kessen-hen - Soukoku-tan | BLEACH: Thousand-Year Blood War - The Conflict | https://anilist.co/anime/169755 | October 05 at 14:00 |
 | BanG Dream! It's MyGO!!!!!: Haru no Hidamari, Mayoi Neko | BanG Dream! It's MyGO!!!!!: Haru no Hidamari, Mayoi Neko | https://anilist.co/anime/173174 | September 26 at 15:00 |
+| Ao no Exorcist: Yuki no Hate-hen | Blue Exorcist -Beyond the Snow Saga- | https://anilist.co/anime/176311 | October 05 at 15:30 |
 | Dandadan | DAN DA DAN | https://anilist.co/anime/171018 | October 03 at 15:26 |
 | Maou-sama, Retry! R | Demon Lord, Retry! R | https://anilist.co/anime/168500 | September 28 at 14:00 |
 | Duel Masters LOST: Tsuioku no Suishou | Duel Masters LOST: Tsuioku no Suishou | https://anilist.co/anime/175473 | October 04 at 11:00 |
