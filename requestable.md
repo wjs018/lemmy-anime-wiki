@@ -171,7 +171,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Goukon ni Ittara Onna ga Inakatta Hanashi | How I Attended an All-Guy's Mixer | https://anilist.co/anime/169931 | September 29 at 16:30 |
 | Hyakushou Kizoku 2nd Season | Hyakushou Kizoku 2nd Season | https://anilist.co/anime/171689 | October 04 at 12:54 |
 | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen | Is It Wrong To Try To Pick Up Girls in a Dungeon? V | https://anilist.co/anime/170732 | October 04 at 15:30 |
-| Kagaku×Bouken Survival! | Kagaku×Bouken Survival! | https://anilist.co/anime/174913 | October 04 at 21:26 |
+| Kagaku×Bouken Survival! | Kagaku×Bouken Survival! | https://anilist.co/anime/174913 | October 05 at 09:26 |
 | Kamierabi GOD.app Season 2 | Kamierabi GOD.app Season 2 | https://anilist.co/anime/172199 | October 02 at 15:56 |
 | Kinokoinu | Kinokoinu | https://anilist.co/anime/177581 | October 03 at 12:00 |
 | Kumarba Season 2 | Kumarba Season 2 | https://anilist.co/anime/178395 | October 04 at 22:00 |
