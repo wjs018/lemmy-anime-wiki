@@ -24,6 +24,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kidou Senshi Gundam: Fukushuu no Requiem | GUNDAM: Requiem for Vengeance | https://anilist.co/anime/166703 |  |
 | Rekishi ni Nokoru Akujo ni Naruzo | I’ll Become a Villainess Who Goes Down in History | https://anilist.co/anime/168139 |  |
 | Kabushiki Gaisha Magi Lumiere | Kabushiki Gaisha Magi Lumiere | https://anilist.co/anime/171025 |  |
+| Hitoribocchi no Isekai Kouryaku | Loner Life in Another World | https://anilist.co/anime/173693 | [Link](https://ani.social/post/6203235) |
 | Koi wa Futago de Warikirenai | Love Is Indivisible by Twins | https://anilist.co/anime/167144 | [Link](https://ani.social/post/6181506) |
 | MF Ghost 2nd Season | MF GHOST Season 2 | https://anilist.co/anime/171642 |  |
 | Make Heroine ga Oosugiru! | Makeine: Too Many Losing Heroines! | https://anilist.co/anime/171457 | [Link](https://ani.social/post/6094283) |
@@ -176,7 +177,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Kinokoinu | Kinokoinu | https://anilist.co/anime/177581 | October 03 at 12:00 |
 | Kumarba Season 2 | Kumarba Season 2 | https://anilist.co/anime/178395 | October 04 at 22:00 |
 | Nageki no Bourei ha Intai Shitai | Let This Grieving Soul Retire | https://anilist.co/anime/175019 | September 29 at 14:30 |
-| Hitoribocchi no Isekai Kouryaku | Loner Life in Another World | https://anilist.co/anime/173693 | October 03 at 15:00 |
 | Love Live! Superstar!! 3rd Season | Love Live! Superstar!! 3rd Season | https://anilist.co/anime/155502 | October 06 at 08:00 |
 | Ooi! Tonbo 2nd Season | Ooi! Tonbo 2nd Season | https://anilist.co/anime/178729 | October 05 at 01:00 |
 | Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki | Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki | https://anilist.co/anime/174043 | October 05 at 17:00 |
