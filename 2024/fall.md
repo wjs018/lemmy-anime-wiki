@@ -14,7 +14,7 @@ Below, you can find an index of all the discussion threads for shows from the Fa
 
 Episode|Link
 :-:|:-:
-1|[Link](https://ani.social/post/6202547)
+1|[Link](https://ani.social/post/6203235)
 {.dense}
 
 ## Murai no Koi • Murai In Love
