@@ -72,7 +72,7 @@ These shows have had episodes air already, but no thread was created because the
 | Atashin'chi NEXT | Atashin'chi NEXT | https://anilist.co/anime/173313 | Episode 4 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 50 |
 | BanG Dream! It's MyGO!!!!!: Haru no Hidamari, Mayoi Neko | BanG Dream! It's MyGO!!!!!: Haru no Hidamari, Mayoi Neko | https://anilist.co/anime/173174 | Episode 1 |
-| BONOBONO (2016) | Bono Bono (2016) | https://anilist.co/anime/21552 | Episode 428 |
+| BONOBONO (2016) | Bono Bono (2016) | https://anilist.co/anime/21552 | Episode 429 |
 | Bye Bye, Earth | Bye Bye, Earth | https://anilist.co/anime/157371 | Episode 11 |
 | Cardfight!! Vanguard: Divinez Season 2 | CARDFIGHT!! VANGUARD Divinez Season 2 | https://anilist.co/anime/165681 | Episode 10 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1135 |
