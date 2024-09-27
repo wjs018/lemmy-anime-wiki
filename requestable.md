@@ -135,6 +135,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1669 |
 | Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF | Spice and Wolf: MERCHANT MEETS THE WISE WOLF | https://anilist.co/anime/145728 | Episode 25 |
 | Tasuuketsu | Tasuketsu -Fate of the Majority- | https://anilist.co/anime/174070 | Episode 11 |
+| Tensei Shitara Slime Datta Ken 3rd Season | That Time I Got Reincarnated as a Slime Season 3 | https://anilist.co/anime/156822 | Episode 24 |
 | Megami no Café Terrace 2nd Season | The Café Terrace and Its Goddesses Season 2 | https://anilist.co/anime/166477 | Episode 12 |
 | Kimi no Iro | The Colors Within | https://anilist.co/anime/158166 | Episode 1 |
 | Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita. | The Magical Girl and the Evil Lieutenant Used to Be Archenemies | https://anilist.co/anime/170938 | Episode 12 |
@@ -183,7 +184,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki | Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki | https://anilist.co/anime/174043 | October 05 at 17:00 |
 | Punirunes Puni 2 | Punirunes Puni 2 | https://anilist.co/anime/179292 | October 06 at 00:15 |
 | Shibuya♡Hachi Part 2 | Shibuya♡Hachi Part 2 | https://anilist.co/anime/181835 | October 04 at 22:00 |
-| Tensei Shitara Slime Datta Ken 3rd Season | That Time I Got Reincarnated as a Slime Season 3 | https://anilist.co/anime/156822 | September 27 at 15:00 |
 | Saikyou no Shien-shoku [Wajutsushi] Dearu Ore wa Sekai Saikyou Clan wo Shitagaeru | The Most Notorious "Talker" Runs the World's Greatest Clan | https://anilist.co/anime/177104 | September 30 at 15:00 |
 | Shin Tennis no Ouji-sama: U-17 WORLD CUP SEMIFINAL | The Prince of Tennis II U-17 World Cup Semifinal | https://anilist.co/anime/165810 | October 02 at 15:00 |
 | Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season | The Seven Deadly Sins: Four Knights of the Apocalypse Season 2 | https://anilist.co/anime/176292 | October 06 at 07:30 |
