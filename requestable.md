@@ -114,7 +114,7 @@ These shows have had episodes air already, but no thread was created because the
 | Boku no Tsuma wa Kanjou ga Nai | My Wife Has No Emotion | https://anilist.co/anime/175450 | Episode 12 |
 | Naoe-kun wa Yasesasetai. | Naoe-kun wa Yasesasetai. | https://anilist.co/anime/179212 | Episode 12 |
 | Na-Nare Hana-Nare | Narenare -Cheer for you!- | https://anilist.co/anime/170891 | Episode 12 |
-| Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 136 |
+| Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 137 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1120 |
 | Overlord: Sei Oukoku-hen | OVERLORD: The Sacred Kingdom | https://anilist.co/anime/133845 | Episode 1 |
 | Elf-san wa Yaserarenai. | Plus-Sized Elf | https://anilist.co/anime/173388 | Episode 12 |
