@@ -122,7 +122,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2063 |
 | Kono Sekai wa Fukanzen Sugiru | Quality Assurance in Another World | https://anilist.co/anime/163077 | Episode 12 |
 | Ramen Aka Neko | Ramen Akaneko | https://anilist.co/anime/170998 | Episode 12 |
-| Rick and Morty: The Anime | Rick and Morty: The Anime | https://anilist.co/anime/150103 | Episode 6 |
+| Rick and Morty: The Anime | Rick and Morty: The Anime | https://anilist.co/anime/150103 | Episode 7 |
 | Shoushimin Series | SHOSHIMIN: How to Become Ordinary | https://anilist.co/anime/173295 | Episode 9 |
 | SHY: Tokyo Dakkan-hen | SHY Season 2 | https://anilist.co/anime/171748 | Episode 12 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Battles | Sai-Kyo-Oh! Zukan: The Ultimate Battles | https://anilist.co/anime/173216 | Episode 38 |
