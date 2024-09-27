@@ -178,6 +178,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Kumarba Season 2 | Kumarba Season 2 | https://anilist.co/anime/178395 | October 04 at 22:00 |
 | Nageki no Bourei ha Intai Shitai | Let This Grieving Soul Retire | https://anilist.co/anime/175019 | September 29 at 14:30 |
 | Love Live! Superstar!! 3rd Season | Love Live! Superstar!! 3rd Season | https://anilist.co/anime/155502 | October 06 at 08:00 |
+| Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | October 07 at 04:00 |
 | Ooi! Tonbo 2nd Season | Ooi! Tonbo 2nd Season | https://anilist.co/anime/178729 | October 05 at 01:00 |
 | Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki | Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki | https://anilist.co/anime/174043 | October 05 at 17:00 |
 | Punirunes Puni 2 | Punirunes Puni 2 | https://anilist.co/anime/179292 | October 06 at 00:15 |
