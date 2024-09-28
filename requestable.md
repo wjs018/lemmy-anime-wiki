@@ -137,6 +137,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF | Spice and Wolf: MERCHANT MEETS THE WISE WOLF | https://anilist.co/anime/145728 | Episode 25 |
 | Tasuuketsu | Tasuketsu -Fate of the Majority- | https://anilist.co/anime/174070 | Episode 11 |
 | Megami no Café Terrace 2nd Season | The Café Terrace and Its Goddesses Season 2 | https://anilist.co/anime/166477 | Episode 12 |
+| Nige Jouzu no Wakagimi | The Elusive Samurai | https://anilist.co/anime/162896 | Episode 12 |
 | Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita. | The Magical Girl and the Evil Lieutenant Used to Be Archenemies | https://anilist.co/anime/170938 | Episode 12 |
 | Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru. | The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible | https://anilist.co/anime/163292 | Episode 12 |
 | Maou Gun Saikyou no Majutsushi wa Ningen datta | The Strongest Magician in the Demon Lord's Army was a Human | https://anilist.co/anime/173584 | Episode 12 |
@@ -184,7 +185,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Punirunes Puni 2 | Punirunes Puni 2 | https://anilist.co/anime/179292 | October 06 at 00:15 |
 | Seirei Gensouki 2 | Seirei Gensouki: Spirit Chronicles Season 2 | https://anilist.co/anime/141182 | October 07 at 16:30 |
 | Shibuya♡Hachi Part 2 | Shibuya♡Hachi Part 2 | https://anilist.co/anime/181835 | October 04 at 22:00 |
-| Nige Jouzu no Wakagimi | The Elusive Samurai | https://anilist.co/anime/162896 | September 28 at 15:30 |
 | Saikyou no Shien-shoku [Wajutsushi] Dearu Ore wa Sekai Saikyou Clan wo Shitagaeru | The Most Notorious "Talker" Runs the World's Greatest Clan | https://anilist.co/anime/177104 | September 30 at 15:00 |
 | Shin Tennis no Ouji-sama: U-17 WORLD CUP SEMIFINAL | The Prince of Tennis II U-17 World Cup Semifinal | https://anilist.co/anime/165810 | October 02 at 15:00 |
 | Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season | The Seven Deadly Sins: Four Knights of the Apocalypse Season 2 | https://anilist.co/anime/176292 | October 06 at 07:30 |
