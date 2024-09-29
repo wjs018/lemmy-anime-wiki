@@ -24,3 +24,10 @@ Episode|Link
 3|[Link](https://ani.social/post/6020507)
 {.dense}
 
+## Uzumaki
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/6256378)
+{.dense}
+
