@@ -24,6 +24,13 @@ Episode|Link
 3|[Link](https://ani.social/post/6020507)
 {.dense}
 
+## Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season • As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/6264380)
+{.dense}
+
 ## Uzumaki
 
 Episode|Link
