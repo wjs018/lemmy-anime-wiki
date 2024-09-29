@@ -183,7 +183,7 @@ Episode|Link
 4|[Link](https://ani.social/post/4854635)
 {.dense}
 
-## Kami no Tou: Tower of God - Ouji no Kikan • Tower of God Season 2
+## Kami no Tou: Tower of God 2nd Season • Tower of God Season 2
 
 Episode|Link
 :-:|:-:
