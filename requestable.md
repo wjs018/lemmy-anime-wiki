@@ -89,6 +89,7 @@ These shows have had episodes air already, but no thread was created because the
 | Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | Episode 4 |
 | Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 26 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 280 |
+| Goukon ni Ittara Onna ga Inakatta Hanashi | How I Attended an All-Guy's Mixer | https://anilist.co/anime/169931 | Episode 1 |
 | I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 49 |
 | JOCHUM | JOCHUM | https://anilist.co/anime/179408 | Episode 12 |
 | Kankin Kuiki Level X | Kankin Kuiki Level X | https://anilist.co/anime/180923 | Episode 4 |
@@ -164,7 +165,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Sayonara Ryuusei Konnichiwa Jinsei | Good Bye, Dragon Life | https://anilist.co/anime/176053 | October 03 at 17:00 |
 | Haigakura | Haigakura | https://anilist.co/anime/168537 | October 07 at 13:00 |
 | Hamidashi Creative | Hamidashi Creative | https://anilist.co/anime/169098 | October 03 at 17:00 |
-| Goukon ni Ittara Onna ga Inakatta Hanashi | How I Attended an All-Guy's Mixer | https://anilist.co/anime/169931 | September 29 at 16:30 |
 | Hyakushou Kizoku 2nd Season | Hyakushou Kizoku 2nd Season | https://anilist.co/anime/171689 | October 04 at 12:54 |
 | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen | Is It Wrong To Try To Pick Up Girls in a Dungeon? V | https://anilist.co/anime/170732 | October 04 at 15:30 |
 | Kagaku×Bouken Survival! | Kagaku×Bouken Survival! | https://anilist.co/anime/174913 | October 05 at 09:26 |
