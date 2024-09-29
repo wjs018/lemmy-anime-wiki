@@ -89,7 +89,6 @@ These shows have had episodes air already, but no thread was created because the
 | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells | https://anilist.co/anime/173694 | Episode 12 |
 | Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 2 | Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 2 | https://anilist.co/anime/179991 | Episode 10 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 151 |
-| Garden of Remembrance | Garden of Remembrance | https://anilist.co/anime/151017 | Episode 1 |
 | Girls' F1st!!!! GT | Girls' F1st!!!! GT | https://anilist.co/anime/178067 | Episode 10 |
 | Given: Umi e | Given: Umi e | https://anilist.co/anime/175199 | Episode 1 |
 | Go-Getters | Go-Getters | https://anilist.co/anime/180817 | Episode 1 |
@@ -98,7 +97,7 @@ These shows have had episodes air already, but no thread was created because the
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 571 |
 | Harimaware! Koinu 2nd Season | Harimaware! Koinu 2nd Season | https://anilist.co/anime/176283 | Episode 12 |
 | Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | Episode 4 |
-| Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 25 |
+| Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 26 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 279 |
 | I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 49 |
 | JOCHUM | JOCHUM | https://anilist.co/anime/179408 | Episode 12 |
