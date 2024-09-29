@@ -179,6 +179,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Seirei Gensouki 2 | Seirei Gensouki: Spirit Chronicles Season 2 | https://anilist.co/anime/141182 | October 07 at 16:30 |
 | Shibuya♡Hachi Part 2 | Shibuya♡Hachi Part 2 | https://anilist.co/anime/181835 | October 04 at 22:00 |
 | Tensei Shitara Slime Datta Ken 3rd Season | That Time I Got Reincarnated as a Slime Season 3 | https://anilist.co/anime/156822 | October 04 at 15:00 |
+| Yarinaoshi Reijou wa Ryuutei Heika wo Kouryaku-chuu | The Do-Over Damsel Conquers The Dragon Emperor | https://anilist.co/anime/164299 | October 09 at 13:00 |
 | Saikyou no Shien-shoku [Wajutsushi] Dearu Ore wa Sekai Saikyou Clan wo Shitagaeru | The Most Notorious "Talker" Runs the World's Greatest Clan | https://anilist.co/anime/177104 | September 30 at 15:00 |
 | Shin Tennis no Ouji-sama: U-17 WORLD CUP SEMIFINAL | The Prince of Tennis II U-17 World Cup Semifinal | https://anilist.co/anime/165810 | October 02 at 15:00 |
 | Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season | The Seven Deadly Sins: Four Knights of the Apocalypse Season 2 | https://anilist.co/anime/176292 | October 06 at 07:30 |
