@@ -16,7 +16,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | :-------- | :---------------- | :----------- | :--------------------: |
 | Kekkon Suru tte, Hontou desu ka: 365 Days To The Wedding | 365 Days to the Wedding | https://anilist.co/anime/165790 |  |
 | Acro Trip | Acro Trip | https://anilist.co/anime/157965 |  |
-| Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season | As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2 | https://anilist.co/anime/178434 |  |
+| Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season | As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2 | https://anilist.co/anime/178434 | [Link](https://ani.social/post/6264380) |
 | Blue Lock VS. U-20 JAPAN | BLUE LOCK Season 2 | https://anilist.co/anime/163146 |  |
 | Ao no Hako | Blue Box | https://anilist.co/anime/170942 |  |
 | Kidou Senshi Gundam: Fukushuu no Requiem | GUNDAM: Requiem for Vengeance | https://anilist.co/anime/166703 |  |
@@ -93,6 +93,7 @@ These shows have had episodes air already, but no thread was created because the
 | JOCHUM | JOCHUM | https://anilist.co/anime/179408 | Episode 12 |
 | Kankin Kuiki Level X | Kankin Kuiki Level X | https://anilist.co/anime/180923 | Episode 4 |
 | Kinnikuman: Kanpeki Choujin Shiso-hen | Kinnikuman Perfect Origin Arc | https://anilist.co/anime/162796 | Episode 12 |
+| Nageki no Bourei ha Intai Shitai | Let This Grieving Soul Retire | https://anilist.co/anime/175019 | Episode 1 |
 | Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 1 | Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 1 | https://anilist.co/anime/166476 | Episode 1 |
 | Mayonaka Punch | Mayonaka Punch | https://anilist.co/anime/174044 | Episode 12 |
 | Mirai no Kuromakukei Akuyaku Reijou Moriarty no Isekai Kanzen Hanzai Hakusho | Mirai no Kuromakukei Akuyaku Reijou Moriarty no Isekai Kanzen Hanzai Hakusho | https://anilist.co/anime/179954 | Episode 9 |
@@ -170,7 +171,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Kamierabi GOD.app Season 2 | Kamierabi GOD.app Season 2 | https://anilist.co/anime/172199 | October 02 at 15:56 |
 | Kinokoinu | Kinokoinu | https://anilist.co/anime/177581 | October 03 at 12:00 |
 | Kumarba Season 2 | Kumarba Season 2 | https://anilist.co/anime/178395 | October 04 at 22:00 |
-| Nageki no Bourei ha Intai Shitai | Let This Grieving Soul Retire | https://anilist.co/anime/175019 | September 29 at 14:30 |
 | Love Live! Superstar!! 3rd Season | Love Live! Superstar!! 3rd Season | https://anilist.co/anime/155502 | October 06 at 08:00 |
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | October 07 at 04:00 |
 | Ooi! Tonbo 2nd Season | Ooi! Tonbo 2nd Season | https://anilist.co/anime/178729 | October 05 at 01:00 |
