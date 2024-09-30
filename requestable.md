@@ -173,6 +173,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Kumarba Season 2 | Kumarba Season 2 | https://anilist.co/anime/178395 | October 04 at 22:00 |
 | Love Live! Superstar!! 3rd Season | Love Live! Superstar!! 3rd Season | https://anilist.co/anime/155502 | October 06 at 08:00 |
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | October 07 at 04:00 |
+| Hoshi Furu Oukoku no Nina | Nina the Starry Bride | https://anilist.co/anime/171038 | October 10 at 13:00 |
 | Ooi! Tonbo 2nd Season | Ooi! Tonbo 2nd Season | https://anilist.co/anime/178729 | October 05 at 01:00 |
 | Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki | Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki | https://anilist.co/anime/174043 | October 05 at 17:00 |
 | Punirunes Puni 2 | Punirunes Puni 2 | https://anilist.co/anime/179292 | October 06 at 00:15 |
@@ -186,6 +187,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Mahoutsukai ni Narenakatta Onnanoko no Hanashi. | The Stories of Girls Who Couldn't Be Magicians | https://anilist.co/anime/107372 | October 04 at 16:53 |
 | The iDOLM@STER: Shiny Colors 2nd season | The iDOLM@STER: Shiny Colors 2nd season | https://anilist.co/anime/175533 | October 04 at 16:23 |
 | Thunderbolt Fantasy: Touriken Yuuki 4 | Thunderbolt Fantasy: Touriken Yuuki 4 | https://anilist.co/anime/138522 | October 05 at 13:00 |
+| Tono to Inu | Tono to Inu | https://anilist.co/anime/174390 | October 10 at 12:54 |
 | Touhai: Ura Rate Mahjong Touhai Roku | Touhai: Ura Rate Mahjong Touhai Roku | https://anilist.co/anime/173263 | October 04 at 17:23 |
 | Amagami-san Chi no Enmusubi | Tying the Knot with an Amagami Sister | https://anilist.co/anime/164172 | October 01 at 15:00 |
 {.dense}
