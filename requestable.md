@@ -176,6 +176,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | October 07 at 04:00 |
 | Hoshi Furu Oukoku no Nina | Nina the Starry Bride | https://anilist.co/anime/171038 | October 10 at 13:00 |
 | Ooi! Tonbo 2nd Season | Ooi! Tonbo 2nd Season | https://anilist.co/anime/178729 | October 05 at 01:00 |
+| POKÉTOON (2024) | POKÉTOON (2024) | https://anilist.co/anime/182386 | October 01 at 15:00 |
 | Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki | Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki | https://anilist.co/anime/174043 | October 05 at 17:00 |
 | Punirunes Puni 2 | Punirunes Puni 2 | https://anilist.co/anime/179292 | October 06 at 00:15 |
 | Seirei Gensouki 2 | Seirei Gensouki: Spirit Chronicles Season 2 | https://anilist.co/anime/141182 | October 07 at 16:30 |
