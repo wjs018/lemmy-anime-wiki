@@ -24,6 +24,13 @@ Episode|Link
 3|[Link](https://ani.social/post/6020507)
 {.dense}
 
+## Nageki no Bourei ha Intai Shitai • Let This Grieving Soul Retire
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/6288944)
+{.dense}
+
 ## Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season • As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2
 
 Episode|Link
