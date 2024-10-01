@@ -130,7 +130,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shinkalion: Change the World | Shinkalion: Change the World | https://anilist.co/anime/172395 | Episode 24 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1669 |
 | Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF | Spice and Wolf: MERCHANT MEETS THE WISE WOLF | https://anilist.co/anime/145728 | Episode 25 |
-| Tasuuketsu | Tasuketsu -Fate of the Majority- | https://anilist.co/anime/174070 | Episode 11 |
+| Tasuuketsu | Tasuketsu -Fate of the Majority- | https://anilist.co/anime/174070 | Episode 12 |
 | Megami no Café Terrace 2nd Season | The Café Terrace and Its Goddesses Season 2 | https://anilist.co/anime/166477 | Episode 12 |
 | Nige Jouzu no Wakagimi | The Elusive Samurai | https://anilist.co/anime/162896 | Episode 12 |
 | The Fable | The Fable | https://anilist.co/anime/166910 | Episode 25 |
