@@ -31,6 +31,13 @@ Episode|Link
 1|[Link](https://ani.social/post/6288944)
 {.dense}
 
+## Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season • Re:ZERO -Starting Life in Another World- Season 3
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/6322668)
+{.dense}
+
 ## Rekishi ni Nokoru Akujo ni Naruzo • I’ll Become a Villainess Who Goes Down in History
 
 Episode|Link
