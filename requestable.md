@@ -117,6 +117,7 @@ These shows have had episodes air already, but no thread was created because the
 | Giji Harem | Pseudo Harem | https://anilist.co/anime/163623 | Episode 11 |
 | Kono Sekai wa Fukanzen Sugiru | Quality Assurance in Another World | https://anilist.co/anime/163077 | Episode 12 |
 | Ramen Aka Neko | Ramen Akaneko | https://anilist.co/anime/170998 | Episode 12 |
+| Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | https://anilist.co/anime/182417 | Episode 1 |
 | Rick and Morty: The Anime | Rick and Morty: The Anime | https://anilist.co/anime/150103 | Episode 7 |
 | Shoushimin Series | SHOSHIMIN: How to Become Ordinary | https://anilist.co/anime/173295 | Episode 9 |
 | SHY: Tokyo Dakkan-hen | SHY Season 2 | https://anilist.co/anime/171748 | Episode 12 |
@@ -137,6 +138,7 @@ These shows have had episodes air already, but no thread was created because the
 | Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita. | The Magical Girl and the Evil Lieutenant Used to Be Archenemies | https://anilist.co/anime/170938 | Episode 12 |
 | Saikyou no Shien-shoku [Wajutsushi] Dearu Ore wa Sekai Saikyou Clan wo Shitagaeru | The Most Notorious "Talker" Runs the World's Greatest Clan | https://anilist.co/anime/177104 | Episode 1 |
 | Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru. | The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible | https://anilist.co/anime/163292 | Episode 12 |
+| Shin Tennis no Ouji-sama: U-17 WORLD CUP SEMIFINAL | The Prince of Tennis II U-17 World Cup Semifinal | https://anilist.co/anime/165810 | Episode 1 |
 | Maou Gun Saikyou no Majutsushi wa Ningen datta | The Strongest Magician in the Demon Lord's Army was a Human | https://anilist.co/anime/173584 | Episode 12 |
 | Yami Shibai 13 | Theatre of Darkness: Yamishibai 13 | https://anilist.co/anime/177922 | Episode 12 |
 | Tousouchuu: Great Mission | Tousouchuu: Great Mission | https://anilist.co/anime/159560 | Episode 74 |
@@ -163,6 +165,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | BLEACH: Sennen Kessen-hen - Soukoku-tan | BLEACH: Thousand-Year Blood War - The Conflict | https://anilist.co/anime/169755 | October 05 at 14:00 |
 | Ao no Exorcist: Yuki no Hate-hen | Blue Exorcist -Beyond the Snow Saga- | https://anilist.co/anime/176311 | October 05 at 15:30 |
 | Dandadan | DAN DA DAN | https://anilist.co/anime/171018 | October 03 at 15:26 |
+| Maou 2099 | Demon Lord 2099 | https://anilist.co/anime/163135 | October 12 at 15:00 |
 | Dragon Ball DAIMA | Dragon Ball DAIMA | https://anilist.co/anime/170083 | October 11 at 14:40 |
 | Duel Masters LOST: Tsuioku no Suishou | Duel Masters LOST: Tsuioku no Suishou | https://anilist.co/anime/175473 | October 04 at 11:00 |
 | Fureru. | Fureru. | https://anilist.co/anime/171109 | October 03 at 15:00 |
@@ -181,12 +184,10 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Ooi! Tonbo 2nd Season | Ooi! Tonbo 2nd Season | https://anilist.co/anime/178729 | October 05 at 01:00 |
 | Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki | Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki | https://anilist.co/anime/174043 | October 05 at 17:00 |
 | Punirunes Puni 2 | Punirunes Puni 2 | https://anilist.co/anime/179292 | October 06 at 00:15 |
-| Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | https://anilist.co/anime/182417 | October 02 at 15:00 |
 | Seirei Gensouki 2 | Seirei Gensouki: Spirit Chronicles Season 2 | https://anilist.co/anime/141182 | October 07 at 16:30 |
 | Shibuya♡Hachi Part 2 | Shibuya♡Hachi Part 2 | https://anilist.co/anime/181835 | October 04 at 22:00 |
 | Tensei Shitara Slime Datta Ken 3rd Season | That Time I Got Reincarnated as a Slime Season 3 | https://anilist.co/anime/156822 | October 04 at 15:00 |
 | Yarinaoshi Reijou wa Ryuutei Heika wo Kouryaku-chuu | The Do-Over Damsel Conquers The Dragon Emperor | https://anilist.co/anime/164299 | October 09 at 13:00 |
-| Shin Tennis no Ouji-sama: U-17 WORLD CUP SEMIFINAL | The Prince of Tennis II U-17 World Cup Semifinal | https://anilist.co/anime/165810 | October 02 at 15:00 |
 | Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season | The Seven Deadly Sins: Four Knights of the Apocalypse Season 2 | https://anilist.co/anime/176292 | October 06 at 07:30 |
 | Mahoutsukai ni Narenakatta Onnanoko no Hanashi. | The Stories of Girls Who Couldn't Be Magicians | https://anilist.co/anime/107372 | October 04 at 16:53 |
 | The iDOLM@STER: Shiny Colors 2nd season | The iDOLM@STER: Shiny Colors 2nd season | https://anilist.co/anime/175533 | October 04 at 16:23 |
