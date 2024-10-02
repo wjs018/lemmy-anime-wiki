@@ -24,7 +24,7 @@ Episode|Link
 3|[Link](https://ani.social/post/6020507)
 {.dense}
 
-## Nageki no Bourei ha Intai Shitai • Let This Grieving Soul Retire
+## Nageki no Bourei wa Intai Shitai • Let This Grieving Soul Retire
 
 Episode|Link
 :-:|:-:
