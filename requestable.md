@@ -15,7 +15,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
 | Kekkon Suru tte, Hontou desu ka: 365 Days To The Wedding | 365 Days to the Wedding | https://anilist.co/anime/165790 |  |
-| Acro Trip | Acro Trip | https://anilist.co/anime/157965 |  |
+| Acro Trip | Acro Trip | https://anilist.co/anime/157965 | [Link](https://ani.social/post/6322928) |
 | Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season | As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2 | https://anilist.co/anime/178434 | [Link](https://ani.social/post/6264380) |
 | Blue Lock VS. U-20 JAPAN | BLUE LOCK Season 2 | https://anilist.co/anime/163146 |  |
 | Ao no Hako | Blue Box | https://anilist.co/anime/170942 |  |
