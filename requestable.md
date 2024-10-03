@@ -90,7 +90,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sayonara Ryuusei Konnichiwa Jinsei | Good Bye, Dragon Life | https://anilist.co/anime/176053 | Episode 1 |
 | Grendizer U | Grendizer U | https://anilist.co/anime/154195 | Episode 13 |
 | Hamidashi Creative | Hamidashi Creative | https://anilist.co/anime/169098 | Episode 1 |
-| Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 571 |
+| Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 572 |
 | Harimaware! Koinu 2nd Season | Harimaware! Koinu 2nd Season | https://anilist.co/anime/176283 | Episode 12 |
 | Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | Episode 4 |
 | Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 26 |
