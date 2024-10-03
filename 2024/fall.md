@@ -45,6 +45,13 @@ Episode|Link
 1|[Link](https://ani.social/post/6344851)
 {.dense}
 
+## Mecha-ude (TV) • Mecha Ude: Mechanical Arms
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/6345548)
+{.dense}
+
 ## Murai no Koi • Murai In Love
 
 Episode|Link
