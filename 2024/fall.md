@@ -38,6 +38,13 @@ Episode|Link
 1|[Link](https://ani.social/post/6288944)
 {.dense}
 
+## NegaPosi Angler • Negative Positive Angler
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/6342843)
+{.dense}
+
 ## Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season • Re:ZERO -Starting Life in Another World- Season 3
 
 Episode|Link
