@@ -24,6 +24,13 @@ Episode|Link
 1|[Link](https://ani.social/post/6203235)
 {.dense}
 
+## Kekkon Suru tte, Hontou desu ka: 365 Days To The Wedding • 365 Days to the Wedding
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/6344851)
+{.dense}
+
 ## Murai no Koi • Murai In Love
 
 Episode|Link
