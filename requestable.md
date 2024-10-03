@@ -87,7 +87,9 @@ These shows have had episodes air already, but no thread was created because the
 | Given: Umi e | Given: Umi e | https://anilist.co/anime/175199 | Episode 1 |
 | Go-Getters | Go-Getters | https://anilist.co/anime/180817 | Episode 1 |
 | Go-toubun no Hanayome * | Go-toubun no Hanayome * | https://anilist.co/anime/177191 | Episode 1 |
+| Sayonara Ryuusei Konnichiwa Jinsei | Good Bye, Dragon Life | https://anilist.co/anime/176053 | Episode 1 |
 | Grendizer U | Grendizer U | https://anilist.co/anime/154195 | Episode 13 |
+| Hamidashi Creative | Hamidashi Creative | https://anilist.co/anime/169098 | Episode 1 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 571 |
 | Harimaware! Koinu 2nd Season | Harimaware! Koinu 2nd Season | https://anilist.co/anime/176283 | Episode 12 |
 | Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | Episode 4 |
@@ -171,9 +173,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Maou 2099 | Demon Lord 2099 | https://anilist.co/anime/163135 | October 12 at 15:00 |
 | Dragon Ball DAIMA | Dragon Ball DAIMA | https://anilist.co/anime/170083 | October 11 at 14:40 |
 | Duel Masters LOST: Tsuioku no Suishou | Duel Masters LOST: Tsuioku no Suishou | https://anilist.co/anime/175473 | October 04 at 11:00 |
-| Sayonara Ryuusei Konnichiwa Jinsei | Good Bye, Dragon Life | https://anilist.co/anime/176053 | October 03 at 17:00 |
 | Haigakura | Haigakura | https://anilist.co/anime/168537 | October 07 at 13:00 |
-| Hamidashi Creative | Hamidashi Creative | https://anilist.co/anime/169098 | October 03 at 17:00 |
 | Hyakushou Kizoku 2nd Season | Hyakushou Kizoku 2nd Season | https://anilist.co/anime/171689 | October 04 at 12:54 |
 | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen | Is It Wrong To Try To Pick Up Girls in a Dungeon? V | https://anilist.co/anime/170732 | October 04 at 15:30 |
 | Kagaku×Bouken Survival! | Kagaku×Bouken Survival! | https://anilist.co/anime/174913 | October 05 at 09:26 |
