@@ -102,6 +102,14 @@ Episode|Link
 1|[Link](https://ani.social/post/6264380)
 {.dense}
 
+## Trillion Game
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/6346720)
+2|[Link](https://ani.social/post/6346721)
+{.dense}
+
 ## Uzumaki
 
 Episode|Link
