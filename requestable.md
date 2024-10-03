@@ -91,7 +91,7 @@ These shows have had episodes air already, but no thread was created because the
 | Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 26 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 280 |
 | Goukon ni Ittara Onna ga Inakatta Hanashi | How I Attended an All-Guy's Mixer | https://anilist.co/anime/169931 | Episode 1 |
-| I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 49 |
+| I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 50 |
 | JOCHUM | JOCHUM | https://anilist.co/anime/179408 | Episode 12 |
 | Kamierabi GOD.app Season 2 | Kamierabi GOD.app Season 2 | https://anilist.co/anime/172199 | Episode 1 |
 | Kankin Kuiki Level X | Kankin Kuiki Level X | https://anilist.co/anime/180923 | Episode 4 |
