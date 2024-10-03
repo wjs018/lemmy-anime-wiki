@@ -2,7 +2,7 @@
 title: Community Rules
 description: Full rules for the anime@ani.social community
 published: true
-date: 2024-10-03T05:37:12.999Z
+date: 2024-10-03T05:40:30.454Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-17T05:17:49.151Z
@@ -14,7 +14,9 @@ The anime@ani.social community rules are laid out below. If you have any questio
 
 ---
 
-## Posts must relate to anime or anime-related topics
+## Post Topics
+
+Posts must relate to anime or anime-related topics
 
 The working definition we are working with for this rule is that a show/movie is considered anime if it has *either* a MAL page or an AniList page. Similarly, anime-related topics could include posts about animation studios, voice talent, musicians, or other industry personnel that have worked on anime projects in the past.
 
@@ -22,7 +24,9 @@ There are some topics that some might consider anime-related but are not allowed
 
 If you have a post removed and you feel it has been removed in error, feel free to reach out.
 
-## Do not post explicitly NSFW material
+## NSFW Content
+
+Do not post explicitly NSFW material
 
 Posts containing heavily NSFW content is not allowed. What is or is not considered over the line is admittedly a subjective call made by the moderation team. In general, visuals that explicitly show genitalia or sexual acts would be over the line. Some non-hentai shows have nudity, so any post that has visuals featuring nudity (in a clip or screenshot) from these shows would need to be marked as NSFW or the post will be removed.
 
@@ -34,7 +38,7 @@ Finally, any content that contravenes the ani.social [Terms of Use](https://ani.
 
 In general, the [!anime@ani.social](https://ani.social/c/anime) community is a fairly SFW community and the mod team's judgement on what constitutes NSFW may be tamer than some other communities that are more art-focused. Please use your best judgement when making posts/comments.
 
-## Episode discussion threads must be made by the community bot
+## Episode Discussion Threads
 
 All discussion threads for currently airing media are made by the bot, [@rikka@ani.social](https://ani.social/u/rikka). If there is an issue with the bot for whatever reason, feel free to reach out to [@wjs018@ani.social](https://ani.social/u/wjs018). For additional information on why this is the case and how the bot works, see the links below:
 
@@ -43,7 +47,7 @@ All discussion threads for currently airing media are made by the bot, [@rikka@a
 - [Request a Discussion Post *How to make the bot work for you*](https://wiki.lemmyanime.com/en/rikka#requesting-discussion-threads-via-pm)
 {.links-list}
 
-## Memes should be directed elsewhere
+## Memes
 
 Memes and image macros will be removed from the anime community. There are a couple of communities that are better suited for meme content.
 
@@ -54,13 +58,13 @@ Memes and image macros will be removed from the anime community. There are a cou
 - [!christiananimemes@ani.social *Spreading the gospel of animemes*](https://ani.social/c/christiananimemes)
 {.links-list}
 
-## Clips can't be posted until a week has elapsed after airing
+## Clip Posts
 
 If you try to post a clip within a week after the episode/movie that the clip is derived from, it will be removed. Instead, if you want to share the clip, it would be more appropriate to share within the discussion thread for that episode/movie.
 
 It is best practice to tag the clip post with the `[Clip]` tag to help users more easily search for clips that have been previously posted. The title of a clip post must include the name of the anime. If the clip features any explicit content, it needs to be marked as NSFW. Ecchi clips that don't explicitly show nudity should probably be marked as NSFW. Please use your best judgement.
 
-## Spoilers must be tagged
+## Spoilers
 
 Due to the federated and open nature of lemmy, different clients are going to render spoiler tags differently (or not at all). I have already written a guide on proper spoiler tagging expectations for the community [here](https://ani.social/post/992253) with more information.
 
@@ -69,7 +73,9 @@ Due to the federated and open nature of lemmy, different clients are going to re
 
 As the lemmy platform evolves, the spoiler syntax may evolve with it. If there is a change to spoiler tagging expectations, there will be a meta post to the community detailing things and this page will be updated accordingly.
 
-## Piracy discussions should be directed elsewhere
+## Piracy
+
+Piracy discussions should be directed elsewhere.
 
 Piracy is a bit of an anime fact of life. Such is the case when the community deals with users dispersed across the globe and the tangled web of licensing agreements mean that many shows are simply unavailable to many users by any legal means.
 
@@ -79,7 +85,7 @@ However, discussion of piracy sites/methods/links should be directed towards a d
 - [!animepiracy@lemmy.ml *Specifically anime piracy community*](https://lemmy.ml/c/animepiracy)
 {.links-list}
 
-## Self-promotion rules
+## Self-Promotion
 
 I am not opposed to allowing people to post videos/articles/content that they made themselves. However, to engage in self-promotion in this way, there are some simple guidelines that you should follow:
 
@@ -87,7 +93,7 @@ I am not opposed to allowing people to post videos/articles/content that they ma
 2. **Engage with users on your self-promo** - if you make a post about something you made and get questions/comments on it, then please engage with those users and answer questions where possible
 3. **If in doubt, ask the moderators** - if you are unsure if a self-promotion post is acceptable, then feel free to reach out in advance. The moderator team would be happy to help you if there are any issues.
 
-## Be civil
+## Be Civil
 
 In general, if you make posts or comments that cause you to come off as a jerk or are mean towards others in the community or in general, then your posts risk being removed. Please don't resort to using language like slurs or disparaging others.
 
