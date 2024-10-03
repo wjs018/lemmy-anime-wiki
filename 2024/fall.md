@@ -17,6 +17,13 @@ Episode|Link
 1|[Link](https://ani.social/post/6322928)
 {.dense}
 
+## Ao no Hako • Blue Box
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/6345315)
+{.dense}
+
 ## Hitoribocchi no Isekai Kouryaku • Loner Life in Another World
 
 Episode|Link
