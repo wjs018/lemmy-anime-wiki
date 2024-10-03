@@ -24,6 +24,13 @@ Episode|Link
 1|[Link](https://ani.social/post/6345315)
 {.dense}
 
+## Dandadan • DAN DA DAN
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/6346602)
+{.dense}
+
 ## Goukon ni Ittara Onna ga Inakatta Hanashi • How I Attended an All-Guy's Mixer
 
 Episode|Link
