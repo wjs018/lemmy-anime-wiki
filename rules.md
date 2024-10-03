@@ -2,7 +2,7 @@
 title: Community Rules
 description: Full rules for the anime@ani.social community
 published: true
-date: 2024-10-03T04:58:34.719Z
+date: 2024-10-03T05:18:04.472Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-17T05:17:49.151Z
@@ -13,8 +13,6 @@ dateCreated: 2024-03-17T05:17:49.151Z
 The anime@ani.social community rules are laid out below. If you have any questions or concerns, feel free to reach out to the moderator team or myself (wjs018@ani.social) directly.
 
 ---
-
-## Rules for Posts
 
 ### Posts must relate to anime or anime-related topics
 
@@ -34,6 +32,8 @@ Another edge-case that has occurred in the past is that a post links to an exter
 
 Finally, any content that contravenes the ani.social [Terms of Use](https://ani.social/legal) would be removed.
 
+In general, the [!anime@ani.social](https://ani.social/c/anime) community is a fairly SFW community and the mod team's judgement on what constitutes NSFW may be tamer than some other communities that are more art-focused. Please use your best judgement when making posts/comments.
+
 ### Episode discussion threads must be made by the community bot
 
 All discussion threads for currently airing media are made by the bot, [@rikka@ani.social](https://ani.social/u/rikka). If there is an issue with the bot for whatever reason, feel free to reach out to [@wjs018@ani.social](https://ani.social/u/wjs018). For additional information on why this is the case and how the bot works, see the links below:
@@ -43,7 +43,22 @@ All discussion threads for currently airing media are made by the bot, [@rikka@a
 - [Request a Discussion Post *How to make the bot work for you*](https://wiki.lemmyanime.com/en/rikka#requesting-discussion-threads-via-pm)
 {.links-list}
 
-## Rules for Comments
+### Memes should be directed elsewhere
+
+Memes and image macros will be removed from the anime community. There are a couple of communities that are better suited for meme content.
+
+- [!animemes@ani.social *General animeme community*](https://ani.social/c/animemes)
+- [!anime_irl@ani.social *When anime gets a bit too real*](https://ani.social/c/anime_irl)
+- [!linuxanimemes@ani.social *For all the tux fans out there*](https://ani.social/c/linuxanimemes)
+- [!evangelionmemes@ani.social *Post the memes Genji*](https://ani.social/c/evangelionmemes)
+- [!christiananimemes@ani.social *Spreading the gospel of animemes*](https://ani.social/c/christiananimemes)
+{.links-list}
+
+### Clips can't be posted until a week has elapsed after airing
+
+If you try to post a clip within a week after the episode/movie that the clip is derived from, it will be removed. Instead, if you want to share the clip, it would be more appropriate to share within the discussion thread for that episode/movie.
+
+It is best practice to tag the clip post with the `[Clip]` tag to help users more easily search for clips that have been previously posted. The title of a clip post must include the name of the anime. If the clip features any explicit content, it needs to be marked as NSFW. Ecchi clips that don't explicitly show nudity should probably be marked as NSFW. Please use your best judgement.
 
 ### Spoilers must be tagged
 
@@ -60,9 +75,7 @@ Under construction...
 
 ## Rules
 
-- Memes should be directed toward !animemes@ani.social (or similar) instead of this community
 - Please redirect discussion of piracy towards a more appropriate community
-- Any clips from currently airing shows cannot include content from episodes released within the past 7 days. 
 - In general, keep things civil and avoid attacking other individuals.
 
 ## Related General Communities
