@@ -18,7 +18,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Acro Trip | Acro Trip | https://anilist.co/anime/157965 | [Link](https://ani.social/post/6322928) |
 | Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season | As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2 | https://anilist.co/anime/178434 | [Link](https://ani.social/post/6264380) |
 | Blue Lock VS. U-20 JAPAN | BLUE LOCK Season 2 | https://anilist.co/anime/163146 |  |
-| Ao no Hako | Blue Box | https://anilist.co/anime/170942 |  |
+| Ao no Hako | Blue Box | https://anilist.co/anime/170942 | [Link](https://ani.social/post/6345315) |
 | Kidou Senshi Gundam: Fukushuu no Requiem | GUNDAM: Requiem for Vengeance | https://anilist.co/anime/166703 |  |
 | Rekishi ni Nokoru Akujo ni Naruzo | I’ll Become a Villainess Who Goes Down in History | https://anilist.co/anime/168139 | [Link](https://ani.social/post/6305152) |
 | Nageki no Bourei wa Intai Shitai | Let This Grieving Soul Retire | https://anilist.co/anime/175019 | [Link](https://ani.social/post/6288944) |
@@ -79,6 +79,7 @@ These shows have had episodes air already, but no thread was created because the
 | FAIRY TAIL: 100 YEARS QUEST | FAIRY TAIL 100 YEARS QUEST | https://anilist.co/anime/139095 | Episode 12 |
 | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells | https://anilist.co/anime/173694 | Episode 12 |
 | Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 2 | Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 2 | https://anilist.co/anime/179991 | Episode 11 |
+| Fureru. | Fureru. | https://anilist.co/anime/171109 | Episode 1 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 151 |
 | Girls' F1st!!!! GT | Girls' F1st!!!! GT | https://anilist.co/anime/178067 | Episode 10 |
 | Given: Umi e | Given: Umi e | https://anilist.co/anime/175199 | Episode 1 |
@@ -170,7 +171,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Maou 2099 | Demon Lord 2099 | https://anilist.co/anime/163135 | October 12 at 15:00 |
 | Dragon Ball DAIMA | Dragon Ball DAIMA | https://anilist.co/anime/170083 | October 11 at 14:40 |
 | Duel Masters LOST: Tsuioku no Suishou | Duel Masters LOST: Tsuioku no Suishou | https://anilist.co/anime/175473 | October 04 at 11:00 |
-| Fureru. | Fureru. | https://anilist.co/anime/171109 | October 03 at 15:00 |
 | Sayonara Ryuusei Konnichiwa Jinsei | Good Bye, Dragon Life | https://anilist.co/anime/176053 | October 03 at 17:00 |
 | Haigakura | Haigakura | https://anilist.co/anime/168537 | October 07 at 13:00 |
 | Hamidashi Creative | Hamidashi Creative | https://anilist.co/anime/169098 | October 03 at 17:00 |
