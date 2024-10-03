@@ -36,6 +36,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/6203235)
+2|[Link](https://ani.social/post/6346307)
 {.dense}
 
 ## Kekkon Suru tte, Hontou desu ka: 365 Days To The Wedding • 365 Days to the Wedding
@@ -85,6 +86,13 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/6305152)
+{.dense}
+
+## Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran • Rurouni Kenshin -Kyoto Disturbance-
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/6346306)
 {.dense}
 
 ## Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season • As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2
