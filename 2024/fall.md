@@ -31,6 +31,13 @@ Episode|Link
 1|[Link](https://ani.social/post/6346602)
 {.dense}
 
+## Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen • Is It Wrong To Try To Pick Up Girls in a Dungeon? V
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/6367653)
+{.dense}
+
 ## Goukon ni Ittara Onna ga Inakatta Hanashi • How I Attended an All-Guy's Mixer
 
 Episode|Link
