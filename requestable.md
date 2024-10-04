@@ -76,6 +76,7 @@ These shows have had episodes air already, but no thread was created because the
 | Delico's Nursery | Delico's Nursery | https://anilist.co/anime/167991 | Episode 7 |
 | Maou-sama, Retry! R | Demon Lord, Retry! R | https://anilist.co/anime/168500 | Episode 1 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 830 |
+| Duel Masters LOST: Tsuioku no Suishou | Duel Masters LOST: Tsuioku no Suishou | https://anilist.co/anime/175473 | Episode 1 |
 | Egumi Legacy | Egumi Legacy | https://anilist.co/anime/177097 | Episode 12 |
 | Elf-san wa Yaserarenai. Specials | Elf-san wa Yaserarenai. Specials | https://anilist.co/anime/179126 | Episode 1 |
 | FAIRY TAIL: 100 YEARS QUEST | FAIRY TAIL 100 YEARS QUEST | https://anilist.co/anime/139095 | Episode 12 |
@@ -151,7 +152,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tasogare Outfocus | Twilight Out of Focus | https://anilist.co/anime/166700 | Episode 12 |
 | Amagami-san Chi no Enmusubi | Tying the Knot with an Amagami Sister | https://anilist.co/anime/164172 | Episode 1 |
 | VTuber nanda ga Haishin Kiri Wasuretara Densetsu ni Natteta | VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream | https://anilist.co/anime/160488 | Episode 11 |
-| Girigiri Warukunai Watame | Watame Did Borderline Nothing Wrong | https://anilist.co/anime/146004 | Episode 76 |
+| Girigiri Warukunai Watame | Watame Did Borderline Nothing Wrong | https://anilist.co/anime/146004 | Episode 77 |
 | Naze Boku no Sekai wo Daremo Oboeteinai no ka? | Why Does Nobody Remember Me in This World? | https://anilist.co/anime/167419 | Episode 12 |
 | Tsue to Tsurugi no Wistoria | Wistoria: Wand and Sword | https://anilist.co/anime/174576 | Episode 12 |
 | Wonderful Precure! | Wonderful Precure! | https://anilist.co/anime/171030 | Episode 35 |
@@ -172,7 +173,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Ao no Exorcist: Yuki no Hate-hen | Blue Exorcist -Beyond the Snow Saga- | https://anilist.co/anime/176311 | October 05 at 15:30 |
 | Maou 2099 | Demon Lord 2099 | https://anilist.co/anime/163135 | October 12 at 15:00 |
 | Dragon Ball DAIMA | Dragon Ball DAIMA | https://anilist.co/anime/170083 | October 11 at 14:40 |
-| Duel Masters LOST: Tsuioku no Suishou | Duel Masters LOST: Tsuioku no Suishou | https://anilist.co/anime/175473 | October 04 at 11:00 |
 | Haigakura | Haigakura | https://anilist.co/anime/168537 | October 07 at 13:00 |
 | Hyakushou Kizoku 2nd Season | Hyakushou Kizoku 2nd Season | https://anilist.co/anime/171689 | October 04 at 12:54 |
 | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen | Is It Wrong To Try To Pick Up Girls in a Dungeon? V | https://anilist.co/anime/170732 | October 04 at 15:30 |
