@@ -46,6 +46,13 @@ Episode|Link
 2|[Link](https://ani.social/post/6346307)
 {.dense}
 
+## Kabushiki Gaisha Magi Lumiere • Magilumiere Magical Girls Inc.
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/6364753)
+{.dense}
+
 ## Kekkon Suru tte, Hontou desu ka: 365 Days To The Wedding • 365 Days to the Wedding
 
 Episode|Link
