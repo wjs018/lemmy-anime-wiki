@@ -109,6 +109,13 @@ Episode|Link
 1|[Link](https://ani.social/post/6346306)
 {.dense}
 
+## Sword Art Online Alternative: Gun Gale Online II
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/6365940)
+{.dense}
+
 ## Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season • As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2
 
 Episode|Link
