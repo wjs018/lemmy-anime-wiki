@@ -25,7 +25,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Nageki no Bourei wa Intai Shitai | Let This Grieving Soul Retire | https://anilist.co/anime/175019 | [Link](https://ani.social/post/6288944) |
 | Hitoribocchi no Isekai Kouryaku | Loner Life in Another World | https://anilist.co/anime/173693 | [Link](https://ani.social/post/6346307) |
 | MF Ghost 2nd Season | MF GHOST Season 2 | https://anilist.co/anime/171642 |  |
-| Kabushiki Gaisha Magi Lumiere | Magilumiere Magical Girls Inc. | https://anilist.co/anime/171025 |  |
+| Kabushiki Gaisha Magi Lumiere | Magilumiere Magical Girls Inc. | https://anilist.co/anime/171025 | [Link](https://ani.social/post/6364753) |
 | Mecha-ude (TV) | Mecha Ude: Mechanical Arms | https://anilist.co/anime/154673 | [Link](https://ani.social/post/6345548) |
 | Natsume Yuujinchou Shichi | Natsume's Book of Friends Season 7 | https://anilist.co/anime/166611 |  |
 | NegaPosi Angler | Negative Positive Angler | https://anilist.co/anime/179919 | [Link](https://ani.social/post/6342843) |
