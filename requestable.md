@@ -62,6 +62,7 @@ These shows have had episodes air already, but no thread was created because the
 | Allegro | Allegro | https://anilist.co/anime/180870 | Episode 1 |
 | Atashin'chi NEXT | Atashin'chi NEXT | https://anilist.co/anime/173313 | Episode 5 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 51 |
+| BLEACH: Sennen Kessen-hen - Soukoku-tan | BLEACH: Thousand-Year Blood War - The Conflict | https://anilist.co/anime/169755 | Episode 1 |
 | BanG Dream! It's MyGO!!!!!: Haru no Hidamari, Mayoi Neko | BanG Dream! It's MyGO!!!!!: Haru no Hidamari, Mayoi Neko | https://anilist.co/anime/173174 | Episode 1 |
 | BONOBONO (2016) | Bono Bono (2016) | https://anilist.co/anime/21552 | Episode 430 |
 | Bye Bye, Earth | Bye Bye, Earth | https://anilist.co/anime/157371 | Episode 11 |
@@ -181,7 +182,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Houkago Shounen Hanako-kun 2 | After-school Hanako-kun Season 2 | https://anilist.co/anime/170893 | October 07 at 16:36 |
 | Arifureta Shokugyou de Sekai Saikyou 3rd season | Arifureta: From Commonplace to World's Strongest Season 3 | https://anilist.co/anime/154473 | October 14 at 14:00 |
-| BLEACH: Sennen Kessen-hen - Soukoku-tan | BLEACH: Thousand-Year Blood War - The Conflict | https://anilist.co/anime/169755 | October 05 at 14:00 |
 | Bananya: Around the World | Bananya Around the World | https://anilist.co/anime/180599 | October 14 at 15:00 |
 | Ao no Exorcist: Yuki no Hate-hen | Blue Exorcist -Beyond the Snow Saga- | https://anilist.co/anime/176311 | October 05 at 15:30 |
 | Maou 2099 | Demon Lord 2099 | https://anilist.co/anime/163135 | October 12 at 15:00 |
