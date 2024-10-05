@@ -81,6 +81,13 @@ Episode|Link
 1|[Link](https://ani.social/post/6344851)
 {.dense}
 
+## Kimi wa Meido-sama. • You are Ms. Servant
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/6388296)
+{.dense}
+
 ## Mecha-ude (TV) • Mecha Ude: Mechanical Arms
 
 Episode|Link
