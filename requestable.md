@@ -172,7 +172,7 @@ These shows have had episodes air already, but no thread was created because the
 | Wonderful Precure! The Movie! Dokidoki♡Game no Sekai de Daibouken! | Wonderful Precure! The Movie! Dokidoki♡Game no Sekai de Daibouken! | https://anilist.co/anime/169403 | Episode 1 |
 | Karasu wa Aruji wo Erabanai | YATAGARASU: The Raven Does Not Choose Its Master | https://anilist.co/anime/170503 | Episode 20 |
 | Yozakura-san Chi no Mini Sakusen | Yozakura-san Chi no Mini Sakusen | https://anilist.co/anime/176909 | Episode 26 |
-| Yu☆Gi☆Oh! Go Rush!! | Yu☆Gi☆Oh! Go Rush!! | https://anilist.co/anime/142842 | Episode 127 |
+| Yu☆Gi☆Oh! Go Rush!! | Yu☆Gi☆Oh! Go Rush!! | https://anilist.co/anime/142842 | Episode 128 |
 {.dense}
 
 ## Upcoming Shows
