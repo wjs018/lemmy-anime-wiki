@@ -109,6 +109,13 @@ Episode|Link
 1|[Link](https://ani.social/post/6342843)
 {.dense}
 
+## Ranma 1/2 (2024) • Ranma1/2 (2024)
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/6387607)
+{.dense}
+
 ## Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season • Re:ZERO -Starting Life in Another World- Season 3
 
 Episode|Link
