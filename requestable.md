@@ -76,7 +76,7 @@ These shows have had episodes air already, but no thread was created because the
 | Gimai Seikatsu | Days with My Stepsister | https://anilist.co/anime/152681 | Episode 12 |
 | Delico's Nursery | Delico's Nursery | https://anilist.co/anime/167991 | Episode 7 |
 | Maou-sama, Retry! R | Demon Lord, Retry! R | https://anilist.co/anime/168500 | Episode 1 |
-| Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 830 |
+| Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 831 |
 | Duel Masters LOST: Tsuioku no Suishou | Duel Masters LOST: Tsuioku no Suishou | https://anilist.co/anime/175473 | Episode 1 |
 | Egumi Legacy | Egumi Legacy | https://anilist.co/anime/177097 | Episode 12 |
 | Elf-san wa Yaserarenai. Specials | Elf-san wa Yaserarenai. Specials | https://anilist.co/anime/179126 | Episode 1 |
