@@ -24,6 +24,20 @@ Episode|Link
 1|[Link](https://ani.social/post/6345315)
 {.dense}
 
+## Blue Lock VS. U-20 JAPAN • BLUE LOCK Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/6386405)
+{.dense}
+
+## Chi.: Chikyuu no Undou ni Tsuite • Orb: On the Movements of the Earth
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/6386404)
+{.dense}
+
 ## Dandadan • DAN DA DAN
 
 Episode|Link
