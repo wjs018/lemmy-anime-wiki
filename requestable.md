@@ -44,7 +44,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Tsuma, Shougakusei ni Naru. | TsumaSho | https://anilist.co/anime/162785 |  |
 | Uzumaki | Uzumaki | https://anilist.co/anime/111314 | [Link](https://ani.social/post/6256378) |
 | Raise wa Tanin ga Ii | Yakuza Fiancé: Raise wa Tanin ga Ii | https://anilist.co/anime/170468 |  |
-| Kimi wa Meido-sama. | You are Ms. Servant | https://anilist.co/anime/172190 |  |
+| Kimi wa Meido-sama. | You are Ms. Servant | https://anilist.co/anime/172190 | [Link](https://ani.social/post/6388296) |
 | Youkai Gakkou no Sensei Hajimemashita! | Youkai Gakkou no Sensei Hajimemashita! | https://anilist.co/anime/171545 |  |
 {.dense}
 
