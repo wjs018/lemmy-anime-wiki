@@ -57,6 +57,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/6345432)
+2|[Link](https://ani.social/post/6409523)
 {.dense}
 
 ## Hitoribocchi no Isekai Kouryaku • Loner Life in Another World
