@@ -171,5 +171,6 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/6256378)
+2|[Link](https://ani.social/post/6398430)
 {.dense}
 
