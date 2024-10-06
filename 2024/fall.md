@@ -166,6 +166,13 @@ Episode|Link
 2|[Link](https://ani.social/post/6346721)
 {.dense}
 
+## Tsuma, Shougakusei ni Naru. • TsumaSho
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/6403945)
+{.dense}
+
 ## Uzumaki
 
 Episode|Link
