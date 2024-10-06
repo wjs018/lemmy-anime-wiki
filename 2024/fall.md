@@ -88,6 +88,13 @@ Episode|Link
 1|[Link](https://ani.social/post/6388296)
 {.dense}
 
+## MF Ghost 2nd Season • MF GHOST Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/6406273)
+{.dense}
+
 ## Mecha-ude (TV) • Mecha Ude: Mechanical Arms
 
 Episode|Link
@@ -114,6 +121,13 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/6342843)
+{.dense}
+
+## Puniru wa Kawaii Slime • Puniru is a Kawaii Slime
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/6406269)
 {.dense}
 
 ## Ranma 1/2 (2024) • Ranma1/2 (2024)
