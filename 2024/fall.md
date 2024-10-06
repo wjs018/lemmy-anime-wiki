@@ -114,6 +114,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/6288944)
+2|[Link](https://ani.social/post/6407276)
 {.dense}
 
 ## NegaPosi Angler • Negative Positive Angler
@@ -170,6 +171,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/6264380)
+2|[Link](https://ani.social/post/6407275)
 {.dense}
 
 ## Trillion Game
