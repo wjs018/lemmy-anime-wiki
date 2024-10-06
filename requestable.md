@@ -120,7 +120,7 @@ These shows have had episodes air already, but no thread was created because the
 | Na-Nare Hana-Nare | Narenare -Cheer for you!- | https://anilist.co/anime/170891 | Episode 12 |
 | NieR:Automata Ver1.1a 2nd Season | NieR:Automata Ver1.1a Cour 2 | https://anilist.co/anime/167420 | Episode 11 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 138 |
-| ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1120 |
+| ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1121 |
 | Overlord: Sei Oukoku-hen | OVERLORD: The Sacred Kingdom | https://anilist.co/anime/133845 | Episode 1 |
 | Ooi! Tonbo 2nd Season | Ooi! Tonbo 2nd Season | https://anilist.co/anime/178729 | Episode 1 |
 | POKÉTOON (2024) | POKÉTOON (2024) | https://anilist.co/anime/182386 | Episode 3 |
