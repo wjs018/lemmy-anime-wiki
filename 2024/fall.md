@@ -126,6 +126,13 @@ Episode|Link
 2|[Link](https://ani.social/post/6407276)
 {.dense}
 
+## Natsume Yuujinchou Shichi • Natsume's Book of Friends Season 7
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/6425366)
+{.dense}
+
 ## NegaPosi Angler • Negative Positive Angler
 
 Episode|Link
