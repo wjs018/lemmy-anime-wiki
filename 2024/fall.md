@@ -140,6 +140,13 @@ Episode|Link
 1|[Link](https://ani.social/post/6406269)
 {.dense}
 
+## Raise wa Tanin ga Ii • Yakuza Fiancé: Raise wa Tanin ga Ii
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/6424678)
+{.dense}
+
 ## Ranma 1/2 (2024) • Ranma1/2 (2024)
 
 Episode|Link
