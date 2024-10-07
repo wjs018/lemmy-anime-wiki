@@ -138,6 +138,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sai-Kyo-Oh! Zukan: The Ultimate Battles | Sai-Kyo-Oh! Zukan: The Ultimate Battles | https://anilist.co/anime/173216 | Episode 40 |
 | Tensui no Sakuna-hime | Sakuna: Of Rice and Ruin | https://anilist.co/anime/175868 | Episode 13 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2755 |
+| Seirei Gensouki 2 | Seirei Gensouki: Spirit Chronicles Season 2 | https://anilist.co/anime/141182 | Episode 1 |
 | Sengoku Youko: Senma Konton-hen | Sengoku Youko: The Thousandfold Chaos Arc | https://anilist.co/anime/176660 | Episode 10 |
 | Shadowverse Flame: Arc-hen | Shadowverse Flame: Arc-hen | https://anilist.co/anime/172187 | Episode 23 |
 | Shibuya♡Hachi Part 2 | Shibuya♡Hachi Part 2 | https://anilist.co/anime/181835 | Episode 1 |
@@ -190,7 +191,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Maou 2099 | Demon Lord 2099 | https://anilist.co/anime/163135 | October 12 at 15:00 |
 | Dragon Ball DAIMA | Dragon Ball DAIMA | https://anilist.co/anime/170083 | October 11 at 14:40 |
 | Goukon ni Ittara Onna ga Inakatta Hanashi | How I Attended an All-Guy's Mixer | https://anilist.co/anime/169931 | October 13 at 17:30 |
-| Seirei Gensouki 2 | Seirei Gensouki: Spirit Chronicles Season 2 | https://anilist.co/anime/141182 | October 07 at 16:30 |
 | Yarinaoshi Reijou wa Ryuutei Heika wo Kouryaku-chuu | The Do-Over Damsel Conquers The Dragon Emperor | https://anilist.co/anime/164299 | October 09 at 13:00 |
 | Tono to Inu | Tono to Inu | https://anilist.co/anime/174390 | October 10 at 12:54 |
 {.dense}
