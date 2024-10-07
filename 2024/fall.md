@@ -76,6 +76,13 @@ Episode|Link
 1|[Link](https://ani.social/post/6364753)
 {.dense}
 
+## Kamonohashi Ron no Kindan Suiri 2nd Season • Ron Kamonohashi’s Forbidden Deductions Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/6424333)
+{.dense}
+
 ## Kekkon Suru tte, Hontou desu ka: 365 Days To The Wedding • 365 Days to the Wedding
 
 Episode|Link
