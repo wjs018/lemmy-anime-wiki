@@ -234,3 +234,10 @@ Episode|Link
 2|[Link](https://ani.social/post/6398430)
 {.dense}
 
+## Youkai Gakkou no Sensei Hajimemashita! • A Terrified Teacher at Ghoul School!
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/6445146)
+{.dense}
+
