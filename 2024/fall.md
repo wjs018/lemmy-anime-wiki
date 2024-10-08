@@ -69,6 +69,13 @@ Episode|Link
 2|[Link](https://ani.social/post/6346307)
 {.dense}
 
+## Hoshi Furu Oukoku no Nina • Nina the Starry Bride
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/6436391)
+{.dense}
+
 ## Kabushiki Gaisha Magi Lumiere • Magilumiere Magical Girls Inc.
 
 Episode|Link
