@@ -61,7 +61,6 @@ These shows have had episodes air already, but no thread was created because the
 | Mob kara Hajimaru Tansaku Eiyuutan | A Nobody's Way Up to an Exploration Hero | https://anilist.co/anime/172416 | Episode 12 |
 | ATRI: My Dear Moments | ATRI -My Dear Moments- | https://anilist.co/anime/154963 | Episode 13 |
 | Houkago Shounen Hanako-kun 2 | After-school Hanako-kun Season 2 | https://anilist.co/anime/170893 | Episode 1 |
-| Allegro | Allegro | https://anilist.co/anime/180870 | Episode 1 |
 | Atashin'chi NEXT | Atashin'chi NEXT | https://anilist.co/anime/173313 | Episode 5 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 51 |
 | BLEACH: Sennen Kessen-hen - Soukoku-tan | BLEACH: Thousand-Year Blood War - The Conflict | https://anilist.co/anime/169755 | Episode 1 |
