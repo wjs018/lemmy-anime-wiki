@@ -191,5 +191,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Maou 2099 | Demon Lord 2099 | https://anilist.co/anime/163135 | October 12 at 15:00 |
 | Dragon Ball DAIMA | Dragon Ball DAIMA | https://anilist.co/anime/170083 | October 11 at 14:40 |
 | Goukon ni Ittara Onna ga Inakatta Hanashi | How I Attended an All-Guy's Mixer | https://anilist.co/anime/169931 | October 13 at 17:30 |
+| Pochars | Pochars | https://anilist.co/anime/182772 | October 15 at 17:25 |
 | Tono to Inu | Tono to Inu | https://anilist.co/anime/174390 | October 10 at 12:54 |
 {.dense}
