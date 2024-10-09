@@ -15,6 +15,8 @@ Below, you can find an index of all the discussion threads for shows from the Fa
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/6322928)
+2|[Link](https://ani.social/post/6465036)
+3|[Link](https://ani.social/post/6465037)
 {.dense}
 
 ## Ao no Hako • Blue Box
