@@ -27,7 +27,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Hitoribocchi no Isekai Kouryaku | Loner Life in Another World | https://anilist.co/anime/173693 | [Link](https://ani.social/post/6488527) |
 | MF Ghost 2nd Season | MF GHOST Season 2 | https://anilist.co/anime/171642 | [Link](https://ani.social/post/6406273) |
 | Kabushiki Gaisha Magi Lumiere | Magilumiere Magical Girls Inc. | https://anilist.co/anime/171025 | [Link](https://ani.social/post/6364753) |
-| Mecha-ude (TV) | Mecha Ude: Mechanical Arms | https://anilist.co/anime/154673 | [Link](https://ani.social/post/6345548) |
+| Mecha-ude (TV) | Mecha Ude: Mechanical Arms | https://anilist.co/anime/154673 | [Link](https://ani.social/post/6488987) |
 | Natsume Yuujinchou Shichi | Natsume's Book of Friends Season 7 | https://anilist.co/anime/166611 | [Link](https://ani.social/post/6425366) |
 | NegaPosi Angler | Negative Positive Angler | https://anilist.co/anime/179919 | [Link](https://ani.social/post/6487098) |
 | Hoshi Furu Oukoku no Nina | Nina the Starry Bride | https://anilist.co/anime/171038 | [Link](https://ani.social/post/6436391) |
