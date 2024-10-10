@@ -42,7 +42,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Sword Art Online Alternative: Gun Gale Online II | Sword Art Online Alternative: Gun Gale Online II | https://anilist.co/anime/167141 | [Link](https://ani.social/post/6365940) |
 | Saikyou no Shien-shoku [Wajutsushi] Dearu Ore wa Sekai Saikyou Clan wo Shitagaeru | The Most Notorious "Talker" Runs the World's Greatest Clan | https://anilist.co/anime/177104 | [Link](https://ani.social/post/6435947) |
 | Kami no Tou: Tower of God 2nd Season | Tower of God Season 2 | https://anilist.co/anime/153406 | [Link](https://ani.social/post/6406272) |
-| Trillion Game | Trillion Game | https://anilist.co/anime/169315 | [Link](https://ani.social/post/6346721) |
 | Tsuma, Shougakusei ni Naru. | TsumaSho | https://anilist.co/anime/162785 | [Link](https://ani.social/post/6403945) |
 | Uzumaki | Uzumaki | https://anilist.co/anime/111314 | [Link](https://ani.social/post/6398430) |
 | Raise wa Tanin ga Ii | Yakuza Fiancé: Raise wa Tanin ga Ii | https://anilist.co/anime/170468 | [Link](https://ani.social/post/6424678) |
@@ -89,7 +88,7 @@ These shows have had episodes air already, but no thread was created because the
 | Girls' F1st!!!! GT | Girls' F1st!!!! GT | https://anilist.co/anime/178067 | Episode 11 |
 | Given: Umi e | Given: Umi e | https://anilist.co/anime/175199 | Episode 1 |
 | Go-toubun no Hanayome * | Go-toubun no Hanayome * | https://anilist.co/anime/177191 | Episode 1 |
-| Sayonara Ryuusei Konnichiwa Jinsei | Good Bye, Dragon Life | https://anilist.co/anime/176053 | Episode 1 |
+| Sayonara Ryuusei Konnichiwa Jinsei | Good Bye, Dragon Life | https://anilist.co/anime/176053 | Episode 2 |
 | Grendizer U | Grendizer U | https://anilist.co/anime/154195 | Episode 13 |
 | Haigakura | Haigakura | https://anilist.co/anime/168537 | Episode 1 |
 | Hamidashi Creative | Hamidashi Creative | https://anilist.co/anime/169098 | Episode 2 |
@@ -194,4 +193,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Goukon ni Ittara Onna ga Inakatta Hanashi | How I Attended an All-Guy's Mixer | https://anilist.co/anime/169931 | October 13 at 17:30 |
 | ONE PIECE FAN LETTER | ONE PIECE FAN LETTER | https://anilist.co/anime/182469 | October 20 at 00:30 |
 | Pochars | Pochars | https://anilist.co/anime/182772 | October 15 at 17:25 |
+| Trillion Game | Trillion Game | https://anilist.co/anime/169315 | October 10 at 17:58 |
 {.dense}
