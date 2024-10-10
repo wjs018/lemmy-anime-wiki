@@ -53,6 +53,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/6367653)
+2|[Link](https://ani.social/post/6486104)
 {.dense}
 
 ## Goukon ni Ittara Onna ga Inakatta Hanashi • How I Attended an All-Guy's Mixer
