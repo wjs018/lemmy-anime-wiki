@@ -98,6 +98,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/6344851)
+2|[Link](https://ani.social/post/6488081)
 {.dense}
 
 ## Kimi wa Meido-sama. • You are Ms. Servant
