@@ -24,6 +24,8 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/6345315)
+2|[Link](https://ani.social/post/6488525)
+3|[Link](https://ani.social/post/6488526)
 {.dense}
 
 ## Blue Lock VS. U-20 JAPAN • BLUE LOCK Season 2
@@ -46,6 +48,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/6346602)
+2|[Link](https://ani.social/post/6488316)
 {.dense}
 
 ## Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen • Is It Wrong To Try To Pick Up Girls in a Dungeon? V
@@ -70,6 +73,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/6203235)
 2|[Link](https://ani.social/post/6346307)
+3|[Link](https://ani.social/post/6488527)
 {.dense}
 
 ## Hoshi Furu Oukoku no Nina • Nina the Starry Bride
