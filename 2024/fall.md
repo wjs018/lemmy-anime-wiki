@@ -88,6 +88,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/6364753)
+2|[Link](https://ani.social/post/6507907)
 {.dense}
 
 ## Kamonohashi Ron no Kindan Suiri 2nd Season • Ron Kamonohashi’s Forbidden Deductions Season 2
