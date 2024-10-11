@@ -247,6 +247,13 @@ Episode|Link
 2|[Link](https://ani.social/post/6398430)
 {.dense}
 
+## Yarinaoshi Reijou wa Ryuutei Heika wo Kouryaku-chuu • The Do-Over Damsel Conquers The Dragon Emperor
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/6499454)
+{.dense}
+
 ## Youkai Gakkou no Sensei Hajimemashita! • A Terrified Teacher at Ghoul School!
 
 Episode|Link
