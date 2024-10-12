@@ -179,6 +179,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/6387607)
+2|[Link](https://ani.social/post/6528888)
 {.dense}
 
 ## Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season • Re:ZERO -Starting Life in Another World- Season 3
