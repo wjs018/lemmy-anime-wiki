@@ -65,7 +65,7 @@ These shows have had episodes air already, but no thread was created because the
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 52 |
 | BLEACH: Sennen Kessen-hen - Soukoku-tan | BLEACH: Thousand-Year Blood War - The Conflict | https://anilist.co/anime/169755 | Episode 2 |
 | BanG Dream! It's MyGO!!!!!: Haru no Hidamari, Mayoi Neko | BanG Dream! It's MyGO!!!!!: Haru no Hidamari, Mayoi Neko | https://anilist.co/anime/173174 | Episode 1 |
-| Ao no Exorcist: Yuki no Hate-hen | Blue Exorcist -Beyond the Snow Saga- | https://anilist.co/anime/176311 | Episode 1 |
+| Ao no Exorcist: Yuki no Hate-hen | Blue Exorcist -Beyond the Snow Saga- | https://anilist.co/anime/176311 | Episode 2 |
 | BONOBONO (2016) | Bono Bono (2016) | https://anilist.co/anime/21552 | Episode 431 |
 | Bye Bye, Earth | Bye Bye, Earth | https://anilist.co/anime/157371 | Episode 11 |
 | Cardfight!! Vanguard: Divinez Season 2 | CARDFIGHT!! VANGUARD Divinez Season 2 | https://anilist.co/anime/165681 | Episode 13 |
@@ -130,7 +130,6 @@ These shows have had episodes air already, but no thread was created because the
 | Elf-san wa Yaserarenai. Specials | Plus-Sized Elf Specials | https://anilist.co/anime/179126 | Episode 2 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 68 |
 | Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2065 |
-| Giji Harem | Pseudo Harem | https://anilist.co/anime/163623 | Episode 11 |
 | Punirunes Puni 2 | Punirunes Puni 2 | https://anilist.co/anime/179292 | Episode 1 |
 | Kono Sekai wa Fukanzen Sugiru | Quality Assurance in Another World | https://anilist.co/anime/163077 | Episode 12 |
 | Ramen Aka Neko | Ramen Akaneko | https://anilist.co/anime/170998 | Episode 12 |
