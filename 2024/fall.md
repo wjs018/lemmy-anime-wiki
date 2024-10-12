@@ -42,6 +42,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/6386404)
 2|[Link](https://ani.social/post/6416017)
+3|[Link](https://ani.social/post/6528812)
 {.dense}
 
 ## Dandadan • DAN DA DAN
