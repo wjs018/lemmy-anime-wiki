@@ -214,6 +214,13 @@ Episode|Link
 2|[Link](https://ani.social/post/6435947)
 {.dense}
 
+## Shangri-La Frontier 2nd Season • Shangri-La Frontier Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/6542702)
+{.dense}
+
 ## Sword Art Online Alternative: Gun Gale Online II
 
 Episode|Link
