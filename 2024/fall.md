@@ -144,6 +144,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/6288944)
 2|[Link](https://ani.social/post/6407276)
+3|[Link](https://ani.social/post/6548760)
 {.dense}
 
 ## Natsume Yuujinchou Shichi • Natsume's Book of Friends Season 7
@@ -235,6 +236,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/6264380)
 2|[Link](https://ani.social/post/6407275)
+3|[Link](https://ani.social/post/6548759)
 {.dense}
 
 ## Trillion Game
