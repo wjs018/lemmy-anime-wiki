@@ -254,7 +254,7 @@ Episode|Link
 2|[Link](https://ani.social/post/6398430)
 {.dense}
 
-## Yarinaoshi Reijou wa Ryuutei Heika wo Kouryaku-chuu • The Do-Over Damsel Conquers The Dragon Emperor
+## Yarinaoshi Reijou wa Ryuutei Heika wo Kouryaku-chuu • The Do-Over Damsel Conquers the Dragon Emperor
 
 Episode|Link
 :-:|:-:
