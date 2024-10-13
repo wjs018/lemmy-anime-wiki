@@ -41,7 +41,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Sword Art Online Alternative: Gun Gale Online II | Sword Art Online Alternative: Gun Gale Online II | https://anilist.co/anime/167141 | [Link](https://ani.social/post/6508373) |
 | Yarinaoshi Reijou wa Ryuutei Heika wo Kouryaku-chuu | The Do-Over Damsel Conquers the Dragon Emperor | https://anilist.co/anime/164299 | [Link](https://ani.social/post/6499454) |
 | Saikyou no Shien-shoku [Wajutsushi] Dearu Ore wa Sekai Saikyou Clan wo Shitagaeru | The Most Notorious "Talker" Runs the World's Greatest Clan | https://anilist.co/anime/177104 | [Link](https://ani.social/post/6435947) |
-| Kami no Tou: Tower of God 2nd Season | Tower of God Season 2 | https://anilist.co/anime/153406 | [Link](https://ani.social/post/6406272) |
+| Kami no Tou: Tower of God 2nd Season | Tower of God Season 2 | https://anilist.co/anime/153406 | [Link](https://ani.social/post/6548198) |
 | Trillion Game | Trillion Game | https://anilist.co/anime/169315 | [Link](https://ani.social/post/6539479) |
 | Tsuma, Shougakusei ni Naru. | TsumaSho | https://anilist.co/anime/162785 | [Link](https://ani.social/post/6547330) |
 | Uzumaki | Uzumaki | https://anilist.co/anime/111314 | [Link](https://ani.social/post/6541214) |
