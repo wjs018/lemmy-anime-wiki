@@ -44,7 +44,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kami no Tou: Tower of God 2nd Season | Tower of God Season 2 | https://anilist.co/anime/153406 | [Link](https://ani.social/post/6406272) |
 | Trillion Game | Trillion Game | https://anilist.co/anime/169315 | [Link](https://ani.social/post/6539479) |
 | Tsuma, Shougakusei ni Naru. | TsumaSho | https://anilist.co/anime/162785 | [Link](https://ani.social/post/6403945) |
-| Uzumaki | Uzumaki | https://anilist.co/anime/111314 | [Link](https://ani.social/post/6398430) |
+| Uzumaki | Uzumaki | https://anilist.co/anime/111314 | [Link](https://ani.social/post/6541214) |
 | Raise wa Tanin ga Ii | Yakuza Fiancé: Raise wa Tanin ga Ii | https://anilist.co/anime/170468 | [Link](https://ani.social/post/6424678) |
 | Kimi wa Meido-sama. | You are Ms. Servant | https://anilist.co/anime/172190 | [Link](https://ani.social/post/6530792) |
 {.dense}
