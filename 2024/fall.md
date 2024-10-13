@@ -121,6 +121,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/6406273)
+2|[Link](https://ani.social/post/6549314)
 {.dense}
 
 ## Mecha-ude (TV) • Mecha Ude: Mechanical Arms
@@ -167,6 +168,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/6406269)
+2|[Link](https://ani.social/post/6549313)
 {.dense}
 
 ## Raise wa Tanin ga Ii • Yakuza Fiancé: Raise wa Tanin ga Ii
