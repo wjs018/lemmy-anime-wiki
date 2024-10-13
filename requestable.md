@@ -123,7 +123,7 @@ These shows have had episodes air already, but no thread was created because the
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 1 |
 | NieR:Automata Ver1.1a 2nd Season | NieR:Automata Ver1.1a Cour 2 | https://anilist.co/anime/167420 | Episode 11 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 139 |
-| ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1121 |
+| ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1122 |
 | Overlord: Sei Oukoku-hen | OVERLORD: The Sacred Kingdom | https://anilist.co/anime/133845 | Episode 1 |
 | POKÉTOON (2024) | POKÉTOON (2024) | https://anilist.co/anime/182386 | Episode 4 |
 | Elf-san wa Yaserarenai. | Plus-Sized Elf | https://anilist.co/anime/173388 | Episode 12 |
