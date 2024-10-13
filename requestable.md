@@ -100,6 +100,7 @@ These shows have had episodes air already, but no thread was created because the
 | Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | Episode 4 |
 | Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 28 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 282 |
+| Goukon ni Ittara Onna ga Inakatta Hanashi | How I Attended an All-Guy's Mixer | https://anilist.co/anime/169931 | Episode 3 |
 | Hyakushou Kizoku 2nd Season | Hyakushou Kizoku 2nd Season | https://anilist.co/anime/171689 | Episode 2 |
 | I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 51 |
 | JOCHUM | JOCHUM | https://anilist.co/anime/179408 | Episode 14 |
@@ -187,7 +188,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Arifureta Shokugyou de Sekai Saikyou 3rd season | Arifureta: From Commonplace to World's Strongest Season 3 | https://anilist.co/anime/154473 | October 14 at 14:00 |
 | Bananya: Around the World | Bananya Around the World | https://anilist.co/anime/180599 | October 14 at 15:00 |
 | Ao no Miburo | Blue Miburo | https://anilist.co/anime/169258 | October 19 at 08:30 |
-| Goukon ni Ittara Onna ga Inakatta Hanashi | How I Attended an All-Guy's Mixer | https://anilist.co/anime/169931 | October 13 at 17:30 |
 | ONE PIECE FAN LETTER | ONE PIECE FAN LETTER | https://anilist.co/anime/182469 | October 20 at 00:30 |
 | Pochars | Pochars | https://anilist.co/anime/182772 | October 15 at 17:25 |
 | Yuru Camp△ SEASON 3 OVA | Yuru Camp△ SEASON 3 OVA | https://anilist.co/anime/177007 | October 22 at 15:00 |
