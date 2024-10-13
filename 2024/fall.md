@@ -251,6 +251,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/6403945)
+2|[Link](https://ani.social/post/6546299)
 {.dense}
 
 ## Uzumaki
