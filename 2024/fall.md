@@ -124,6 +124,13 @@ Episode|Link
 2|[Link](https://ani.social/post/6549314)
 {.dense}
 
+## Maou 2099 • Demon Lord 2099
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/6560442)
+{.dense}
+
 ## Mecha-ude (TV) • Mecha Ude: Mechanical Arms
 
 Episode|Link
