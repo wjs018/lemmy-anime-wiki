@@ -59,9 +59,9 @@ These shows have had episodes air already, but no thread was created because the
 | 0 Saiji Start Dash Monogatari | 0 Saiji Start Dash Monogatari | https://anilist.co/anime/177879 | Episode 12 |
 | 2.5 Jigen no Ririsa | 2.5 Dimensional Seduction | https://anilist.co/anime/158559 | Episode 15 |
 | Isekai Yururi Kikou: Kosodate Shinagara Boukensha Shimasu | A Journey Through Another World: Raising Kids While Adventuring | https://anilist.co/anime/171031 | Episode 12 |
-| Mob kara Hajimaru Tansaku Eiyuutan | A Nobody's Way Up to an Exploration Hero | https://anilist.co/anime/172416 | Episode 12 |
 | ATRI: My Dear Moments | ATRI -My Dear Moments- | https://anilist.co/anime/154963 | Episode 13 |
 | Houkago Shounen Hanako-kun 2 | After-school Hanako-kun Season 2 | https://anilist.co/anime/170893 | Episode 1 |
+| Arifureta Shokugyou de Sekai Saikyou 3rd season | Arifureta: From Commonplace to World's Strongest Season 3 | https://anilist.co/anime/154473 | Episode 1 |
 | Atashin'chi NEXT | Atashin'chi NEXT | https://anilist.co/anime/173313 | Episode 5 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 52 |
 | BLEACH: Sennen Kessen-hen - Soukoku-tan | BLEACH: Thousand-Year Blood War - The Conflict | https://anilist.co/anime/169755 | Episode 2 |
@@ -92,7 +92,7 @@ These shows have had episodes air already, but no thread was created because the
 | Go-toubun no Hanayome * | Go-toubun no Hanayome * | https://anilist.co/anime/177191 | Episode 1 |
 | Sayonara Ryuusei Konnichiwa Jinsei | Good Bye, Dragon Life | https://anilist.co/anime/176053 | Episode 2 |
 | Grendizer U | Grendizer U | https://anilist.co/anime/154195 | Episode 13 |
-| Haigakura | Haigakura | https://anilist.co/anime/168537 | Episode 1 |
+| Haigakura | Haigakura | https://anilist.co/anime/168537 | Episode 2 |
 | Hamidashi Creative | Hamidashi Creative | https://anilist.co/anime/169098 | Episode 2 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 573 |
 | Harimaware! Koinu 2nd Season | Harimaware! Koinu 2nd Season | https://anilist.co/anime/176283 | Episode 12 |
@@ -183,7 +183,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
-| Arifureta Shokugyou de Sekai Saikyou 3rd season | Arifureta: From Commonplace to World's Strongest Season 3 | https://anilist.co/anime/154473 | October 14 at 14:00 |
 | Bananya: Around the World | Bananya Around the World | https://anilist.co/anime/180599 | October 14 at 15:00 |
 | Ao no Miburo | Blue Miburo | https://anilist.co/anime/169258 | October 19 at 08:30 |
 | ONE PIECE FAN LETTER | ONE PIECE FAN LETTER | https://anilist.co/anime/182469 | October 20 at 00:30 |
