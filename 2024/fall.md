@@ -185,6 +185,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/6424678)
+2|[Link](https://ani.social/post/6569233)
 {.dense}
 
 ## Ranma 1/2 (2024) • Ranma1/2 (2024)
