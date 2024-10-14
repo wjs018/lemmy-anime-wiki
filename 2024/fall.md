@@ -28,6 +28,13 @@ Episode|Link
 3|[Link](https://ani.social/post/6488526)
 {.dense}
 
+## Arifureta Shokugyou de Sekai Saikyou 3rd season • Arifureta: From Commonplace to World's Strongest Season 3
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/6570687)
+{.dense}
+
 ## Blue Lock VS. U-20 JAPAN • BLUE LOCK Season 2
 
 Episode|Link
