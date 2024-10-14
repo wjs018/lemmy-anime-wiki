@@ -22,6 +22,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Blue Lock VS. U-20 JAPAN | BLUE LOCK Season 2 | https://anilist.co/anime/163146 | [Link](https://ani.social/post/6528633) |
 | Ao no Hako | Blue Box | https://anilist.co/anime/170942 | [Link](https://ani.social/post/6488526) |
 | Maou 2099 | Demon Lord 2099 | https://anilist.co/anime/163135 | [Link](https://ani.social/post/6560442) |
+| Dragon Ball DAIMA | Dragon Ball DAIMA | https://anilist.co/anime/170083 | [Link](https://ani.social/post/6576268) |
 | Kidou Senshi Gundam: Fukushuu no Requiem | GUNDAM: Requiem for Vengeance | https://anilist.co/anime/166703 |  |
 | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen | Is It Wrong To Try To Pick Up Girls in a Dungeon? V | https://anilist.co/anime/170732 | [Link](https://ani.social/post/6486104) |
 | Rekishi ni Nokoru Akujo ni Naruzo | I’ll Become a Villainess Who Goes Down in History | https://anilist.co/anime/168139 | [Link](https://ani.social/post/6446737) |
@@ -79,7 +80,6 @@ These shows have had episodes air already, but no thread was created because the
 | Delico's Nursery | Delico's Nursery | https://anilist.co/anime/167991 | Episode 7 |
 | Maou-sama, Retry! R | Demon Lord, Retry! R | https://anilist.co/anime/168500 | Episode 3 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 832 |
-| Dragon Ball DAIMA | Dragon Ball DAIMA | https://anilist.co/anime/170083 | Episode 1 |
 | Duel Masters LOST: Tsuioku no Suishou | Duel Masters LOST: Tsuioku no Suishou | https://anilist.co/anime/175473 | Episode 2 |
 | Egumi Legacy | Egumi Legacy | https://anilist.co/anime/177097 | Episode 12 |
 | FAIRY TAIL: 100 YEARS QUEST | FAIRY TAIL 100 YEARS QUEST | https://anilist.co/anime/139095 | Episode 14 |
