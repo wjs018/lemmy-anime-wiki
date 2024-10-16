@@ -123,7 +123,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 139 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1122 |
 | Overlord: Sei Oukoku-hen | OVERLORD: The Sacred Kingdom | https://anilist.co/anime/133845 | Episode 1 |
-| POKÉTOON (2024) | POKÉTOON (2024) | https://anilist.co/anime/182386 | Episode 4 |
+| POKÉTOON (2024) | POKÉTOON (2024) | https://anilist.co/anime/182386 | Episode 5 |
 | Elf-san wa Yaserarenai. | Plus-Sized Elf | https://anilist.co/anime/173388 | Episode 12 |
 | Elf-san wa Yaserarenai. Specials | Plus-Sized Elf Specials | https://anilist.co/anime/179126 | Episode 2 |
 | Pochars | Pochars | https://anilist.co/anime/182772 | Episode 2 |
