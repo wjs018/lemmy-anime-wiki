@@ -103,7 +103,7 @@ These shows have had episodes air already, but no thread was created because the
 | I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 51 |
 | JOCHUM | JOCHUM | https://anilist.co/anime/179408 | Episode 14 |
 | Kagaku×Bouken Survival! | Kagaku×Bouken Survival! | https://anilist.co/anime/174913 | Episode 2 |
-| Kamierabi GOD.app Season 2 | Kamierabi GOD.app Season 2 | https://anilist.co/anime/172199 | Episode 2 |
+| Kamierabi GOD.app Season 2 | Kamierabi GOD.app Season 2 | https://anilist.co/anime/172199 | Episode 3 |
 | Kankin Kuiki Level X | Kankin Kuiki Level X | https://anilist.co/anime/180923 | Episode 6 |
 | Kinnikuman: Kanpeki Choujin Shiso-hen | Kinnikuman Perfect Origin Arc | https://anilist.co/anime/162796 | Episode 12 |
 | Kinokoinu | Kinokoinu Mushroom Pup | https://anilist.co/anime/177581 | Episode 2 |
