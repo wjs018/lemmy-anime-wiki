@@ -17,6 +17,7 @@ Episode|Link
 1|[Link](https://ani.social/post/6322928)
 2|[Link](https://ani.social/post/6465036)
 3|[Link](https://ani.social/post/6465037)
+4|[Link](https://ani.social/post/6610701)
 {.dense}
 
 ## Ao no Hako • Blue Box
@@ -300,6 +301,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/6499454)
+2|[Link](https://ani.social/post/6610700)
 {.dense}
 
 ## Youkai Gakkou no Sensei Hajimemashita! • A Terrified Teacher at Ghoul School!
