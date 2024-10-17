@@ -100,6 +100,7 @@ These shows have had episodes air already, but no thread was created because the
 | Goukon ni Ittara Onna ga Inakatta Hanashi | How I Attended an All-Guy's Mixer | https://anilist.co/anime/169931 | Episode 3 |
 | Hyakushou Kizoku 2nd Season | Hyakushou Kizoku 2nd Season | https://anilist.co/anime/171689 | Episode 2 |
 | I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 52 |
+| Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen | Is It Wrong To Try To Pick Up Girls in a Dungeon? V | https://anilist.co/anime/170732 | Episode 3 |
 | JOCHUM | JOCHUM | https://anilist.co/anime/179408 | Episode 14 |
 | Kagaku×Bouken Survival! | Kagaku×Bouken Survival! | https://anilist.co/anime/174913 | Episode 2 |
 | Kamierabi GOD.app Season 2 | Kamierabi GOD.app Season 2 | https://anilist.co/anime/172199 | Episode 3 |
@@ -183,7 +184,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Ao no Miburo | Blue Miburo | https://anilist.co/anime/169258 | October 19 at 08:30 |
 | Ganbatte Ikimasshoi | Ganbatte Ikimasshoi | https://anilist.co/anime/176245 | October 24 at 16:00 |
-| Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen | Is It Wrong To Try To Pick Up Girls in a Dungeon? V | https://anilist.co/anime/170732 | October 17 at 14:00 |
 | ONE PIECE FAN LETTER | ONE PIECE FAN LETTER | https://anilist.co/anime/182469 | October 20 at 01:30 |
 | Yuru Camp△ SEASON 3 OVA | Yuru Camp△ SEASON 3 OVA | https://anilist.co/anime/177007 | October 22 at 15:00 |
 {.dense}
