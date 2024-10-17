@@ -24,14 +24,13 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Maou 2099 | Demon Lord 2099 | https://anilist.co/anime/163135 | [Link](https://ani.social/post/6560442) |
 | Dragon Ball DAIMA | Dragon Ball DAIMA | https://anilist.co/anime/170083 | [Link](https://ani.social/post/6576268) |
 | Kidou Senshi Gundam: Fukushuu no Requiem | GUNDAM: Requiem for Vengeance | https://anilist.co/anime/166703 | [Link](https://ani.social/post/6627203) |
-| Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen | Is It Wrong To Try To Pick Up Girls in a Dungeon? V | https://anilist.co/anime/170732 | [Link](https://ani.social/post/6486104) |
 | Rekishi ni Nokoru Akujo ni Naruzo | I’ll Become a Villainess Who Goes Down in History | https://anilist.co/anime/168139 | [Link](https://ani.social/post/6590851) |
 | Nageki no Bourei wa Intai Shitai | Let This Grieving Soul Retire | https://anilist.co/anime/175019 | [Link](https://ani.social/post/6548760) |
 | Hitoribocchi no Isekai Kouryaku | Loner Life in Another World | https://anilist.co/anime/173693 | [Link](https://ani.social/post/6488527) |
 | MF Ghost 2nd Season | MF GHOST Season 2 | https://anilist.co/anime/171642 | [Link](https://ani.social/post/6549314) |
 | Kabushiki Gaisha Magi Lumiere | Magilumiere Magical Girls Inc. | https://anilist.co/anime/171025 | [Link](https://ani.social/post/6507907) |
 | Mecha-ude (TV) | Mecha Ude: Mechanical Arms | https://anilist.co/anime/154673 | [Link](https://ani.social/post/6488987) |
-| NegaPosi Angler | Negative Positive Angler | https://anilist.co/anime/179919 | [Link](https://ani.social/post/6487098) |
+| NegaPosi Angler | Negative Positive Angler | https://anilist.co/anime/179919 | [Link](https://ani.social/post/6632165) |
 | Hoshi Furu Oukoku no Nina | Nina the Starry Bride | https://anilist.co/anime/171038 | [Link](https://ani.social/post/6568965) |
 | Chi.: Chikyuu no Undou ni Tsuite | Orb: On the Movements of the Earth | https://anilist.co/anime/151514 | [Link](https://ani.social/post/6528812) |
 | Puniru wa Kawaii Slime | Puniru is a Kawaii Slime | https://anilist.co/anime/171400 | [Link](https://ani.social/post/6549313) |
@@ -162,7 +161,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yami Shibai 13 | Theatre of Darkness: Yamishibai 13 | https://anilist.co/anime/177922 | Episode 13 |
 | Thunderbolt Fantasy: Touriken Yuuki 4 | Thunderbolt Fantasy: Touriken Yuuki 4 | https://anilist.co/anime/138522 | Episode 1 |
 | Ooi! Tonbo 2nd Season | Tonbo! Season 2 | https://anilist.co/anime/178729 | Episode 2 |
-| Tono to Inu | Tono to Inu | https://anilist.co/anime/174390 | Episode 1 |
+| Tono to Inu | Tono to Inu | https://anilist.co/anime/174390 | Episode 2 |
 | Touhai: Ura Rate Mahjong Touhai Roku | Touhai: Ura Rate Mahjong Touhai Roku | https://anilist.co/anime/173263 | Episode 2 |
 | Tousouchuu: Great Mission | Tousouchuu: Great Mission | https://anilist.co/anime/159560 | Episode 76 |
 | Tasogare Outfocus | Twilight Out of Focus | https://anilist.co/anime/166700 | Episode 12 |
@@ -184,6 +183,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Ao no Miburo | Blue Miburo | https://anilist.co/anime/169258 | October 19 at 08:30 |
 | Ganbatte Ikimasshoi | Ganbatte Ikimasshoi | https://anilist.co/anime/176245 | October 24 at 16:00 |
+| Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen | Is It Wrong To Try To Pick Up Girls in a Dungeon? V | https://anilist.co/anime/170732 | October 17 at 14:00 |
 | ONE PIECE FAN LETTER | ONE PIECE FAN LETTER | https://anilist.co/anime/182469 | October 20 at 01:30 |
 | Yuru Camp△ SEASON 3 OVA | Yuru Camp△ SEASON 3 OVA | https://anilist.co/anime/177007 | October 22 at 15:00 |
 {.dense}
