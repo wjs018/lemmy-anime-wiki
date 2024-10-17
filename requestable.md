@@ -106,7 +106,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kamierabi GOD.app Season 2 | Kamierabi GOD.app Season 2 | https://anilist.co/anime/172199 | Episode 3 |
 | Kankin Kuiki Level X | Kankin Kuiki Level X | https://anilist.co/anime/180923 | Episode 6 |
 | Kinnikuman: Kanpeki Choujin Shiso-hen | Kinnikuman Perfect Origin Arc | https://anilist.co/anime/162796 | Episode 12 |
-| Kinokoinu | Kinokoinu Mushroom Pup | https://anilist.co/anime/177581 | Episode 2 |
+| Kinokoinu | Kinokoinu Mushroom Pup | https://anilist.co/anime/177581 | Episode 3 |
 | Kumarba Season 2 | Kumarba Season 2 | https://anilist.co/anime/178395 | Episode 2 |
 | Love Live! Superstar!! 3rd Season | Love Live! Superstar!! Season 3 | https://anilist.co/anime/155502 | Episode 2 |
 | Mayonaka Punch | Mayonaka Punch | https://anilist.co/anime/174044 | Episode 12 |
