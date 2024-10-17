@@ -27,6 +27,7 @@ Episode|Link
 1|[Link](https://ani.social/post/6345315)
 2|[Link](https://ani.social/post/6488525)
 3|[Link](https://ani.social/post/6488526)
+4|[Link](https://ani.social/post/6634927)
 {.dense}
 
 ## Arifureta Shokugyou de Sekai Saikyou 3rd season • Arifureta: From Commonplace to World's Strongest Season 3
@@ -91,6 +92,7 @@ Episode|Link
 1|[Link](https://ani.social/post/6203235)
 2|[Link](https://ani.social/post/6346307)
 3|[Link](https://ani.social/post/6488527)
+4|[Link](https://ani.social/post/6634928)
 {.dense}
 
 ## Hoshi Furu Oukoku no Nina • Nina the Starry Bride
