@@ -24,6 +24,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Maou 2099 | Demon Lord 2099 | https://anilist.co/anime/163135 | [Link](https://ani.social/post/6560442) |
 | Dragon Ball DAIMA | Dragon Ball DAIMA | https://anilist.co/anime/170083 | [Link](https://ani.social/post/6656572) |
 | Kidou Senshi Gundam: Fukushuu no Requiem | GUNDAM: Requiem for Vengeance | https://anilist.co/anime/166703 | [Link](https://ani.social/post/6627203) |
+| Goukon ni Ittara Onna ga Inakatta Hanashi | How I Attended an All-Guy's Mixer | https://anilist.co/anime/169931 | [Link](https://ani.social/post/6668730) |
 | Rekishi ni Nokoru Akujo ni Naruzo | I’ll Become a Villainess Who Goes Down in History | https://anilist.co/anime/168139 | [Link](https://ani.social/post/6590851) |
 | Nageki no Bourei wa Intai Shitai | Let This Grieving Soul Retire | https://anilist.co/anime/175019 | [Link](https://ani.social/post/6548760) |
 | Hitoribocchi no Isekai Kouryaku | Loner Life in Another World | https://anilist.co/anime/173693 | [Link](https://ani.social/post/6634928) |
@@ -97,7 +98,6 @@ These shows have had episodes air already, but no thread was created because the
 | Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | Episode 4 |
 | Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 28 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 282 |
-| Goukon ni Ittara Onna ga Inakatta Hanashi | How I Attended an All-Guy's Mixer | https://anilist.co/anime/169931 | Episode 3 |
 | Hyakushou Kizoku 2nd Season | Hyakushou Kizoku 2nd Season | https://anilist.co/anime/171689 | Episode 3 |
 | I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 52 |
 | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen | Is It Wrong To Try To Pick Up Girls in a Dungeon? V | https://anilist.co/anime/170732 | Episode 3 |
