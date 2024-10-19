@@ -147,6 +147,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/6388296)
 2|[Link](https://ani.social/post/6530792)
+3|[Link](https://ani.social/post/6681432)
 {.dense}
 
 ## MF Ghost 2nd Season • MF GHOST Season 2
