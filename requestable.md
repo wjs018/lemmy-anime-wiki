@@ -67,6 +67,7 @@ These shows have had episodes air already, but no thread was created because the
 | BanG Dream! It's MyGO!!!!!: Haru no Hidamari, Mayoi Neko | BanG Dream! It's MyGO!!!!!: Haru no Hidamari, Mayoi Neko | https://anilist.co/anime/173174 | Episode 1 |
 | Bananya: Around the World | Bananya Around the World | https://anilist.co/anime/180599 | Episode 1 |
 | Ao no Exorcist: Yuki no Hate-hen | Blue Exorcist -Beyond the Snow Saga- | https://anilist.co/anime/176311 | Episode 2 |
+| Ao no Miburo | Blue Miburo | https://anilist.co/anime/169258 | Episode 1 |
 | BONOBONO (2016) | Bono Bono (2016) | https://anilist.co/anime/21552 | Episode 432 |
 | Bye Bye, Earth | Bye Bye, Earth | https://anilist.co/anime/157371 | Episode 11 |
 | Cardfight!! Vanguard: Divinez Season 2 | CARDFIGHT!! VANGUARD Divinez Season 2 | https://anilist.co/anime/165681 | Episode 13 |
@@ -142,7 +143,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shadowverse Flame: Arc-hen | Shadowverse Flame: Arc-hen | https://anilist.co/anime/172187 | Episode 23 |
 | Shibuya♡Hachi Part 2 | Shibuya♡Hachi Part 2 | https://anilist.co/anime/181835 | Episode 3 |
 | Shimajirou no Wow! | Shimajiro: A Wonderful Adventure | https://anilist.co/anime/18941 | Episode 644 |
-| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1254 |
+| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1255 |
 | Shinkalion: Change the World | Shinkalion: Change the World | https://anilist.co/anime/172395 | Episode 26 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1672 |
 | Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF | Spice and Wolf: MERCHANT MEETS THE WISE WOLF | https://anilist.co/anime/145728 | Episode 25 |
@@ -181,7 +182,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
-| Ao no Miburo | Blue Miburo | https://anilist.co/anime/169258 | October 19 at 08:30 |
 | Ganbatte Ikimasshoi | Ganbatte Ikimasshoi | https://anilist.co/anime/176245 | October 24 at 16:00 |
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | August 21 at 15:30 |
 | ONE PIECE FAN LETTER | ONE PIECE FAN LETTER | https://anilist.co/anime/182469 | October 20 at 01:30 |
