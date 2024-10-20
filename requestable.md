@@ -125,7 +125,7 @@ These shows have had episodes air already, but no thread was created because the
 | Pochars | Pochars | https://anilist.co/anime/182772 | Episode 2 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 69 |
 | Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2066 |
-| Punirunes Puni 2 | Punirunes Puni 2 | https://anilist.co/anime/179292 | Episode 2 |
+| Punirunes Puni 2 | Punirunes Puni 2 | https://anilist.co/anime/179292 | Episode 3 |
 | Kono Sekai wa Fukanzen Sugiru | Quality Assurance in Another World | https://anilist.co/anime/163077 | Episode 12 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | https://anilist.co/anime/182417 | Episode 3 |
 | Rick and Morty: The Anime | Rick and Morty: The Anime | https://anilist.co/anime/150103 | Episode 10 |
