@@ -38,7 +38,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season | Re:ZERO -Starting Life in Another World- Season 3 | https://anilist.co/anime/163134 | [Link](https://ani.social/post/6610423) |
 | Kamonohashi Ron no Kindan Suiri 2nd Season | Ron Kamonohashi’s Forbidden Deductions Season 2 | https://anilist.co/anime/172355 | [Link](https://ani.social/post/6568964) |
 | Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran | Rurouni Kenshin -Kyoto Disturbance- | https://anilist.co/anime/171637 | [Link](https://ani.social/post/6635742) |
-| Shangri-La Frontier 2nd Season | Shangri-La Frontier Season 2 | https://anilist.co/anime/176508 | [Link](https://ani.social/post/6542702) |
+| Shangri-La Frontier 2nd Season | Shangri-La Frontier Season 2 | https://anilist.co/anime/176508 | [Link](https://ani.social/post/6693440) |
 | Sword Art Online Alternative: Gun Gale Online II | Sword Art Online Alternative: Gun Gale Online II | https://anilist.co/anime/167141 | [Link](https://ani.social/post/6656947) |
 | Yarinaoshi Reijou wa Ryuutei Heika wo Kouryaku-chuu | The Do-Over Damsel Conquers the Dragon Emperor | https://anilist.co/anime/164299 | [Link](https://ani.social/post/6610700) |
 | Saikyou no Shien-shoku [Wajutsushi] Dearu Ore wa Sekai Saikyou Clan wo Shitagaeru | The Most Notorious "Talker" Runs the World's Greatest Clan | https://anilist.co/anime/177104 | [Link](https://ani.social/post/6570332) |
@@ -105,7 +105,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kinnikuman: Kanpeki Choujin Shiso-hen | Kinnikuman Perfect Origin Arc | https://anilist.co/anime/162796 | Episode 12 |
 | Kinokoinu | Kinokoinu Mushroom Pup | https://anilist.co/anime/177581 | Episode 3 |
 | Kumarba Season 2 | Kumarba Season 2 | https://anilist.co/anime/178395 | Episode 3 |
-| Love Live! Superstar!! 3rd Season | Love Live! Superstar!! Season 3 | https://anilist.co/anime/155502 | Episode 2 |
+| Love Live! Superstar!! 3rd Season | Love Live! Superstar!! Season 3 | https://anilist.co/anime/155502 | Episode 3 |
 | Mayonaka Punch | Mayonaka Punch | https://anilist.co/anime/174044 | Episode 12 |
 | Yozakura-san Chi no Daisakusen | Mission: Yozakura Family | https://anilist.co/anime/158898 | Episode 27 |
 | Monogatari Series: Off and Monster Season | Monogatari Series: Off and Monster Season | https://anilist.co/anime/173533 | Episode 13 |
