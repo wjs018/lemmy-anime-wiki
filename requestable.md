@@ -102,6 +102,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kinnikuman: Kanpeki Choujin Shiso-hen | Kinnikuman Perfect Origin Arc | https://anilist.co/anime/162796 | Episode 12 |
 | Kinokoinu | Kinokoinu Mushroom Pup | https://anilist.co/anime/177581 | Episode 3 |
 | Kumarba Season 2 | Kumarba Season 2 | https://anilist.co/anime/178395 | Episode 3 |
+| Nageki no Bourei wa Intai Shitai | Let This Grieving Soul Retire | https://anilist.co/anime/175019 | Episode 4 |
 | Love Live! Superstar!! 3rd Season | Love Live! Superstar!! Season 3 | https://anilist.co/anime/155502 | Episode 3 |
 | Mayonaka Punch | Mayonaka Punch | https://anilist.co/anime/174044 | Episode 12 |
 | Yozakura-san Chi no Daisakusen | Mission: Yozakura Family | https://anilist.co/anime/158898 | Episode 27 |
@@ -173,7 +174,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Ganbatte Ikimasshoi | Ganbatte Ikimasshoi | https://anilist.co/anime/176245 | October 24 at 16:00 |
-| Nageki no Bourei wa Intai Shitai | Let This Grieving Soul Retire | https://anilist.co/anime/175019 | October 20 at 15:30 |
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | August 21 at 15:30 |
 | Yuru Camp△ SEASON 3 OVA | Yuru Camp△ SEASON 3 OVA | https://anilist.co/anime/177007 | October 22 at 15:00 |
 {.dense}
