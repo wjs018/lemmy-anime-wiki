@@ -139,7 +139,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shibuya♡Hachi Part 2 | Shibuya♡Hachi Part 2 | https://anilist.co/anime/181835 | Episode 3 |
 | Shimajirou no Wow! | Shimajiro: A Wonderful Adventure | https://anilist.co/anime/18941 | Episode 644 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1255 |
-| Shinkalion: Change the World | Shinkalion: Change the World | https://anilist.co/anime/172395 | Episode 26 |
+| Shinkalion: Change the World | Shinkalion: Change the World | https://anilist.co/anime/172395 | Episode 27 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1672 |
 | Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF | Spice and Wolf: MERCHANT MEETS THE WISE WOLF | https://anilist.co/anime/145728 | Episode 25 |
 | The iDOLM@STER: Shiny Colors 2nd season | THE iDOLM@Ster SHINY COLORS Season 2 | https://anilist.co/anime/175533 | Episode 3 |
@@ -163,7 +163,7 @@ These shows have had episodes air already, but no thread was created because the
 | Girigiri Warukunai Watame | Watame Did Borderline Nothing Wrong | https://anilist.co/anime/146004 | Episode 79 |
 | Naze Boku no Sekai wo Daremo Oboeteinai no ka? | Why Does Nobody Remember Me in This World? | https://anilist.co/anime/167419 | Episode 12 |
 | Tsue to Tsurugi no Wistoria | Wistoria: Wand and Sword | https://anilist.co/anime/174576 | Episode 12 |
-| Wonderful Precure! | Wonderful Precure! | https://anilist.co/anime/171030 | Episode 37 |
+| Wonderful Precure! | Wonderful Precure! | https://anilist.co/anime/171030 | Episode 38 |
 | Karasu wa Aruji wo Erabanai | YATAGARASU: The Raven Does Not Choose Its Master | https://anilist.co/anime/170503 | Episode 20 |
 | Yozakura-san Chi no Mini Sakusen | Yozakura-san Chi no Mini Sakusen | https://anilist.co/anime/176909 | Episode 27 |
 | Yu☆Gi☆Oh! Go Rush!! | Yu☆Gi☆Oh! Go Rush!! | https://anilist.co/anime/142842 | Episode 130 |
