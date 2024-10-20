@@ -291,6 +291,7 @@ Episode|Link
 1|[Link](https://ani.social/post/6264380)
 2|[Link](https://ani.social/post/6407275)
 3|[Link](https://ani.social/post/6548759)
+4|[Link](https://ani.social/post/6700532)
 {.dense}
 
 ## Trillion Game
