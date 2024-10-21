@@ -106,6 +106,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/6436391)
 2|[Link](https://ani.social/post/6568965)
+3|[Link](https://ani.social/post/6720386)
 {.dense}
 
 ## Kabushiki Gaisha Magi Lumiere • Magilumiere Magical Girls Inc.
