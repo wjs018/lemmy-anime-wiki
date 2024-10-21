@@ -113,7 +113,6 @@ These shows have had episodes air already, but no thread was created because the
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1123 |
 | ONE PIECE FAN LETTER | ONE PIECE FAN LETTER | https://anilist.co/anime/182469 | Episode 1 |
 | POKÉTOON (2024) | POKÉTOON (2024) | https://anilist.co/anime/182386 | Episode 5 |
-| Elf-san wa Yaserarenai. | Plus-Sized Elf | https://anilist.co/anime/173388 | Episode 12 |
 | Elf-san wa Yaserarenai. Specials | Plus-Sized Elf Specials | https://anilist.co/anime/179126 | Episode 2 |
 | Pochars | Pochars | https://anilist.co/anime/182772 | Episode 2 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 69 |
@@ -127,7 +126,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sai-Kyo-Oh! Zukan: The Ultimate Battles | Sai-Kyo-Oh! Zukan: The Ultimate Battles | https://anilist.co/anime/173216 | Episode 42 |
 | Tensui no Sakuna-hime | Sakuna: Of Rice and Ruin | https://anilist.co/anime/175868 | Episode 13 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2757 |
-| Seirei Gensouki 2 | Seirei Gensouki: Spirit Chronicles Season 2 | https://anilist.co/anime/141182 | Episode 2 |
+| Seirei Gensouki 2 | Seirei Gensouki: Spirit Chronicles Season 2 | https://anilist.co/anime/141182 | Episode 3 |
 | Sengoku Youko: Senma Konton-hen | Sengoku Youko: The Thousandfold Chaos Arc | https://anilist.co/anime/176660 | Episode 12 |
 | Shadowverse Flame: Arc-hen | Shadowverse Flame: Arc-hen | https://anilist.co/anime/172187 | Episode 23 |
 | Shibuya♡Hachi Part 2 | Shibuya♡Hachi Part 2 | https://anilist.co/anime/181835 | Episode 3 |
