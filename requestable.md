@@ -83,7 +83,7 @@ These shows have had episodes air already, but no thread was created because the
 | Girls' F1st!!!! GT | Girls' F1st!!!! GT | https://anilist.co/anime/178067 | Episode 12 |
 | Sayonara Ryuusei Konnichiwa Jinsei | Good Bye, Dragon Life | https://anilist.co/anime/176053 | Episode 3 |
 | Grendizer U | Grendizer U | https://anilist.co/anime/154195 | Episode 13 |
-| Haigakura | Haigakura | https://anilist.co/anime/168537 | Episode 2 |
+| Haigakura | Haigakura | https://anilist.co/anime/168537 | Episode 3 |
 | Hamidashi Creative | Hamidashi Creative | https://anilist.co/anime/169098 | Episode 3 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 574 |
 | Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | Episode 4 |
