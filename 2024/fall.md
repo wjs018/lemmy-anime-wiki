@@ -35,6 +35,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/6570687)
+2|[Link](https://ani.social/post/6720635)
 {.dense}
 
 ## Blue Lock VS. U-20 JAPAN • BLUE LOCK Season 2
@@ -223,6 +224,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/6424678)
 2|[Link](https://ani.social/post/6569233)
+3|[Link](https://ani.social/post/6720636)
 {.dense}
 
 ## Ranma 1/2 (2024) • Ranma1/2 (2024)
