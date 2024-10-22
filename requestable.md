@@ -104,7 +104,6 @@ These shows have had episodes air already, but no thread was created because the
 | Monogatari Series: Off and Monster Season | Monogatari Series: Off and Monster Season | https://anilist.co/anime/173533 | Episode 13 |
 | Murai no Koi | Murai In Love | https://anilist.co/anime/150930 | Episode 7 |
 | Boku no Hero Academia 7 | My Hero Academia Season 7 | https://anilist.co/anime/163139 | Episode 21 |
-| Na-Nare Hana-Nare | Narenare -Cheer for you!- | https://anilist.co/anime/170891 | Episode 12 |
 | Natsume Yuujinchou Shichi | Natsume's Book of Friends Season 7 | https://anilist.co/anime/166611 | Episode 3 |
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 3 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 140 |
@@ -151,7 +150,7 @@ These shows have had episodes air already, but no thread was created because the
 | Touhai: Ura Rate Mahjong Touhai Roku | Touhai: Ura Rate Mahjong Touhai Roku | https://anilist.co/anime/173263 | Episode 3 |
 | Tousouchuu: Great Mission | Tousouchuu: Great Mission | https://anilist.co/anime/159560 | Episode 77 |
 | Tsuma, Shougakusei ni Naru. | TsumaSho | https://anilist.co/anime/162785 | Episode 4 |
-| Amagami-san Chi no Enmusubi | Tying the Knot with an Amagami Sister | https://anilist.co/anime/164172 | Episode 3 |
+| Amagami-san Chi no Enmusubi | Tying the Knot with an Amagami Sister | https://anilist.co/anime/164172 | Episode 4 |
 | Girigiri Warukunai Watame | Watame Did Borderline Nothing Wrong | https://anilist.co/anime/146004 | Episode 79 |
 | Naze Boku no Sekai wo Daremo Oboeteinai no ka? | Why Does Nobody Remember Me in This World? | https://anilist.co/anime/167419 | Episode 12 |
 | Tsue to Tsurugi no Wistoria | Wistoria: Wand and Sword | https://anilist.co/anime/174576 | Episode 12 |
