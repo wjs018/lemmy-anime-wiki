@@ -535,6 +535,13 @@ Episode|Link
 12|[Link](https://ani.social/post/6117686)
 {.dense}
 
+## Yuru Camp△ SEASON 3 OVA
+
+Episode|Link
+:-:|:-:
+3|[Link](https://ani.social/post/6769666)
+{.dense}
+
 ## [Oshi no Ko] 2nd Season • Oshi no Ko Season 2
 
 Episode|Link
