@@ -119,7 +119,6 @@ These shows have had episodes air already, but no thread was created because the
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | https://anilist.co/anime/182417 | Episode 4 |
 | Rick and Morty: The Anime | Rick and Morty: The Anime | https://anilist.co/anime/150103 | Episode 10 |
 | Kamonohashi Ron no Kindan Suiri 2nd Season | Ron Kamonohashi’s Forbidden Deductions Season 2 | https://anilist.co/anime/172355 | Episode 3 |
-| SHY: Tokyo Dakkan-hen | SHY Season 2 | https://anilist.co/anime/171748 | Episode 12 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Battles | Sai-Kyo-Oh! Zukan: The Ultimate Battles | https://anilist.co/anime/173216 | Episode 42 |
 | Tensui no Sakuna-hime | Sakuna: Of Rice and Ruin | https://anilist.co/anime/175868 | Episode 13 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2757 |
