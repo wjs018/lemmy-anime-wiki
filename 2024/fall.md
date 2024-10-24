@@ -65,6 +65,7 @@ Episode|Link
 1|[Link](https://ani.social/post/6346602)
 2|[Link](https://ani.social/post/6488316)
 3|[Link](https://ani.social/post/6638546)
+4|[Link](https://ani.social/post/6781790)
 {.dense}
 
 ## Dragon Ball DAIMA
@@ -178,6 +179,7 @@ Episode|Link
 1|[Link](https://ani.social/post/6345548)
 2|[Link](https://ani.social/post/6488987)
 3|[Link](https://ani.social/post/6635283)
+4|[Link](https://ani.social/post/6783356)
 {.dense}
 
 ## Murai no Koi • Murai In Love
