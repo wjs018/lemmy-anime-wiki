@@ -84,7 +84,6 @@ These shows have had episodes air already, but no thread was created because the
 | Haigakura | Haigakura | https://anilist.co/anime/168537 | Episode 3 |
 | Hamidashi Creative | Hamidashi Creative | https://anilist.co/anime/169098 | Episode 3 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 574 |
-| Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | Episode 4 |
 | Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 29 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 283 |
 | Goukon ni Ittara Onna ga Inakatta Hanashi | How I Attended an All-Guy's Mixer | https://anilist.co/anime/169931 | Episode 4 |
@@ -136,7 +135,6 @@ These shows have had episodes air already, but no thread was created because the
 | Nige Jouzu no Wakagimi | The Elusive Samurai | https://anilist.co/anime/162896 | Episode 12 |
 | The Fable | The Fable | https://anilist.co/anime/166910 | Episode 25 |
 | Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki | The Healer Who Was Banished From His Party, Is, in Fact, the Strongest | https://anilist.co/anime/174043 | Episode 3 |
-| Katsute Mahou Shoujo to Aku wa Tekitai Shite Ita. | The Magical Girl and the Evil Lieutenant Used to Be Archenemies | https://anilist.co/anime/170938 | Episode 12 |
 | Shin Tennis no Ouji-sama: U-17 WORLD CUP SEMIFINAL | The Prince of Tennis II U-17 World Cup Semifinal | https://anilist.co/anime/165810 | Episode 4 |
 | Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season | The Seven Deadly Sins: Four Knights of the Apocalypse Season 2 | https://anilist.co/anime/176292 | Episode 3 |
 | Mahoutsukai ni Narenakatta Onnanoko no Hanashi. | The Stories of Girls Who Couldn't Be Magicians | https://anilist.co/anime/107372 | Episode 3 |
@@ -163,6 +161,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Ganbatte Ikimasshoi | Ganbatte Ikimasshoi | https://anilist.co/anime/176245 | October 24 at 16:00 |
+| Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | October 29 at 15:00 |
 | KUROMI'S PRETTY JOURNEY: Hacha Mecha! Multiverse Daidasshutsu! | KUROMI'S PRETTY JOURNEY: Hacha Mecha! Multiverse Daidasshutsu! | https://anilist.co/anime/183471 | October 31 at 10:00 |
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | August 21 at 15:30 |
 | ONE PIECE: Gyojin Tou-hen | One Piece Log: Fish-Man Island Saga | https://anilist.co/anime/183423 | November 03 at 01:30 |
