@@ -105,7 +105,7 @@ These shows have had episodes air already, but no thread was created because the
 | Boku no Hero Academia 7 | My Hero Academia Season 7 | https://anilist.co/anime/163139 | Episode 21 |
 | Natsume Yuujinchou Shichi | Natsume's Book of Friends Season 7 | https://anilist.co/anime/166611 | Episode 3 |
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 3 |
-| Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 140 |
+| Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 141 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1123 |
 | ONE PIECE FAN LETTER | ONE PIECE FAN LETTER | https://anilist.co/anime/182469 | Episode 1 |
 | POKÉTOON (2024) | POKÉTOON (2024) | https://anilist.co/anime/182386 | Episode 6 |
