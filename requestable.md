@@ -71,7 +71,7 @@ These shows have had episodes air already, but no thread was created because the
 | Delico's Nursery | Delico's Nursery | https://anilist.co/anime/167991 | Episode 8 |
 | Maou-sama, Retry! R | Demon Lord, Retry! R | https://anilist.co/anime/168500 | Episode 4 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 833 |
-| Duel Masters LOST: Tsuioku no Suishou | Duel Masters LOST: Tsuioku no Suishou | https://anilist.co/anime/175473 | Episode 3 |
+| Duel Masters LOST: Tsuioku no Suishou | Duel Masters LOST: Tsuioku no Suishou | https://anilist.co/anime/175473 | Episode 2 |
 | FAIRY TAIL: 100 YEARS QUEST | FAIRY TAIL 100 YEARS QUEST | https://anilist.co/anime/139095 | Episode 15 |
 | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells | https://anilist.co/anime/173694 | Episode 12 |
 | Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 2 | Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 2 | https://anilist.co/anime/179991 | Episode 14 |
@@ -112,7 +112,7 @@ These shows have had episodes air already, but no thread was created because the
 | POKÉTOON (2024) | POKÉTOON (2024) | https://anilist.co/anime/182386 | Episode 6 |
 | Elf-san wa Yaserarenai. Specials | Plus-Sized Elf Specials | https://anilist.co/anime/179126 | Episode 2 |
 | Pochars | Pochars | https://anilist.co/anime/182772 | Episode 3 |
-| Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 69 |
+| Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 70 |
 | Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2067 |
 | Puniru wa Kawaii Slime | Puniru is a Kawaii Slime | https://anilist.co/anime/171400 | Episode 3 |
 | Punirunes Puni 2 | Punirunes Puni 2 | https://anilist.co/anime/179292 | Episode 3 |
@@ -147,7 +147,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tousouchuu: Great Mission | Tousouchuu: Great Mission | https://anilist.co/anime/159560 | Episode 77 |
 | Tsuma, Shougakusei ni Naru. | TsumaSho | https://anilist.co/anime/162785 | Episode 4 |
 | Amagami-san Chi no Enmusubi | Tying the Knot with an Amagami Sister | https://anilist.co/anime/164172 | Episode 4 |
-| Girigiri Warukunai Watame | Watame Did Borderline Nothing Wrong | https://anilist.co/anime/146004 | Episode 79 |
+| Girigiri Warukunai Watame | Watame Did Borderline Nothing Wrong | https://anilist.co/anime/146004 | Episode 80 |
 | Naze Boku no Sekai wo Daremo Oboeteinai no ka? | Why Does Nobody Remember Me in This World? | https://anilist.co/anime/167419 | Episode 12 |
 | Tsue to Tsurugi no Wistoria | Wistoria: Wand and Sword | https://anilist.co/anime/174576 | Episode 12 |
 | Wonderful Precure! | Wonderful Precure! | https://anilist.co/anime/171030 | Episode 38 |
