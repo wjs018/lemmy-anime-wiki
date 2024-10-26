@@ -58,7 +58,7 @@ These shows have had episodes air already, but no thread was created because the
 | Bananya: Around the World | Bananya Around the World | https://anilist.co/anime/180599 | Episode 1 |
 | Ao no Hako | Blue Box | https://anilist.co/anime/170942 | Episode 5 |
 | Ao no Exorcist: Yuki no Hate-hen | Blue Exorcist -Beyond the Snow Saga- | https://anilist.co/anime/176311 | Episode 3 |
-| Ao no Miburo | Blue Miburo | https://anilist.co/anime/169258 | Episode 1 |
+| Ao no Miburo | Blue Miburo | https://anilist.co/anime/169258 | Episode 2 |
 | BONOBONO (2016) | Bono Bono (2016) | https://anilist.co/anime/21552 | Episode 433 |
 | Cardfight!! Vanguard: Divinez Season 2 | CARDFIGHT!! VANGUARD Divinez Season 2 | https://anilist.co/anime/165681 | Episode 13 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1139 |
@@ -90,7 +90,7 @@ These shows have had episodes air already, but no thread was created because the
 | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen | Is It Wrong To Try To Pick Up Girls in a Dungeon? V | https://anilist.co/anime/170732 | Episode 4 |
 | JOCHUM | JOCHUM | https://anilist.co/anime/179408 | Episode 16 |
 | Kuzurinen | KUZURI | https://anilist.co/anime/183394 | Episode 1 |
-| Kagaku×Bouken Survival! | Kagaku×Bouken Survival! | https://anilist.co/anime/174913 | Episode 3 |
+| Kagaku×Bouken Survival! | Kagaku×Bouken Survival! | https://anilist.co/anime/174913 | Episode 4 |
 | Kamierabi GOD.app Season 2 | Kamierabi GOD.app Season 2 | https://anilist.co/anime/172199 | Episode 4 |
 | Kankin Kuiki Level X | Kankin Kuiki Level X | https://anilist.co/anime/180923 | Episode 7 |
 | Kinokoinu | Kinokoinu Mushroom Pup | https://anilist.co/anime/177581 | Episode 4 |
