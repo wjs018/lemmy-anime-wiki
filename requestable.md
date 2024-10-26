@@ -37,7 +37,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Trillion Game | Trillion Game | https://anilist.co/anime/169315 | [Link](https://ani.social/post/6785228) |
 | Uzumaki | Uzumaki | https://anilist.co/anime/111314 | [Link](https://ani.social/post/6691016) |
 | Raise wa Tanin ga Ii | Yakuza Fiancé: Raise wa Tanin ga Ii | https://anilist.co/anime/170468 | [Link](https://ani.social/post/6720636) |
-| Kimi wa Meido-sama. | You are Ms. Servant | https://anilist.co/anime/172190 | [Link](https://ani.social/post/6681432) |
 | Yuru Camp△ SEASON 3 OVA | Yuru Camp△ SEASON 3 OVA | https://anilist.co/anime/177007 | [Link](https://ani.social/post/6769666) |
 {.dense}
 
@@ -166,4 +165,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | KUROMI'S PRETTY JOURNEY: Hacha Mecha! Multiverse Daidasshutsu! | KUROMI'S PRETTY JOURNEY: Hacha Mecha! Multiverse Daidasshutsu! | https://anilist.co/anime/183471 | October 31 at 10:00 |
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | August 21 at 15:30 |
 | ONE PIECE: Gyojin Tou-hen | One Piece Log: Fish-Man Island Saga | https://anilist.co/anime/183423 | November 03 at 01:30 |
+| Kimi wa Meido-sama. | You are Ms. Servant | https://anilist.co/anime/172190 | October 26 at 17:30 |
 {.dense}
