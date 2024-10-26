@@ -149,6 +149,7 @@ These shows have had episodes air already, but no thread was created because the
 | Naze Boku no Sekai wo Daremo Oboeteinai no ka? | Why Does Nobody Remember Me in This World? | https://anilist.co/anime/167419 | Episode 12 |
 | Tsue to Tsurugi no Wistoria | Wistoria: Wand and Sword | https://anilist.co/anime/174576 | Episode 12 |
 | Wonderful Precure! | Wonderful Precure! | https://anilist.co/anime/171030 | Episode 38 |
+| Kimi wa Meido-sama. | You are Ms. Servant | https://anilist.co/anime/172190 | Episode 4 |
 | Yozakura-san Chi no Mini Sakusen | Yozakura-san Chi no Mini Sakusen | https://anilist.co/anime/176909 | Episode 27 |
 | Yu☆Gi☆Oh! Go Rush!! | Yu☆Gi☆Oh! Go Rush!! | https://anilist.co/anime/142842 | Episode 130 |
 {.dense}
@@ -165,5 +166,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | KUROMI'S PRETTY JOURNEY: Hacha Mecha! Multiverse Daidasshutsu! | KUROMI'S PRETTY JOURNEY: Hacha Mecha! Multiverse Daidasshutsu! | https://anilist.co/anime/183471 | October 31 at 10:00 |
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | August 21 at 15:30 |
 | ONE PIECE: Gyojin Tou-hen | One Piece Log: Fish-Man Island Saga | https://anilist.co/anime/183423 | November 03 at 01:30 |
-| Kimi wa Meido-sama. | You are Ms. Servant | https://anilist.co/anime/172190 | October 26 at 17:30 |
 {.dense}
