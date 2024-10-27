@@ -163,5 +163,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | October 29 at 15:00 |
 | KUROMI'S PRETTY JOURNEY: Hacha Mecha! Multiverse Daidasshutsu! | KUROMI'S PRETTY JOURNEY Season 2: Escape from the Multiverse! | https://anilist.co/anime/183471 | October 31 at 10:00 |
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | August 21 at 15:30 |
+| Okaimono Panda! | Okaimono Panda! | https://anilist.co/anime/177603 | November 06 at 12:54 |
 | ONE PIECE: Gyojin Tou-hen | One Piece Log: Fish-Man Island Saga | https://anilist.co/anime/183423 | November 03 at 01:30 |
 {.dense}
