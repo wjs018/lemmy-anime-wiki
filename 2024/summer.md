@@ -535,7 +535,7 @@ Episode|Link
 12|[Link](https://ani.social/post/6117686)
 {.dense}
 
-## Yuru Camp△ SEASON 3 OVA
+## Yuru Camp△ SEASON 3 OVA • Laid-Back Camp Season 3 OVA
 
 Episode|Link
 :-:|:-:
