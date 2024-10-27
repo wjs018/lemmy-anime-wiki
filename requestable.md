@@ -73,13 +73,12 @@ These shows have had episodes air already, but no thread was created because the
 | Ganbatte Ikimasshoi | Ganbatte Ikimasshoi | https://anilist.co/anime/176245 | Episode 1 |
 | Girls' F1st!!!! GT | Girls' F1st!!!! GT | https://anilist.co/anime/178067 | Episode 12 |
 | Sayonara Ryuusei Konnichiwa Jinsei | Good Bye, Dragon Life | https://anilist.co/anime/176053 | Episode 4 |
-| Grendizer U | Grendizer U | https://anilist.co/anime/154195 | Episode 13 |
 | Haigakura | Haigakura | https://anilist.co/anime/168537 | Episode 3 |
 | Hamidashi Creative | Hamidashi Creative | https://anilist.co/anime/169098 | Episode 4 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 575 |
 | Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 30 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 284 |
-| Goukon ni Ittara Onna ga Inakatta Hanashi | How I Attended an All-Guy's Mixer | https://anilist.co/anime/169931 | Episode 4 |
+| Goukon ni Ittara Onna ga Inakatta Hanashi | How I Attended an All-Guy's Mixer | https://anilist.co/anime/169931 | Episode 5 |
 | Hyakushou Kizoku 2nd Season | Hyakushou Kizoku 2nd Season | https://anilist.co/anime/171689 | Episode 4 |
 | I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 53 |
 | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen | Is It Wrong To Try To Pick Up Girls in a Dungeon? V | https://anilist.co/anime/170732 | Episode 4 |
