@@ -148,7 +148,7 @@ These shows have had episodes air already, but no thread was created because the
 | Girigiri Warukunai Watame | Watame Did Borderline Nothing Wrong | https://anilist.co/anime/146004 | Episode 80 |
 | Naze Boku no Sekai wo Daremo Oboeteinai no ka? | Why Does Nobody Remember Me in This World? | https://anilist.co/anime/167419 | Episode 12 |
 | Tsue to Tsurugi no Wistoria | Wistoria: Wand and Sword | https://anilist.co/anime/174576 | Episode 12 |
-| Wonderful Precure! | Wonderful Precure! | https://anilist.co/anime/171030 | Episode 38 |
+| Wonderful Precure! | Wonderful Precure! | https://anilist.co/anime/171030 | Episode 39 |
 | Kimi wa Meido-sama. | You are Ms. Servant | https://anilist.co/anime/172190 | Episode 4 |
 | Yozakura-san Chi no Mini Sakusen | Yozakura-san Chi no Mini Sakusen | https://anilist.co/anime/176909 | Episode 27 |
 | Yu☆Gi☆Oh! Go Rush!! | Yu☆Gi☆Oh! Go Rush!! | https://anilist.co/anime/142842 | Episode 131 |
