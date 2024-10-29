@@ -106,7 +106,7 @@ These shows have had episodes air already, but no thread was created because the
 | ONE PIECE FAN LETTER | ONE PIECE FAN LETTER | https://anilist.co/anime/182469 | Episode 1 |
 | POKÉTOON (2024) | POKÉTOON (2024) | https://anilist.co/anime/182386 | Episode 6 |
 | Elf-san wa Yaserarenai. Specials | Plus-Sized Elf Specials | https://anilist.co/anime/179126 | Episode 2 |
-| Pochars | Pochars | https://anilist.co/anime/182772 | Episode 3 |
+| Pochars | Pochars | https://anilist.co/anime/182772 | Episode 4 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 70 |
 | Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2068 |
 | Puniru wa Kawaii Slime | Puniru is a Kawaii Slime | https://anilist.co/anime/171400 | Episode 4 |
