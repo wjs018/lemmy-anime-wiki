@@ -57,7 +57,7 @@ These shows have had episodes air already, but no thread was created because the
 | BONOBONO (2016) | Bono Bono (2016) | https://anilist.co/anime/21552 | Episode 433 |
 | Cardfight!! Vanguard: Divinez Season 2 | CARDFIGHT!! VANGUARD Divinez Season 2 | https://anilist.co/anime/165681 | Episode 13 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1139 |
-| Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 30 |
+| Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 31 |
 | Chibi Maruko-chan (1995) | Chibi Maruko-chan | https://anilist.co/anime/6149 | Episode 1453 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 215 |
 | Dandadan | DAN DA DAN | https://anilist.co/anime/171018 | Episode 3 |
