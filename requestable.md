@@ -104,7 +104,7 @@ These shows have had episodes air already, but no thread was created because the
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 2 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1123 |
 | ONE PIECE FAN LETTER | ONE PIECE FAN LETTER | https://anilist.co/anime/182469 | Episode 1 |
-| POKÉTOON (2024) | POKÉTOON (2024) | https://anilist.co/anime/182386 | Episode 6 |
+| POKÉTOON (2024) | POKÉTOON (2024) | https://anilist.co/anime/182386 | Episode 7 |
 | Elf-san wa Yaserarenai. Specials | Plus-Sized Elf Specials | https://anilist.co/anime/179126 | Episode 2 |
 | Pochars | Pochars | https://anilist.co/anime/182772 | Episode 4 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 70 |
