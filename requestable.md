@@ -95,7 +95,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kabushiki Gaisha Magi Lumiere | Magilumiere Magical Girls Inc. | https://anilist.co/anime/171025 | Episode 4 |
 | Yozakura-san Chi no Daisakusen | Mission: Yozakura Family | https://anilist.co/anime/158898 | Episode 27 |
 | Monogatari Series: Off and Monster Season | Monogatari Series: Off and Monster Season | https://anilist.co/anime/173533 | Episode 13 |
-| Murai no Koi | Murai In Love | https://anilist.co/anime/150930 | Episode 8 |
+| Murai no Koi | Murai In Love | https://anilist.co/anime/150930 | Episode 9 |
 | Boku no Hero Academia 7 | My Hero Academia Season 7 | https://anilist.co/anime/163139 | Episode 21 |
 | Natsume Yuujinchou Shichi | Natsume's Book of Friends Season 7 | https://anilist.co/anime/166611 | Episode 4 |
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 4 |
