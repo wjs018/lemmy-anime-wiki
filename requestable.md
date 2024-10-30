@@ -61,7 +61,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chibi Maruko-chan (1995) | Chibi Maruko-chan | https://anilist.co/anime/6149 | Episode 1453 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 215 |
 | Dandadan | DAN DA DAN | https://anilist.co/anime/171018 | Episode 3 |
-| Delico's Nursery | Delico's Nursery | https://anilist.co/anime/167991 | Episode 8 |
+| Delico's Nursery | Delico's Nursery | https://anilist.co/anime/167991 | Episode 9 |
 | Maou-sama, Retry! R | Demon Lord, Retry! R | https://anilist.co/anime/168500 | Episode 5 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 834 |
 | Duel Masters LOST: Tsuioku no Suishou | Duel Masters LOST: Tsuioku no Suishou | https://anilist.co/anime/175473 | Episode 2 |
