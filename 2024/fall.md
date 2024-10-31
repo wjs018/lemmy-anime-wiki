@@ -69,6 +69,7 @@ Episode|Link
 2|[Link](https://ani.social/post/6488316)
 3|[Link](https://ani.social/post/6638546)
 4|[Link](https://ani.social/post/6781790)
+5|[Link](https://ani.social/post/6932748)
 {.dense}
 
 ## Dragon Ball DAIMA
