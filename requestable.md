@@ -74,7 +74,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sayonara Ryuusei Konnichiwa Jinsei | Good Bye, Dragon Life | https://anilist.co/anime/176053 | Episode 5 |
 | Haigakura | Haigakura | https://anilist.co/anime/168537 | Episode 4 |
 | Hamidashi Creative | Hamidashi Creative | https://anilist.co/anime/169098 | Episode 5 |
-| Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 575 |
+| Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 576 |
 | Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | Episode 5 |
 | Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 30 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 284 |
