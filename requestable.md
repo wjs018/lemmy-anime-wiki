@@ -42,7 +42,7 @@ These shows have had episodes air already, but no thread was created because the
 
 | Show Name | English Show Name | AniList Link | Most Recently Episode Number  |
 | :-------- | :---------------- | :----------- | :--------------------------: |
-| 2.5 Jigen no Ririsa | 2.5 Dimensional Seduction | https://anilist.co/anime/158559 | Episode 17 |
+| 2.5 Jigen no Ririsa | 2.5 Dimensional Seduction | https://anilist.co/anime/158559 | Episode 18 |
 | Youkai Gakkou no Sensei Hajimemashita! | A Terrified Teacher at Ghoul School! | https://anilist.co/anime/171545 | Episode 4 |
 | ATRI: My Dear Moments | ATRI -My Dear Moments- | https://anilist.co/anime/154963 | Episode 13 |
 | Houkago Shounen Hanako-kun 2 | After-school Hanako-kun Season 2 | https://anilist.co/anime/170893 | Episode 4 |
