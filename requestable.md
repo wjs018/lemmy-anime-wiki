@@ -130,7 +130,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tensei Shitara Slime Datta Ken 3rd Season | That Time I Got Reincarnated as a Slime Season 3 | https://anilist.co/anime/156822 | Episode 25 |
 | Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki | The Healer Who Was Banished From His Party, Is, in Fact, the Strongest | https://anilist.co/anime/174043 | Episode 5 |
 | Shin Tennis no Ouji-sama: U-17 WORLD CUP SEMIFINAL | The Prince of Tennis II U-17 World Cup Semifinal | https://anilist.co/anime/165810 | Episode 5 |
-| Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season | The Seven Deadly Sins: Four Knights of the Apocalypse Season 2 | https://anilist.co/anime/176292 | Episode 3 |
+| Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season | The Seven Deadly Sins: Four Knights of the Apocalypse Season 2 | https://anilist.co/anime/176292 | Episode 4 |
 | Mahoutsukai ni Narenakatta Onnanoko no Hanashi. | The Stories of Girls Who Couldn't Be Magicians | https://anilist.co/anime/107372 | Episode 5 |
 | Yami Shibai 13 | Theatre of Darkness: Yamishibai 13 | https://anilist.co/anime/177922 | Episode 13 |
 | Thunderbolt Fantasy: Touriken Yuuki 4 | Thunderbolt Fantasy: Touriken Yuuki 4 | https://anilist.co/anime/138522 | Episode 1 |
