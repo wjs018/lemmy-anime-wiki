@@ -104,6 +104,7 @@ These shows have had episodes air already, but no thread was created because the
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 3 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1123 |
 | ONE PIECE FAN LETTER | ONE PIECE FAN LETTER | https://anilist.co/anime/182469 | Episode 1 |
+| ONE PIECE: Gyojin Tou-hen | One Piece Log: Fish-Man Island Saga | https://anilist.co/anime/183423 | Episode 1 |
 | POKÉTOON (2024) | POKÉTOON (2024) | https://anilist.co/anime/182386 | Episode 7 |
 | Elf-san wa Yaserarenai. Specials | Plus-Sized Elf Specials | https://anilist.co/anime/179126 | Episode 2 |
 | Pochars | Pochars | https://anilist.co/anime/182772 | Episode 4 |
@@ -158,5 +159,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | HIGH CARD: THE FLOWERS BLOOM | HIGH CARD Special Episode “THE FLOWERS BLOOM” | https://anilist.co/anime/176369 | November 05 at 12:00 |
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | August 21 at 15:30 |
 | Okaimono Panda! | Okaimono Panda! | https://anilist.co/anime/177603 | November 06 at 12:54 |
-| ONE PIECE: Gyojin Tou-hen | One Piece Log: Fish-Man Island Saga | https://anilist.co/anime/183423 | November 03 at 01:30 |
 {.dense}
