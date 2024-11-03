@@ -110,7 +110,7 @@ These shows have had episodes air already, but no thread was created because the
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 71 |
 | Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2068 |
 | Puniru wa Kawaii Slime | Puniru is a Kawaii Slime | https://anilist.co/anime/171400 | Episode 4 |
-| Punirunes Puni 2 | Punirunes Puni 2 | https://anilist.co/anime/179292 | Episode 4 |
+| Punirunes Puni 2 | Punirunes Puni 2 | https://anilist.co/anime/179292 | Episode 5 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | https://anilist.co/anime/182417 | Episode 5 |
 | Rick and Morty: The Anime | Rick and Morty: The Anime | https://anilist.co/anime/150103 | Episode 10 |
 | Kamonohashi Ron no Kindan Suiri 2nd Season | Ron Kamonohashi’s Forbidden Deductions Season 2 | https://anilist.co/anime/172355 | Episode 4 |
