@@ -97,7 +97,7 @@ These shows have had episodes air already, but no thread was created because the
 | Murai no Koi | Murai In Love | https://anilist.co/anime/150930 | Episode 9 |
 | Boku no Hero Academia 7 | My Hero Academia Season 7 | https://anilist.co/anime/163139 | Episode 21 |
 | Natsume Yuujinchou Shichi | Natsume's Book of Friends Season 7 | https://anilist.co/anime/166611 | Episode 4 |
-| Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 4 |
+| Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 5 |
 | Hoshi Furu Oukoku no Nina | Nina the Starry Bride | https://anilist.co/anime/171038 | Episode 4 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 142 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 3 |
