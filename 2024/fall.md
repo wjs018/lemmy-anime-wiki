@@ -301,6 +301,7 @@ Episode|Link
 3|[Link](https://ani.social/post/6570332)
 4|[Link](https://ani.social/post/6721882)
 5|[Link](https://ani.social/post/6866466)
+6|[Link](https://ani.social/post/7012937)
 {.dense}
 
 ## Shangri-La Frontier 2nd Season • Shangri-La Frontier Season 2
