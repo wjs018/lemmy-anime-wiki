@@ -70,7 +70,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ganbatte Ikimasshoi | Ganbatte Ikimasshoi | https://anilist.co/anime/176245 | Episode 1 |
 | Girls' F1st!!!! GT | Girls' F1st!!!! GT | https://anilist.co/anime/178067 | Episode 13 |
 | Sayonara Ryuusei Konnichiwa Jinsei | Good Bye, Dragon Life | https://anilist.co/anime/176053 | Episode 5 |
-| Haigakura | Haigakura | https://anilist.co/anime/168537 | Episode 4 |
+| Haigakura | Haigakura | https://anilist.co/anime/168537 | Episode 5 |
 | Hamidashi Creative | Hamidashi Creative | https://anilist.co/anime/169098 | Episode 5 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 576 |
 | Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | Episode 5 |
