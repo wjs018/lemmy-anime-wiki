@@ -280,6 +280,7 @@ Episode|Link
 3|[Link](https://ani.social/post/6590851)
 4|[Link](https://ani.social/post/6742438)
 5|[Link](https://ani.social/post/6886914)
+6|[Link](https://ani.social/post/7032179)
 {.dense}
 
 ## Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran • Rurouni Kenshin -Kyoto Disturbance-
