@@ -105,7 +105,7 @@ These shows have had episodes air already, but no thread was created because the
 | ONE PIECE: Gyojin Tou-hen | One Piece Log: Fish-Man Island Saga | https://anilist.co/anime/183423 | Episode 1 |
 | POKÉTOON (2024) | POKÉTOON (2024) | https://anilist.co/anime/182386 | Episode 7 |
 | Elf-san wa Yaserarenai. Specials | Plus-Sized Elf Specials | https://anilist.co/anime/179126 | Episode 2 |
-| Pochars | Pochars | https://anilist.co/anime/182772 | Episode 4 |
+| Pochars | Pochars | https://anilist.co/anime/182772 | Episode 5 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 71 |
 | Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2069 |
 | Puniru wa Kawaii Slime | Puniru is a Kawaii Slime | https://anilist.co/anime/171400 | Episode 5 |
