@@ -20,6 +20,7 @@ Episode|Link
 4|[Link](https://ani.social/post/6610701)
 5|[Link](https://ani.social/post/6761040)
 6|[Link](https://ani.social/post/6906374)
+7|[Link](https://ani.social/post/7051361)
 {.dense}
 
 ## Ao no Hako • Blue Box
