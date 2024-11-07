@@ -31,7 +31,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Shangri-La Frontier 2nd Season | Shangri-La Frontier Season 2 | https://anilist.co/anime/176508 | [Link](https://ani.social/post/6986738) |
 | Saikyou no Shien-shoku [Wajutsushi] Dearu Ore wa Sekai Saikyou Clan wo Shitagaeru | The Most Notorious "Talker" Runs the World's Greatest Clan | https://anilist.co/anime/177104 | [Link](https://ani.social/post/7012937) |
 | Kami no Tou: Tower of God 2nd Season | Tower of God Season 2 | https://anilist.co/anime/153406 | [Link](https://ani.social/post/6992399) |
-| Trillion Game | Trillion Game | https://anilist.co/anime/169315 | [Link](https://ani.social/post/6932101) |
 | Raise wa Tanin ga Ii | Yakuza Fiancé: Raise wa Tanin ga Ii | https://anilist.co/anime/170468 | [Link](https://ani.social/post/7012000) |
 {.dense}
 
@@ -69,7 +68,7 @@ These shows have had episodes air already, but no thread was created because the
 | Fuuto Tantei: Kamen Rider Skull no Shouzou | Fuuto Tantei: Kamen Rider Skull no Shouzou | https://anilist.co/anime/178774 | Episode 1 |
 | Ganbatte Ikimasshoi | Ganbatte Ikimasshoi | https://anilist.co/anime/176245 | Episode 1 |
 | Girls' F1st!!!! GT | Girls' F1st!!!! GT | https://anilist.co/anime/178067 | Episode 13 |
-| Sayonara Ryuusei Konnichiwa Jinsei | Good Bye, Dragon Life | https://anilist.co/anime/176053 | Episode 5 |
+| Sayonara Ryuusei Konnichiwa Jinsei | Good Bye, Dragon Life | https://anilist.co/anime/176053 | Episode 6 |
 | HIGH CARD: THE FLOWERS BLOOM | HIGH CARD Special Episode “THE FLOWERS BLOOM” | https://anilist.co/anime/176369 | Episode 1 |
 | Haigakura | Haigakura | https://anilist.co/anime/168537 | Episode 5 |
 | Hamidashi Creative | Hamidashi Creative | https://anilist.co/anime/169098 | Episode 6 |
@@ -154,4 +153,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells | https://anilist.co/anime/173694 | August 22 at 16:59 |
 | Murder Mystery of the Dead | Murder Mystery of the Dead | https://anilist.co/anime/181776 | November 13 at 18:14 |
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | August 21 at 15:30 |
+| Trillion Game | Trillion Game | https://anilist.co/anime/169315 | November 07 at 17:58 |
 {.dense}
