@@ -98,7 +98,7 @@ These shows have had episodes air already, but no thread was created because the
 | Natsume Yuujinchou Shichi | Natsume's Book of Friends Season 7 | https://anilist.co/anime/166611 | Episode 5 |
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 5 |
 | Hoshi Furu Oukoku no Nina | Nina the Starry Bride | https://anilist.co/anime/171038 | Episode 5 |
-| Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 142 |
+| Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 143 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 3 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1123 |
 | ONE PIECE FAN LETTER | ONE PIECE FAN LETTER | https://anilist.co/anime/182469 | Episode 1 |
