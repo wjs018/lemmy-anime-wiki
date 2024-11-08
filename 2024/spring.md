@@ -284,6 +284,13 @@ Episode|Link
 1|[Link](https://ani.social/post/3123171)
 {.dense}
 
+## Look Back
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/7099656)
+{.dense}
+
 ## Lv2 Kara Cheat datta Moto Yuusha Kouho no Mattari Isekai Life • Chillin' in Another World with Level 2 Super Cheat Powers
 
 Episode|Link
