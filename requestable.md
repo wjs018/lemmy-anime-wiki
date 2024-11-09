@@ -53,7 +53,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ao no Miburo | Blue Miburo | https://anilist.co/anime/169258 | Episode 4 |
 | BONOBONO (2016) | Bono Bono (2016) | https://anilist.co/anime/21552 | Episode 435 |
 | Cardfight!! Vanguard: Divinez Season 2 | CARDFIGHT!! VANGUARD Divinez Season 2 | https://anilist.co/anime/165681 | Episode 13 |
-| Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1140 |
+| Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1141 |
 | Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 32 |
 | Chibi Maruko-chan (1995) | Chibi Maruko-chan | https://anilist.co/anime/6149 | Episode 1454 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 218 |
@@ -141,7 +141,6 @@ These shows have had episodes air already, but no thread was created because the
 | Girigiri Warukunai Watame | Watame Did Borderline Nothing Wrong | https://anilist.co/anime/146004 | Episode 80 |
 | Wonderful Precure! | Wonderful Precure! | https://anilist.co/anime/171030 | Episode 39 |
 | Kimi wa Meido-sama. | You are Ms. Servant | https://anilist.co/anime/172190 | Episode 5 |
-| Yozakura-san Chi no Mini Sakusen | Yozakura-san Chi no Mini Sakusen | https://anilist.co/anime/176909 | Episode 27 |
 | Yu☆Gi☆Oh! Go Rush!! | Yu☆Gi☆Oh! Go Rush!! | https://anilist.co/anime/142842 | Episode 132 |
 {.dense}
 
