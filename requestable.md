@@ -49,7 +49,7 @@ These shows have had episodes air already, but no thread was created because the
 | BanG Dream! It's MyGO!!!!!: Utau, Bokura ni Nareru Uta and FILM LIVE | BanG Dream! It's MyGO!!!!!: Utau, Bokura ni Nareru Uta and FILM LIVE | https://anilist.co/anime/182241 | Episode 1 |
 | Bananya: Around the World | Bananya Around the World | https://anilist.co/anime/180599 | Episode 1 |
 | Ao no Hako | Blue Box | https://anilist.co/anime/170942 | Episode 7 |
-| Ao no Exorcist: Yuki no Hate-hen | Blue Exorcist -Beyond the Snow Saga- | https://anilist.co/anime/176311 | Episode 5 |
+| Ao no Exorcist: Yuki no Hate-hen | Blue Exorcist -Beyond the Snow Saga- | https://anilist.co/anime/176311 | Episode 6 |
 | Ao no Miburo | Blue Miburo | https://anilist.co/anime/169258 | Episode 4 |
 | BONOBONO (2016) | Bono Bono (2016) | https://anilist.co/anime/21552 | Episode 435 |
 | Cardfight!! Vanguard: Divinez Season 2 | CARDFIGHT!! VANGUARD Divinez Season 2 | https://anilist.co/anime/165681 | Episode 13 |
