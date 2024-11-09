@@ -99,7 +99,7 @@ These shows have had episodes air already, but no thread was created because the
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 5 |
 | Hoshi Furu Oukoku no Nina | Nina the Starry Bride | https://anilist.co/anime/171038 | Episode 5 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 143 |
-| Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 3 |
+| Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 4 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1123 |
 | ONE PIECE FAN LETTER | ONE PIECE FAN LETTER | https://anilist.co/anime/182469 | Episode 1 |
 | Okaimono Panda! | Okaimono Panda! | https://anilist.co/anime/177603 | Episode 1 |
