@@ -21,6 +21,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Blue Lock VS. U-20 JAPAN | BLUE LOCK Season 2 | https://anilist.co/anime/163146 | [Link](https://ani.social/post/7124306) |
 | Maou 2099 | Demon Lord 2099 | https://anilist.co/anime/163135 | [Link](https://ani.social/post/7124817) |
 | Dragon Ball DAIMA | Dragon Ball DAIMA | https://anilist.co/anime/170083 | [Link](https://ani.social/post/7111283) |
+| Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen | Is It Wrong To Try To Pick Up Girls in a Dungeon? V | https://anilist.co/anime/170732 | [Link](https://ani.social/post/7144378) |
 | Rekishi ni Nokoru Akujo ni Naruzo | I’ll Become a Villainess Who Goes Down in History | https://anilist.co/anime/168139 | [Link](https://ani.social/post/7032179) |
 | MF Ghost 2nd Season | MF GHOST Season 2 | https://anilist.co/anime/171642 | [Link](https://ani.social/post/6992841) |
 | Mecha-ude (TV) | Mecha Ude: Mechanical Arms | https://anilist.co/anime/154673 | [Link](https://ani.social/post/7076633) |
@@ -79,7 +80,6 @@ These shows have had episodes air already, but no thread was created because the
 | Goukon ni Ittara Onna ga Inakatta Hanashi | How I Attended an All-Guy's Mixer | https://anilist.co/anime/169931 | Episode 6 |
 | Hyakushou Kizoku 2nd Season | Hyakushou Kizoku 2nd Season | https://anilist.co/anime/171689 | Episode 6 |
 | I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 55 |
-| Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen | Is It Wrong To Try To Pick Up Girls in a Dungeon? V | https://anilist.co/anime/170732 | Episode 6 |
 | JOCHUM | JOCHUM | https://anilist.co/anime/179408 | Episode 18 |
 | KUROMI'S PRETTY JOURNEY: Hacha Mecha! Multiverse Daidasshutsu! | KUROMI'S PRETTY JOURNEY Season 2: Escape from the Multiverse! | https://anilist.co/anime/183471 | Episode 4 |
 | Kuzurinen | KUZURI | https://anilist.co/anime/183394 | Episode 1 |
