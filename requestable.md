@@ -33,6 +33,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Shangri-La Frontier 2nd Season | Shangri-La Frontier Season 2 | https://anilist.co/anime/176508 | [Link](https://ani.social/post/7139813) |
 | Saikyou no Shien-shoku [Wajutsushi] Dearu Ore wa Sekai Saikyou Clan wo Shitagaeru | The Most Notorious "Talker" Runs the World's Greatest Clan | https://anilist.co/anime/177104 | [Link](https://ani.social/post/7012937) |
 | Kami no Tou: Tower of God 2nd Season | Tower of God Season 2 | https://anilist.co/anime/153406 | [Link](https://ani.social/post/7145794) |
+| Trillion Game | Trillion Game | https://anilist.co/anime/169315 | [Link](https://ani.social/post/7154568) |
 | Raise wa Tanin ga Ii | Yakuza Fiancé: Raise wa Tanin ga Ii | https://anilist.co/anime/170468 | [Link](https://ani.social/post/7012000) |
 {.dense}
 
@@ -135,7 +136,6 @@ These shows have had episodes air already, but no thread was created because the
 | Tono to Inu | Tono to Inu | https://anilist.co/anime/174390 | Episode 5 |
 | Touhai: Ura Rate Mahjong Touhai Roku | Touhai: Ura Rate Mahjong Touhai Roku | https://anilist.co/anime/173263 | Episode 6 |
 | Tousouchuu: Great Mission | Tousouchuu: Great Mission | https://anilist.co/anime/159560 | Episode 78 |
-| Trillion Game | Trillion Game | https://anilist.co/anime/169315 | Episode 7 |
 | Tsuma, Shougakusei ni Naru. | TsumaSho | https://anilist.co/anime/162785 | Episode 7 |
 | Amagami-san Chi no Enmusubi | Tying the Knot with an Amagami Sister | https://anilist.co/anime/164172 | Episode 6 |
 | Girigiri Warukunai Watame | Watame Did Borderline Nothing Wrong | https://anilist.co/anime/146004 | Episode 80 |
