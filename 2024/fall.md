@@ -187,6 +187,7 @@ Episode|Link
 3|[Link](https://ani.social/post/6701174)
 4|[Link](https://ani.social/post/6845787)
 5|[Link](https://ani.social/post/6992841)
+6|[Link](https://ani.social/post/7147048)
 {.dense}
 
 ## Maou 2099 • Demon Lord 2099
