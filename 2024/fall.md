@@ -41,6 +41,13 @@ Episode|Link
 2|[Link](https://ani.social/post/6720635)
 {.dense}
 
+## BLEACH: Sennen Kessen-hen - Soukoku-tan • BLEACH: Thousand-Year Blood War - The Conflict
+
+Episode|Link
+:-:|:-:
+6|[Link](https://ani.social/post/7133848)
+{.dense}
+
 ## Blue Lock VS. U-20 JAPAN • BLUE LOCK Season 2
 
 Episode|Link
