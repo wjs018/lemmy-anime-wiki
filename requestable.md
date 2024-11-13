@@ -49,7 +49,6 @@ These shows have had episodes air already, but no thread was created because the
 | Arifureta Shokugyou de Sekai Saikyou 3rd season | Arifureta: From Commonplace to World's Strongest Season 3 | https://anilist.co/anime/154473 | Episode 5 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 55 |
 | BanG Dream! It's MyGO!!!!!: Utau, Bokura ni Nareru Uta and FILM LIVE | BanG Dream! It's MyGO!!!!!: Utau, Bokura ni Nareru Uta and FILM LIVE | https://anilist.co/anime/182241 | Episode 1 |
-| Bananya: Around the World | Bananya Around the World | https://anilist.co/anime/180599 | Episode 1 |
 | Ao no Hako | Blue Box | https://anilist.co/anime/170942 | Episode 7 |
 | Ao no Exorcist: Yuki no Hate-hen | Blue Exorcist -Beyond the Snow Saga- | https://anilist.co/anime/176311 | Episode 6 |
 | Ao no Miburo | Blue Miburo | https://anilist.co/anime/169258 | Episode 4 |
@@ -108,7 +107,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2070 |
 | Puniru wa Kawaii Slime | Puniru is a Kawaii Slime | https://anilist.co/anime/171400 | Episode 6 |
 | Punirunes Puni 2 | Punirunes Puni 2 | https://anilist.co/anime/179292 | Episode 6 |
-| Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | https://anilist.co/anime/182417 | Episode 6 |
+| Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | https://anilist.co/anime/182417 | Episode 7 |
 | Rick and Morty: The Anime | Rick and Morty: The Anime | https://anilist.co/anime/150103 | Episode 10 |
 | Kamonohashi Ron no Kindan Suiri 2nd Season | Ron Kamonohashi’s Forbidden Deductions Season 2 | https://anilist.co/anime/172355 | Episode 6 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Battles | Sai-Kyo-Oh! Zukan: The Ultimate Battles | https://anilist.co/anime/173216 | Episode 45 |
