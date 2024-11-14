@@ -215,6 +215,7 @@ Episode|Link
 4|[Link](https://ani.social/post/6783356)
 5|[Link](https://ani.social/post/6930785)
 6|[Link](https://ani.social/post/7076633)
+7|[Link](https://ani.social/post/7234960)
 {.dense}
 
 ## Murai no Koi • Murai In Love
