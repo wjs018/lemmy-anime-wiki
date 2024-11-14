@@ -33,7 +33,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Shangri-La Frontier 2nd Season | Shangri-La Frontier Season 2 | https://anilist.co/anime/176508 | [Link](https://ani.social/post/7139813) |
 | Saikyou no Shien-shoku [Wajutsushi] Dearu Ore wa Sekai Saikyou Clan wo Shitagaeru | The Most Notorious "Talker" Runs the World's Greatest Clan | https://anilist.co/anime/177104 | [Link](https://ani.social/post/7171786) |
 | Kami no Tou: Tower of God 2nd Season | Tower of God Season 2 | https://anilist.co/anime/153406 | [Link](https://ani.social/post/7145794) |
-| Trillion Game | Trillion Game | https://anilist.co/anime/169315 | [Link](https://ani.social/post/7154568) |
+| Trillion Game | Trillion Game | https://anilist.co/anime/169315 | [Link](https://ani.social/post/7236891) |
 | Raise wa Tanin ga Ii | Yakuza Fiancé: Raise wa Tanin ga Ii | https://anilist.co/anime/170468 | [Link](https://ani.social/post/7170801) |
 {.dense}
 
@@ -68,7 +68,7 @@ These shows have had episodes air already, but no thread was created because the
 | Fuuto Tantei: Kamen Rider Skull no Shouzou | Fuuto Tantei: Kamen Rider Skull no Shouzou | https://anilist.co/anime/178774 | Episode 1 |
 | Ganbatte Ikimasshoi | Ganbatte Ikimasshoi | https://anilist.co/anime/176245 | Episode 1 |
 | Girls' F1st!!!! GT | Girls' F1st!!!! GT | https://anilist.co/anime/178067 | Episode 13 |
-| Sayonara Ryuusei Konnichiwa Jinsei | Good Bye, Dragon Life | https://anilist.co/anime/176053 | Episode 6 |
+| Sayonara Ryuusei Konnichiwa Jinsei | Good Bye, Dragon Life | https://anilist.co/anime/176053 | Episode 7 |
 | HIGH CARD: THE FLOWERS BLOOM | HIGH CARD Special Episode “THE FLOWERS BLOOM” | https://anilist.co/anime/176369 | Episode 1 |
 | Haigakura | Haigakura | https://anilist.co/anime/168537 | Episode 6 |
 | Hamidashi Creative | Hamidashi Creative | https://anilist.co/anime/169098 | Episode 7 |
