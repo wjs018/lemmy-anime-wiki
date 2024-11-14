@@ -322,6 +322,7 @@ Episode|Link
 4|[Link](https://ani.social/post/6783868)
 5|[Link](https://ani.social/post/6931011)
 6|[Link](https://ani.social/post/7077193)
+7|[Link](https://ani.social/post/7235710)
 {.dense}
 
 ## Saikyou no Shien-shoku [Wajutsushi] Dearu Ore wa Sekai Saikyou Clan wo Shitagaeru • The Most Notorious "Talker" Runs the World's Greatest Clan
