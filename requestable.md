@@ -80,7 +80,7 @@ These shows have had episodes air already, but no thread was created because the
 | Hyakushou Kizoku 2nd Season | Hyakushou Kizoku 2nd Season | https://anilist.co/anime/171689 | Episode 6 |
 | I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 56 |
 | JOCHUM | JOCHUM | https://anilist.co/anime/179408 | Episode 18 |
-| KUROMI'S PRETTY JOURNEY: Hacha Mecha! Multiverse Daidasshutsu! | KUROMI'S PRETTY JOURNEY Season 2: Escape from the Multiverse! | https://anilist.co/anime/183471 | Episode 4 |
+| KUROMI'S PRETTY JOURNEY: Hacha Mecha! Multiverse Daidasshutsu! | KUROMI'S PRETTY JOURNEY Season 2: Escape from the Multiverse! | https://anilist.co/anime/183471 | Episode 7 |
 | Kuzurinen | KUZURI | https://anilist.co/anime/183394 | Episode 1 |
 | Kagaku×Bouken Survival! | Kagaku×Bouken Survival! | https://anilist.co/anime/174913 | Episode 6 |
 | Kamierabi GOD.app Season 2 | Kamierabi GOD.app Season 2 | https://anilist.co/anime/172199 | Episode 7 |
@@ -147,6 +147,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells | https://anilist.co/anime/173694 | August 22 at 16:59 |
+| Kidou Senshi Gundam ALC ENCOUNTER  | Kidou Senshi Gundam ALC ENCOUNTER  | https://anilist.co/anime/183651 | November 24 at 10:00 |
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | August 21 at 15:30 |
 | Sylvanian Families: Freya no Piece of Secret | Sylvanian Families: Freya no Piece of Secret | https://anilist.co/anime/182157 | November 20 at 23:22 |
 {.dense}
