@@ -20,6 +20,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | BLEACH: Sennen Kessen-hen - Soukoku-tan | BLEACH: Thousand-Year Blood War - The Conflict | https://anilist.co/anime/169755 | [Link](https://ani.social/post/7133848) |
 | Blue Lock VS. U-20 JAPAN | BLUE LOCK Season 2 | https://anilist.co/anime/163146 | [Link](https://ani.social/post/7124306) |
 | Maou 2099 | Demon Lord 2099 | https://anilist.co/anime/163135 | [Link](https://ani.social/post/7124817) |
+| Dragon Ball DAIMA | Dragon Ball DAIMA | https://anilist.co/anime/170083 | [Link](https://ani.social/post/7258362) |
 | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen | Is It Wrong To Try To Pick Up Girls in a Dungeon? V | https://anilist.co/anime/170732 | [Link](https://ani.social/post/7232462) |
 | Rekishi ni Nokoru Akujo ni Naruzo | I’ll Become a Villainess Who Goes Down in History | https://anilist.co/anime/168139 | [Link](https://ani.social/post/7193636) |
 | MF Ghost 2nd Season | MF GHOST Season 2 | https://anilist.co/anime/171642 | [Link](https://ani.social/post/7147048) |
@@ -60,7 +61,6 @@ These shows have had episodes air already, but no thread was created because the
 | Delico's Nursery | Delico's Nursery | https://anilist.co/anime/167991 | Episode 11 |
 | Maou-sama, Retry! R | Demon Lord, Retry! R | https://anilist.co/anime/168500 | Episode 7 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 836 |
-| Dragon Ball DAIMA | Dragon Ball DAIMA | https://anilist.co/anime/170083 | Episode 6 |
 | Duel Masters LOST: Tsuioku no Suishou | Duel Masters LOST: Tsuioku no Suishou | https://anilist.co/anime/175473 | Episode 4 |
 | FAIRY TAIL: 100 YEARS QUEST | FAIRY TAIL 100 YEARS QUEST | https://anilist.co/anime/139095 | Episode 18 |
 | Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 2 | Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 2 | https://anilist.co/anime/179991 | Episode 14 |
