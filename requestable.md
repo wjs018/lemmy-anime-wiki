@@ -79,7 +79,7 @@ These shows have had episodes air already, but no thread was created because the
 | Goukon ni Ittara Onna ga Inakatta Hanashi | How I Attended an All-Guy's Mixer | https://anilist.co/anime/169931 | Episode 7 |
 | Hyakushou Kizoku 2nd Season | Hyakushou Kizoku 2nd Season | https://anilist.co/anime/171689 | Episode 7 |
 | I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 56 |
-| JOCHUM | JOCHUM | https://anilist.co/anime/179408 | Episode 18 |
+| JOCHUM | JOCHUM | https://anilist.co/anime/179408 | Episode 19 |
 | KUROMI'S PRETTY JOURNEY: Hacha Mecha! Multiverse Daidasshutsu! | KUROMI'S PRETTY JOURNEY Season 2: Escape from the Multiverse! | https://anilist.co/anime/183471 | Episode 7 |
 | Kuzurinen | KUZURI | https://anilist.co/anime/183394 | Episode 1 |
 | Kagaku×Bouken Survival! | Kagaku×Bouken Survival! | https://anilist.co/anime/174913 | Episode 6 |
