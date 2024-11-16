@@ -136,7 +136,7 @@ These shows have had episodes air already, but no thread was created because the
 | Amagami-san Chi no Enmusubi | Tying the Knot with an Amagami Sister | https://anilist.co/anime/164172 | Episode 7 |
 | Girigiri Warukunai Watame | Watame Did Borderline Nothing Wrong | https://anilist.co/anime/146004 | Episode 80 |
 | Wonderful Precure! | Wonderful Precure! | https://anilist.co/anime/171030 | Episode 40 |
-| Kimi wa Meido-sama. | You are Ms. Servant | https://anilist.co/anime/172190 | Episode 6 |
+| Kimi wa Meido-sama. | You are Ms. Servant | https://anilist.co/anime/172190 | Episode 7 |
 | Yu☆Gi☆Oh! Go Rush!! | Yu☆Gi☆Oh! Go Rush!! | https://anilist.co/anime/142842 | Episode 133 |
 {.dense}
 
