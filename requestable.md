@@ -51,7 +51,7 @@ These shows have had episodes air already, but no thread was created because the
 | BanG Dream! It's MyGO!!!!!: Utau, Bokura ni Nareru Uta and FILM LIVE | BanG Dream! It's MyGO!!!!!: Utau, Bokura ni Nareru Uta and FILM LIVE | https://anilist.co/anime/182241 | Episode 1 |
 | Ao no Hako | Blue Box | https://anilist.co/anime/170942 | Episode 8 |
 | Ao no Exorcist: Yuki no Hate-hen | Blue Exorcist -Beyond the Snow Saga- | https://anilist.co/anime/176311 | Episode 6 |
-| Ao no Miburo | Blue Miburo | https://anilist.co/anime/169258 | Episode 4 |
+| Ao no Miburo | Blue Miburo | https://anilist.co/anime/169258 | Episode 5 |
 | BONOBONO (2016) | Bono Bono (2016) | https://anilist.co/anime/21552 | Episode 436 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1141 |
 | Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 33 |
@@ -82,7 +82,7 @@ These shows have had episodes air already, but no thread was created because the
 | JOCHUM | JOCHUM | https://anilist.co/anime/179408 | Episode 19 |
 | KUROMI'S PRETTY JOURNEY: Hacha Mecha! Multiverse Daidasshutsu! | KUROMI'S PRETTY JOURNEY Season 2: Escape from the Multiverse! | https://anilist.co/anime/183471 | Episode 7 |
 | Kuzurinen | KUZURI | https://anilist.co/anime/183394 | Episode 1 |
-| Kagaku×Bouken Survival! | Kagaku×Bouken Survival! | https://anilist.co/anime/174913 | Episode 6 |
+| Kagaku×Bouken Survival! | Kagaku×Bouken Survival! | https://anilist.co/anime/174913 | Episode 7 |
 | Kamierabi GOD.app Season 2 | Kamierabi GOD.app Season 2 | https://anilist.co/anime/172199 | Episode 7 |
 | Kankin Kuiki Level X | Kankin Kuiki Level X | https://anilist.co/anime/180923 | Episode 7 |
 | Kinokoinu | Kinokoinu Mushroom Pup | https://anilist.co/anime/177581 | Episode 7 |
