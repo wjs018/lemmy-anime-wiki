@@ -54,7 +54,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ao no Miburo | Blue Miburo | https://anilist.co/anime/169258 | Episode 5 |
 | BONOBONO (2016) | Bono Bono (2016) | https://anilist.co/anime/21552 | Episode 436 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1142 |
-| Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 33 |
+| Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 34 |
 | Chibi Maruko-chan (1995) | Chibi Maruko-chan | https://anilist.co/anime/6149 | Episode 1456 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 221 |
 | Dandadan | DAN DA DAN | https://anilist.co/anime/171018 | Episode 5 |
