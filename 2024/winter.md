@@ -2,7 +2,7 @@
 title: Winter 2024 Discussion Thread Index
 description: All the episode discussion threads for Winter 2024 shows
 published: true
-date: 2024-11-21T17:59:15.490Z
+date: 2024-11-21T18:01:57.328Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-21T04:49:08.258Z
@@ -296,4 +296,11 @@ Episode|Link|Episode|Link
 | 10 | [Link](https://ani.social/post/2670702) |
 | 11 | [Link](https://ani.social/post/2783476) |
 | 12 | [Link](https://ani.social/post/2900415) |
+{.dense}
+
+## Watashi no Shiawase na Katachi • The Shape of My Happiness
+
+| Episode | Community Link(s) |
+|:-:|:-:|
+| 1 | [Link](https://ani.social/post/7379264) |
 {.dense}
