@@ -52,7 +52,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ao no Hako | Blue Box | https://anilist.co/anime/170942 | Episode 9 |
 | Ao no Exorcist: Yuki no Hate-hen | Blue Exorcist -Beyond the Snow Saga- | https://anilist.co/anime/176311 | Episode 7 |
 | Ao no Miburo | Blue Miburo | https://anilist.co/anime/169258 | Episode 5 |
-| BONOBONO (2016) | Bono Bono (2016) | https://anilist.co/anime/21552 | Episode 436 |
+| BONOBONO (2016) | Bono Bono (2016) | https://anilist.co/anime/21552 | Episode 437 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1142 |
 | Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 34 |
 | Chibi Maruko-chan (1995) | Chibi Maruko-chan | https://anilist.co/anime/6149 | Episode 1456 |
