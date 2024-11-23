@@ -77,6 +77,7 @@ Episode|Link
 6|[Link](https://ani.social/post/6971580)
 7|[Link](https://ani.social/post/7124812)
 8|[Link](https://ani.social/post/7275394)
+9|[Link](https://ani.social/post/7418329)
 {.dense}
 
 ## Dandadan • DAN DA DAN
@@ -215,6 +216,7 @@ Episode|Link
 4|[Link](https://ani.social/post/6971632)
 5|[Link](https://ani.social/post/7124817)
 6|[Link](https://ani.social/post/7275449)
+7|[Link](https://ani.social/post/7418331)
 {.dense}
 
 ## Mecha-ude (TV) • Mecha Ude: Mechanical Arms
@@ -300,6 +302,7 @@ Episode|Link
 5|[Link](https://ani.social/post/6971581)
 6|[Link](https://ani.social/post/7124815)
 7|[Link](https://ani.social/post/7275397)
+8|[Link](https://ani.social/post/7418330)
 {.dense}
 
 ## Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season • Re:ZERO -Starting Life in Another World- Season 3
