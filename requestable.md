@@ -95,7 +95,7 @@ These shows have had episodes air already, but no thread was created because the
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 7 |
 | Hoshi Furu Oukoku no Nina | Nina the Starry Bride | https://anilist.co/anime/171038 | Episode 7 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 145 |
-| Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 5 |
+| Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 6 |
 | Okaimono Panda! | Okaimono Panda! | https://anilist.co/anime/177603 | Episode 3 |
 | ONE PIECE: Gyojin Tou-hen | One Piece Log: Fish-Man Island Saga | https://anilist.co/anime/183423 | Episode 3 |
 | POKÉTOON (2024) | POKÉTOON (2024) | https://anilist.co/anime/182386 | Episode 8 |
