@@ -55,7 +55,7 @@ These shows have had episodes air already, but no thread was created because the
 | BONOBONO (2016) | Bono Bono (2016) | https://anilist.co/anime/21552 | Episode 437 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1143 |
 | Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 34 |
-| Chibi Maruko-chan (1995) | Chibi Maruko-chan | https://anilist.co/anime/6149 | Episode 1456 |
+| Chibi Maruko-chan (1995) | Chibi Maruko-chan | https://anilist.co/anime/6149 | Episode 1457 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 222 |
 | Dandadan | DAN DA DAN | https://anilist.co/anime/171018 | Episode 5 |
 | Delico's Nursery | Delico's Nursery | https://anilist.co/anime/167991 | Episode 12 |
@@ -73,7 +73,7 @@ These shows have had episodes air already, but no thread was created because the
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 579 |
 | Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | Episode 5 |
 | Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 34 |
-| Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 287 |
+| Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 288 |
 | Goukon ni Ittara Onna ga Inakatta Hanashi | How I Attended an All-Guy's Mixer | https://anilist.co/anime/169931 | Episode 8 |
 | Hyakushou Kizoku 2nd Season | Hyakushou Kizoku 2nd Season | https://anilist.co/anime/171689 | Episode 8 |
 | I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 57 |
@@ -82,6 +82,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kagaku×Bouken Survival! | Kagaku×Bouken Survival! | https://anilist.co/anime/174913 | Episode 8 |
 | Kamierabi GOD.app Season 2 | Kamierabi GOD.app Season 2 | https://anilist.co/anime/172199 | Episode 8 |
 | Kazuhiho to Marie no Youkoso Kitchen. | Kazuhiho to Marie no Youkoso Kitchen. | https://anilist.co/anime/184288 | Episode 2 |
+| Kidou Senshi Gundam ALC ENCOUNTER  | Kidou Senshi Gundam ALC ENCOUNTER  | https://anilist.co/anime/183651 | Episode 1 |
 | Kinokoinu | Kinokoinu Mushroom Pup | https://anilist.co/anime/177581 | Episode 8 |
 | Kumarba Season 2 | Kumarba Season 2 | https://anilist.co/anime/178395 | Episode 8 |
 | Nageki no Bourei wa Intai Shitai | Let This Grieving Soul Retire | https://anilist.co/anime/175019 | Episode 8 |
@@ -143,7 +144,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells | https://anilist.co/anime/173694 | August 22 at 16:59 |
 | Genjitsu no Yohane: SUNSHINE in the MIRROR Movie | Genjitsu no Yohane: SUNSHINE in the MIRROR Movie | https://anilist.co/anime/178782 | November 28 at 15:00 |
-| Kidou Senshi Gundam ALC ENCOUNTER  | Kidou Senshi Gundam ALC ENCOUNTER  | https://anilist.co/anime/183651 | November 24 at 10:00 |
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | August 21 at 15:30 |
 | PUI PUI Molcar the Movie MOLMAX | PUI PUI Molcar the Movie MOLMAX | https://anilist.co/anime/173884 | November 28 at 15:00 |
 | Ore dake Level Up na Ken: ReAwakening | Solo Leveling -ReAwakening- | https://anilist.co/anime/184694 | November 28 at 16:00 |
