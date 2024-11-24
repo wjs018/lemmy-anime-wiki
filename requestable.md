@@ -32,7 +32,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran | Rurouni Kenshin -Kyoto Disturbance- | https://anilist.co/anime/171637 | [Link](https://ani.social/post/7379023) |
 | Shangri-La Frontier 2nd Season | Shangri-La Frontier Season 2 | https://anilist.co/anime/176508 | [Link](https://ani.social/post/7432957) |
 | Saikyou no Shien-shoku [Wajutsushi] Dearu Ore wa Sekai Saikyou Clan wo Shitagaeru | The Most Notorious "Talker" Runs the World's Greatest Clan | https://anilist.co/anime/177104 | [Link](https://ani.social/post/7315573) |
-| Kami no Tou: Tower of God 2nd Season | Tower of God Season 2 | https://anilist.co/anime/153406 | [Link](https://ani.social/post/7294736) |
+| Kami no Tou: Tower of God 2nd Season | Tower of God Season 2 | https://anilist.co/anime/153406 | [Link](https://ani.social/post/7437462) |
 | Trillion Game | Trillion Game | https://anilist.co/anime/169315 | [Link](https://ani.social/post/7380150) |
 | Raise wa Tanin ga Ii | Yakuza Fiancé: Raise wa Tanin ga Ii | https://anilist.co/anime/170468 | [Link](https://ani.social/post/7314459) |
 {.dense}
@@ -141,6 +141,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
+| BEASTARS FINAL SEASON Part 1 | BEASTARS FINAL SEASON Part 1 | https://anilist.co/anime/136880 | December 04 at 15:00 |
 | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells | https://anilist.co/anime/173694 | August 22 at 16:59 |
 | Genjitsu no Yohane: SUNSHINE in the MIRROR Movie | Genjitsu no Yohane: SUNSHINE in the MIRROR Movie | https://anilist.co/anime/178782 | November 28 at 15:00 |
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | August 21 at 15:30 |
