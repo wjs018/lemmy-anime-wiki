@@ -44,7 +44,7 @@ These shows have had episodes air already, but no thread was created because the
 | Show Name | English Show Name | AniList Link | Most Recently Episode Number  |
 | :-------- | :---------------- | :----------- | :--------------------------: |
 | 2.5 Jigen no Ririsa | 2.5 Dimensional Seduction | https://anilist.co/anime/158559 | Episode 21 |
-| Youkai Gakkou no Sensei Hajimemashita! | A Terrified Teacher at Ghoul School! | https://anilist.co/anime/171545 | Episode 7 |
+| Youkai Gakkou no Sensei Hajimemashita! | A Terrified Teacher at Ghoul School! | https://anilist.co/anime/171545 | Episode 8 |
 | Houkago Shounen Hanako-kun 2 | After-school Hanako-kun Season 2 | https://anilist.co/anime/170893 | Episode 4 |
 | Arifureta Shokugyou de Sekai Saikyou 3rd season | Arifureta: From Commonplace to World's Strongest Season 3 | https://anilist.co/anime/154473 | Episode 7 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 57 |
@@ -71,7 +71,7 @@ These shows have had episodes air already, but no thread was created because the
 | Haigakura | Haigakura | https://anilist.co/anime/168537 | Episode 8 |
 | Hamidashi Creative | Hamidashi Creative | https://anilist.co/anime/169098 | Episode 8 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 579 |
-| Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | Episode 5 |
+| Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | Episode 6 |
 | Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 34 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 288 |
 | Goukon ni Ittara Onna ga Inakatta Hanashi | How I Attended an All-Guy's Mixer | https://anilist.co/anime/169931 | Episode 9 |
