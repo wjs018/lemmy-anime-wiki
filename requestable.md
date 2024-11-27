@@ -115,7 +115,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shinkalion: Change the World | Shinkalion: Change the World | https://anilist.co/anime/172395 | Episode 31 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1676 |
 | Sword Art Online Alternative: Gun Gale Online II | Sword Art Online Alternative: Gun Gale Online II | https://anilist.co/anime/167141 | Episode 8 |
-| Sylvanian Families: Freya no Piece of Secret | Sylvanian Families: Freya no Piece of Secret | https://anilist.co/anime/182157 | Episode 1 |
+| Sylvanian Families: Freya no Piece of Secret | Sylvanian Families: Freya no Piece of Secret | https://anilist.co/anime/182157 | Episode 2 |
 | The iDOLM@STER: Shiny Colors 2nd season | THE iDOLM@Ster SHINY COLORS Season 2 | https://anilist.co/anime/175533 | Episode 8 |
 | Tasuuketsu | Tasuketsu -Fate of the Majority- | https://anilist.co/anime/174070 | Episode 20 |
 | Yarinaoshi Reijou wa Ryuutei Heika wo Kouryaku-chuu | The Do-Over Damsel Conquers the Dragon Emperor | https://anilist.co/anime/164299 | Episode 8 |
