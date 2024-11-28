@@ -271,6 +271,7 @@ Episode|Link
 6|[Link](https://ani.social/post/7074252)
 7|[Link](https://ani.social/post/7232461)
 8|[Link](https://ani.social/post/7375718)
+9|[Link](https://ani.social/post/7522694)
 {.dense}
 
 ## Puniru wa Kawaii Slime • Puniru is a Kawaii Slime
