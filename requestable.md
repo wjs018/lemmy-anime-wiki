@@ -29,7 +29,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Chi.: Chikyuu no Undou ni Tsuite | Orb: On the Movements of the Earth | https://anilist.co/anime/151514 | [Link](https://ani.social/post/7418329) |
 | Ranma 1/2 (2024) | Ranma1/2 (2024) | https://anilist.co/anime/178533 | [Link](https://ani.social/post/7418330) |
 | Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season | Re:ZERO -Starting Life in Another World- Season 3 | https://anilist.co/anime/163134 | [Link](https://ani.social/post/7501110) |
-| Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran | Rurouni Kenshin -Kyoto Disturbance- | https://anilist.co/anime/171637 | [Link](https://ani.social/post/7379023) |
 | Shangri-La Frontier 2nd Season | Shangri-La Frontier Season 2 | https://anilist.co/anime/176508 | [Link](https://ani.social/post/7432957) |
 | Saikyou no Shien-shoku [Wajutsushi] Dearu Ore wa Sekai Saikyou Clan wo Shitagaeru | The Most Notorious "Talker" Runs the World's Greatest Clan | https://anilist.co/anime/177104 | [Link](https://ani.social/post/7461202) |
 | Kami no Tou: Tower of God 2nd Season | Tower of God Season 2 | https://anilist.co/anime/153406 | [Link](https://ani.social/post/7437462) |
@@ -69,7 +68,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sayonara Ryuusei Konnichiwa Jinsei | Good Bye, Dragon Life | https://anilist.co/anime/176053 | Episode 8 |
 | HIGH CARD: THE FLOWERS BLOOM | HIGH CARD Special Episode “THE FLOWERS BLOOM” | https://anilist.co/anime/176369 | Episode 1 |
 | Haigakura | Haigakura | https://anilist.co/anime/168537 | Episode 8 |
-| Hamidashi Creative | Hamidashi Creative | https://anilist.co/anime/169098 | Episode 8 |
+| Hamidashi Creative | Hamidashi Creative | https://anilist.co/anime/169098 | Episode 9 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 579 |
 | Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | Episode 6 |
 | Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 34 |
@@ -147,5 +146,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells | https://anilist.co/anime/173694 | August 22 at 16:59 |
 | Maarui Kanojo to Zannen na Kareshi 2nd Season | Maarui Kanojo to Zannen na Kareshi 2nd Season | https://anilist.co/anime/184998 | November 29 at 19:00 |
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | August 21 at 15:30 |
+| Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran | Rurouni Kenshin -Kyoto Disturbance- | https://anilist.co/anime/171637 | November 28 at 16:56 |
 | Yoru wa Neko to Issho Season 3 | Yoru wa Neko to Issho Season 3 | https://anilist.co/anime/175137 | December 03 at 15:00 |
 {.dense}
