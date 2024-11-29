@@ -100,7 +100,7 @@ These shows have had episodes air already, but no thread was created because the
 | POKÉTOON (2024) | POKÉTOON (2024) | https://anilist.co/anime/182386 | Episode 8 |
 | PUI PUI Molcar the Movie MOLMAX | PUI PUI Molcar the Movie MOLMAX | https://anilist.co/anime/173884 | Episode 1 |
 | Pochars | Pochars | https://anilist.co/anime/182772 | Episode 7 |
-| Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 74 |
+| Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 75 |
 | Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2072 |
 | Puniru wa Kawaii Slime | Puniru is a Kawaii Slime | https://anilist.co/anime/171400 | Episode 8 |
 | Punirunes Puni 2 | Punirunes Puni 2 | https://anilist.co/anime/179292 | Episode 8 |
