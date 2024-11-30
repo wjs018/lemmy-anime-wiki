@@ -47,7 +47,7 @@ These shows have had episodes air already, but no thread was created because the
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 58 |
 | BanG Dream! It's MyGO!!!!!: Utau, Bokura ni Nareru Uta and FILM LIVE | BanG Dream! It's MyGO!!!!!: Utau, Bokura ni Nareru Uta and FILM LIVE | https://anilist.co/anime/182241 | Episode 1 |
 | Ao no Hako | Blue Box | https://anilist.co/anime/170942 | Episode 10 |
-| Ao no Exorcist: Yuki no Hate-hen | Blue Exorcist -Beyond the Snow Saga- | https://anilist.co/anime/176311 | Episode 8 |
+| Ao no Exorcist: Yuki no Hate-hen | Blue Exorcist -Beyond the Snow Saga- | https://anilist.co/anime/176311 | Episode 9 |
 | Ao no Miburo | Blue Miburo | https://anilist.co/anime/169258 | Episode 7 |
 | BONOBONO (2016) | Bono Bono (2016) | https://anilist.co/anime/21552 | Episode 438 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1143 |
