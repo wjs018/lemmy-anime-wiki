@@ -134,7 +134,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tsuma, Shougakusei ni Naru. | TsumaSho | https://anilist.co/anime/162785 | Episode 9 |
 | Amagami-san Chi no Enmusubi | Tying the Knot with an Amagami Sister | https://anilist.co/anime/164172 | Episode 9 |
 | Wonderful Precure! | Wonderful Precure! | https://anilist.co/anime/171030 | Episode 42 |
-| Kimi wa Meido-sama. | You are Ms. Servant | https://anilist.co/anime/172190 | Episode 8 |
+| Kimi wa Meido-sama. | You are Ms. Servant | https://anilist.co/anime/172190 | Episode 9 |
 | Yu☆Gi☆Oh! Go Rush!! | Yu☆Gi☆Oh! Go Rush!! | https://anilist.co/anime/142842 | Episode 135 |
 {.dense}
 
