@@ -145,7 +145,12 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | BEASTARS FINAL SEASON Part 1 | BEASTARS FINAL SEASON Part 1 | https://anilist.co/anime/136880 | December 04 at 15:00 |
+| Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | December 08 at 00:00 |
 | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells | https://anilist.co/anime/173694 | August 22 at 16:59 |
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | August 21 at 15:30 |
+| Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | December 09 at 03:00 |
+| Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | December 04 at 02:00 |
+| Jian Lai | Sword of Coming | https://anilist.co/anime/137672 | December 05 at 02:00 |
+| Yao Shen Ji 8 | Yao Shen Ji 8 | https://anilist.co/anime/178351 | December 03 at 03:00 |
 | Yoru wa Neko to Issho Season 3 | Yoru wa Neko to Issho Season 3 | https://anilist.co/anime/175137 | December 03 at 15:00 |
 {.dense}
