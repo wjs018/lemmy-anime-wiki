@@ -92,7 +92,7 @@ These shows have had episodes air already, but no thread was created because the
 | Murder Mystery of the Dead | Murder Mystery of the Dead | https://anilist.co/anime/181776 | Episode 3 |
 | Natsume Yuujinchou Shichi | Natsume's Book of Friends Season 7 | https://anilist.co/anime/166611 | Episode 8 |
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 9 |
-| Hoshi Furu Oukoku no Nina | Nina the Starry Bride | https://anilist.co/anime/171038 | Episode 8 |
+| Hoshi Furu Oukoku no Nina | Nina the Starry Bride | https://anilist.co/anime/171038 | Episode 9 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 146 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 7 |
 | Okaimono Panda! | Okaimono Panda! | https://anilist.co/anime/177603 | Episode 4 |
@@ -106,7 +106,7 @@ These shows have had episodes air already, but no thread was created because the
 | Punirunes Puni 2 | Punirunes Puni 2 | https://anilist.co/anime/179292 | Episode 9 |
 | Ranma 1/2 (2024) | Ranma1/2 (2024) | https://anilist.co/anime/178533 | Episode 9 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | https://anilist.co/anime/182417 | Episode 9 |
-| Kamonohashi Ron no Kindan Suiri 2nd Season | Ron Kamonohashi’s Forbidden Deductions Season 2 | https://anilist.co/anime/172355 | Episode 8 |
+| Kamonohashi Ron no Kindan Suiri 2nd Season | Ron Kamonohashi’s Forbidden Deductions Season 2 | https://anilist.co/anime/172355 | Episode 9 |
 | Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran | Rurouni Kenshin -Kyoto Disturbance- | https://anilist.co/anime/171637 | Episode 9 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Battles | Sai-Kyo-Oh! Zukan: The Ultimate Battles | https://anilist.co/anime/173216 | Episode 48 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2763 |
