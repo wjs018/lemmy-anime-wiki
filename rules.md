@@ -2,7 +2,7 @@
 title: Community Rules
 description: Full rules for the anime@ani.social community
 published: true
-date: 2024-12-03T04:43:27.662Z
+date: 2024-12-03T04:44:39.059Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-17T05:17:49.151Z
@@ -11,8 +11,6 @@ dateCreated: 2024-03-17T05:17:49.151Z
 # Community Rules
 
 The anime@ani.social community rules are laid out below. If you have any questions or concerns, feel free to reach out to the moderator team or myself (wjs018@ani.social) directly.
-
----
 
 ## Post Topics
 
