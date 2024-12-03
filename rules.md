@@ -2,7 +2,7 @@
 title: Community Rules
 description: Full rules for the anime@ani.social community
 published: true
-date: 2024-12-03T05:05:25.429Z
+date: 2024-12-03T05:12:16.116Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-17T05:17:49.151Z
@@ -77,6 +77,8 @@ Memes and image macros will be removed from the anime community. There are a cou
 If you try to post a clip within a week after the episode/movie that the clip is derived from, it will be removed. Instead, if you want to share the clip, it would be more appropriate to share within the discussion thread for that episode/movie.
 
 It is best practice to tag the clip post with the `[Clip]` tag to help users more easily search for clips that have been previously posted. The title of a clip post must include the name of the anime. If the clip features any explicit content, it needs to be marked as NSFW. Ecchi clips that don't explicitly show nudity should probably be marked as NSFW. Please use your best judgement.
+
+At this point in time, there is neither a minimum nor maximum runtime that a clip must meet. This can change in the future if I feel there needs to be clarification. A good rule of thumb would be that a clip should probably fall between 1-5 minutes long. This provides enough content that it isn't simply a fancy gif, but not so much that it is a significant portion of the episode.
 
 ## Spoilers
 
