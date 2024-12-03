@@ -2,7 +2,7 @@
 title: Community Rules
 description: Full rules for the anime@ani.social community
 published: true
-date: 2024-12-03T04:44:39.059Z
+date: 2024-12-03T04:54:27.309Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-17T05:17:49.151Z
@@ -103,7 +103,7 @@ However, discussion of piracy sites/methods/links should be directed towards a d
 
 I am not opposed to allowing people to post videos/articles/content that they made themselves. However, to engage in self-promotion in this way, there are some simple guidelines that you should follow:
 
-1. **Be an active member of the community** - don't let the self-promo posts be the only thing you ever contribute to the community. I would be much more willing to allow self-promo posts if you are also consistently commenting on other posts or contributing other content like news articles/visuals/etc. If all you ever do is make a self-promo post and then disappear, that will be removed.
+1. **Be an active member of the community** - don't let the self-promo posts be the only thing you ever contribute to the community. I would be much more willing to allow self-promo posts if you are also consistently commenting on other posts or contributing other content like news articles/visuals/etc. or are a regular commenter in things like episode discussion threads or the weekly general thread. If all you ever do is make a self-promo post and then disappear, that will be removed.
 2. **Engage with users on your self-promo** - if you make a post about something you made and get questions/comments on it, then please engage with those users and answer questions where possible
 3. **If in doubt, ask the moderators** - if you are unsure if a self-promotion post is acceptable, then feel free to reach out in advance. The moderator team would be happy to help you if there are any issues.
 
