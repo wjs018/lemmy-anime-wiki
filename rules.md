@@ -2,7 +2,7 @@
 title: Community Rules
 description: Full rules for the anime@ani.social community
 published: true
-date: 2024-10-03T05:40:30.454Z
+date: 2024-12-03T04:42:46.745Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-17T05:17:49.151Z
@@ -46,6 +46,22 @@ All discussion threads for currently airing media are made by the bot, [@rikka@a
 - [Bot User Guide *Link to wiki page*](/rikka)
 - [Request a Discussion Post *How to make the bot work for you*](https://wiki.lemmyanime.com/en/rikka#requesting-discussion-threads-via-pm)
 {.links-list}
+
+## Full-Length Episode Posts
+
+There are some series that post their episodes in full in a publicly accessible way (usually via YouTube). For these series, a post can be made that links to the full episode as long as it falls into one of these three cases:
+
+1. The episode aired within the past 30 days and no other discussion thread was made for it.
+
+This would essentially be in place of a normal discussion thread created by the bot. Please make sure that your post title is descriptive enough that it is clear that your post is meant to be a discussion thread for that specific episode. Additionally, if you would be so kind as to let me know about the post so that I can make sure it is indexed by the bot so that it can be included in the wiki.
+
+2. The episode was released more than 30 days ago and you want to have a discussion about something in the episode or write a recommendation the series.
+
+This would be similar to a recommendation thread (or a [Watch This!](https://www.reddit.com/r/anime/wiki/guidetowatchthis) thread from the subreddit). The basic rule here is that in addition to simply posting the link, you also need to include some other content to contextualize or explain why you are posting this episode. This could be either in the post body or as a top level comment.
+
+3. The episode is being posted as part of a community-organized rewatch.
+
+Basically, this would be a user-led effort to gather a group of interested parties to all watch through a series together. If a series that was being rewatched had full, legally accessible episodes, then posts of the link to the episode could serve as the rewatch threads.
 
 ## Memes
 
