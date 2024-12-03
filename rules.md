@@ -2,7 +2,7 @@
 title: Community Rules
 description: Full rules for the anime@ani.social community
 published: true
-date: 2024-12-03T04:42:46.745Z
+date: 2024-12-03T04:43:27.662Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-17T05:17:49.151Z
@@ -49,7 +49,7 @@ All discussion threads for currently airing media are made by the bot, [@rikka@a
 
 ## Full-Length Episode Posts
 
-There are some series that post their episodes in full in a publicly accessible way (usually via YouTube). For these series, a post can be made that links to the full episode as long as it falls into one of these three cases:
+There are some series that post their episodes in a full, legally accessible way (usually via YouTube). For these series, a post can be made that links to the full episode as long as it falls into one of these three cases:
 
 1. The episode aired within the past 30 days and no other discussion thread was made for it.
 
