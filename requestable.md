@@ -152,5 +152,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | December 09 at 03:00 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | December 04 at 02:00 |
 | Jian Lai | Sword of Coming | https://anilist.co/anime/137672 | December 05 at 02:00 |
-| Yoru wa Neko to Issho Season 3 | Yoru wa Neko to Issho Season 3 | https://anilist.co/anime/175137 | December 03 at 15:00 |
+| Yoru wa Neko to Issho Season 3 | Yoru wa Neko to Issho Season 3 | https://anilist.co/anime/175137 | December 04 at 11:00 |
 {.dense}
