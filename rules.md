@@ -2,7 +2,7 @@
 title: Community Rules
 description: Full rules for the anime@ani.social community
 published: true
-date: 2024-12-03T04:54:27.309Z
+date: 2024-12-03T05:05:25.429Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-17T05:17:49.151Z
@@ -112,3 +112,9 @@ I am not opposed to allowing people to post videos/articles/content that they ma
 In general, if you make posts or comments that cause you to come off as a jerk or are mean towards others in the community or in general, then your posts risk being removed. Please don't resort to using language like slurs or disparaging others.
 
 This is the catch-all, don't be a dick rule. So, just be nice to each other and enjoy anime together instead of getting angry. If you see comments or posts that you feel cross this line, then please use the report tool to let the moderator team become aware of them.
+
+## Questions, Comments, Feedback About the Rules
+
+Feel free to reach out to the myself directly (wjs018@ani.social), or any other member of the moderation team if you have any questions about these rules. Alternatively, you can ask a meta question about rules in the pinned weekly thread. To help make it more visible to the moderators, please tag myself or another moderator in the comment.
+
+You also have the option to make a [Meta] post about the rules in the community as long as you are civil in the discussion. This would be best used if you want to gather wider input from the community about a rule. Past discussion threads like this have led to changes to the rules, so don't feel like this would be a useless effort. I gladly welcome constructive criticism and am more than willing to admit when I am wrong or out of step with the rest of the community.
