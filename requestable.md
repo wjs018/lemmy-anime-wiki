@@ -133,6 +133,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tsuma, Shougakusei ni Naru. | TsumaSho | https://anilist.co/anime/162785 | Episode 10 |
 | Amagami-san Chi no Enmusubi | Tying the Knot with an Amagami Sister | https://anilist.co/anime/164172 | Episode 9 |
 | Wonderful Precure! | Wonderful Precure! | https://anilist.co/anime/171030 | Episode 43 |
+| Yao Shen Ji 8 | Yao Shen Ji 8 | https://anilist.co/anime/178351 | Episode 32 |
 | Kimi wa Meido-sama. | You are Ms. Servant | https://anilist.co/anime/172190 | Episode 9 |
 | Yu☆Gi☆Oh! Go Rush!! | Yu☆Gi☆Oh! Go Rush!! | https://anilist.co/anime/142842 | Episode 136 |
 {.dense}
@@ -151,6 +152,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | December 09 at 03:00 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | December 04 at 02:00 |
 | Jian Lai | Sword of Coming | https://anilist.co/anime/137672 | December 05 at 02:00 |
-| Yao Shen Ji 8 | Yao Shen Ji 8 | https://anilist.co/anime/178351 | December 03 at 03:00 |
 | Yoru wa Neko to Issho Season 3 | Yoru wa Neko to Issho Season 3 | https://anilist.co/anime/175137 | December 03 at 15:00 |
 {.dense}
