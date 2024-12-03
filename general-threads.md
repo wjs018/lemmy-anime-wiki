@@ -2,7 +2,7 @@
 title: General Discussion Threads Index
 description: A collection of all the general discussion threads from the community.
 published: true
-date: 2024-11-03T01:58:45.131Z
+date: 2024-12-03T04:49:06.040Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-04T16:32:54.623Z
@@ -58,6 +58,11 @@ Please use the links below to browse the weekly general discussion threads. When
 | 42 | [Link](https://ani.social/post/6567454) | |
 | 43 | [Link](https://ani.social/post/6718624) | |
 | 44 | [Link](https://ani.social/post/6857437) | Favorite OPs and EDs of Fall Season |
+| 45 | [Link](https://ani.social/post/7004379) |  |
+| 46 | [Link](https://ani.social/post/7159560) |  |
+| 47 | [Link](https://ani.social/post/7307179) |  |
+| 48 | [Link](https://ani.social/post/7451465) |  |
+| 49 | [Link](https://ani.social/post/7600512) |  |
 {.dense}
 
 ## 2023
