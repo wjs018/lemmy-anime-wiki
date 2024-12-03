@@ -2,7 +2,7 @@
 title: Community Rules
 description: Full rules for the anime@ani.social community
 published: true
-date: 2024-12-03T05:12:16.116Z
+date: 2024-12-03T05:32:20.921Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-17T05:17:49.151Z
@@ -115,7 +115,7 @@ In general, if you make posts or comments that cause you to come off as a jerk o
 
 This is the catch-all, don't be a dick rule. So, just be nice to each other and enjoy anime together instead of getting angry. If you see comments or posts that you feel cross this line, then please use the report tool to let the moderator team become aware of them.
 
-## Questions, Comments, Feedback About the Rules
+## Questions, Comments About the Rules
 
 Feel free to reach out to the myself directly (wjs018@ani.social), or any other member of the moderation team if you have any questions about these rules. Alternatively, you can ask a meta question about rules in the pinned weekly thread. To help make it more visible to the moderators, please tag myself or another moderator in the comment.
 
