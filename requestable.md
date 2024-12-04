@@ -115,6 +115,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shimajirou no Wow! | Shimajiro: A Wonderful Adventure | https://anilist.co/anime/18941 | Episode 650 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1261 |
 | Shinkalion: Change the World | Shinkalion: Change the World | https://anilist.co/anime/172395 | Episode 32 |
+| Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 86 |
 | Ore dake Level Up na Ken: ReAwakening | Solo Leveling -ReAwakening- | https://anilist.co/anime/184694 | Episode 1 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1677 |
 | Sword Art Online Alternative: Gun Gale Online II | Sword Art Online Alternative: Gun Gale Online II | https://anilist.co/anime/167141 | Episode 9 |
@@ -150,7 +151,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells | https://anilist.co/anime/173694 | August 22 at 16:59 |
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | August 21 at 15:30 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | December 09 at 03:00 |
-| Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | December 04 at 02:00 |
 | Jian Lai | Sword of Coming | https://anilist.co/anime/137672 | December 05 at 02:00 |
 | Yoru wa Neko to Issho Season 3 | Yoru wa Neko to Issho Season 3 | https://anilist.co/anime/175137 | December 04 at 11:00 |
 {.dense}
