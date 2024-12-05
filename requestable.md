@@ -24,7 +24,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen | Is It Wrong To Try To Pick Up Girls in a Dungeon? V | https://anilist.co/anime/170732 | [Link](https://ani.social/post/7668659) |
 | Rekishi ni Nokoru Akujo ni Naruzo | I’ll Become a Villainess Who Goes Down in History | https://anilist.co/anime/168139 | [Link](https://ani.social/post/7628423) |
 | MF Ghost 2nd Season | MF GHOST Season 2 | https://anilist.co/anime/171642 | [Link](https://ani.social/post/7586817) |
-| Mecha-ude (TV) | Mecha Ude: Mechanical Arms | https://anilist.co/anime/154673 | [Link](https://ani.social/post/7525150) |
 | NegaPosi Angler | Negative Positive Angler | https://anilist.co/anime/179919 | [Link](https://ani.social/post/7668658) |
 | Chi.: Chikyuu no Undou ni Tsuite | Orb: On the Movements of the Earth | https://anilist.co/anime/151514 | [Link](https://ani.social/post/7565878) |
 | Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season | Re:ZERO -Starting Life in Another World- Season 3 | https://anilist.co/anime/163134 | [Link](https://ani.social/post/7501110) |
@@ -55,7 +54,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 36 |
 | Chibi Maruko-chan (1995) | Chibi Maruko-chan | https://anilist.co/anime/6149 | Episode 1458 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 225 |
-| Dandadan | DAN DA DAN | https://anilist.co/anime/171018 | Episode 9 |
+| Dandadan | DAN DA DAN | https://anilist.co/anime/171018 | Episode 10 |
 | Delico's Nursery | Delico's Nursery | https://anilist.co/anime/167991 | Episode 13 |
 | Maou-sama, Retry! R | Demon Lord, Retry! R | https://anilist.co/anime/168500 | Episode 10 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 839 |
@@ -150,6 +149,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | 30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii: Tokubetsu-hen | 30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii: Tokubetsu-hen | https://anilist.co/anime/176470 | December 12 at 15:00 |
 | Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | December 08 at 00:00 |
 | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells | https://anilist.co/anime/173694 | August 22 at 16:59 |
+| Mecha-ude (TV) | Mecha Ude: Mechanical Arms | https://anilist.co/anime/154673 | December 05 at 16:30 |
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | August 21 at 15:30 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | December 09 at 03:00 |
 {.dense}
