@@ -86,6 +86,7 @@ These shows have had episodes air already, but no thread was created because the
 | Love Live! Superstar!! 3rd Season | Love Live! Superstar!! Season 3 | https://anilist.co/anime/155502 | Episode 9 |
 | Maarui Kanojo to Zannen na Kareshi 2nd Season | Maarui Kanojo to Zannen na Kareshi 2nd Season | https://anilist.co/anime/184998 | Episode 3 |
 | Kabushiki Gaisha Magi Lumiere | Magilumiere Magical Girls Inc. | https://anilist.co/anime/171025 | Episode 9 |
+| Mecha-ude (TV) | Mecha Ude: Mechanical Arms | https://anilist.co/anime/154673 | Episode 10 |
 | Murai no Koi | Murai In Love | https://anilist.co/anime/150930 | Episode 12 |
 | Murder Mystery of the Dead | Murder Mystery of the Dead | https://anilist.co/anime/181776 | Episode 4 |
 | Natsume Yuujinchou Shichi | Natsume's Book of Friends Season 7 | https://anilist.co/anime/166611 | Episode 9 |
@@ -149,7 +150,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | 30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii: Tokubetsu-hen | 30-sai made Doutei da to Mahou Tsukai ni Nareru Rashii: Tokubetsu-hen | https://anilist.co/anime/176470 | December 12 at 15:00 |
 | Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | December 08 at 00:00 |
 | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells | https://anilist.co/anime/173694 | August 22 at 16:59 |
-| Mecha-ude (TV) | Mecha Ude: Mechanical Arms | https://anilist.co/anime/154673 | December 05 at 16:30 |
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | August 21 at 15:30 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | December 09 at 03:00 |
 {.dense}
