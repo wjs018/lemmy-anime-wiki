@@ -437,6 +437,7 @@ Episode|Link
 8|[Link](https://ani.social/post/7236891)
 9|[Link](https://ani.social/post/7380150)
 10|[Link](https://ani.social/post/7527132)
+11|[Link](https://ani.social/post/7673168)
 {.dense}
 
 ## Tsuma, Shougakusei ni Naru. • TsumaSho
