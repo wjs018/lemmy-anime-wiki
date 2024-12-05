@@ -124,6 +124,7 @@ Episode|Link
 6|[Link](https://ani.social/post/7144378)
 7|[Link](https://ani.social/post/7232462)
 8|[Link](https://ani.social/post/7375820)
+9|[Link](https://ani.social/post/7668659)
 {.dense}
 
 ## Goukon ni Ittara Onna ga Inakatta Hanashi • How I Attended an All-Guy's Mixer
@@ -282,6 +283,7 @@ Episode|Link
 7|[Link](https://ani.social/post/7232461)
 8|[Link](https://ani.social/post/7375718)
 9|[Link](https://ani.social/post/7522694)
+10|[Link](https://ani.social/post/7668658)
 {.dense}
 
 ## Puniru wa Kawaii Slime • Puniru is a Kawaii Slime
