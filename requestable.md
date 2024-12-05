@@ -65,7 +65,7 @@ These shows have had episodes air already, but no thread was created because the
 | Genjitsu no Yohane: SUNSHINE in the MIRROR Movie | Genjitsu no Yohane: SUNSHINE in the MIRROR Movie | https://anilist.co/anime/178782 | Episode 1 |
 | Sayonara Ryuusei Konnichiwa Jinsei | Good Bye, Dragon Life | https://anilist.co/anime/176053 | Episode 9 |
 | Haigakura | Haigakura | https://anilist.co/anime/168537 | Episode 8 |
-| Hamidashi Creative | Hamidashi Creative | https://anilist.co/anime/169098 | Episode 9 |
+| Hamidashi Creative | Hamidashi Creative | https://anilist.co/anime/169098 | Episode 10 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 580 |
 | Hibike! Euphonium 3: Extra Episodes | Hibike! Euphonium 3: Extra Episodes | https://anilist.co/anime/177008 | Episode 6 |
 | Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 35 |
@@ -106,7 +106,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ranma 1/2 (2024) | Ranma1/2 (2024) | https://anilist.co/anime/178533 | Episode 9 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | https://anilist.co/anime/182417 | Episode 10 |
 | Kamonohashi Ron no Kindan Suiri 2nd Season | Ron Kamonohashi’s Forbidden Deductions Season 2 | https://anilist.co/anime/172355 | Episode 9 |
-| Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran | Rurouni Kenshin -Kyoto Disturbance- | https://anilist.co/anime/171637 | Episode 9 |
+| Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran | Rurouni Kenshin -Kyoto Disturbance- | https://anilist.co/anime/171637 | Episode 10 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Battles | Sai-Kyo-Oh! Zukan: The Ultimate Battles | https://anilist.co/anime/173216 | Episode 48 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2763 |
 | Seirei Gensouki 2 | Seirei Gensouki: Spirit Chronicles Season 2 | https://anilist.co/anime/141182 | Episode 9 |
