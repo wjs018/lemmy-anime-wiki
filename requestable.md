@@ -71,7 +71,7 @@ These shows have had episodes air already, but no thread was created because the
 | Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 35 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 289 |
 | Goukon ni Ittara Onna ga Inakatta Hanashi | How I Attended an All-Guy's Mixer | https://anilist.co/anime/169931 | Episode 10 |
-| Hyakushou Kizoku 2nd Season | Hyakushou Kizoku 2nd Season | https://anilist.co/anime/171689 | Episode 9 |
+| Hyakushou Kizoku 2nd Season | Hyakushou Kizoku 2nd Season | https://anilist.co/anime/171689 | Episode 10 |
 | I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 59 |
 | JOCHUM | JOCHUM | https://anilist.co/anime/179408 | Episode 21 |
 | KUROMI'S PRETTY JOURNEY: Hacha Mecha! Multiverse Daidasshutsu! | KUROMI'S PRETTY JOURNEY Season 2: Escape from the Multiverse! | https://anilist.co/anime/183471 | Episode 14 |
