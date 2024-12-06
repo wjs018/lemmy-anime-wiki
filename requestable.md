@@ -130,7 +130,7 @@ These shows have had episodes air already, but no thread was created because the
 | Mahoutsukai ni Narenakatta Onnanoko no Hanashi. | The Stories of Girls Who Couldn't Be Magicians | https://anilist.co/anime/107372 | Episode 10 |
 | Ooi! Tonbo 2nd Season | Tonbo! Season 2 | https://anilist.co/anime/178729 | Episode 9 |
 | Tono to Inu | Tono to Inu | https://anilist.co/anime/174390 | Episode 9 |
-| Touhai: Ura Rate Mahjong Touhai Roku | Touhai: Ura Rate Mahjong Touhai Roku | https://anilist.co/anime/173263 | Episode 9 |
+| Touhai: Ura Rate Mahjong Touhai Roku | Touhai: Ura Rate Mahjong Touhai Roku | https://anilist.co/anime/173263 | Episode 10 |
 | Tousouchuu: Great Mission | Tousouchuu: Great Mission | https://anilist.co/anime/159560 | Episode 81 |
 | Tsuma, Shougakusei ni Naru. | TsumaSho | https://anilist.co/anime/162785 | Episode 10 |
 | Amagami-san Chi no Enmusubi | Tying the Knot with an Amagami Sister | https://anilist.co/anime/164172 | Episode 10 |
