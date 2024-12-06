@@ -84,7 +84,7 @@ These shows have had episodes air already, but no thread was created because the
 | Nageki no Bourei wa Intai Shitai | Let This Grieving Soul Retire | https://anilist.co/anime/175019 | Episode 10 |
 | Hitoribocchi no Isekai Kouryaku | Loner Life in Another World | https://anilist.co/anime/173693 | Episode 11 |
 | Love Live! Superstar!! 3rd Season | Love Live! Superstar!! Season 3 | https://anilist.co/anime/155502 | Episode 9 |
-| Maarui Kanojo to Zannen na Kareshi 2nd Season | Maarui Kanojo to Zannen na Kareshi 2nd Season | https://anilist.co/anime/184998 | Episode 3 |
+| Maarui Kanojo to Zannen na Kareshi 2nd Season | Maarui Kanojo to Zannen na Kareshi 2nd Season | https://anilist.co/anime/184998 | Episode 4 |
 | Kabushiki Gaisha Magi Lumiere | Magilumiere Magical Girls Inc. | https://anilist.co/anime/171025 | Episode 10 |
 | Mecha-ude (TV) | Mecha Ude: Mechanical Arms | https://anilist.co/anime/154673 | Episode 10 |
 | Murai no Koi | Murai In Love | https://anilist.co/anime/150930 | Episode 12 |
