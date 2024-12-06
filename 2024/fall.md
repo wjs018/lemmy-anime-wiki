@@ -114,6 +114,7 @@ Episode|Link
 6|[Link](https://ani.social/post/7258362)
 7|[Link](https://ani.social/post/7398198)
 8|[Link](https://ani.social/post/7554230)
+9|[Link](https://ani.social/post/7690989)
 {.dense}
 
 ## Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen • Is It Wrong To Try To Pick Up Girls in a Dungeon? V
