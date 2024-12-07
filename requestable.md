@@ -113,7 +113,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sengoku Youko: Senma Konton-hen | Sengoku Youko: The Thousandfold Chaos Arc | https://anilist.co/anime/176660 | Episode 19 |
 | Shibuya♡Hachi Part 2 | Shibuya♡Hachi Part 2 | https://anilist.co/anime/181835 | Episode 10 |
 | Shimajirou no Wow! | Shimajiro: A Wonderful Adventure | https://anilist.co/anime/18941 | Episode 651 |
-| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1261 |
+| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1262 |
 | Shinkalion: Change the World | Shinkalion: Change the World | https://anilist.co/anime/172395 | Episode 32 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 86 |
 | Ore dake Level Up na Ken: ReAwakening | Solo Leveling -ReAwakening- | https://anilist.co/anime/184694 | Episode 1 |
