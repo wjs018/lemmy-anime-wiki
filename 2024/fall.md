@@ -53,6 +53,7 @@ Episode|Link
 7|[Link](https://ani.social/post/7299815)
 8|[Link](https://ani.social/post/7419710)
 9|[Link](https://ani.social/post/7564144)
+10|[Link](https://ani.social/post/7712407)
 {.dense}
 
 ## Blue Lock VS. U-20 JAPAN • BLUE LOCK Season 2
