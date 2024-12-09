@@ -51,7 +51,7 @@ These shows have had episodes air already, but no thread was created because the
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1144 |
 | Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 36 |
 | Chibi Maruko-chan (1995) | Chibi Maruko-chan | https://anilist.co/anime/6149 | Episode 1459 |
-| Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 226 |
+| Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 227 |
 | Dandadan | DAN DA DAN | https://anilist.co/anime/171018 | Episode 10 |
 | Delico's Nursery | Delico's Nursery | https://anilist.co/anime/167991 | Episode 13 |
 | Maou-sama, Retry! R | Demon Lord, Retry! R | https://anilist.co/anime/168500 | Episode 11 |
