@@ -115,7 +115,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shimajirou no Wow! | Shimajiro: A Wonderful Adventure | https://anilist.co/anime/18941 | Episode 651 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1262 |
 | Shinkalion: Change the World | Shinkalion: Change the World | https://anilist.co/anime/172395 | Episode 33 |
-| Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 86 |
+| Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 87 |
 | Ore dake Level Up na Ken: ReAwakening | Solo Leveling -ReAwakening- | https://anilist.co/anime/184694 | Episode 1 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1678 |
 | Sword Art Online Alternative: Gun Gale Online II | Sword Art Online Alternative: Gun Gale Online II | https://anilist.co/anime/167141 | Episode 10 |
