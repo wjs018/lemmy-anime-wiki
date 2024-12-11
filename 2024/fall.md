@@ -25,6 +25,7 @@ Episode|Link
 9|[Link](https://ani.social/post/7356007)
 10|[Link](https://ani.social/post/7501378)
 11|[Link](https://ani.social/post/7647140)
+12|[Link](https://ani.social/post/7799340)
 {.dense}
 
 ## Ao no Hako • Blue Box
