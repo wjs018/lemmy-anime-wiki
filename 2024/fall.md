@@ -192,6 +192,7 @@ Episode|Link
 8|[Link](https://ani.social/post/7377523)
 9|[Link](https://ani.social/post/7524191)
 10|[Link](https://ani.social/post/7670438)
+11|[Link](https://ani.social/post/7822737)
 {.dense}
 
 ## Kidou Senshi Gundam: Fukushuu no Requiem • GUNDAM: Requiem for Vengeance
