@@ -118,7 +118,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shinkalion: Change the World | Shinkalion: Change the World | https://anilist.co/anime/172395 | Episode 33 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 87 |
 | Ore dake Level Up na Ken: ReAwakening | Solo Leveling -ReAwakening- | https://anilist.co/anime/184694 | Episode 1 |
-| Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1678 |
+| Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1679 |
 | Sword Art Online Alternative: Gun Gale Online II | Sword Art Online Alternative: Gun Gale Online II | https://anilist.co/anime/167141 | Episode 10 |
 | Jian Lai | Sword of Coming | https://anilist.co/anime/137672 | Episode 18 |
 | Sylvanian Families: Freya no Piece of Secret | Sylvanian Families: Freya no Piece of Secret | https://anilist.co/anime/182157 | Episode 4 |
