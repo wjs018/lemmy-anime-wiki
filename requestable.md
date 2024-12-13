@@ -44,7 +44,7 @@ These shows have had episodes air already, but no thread was created because the
 | Youkai Gakkou no Sensei Hajimemashita! | A Terrified Teacher at Ghoul School! | https://anilist.co/anime/171545 | Episode 10 |
 | Arifureta Shokugyou de Sekai Saikyou 3rd season | Arifureta: From Commonplace to World's Strongest Season 3 | https://anilist.co/anime/154473 | Episode 9 |
 | BEASTARS FINAL SEASON Part 1 | BEASTARS FINAL SEASON Part 1 | https://anilist.co/anime/136880 | Episode 1 |
-| BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 59 |
+| BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 60 |
 | Ao no Hako | Blue Box | https://anilist.co/anime/170942 | Episode 12 |
 | Ao no Exorcist: Yuki no Hate-hen | Blue Exorcist -Beyond the Snow Saga- | https://anilist.co/anime/176311 | Episode 10 |
 | Ao no Miburo | Blue Miburo | https://anilist.co/anime/169258 | Episode 8 |
