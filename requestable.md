@@ -138,7 +138,7 @@ These shows have had episodes air already, but no thread was created because the
 | Wonderful Precure! | Wonderful Precure! | https://anilist.co/anime/171030 | Episode 44 |
 | Yao Shen Ji 8 | Yao Shen Ji 8 | https://anilist.co/anime/178351 | Episode 33 |
 | Yoru wa Neko to Issho Season 3 | Yoru wa Neko to Issho Season 3 | https://anilist.co/anime/175137 | Episode 2 |
-| Kimi wa Meido-sama. | You are Ms. Servant | https://anilist.co/anime/172190 | Episode 10 |
+| Kimi wa Meido-sama. | You are Ms. Servant | https://anilist.co/anime/172190 | Episode 11 |
 | Yu☆Gi☆Oh! Go Rush!! | Yu☆Gi☆Oh! Go Rush!! | https://anilist.co/anime/142842 | Episode 137 |
 {.dense}
 
