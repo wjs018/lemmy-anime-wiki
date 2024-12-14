@@ -17,7 +17,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kekkon Suru tte, Hontou desu ka: 365 Days To The Wedding | 365 Days to the Wedding | https://anilist.co/anime/165790 | [Link](https://ani.social/post/7822737) |
 | Acro Trip | Acro Trip | https://anilist.co/anime/157965 | [Link](https://ani.social/post/7799340) |
 | Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season | As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2 | https://anilist.co/anime/178434 | [Link](https://ani.social/post/7734101) |
-| BLEACH: Sennen Kessen-hen - Soukoku-tan | BLEACH: Thousand-Year Blood War - The Conflict | https://anilist.co/anime/169755 | [Link](https://ani.social/post/7712407) |
 | Blue Lock VS. U-20 JAPAN | BLUE LOCK Season 2 | https://anilist.co/anime/163146 | [Link](https://ani.social/post/7712794) |
 | Maou 2099 | Demon Lord 2099 | https://anilist.co/anime/163135 | [Link](https://ani.social/post/7713644) |
 | Dragon Ball DAIMA | Dragon Ball DAIMA | https://anilist.co/anime/170083 | [Link](https://ani.social/post/7851049) |
@@ -55,7 +54,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 228 |
 | Dandadan | DAN DA DAN | https://anilist.co/anime/171018 | Episode 11 |
 | Delico's Nursery | Delico's Nursery | https://anilist.co/anime/167991 | Episode 13 |
-| Maou-sama, Retry! R | Demon Lord, Retry! R | https://anilist.co/anime/168500 | Episode 11 |
+| Maou-sama, Retry! R | Demon Lord, Retry! R | https://anilist.co/anime/168500 | Episode 12 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 841 |
 | Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | Episode 19 |
 | Duel Masters LOST: Tsuioku no Suishou | Duel Masters LOST: Tsuioku no Suishou | https://anilist.co/anime/175473 | Episode 4 |
@@ -148,6 +147,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
+| BLEACH: Sennen Kessen-hen - Soukoku-tan | BLEACH: Thousand-Year Blood War - The Conflict | https://anilist.co/anime/169755 | December 14 at 15:00 |
 | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells | https://anilist.co/anime/173694 | August 22 at 16:59 |
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | August 21 at 15:30 |
 | Nintama Rantarou: Dokutake Ninja-tai Saikyоu no Gunshi | Nintama Rantarou: Dokutake Ninja-tai Saikyоu no Gunshi | https://anilist.co/anime/175138 | December 19 at 16:00 |
