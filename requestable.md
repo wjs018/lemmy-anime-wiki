@@ -132,7 +132,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ooi! Tonbo 2nd Season | Tonbo! Season 2 | https://anilist.co/anime/178729 | Episode 11 |
 | Tono to Inu | Tono to Inu | https://anilist.co/anime/174390 | Episode 10 |
 | Touhai: Ura Rate Mahjong Touhai Roku | Touhai: Ura Rate Mahjong Touhai Roku | https://anilist.co/anime/173263 | Episode 11 |
-| Tousouchuu: Great Mission | Tousouchuu: Great Mission | https://anilist.co/anime/159560 | Episode 82 |
+| Tousouchuu: Great Mission | Tousouchuu: Great Mission | https://anilist.co/anime/159560 | Episode 83 |
 | Tsuma, Shougakusei ni Naru. | TsumaSho | https://anilist.co/anime/162785 | Episode 11 |
 | Amagami-san Chi no Enmusubi | Tying the Knot with an Amagami Sister | https://anilist.co/anime/164172 | Episode 11 |
 | Wonderful Precure! | Wonderful Precure! | https://anilist.co/anime/171030 | Episode 45 |
