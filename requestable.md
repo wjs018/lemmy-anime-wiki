@@ -147,6 +147,8 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
+| Alps no Roujin Heidi no Ojii-san | Alps no Roujin Heidi no Ojii-san | https://anilist.co/anime/185539 | December 17 at 22:00 |
+| Dokodemo Makibao | Dokodemo Makibao | https://anilist.co/anime/185538 | December 15 at 22:00 |
 | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells | https://anilist.co/anime/173694 | August 22 at 16:59 |
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | August 21 at 15:30 |
 | Nintama Rantarou: Dokutake Ninja-tai Saikyоu no Gunshi | Nintama Rantarou: Dokutake Ninja-tai Saikyоu no Gunshi | https://anilist.co/anime/175138 | December 19 at 16:00 |
