@@ -136,6 +136,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tsuma, Shougakusei ni Naru. | TsumaSho | https://anilist.co/anime/162785 | Episode 12 |
 | Amagami-san Chi no Enmusubi | Tying the Knot with an Amagami Sister | https://anilist.co/anime/164172 | Episode 11 |
 | Wonderful Precure! | Wonderful Precure! | https://anilist.co/anime/171030 | Episode 45 |
+| Raise wa Tanin ga Ii | Yakuza Fiancé: Raise wa Tanin ga Ii | https://anilist.co/anime/170468 | Episode 11 |
 | Yao Shen Ji 8 | Yao Shen Ji 8 | https://anilist.co/anime/178351 | Episode 33 |
 | Kimi wa Meido-sama. | You are Ms. Servant | https://anilist.co/anime/172190 | Episode 11 |
 | Yu☆Gi☆Oh! Go Rush!! | Yu☆Gi☆Oh! Go Rush!! | https://anilist.co/anime/142842 | Episode 138 |
@@ -154,5 +155,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Inazuma Eleven: Soushuuhen - Densetsu no Kickoff | Inazuma Eleven: Soushuuhen - Densetsu no Kickoff | https://anilist.co/anime/180804 | December 26 at 15:00 |
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | August 21 at 15:30 |
 | Nintama Rantarou: Dokutake Ninja-tai Saikyоu no Gunshi | Nintama Rantarou: Dokutake Ninja-tai Saikyоu no Gunshi | https://anilist.co/anime/175138 | December 19 at 16:00 |
-| Raise wa Tanin ga Ii | Yakuza Fiancé: Raise wa Tanin ga Ii | https://anilist.co/anime/170468 | December 16 at 15:00 |
 {.dense}
