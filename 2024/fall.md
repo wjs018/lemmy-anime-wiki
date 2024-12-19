@@ -105,6 +105,7 @@ Episode|Link
 9|[Link](https://ani.social/post/7527349)
 10|[Link](https://ani.social/post/7672124)
 11|[Link](https://ani.social/post/7826654)
+12|[Link](https://ani.social/post/7980731)
 {.dense}
 
 ## Dragon Ball DAIMA
