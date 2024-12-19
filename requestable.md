@@ -27,7 +27,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Shangri-La Frontier 2nd Season | Shangri-La Frontier Season 2 | https://anilist.co/anime/176508 | [Link](https://ani.social/post/7881571) |
 | Saikyou no Shien-shoku [Wajutsushi] Dearu Ore wa Sekai Saikyou Clan wo Shitagaeru | The Most Notorious "Talker" Runs the World's Greatest Clan | https://anilist.co/anime/177104 | [Link](https://ani.social/post/7909463) |
 | Kami no Tou: Tower of God 2nd Season | Tower of God Season 2 | https://anilist.co/anime/153406 | [Link](https://ani.social/post/7887035) |
-| Trillion Game | Trillion Game | https://anilist.co/anime/169315 | [Link](https://ani.social/post/7825185) |
 {.dense}
 
 ## Requestable Shows
@@ -157,5 +156,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Inazuma Eleven: Aratanaru Eiyuutachi no Joshou | Inazuma Eleven: Aratanaru Eiyuutachi no Joshou | https://anilist.co/anime/180806 | December 26 at 15:00 |
 | Inazuma Eleven: Soushuuhen - Densetsu no Kickoff | Inazuma Eleven: Soushuuhen - Densetsu no Kickoff | https://anilist.co/anime/180804 | December 26 at 15:00 |
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | August 21 at 15:30 |
+| Trillion Game | Trillion Game | https://anilist.co/anime/169315 | December 19 at 17:28 |
 | Sasayaku You ni Koi wo Utau | Whisper Me a Love Song | https://anilist.co/anime/160181 | December 28 at 17:46 |
 {.dense}
