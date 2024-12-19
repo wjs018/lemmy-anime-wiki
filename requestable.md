@@ -121,7 +121,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ore dake Level Up na Ken: ReAwakening | Solo Leveling -ReAwakening- | https://anilist.co/anime/184694 | Episode 1 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1679 |
 | Sword Art Online Alternative: Gun Gale Online II | Sword Art Online Alternative: Gun Gale Online II | https://anilist.co/anime/167141 | Episode 11 |
-| Jian Lai | Sword of Coming | https://anilist.co/anime/137672 | Episode 18 |
+| Jian Lai | Sword of Coming | https://anilist.co/anime/137672 | Episode 19 |
 | Sylvanian Families: Freya no Piece of Secret | Sylvanian Families: Freya no Piece of Secret | https://anilist.co/anime/182157 | Episode 5 |
 | The iDOLM@STER: Shiny Colors 2nd season | THE iDOLM@Ster SHINY COLORS Season 2 | https://anilist.co/anime/175533 | Episode 11 |
 | Tasuuketsu | Tasuketsu -Fate of the Majority- | https://anilist.co/anime/174070 | Episode 23 |
