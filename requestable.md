@@ -98,7 +98,6 @@ These shows have had episodes air already, but no thread was created because the
 | Okaimono Panda! | Okaimono Panda! | https://anilist.co/anime/177603 | Episode 7 |
 | ONE PIECE: Gyojin Tou-hen | One Piece Log: Fish-Man Island Saga | https://anilist.co/anime/183423 | Episode 7 |
 | Chi.: Chikyuu no Undou ni Tsuite | Orb: On the Movements of the Earth | https://anilist.co/anime/151514 | Episode 12 |
-| POKÉTOON (2024) | POKÉTOON (2024) | https://anilist.co/anime/182386 | Episode 8 |
 | PUI PUI Molcar the Movie MOLMAX | PUI PUI Molcar the Movie MOLMAX | https://anilist.co/anime/173884 | Episode 1 |
 | Pochars | Pochars | https://anilist.co/anime/182772 | Episode 10 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 77 |
