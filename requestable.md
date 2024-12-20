@@ -61,7 +61,7 @@ These shows have had episodes air already, but no thread was created because the
 | Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | Episode 20 |
 | Duel Masters LOST: Tsuioku no Suishou | Duel Masters LOST: Tsuioku no Suishou | https://anilist.co/anime/175473 | Episode 4 |
 | FAIRY TAIL: 100 YEARS QUEST | FAIRY TAIL 100 YEARS QUEST | https://anilist.co/anime/139095 | Episode 23 |
-| Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 162 |
+| Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 163 |
 | Genjitsu no Yohane: SUNSHINE in the MIRROR Movie | Genjitsu no Yohane: SUNSHINE in the MIRROR Movie | https://anilist.co/anime/178782 | Episode 1 |
 | Sayonara Ryuusei Konnichiwa Jinsei | Good Bye, Dragon Life | https://anilist.co/anime/176053 | Episode 12 |
 | Haigakura | Haigakura | https://anilist.co/anime/168537 | Episode 8 |
