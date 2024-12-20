@@ -92,7 +92,7 @@ These shows have had episodes air already, but no thread was created because the
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 11 |
 | Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 3 |
 | Hoshi Furu Oukoku no Nina | Nina the Starry Bride | https://anilist.co/anime/171038 | Episode 11 |
-| Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 148 |
+| Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 149 |
 | Nintama Rantarou: Dokutake Ninja-tai Saikyоu no Gunshi | Nintama Rantarou: Dokutake Ninja-tai Saikyоu no Gunshi | https://anilist.co/anime/175138 | Episode 1 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 9 |
 | Okaimono Panda! | Okaimono Panda! | https://anilist.co/anime/177603 | Episode 7 |
