@@ -43,7 +43,7 @@ These shows have had episodes air already, but no thread was created because the
 | Alps no Roujin Heidi no Ojii-san | Alps no Roujin Heidi no Ojii-san | https://anilist.co/anime/185539 | Episode 1 |
 | Arifureta Shokugyou de Sekai Saikyou 3rd season | Arifureta: From Commonplace to World's Strongest Season 3 | https://anilist.co/anime/154473 | Episode 10 |
 | BEASTARS FINAL SEASON Part 1 | BEASTARS FINAL SEASON Part 1 | https://anilist.co/anime/136880 | Episode 1 |
-| BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 60 |
+| BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 61 |
 | BLEACH: Sennen Kessen-hen - Soukoku-tan | BLEACH: Thousand-Year Blood War - The Conflict | https://anilist.co/anime/169755 | Episode 11 |
 | Ao no Hako | Blue Box | https://anilist.co/anime/170942 | Episode 13 |
 | Ao no Exorcist: Yuki no Hate-hen | Blue Exorcist -Beyond the Snow Saga- | https://anilist.co/anime/176311 | Episode 11 |
