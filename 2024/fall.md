@@ -72,6 +72,7 @@ Episode|Link
 9|[Link](https://ani.social/post/7564903)
 10|[Link](https://ani.social/post/7712794)
 11|[Link](https://ani.social/post/7866697)
+12|[Link](https://ani.social/post/8024682)
 {.dense}
 
 ## Chi.: Chikyuu no Undou ni Tsuite • Orb: On the Movements of the Earth
