@@ -250,6 +250,7 @@ Episode|Link
 8|[Link](https://ani.social/post/7565880)
 9|[Link](https://ani.social/post/7713644)
 10|[Link](https://ani.social/post/7867442)
+11|[Link](https://ani.social/post/8025362)
 {.dense}
 
 ## Mecha-ude (TV) • Mecha Ude: Mechanical Arms
