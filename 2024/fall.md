@@ -89,6 +89,7 @@ Episode|Link
 8|[Link](https://ani.social/post/7275394)
 9|[Link](https://ani.social/post/7418329)
 10|[Link](https://ani.social/post/7565878)
+13|[Link](https://ani.social/post/8029362)
 {.dense}
 
 ## Dandadan • DAN DA DAN
