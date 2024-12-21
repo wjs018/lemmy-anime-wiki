@@ -23,6 +23,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Rekishi ni Nokoru Akujo ni Naruzo | I’ll Become a Villainess Who Goes Down in History | https://anilist.co/anime/168139 | [Link](https://ani.social/post/7927908) |
 | MF Ghost 2nd Season | MF GHOST Season 2 | https://anilist.co/anime/171642 | [Link](https://ani.social/post/7888274) |
 | NegaPosi Angler | Negative Positive Angler | https://anilist.co/anime/179919 | [Link](https://ani.social/post/7972624) |
+| Chi.: Chikyuu no Undou ni Tsuite | Orb: On the Movements of the Earth | https://anilist.co/anime/151514 | [Link](https://ani.social/post/8029362) |
 | Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season | Re:ZERO -Starting Life in Another World- Season 3 | https://anilist.co/anime/163134 | [Link](https://ani.social/post/7501110) |
 | Shangri-La Frontier 2nd Season | Shangri-La Frontier Season 2 | https://anilist.co/anime/176508 | [Link](https://ani.social/post/7881571) |
 | Saikyou no Shien-shoku [Wajutsushi] Dearu Ore wa Sekai Saikyou Clan wo Shitagaeru | The Most Notorious "Talker" Runs the World's Greatest Clan | https://anilist.co/anime/177104 | [Link](https://ani.social/post/7909463) |
@@ -98,7 +99,6 @@ These shows have had episodes air already, but no thread was created because the
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 10 |
 | Okaimono Panda! | Okaimono Panda! | https://anilist.co/anime/177603 | Episode 7 |
 | ONE PIECE: Gyojin Tou-hen | One Piece Log: Fish-Man Island Saga | https://anilist.co/anime/183423 | Episode 7 |
-| Chi.: Chikyuu no Undou ni Tsuite | Orb: On the Movements of the Earth | https://anilist.co/anime/151514 | Episode 13 |
 | PUI PUI Molcar the Movie MOLMAX | PUI PUI Molcar the Movie MOLMAX | https://anilist.co/anime/173884 | Episode 1 |
 | Pochars | Pochars | https://anilist.co/anime/182772 | Episode 10 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 78 |
