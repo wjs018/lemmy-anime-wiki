@@ -90,7 +90,7 @@ These shows have had episodes air already, but no thread was created because the
 | Natsume Yuujinchou Shichi | Natsume's Book of Friends Season 7 | https://anilist.co/anime/166611 | Episode 11 |
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 12 |
 | Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 3 |
-| Hoshi Furu Oukoku no Nina | Nina the Starry Bride | https://anilist.co/anime/171038 | Episode 11 |
+| Hoshi Furu Oukoku no Nina | Nina the Starry Bride | https://anilist.co/anime/171038 | Episode 12 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 149 |
 | Nintama Rantarou: Dokutake Ninja-tai Saikyоu no Gunshi | Nintama Rantarou: Dokutake Ninja-tai Saikyоu no Gunshi | https://anilist.co/anime/175138 | Episode 1 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 10 |
@@ -105,7 +105,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ranma 1/2 (2024) | Ranma1/2 (2024) | https://anilist.co/anime/178533 | Episode 12 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | https://anilist.co/anime/182417 | Episode 10 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 68 |
-| Kamonohashi Ron no Kindan Suiri 2nd Season | Ron Kamonohashi’s Forbidden Deductions Season 2 | https://anilist.co/anime/172355 | Episode 11 |
+| Kamonohashi Ron no Kindan Suiri 2nd Season | Ron Kamonohashi’s Forbidden Deductions Season 2 | https://anilist.co/anime/172355 | Episode 12 |
 | Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran | Rurouni Kenshin -Kyoto Disturbance- | https://anilist.co/anime/171637 | Episode 12 |
 | SHIBUYA♡HACHI Part 2 | SHIBUYA♡HACHI Part 2 | https://anilist.co/anime/181835 | Episode 12 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Battles | Sai-Kyo-Oh! Zukan: The Ultimate Battles | https://anilist.co/anime/173216 | Episode 51 |
@@ -157,6 +157,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Inazuma Eleven: Aratanaru Eiyuutachi no Joshou | Inazuma Eleven: Aratanaru Eiyuutachi no Joshou | https://anilist.co/anime/180806 | December 26 at 15:00 |
 | Inazuma Eleven: Soushuuhen - Densetsu no Kickoff | Inazuma Eleven: Soushuuhen - Densetsu no Kickoff | https://anilist.co/anime/180804 | December 26 at 15:00 |
 | Shiguang Dailiren: Yingdu Pian | Link Click: Yingdu Chapter/Bridon Arc | https://anilist.co/anime/170166 | December 27 at 03:00 |
+| Momentary Lily | Momentary Lily | https://anilist.co/anime/177159 | January 02 at 14:30 |
 | Shikanoko Nokonoko Koshitantan | My Deer Friend Nokotan | https://anilist.co/anime/175977 | August 21 at 15:30 |
 | Izure Saikyou no Renkinjutsushi? | Possibly the Greatest Alchemist of All Time | https://anilist.co/anime/177506 | January 01 at 13:30 |
 | Sasayaku You ni Koi wo Utau | Whisper Me a Love Song | https://anilist.co/anime/160181 | December 28 at 17:46 |
