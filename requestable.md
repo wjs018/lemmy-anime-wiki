@@ -104,7 +104,7 @@ These shows have had episodes air already, but no thread was created because the
 | Punirunes Puni 2 | Punirunes Puni 2 | https://anilist.co/anime/179292 | Episode 12 |
 | Ranma 1/2 (2024) | Ranma1/2 (2024) | https://anilist.co/anime/178533 | Episode 12 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | https://anilist.co/anime/182417 | Episode 10 |
-| Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 67 |
+| Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 68 |
 | Kamonohashi Ron no Kindan Suiri 2nd Season | Ron Kamonohashi’s Forbidden Deductions Season 2 | https://anilist.co/anime/172355 | Episode 11 |
 | Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran | Rurouni Kenshin -Kyoto Disturbance- | https://anilist.co/anime/171637 | Episode 12 |
 | SHIBUYA♡HACHI Part 2 | SHIBUYA♡HACHI Part 2 | https://anilist.co/anime/181835 | Episode 12 |
