@@ -77,7 +77,6 @@ These shows have had episodes air already, but no thread was created because the
 | Kagaku×Bouken Survival! | Kagaku×Bouken Survival! | https://anilist.co/anime/174913 | Episode 12 |
 | Kamierabi GOD.app Season 2 | Kamierabi GOD.app Season 2 | https://anilist.co/anime/172199 | Episode 12 |
 | Kazuhiho to Marie no Youkoso Kitchen. | Kazuhiho to Marie no Youkoso Kitchen. | https://anilist.co/anime/184288 | Episode 6 |
-| Kidou Senshi Gundam ALC ENCOUNTER  | Kidou Senshi Gundam ALC ENCOUNTER  | https://anilist.co/anime/183651 | Episode 1 |
 | Kinokoinu | Kinokoinu Mushroom Pup | https://anilist.co/anime/177581 | Episode 12 |
 | Kumarba Season 2 | Kumarba Season 2 | https://anilist.co/anime/178395 | Episode 12 |
 | Nageki no Bourei wa Intai Shitai | Let This Grieving Soul Retire | https://anilist.co/anime/175019 | Episode 13 |
