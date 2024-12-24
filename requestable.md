@@ -153,6 +153,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Hazure Waku no [Joutai Ijou Skill] de Saikyou ni Natta Ore ga Subete wo Juurin Suru made | Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells | https://anilist.co/anime/173694 | August 22 at 16:59 |
 | Grisaia: Phantom Trigger THE ANIMATION (TV) | Grisaia: Phantom Trigger | https://anilist.co/anime/145740 | January 01 at 16:00 |
 | Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi | Headhunted to Another World: From Salaryman to Big Four! | https://anilist.co/anime/179689 | January 01 at 13:30 |
+| Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta. | I'm Getting Married to a Girl I Hate in My Class | https://anilist.co/anime/178462 | January 03 at 14:30 |
 | Inazuma Eleven: Aratanaru Eiyuutachi no Joshou | Inazuma Eleven: Aratanaru Eiyuutachi no Joshou | https://anilist.co/anime/180806 | December 26 at 15:00 |
 | Inazuma Eleven: Soushuuhen - Densetsu no Kickoff | Inazuma Eleven: Soushuuhen - Densetsu no Kickoff | https://anilist.co/anime/180804 | December 26 at 15:00 |
 | Shiguang Dailiren: Yingdu Pian | Link Click: Yingdu Chapter/Bridon Arc | https://anilist.co/anime/170166 | December 27 at 03:00 |
