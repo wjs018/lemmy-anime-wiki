@@ -162,5 +162,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | December 31 at 00:00 |
 | Ore dake Level Up na Ken: Season 2 - Arise from the Shadow | Solo Leveling Season 2 -Arise from the Shadow- | https://anilist.co/anime/176496 | January 04 at 15:00 |
 | Sorairo Utility (TV) | Sorairo Utility (TV) | https://anilist.co/anime/174596 | January 03 at 16:00 |
+| Yami Shibai 14 | Theatre of Darkness: Yamishibai 14 | https://anilist.co/anime/185088 | January 04 at 17:50 |
 | Sasayaku You ni Koi wo Utau | Whisper Me a Love Song | https://anilist.co/anime/160181 | December 28 at 17:46 |
 {.dense}
