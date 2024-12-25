@@ -156,6 +156,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Inazuma Eleven: Soushuuhen - Densetsu no Kickoff | Inazuma Eleven: Soushuuhen - Densetsu no Kickoff | https://anilist.co/anime/180804 | December 26 at 15:00 |
 | NEET Kunoichi to Naze ka Dousei Hajimemashita | I’m Living with an Otaku NEET Kunoichi!? | https://anilist.co/anime/174654 | January 04 at 15:00 |
 | Shiguang Dailiren: Yingdu Pian | Link Click: Yingdu Chapter/Bridon Arc | https://anilist.co/anime/170166 | December 27 at 03:00 |
+| Medalist | Medalist | https://anilist.co/anime/165171 | January 04 at 16:30 |
 | Momentary Lily | Momentary Lily | https://anilist.co/anime/177159 | January 02 at 14:30 |
 | Izure Saikyou no Renkinjutsushi? | Possibly the Greatest Alchemist of All Time | https://anilist.co/anime/177506 | January 01 at 13:30 |
 | Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | December 31 at 00:00 |
