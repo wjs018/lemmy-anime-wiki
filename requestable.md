@@ -154,10 +154,12 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta. | I'm Getting Married to a Girl I Hate in My Class | https://anilist.co/anime/178462 | January 03 at 14:30 |
 | Inazuma Eleven: Aratanaru Eiyuutachi no Joshou | Inazuma Eleven: Aratanaru Eiyuutachi no Joshou | https://anilist.co/anime/180806 | December 26 at 15:00 |
 | Inazuma Eleven: Soushuuhen - Densetsu no Kickoff | Inazuma Eleven: Soushuuhen - Densetsu no Kickoff | https://anilist.co/anime/180804 | December 26 at 15:00 |
+| NEET Kunoichi to Naze ka Dousei Hajimemashita | I’m Living with an Otaku NEET Kunoichi!? | https://anilist.co/anime/174654 | January 04 at 15:00 |
 | Shiguang Dailiren: Yingdu Pian | Link Click: Yingdu Chapter/Bridon Arc | https://anilist.co/anime/170166 | December 27 at 03:00 |
 | Momentary Lily | Momentary Lily | https://anilist.co/anime/177159 | January 02 at 14:30 |
 | Izure Saikyou no Renkinjutsushi? | Possibly the Greatest Alchemist of All Time | https://anilist.co/anime/177506 | January 01 at 13:30 |
 | Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | December 31 at 00:00 |
+| Ore dake Level Up na Ken: Season 2 - Arise from the Shadow | Solo Leveling Season 2 -Arise from the Shadow- | https://anilist.co/anime/176496 | January 04 at 15:00 |
 | Sorairo Utility (TV) | Sorairo Utility (TV) | https://anilist.co/anime/174596 | January 03 at 16:00 |
 | Sasayaku You ni Koi wo Utau | Whisper Me a Love Song | https://anilist.co/anime/160181 | December 28 at 17:46 |
 {.dense}
