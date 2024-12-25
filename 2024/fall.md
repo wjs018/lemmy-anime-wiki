@@ -504,6 +504,7 @@ Episode|Link
 2|[Link](https://ani.social/post/6610700)
 3|[Link](https://ani.social/post/6761039)
 4|[Link](https://ani.social/post/6906371)
+12|[Link](https://ani.social/post/8137772)
 {.dense}
 
 ## Youkai Gakkou no Sensei Hajimemashita! • A Terrified Teacher at Ghoul School!
