@@ -84,7 +84,7 @@ These shows have had episodes air already, but no thread was created because the
 | Maarui Kanojo to Zannen na Kareshi 2nd Season | Maarui Kanojo to Zannen na Kareshi 2nd Season | https://anilist.co/anime/184998 | Episode 6 |
 | Kabushiki Gaisha Magi Lumiere | Magilumiere Magical Girls Inc. | https://anilist.co/anime/171025 | Episode 12 |
 | Mecha-ude (TV) | Mecha Ude: Mechanical Arms | https://anilist.co/anime/154673 | Episode 12 |
-| Murder Mystery of the Dead | Murder Mystery of the Dead | https://anilist.co/anime/181776 | Episode 6 |
+| Murder Mystery of the Dead | Murder Mystery of the Dead | https://anilist.co/anime/181776 | Episode 7 |
 | Natsume Yuujinchou Shichi | Natsume's Book of Friends Season 7 | https://anilist.co/anime/166611 | Episode 12 |
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 12 |
 | Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 4 |
