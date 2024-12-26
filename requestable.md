@@ -25,7 +25,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Shangri-La Frontier 2nd Season | Shangri-La Frontier Season 2 | https://anilist.co/anime/176508 | [Link](https://ani.social/post/8043054) |
 | Yarinaoshi Reijou wa Ryuutei Heika wo Kouryaku-chuu | The Do-Over Damsel Conquers the Dragon Emperor | https://anilist.co/anime/164299 | [Link](https://ani.social/post/8137772) |
 | Kami no Tou: Tower of God 2nd Season | Tower of God Season 2 | https://anilist.co/anime/153406 | [Link](https://ani.social/post/8049301) |
-| Trillion Game | Trillion Game | https://anilist.co/anime/169315 | [Link](https://ani.social/post/7988297) |
+| Trillion Game | Trillion Game | https://anilist.co/anime/169315 | [Link](https://ani.social/post/8159125) |
 | Raise wa Tanin ga Ii | Yakuza Fiancé: Raise wa Tanin ga Ii | https://anilist.co/anime/170468 | [Link](https://ani.social/post/8074678) |
 {.dense}
 
