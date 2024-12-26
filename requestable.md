@@ -65,7 +65,7 @@ These shows have had episodes air already, but no thread was created because the
 | Genjitsu no Yohane: SUNSHINE in the MIRROR Movie | Genjitsu no Yohane: SUNSHINE in the MIRROR Movie | https://anilist.co/anime/178782 | Episode 1 |
 | Sayonara Ryuusei Konnichiwa Jinsei | Good Bye, Dragon Life | https://anilist.co/anime/176053 | Episode 12 |
 | Hamidashi Creative | Hamidashi Creative | https://anilist.co/anime/169098 | Episode 12 |
-| Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 583 |
+| Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 584 |
 | Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 38 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 292 |
 | Goukon ni Ittara Onna ga Inakatta Hanashi | How I Attended an All-Guy's Mixer | https://anilist.co/anime/169931 | Episode 12 |
