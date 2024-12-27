@@ -158,6 +158,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta. | I'm Getting Married to a Girl I Hate in My Class | https://anilist.co/anime/178462 | January 03 at 14:30 |
 | NEET Kunoichi to Naze ka Dousei Hajimemashita | I’m Living with an Otaku NEET Kunoichi!? | https://anilist.co/anime/174654 | January 04 at 15:00 |
 | Kono Kaisha ni Suki na Hito ga Imasu | Kono Kaisha ni Suki na Hito ga Imasu | https://anilist.co/anime/179696 | January 06 at 14:00 |
+| Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai | Medaka Kuroiwa is Impervious to My Charms | https://anilist.co/anime/177552 | January 06 at 15:00 |
 | Medalist | Medalist | https://anilist.co/anime/165171 | January 04 at 16:30 |
 | Momentary Lily | Momentary Lily | https://anilist.co/anime/177159 | January 02 at 14:30 |
 | Watashi no Shiawase na Kekkon 2nd Season | My Happy Marriage Season 2 | https://anilist.co/anime/169441 | January 06 at 13:30 |
