@@ -14,7 +14,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
-| Blue Lock VS. U-20 JAPAN | BLUE LOCK Season 2 | https://anilist.co/anime/163146 | [Link](https://ani.social/post/8024682) |
+| Blue Lock VS. U-20 JAPAN | BLUE LOCK Season 2 | https://anilist.co/anime/163146 | [Link](https://ani.social/post/8214816) |
 | Maou 2099 | Demon Lord 2099 | https://anilist.co/anime/163135 | [Link](https://ani.social/post/8025362) |
 | Dragon Ball DAIMA | Dragon Ball DAIMA | https://anilist.co/anime/170083 | [Link](https://ani.social/post/8198220) |
 | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen | Is It Wrong To Try To Pick Up Girls in a Dungeon? V | https://anilist.co/anime/170732 | [Link](https://ani.social/post/7972626) |
@@ -44,7 +44,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season | As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2 | https://anilist.co/anime/178434 | Episode 12 |
 | BEASTARS FINAL SEASON Part 1 | BEASTARS FINAL SEASON Part 1 | https://anilist.co/anime/136880 | Episode 1 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 62 |
-| BLEACH: Sennen Kessen-hen - Soukoku-tan | BLEACH: Thousand-Year Blood War - The Conflict | https://anilist.co/anime/169755 | Episode 13 |
+| BLEACH: Sennen Kessen-hen - Soukoku-tan | BLEACH: Thousand-Year Blood War - The Conflict | https://anilist.co/anime/169755 | Episode 14 |
 | S-Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu | Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster! | https://anilist.co/anime/176158 | Episode 1 |
 | Ao no Hako | Blue Box | https://anilist.co/anime/170942 | Episode 14 |
 | Ao no Exorcist: Yuki no Hate-hen | Blue Exorcist -Beyond the Snow Saga- | https://anilist.co/anime/176311 | Episode 12 |
