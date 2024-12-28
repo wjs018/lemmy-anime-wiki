@@ -74,7 +74,7 @@ These shows have had episodes air already, but no thread was created because the
 | Inazuma Eleven: Soushuuhen - Densetsu no Kickoff | Inazuma Eleven: Soushuuhen - Densetsu no Kickoff | https://anilist.co/anime/180804 | Episode 1 |
 | JOCHUM | JOCHUM | https://anilist.co/anime/179408 | Episode 24 |
 | KUROMI'S PRETTY JOURNEY: Hacha Mecha! Multiverse Daidasshutsu! | KUROMI'S PRETTY JOURNEY Season 2: Escape from the Multiverse! | https://anilist.co/anime/183471 | Episode 17 |
-| Kagaku×Bouken Survival! | Kagaku×Bouken Survival! | https://anilist.co/anime/174913 | Episode 12 |
+| Kagaku×Bouken Survival! | Kagaku×Bouken Survival! | https://anilist.co/anime/174913 | Episode 13 |
 | Kamierabi GOD.app Season 2 | Kamierabi GOD.app Season 2 | https://anilist.co/anime/172199 | Episode 12 |
 | Kazuhiho to Marie no Youkoso Kitchen. | Kazuhiho to Marie no Youkoso Kitchen. | https://anilist.co/anime/184288 | Episode 6 |
 | Kinokoinu | Kinokoinu Mushroom Pup | https://anilist.co/anime/177581 | Episode 12 |
