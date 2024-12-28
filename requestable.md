@@ -55,7 +55,7 @@ These shows have had episodes air already, but no thread was created because the
 | Dandadan | DAN DA DAN | https://anilist.co/anime/171018 | Episode 12 |
 | Maou-sama, Retry! R | Demon Lord, Retry! R | https://anilist.co/anime/168500 | Episode 12 |
 | Dokodemo Makibao | Dokodemo Makibao | https://anilist.co/anime/185538 | Episode 4 |
-| Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 842 |
+| Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 843 |
 | Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | Episode 21 |
 | Duel Masters LOST: Tsuioku no Suishou | Duel Masters LOST: Tsuioku no Suishou | https://anilist.co/anime/175473 | Episode 4 |
 | FAIRY TAIL: 100 YEARS QUEST | FAIRY TAIL 100 YEARS QUEST | https://anilist.co/anime/139095 | Episode 24 |
