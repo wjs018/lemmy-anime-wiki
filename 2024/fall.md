@@ -91,6 +91,7 @@ Episode|Link
 9|[Link](https://ani.social/post/7418329)
 10|[Link](https://ani.social/post/7565878)
 13|[Link](https://ani.social/post/8029362)
+14|[Link](https://ani.social/post/8215417)
 {.dense}
 
 ## Dandadan • DAN DA DAN
@@ -255,6 +256,7 @@ Episode|Link
 9|[Link](https://ani.social/post/7713644)
 10|[Link](https://ani.social/post/7867442)
 11|[Link](https://ani.social/post/8025362)
+12|[Link](https://ani.social/post/8215418)
 {.dense}
 
 ## Mecha-ude (TV) • Mecha Ude: Mechanical Arms
