@@ -162,6 +162,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | December 31 at 00:00 |
 | Ore dake Level Up na Ken: Season 2 - Arise from the Shadow | Solo Leveling Season 2 -Arise from the Shadow- | https://anilist.co/anime/176496 | January 04 at 15:00 |
 | Sorairo Utility (TV) | Sorairo Utility (TV) | https://anilist.co/anime/174596 | January 03 at 16:00 |
+| Tasokare Hotel | Tasokare Hotel | https://anilist.co/anime/178495 | January 08 at 13:30 |
 | Yami Shibai 14 | Theatre of Darkness: Yamishibai 14 | https://anilist.co/anime/185088 | January 04 at 17:50 |
 | Unnamed Memory Act.2 | Unnamed Memory Season 2 | https://anilist.co/anime/178550 | January 07 at 14:30 |
 | Zenshuu. | ZENSHU | https://anilist.co/anime/176273 | January 05 at 14:46 |
