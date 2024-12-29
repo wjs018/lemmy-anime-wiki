@@ -105,6 +105,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2766 |
 | Seirei Gensouki 2 | Seirei Gensouki: Spirit Chronicles Season 2 | https://anilist.co/anime/141182 | Episode 12 |
 | Sengoku Youko: Senma Konton-hen | Sengoku Youko: The Thousandfold Chaos Arc | https://anilist.co/anime/176660 | Episode 22 |
+| Shangri-La Frontier 2nd Season | Shangri-La Frontier Season 2 | https://anilist.co/anime/176508 | Episode 12 |
 | Shimajirou no Wow! | Shimajiro: A Wonderful Adventure | https://anilist.co/anime/18941 | Episode 652 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1265 |
 | Shinkalion: Change the World | Shinkalion: Change the World | https://anilist.co/anime/172395 | Episode 35 |
@@ -159,7 +160,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Neko ni Naritai Tamagawa-kun | Neko ni Naritai Tamagawa-kun | https://anilist.co/anime/185261 | January 05 at 14:57 |
 | Izure Saikyou no Renkinjutsushi? | Possibly the Greatest Alchemist of All Time | https://anilist.co/anime/177506 | January 01 at 13:30 |
 | Mahoutsukai no Yakusoku | Promise of Wizard | https://anilist.co/anime/170916 | January 06 at 13:00 |
-| Shangri-La Frontier 2nd Season | Shangri-La Frontier Season 2 | https://anilist.co/anime/176508 | December 29 at 09:00 |
 | Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | December 31 at 00:00 |
 | Ore dake Level Up na Ken: Season 2 - Arise from the Shadow | Solo Leveling Season 2 -Arise from the Shadow- | https://anilist.co/anime/176496 | January 04 at 15:00 |
 | Sorairo Utility (TV) | Sorairo Utility (TV) | https://anilist.co/anime/174596 | January 03 at 16:00 |
