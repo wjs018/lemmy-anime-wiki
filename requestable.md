@@ -18,7 +18,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen | Is It Wrong To Try To Pick Up Girls in a Dungeon? V | https://anilist.co/anime/170732 | [Link](https://ani.social/post/7972626) |
 | Chi.: Chikyuu no Undou ni Tsuite | Orb: On the Movements of the Earth | https://anilist.co/anime/151514 | [Link](https://ani.social/post/8215417) |
 | Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season | Re:ZERO -Starting Life in Another World- Season 3 | https://anilist.co/anime/163134 | [Link](https://ani.social/post/7355505) |
-| Shangri-La Frontier 2nd Season | Shangri-La Frontier Season 2 | https://anilist.co/anime/176508 | [Link](https://ani.social/post/8043054) |
 | Kami no Tou: Tower of God 2nd Season | Tower of God Season 2 | https://anilist.co/anime/153406 | [Link](https://ani.social/post/8049301) |
 | Trillion Game | Trillion Game | https://anilist.co/anime/169315 | [Link](https://ani.social/post/8159125) |
 {.dense}
@@ -160,6 +159,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Neko ni Naritai Tamagawa-kun | Neko ni Naritai Tamagawa-kun | https://anilist.co/anime/185261 | January 05 at 14:57 |
 | Izure Saikyou no Renkinjutsushi? | Possibly the Greatest Alchemist of All Time | https://anilist.co/anime/177506 | January 01 at 13:30 |
 | Mahoutsukai no Yakusoku | Promise of Wizard | https://anilist.co/anime/170916 | January 06 at 13:00 |
+| Shangri-La Frontier 2nd Season | Shangri-La Frontier Season 2 | https://anilist.co/anime/176508 | December 29 at 09:00 |
 | Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | December 31 at 00:00 |
 | Ore dake Level Up na Ken: Season 2 - Arise from the Shadow | Solo Leveling Season 2 -Arise from the Shadow- | https://anilist.co/anime/176496 | January 04 at 15:00 |
 | Sorairo Utility (TV) | Sorairo Utility (TV) | https://anilist.co/anime/174596 | January 03 at 16:00 |
