@@ -189,7 +189,7 @@ Episode|Link
 2|[Link](https://ani.social/post/6568964)
 {.dense}
 
-## Kekkon Suru tte, Hontou desu ka: 365 Days To The Wedding • 365 Days to the Wedding
+## Kekkon Suru tte, Hontou desu ka • 365 Days to the Wedding
 
 Episode|Link
 :-:|:-:
@@ -241,7 +241,7 @@ Episode|Link
 12|[Link](https://ani.social/post/8050713)
 {.dense}
 
-## Maou 2099 • Demon Lord 2099
+## Maou 2099 • DEMON LORD 2099
 
 Episode|Link
 :-:|:-:
