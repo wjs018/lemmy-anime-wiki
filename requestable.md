@@ -185,4 +185,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Sorairo Utility (TV) | Sorairo Utility (TV) | https://anilist.co/anime/174596 | January 03 at 16:00 |
 | Arafou Otoko no Isekai Tsuuhan Seikatsu | The Daily Life of a Middle-Aged Online Shopper in Another World | https://anilist.co/anime/180292 | January 09 at 12:00 |
 | Yami Shibai 14 | Theatre of Darkness: Yamishibai 14 | https://anilist.co/anime/185088 | January 04 at 17:50 |
+| Übel Blatt | Übel Blatt | https://anilist.co/anime/175198 | January 10 at 15:30 |
 {.dense}
