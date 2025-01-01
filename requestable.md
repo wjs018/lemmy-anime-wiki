@@ -20,7 +20,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru | Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest | https://anilist.co/anime/178548 |  |
 | Hana wa Saku, Shura no Gotoku | Flower and Asura | https://anilist.co/anime/178022 |  |
 | Akuyaku Reijou Tensei Oji-san | From Bureaucrat to Villainess: Dad's Been Reincarnated! | https://anilist.co/anime/172453 |  |
-| Grisaia: Phantom Trigger THE ANIMATION (TV) | Grisaia: Phantom Trigger | https://anilist.co/anime/145740 |  |
+| Grisaia: Phantom Trigger THE ANIMATION (TV) | Grisaia: Phantom Trigger | https://anilist.co/anime/145740 | [Link](https://ani.social/post/8320995) |
 | Honey Lemon Soda | Honey Lemon Soda | https://anilist.co/anime/175443 |  |
 | A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu. | I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! | https://anilist.co/anime/180812 |  |
 | Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Tobatsu Shiyou to Omoimasu | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time | https://anilist.co/anime/167143 |  |
@@ -135,7 +135,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sai-Kyo-Oh! Zukan: The Ultimate Battles | Sai-Kyo-Oh! Zukan: The Ultimate Battles | https://anilist.co/anime/173216 | Episode 52 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2767 |
 | Seirei Gensouki 2 | Seirei Gensouki: Spirit Chronicles Season 2 | https://anilist.co/anime/141182 | Episode 12 |
-| Sengoku Youko: Senma Konton-hen | Sengoku Youko: The Thousandfold Chaos Arc | https://anilist.co/anime/176660 | Episode 22 |
+| Sengoku Youko: Senma Konton-hen | Sengoku Youko: The Thousandfold Chaos Arc | https://anilist.co/anime/176660 | Episode 23 |
 | Shangri-La Frontier 2nd Season | Shangri-La Frontier Season 2 | https://anilist.co/anime/176508 | Episode 12 |
 | Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 11 |
 | Shimajirou no Wow! | Shimajiro: A Wonderful Adventure | https://anilist.co/anime/18941 | Episode 652 |
