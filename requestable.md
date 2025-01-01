@@ -175,6 +175,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | 0-saiji Start Dash Monogatari Season 2 | 0-saiji Start Dash Monogatari Season 2 | https://anilist.co/anime/185462 | January 05 at 08:55 |
 | Sousei no Aquarion: Myth of Emotions | AQUARION: Myth of Emotions | https://anilist.co/anime/162921 | January 09 at 15:30 |
 | Douse, Koishite Shimaunda. | Anyway, I'm Falling in Love with You | https://anilist.co/anime/175409 | January 09 at 16:28 |
+| Baban Baban Ban Vampire | Babanba Banban Vampire | https://anilist.co/anime/175422 | January 11 at 14:30 |
 | BanG Dream! Ave Mujica | BanG Dream! Ave Mujica | https://anilist.co/anime/169295 | January 02 at 14:00 |
 | Ao no Exorcist: Yosuga-hen | Blue Exorcist -The Blue Night Saga- | https://anilist.co/anime/185880 | January 04 at 15:30 |
 | Cardfight!! Vanguard: Divinez - Deluxe-hen | Cardfight!! Vanguard: Divinez - Deluxe-hen | https://anilist.co/anime/182920 | January 10 at 23:00 |
@@ -187,5 +188,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Sorairo Utility (TV) | Sorairo Utility (TV) | https://anilist.co/anime/174596 | January 03 at 16:00 |
 | Arafou Otoko no Isekai Tsuuhan Seikatsu | The Daily Life of a Middle-Aged Online Shopper in Another World | https://anilist.co/anime/180292 | January 09 at 12:00 |
 | Yami Shibai 14 | Theatre of Darkness: Yamishibai 14 | https://anilist.co/anime/185088 | January 04 at 17:50 |
+| UniteUp!: Uni:Birth | UniteUp! -Uni:Birth- | https://anilist.co/anime/167742 | January 11 at 14:30 |
 | Übel Blatt | Übel Blatt | https://anilist.co/anime/175198 | January 10 at 15:30 |
 {.dense}
