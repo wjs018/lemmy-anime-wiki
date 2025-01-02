@@ -15,6 +15,7 @@ Below, you can find an index of all the discussion threads for shows from the Wi
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8319681)
+2|[Link](https://ani.social/post/8334107)
 {.dense}
 
 ## Grisaia: Phantom Trigger THE ANIMATION (TV) • Grisaia: Phantom Trigger
