@@ -32,7 +32,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Magic Maker: Isekai Mahou no Tsukurikata | Magic Maker: How to Make Magic in Another World | https://anilist.co/anime/179297 |  |
 | Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai | Medaka Kuroiwa is Impervious to My Charms | https://anilist.co/anime/177552 |  |
 | Medalist | Medalist | https://anilist.co/anime/165171 |  |
-| Momentary Lily | Momentary Lily | https://anilist.co/anime/177159 |  |
+| Momentary Lily | Momentary Lily | https://anilist.co/anime/177159 | [Link](https://ani.social/post/8346448) |
 | Watashi no Shiawase na Kekkon 2nd Season | My Happy Marriage Season 2 | https://anilist.co/anime/169441 |  |
 | Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru | OKITSURA: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying | https://anilist.co/anime/166699 |  |
 | Chi.: Chikyuu no Undou ni Tsuite | Orb: On the Movements of the Earth | https://anilist.co/anime/151514 | [Link](https://ani.social/post/8215417) |
@@ -183,6 +183,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Kisaki Kyouiku kara Nigetai Watashi | I Want to Escape from Princess Lessons | https://anilist.co/anime/170650 | January 05 at 13:00 |
 | Ishura 2nd Season | ISHURA Season 2 | https://anilist.co/anime/176234 | January 08 at 14:00 |
 | Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita | I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic | https://anilist.co/anime/176063 | January 06 at 16:30 |
+| Kinnikuman: Kanpeki Choujin Shiso-hen Season 2 | Kinnikuman: Perfect Origin Arc Season 2 | https://anilist.co/anime/181886 | January 12 at 14:30 |
 | Mahoutsukai Precure!! MIRAI DAYS | Mahoutsukai Precure!! MIRAI DAYS | https://anilist.co/anime/162722 | January 10 at 17:00 |
 | Mashin Souzouden Wataru | Mashin Souzouden Wataru | https://anilist.co/anime/173333 | January 12 at 08:30 |
 | Neko ni Naritai Tamagawa-kun | Neko ni Naritai Tamagawa-kun | https://anilist.co/anime/185261 | January 05 at 14:57 |
