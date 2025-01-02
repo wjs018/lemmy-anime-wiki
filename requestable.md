@@ -184,6 +184,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Ishura 2nd Season | ISHURA Season 2 | https://anilist.co/anime/176234 | January 08 at 14:00 |
 | Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita | I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic | https://anilist.co/anime/176063 | January 06 at 16:30 |
 | Mahoutsukai Precure!! MIRAI DAYS | Mahoutsukai Precure!! MIRAI DAYS | https://anilist.co/anime/162722 | January 10 at 17:00 |
+| Mashin Souzouden Wataru | Mashin Souzouden Wataru | https://anilist.co/anime/173333 | January 12 at 08:30 |
 | Neko ni Naritai Tamagawa-kun | Neko ni Naritai Tamagawa-kun | https://anilist.co/anime/185261 | January 05 at 14:57 |
 | Sorairo Utility (TV) | Sorairo Utility (TV) | https://anilist.co/anime/174596 | January 03 at 16:00 |
 | Arafou Otoko no Isekai Tsuuhan Seikatsu | The Daily Life of a Middle-Aged Online Shopper in Another World | https://anilist.co/anime/180292 | January 09 at 12:00 |
