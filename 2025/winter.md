@@ -18,6 +18,13 @@ Episode|Link
 2|[Link](https://ani.social/post/8334107)
 {.dense}
 
+## Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta. • I'm Getting Married to a Girl I Hate in My Class
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/8371993)
+{.dense}
+
 ## Grisaia: Phantom Trigger THE ANIMATION (TV) • Grisaia: Phantom Trigger
 
 Episode|Link
