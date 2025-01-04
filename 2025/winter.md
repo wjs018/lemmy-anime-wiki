@@ -32,6 +32,13 @@ Episode|Link
 1|[Link](https://ani.social/post/8320995)
 {.dense}
 
+## Medalist
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/8400783)
+{.dense}
+
 ## Momentary Lily
 
 Episode|Link
