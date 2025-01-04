@@ -31,7 +31,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | MAKE A GIRL | MAKE A GIRL | https://anilist.co/anime/154064 |  |
 | Magic Maker: Isekai Mahou no Tsukurikata | Magic Maker: How to Make Magic in Another World | https://anilist.co/anime/179297 |  |
 | Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai | Medaka Kuroiwa is Impervious to My Charms | https://anilist.co/anime/177552 |  |
-| Medalist | Medalist | https://anilist.co/anime/165171 |  |
+| Medalist | Medalist | https://anilist.co/anime/165171 | [Link](https://ani.social/post/8400783) |
 | Momentary Lily | Momentary Lily | https://anilist.co/anime/177159 | [Link](https://ani.social/post/8346448) |
 | Watashi no Shiawase na Kekkon 2nd Season | My Happy Marriage Season 2 | https://anilist.co/anime/169441 |  |
 | Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru | OKITSURA: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying | https://anilist.co/anime/166699 | [Link](https://ani.social/post/8400052) |
@@ -68,7 +68,7 @@ These shows have had episodes air already, but no thread was created because the
 | BanG Dream! Ave Mujica | BanG Dream! Ave Mujica | https://anilist.co/anime/169295 | Episode 1 |
 | S-Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu | Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster! | https://anilist.co/anime/176158 | Episode 2 |
 | Ao no Hako | Blue Box | https://anilist.co/anime/170942 | Episode 13 |
-| Ao no Exorcist: Yuki no Hate-hen | Blue Exorcist -Beyond the Snow Saga- | https://anilist.co/anime/176311 | Episode 12 |
+| Ao no Exorcist: Yuki no Hate-hen | Blue Exorcist -Beyond the Snow Saga- | https://anilist.co/anime/176311 | Episode 13 |
 | Ao no Exorcist: Yosuga-hen | Blue Exorcist -The Blue Night Saga- | https://anilist.co/anime/185880 | Episode 1 |
 | Ao no Miburo | Blue Miburo | https://anilist.co/anime/169258 | Episode 12 |
 | Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite | Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~ | https://anilist.co/anime/178100 | Episode 1 |
