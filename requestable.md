@@ -70,6 +70,7 @@ These shows have had episodes air already, but no thread was created because the
 | S-Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu | Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster! | https://anilist.co/anime/176158 | Episode 2 |
 | Ao no Hako | Blue Box | https://anilist.co/anime/170942 | Episode 13 |
 | Ao no Exorcist: Yuki no Hate-hen | Blue Exorcist -Beyond the Snow Saga- | https://anilist.co/anime/176311 | Episode 12 |
+| Ao no Exorcist: Yosuga-hen | Blue Exorcist -The Blue Night Saga- | https://anilist.co/anime/185880 | Episode 1 |
 | Ao no Miburo | Blue Miburo | https://anilist.co/anime/169258 | Episode 12 |
 | Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite | Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~ | https://anilist.co/anime/178100 | Episode 1 |
 | BONOBONO (2016) | Bono Bono (2016) | https://anilist.co/anime/21552 | Episode 440 |
@@ -176,7 +177,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Sousei no Aquarion: Myth of Emotions | AQUARION: Myth of Emotions | https://anilist.co/anime/162921 | January 09 at 15:30 |
 | Douse, Koishite Shimaunda. | Anyway, I'm Falling in Love with You | https://anilist.co/anime/175409 | January 09 at 16:28 |
 | Baban Baban Ban Vampire | Babanba Banban Vampire | https://anilist.co/anime/175422 | January 11 at 14:30 |
-| Ao no Exorcist: Yosuga-hen | Blue Exorcist -The Blue Night Saga- | https://anilist.co/anime/185880 | January 04 at 15:30 |
 | Cardfight!! Vanguard: Divinez - Deluxe-hen | Cardfight!! Vanguard: Divinez - Deluxe-hen | https://anilist.co/anime/182920 | January 10 at 23:00 |
 | FARMAGIA | FARMAGIA | https://anilist.co/anime/178312 | January 10 at 13:30 |
 | Kisaki Kyouiku kara Nigetai Watashi | I Want to Escape from Princess Lessons | https://anilist.co/anime/170650 | January 05 at 13:00 |
