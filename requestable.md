@@ -34,8 +34,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Medalist | Medalist | https://anilist.co/anime/165171 |  |
 | Momentary Lily | Momentary Lily | https://anilist.co/anime/177159 | [Link](https://ani.social/post/8346448) |
 | Watashi no Shiawase na Kekkon 2nd Season | My Happy Marriage Season 2 | https://anilist.co/anime/169441 |  |
-| Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru | OKITSURA: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying | https://anilist.co/anime/166699 |  |
-| Chi.: Chikyuu no Undou ni Tsuite | Orb: On the Movements of the Earth | https://anilist.co/anime/151514 | [Link](https://ani.social/post/8215417) |
+| Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru | OKITSURA: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying | https://anilist.co/anime/166699 | [Link](https://ani.social/post/8400052) |
 | Mahoutsukai no Yakusoku | Promise of Wizard | https://anilist.co/anime/170916 |  |
 | Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season | Re:ZERO -Starting Life in Another World- Season 3 | https://anilist.co/anime/163134 | [Link](https://ani.social/post/7355505) |
 | SAKAMOTO DAYS | SAKAMOTO DAYS | https://anilist.co/anime/177709 |  |
@@ -85,7 +84,7 @@ These shows have had episodes air already, but no thread was created because the
 | Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | Episode 22 |
 | FAIRY TAIL: 100 YEARS QUEST | FAIRY TAIL 100 YEARS QUEST | https://anilist.co/anime/139095 | Episode 24 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 165 |
-| Asatir 2: Mirai no Mukashibanashi | Future Folktales Season 2 | https://anilist.co/anime/185541 | Episode 8 |
+| Asatir 2: Mirai no Mukashibanashi | Future Folktales Season 2 | https://anilist.co/anime/185541 | Episode 9 |
 | Sayonara Ryuusei Konnichiwa Jinsei | Good Bye, Dragon Life | https://anilist.co/anime/176053 | Episode 12 |
 | Hamidashi Creative | Hamidashi Creative | https://anilist.co/anime/169098 | Episode 12 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 585 |
@@ -121,6 +120,7 @@ These shows have had episodes air already, but no thread was created because the
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 12 |
 | Okaimono Panda! | Okaimono Panda! | https://anilist.co/anime/177603 | Episode 8 |
 | ONE PIECE: Gyojin Tou-hen | One Piece Log: Fish-Man Island Saga | https://anilist.co/anime/183423 | Episode 9 |
+| Chi.: Chikyuu no Undou ni Tsuite | Orb: On the Movements of the Earth | https://anilist.co/anime/151514 | Episode 12 |
 | Pochars | Pochars | https://anilist.co/anime/182772 | Episode 11 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 79 |
 | Izure Saikyou no Renkinjutsushi? | Possibly the Greatest Alchemist of All Time | https://anilist.co/anime/177506 | Episode 1 |
