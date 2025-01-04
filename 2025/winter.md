@@ -39,3 +39,17 @@ Episode|Link
 1|[Link](https://ani.social/post/8346448)
 {.dense}
 
+## NEET Kunoichi to Naze ka Dousei Hajimemashita • I’m Living with an Otaku NEET Kunoichi!?
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/8398446)
+{.dense}
+
+## Ore dake Level Up na Ken: Season 2 - Arise from the Shadow • Solo Leveling Season 2 -Arise from the Shadow-
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/8398445)
+{.dense}
+
