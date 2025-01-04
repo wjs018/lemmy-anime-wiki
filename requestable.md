@@ -138,7 +138,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shangri-La Frontier 2nd Season | Shangri-La Frontier Season 2 | https://anilist.co/anime/176508 | Episode 12 |
 | Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 11 |
 | Shimajirou no Wow! | Shimajiro: A Wonderful Adventure | https://anilist.co/anime/18941 | Episode 652 |
-| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1265 |
+| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1266 |
 | Shinkalion: Change the World | Shinkalion: Change the World | https://anilist.co/anime/172395 | Episode 35 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 90 |
 | Sorairo Utility (TV) | Sorairo Utility (TV) | https://anilist.co/anime/174596 | Episode 1 |
