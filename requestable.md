@@ -128,7 +128,7 @@ These shows have had episodes air already, but no thread was created because the
 | Pochars | Pochars | https://anilist.co/anime/182772 | Episode 11 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 79 |
 | Izure Saikyou no Renkinjutsushi? | Possibly the Greatest Alchemist of All Time | https://anilist.co/anime/177506 | Episode 1 |
-| Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2077 |
+| Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2078 |
 | Puniru wa Kawaii Slime | Puniru is a Kawaii Slime | https://anilist.co/anime/171400 | Episode 12 |
 | Punirunes Puni 2 | Punirunes Puni 2 | https://anilist.co/anime/179292 | Episode 13 |
 | Ranma 1/2 (2024) | Ranma1/2 (2024) | https://anilist.co/anime/178533 | Episode 13 |
