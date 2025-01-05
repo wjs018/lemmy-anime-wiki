@@ -81,3 +81,10 @@ Episode|Link
 2|[Link](https://ani.social/post/8406201)
 {.dense}
 
+## Zenshuu. • ZENSHU
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/8426669)
+{.dense}
+
