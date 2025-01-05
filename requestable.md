@@ -140,7 +140,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 11 |
 | Shimajirou no Wow! | Shimajiro: A Wonderful Adventure | https://anilist.co/anime/18941 | Episode 652 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1266 |
-| Shinkalion: Change the World | Shinkalion: Change the World | https://anilist.co/anime/172395 | Episode 35 |
+| Shinkalion: Change the World | Shinkalion: Change the World | https://anilist.co/anime/172395 | Episode 36 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 90 |
 | Sorairo Utility (TV) | Sorairo Utility (TV) | https://anilist.co/anime/174596 | Episode 1 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1682 |
@@ -162,7 +162,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tsuma, Shougakusei ni Naru. | TsumaSho | https://anilist.co/anime/162785 | Episode 12 |
 | Amagami-san Chi no Enmusubi | Tying the Knot with an Amagami Sister | https://anilist.co/anime/164172 | Episode 14 |
 | Sasayaku You ni Koi wo Utau | Whisper Me a Love Song | https://anilist.co/anime/160181 | Episode 12 |
-| Wonderful Precure! | Wonderful Precure! | https://anilist.co/anime/171030 | Episode 46 |
+| Wonderful Precure! | Wonderful Precure! | https://anilist.co/anime/171030 | Episode 47 |
 | Yao Shen Ji 8 | Yao Shen Ji 8 | https://anilist.co/anime/178351 | Episode 36 |
 | Kimi wa Meido-sama. | You are Ms. Servant | https://anilist.co/anime/172190 | Episode 12 |
 | Yu☆Gi☆Oh! Go Rush!! | Yu☆Gi☆Oh! Go Rush!! | https://anilist.co/anime/142842 | Episode 141 |
