@@ -18,6 +18,13 @@ Episode|Link
 2|[Link](https://ani.social/post/8334107)
 {.dense}
 
+## Ao no Exorcist: Yosuga-hen • Blue Exorcist -The Blue Night Saga-
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/8407203)
+{.dense}
+
 ## Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta. • I'm Getting Married to a Girl I Hate in My Class
 
 Episode|Link
@@ -46,7 +53,7 @@ Episode|Link
 1|[Link](https://ani.social/post/8346448)
 {.dense}
 
-## NEET Kunoichi to Naze ka Dousei Hajimemashita • I’m Living with an Otaku NEET Kunoichi!?
+## NEET Kunoichi to Naze ka Dousei Hajimemashita • I'm Living With a Otaku NEET Kunoichi?!
 
 Episode|Link
 :-:|:-:
