@@ -39,6 +39,13 @@ Episode|Link
 1|[Link](https://ani.social/post/8320995)
 {.dense}
 
+## Kisaki Kyouiku kara Nigetai Watashi • I Want to Escape from Princess Lessons
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/8427452)
+{.dense}
+
 ## Medalist
 
 Episode|Link
