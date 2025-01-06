@@ -25,6 +25,13 @@ Episode|Link
 1|[Link](https://ani.social/post/8407203)
 {.dense}
 
+## Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita • I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/8461407)
+{.dense}
+
 ## Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta. • I'm Getting Married to a Girl I Hate in My Class
 
 Episode|Link
