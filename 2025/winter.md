@@ -95,6 +95,13 @@ Episode|Link
 1|[Link](https://ani.social/post/8433206)
 {.dense}
 
+## Yami Shibai 14 • Theatre of Darkness: Yamishibai 14
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/8441236)
+{.dense}
+
 ## Zenshuu. • ZENSHU
 
 Episode|Link
