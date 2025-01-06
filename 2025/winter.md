@@ -46,6 +46,13 @@ Episode|Link
 1|[Link](https://ani.social/post/8427452)
 {.dense}
 
+## Kono Kaisha ni Suki na Hito ga Imasu
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/8453475)
+{.dense}
+
 ## Mahoutsukai no Yakusoku • Promise of Wizard
 
 Episode|Link
