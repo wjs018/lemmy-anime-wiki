@@ -102,6 +102,13 @@ Episode|Link
 1|[Link](https://ani.social/post/8433206)
 {.dense}
 
+## Watashi no Shiawase na Kekkon 2nd Season • My Happy Marriage Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/8452769)
+{.dense}
+
 ## Yami Shibai 14 • Theatre of Darkness: Yamishibai 14
 
 Episode|Link
