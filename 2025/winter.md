@@ -46,6 +46,13 @@ Episode|Link
 1|[Link](https://ani.social/post/8427452)
 {.dense}
 
+## Mahoutsukai no Yakusoku • Promise of Wizard
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/8452435)
+{.dense}
+
 ## Medalist
 
 Episode|Link
