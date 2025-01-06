@@ -95,6 +95,13 @@ Episode|Link
 1|[Link](https://ani.social/post/8398446)
 {.dense}
 
+## Neko ni Naritai Tamagawa-kun
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/8462443)
+{.dense}
+
 ## Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru • OKITSURA: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying
 
 Episode|Link
