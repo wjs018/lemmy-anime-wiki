@@ -53,6 +53,13 @@ Episode|Link
 1|[Link](https://ani.social/post/8453475)
 {.dense}
 
+## Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai • Medaka Kuroiwa is Impervious to My Charms
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/8455230)
+{.dense}
+
 ## Mahoutsukai no Yakusoku • Promise of Wizard
 
 Episode|Link
