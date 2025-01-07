@@ -46,6 +46,13 @@ Episode|Link
 1|[Link](https://ani.social/post/8320995)
 {.dense}
 
+## Hana wa Saku, Shura no Gotoku • Flower and Asura
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/8486308)
+{.dense}
+
 ## Kisaki Kyouiku kara Nigetai Watashi • I Want to Escape from Princess Lessons
 
 Episode|Link
