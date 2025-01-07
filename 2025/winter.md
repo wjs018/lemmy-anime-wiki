@@ -130,6 +130,13 @@ Episode|Link
 1|[Link](https://ani.social/post/8433206)
 {.dense}
 
+## Unnamed Memory Act.2 • Unnamed Memory Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/8482172)
+{.dense}
+
 ## Watashi no Shiawase na Kekkon 2nd Season • My Happy Marriage Season 2
 
 Episode|Link
