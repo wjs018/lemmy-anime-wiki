@@ -74,6 +74,13 @@ Episode|Link
 1|[Link](https://ani.social/post/8455230)
 {.dense}
 
+## Magic Maker: Isekai Mahou no Tsukurikata • Magic Maker: How to Make Magic in Another World
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/8511365)
+{.dense}
+
 ## Mahoutsukai no Yakusoku • Promise of Wizard
 
 Episode|Link
