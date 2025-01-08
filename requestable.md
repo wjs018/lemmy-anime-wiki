@@ -85,7 +85,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 235 |
 | Dandadan | DAN DA DAN | https://anilist.co/anime/171018 | Episode 12 |
 | Maou-sama, Retry! R | Demon Lord, Retry! R | https://anilist.co/anime/168500 | Episode 12 |
-| Dokodemo Makibao | Dokodemo Makibao | https://anilist.co/anime/185538 | Episode 4 |
+| Dokodemo Makibao | Dokodemo Makibao | https://anilist.co/anime/185538 | Episode 5 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 844 |
 | Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | Episode 23 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 165 |
