@@ -33,7 +33,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita | I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic | https://anilist.co/anime/176063 | [Link](https://ani.social/post/8461407) |
 | Kono Kaisha ni Suki na Hito ga Imasu | Kono Kaisha ni Suki na Hito ga Imasu | https://anilist.co/anime/179696 | [Link](https://ani.social/post/8453475) |
 | MAKE A GIRL | MAKE A GIRL | https://anilist.co/anime/154064 |  |
-| Magic Maker: Isekai Mahou no Tsukurikata | Magic Maker: How to Make Magic in Another World | https://anilist.co/anime/179297 |  |
+| Magic Maker: Isekai Mahou no Tsukurikata | Magic Maker: How to Make Magic in Another World | https://anilist.co/anime/179297 | [Link](https://ani.social/post/8511365) |
 | Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai | Medaka Kuroiwa is Impervious to My Charms | https://anilist.co/anime/177552 | [Link](https://ani.social/post/8455230) |
 | Medalist | Medalist | https://anilist.co/anime/165171 | [Link](https://ani.social/post/8400783) |
 | Momentary Lily | Momentary Lily | https://anilist.co/anime/177159 | [Link](https://ani.social/post/8346448) |
