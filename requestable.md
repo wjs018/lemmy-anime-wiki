@@ -15,15 +15,14 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
 | Youkai Gakkou no Sensei Hajimemashita! | A Terrified Teacher at Ghoul School! | https://anilist.co/anime/171545 | [Link](https://ani.social/post/8483316) |
-| Ameku Takao no Suiri Karte | Ameku M.D.: Doctor Detective | https://anilist.co/anime/176642 | [Link](https://ani.social/post/8334107) |
+| Ameku Takao no Suiri Karte | Ameku M.D.: Doctor Detective | https://anilist.co/anime/176642 | [Link](https://ani.social/post/8513115) |
 | Dr. STONE: SCIENCE FUTURE | Dr. STONE SCIENCE FUTURE | https://anilist.co/anime/172019 |  |
 | Dragon Ball DAIMA | Dragon Ball DAIMA | https://anilist.co/anime/170083 | [Link](https://ani.social/post/8198220) |
 | Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru | Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest | https://anilist.co/anime/178548 |  |
 | FAIRY TAIL: 100 YEARS QUEST | FAIRY TAIL 100 YEARS QUEST | https://anilist.co/anime/139095 | [Link](https://ani.social/post/8428664) |
 | Hana wa Saku, Shura no Gotoku | Flower and Asura | https://anilist.co/anime/178022 | [Link](https://ani.social/post/8486308) |
 | Akuyaku Reijou Tensei Oji-san | From Bureaucrat to Villainess: Dad's Been Reincarnated! | https://anilist.co/anime/172453 |  |
-| Grisaia: Phantom Trigger THE ANIMATION (TV) | Grisaia: Phantom Trigger | https://anilist.co/anime/145740 | [Link](https://ani.social/post/8320995) |
-| Honey Lemon Soda | Honey Lemon Soda | https://anilist.co/anime/175443 |  |
+| Honey Lemon Soda | Honey Lemon Soda | https://anilist.co/anime/175443 | [Link](https://ani.social/post/8513114) |
 | A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu. | I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! | https://anilist.co/anime/180812 |  |
 | Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Tobatsu Shiyou to Omoimasu | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time | https://anilist.co/anime/167143 |  |
 | Kisaki Kyouiku kara Nigetai Watashi | I Want to Escape from Princess Lessons | https://anilist.co/anime/170650 | [Link](https://ani.social/post/8427452) |
@@ -184,6 +183,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Project Sekai: Kowareta SEKAI to Utaenai MIKU | COLORFUL STAGE! The Movie: A Miku Who Can't Sing | https://anilist.co/anime/179878 | January 16 at 16:00 |
 | Cardfight!! Vanguard: Divinez - Deluxe-hen | Cardfight!! Vanguard: Divinez - Deluxe-hen | https://anilist.co/anime/182920 | January 10 at 23:00 |
 | FARMAGIA | FARMAGIA | https://anilist.co/anime/178312 | January 10 at 13:30 |
+| Grisaia: Phantom Trigger THE ANIMATION (TV) | Grisaia: Phantom Trigger | https://anilist.co/anime/145740 | January 08 at 16:00 |
 | Kinnikuman: Kanpeki Choujin Shiso-hen Season 2 | Kinnikuman: Perfect Origin Arc Season 2 | https://anilist.co/anime/181886 | January 12 at 14:30 |
 | Mahoutsukai Precure!! MIRAI DAYS | Mahoutsukai Precure!! MIRAI DAYS | https://anilist.co/anime/162722 | January 10 at 17:00 |
 | Mashin Souzouden Wataru | Mashin Souzouden Wataru | https://anilist.co/anime/173333 | January 12 at 08:30 |
