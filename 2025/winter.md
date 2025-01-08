@@ -16,6 +16,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8319681)
 2|[Link](https://ani.social/post/8334107)
+3|[Link](https://ani.social/post/8513115)
 {.dense}
 
 ## Ao no Exorcist: Yosuga-hen • Blue Exorcist -The Blue Night Saga-
@@ -51,6 +52,13 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8486308)
+{.dense}
+
+## Honey Lemon Soda
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/8513114)
 {.dense}
 
 ## Kisaki Kyouiku kara Nigetai Watashi • I Want to Escape from Princess Lessons
