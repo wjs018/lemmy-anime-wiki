@@ -33,6 +33,13 @@ Episode|Link
 1|[Link](https://ani.social/post/8407203)
 {.dense}
 
+## Arafou Otoko no Isekai Tsuuhan Seikatsu • The Daily Life of a Middle-Aged Online Shopper in Another World
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/8552513)
+{.dense}
+
 ## BanG Dream! Ave Mujica
 
 Episode|Link
