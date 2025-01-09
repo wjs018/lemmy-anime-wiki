@@ -33,6 +33,13 @@ Episode|Link
 1|[Link](https://ani.social/post/8407203)
 {.dense}
 
+## BanG Dream! Ave Mujica
+
+Episode|Link
+:-:|:-:
+2|[Link](https://ani.social/post/8546544)
+{.dense}
+
 ## Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita • I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic
 
 Episode|Link
@@ -45,6 +52,13 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8371993)
+{.dense}
+
+## Douse, Koishite Shimaunda. • Anyway, I'm Falling in Love with You
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/8546546)
 {.dense}
 
 ## Dr. STONE: SCIENCE FUTURE • Dr. STONE SCIENCE FUTURE
@@ -80,6 +94,13 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8513114)
+{.dense}
+
+## Izure Saikyou no Renkinjutsushi? • Possibly the Greatest Alchemist of All Time
+
+Episode|Link
+:-:|:-:
+2|[Link](https://ani.social/post/8546543)
 {.dense}
 
 ## Kisaki Kyouiku kara Nigetai Watashi • I Want to Escape from Princess Lessons
@@ -165,6 +186,13 @@ Episode|Link
 Episode|Link
 :-:|:-:
 2|[Link](https://ani.social/post/8406201)
+{.dense}
+
+## Sousei no Aquarion: Myth of Emotions • AQUARION: Myth of Emotions
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/8546545)
 {.dense}
 
 ## Tasokare Hotel
