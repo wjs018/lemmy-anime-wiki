@@ -47,6 +47,13 @@ Episode|Link
 1|[Link](https://ani.social/post/8536424)
 {.dense}
 
+## Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru • Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/8538903)
+{.dense}
+
 ## Grisaia: Phantom Trigger THE ANIMATION (TV) • Grisaia: Phantom Trigger
 
 Episode|Link
