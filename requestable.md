@@ -74,7 +74,7 @@ These shows have had episodes air already, but no thread was created because the
 | BLEACH: Sennen Kessen-hen - Soukoku-tan | BLEACH: Thousand-Year Blood War - The Conflict | https://anilist.co/anime/169755 | Episode 14 |
 | BanG Dream! Ave Mujica | BanG Dream! Ave Mujica | https://anilist.co/anime/169295 | Episode 2 |
 | S-Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu | Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster! | https://anilist.co/anime/176158 | Episode 2 |
-| Ao no Hako | Blue Box | https://anilist.co/anime/170942 | Episode 13 |
+| Ao no Hako | Blue Box | https://anilist.co/anime/170942 | Episode 15 |
 | Ao no Exorcist: Yuki no Hate-hen | Blue Exorcist -Beyond the Snow Saga- | https://anilist.co/anime/176311 | Episode 13 |
 | Ao no Exorcist: Yosuga-hen | Blue Exorcist -The Blue Night Saga- | https://anilist.co/anime/185880 | Episode 1 |
 | Ao no Miburo | Blue Miburo | https://anilist.co/anime/169258 | Episode 12 |
