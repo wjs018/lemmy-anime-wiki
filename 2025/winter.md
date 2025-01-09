@@ -10,6 +10,13 @@ dateCreated: 2025-01-01T19:37:32.145Z
 
 Below, you can find an index of all the discussion threads for shows from the Winter 2025 anime season. Not every episode of every show may have a discussion thread. To more easily find the show you are looking for, use the navigation menu for this page or use Ctrl+F.
 
+## Akuyaku Reijou Tensei Oji-san • From Bureaucrat to Villainess: Dad's Been Reincarnated!
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/8540269)
+{.dense}
+
 ## Ameku Takao no Suiri Karte • Ameku M.D.: Doctor Detective
 
 Episode|Link
@@ -122,6 +129,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8346448)
+2|[Link](https://ani.social/post/8540270)
 {.dense}
 
 ## NEET Kunoichi to Naze ka Dousei Hajimemashita • I'm Living With a Otaku NEET Kunoichi?!
