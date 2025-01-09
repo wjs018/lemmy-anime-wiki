@@ -151,7 +151,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sorairo Utility (TV) | Sorairo Utility (TV) | https://anilist.co/anime/174596 | Episode 1 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1682 |
 | Sword Art Online Alternative: Gun Gale Online II | Sword Art Online Alternative: Gun Gale Online II | https://anilist.co/anime/167141 | Episode 12 |
-| Jian Lai | Sword of Coming | https://anilist.co/anime/137672 | Episode 21 |
+| Jian Lai | Sword of Coming | https://anilist.co/anime/137672 | Episode 22 |
 | Sylvanian Families: Freya no Piece of Secret | Sylvanian Families: Freya no Piece of Secret | https://anilist.co/anime/182157 | Episode 6 |
 | The iDOLM@STER: Shiny Colors 2nd season | THE iDOLM@Ster SHINY COLORS Season 2 | https://anilist.co/anime/175533 | Episode 12 |
 | Tasuuketsu | Tasuketsu -Fate of the Majority- | https://anilist.co/anime/174070 | Episode 24 |
