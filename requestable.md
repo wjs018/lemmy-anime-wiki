@@ -155,6 +155,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sylvanian Families: Freya no Piece of Secret | Sylvanian Families: Freya no Piece of Secret | https://anilist.co/anime/182157 | Episode 6 |
 | The iDOLM@STER: Shiny Colors 2nd season | THE iDOLM@Ster SHINY COLORS Season 2 | https://anilist.co/anime/175533 | Episode 12 |
 | Tasuuketsu | Tasuketsu -Fate of the Majority- | https://anilist.co/anime/174070 | Episode 24 |
+| Arafou Otoko no Isekai Tsuuhan Seikatsu | The Daily Life of a Middle-Aged Online Shopper in Another World | https://anilist.co/anime/180292 | Episode 1 |
 | Yarinaoshi Reijou wa Ryuutei Heika wo Kouryaku-chuu | The Do-Over Damsel Conquers the Dragon Emperor | https://anilist.co/anime/164299 | Episode 11 |
 | Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki | The Healer Who Was Banished From His Party, Is, in Fact, the Strongest | https://anilist.co/anime/174043 | Episode 12 |
 | Shin Tennis no Ouji-sama: U-17 WORLD CUP SEMIFINAL | The Prince of Tennis II U-17 World Cup Semifinal | https://anilist.co/anime/165810 | Episode 13 |
@@ -187,7 +188,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Kinnikuman: Kanpeki Choujin Shiso-hen Season 2 | Kinnikuman: Perfect Origin Arc Season 2 | https://anilist.co/anime/181886 | January 12 at 14:30 |
 | Mahoutsukai Precure!! MIRAI DAYS | Mahoutsukai Precure!! MIRAI DAYS | https://anilist.co/anime/162722 | January 10 at 17:00 |
 | Mashin Souzouden Wataru | Mashin Souzouden Wataru | https://anilist.co/anime/173333 | January 12 at 08:30 |
-| Arafou Otoko no Isekai Tsuuhan Seikatsu | The Daily Life of a Middle-Aged Online Shopper in Another World | https://anilist.co/anime/180292 | January 09 at 12:00 |
 | Jibaku Shounen Hanako-kun 2 | Toilet-bound Hanako-kun Season 2 | https://anilist.co/anime/170892 | January 12 at 07:30 |
 | UniteUp!: Uni:Birth | UniteUp! -Uni:Birth- | https://anilist.co/anime/167742 | January 11 at 14:30 |
 | Übel Blatt | Übel Blatt | https://anilist.co/anime/175198 | January 10 at 15:30 |
