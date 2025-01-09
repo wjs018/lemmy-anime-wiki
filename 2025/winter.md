@@ -40,6 +40,13 @@ Episode|Link
 1|[Link](https://ani.social/post/8371993)
 {.dense}
 
+## Dr. STONE: SCIENCE FUTURE • Dr. STONE SCIENCE FUTURE
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/8536424)
+{.dense}
+
 ## Grisaia: Phantom Trigger THE ANIMATION (TV) • Grisaia: Phantom Trigger
 
 Episode|Link
