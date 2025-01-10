@@ -131,6 +131,13 @@ Episode|Link
 1|[Link](https://ani.social/post/8455230)
 {.dense}
 
+## Kusuriya no Hitorigoto 2nd Season • The Apothecary Diaries Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/8565574)
+{.dense}
+
 ## Magic Maker: Isekai Mahou no Tsukurikata • Magic Maker: How to Make Magic in Another World
 
 Episode|Link
