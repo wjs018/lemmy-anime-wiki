@@ -23,6 +23,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Dragon Ball DAIMA | Dragon Ball DAIMA | https://anilist.co/anime/170083 | [Link](https://ani.social/post/8567958) |
 | Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru | Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest | https://anilist.co/anime/178548 | [Link](https://ani.social/post/8538903) |
 | FAIRY TAIL: 100 YEARS QUEST | FAIRY TAIL 100 YEARS QUEST | https://anilist.co/anime/139095 | [Link](https://ani.social/post/8428664) |
+| FARMAGIA | FARMAGIA | https://anilist.co/anime/178312 | [Link](https://ani.social/post/8580531) |
 | Hana wa Saku, Shura no Gotoku | Flower and Asura | https://anilist.co/anime/178022 | [Link](https://ani.social/post/8486308) |
 | Akuyaku Reijou Tensei Oji-san | From Bureaucrat to Villainess: Dad's Been Reincarnated! | https://anilist.co/anime/172453 | [Link](https://ani.social/post/8540269) |
 | Honey Lemon Soda | Honey Lemon Soda | https://anilist.co/anime/175443 | [Link](https://ani.social/post/8513114) |
@@ -93,7 +94,6 @@ These shows have had episodes air already, but no thread was created because the
 | Dokodemo Makibao | Dokodemo Makibao | https://anilist.co/anime/185538 | Episode 5 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 844 |
 | Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | Episode 23 |
-| FARMAGIA | FARMAGIA | https://anilist.co/anime/178312 | Episode 1 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 166 |
 | Asatir 2: Mirai no Mukashibanashi | Future Folktales Season 2 | https://anilist.co/anime/185541 | Episode 9 |
 | Sayonara Ryuusei Konnichiwa Jinsei | Good Bye, Dragon Life | https://anilist.co/anime/176053 | Episode 12 |
