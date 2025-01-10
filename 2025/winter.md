@@ -221,6 +221,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8433206)
+2|[Link](https://ani.social/post/8566179)
 {.dense}
 
 ## Unnamed Memory Act.2 • Unnamed Memory Season 2
