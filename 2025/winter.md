@@ -174,6 +174,13 @@ Episode|Link
 1|[Link](https://ani.social/post/8462443)
 {.dense}
 
+## Nihon e Youkoso Elf-san. • Welcome to Japan, Ms. Elf!
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/8563959)
+{.dense}
+
 ## Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru • OKITSURA: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying
 
 Episode|Link
