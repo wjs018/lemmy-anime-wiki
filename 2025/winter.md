@@ -10,6 +10,13 @@ dateCreated: 2025-01-01T19:37:32.145Z
 
 Below, you can find an index of all the discussion threads for shows from the Winter 2025 anime season. Not every episode of every show may have a discussion thread. To more easily find the show you are looking for, use the navigation menu for this page or use Ctrl+F.
 
+## A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu. • I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/8595106)
+{.dense}
+
 ## Akuyaku Reijou Tensei Oji-san • From Bureaucrat to Villainess: Dad's Been Reincarnated!
 
 Episode|Link
@@ -215,6 +222,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8398445)
+2|[Link](https://ani.social/post/8595107)
 {.dense}
 
 ## S-Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu • Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster!
