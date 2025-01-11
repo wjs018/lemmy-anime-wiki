@@ -179,6 +179,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8400783)
+2|[Link](https://ani.social/post/8599496)
 {.dense}
 
 ## Momentary Lily
