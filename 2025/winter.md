@@ -224,6 +224,13 @@ Episode|Link
 2|[Link](https://ani.social/post/8406201)
 {.dense}
 
+## Sorairo Utility (TV)
+
+Episode|Link
+:-:|:-:
+2|[Link](https://ani.social/post/8585667)
+{.dense}
+
 ## Sousei no Aquarion: Myth of Emotions • AQUARION: Myth of Emotions
 
 Episode|Link
