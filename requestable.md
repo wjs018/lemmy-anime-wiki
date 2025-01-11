@@ -46,7 +46,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Izure Saikyou no Renkinjutsushi? | Possibly the Greatest Alchemist of All Time | https://anilist.co/anime/177506 | [Link](https://ani.social/post/8546543) |
 | Mahoutsukai no Yakusoku | Promise of Wizard | https://anilist.co/anime/170916 | [Link](https://ani.social/post/8452435) |
 | Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season | Re:ZERO -Starting Life in Another World- Season 3 | https://anilist.co/anime/163134 | [Link](https://ani.social/post/7355505) |
-| SAKAMOTO DAYS | SAKAMOTO DAYS | https://anilist.co/anime/177709 |  |
+| SAKAMOTO DAYS | SAKAMOTO DAYS | https://anilist.co/anime/177709 | [Link](https://ani.social/post/8593730) |
 | Shangri-La Frontier 2nd Season | Shangri-La Frontier Season 2 | https://anilist.co/anime/176508 | [Link](https://ani.social/post/8426676) |
 | Ore dake Level Up na Ken: Season 2 - Arise from the Shadow | Solo Leveling Season 2 -Arise from the Shadow- | https://anilist.co/anime/176496 | [Link](https://ani.social/post/8398445) |
 | Sorairo Utility (TV) | Sorairo Utility (TV) | https://anilist.co/anime/174596 | [Link](https://ani.social/post/8585667) |
