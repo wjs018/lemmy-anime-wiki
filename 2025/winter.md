@@ -224,6 +224,14 @@ Episode|Link
 2|[Link](https://ani.social/post/8406201)
 {.dense}
 
+## SAKAMOTO DAYS
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/8593729)
+2|[Link](https://ani.social/post/8593730)
+{.dense}
+
 ## Sorairo Utility (TV)
 
 Episode|Link
