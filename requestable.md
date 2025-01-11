@@ -31,7 +31,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Tobatsu Shiyou to Omoimasu | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time | https://anilist.co/anime/167143 | [Link](https://ani.social/post/8566979) |
 | Kisaki Kyouiku kara Nigetai Watashi | I Want to Escape from Princess Lessons | https://anilist.co/anime/170650 | [Link](https://ani.social/post/8427452) |
 | Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta. | I'm Getting Married to a Girl I Hate in My Class | https://anilist.co/anime/178462 | [Link](https://ani.social/post/8567687) |
-| NEET Kunoichi to Naze ka Dousei Hajimemashita | I'm Living With a Otaku NEET Kunoichi?! | https://anilist.co/anime/174654 | [Link](https://ani.social/post/8398446) |
+| NEET Kunoichi to Naze ka Dousei Hajimemashita | I'm Living With a Otaku NEET Kunoichi?! | https://anilist.co/anime/174654 | [Link](https://ani.social/post/8596998) |
 | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen | Is It Wrong To Try To Pick Up Girls in a Dungeon? V | https://anilist.co/anime/170732 | [Link](https://ani.social/post/7972626) |
 | Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita | I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic | https://anilist.co/anime/176063 | [Link](https://ani.social/post/8461407) |
 | Kono Kaisha ni Suki na Hito ga Imasu | Kono Kaisha ni Suki na Hito ga Imasu | https://anilist.co/anime/179696 | [Link](https://ani.social/post/8453475) |
@@ -42,7 +42,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Momentary Lily | Momentary Lily | https://anilist.co/anime/177159 | [Link](https://ani.social/post/8540270) |
 | Watashi no Shiawase na Kekkon 2nd Season | My Happy Marriage Season 2 | https://anilist.co/anime/169441 | [Link](https://ani.social/post/8452769) |
 | Neko ni Naritai Tamagawa-kun | Neko ni Naritai Tamagawa-kun | https://anilist.co/anime/185261 | [Link](https://ani.social/post/8462443) |
-| Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru | OKITSURA: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying | https://anilist.co/anime/166699 | [Link](https://ani.social/post/8400052) |
+| Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru | OKITSURA: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying | https://anilist.co/anime/166699 | [Link](https://ani.social/post/8597000) |
 | Izure Saikyou no Renkinjutsushi? | Possibly the Greatest Alchemist of All Time | https://anilist.co/anime/177506 | [Link](https://ani.social/post/8546543) |
 | Mahoutsukai no Yakusoku | Promise of Wizard | https://anilist.co/anime/170916 | [Link](https://ani.social/post/8452435) |
 | Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season | Re:ZERO -Starting Life in Another World- Season 3 | https://anilist.co/anime/163134 | [Link](https://ani.social/post/7355505) |
@@ -96,7 +96,7 @@ These shows have had episodes air already, but no thread was created because the
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 845 |
 | Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | Episode 23 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 166 |
-| Asatir 2: Mirai no Mukashibanashi | Future Folktales Season 2 | https://anilist.co/anime/185541 | Episode 9 |
+| Asatir 2: Mirai no Mukashibanashi | Future Folktales Season 2 | https://anilist.co/anime/185541 | Episode 10 |
 | Sayonara Ryuusei Konnichiwa Jinsei | Good Bye, Dragon Life | https://anilist.co/anime/176053 | Episode 12 |
 | Grisaia: Phantom Trigger THE ANIMATION (TV) | Grisaia: Phantom Trigger | https://anilist.co/anime/145740 | Episode 2 |
 | Hamidashi Creative | Hamidashi Creative | https://anilist.co/anime/169098 | Episode 12 |
@@ -118,7 +118,6 @@ These shows have had episodes air already, but no thread was created because the
 | Kumarba Season 2 | Kumarba Season 2 | https://anilist.co/anime/178395 | Episode 12 |
 | Nageki no Bourei wa Intai Shitai | Let This Grieving Soul Retire | https://anilist.co/anime/175019 | Episode 13 |
 | Shiguang Dailiren: Yingdu Pian | Link Click: Bridon Arc | https://anilist.co/anime/170166 | Episode 3 |
-| Hitoribocchi no Isekai Kouryaku | Loner Life in Another World | https://anilist.co/anime/173693 | Episode 12 |
 | Love Live! Superstar!! 3rd Season | Love Live! Superstar!! Season 3 | https://anilist.co/anime/155502 | Episode 12 |
 | Maarui Kanojo to Zannen na Kareshi 2nd Season | Maarui Kanojo to Zannen na Kareshi 2nd Season | https://anilist.co/anime/184998 | Episode 6 |
 | Kabushiki Gaisha Magi Lumiere | Magilumiere Magical Girls Inc. | https://anilist.co/anime/171025 | Episode 12 |
@@ -134,7 +133,7 @@ These shows have had episodes air already, but no thread was created because the
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 13 |
 | Okaimono Panda! | Okaimono Panda! | https://anilist.co/anime/177603 | Episode 9 |
 | ONE PIECE: Gyojin Tou-hen | One Piece Log: Fish-Man Island Saga | https://anilist.co/anime/183423 | Episode 10 |
-| Chi. Chikyuu no Undou ni Tsuite | Orb: On the Movements of the Earth | https://anilist.co/anime/151514 | Episode 15 |
+| Chi. Chikyuu no Undou ni Tsuite | Orb: On the Movements of the Earth | https://anilist.co/anime/151514 | Episode 16 |
 | Pochars | Pochars | https://anilist.co/anime/182772 | Episode 11 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 79 |
 | Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2078 |
