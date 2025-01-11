@@ -194,6 +194,9 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8398446)
+2|[Link](https://ani.social/post/8596996)
+3|[Link](https://ani.social/post/8596997)
+4|[Link](https://ani.social/post/8596998)
 {.dense}
 
 ## Neko ni Naritai Tamagawa-kun
@@ -215,6 +218,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8400052)
+2|[Link](https://ani.social/post/8597000)
 {.dense}
 
 ## Ore dake Level Up na Ken: Season 2 - Arise from the Shadow • Solo Leveling Season 2 -Arise from the Shadow-
