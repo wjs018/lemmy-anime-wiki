@@ -86,7 +86,7 @@ These shows have had episodes air already, but no thread was created because the
 | Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite | Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~ | https://anilist.co/anime/178100 | Episode 2 |
 | BONOBONO (2016) | Bono Bono (2016) | https://anilist.co/anime/21552 | Episode 440 |
 | Cardfight!! Vanguard: Divinez - Deluxe-hen | Cardfight!! Vanguard: Divinez - Deluxe-hen | https://anilist.co/anime/182920 | Episode 1 |
-| Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1148 |
+| Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1149 |
 | Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 41 |
 | Chibi Maruko-chan (1995) | Chibi Maruko-chan | https://anilist.co/anime/6149 | Episode 1462 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 236 |
@@ -111,7 +111,6 @@ These shows have had episodes air already, but no thread was created because the
 | Inazuma Eleven: Aratanaru Eiyuutachi no Joshou | Inazuma Eleven: Aratanaru Eiyuutachi no Joshou | https://anilist.co/anime/180806 | Episode 1 |
 | Inazuma Eleven: Soushuuhen - Densetsu no Kickoff | Inazuma Eleven: Soushuuhen - Densetsu no Kickoff | https://anilist.co/anime/180804 | Episode 1 |
 | JOCHUM | JOCHUM | https://anilist.co/anime/179408 | Episode 24 |
-| KUROMI'S PRETTY JOURNEY: Hacha Mecha! Multiverse Daidasshutsu! | KUROMI'S PRETTY JOURNEY Season 2: Escape from the Multiverse! | https://anilist.co/anime/183471 | Episode 17 |
 | Kagaku×Bouken Survival! | Kagaku×Bouken Survival! | https://anilist.co/anime/174913 | Episode 13 |
 | Kamierabi GOD.app Season 2 | Kamierabi GOD.app Season 2 | https://anilist.co/anime/172199 | Episode 12 |
 | Kazuhiho to Marie no Youkoso Kitchen. | Kazuhiho to Marie no Youkoso Kitchen. | https://anilist.co/anime/184288 | Episode 6 |
