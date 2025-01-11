@@ -235,6 +235,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 2|[Link](https://ani.social/post/8406201)
+3|[Link](https://ani.social/post/8601176)
 {.dense}
 
 ## SAKAMOTO DAYS
