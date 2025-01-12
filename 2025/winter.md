@@ -132,6 +132,13 @@ Episode|Link
 2|[Link](https://ani.social/post/8546543)
 {.dense}
 
+## Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 2nd Season • The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/8621517)
+{.dense}
+
 ## Kisaki Kyouiku kara Nigetai Watashi • I Want to Escape from Princess Lessons
 
 Episode|Link
