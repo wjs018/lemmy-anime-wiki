@@ -60,6 +60,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Nihon e Youkoso Elf-san. | Welcome to Japan, Ms. Elf! | https://anilist.co/anime/172439 | [Link](https://ani.social/post/8563959) |
 | Wonderful Precure! | Wonderful Precure! | https://anilist.co/anime/171030 | [Link](https://ani.social/post/8610263) |
 | Zenshuu. | ZENSHU | https://anilist.co/anime/176273 | [Link](https://ani.social/post/8426669) |
+| Übel Blatt | Übel Blatt | https://anilist.co/anime/175198 | [Link](https://ani.social/post/8614470) |
 {.dense}
 
 ## Requestable Shows
@@ -174,7 +175,6 @@ These shows have had episodes air already, but no thread was created because the
 | Yao Shen Ji 8 | Yao Shen Ji 8 | https://anilist.co/anime/178351 | Episode 37 |
 | Kimi wa Meido-sama. | You are Ms. Servant | https://anilist.co/anime/172190 | Episode 12 |
 | Yu☆Gi☆Oh! Go Rush!! | Yu☆Gi☆Oh! Go Rush!! | https://anilist.co/anime/142842 | Episode 142 |
-| Übel Blatt | Übel Blatt | https://anilist.co/anime/175198 | Episode 1 |
 {.dense}
 
 ## Upcoming Shows
