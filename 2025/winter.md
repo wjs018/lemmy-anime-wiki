@@ -309,6 +309,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8426669)
+2|[Link](https://ani.social/post/8624198)
 {.dense}
 
 ## Übel Blatt
