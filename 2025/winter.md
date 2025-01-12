@@ -69,7 +69,7 @@ Episode|Link
 2|[Link](https://ani.social/post/8567687)
 {.dense}
 
-## Douse, Koishite Shimaunda. • Anyway, I'm Falling in Love with You
+## Douse, Koishite Shimaunda. • Anyway, I'm Falling in Love with You.
 
 Episode|Link
 :-:|:-:
@@ -139,7 +139,7 @@ Episode|Link
 1|[Link](https://ani.social/post/8427452)
 {.dense}
 
-## Kono Kaisha ni Suki na Hito ga Imasu
+## Kono Kaisha ni Suki na Hito ga Imasu • I Have a Crush at Work
 
 Episode|Link
 :-:|:-:
