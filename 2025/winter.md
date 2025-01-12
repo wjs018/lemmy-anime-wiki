@@ -254,6 +254,13 @@ Episode|Link
 2|[Link](https://ani.social/post/8593730)
 {.dense}
 
+## Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi • Headhunted to Another World: From Salaryman to Big Four!
+
+Episode|Link
+:-:|:-:
+2|[Link](https://ani.social/post/8626513)
+{.dense}
+
 ## Sentai Red Isekai de Boukensha ni Naru • The Red Ranger Becomes an Adventurer in Another World
 
 Episode|Link
