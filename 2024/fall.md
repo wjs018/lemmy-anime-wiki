@@ -436,6 +436,7 @@ Episode|Link
 10|[Link](https://ani.social/post/7881571)
 11|[Link](https://ani.social/post/8043054)
 13|[Link](https://ani.social/post/8426676)
+14|[Link](https://ani.social/post/8617545)
 {.dense}
 
 ## Sword Art Online Alternative: Gun Gale Online II
