@@ -56,7 +56,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kusuriya no Hitorigoto 2nd Season | The Apothecary Diaries Season 2 | https://anilist.co/anime/176301 | [Link](https://ani.social/post/8565574) |
 | Arafou Otoko no Isekai Tsuuhan Seikatsu | The Daily Life of a Middle-Aged Online Shopper in Another World | https://anilist.co/anime/180292 | [Link](https://ani.social/post/8552513) |
 | Sentai Red Isekai de Boukensha ni Naru | The Red Ranger Becomes an Adventurer in Another World | https://anilist.co/anime/180052 | [Link](https://ani.social/post/8622595) |
-| Yami Shibai 14 | Theatre of Darkness: Yamishibai 14 | https://anilist.co/anime/185088 | [Link](https://ani.social/post/8441236) |
+| Yami Shibai 14 | Theatre of Darkness: Yamishibai 14 | https://anilist.co/anime/185088 | [Link](https://ani.social/post/8627302) |
 | Trillion Game | Trillion Game | https://anilist.co/anime/169315 | [Link](https://ani.social/post/8159125) |
 | Unnamed Memory Act.2 | Unnamed Memory Season 2 | https://anilist.co/anime/178550 | [Link](https://ani.social/post/8482172) |
 | Nihon e Youkoso Elf-san. | Welcome to Japan, Ms. Elf! | https://anilist.co/anime/172439 | [Link](https://ani.social/post/8563959) |
