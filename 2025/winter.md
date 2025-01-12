@@ -254,6 +254,13 @@ Episode|Link
 2|[Link](https://ani.social/post/8593730)
 {.dense}
 
+## Sentai Red Isekai de Boukensha ni Naru • The Red Ranger Becomes an Adventurer in Another World
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/8622595)
+{.dense}
+
 ## Sorairo Utility (TV)
 
 Episode|Link
