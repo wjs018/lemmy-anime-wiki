@@ -175,6 +175,13 @@ Episode|Link
 1|[Link](https://ani.social/post/8511365)
 {.dense}
 
+## Mahoutsukai Precure!! MIRAI DAYS
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/8628716)
+{.dense}
+
 ## Mahoutsukai no Yakusoku • Promise of Wizard
 
 Episode|Link
