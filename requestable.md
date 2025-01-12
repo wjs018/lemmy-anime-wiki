@@ -42,6 +42,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Momentary Lily | Momentary Lily | https://anilist.co/anime/177159 | [Link](https://ani.social/post/8540270) |
 | Watashi no Shiawase na Kekkon 2nd Season | My Happy Marriage Season 2 | https://anilist.co/anime/169441 | [Link](https://ani.social/post/8452769) |
 | Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru | OKITSURA: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying | https://anilist.co/anime/166699 | [Link](https://ani.social/post/8597000) |
+| Chi. Chikyuu no Undou ni Tsuite | Orb: On the Movements of the Earth | https://anilist.co/anime/151514 | [Link](https://ani.social/post/8624199) |
 | Izure Saikyou no Renkinjutsushi? | Possibly the Greatest Alchemist of All Time | https://anilist.co/anime/177506 | [Link](https://ani.social/post/8546543) |
 | Mahoutsukai no Yakusoku | Promise of Wizard | https://anilist.co/anime/170916 | [Link](https://ani.social/post/8452435) |
 | Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season | Re:ZERO -Starting Life in Another World- Season 3 | https://anilist.co/anime/163134 | [Link](https://ani.social/post/7355505) |
@@ -59,7 +60,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Unnamed Memory Act.2 | Unnamed Memory Season 2 | https://anilist.co/anime/178550 | [Link](https://ani.social/post/8482172) |
 | Nihon e Youkoso Elf-san. | Welcome to Japan, Ms. Elf! | https://anilist.co/anime/172439 | [Link](https://ani.social/post/8563959) |
 | Wonderful Precure! | Wonderful Precure! | https://anilist.co/anime/171030 | [Link](https://ani.social/post/8610263) |
-| Zenshuu. | ZENSHU | https://anilist.co/anime/176273 | [Link](https://ani.social/post/8426669) |
+| Zenshuu. | ZENSHU | https://anilist.co/anime/176273 | [Link](https://ani.social/post/8624198) |
 | Übel Blatt | Übel Blatt | https://anilist.co/anime/175198 | [Link](https://ani.social/post/8614470) |
 {.dense}
 
@@ -134,7 +135,6 @@ These shows have had episodes air already, but no thread was created because the
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 13 |
 | Okaimono Panda! | Okaimono Panda! | https://anilist.co/anime/177603 | Episode 9 |
 | ONE PIECE: Gyojin Tou-hen | One Piece Log: Fish-Man Island Saga | https://anilist.co/anime/183423 | Episode 11 |
-| Chi. Chikyuu no Undou ni Tsuite | Orb: On the Movements of the Earth | https://anilist.co/anime/151514 | Episode 16 |
 | Pochars | Pochars | https://anilist.co/anime/182772 | Episode 11 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 79 |
 | Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2078 |
