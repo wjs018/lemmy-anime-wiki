@@ -26,7 +26,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | FARMAGIA | FARMAGIA | https://anilist.co/anime/178312 | [Link](https://ani.social/post/8580531) |
 | Hana wa Saku, Shura no Gotoku | Flower and Asura | https://anilist.co/anime/178022 | [Link](https://ani.social/post/8486308) |
 | Akuyaku Reijou Tensei Oji-san | From Bureaucrat to Villainess: Dad's Been Reincarnated! | https://anilist.co/anime/172453 | [Link](https://ani.social/post/8540269) |
-| Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi | Headhunted to Another World: From Salaryman to Big Four! | https://anilist.co/anime/179689 | [Link](https://ani.social/post/8626513) |
+| Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi | Headhunted to Another World: From Salaryman to Big Four! | https://anilist.co/anime/179689 | [Link](https://ani.social/post/8644515) |
 | Honey Lemon Soda | Honey Lemon Soda | https://anilist.co/anime/175443 | [Link](https://ani.social/post/8513114) |
 | Kono Kaisha ni Suki na Hito ga Imasu | I Have a Crush at Work | https://anilist.co/anime/179696 | [Link](https://ani.social/post/8644227) |
 | A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu. | I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! | https://anilist.co/anime/180812 | [Link](https://ani.social/post/8595106) |
