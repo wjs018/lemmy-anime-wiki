@@ -187,6 +187,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8452435)
+2|[Link](https://ani.social/post/8643083)
 {.dense}
 
 ## Medalist
