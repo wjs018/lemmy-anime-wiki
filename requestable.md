@@ -140,7 +140,7 @@ These shows have had episodes air already, but no thread was created because the
 | Puniru wa Kawaii Slime | Puniru is a Kawaii Slime | https://anilist.co/anime/171400 | Episode 12 |
 | Punirunes Puni 2 | Punirunes Puni 2 | https://anilist.co/anime/179292 | Episode 14 |
 | Ranma 1/2 (2024) | Ranma1/2 (2024) | https://anilist.co/anime/178533 | Episode 13 |
-| Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 70 |
+| Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 71 |
 | Kamonohashi Ron no Kindan Suiri 2nd Season | Ron Kamonohashi’s Forbidden Deductions Season 2 | https://anilist.co/anime/172355 | Episode 13 |
 | Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran | Rurouni Kenshin -Kyoto Disturbance- | https://anilist.co/anime/171637 | Episode 13 |
 | SHIBUYA♡HACHI Part 2 | SHIBUYA♡HACHI Part 2 | https://anilist.co/anime/181835 | Episode 12 |
