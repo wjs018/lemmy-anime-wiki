@@ -268,6 +268,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 2|[Link](https://ani.social/post/8626513)
+3|[Link](https://ani.social/post/8644515)
 {.dense}
 
 ## Sentai Red Isekai de Boukensha ni Naru • The Red Ranger Becomes an Adventurer in Another World
