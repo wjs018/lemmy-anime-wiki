@@ -152,6 +152,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8453475)
+2|[Link](https://ani.social/post/8644227)
 {.dense}
 
 ## Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai • Medaka Kuroiwa is Impervious to My Charms
