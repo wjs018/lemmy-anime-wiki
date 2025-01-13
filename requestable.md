@@ -35,7 +35,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta. | I'm Getting Married to a Girl I Hate in My Class | https://anilist.co/anime/178462 | [Link](https://ani.social/post/8567687) |
 | NEET Kunoichi to Naze ka Dousei Hajimemashita | I'm Living With a Otaku NEET Kunoichi?! | https://anilist.co/anime/174654 | [Link](https://ani.social/post/8596998) |
 | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen | Is It Wrong To Try To Pick Up Girls in a Dungeon? V | https://anilist.co/anime/170732 | [Link](https://ani.social/post/7972626) |
-| Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita | I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic | https://anilist.co/anime/176063 | [Link](https://ani.social/post/8645428) |
+| Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita | I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic | https://anilist.co/anime/176063 | [Link](https://ani.social/post/8646804) |
 | MAKE A GIRL | MAKE A GIRL | https://anilist.co/anime/154064 |  |
 | Magic Maker: Isekai Mahou no Tsukurikata | Magic Maker: How to Make Magic in Another World | https://anilist.co/anime/179297 | [Link](https://ani.social/post/8511365) |
 | Mahoutsukai Precure!! MIRAI DAYS | Mahoutsukai Precure!! MIRAI DAYS | https://anilist.co/anime/162722 | [Link](https://ani.social/post/8628716) |
