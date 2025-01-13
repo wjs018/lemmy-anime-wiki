@@ -160,6 +160,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8455230)
+2|[Link](https://ani.social/post/8644904)
 {.dense}
 
 ## Kusuriya no Hitorigoto 2nd Season • The Apothecary Diaries Season 2
