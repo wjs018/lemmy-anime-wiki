@@ -28,7 +28,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Akuyaku Reijou Tensei Oji-san | From Bureaucrat to Villainess: Dad's Been Reincarnated! | https://anilist.co/anime/172453 | [Link](https://ani.social/post/8540269) |
 | Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi | Headhunted to Another World: From Salaryman to Big Four! | https://anilist.co/anime/179689 | [Link](https://ani.social/post/8626513) |
 | Honey Lemon Soda | Honey Lemon Soda | https://anilist.co/anime/175443 | [Link](https://ani.social/post/8513114) |
-| Kono Kaisha ni Suki na Hito ga Imasu | I Have a Crush at Work | https://anilist.co/anime/179696 | [Link](https://ani.social/post/8453475) |
+| Kono Kaisha ni Suki na Hito ga Imasu | I Have a Crush at Work | https://anilist.co/anime/179696 | [Link](https://ani.social/post/8644227) |
 | A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu. | I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! | https://anilist.co/anime/180812 | [Link](https://ani.social/post/8595106) |
 | Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Tobatsu Shiyou to Omoimasu | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time | https://anilist.co/anime/167143 | [Link](https://ani.social/post/8566979) |
 | Kisaki Kyouiku kara Nigetai Watashi | I Want to Escape from Princess Lessons | https://anilist.co/anime/170650 | [Link](https://ani.social/post/8622068) |
@@ -75,7 +75,7 @@ These shows have had episodes air already, but no thread was created because the
 | 0-saiji Start Dash Monogatari Season 2 | 0-saiji Start Dash Monogatari Season 2 | https://anilist.co/anime/185462 | Episode 2 |
 | 5-Oku-nen Button Part 2 | 5-Oku-nen Button Part 2 | https://anilist.co/anime/182434 | Episode 2 |
 | Alps no Roujin Heidi no Ojii-san | Alps no Roujin Heidi no Ojii-san | https://anilist.co/anime/185539 | Episode 3 |
-| Arifureta Shokugyou de Sekai Saikyou 3rd season | Arifureta: From Commonplace to World's Strongest Season 3 | https://anilist.co/anime/154473 | Episode 11 |
+| Arifureta Shokugyou de Sekai Saikyou 3rd season | Arifureta: From Commonplace to World's Strongest Season 3 | https://anilist.co/anime/154473 | Episode 12 |
 | Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season | As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2 | https://anilist.co/anime/178434 | Episode 12 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 63 |
 | BLEACH: Sennen Kessen-hen - Soukoku-tan | BLEACH: Thousand-Year Blood War - The Conflict | https://anilist.co/anime/169755 | Episode 14 |
@@ -91,7 +91,6 @@ These shows have had episodes air already, but no thread was created because the
 | Chibi Maruko-chan (1995) | Chibi Maruko-chan | https://anilist.co/anime/6149 | Episode 1462 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 236 |
 | Dandadan | DAN DA DAN | https://anilist.co/anime/171018 | Episode 12 |
-| Maou-sama, Retry! R | Demon Lord, Retry! R | https://anilist.co/anime/168500 | Episode 12 |
 | Dokodemo Makibao | Dokodemo Makibao | https://anilist.co/anime/185538 | Episode 5 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 845 |
 | Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | Episode 24 |
@@ -183,5 +182,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
+| Binan Koukou Chikyuu Bouei-bu ETERNAL LOVE! | Binan Koukou Chikyuu Bouei-bu ETERNAL LOVE! | https://anilist.co/anime/179838 | January 23 at 15:00 |
 | Project Sekai: Kowareta SEKAI to Utaenai MIKU | COLORFUL STAGE! The Movie: A Miku Who Can't Sing | https://anilist.co/anime/179878 | January 16 at 16:00 |
+| SK∞ Extra Part | SK∞ Extra Part | https://anilist.co/anime/136381 | January 23 at 15:00 |
 {.dense}
