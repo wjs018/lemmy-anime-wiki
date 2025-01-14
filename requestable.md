@@ -168,6 +168,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tousouchuu: Great Mission | Tousouchuu: Great Mission | https://anilist.co/anime/159560 | Episode 87 |
 | Amagami-san Chi no Enmusubi | Tying the Knot with an Amagami Sister | https://anilist.co/anime/164172 | Episode 14 |
 | UniteUp!: Uni:Birth | UniteUp! -Uni:Birth- | https://anilist.co/anime/167742 | Episode 1 |
+| Unnamed Memory Act.2 | Unnamed Memory Season 2 | https://anilist.co/anime/178550 | Episode 2 |
 | Sasayaku You ni Koi wo Utau | Whisper Me a Love Song | https://anilist.co/anime/160181 | Episode 12 |
 | Yao Shen Ji 8 | Yao Shen Ji 8 | https://anilist.co/anime/178351 | Episode 38 |
 | Kimi wa Meido-sama. | You are Ms. Servant | https://anilist.co/anime/172190 | Episode 12 |
@@ -183,5 +184,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Binan Koukou Chikyuu Bouei-bu ETERNAL LOVE! | Binan Koukou Chikyuu Bouei-bu ETERNAL LOVE! | https://anilist.co/anime/179838 | January 23 at 15:00 |
 | Project Sekai: Kowareta SEKAI to Utaenai MIKU | COLORFUL STAGE! The Movie: A Miku Who Can't Sing | https://anilist.co/anime/179878 | January 16 at 16:00 |
 | SK∞ Extra Part | SK∞ Extra Part | https://anilist.co/anime/136381 | January 23 at 15:00 |
-| Unnamed Memory Act.2 | Unnamed Memory Season 2 | https://anilist.co/anime/178550 | January 14 at 15:30 |
 {.dense}
