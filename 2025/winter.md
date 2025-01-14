@@ -118,6 +118,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8486308)
+2|[Link](https://ani.social/post/8670815)
 {.dense}
 
 ## Honey Lemon Soda
