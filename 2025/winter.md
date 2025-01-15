@@ -179,6 +179,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8511365)
+2|[Link](https://ani.social/post/8693352)
 {.dense}
 
 ## Mahoutsukai Precure!! MIRAI DAYS
