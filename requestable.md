@@ -148,7 +148,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 13 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1267 |
 | Shinkalion: Change the World | Shinkalion: Change the World | https://anilist.co/anime/172395 | Episode 36 |
-| Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 91 |
+| Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 92 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1683 |
 | Sword Art Online Alternative: Gun Gale Online II | Sword Art Online Alternative: Gun Gale Online II | https://anilist.co/anime/167141 | Episode 12 |
 | Jian Lai | Sword of Coming | https://anilist.co/anime/137672 | Episode 22 |
