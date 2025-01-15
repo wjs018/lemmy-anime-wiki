@@ -126,6 +126,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8513114)
+2|[Link](https://ani.social/post/8694252)
 {.dense}
 
 ## Izure Saikyou no Renkinjutsushi? • Possibly the Greatest Alchemist of All Time
