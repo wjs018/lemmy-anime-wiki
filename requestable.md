@@ -21,6 +21,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | BanG Dream! Ave Mujica | BanG Dream! Ave Mujica | https://anilist.co/anime/169295 | [Link](https://ani.social/post/8716157) |
 | S-Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu | Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster! | https://anilist.co/anime/176158 | [Link](https://ani.social/post/8601176) |
 | Dr. STONE: SCIENCE FUTURE | Dr. STONE SCIENCE FUTURE | https://anilist.co/anime/172019 | [Link](https://ani.social/post/8715181) |
+| Dragon Ball DAIMA | Dragon Ball DAIMA | https://anilist.co/anime/170083 | [Link](https://ani.social/post/8743932) |
 | Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru | Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest | https://anilist.co/anime/178548 | [Link](https://ani.social/post/8716620) |
 | FARMAGIA | FARMAGIA | https://anilist.co/anime/178312 | [Link](https://ani.social/post/8739753) |
 | Hana wa Saku, Shura no Gotoku | Flower and Asura | https://anilist.co/anime/178022 | [Link](https://ani.social/post/8670815) |
@@ -90,7 +91,6 @@ These shows have had episodes air already, but no thread was created because the
 | Dokodemo Makibao | Dokodemo Makibao | https://anilist.co/anime/185538 | Episode 8 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 845 |
 | Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | Episode 24 |
-| Dragon Ball DAIMA | Dragon Ball DAIMA | https://anilist.co/anime/170083 | Episode 14 |
 | FAIRY TAIL: 100 YEARS QUEST | FAIRY TAIL 100 YEARS QUEST | https://anilist.co/anime/139095 | Episode 24 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 167 |
 | Asatir 2: Mirai no Mukashibanashi | Future Folktales Season 2 | https://anilist.co/anime/185541 | Episode 10 |
