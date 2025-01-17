@@ -72,6 +72,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8371993)
 2|[Link](https://ani.social/post/8567687)
+3|[Link](https://ani.social/post/8740605)
 {.dense}
 
 ## Douse, Koishite Shimaunda. • Anyway, I'm Falling in Love with You.
