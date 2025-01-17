@@ -52,7 +52,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Sorairo Utility (TV) | Sorairo Utility (TV) | https://anilist.co/anime/174596 | [Link](https://ani.social/post/8585667) |
 | Tasokare Hotel | Tasokare Hotel | https://anilist.co/anime/178495 | [Link](https://ani.social/post/8739754) |
 | Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 2nd Season | The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2 | https://anilist.co/anime/172258 | [Link](https://ani.social/post/8621517) |
-| Kusuriya no Hitorigoto 2nd Season | The Apothecary Diaries Season 2 | https://anilist.co/anime/176301 | [Link](https://ani.social/post/8565574) |
+| Kusuriya no Hitorigoto 2nd Season | The Apothecary Diaries Season 2 | https://anilist.co/anime/176301 | [Link](https://ani.social/post/8740103) |
 | Arafou Otoko no Isekai Tsuuhan Seikatsu | The Daily Life of a Middle-Aged Online Shopper in Another World | https://anilist.co/anime/180292 | [Link](https://ani.social/post/8714121) |
 | Sentai Red Isekai de Boukensha ni Naru | The Red Ranger Becomes an Adventurer in Another World | https://anilist.co/anime/180052 | [Link](https://ani.social/post/8622595) |
 | Yami Shibai 14 | Theatre of Darkness: Yamishibai 14 | https://anilist.co/anime/185088 | [Link](https://ani.social/post/8627302) |
