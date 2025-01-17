@@ -95,6 +95,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8580531)
+2|[Link](https://ani.social/post/8739753)
 {.dense}
 
 ## Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru • Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest
@@ -313,6 +314,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8433206)
 2|[Link](https://ani.social/post/8566179)
+3|[Link](https://ani.social/post/8739754)
 {.dense}
 
 ## Unnamed Memory Act.2 • Unnamed Memory Season 2
