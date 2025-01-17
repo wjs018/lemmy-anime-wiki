@@ -58,7 +58,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Nihon e Youkoso Elf-san. | Welcome to Japan, Ms. Elf! | https://anilist.co/anime/172439 | [Link](https://ani.social/post/8739358) |
 | Wonderful Precure! | Wonderful Precure! | https://anilist.co/anime/171030 | [Link](https://ani.social/post/8610263) |
 | Zenshuu. | ZENSHU | https://anilist.co/anime/176273 | [Link](https://ani.social/post/8624198) |
-| Übel Blatt | Übel Blatt | https://anilist.co/anime/175198 | [Link](https://ani.social/post/8614470) |
+| Übel Blatt | Übel Blatt | https://anilist.co/anime/175198 | [Link](https://ani.social/post/8741999) |
 {.dense}
 
 ## Requestable Shows
