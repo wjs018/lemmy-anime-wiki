@@ -115,9 +115,9 @@ Episode|Link
 
 ## Dragon Ball DAIMA
 
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/6576268)
+Episode|Link|Episode|Link
+:-:|:-:|:-:|:-:
+1|[Link](https://ani.social/post/6576268)|14|[Link](https://ani.social/post/8743932)
 2|[Link](https://ani.social/post/6656572)
 3|[Link](https://ani.social/post/6803604)
 4|[Link](https://ani.social/post/6953653)
