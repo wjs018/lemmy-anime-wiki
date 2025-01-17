@@ -227,8 +227,6 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8398446)
 2|[Link](https://ani.social/post/8596996)
-3|[Link](https://ani.social/post/8596997)
-4|[Link](https://ani.social/post/8596998)
 {.dense}
 
 ## Neko ni Naritai Tamagawa-kun
