@@ -299,6 +299,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 2|[Link](https://ani.social/post/8585667)
+3|[Link](https://ani.social/post/8742586)
 {.dense}
 
 ## Sousei no Aquarion: Myth of Emotions • AQUARION: Myth of Emotions
