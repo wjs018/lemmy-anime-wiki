@@ -108,7 +108,6 @@ These shows have had episodes air already, but no thread was created because the
 | JOCHUM | JOCHUM | https://anilist.co/anime/179408 | Episode 24 |
 | Kagaku×Bouken Survival! | Kagaku×Bouken Survival! | https://anilist.co/anime/174913 | Episode 13 |
 | Kinnikuman: Kanpeki Choujin Shiso-hen Season 2 | Kinnikuman Perfect Origin Arc Season 2 | https://anilist.co/anime/181886 | Episode 1 |
-| Kinokoinu | Kinokoinu Mushroom Pup | https://anilist.co/anime/177581 | Episode 12 |
 | Kumarba Season 2 | Kumarba Season 2 | https://anilist.co/anime/178395 | Episode 12 |
 | Nageki no Bourei wa Intai Shitai | Let This Grieving Soul Retire | https://anilist.co/anime/175019 | Episode 13 |
 | Shiguang Dailiren: Yingdu Pian | Link Click: Bridon Arc | https://anilist.co/anime/170166 | Episode 4 |
