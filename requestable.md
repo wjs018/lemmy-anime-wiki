@@ -78,7 +78,7 @@ These shows have had episodes air already, but no thread was created because the
 | Baban Baban Ban Vampire | Babanba Banban Vampire | https://anilist.co/anime/175422 | Episode 2 |
 | Ao no Hako | Blue Box | https://anilist.co/anime/170942 | Episode 16 |
 | Ao no Exorcist: Yuki no Hate-hen | Blue Exorcist -Beyond the Snow Saga- | https://anilist.co/anime/176311 | Episode 13 |
-| Ao no Exorcist: Yosuga-hen | Blue Exorcist -The Blue Night Saga- | https://anilist.co/anime/185880 | Episode 2 |
+| Ao no Exorcist: Yosuga-hen | Blue Exorcist -The Blue Night Saga- | https://anilist.co/anime/185880 | Episode 3 |
 | Ao no Miburo | Blue Miburo | https://anilist.co/anime/169258 | Episode 14 |
 | Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite | Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~ | https://anilist.co/anime/178100 | Episode 3 |
 | Project Sekai: Kowareta SEKAI to Utaenai MIKU | COLORFUL STAGE! The Movie: A Miku Who Can't Sing | https://anilist.co/anime/179878 | Episode 1 |
@@ -87,7 +87,6 @@ These shows have had episodes air already, but no thread was created because the
 | Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 42 |
 | Chibi Maruko-chan (1995) | Chibi Maruko-chan | https://anilist.co/anime/6149 | Episode 1462 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 236 |
-| Dandadan | DAN DA DAN | https://anilist.co/anime/171018 | Episode 12 |
 | Dokodemo Makibao | Dokodemo Makibao | https://anilist.co/anime/185538 | Episode 8 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 846 |
 | Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | Episode 24 |
@@ -115,7 +114,6 @@ These shows have had episodes air already, but no thread was created because the
 | Maarui Kanojo to Zannen na Kareshi 2nd Season | Maarui Kanojo to Zannen na Kareshi 2nd Season | https://anilist.co/anime/184998 | Episode 6 |
 | Kabushiki Gaisha Magi Lumiere | Magilumiere Magical Girls Inc. | https://anilist.co/anime/171025 | Episode 12 |
 | Mashin Souzouden Wataru | Mashin Souzouden Wataru | https://anilist.co/anime/173333 | Episode 1 |
-| Mecha-ude (TV) | Mecha Ude: Mechanical Arms | https://anilist.co/anime/154673 | Episode 12 |
 | Momentary Lily | Momentary Lily | https://anilist.co/anime/177159 | Episode 3 |
 | Murder Mystery of the Dead | Murder Mystery of the Dead | https://anilist.co/anime/181776 | Episode 8 |
 | Natsume Yuujinchou Shichi | Natsume's Book of Friends Season 7 | https://anilist.co/anime/166611 | Episode 12 |
