@@ -261,6 +261,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8398445)
 2|[Link](https://ani.social/post/8595107)
+3|[Link](https://ani.social/post/8765947)
 {.dense}
 
 ## S-Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu • Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster!
@@ -269,6 +270,7 @@ Episode|Link
 :-:|:-:
 2|[Link](https://ani.social/post/8406201)
 3|[Link](https://ani.social/post/8601176)
+4|[Link](https://ani.social/post/8765945)
 {.dense}
 
 ## SAKAMOTO DAYS
