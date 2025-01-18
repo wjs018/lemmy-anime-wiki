@@ -15,6 +15,7 @@ Below, you can find an index of all the discussion threads for shows from the Wi
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8595106)
+2|[Link](https://ani.social/post/8768953)
 {.dense}
 
 ## Akuyaku Reijou Tensei Oji-san • From Bureaucrat to Villainess: Dad's Been Reincarnated!
@@ -230,6 +231,8 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8398446)
 2|[Link](https://ani.social/post/8596996)
+5|[Link](https://ani.social/post/8768951)
+6|[Link](https://ani.social/post/8768952)
 {.dense}
 
 ## Neko ni Naritai Tamagawa-kun
@@ -253,6 +256,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8400052)
 2|[Link](https://ani.social/post/8597000)
+3|[Link](https://ani.social/post/8768954)
 {.dense}
 
 ## Ore dake Level Up na Ken: Season 2 - Arise from the Shadow • Solo Leveling Season 2 -Arise from the Shadow-
