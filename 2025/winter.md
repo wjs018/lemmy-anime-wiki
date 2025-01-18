@@ -199,6 +199,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8628716)
+2|[Link](https://ani.social/post/8771729)
 {.dense}
 
 ## Mahoutsukai no Yakusoku • Promise of Wizard
