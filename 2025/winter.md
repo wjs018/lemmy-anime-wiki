@@ -302,6 +302,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8622595)
+2|[Link](https://ani.social/post/8793543)
 {.dense}
 
 ## Sorairo Utility (TV)
