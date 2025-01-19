@@ -194,7 +194,7 @@ Episode|Link
 2|[Link](https://ani.social/post/8693352)
 {.dense}
 
-## Mahoutsukai Precure!! MIRAI DAYS
+## Mahoutsukai Precure!! MIRAI DAYS • Witchy Precure!! ~MIRAI DAYS~
 
 Episode|Link
 :-:|:-:
