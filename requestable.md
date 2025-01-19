@@ -31,7 +31,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kono Kaisha ni Suki na Hito ga Imasu | I Have a Crush at Work | https://anilist.co/anime/179696 | [Link](https://ani.social/post/8644227) |
 | A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu. | I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! | https://anilist.co/anime/180812 | [Link](https://ani.social/post/8768953) |
 | Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Tobatsu Shiyou to Omoimasu | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time | https://anilist.co/anime/167143 | [Link](https://ani.social/post/8741056) |
-| Kisaki Kyouiku kara Nigetai Watashi | I Want to Escape from Princess Lessons | https://anilist.co/anime/170650 | [Link](https://ani.social/post/8622068) |
+| Kisaki Kyouiku kara Nigetai Watashi | I Want to Escape from Princess Lessons | https://anilist.co/anime/170650 | [Link](https://ani.social/post/8790998) |
 | Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta. | I'm Getting Married to a Girl I Hate in My Class | https://anilist.co/anime/178462 | [Link](https://ani.social/post/8740605) |
 | NEET Kunoichi to Naze ka Dousei Hajimemashita | I'm Living With a Otaku NEET Kunoichi?! | https://anilist.co/anime/174654 | [Link](https://ani.social/post/8768952) |
 | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen | Is It Wrong To Try To Pick Up Girls in a Dungeon? V | https://anilist.co/anime/170732 | [Link](https://ani.social/post/7972626) |
@@ -96,7 +96,6 @@ These shows have had episodes air already, but no thread was created because the
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 587 |
 | Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 41 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 296 |
-| Hyakushou Kizoku 2 | Hyakushou Kizoku 2 | https://anilist.co/anime/171689 | Episode 12 |
 | I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 63 |
 | Ishura 2nd Season | ISHURA Season 2 | https://anilist.co/anime/176234 | Episode 2 |
 | Inazuma Eleven: Aratanaru Eiyuutachi no Joshou | Inazuma Eleven: Aratanaru Eiyuutachi no Joshou | https://anilist.co/anime/180806 | Episode 1 |
