@@ -84,7 +84,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 42 |
 | Chibi Maruko-chan (1995) | Chibi Maruko-chan | https://anilist.co/anime/6149 | Episode 1462 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 236 |
-| Dokodemo Makibao | Dokodemo Makibao | https://anilist.co/anime/185538 | Episode 8 |
+| Dokodemo Makibao | Dokodemo Makibao | https://anilist.co/anime/185538 | Episode 9 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 846 |
 | Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | Episode 25 |
 | FAIRY TAIL: 100 YEARS QUEST | FAIRY TAIL 100 YEARS QUEST | https://anilist.co/anime/139095 | Episode 24 |
@@ -101,7 +101,6 @@ These shows have had episodes air already, but no thread was created because the
 | JOCHUM | JOCHUM | https://anilist.co/anime/179408 | Episode 24 |
 | Kagaku×Bouken Survival! | Kagaku×Bouken Survival! | https://anilist.co/anime/174913 | Episode 13 |
 | Kinnikuman: Kanpeki Choujin Shiso-hen Season 2 | Kinnikuman Perfect Origin Arc Season 2 | https://anilist.co/anime/181886 | Episode 2 |
-| Kumarba Season 2 | Kumarba Season 2 | https://anilist.co/anime/178395 | Episode 12 |
 | Nageki no Bourei wa Intai Shitai | Let This Grieving Soul Retire | https://anilist.co/anime/175019 | Episode 13 |
 | Shiguang Dailiren: Yingdu Pian | Link Click: Bridon Arc | https://anilist.co/anime/170166 | Episode 4 |
 | Love Live! Superstar!! 3rd Season | Love Live! Superstar!! Season 3 | https://anilist.co/anime/155502 | Episode 12 |
@@ -126,7 +125,6 @@ These shows have had episodes air already, but no thread was created because the
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 71 |
 | Kamonohashi Ron no Kindan Suiri 2nd Season | Ron Kamonohashi’s Forbidden Deductions Season 2 | https://anilist.co/anime/172355 | Episode 13 |
 | Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran | Rurouni Kenshin -Kyoto Disturbance- | https://anilist.co/anime/171637 | Episode 14 |
-| SHIBUYA♡HACHI Part 2 | SHIBUYA♡HACHI Part 2 | https://anilist.co/anime/181835 | Episode 12 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Battles | Sai-Kyo-Oh! Zukan: The Ultimate Battles | https://anilist.co/anime/173216 | Episode 52 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2770 |
 | Seirei Gensouki 2 | Seirei Gensouki: Spirit Chronicles Season 2 | https://anilist.co/anime/141182 | Episode 12 |
