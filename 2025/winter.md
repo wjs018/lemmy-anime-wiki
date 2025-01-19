@@ -160,6 +160,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8427452)
 2|[Link](https://ani.social/post/8622068)
+3|[Link](https://ani.social/post/8790998)
 {.dense}
 
 ## Kono Kaisha ni Suki na Hito ga Imasu • I Have a Crush at Work
