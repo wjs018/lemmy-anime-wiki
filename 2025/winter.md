@@ -284,6 +284,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8593729)
 2|[Link](https://ani.social/post/8593730)
+3|[Link](https://ani.social/post/8784527)
 {.dense}
 
 ## Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi • Headhunted to Another World: From Salaryman to Big Four!
