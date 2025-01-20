@@ -34,7 +34,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta. | I'm Getting Married to a Girl I Hate in My Class | https://anilist.co/anime/178462 | [Link](https://ani.social/post/8740605) |
 | NEET Kunoichi to Naze ka Dousei Hajimemashita | I'm Living With a Otaku NEET Kunoichi?! | https://anilist.co/anime/174654 | [Link](https://ani.social/post/8768952) |
 | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen | Is It Wrong To Try To Pick Up Girls in a Dungeon? V | https://anilist.co/anime/170732 | [Link](https://ani.social/post/7972626) |
-| Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita | I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic | https://anilist.co/anime/176063 | [Link](https://ani.social/post/8646804) |
+| Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita | I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic | https://anilist.co/anime/176063 | [Link](https://ani.social/post/8821961) |
 | MAKE A GIRL | MAKE A GIRL | https://anilist.co/anime/154064 |  |
 | Magic Maker: Isekai Mahou no Tsukurikata | Magic Maker: How to Make Magic in Another World | https://anilist.co/anime/179297 | [Link](https://ani.social/post/8693352) |
 | Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru | OKITSURA: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying | https://anilist.co/anime/166699 | [Link](https://ani.social/post/8768954) |
@@ -152,7 +152,6 @@ These shows have had episodes air already, but no thread was created because the
 | Sasayaku You ni Koi wo Utau | Whisper Me a Love Song | https://anilist.co/anime/160181 | Episode 12 |
 | Wonderful Precure! | Wonderful Precure! | https://anilist.co/anime/171030 | Episode 49 |
 | Yao Shen Ji 8 | Yao Shen Ji 8 | https://anilist.co/anime/178351 | Episode 38 |
-| Kimi wa Meido-sama. | You are Ms. Servant | https://anilist.co/anime/172190 | Episode 12 |
 | Yu☆Gi☆Oh! Go Rush!! | Yu☆Gi☆Oh! Go Rush!! | https://anilist.co/anime/142842 | Episode 141 |
 {.dense}
 
