@@ -65,6 +65,7 @@ Episode|Link
 1|[Link](https://ani.social/post/8461407)
 2|[Link](https://ani.social/post/8645428)
 3|[Link](https://ani.social/post/8646804)
+4|[Link](https://ani.social/post/8821961)
 {.dense}
 
 ## Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta. • I'm Getting Married to a Girl I Hate in My Class
