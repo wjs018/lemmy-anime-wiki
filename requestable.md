@@ -74,7 +74,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ao no Exorcist: Yuki no Hate-hen | Blue Exorcist -Beyond the Snow Saga- | https://anilist.co/anime/176311 | Episode 13 |
 | Ao no Exorcist: Yosuga-hen | Blue Exorcist -The Blue Night Saga- | https://anilist.co/anime/185880 | Episode 3 |
 | Ao no Miburo | Blue Miburo | https://anilist.co/anime/169258 | Episode 14 |
-| Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite | Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~ | https://anilist.co/anime/178100 | Episode 3 |
+| Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite | Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~ | https://anilist.co/anime/178100 | Episode 4 |
 | Cardfight!! Vanguard: Divinez - Deluxe-hen | CARDFIGHT!! VANGUARD Divinez DELUXE Arc | https://anilist.co/anime/182920 | Episode 2 |
 | Project Sekai: Kowareta SEKAI to Utaenai MIKU | COLORFUL STAGE! The Movie: A Miku Who Can't Sing | https://anilist.co/anime/179878 | Episode 1 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1150 |
@@ -114,7 +114,6 @@ These shows have had episodes air already, but no thread was created because the
 | Pochars | Pochars | https://anilist.co/anime/182772 | Episode 11 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 80 |
 | Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2080 |
-| Puniru wa Kawaii Slime | Puniru is a Kawaii Slime | https://anilist.co/anime/171400 | Episode 12 |
 | Punirunes Puni 2 | Punirunes Puni 2 | https://anilist.co/anime/179292 | Episode 15 |
 | Ranma 1/2 (2024) | Ranma1/2 (2024) | https://anilist.co/anime/178533 | Episode 13 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 72 |
@@ -141,7 +140,7 @@ These shows have had episodes air already, but no thread was created because the
 | Touhai: Ura Rate Mahjong Touhai Roku | Touhai: Ura Rate Mahjong Touhai Roku | https://anilist.co/anime/173263 | Episode 14 |
 | Tousouchuu: Great Mission | Tousouchuu: Great Mission | https://anilist.co/anime/159560 | Episode 88 |
 | Trillion Game | Trillion Game | https://anilist.co/anime/169315 | Episode 15 |
-| Amagami-san Chi no Enmusubi | Tying the Knot with an Amagami Sister | https://anilist.co/anime/164172 | Episode 14 |
+| Amagami-san Chi no Enmusubi | Tying the Knot with an Amagami Sister | https://anilist.co/anime/164172 | Episode 15 |
 | UniteUp!: Uni:Birth | UniteUp! -Uni:Birth- | https://anilist.co/anime/167742 | Episode 2 |
 | Unnamed Memory Act.2 | Unnamed Memory Season 2 | https://anilist.co/anime/178550 | Episode 3 |
 | Sasayaku You ni Koi wo Utau | Whisper Me a Love Song | https://anilist.co/anime/160181 | Episode 12 |
