@@ -128,7 +128,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2770 |
 | Seirei Gensouki 2 | Seirei Gensouki: Spirit Chronicles Season 2 | https://anilist.co/anime/141182 | Episode 12 |
 | Sengoku Youko: Senma Konton-hen | Sengoku Youko: The Thousandfold Chaos Arc | https://anilist.co/anime/176660 | Episode 23 |
-| Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 13 |
+| Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 14 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1268 |
 | Shinkalion: Change the World | Shinkalion: Change the World | https://anilist.co/anime/172395 | Episode 37 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 92 |
