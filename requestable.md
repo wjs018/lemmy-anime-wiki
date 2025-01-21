@@ -101,7 +101,6 @@ These shows have had episodes air already, but no thread was created because the
 | Kinnikuman: Kanpeki Choujin Shiso-hen Season 2 | Kinnikuman Perfect Origin Arc Season 2 | https://anilist.co/anime/181886 | Episode 2 |
 | Nageki no Bourei wa Intai Shitai | Let This Grieving Soul Retire | https://anilist.co/anime/175019 | Episode 13 |
 | Shiguang Dailiren: Yingdu Pian | Link Click: Bridon Arc | https://anilist.co/anime/170166 | Episode 4 |
-| Love Live! Superstar!! 3rd Season | Love Live! Superstar!! Season 3 | https://anilist.co/anime/155502 | Episode 12 |
 | Mashin Souzouden Wataru | Mashin Souzouden Wataru | https://anilist.co/anime/173333 | Episode 2 |
 | Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai | Medaka Kuroiwa is Impervious to My Charms | https://anilist.co/anime/177552 | Episode 3 |
 | Medalist | Medalist | https://anilist.co/anime/165171 | Episode 3 |
