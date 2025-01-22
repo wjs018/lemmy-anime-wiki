@@ -127,7 +127,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 14 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1268 |
 | Shinkalion: Change the World | Shinkalion: Change the World | https://anilist.co/anime/172395 | Episode 37 |
-| Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 92 |
+| Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 93 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1681 |
 | Jian Lai | Sword of Coming | https://anilist.co/anime/137672 | Episode 23 |
 | Sylvanian Families: Freya no Piece of Secret | Sylvanian Families: Freya no Piece of Secret | https://anilist.co/anime/182157 | Episode 6 |
