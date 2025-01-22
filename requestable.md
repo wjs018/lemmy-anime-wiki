@@ -93,7 +93,7 @@ These shows have had episodes air already, but no thread was created because the
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 296 |
 | Kono Kaisha ni Suki na Hito ga Imasu | I Have a Crush at Work | https://anilist.co/anime/179696 | Episode 3 |
 | I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 63 |
-| Ishura 2nd Season | ISHURA Season 2 | https://anilist.co/anime/176234 | Episode 2 |
+| Ishura 2nd Season | ISHURA Season 2 | https://anilist.co/anime/176234 | Episode 3 |
 | Inazuma Eleven: Aratanaru Eiyuutachi no Joshou | Inazuma Eleven: Aratanaru Eiyuutachi no Joshou | https://anilist.co/anime/180806 | Episode 1 |
 | Inazuma Eleven: Soushuuhen - Densetsu no Kickoff | Inazuma Eleven: Soushuuhen - Densetsu no Kickoff | https://anilist.co/anime/180804 | Episode 1 |
 | Kagaku×Bouken Survival! | Kagaku×Bouken Survival! | https://anilist.co/anime/174913 | Episode 13 |
@@ -109,7 +109,7 @@ These shows have had episodes air already, but no thread was created because the
 | Hoshi Furu Oukoku no Nina | Nina the Starry Bride | https://anilist.co/anime/171038 | Episode 12 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 150 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 14 |
-| Okaimono Panda! | Okaimono Panda! | https://anilist.co/anime/177603 | Episode 10 |
+| Okaimono Panda! | Okaimono Panda! | https://anilist.co/anime/177603 | Episode 11 |
 | ONE PIECE: Gyojin Tou-hen | One Piece Log: Fish-Man Island Saga | https://anilist.co/anime/183423 | Episode 12 |
 | Pochars | Pochars | https://anilist.co/anime/182772 | Episode 11 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 80 |
