@@ -93,6 +93,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8536424)
 2|[Link](https://ani.social/post/8715181)
+3|[Link](https://ani.social/post/8900514)
 {.dense}
 
 ## FARMAGIA
