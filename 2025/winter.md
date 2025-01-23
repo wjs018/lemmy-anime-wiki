@@ -332,6 +332,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8546545)
 2|[Link](https://ani.social/post/8717793)
+3|[Link](https://ani.social/post/8903481)
 {.dense}
 
 ## Tasokare Hotel
