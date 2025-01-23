@@ -87,6 +87,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8546546)
 2|[Link](https://ani.social/post/8719429)
+3|[Link](https://ani.social/post/8905069)
 {.dense}
 
 ## Dr. STONE: SCIENCE FUTURE • Dr. STONE SCIENCE FUTURE
