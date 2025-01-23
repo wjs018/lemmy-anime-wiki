@@ -117,7 +117,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ranma 1/2 (2024) | Ranma1/2 (2024) | https://anilist.co/anime/178533 | Episode 13 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 72 |
 | Kamonohashi Ron no Kindan Suiri 2nd Season | Ron Kamonohashi’s Forbidden Deductions Season 2 | https://anilist.co/anime/172355 | Episode 13 |
-| Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran | Rurouni Kenshin -Kyoto Disturbance- | https://anilist.co/anime/171637 | Episode 14 |
+| Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran | Rurouni Kenshin -Kyoto Disturbance- | https://anilist.co/anime/171637 | Episode 15 |
 | SK∞ Extra Part | SK∞ Extra Part | https://anilist.co/anime/136381 | Episode 1 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Battles | Sai-Kyo-Oh! Zukan: The Ultimate Battles | https://anilist.co/anime/173216 | Episode 52 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2770 |
