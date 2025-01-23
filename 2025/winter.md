@@ -24,6 +24,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8540269)
 2|[Link](https://ani.social/post/8716619)
+3|[Link](https://ani.social/post/8902459)
 {.dense}
 
 ## Ameku Takao no Suiri Karte • Ameku M.D.: Doctor Detective
@@ -111,6 +112,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8538903)
 2|[Link](https://ani.social/post/8716620)
+3|[Link](https://ani.social/post/8902460)
 {.dense}
 
 ## Grisaia: Phantom Trigger THE ANIMATION (TV) • Grisaia: Phantom Trigger
