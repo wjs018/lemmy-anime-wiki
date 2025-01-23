@@ -49,6 +49,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8552513)
 2|[Link](https://ani.social/post/8714121)
+3|[Link](https://ani.social/post/8899100)
 {.dense}
 
 ## BanG Dream! Ave Mujica
