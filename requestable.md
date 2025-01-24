@@ -53,7 +53,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Nihon e Youkoso Elf-san. | Welcome to Japan, Ms. Elf! | https://anilist.co/anime/172439 | [Link](https://ani.social/post/8925512) |
 | Mahoutsukai Precure!! MIRAI DAYS | Witchy Precure!! ~MIRAI DAYS~ | https://anilist.co/anime/162722 | [Link](https://ani.social/post/8771729) |
 | Zenshuu. | ZENSHU | https://anilist.co/anime/176273 | [Link](https://ani.social/post/8794015) |
-| Übel Blatt | Übel Blatt | https://anilist.co/anime/175198 | [Link](https://ani.social/post/8741999) |
+| Übel Blatt | Übel Blatt | https://anilist.co/anime/175198 | [Link](https://ani.social/post/8927387) |
 {.dense}
 
 ## Requestable Shows
