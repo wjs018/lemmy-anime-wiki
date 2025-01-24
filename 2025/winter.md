@@ -105,6 +105,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8580531)
 2|[Link](https://ani.social/post/8739753)
+3|[Link](https://ani.social/post/8926040)
 {.dense}
 
 ## Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru • Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest
