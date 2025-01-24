@@ -198,6 +198,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8565574)
 2|[Link](https://ani.social/post/8740103)
+3|[Link](https://ani.social/post/8926403)
 {.dense}
 
 ## Magic Maker: Isekai Mahou no Tsukurikata • Magic Maker: How to Make Magic in Another World
