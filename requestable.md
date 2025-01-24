@@ -104,7 +104,7 @@ These shows have had episodes air already, but no thread was created because the
 | Momentary Lily | Momentary Lily | https://anilist.co/anime/177159 | Episode 4 |
 | Murder Mystery of the Dead | Murder Mystery of the Dead | https://anilist.co/anime/181776 | Episode 8 |
 | Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 8 |
-| Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 150 |
+| Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 151 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 14 |
 | Okaimono Panda! | Okaimono Panda! | https://anilist.co/anime/177603 | Episode 11 |
 | ONE PIECE: Gyojin Tou-hen | One Piece Log: Fish-Man Island Saga | https://anilist.co/anime/183423 | Episode 12 |
@@ -126,7 +126,6 @@ These shows have had episodes air already, but no thread was created because the
 | Sorairo Utility (TV) | Sorairo Utility (TV) | https://anilist.co/anime/174596 | Episode 4 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1682 |
 | Jian Lai | Sword of Coming | https://anilist.co/anime/137672 | Episode 24 |
-| Sylvanian Families: Freya no Piece of Secret | Sylvanian Families: Freya no Piece of Secret | https://anilist.co/anime/182157 | Episode 6 |
 | Tasokare Hotel | Tasokare Hotel | https://anilist.co/anime/178495 | Episode 4 |
 | Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season | The Seven Deadly Sins: Four Knights of the Apocalypse Season 2 | https://anilist.co/anime/176292 | Episode 12 |
 | Yami Shibai 14 | Theatre of Darkness: Yamishibai 14 | https://anilist.co/anime/185088 | Episode 3 |
