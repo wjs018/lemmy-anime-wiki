@@ -21,7 +21,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | BanG Dream! Ave Mujica | BanG Dream! Ave Mujica | https://anilist.co/anime/169295 | [Link](https://ani.social/post/8901993) |
 | S-Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu | Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster! | https://anilist.co/anime/176158 | [Link](https://ani.social/post/8765945) |
 | Dr. STONE: SCIENCE FUTURE | Dr. STONE SCIENCE FUTURE | https://anilist.co/anime/172019 | [Link](https://ani.social/post/8900514) |
-| Dragon Ball DAIMA | Dragon Ball DAIMA | https://anilist.co/anime/170083 | [Link](https://ani.social/post/8743932) |
+| Dragon Ball DAIMA | Dragon Ball DAIMA | https://anilist.co/anime/170083 | [Link](https://ani.social/post/8926840) |
 | Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru | Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest | https://anilist.co/anime/178548 | [Link](https://ani.social/post/8902460) |
 | FARMAGIA | FARMAGIA | https://anilist.co/anime/178312 | [Link](https://ani.social/post/8926040) |
 | Hana wa Saku, Shura no Gotoku | Flower and Asura | https://anilist.co/anime/178022 | [Link](https://ani.social/post/8849067) |
@@ -91,6 +91,7 @@ These shows have had episodes air already, but no thread was created because the
 | Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 41 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 296 |
 | Kono Kaisha ni Suki na Hito ga Imasu | I Have a Crush at Work | https://anilist.co/anime/179696 | Episode 3 |
+| Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta. | I'm Getting Married to a Girl I Hate in My Class | https://anilist.co/anime/178462 | Episode 4 |
 | I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 64 |
 | Ishura 2nd Season | ISHURA Season 2 | https://anilist.co/anime/176234 | Episode 3 |
 | Inazuma Eleven: Aratanaru Eiyuutachi no Joshou | Inazuma Eleven: Aratanaru Eiyuutachi no Joshou | https://anilist.co/anime/180806 | Episode 1 |
@@ -151,7 +152,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
-| Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta. | I'm Getting Married to a Girl I Hate in My Class | https://anilist.co/anime/178462 | January 24 at 15:30 |
 | Kimi to Idol Precure♪ | Kimi to Idol Precure♪ | https://anilist.co/anime/185073 | February 01 at 23:30 |
 | SAKAMOTO DAYS | SAKAMOTO DAYS | https://anilist.co/anime/177709 | January 25 at 15:00 |
 | Versailles no Bara Movie | Versailles no Bara Movie | https://anilist.co/anime/154392 | January 30 at 16:00 |
