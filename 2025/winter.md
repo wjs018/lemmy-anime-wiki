@@ -388,5 +388,6 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8614470)
 2|[Link](https://ani.social/post/8741999)
+3|[Link](https://ani.social/post/8927387)
 {.dense}
 
