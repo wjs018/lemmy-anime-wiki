@@ -99,7 +99,7 @@ These shows have had episodes air already, but no thread was created because the
 | Inazuma Eleven: Soushuuhen - Densetsu no Kickoff | Inazuma Eleven: Soushuuhen - Densetsu no Kickoff | https://anilist.co/anime/180804 | Episode 1 |
 | Kagaku×Bouken Survival! | Kagaku×Bouken Survival! | https://anilist.co/anime/174913 | Episode 13 |
 | Kinnikuman: Kanpeki Choujin Shiso-hen Season 2 | Kinnikuman Perfect Origin Arc Season 2 | https://anilist.co/anime/181886 | Episode 2 |
-| Shiguang Dailiren: Yingdu Pian | Link Click: Bridon Arc | https://anilist.co/anime/170166 | Episode 4 |
+| Shiguang Dailiren: Yingdu Pian | Link Click: Bridon Arc | https://anilist.co/anime/170166 | Episode 5 |
 | Mashin Souzouden Wataru | Mashin Souzouden Wataru | https://anilist.co/anime/173333 | Episode 2 |
 | Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai | Medaka Kuroiwa is Impervious to My Charms | https://anilist.co/anime/177552 | Episode 3 |
 | Medalist | Medalist | https://anilist.co/anime/165171 | Episode 3 |
