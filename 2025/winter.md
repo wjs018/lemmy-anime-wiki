@@ -16,6 +16,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8595106)
 2|[Link](https://ani.social/post/8768953)
+3|[Link](https://ani.social/post/8956325)
 {.dense}
 
 ## Akuyaku Reijou Tensei Oji-san • From Bureaucrat to Villainess: Dad's Been Reincarnated!
@@ -277,6 +278,7 @@ Episode|Link
 1|[Link](https://ani.social/post/8400052)
 2|[Link](https://ani.social/post/8597000)
 3|[Link](https://ani.social/post/8768954)
+4|[Link](https://ani.social/post/8956326)
 {.dense}
 
 ## Ore dake Level Up na Ken: Season 2 - Arise from the Shadow • Solo Leveling Season 2 -Arise from the Shadow-

@@ -81,7 +81,7 @@ Episode|Link|Episode|Link
 Episode|Link|Episode|Link
 :-:|:-:|:-:|:-:
 1|[Link](https://ani.social/post/6386404)|17|[Link](https://ani.social/post/8768948)
-2|[Link](https://ani.social/post/6416017)
+2|[Link](https://ani.social/post/6416017)|18|[Link](https://ani.social/post/8956323)
 3|[Link](https://ani.social/post/6528812)
 4|[Link](https://ani.social/post/6679382)
 5|[Link](https://ani.social/post/6825319)
