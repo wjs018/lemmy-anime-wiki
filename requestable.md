@@ -19,7 +19,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Ameku Takao no Suiri Karte | Ameku M.D.: Doctor Detective | https://anilist.co/anime/176642 | [Link](https://ani.social/post/8874974) |
 | Douse, Koishite Shimaunda. | Anyway, I'm Falling in Love with You. | https://anilist.co/anime/175409 | [Link](https://ani.social/post/8905069) |
 | BanG Dream! Ave Mujica | BanG Dream! Ave Mujica | https://anilist.co/anime/169295 | [Link](https://ani.social/post/8901993) |
-| S-Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu | Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster! | https://anilist.co/anime/176158 | [Link](https://ani.social/post/8765945) |
+| S-Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu | Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster! | https://anilist.co/anime/176158 | [Link](https://ani.social/post/8955527) |
 | Dr. STONE: SCIENCE FUTURE | Dr. STONE SCIENCE FUTURE | https://anilist.co/anime/172019 | [Link](https://ani.social/post/8900514) |
 | Dragon Ball DAIMA | Dragon Ball DAIMA | https://anilist.co/anime/170083 | [Link](https://ani.social/post/8926840) |
 | Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru | Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest | https://anilist.co/anime/178548 | [Link](https://ani.social/post/8902460) |
@@ -43,7 +43,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Mahoutsukai no Yakusoku | Promise of Wizard | https://anilist.co/anime/170916 | [Link](https://ani.social/post/8817017) |
 | Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season | Re:ZERO -Starting Life in Another World- Season 3 | https://anilist.co/anime/163134 | [Link](https://ani.social/post/7355505) |
 | Shangri-La Frontier 2nd Season | Shangri-La Frontier Season 2 | https://anilist.co/anime/176508 | [Link](https://ani.social/post/8786013) |
-| Ore dake Level Up na Ken: Season 2 - Arise from the Shadow | Solo Leveling Season 2 -Arise from the Shadow- | https://anilist.co/anime/176496 | [Link](https://ani.social/post/8765947) |
+| Ore dake Level Up na Ken: Season 2 - Arise from the Shadow | Solo Leveling Season 2 -Arise from the Shadow- | https://anilist.co/anime/176496 | [Link](https://ani.social/post/8955528) |
 | Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 2nd Season | The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2 | https://anilist.co/anime/172258 | [Link](https://ani.social/post/8791797) |
 | Kusuriya no Hitorigoto 2nd Season | The Apothecary Diaries Season 2 | https://anilist.co/anime/176301 | [Link](https://ani.social/post/8926403) |
 | Arafou Otoko no Isekai Tsuuhan Seikatsu | The Daily Life of a Middle-Aged Online Shopper in Another World | https://anilist.co/anime/180292 | [Link](https://ani.social/post/8899100) |
@@ -93,8 +93,6 @@ These shows have had episodes air already, but no thread was created because the
 | Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta. | I'm Getting Married to a Girl I Hate in My Class | https://anilist.co/anime/178462 | Episode 4 |
 | I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 64 |
 | Ishura 2nd Season | ISHURA Season 2 | https://anilist.co/anime/176234 | Episode 3 |
-| Inazuma Eleven: Aratanaru Eiyuutachi no Joshou | Inazuma Eleven: Aratanaru Eiyuutachi no Joshou | https://anilist.co/anime/180806 | Episode 1 |
-| Inazuma Eleven: Soushuuhen - Densetsu no Kickoff | Inazuma Eleven: Soushuuhen - Densetsu no Kickoff | https://anilist.co/anime/180804 | Episode 1 |
 | Kagaku×Bouken Survival! | Kagaku×Bouken Survival! | https://anilist.co/anime/174913 | Episode 14 |
 | Kinnikuman: Kanpeki Choujin Shiso-hen Season 2 | Kinnikuman Perfect Origin Arc Season 2 | https://anilist.co/anime/181886 | Episode 2 |
 | Shiguang Dailiren: Yingdu Pian | Link Click: Bridon Arc | https://anilist.co/anime/170166 | Episode 5 |
@@ -115,6 +113,7 @@ These shows have had episodes air already, but no thread was created because the
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 72 |
 | Kamonohashi Ron no Kindan Suiri 2nd Season | Ron Kamonohashi’s Forbidden Deductions Season 2 | https://anilist.co/anime/172355 | Episode 13 |
 | Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran | Rurouni Kenshin -Kyoto Disturbance- | https://anilist.co/anime/171637 | Episode 15 |
+| SAKAMOTO DAYS | SAKAMOTO DAYS | https://anilist.co/anime/177709 | Episode 4 |
 | SK∞ Extra Part | SK∞ Extra Part | https://anilist.co/anime/136381 | Episode 1 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Battles | Sai-Kyo-Oh! Zukan: The Ultimate Battles | https://anilist.co/anime/173216 | Episode 52 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2770 |
@@ -151,6 +150,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Kimi to Idol Precure♪ | Kimi to Idol Precure♪ | https://anilist.co/anime/185073 | February 01 at 23:30 |
-| SAKAMOTO DAYS | SAKAMOTO DAYS | https://anilist.co/anime/177709 | January 25 at 15:00 |
 | Versailles no Bara Movie | Versailles no Bara Movie | https://anilist.co/anime/154392 | January 30 at 16:00 |
 {.dense}
