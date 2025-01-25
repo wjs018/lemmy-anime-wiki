@@ -105,7 +105,7 @@ These shows have had episodes air already, but no thread was created because the
 | Murder Mystery of the Dead | Murder Mystery of the Dead | https://anilist.co/anime/181776 | Episode 8 |
 | Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 8 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 151 |
-| Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 14 |
+| Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 15 |
 | Okaimono Panda! | Okaimono Panda! | https://anilist.co/anime/177603 | Episode 11 |
 | ONE PIECE: Gyojin Tou-hen | One Piece Log: Fish-Man Island Saga | https://anilist.co/anime/183423 | Episode 12 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 81 |
