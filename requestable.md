@@ -131,7 +131,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ooi! Tonbo 2nd Season | Tonbo! Season 2 | https://anilist.co/anime/178729 | Episode 13 |
 | Tono to Inu | Tono to Inu | https://anilist.co/anime/174390 | Episode 15 |
 | Touhai: Ura Rate Mahjong Touhai Roku | Touhai: Ura Rate Mahjong Touhai Roku | https://anilist.co/anime/173263 | Episode 15 |
-| Tousouchuu: Great Mission | Tousouchuu: Great Mission | https://anilist.co/anime/159560 | Episode 88 |
+| Tousouchuu: Great Mission | Tousouchuu: Great Mission | https://anilist.co/anime/159560 | Episode 89 |
 | Amagami-san Chi no Enmusubi | Tying the Knot with an Amagami Sister | https://anilist.co/anime/164172 | Episode 15 |
 | UniteUp!: Uni:Birth | UniteUp! -Uni:Birth- | https://anilist.co/anime/167742 | Episode 3 |
 | Unnamed Memory Act.2 | Unnamed Memory Season 2 | https://anilist.co/anime/178550 | Episode 3 |
