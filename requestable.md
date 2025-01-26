@@ -77,7 +77,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 43 |
 | Chibi Maruko-chan (1995) | Chibi Maruko-chan | https://anilist.co/anime/6149 | Episode 1462 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 238 |
-| Dokodemo Makibao | Dokodemo Makibao | https://anilist.co/anime/185538 | Episode 10 |
+| Dokodemo Makibao | Dokodemo Makibao | https://anilist.co/anime/185538 | Episode 11 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 847 |
 | Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | Episode 26 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 168 |
@@ -113,7 +113,6 @@ These shows have had episodes air already, but no thread was created because the
 | Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran | Rurouni Kenshin -Kyoto Disturbance- | https://anilist.co/anime/171637 | Episode 15 |
 | SAKAMOTO DAYS | SAKAMOTO DAYS | https://anilist.co/anime/177709 | Episode 4 |
 | SK∞ Extra Part | SK∞ Extra Part | https://anilist.co/anime/136381 | Episode 1 |
-| Sai-Kyo-Oh! Zukan: The Ultimate Battles | Sai-Kyo-Oh! Zukan: The Ultimate Battles | https://anilist.co/anime/173216 | Episode 52 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2771 |
 | Sengoku Youko: Senma Konton-hen | Sengoku Youko: The Thousandfold Chaos Arc | https://anilist.co/anime/176660 | Episode 23 |
 | Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 14 |
