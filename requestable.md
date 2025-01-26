@@ -119,7 +119,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sengoku Youko: Senma Konton-hen | Sengoku Youko: The Thousandfold Chaos Arc | https://anilist.co/anime/176660 | Episode 23 |
 | Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 14 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1269 |
-| Shinkalion: Change the World | Shinkalion: Change the World | https://anilist.co/anime/172395 | Episode 37 |
+| Shinkalion: Change the World | Shinkalion: Change the World | https://anilist.co/anime/172395 | Episode 38 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 93 |
 | Sorairo Utility (TV) | Sorairo Utility (TV) | https://anilist.co/anime/174596 | Episode 4 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1682 |
@@ -137,7 +137,7 @@ These shows have had episodes air already, but no thread was created because the
 | Unnamed Memory Act.2 | Unnamed Memory Season 2 | https://anilist.co/anime/178550 | Episode 3 |
 | Sasayaku You ni Koi wo Utau | Whisper Me a Love Song | https://anilist.co/anime/160181 | Episode 12 |
 | Mahoutsukai Precure!! MIRAI DAYS | Witchy Precure!! ~MIRAI DAYS~ | https://anilist.co/anime/162722 | Episode 3 |
-| Wonderful Precure! | Wonderful Precure! | https://anilist.co/anime/171030 | Episode 49 |
+| Wonderful Precure! | Wonderful Precure! | https://anilist.co/anime/171030 | Episode 50 |
 | Yao Shen Ji 8 | Yao Shen Ji 8 | https://anilist.co/anime/178351 | Episode 39 |
 | Yu☆Gi☆Oh! Go Rush!! | Yu☆Gi☆Oh! Go Rush!! | https://anilist.co/anime/142842 | Episode 142 |
 | minute! kaiju no. 8 | minute! kaiju no. 8 | https://anilist.co/anime/186300 | Episode 8 |
