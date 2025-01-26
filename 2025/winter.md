@@ -167,6 +167,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/8621517)
 2|[Link](https://ani.social/post/8791797)
+3|[Link](https://ani.social/post/8983589)
 {.dense}
 
 ## Kisaki Kyouiku kara Nigetai Watashi • I Want to Escape from Princess Lessons
