@@ -80,7 +80,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 238 |
 | Dokodemo Makibao | Dokodemo Makibao | https://anilist.co/anime/185538 | Episode 10 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 847 |
-| Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | Episode 25 |
+| Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | Episode 26 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 168 |
 | Asatir 2: Mirai no Mukashibanashi | Future Folktales Season 2 | https://anilist.co/anime/185541 | Episode 12 |
 | Grisaia: Phantom Trigger THE ANIMATION (TV) | Grisaia: Phantom Trigger | https://anilist.co/anime/145740 | Episode 4 |
