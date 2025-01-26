@@ -115,7 +115,7 @@ These shows have had episodes air already, but no thread was created because the
 | SAKAMOTO DAYS | SAKAMOTO DAYS | https://anilist.co/anime/177709 | Episode 4 |
 | SK∞ Extra Part | SK∞ Extra Part | https://anilist.co/anime/136381 | Episode 1 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Battles | Sai-Kyo-Oh! Zukan: The Ultimate Battles | https://anilist.co/anime/173216 | Episode 52 |
-| Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2770 |
+| Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2771 |
 | Sengoku Youko: Senma Konton-hen | Sengoku Youko: The Thousandfold Chaos Arc | https://anilist.co/anime/176660 | Episode 23 |
 | Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 14 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1269 |
