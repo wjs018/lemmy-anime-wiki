@@ -124,6 +124,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1682 |
 | Jian Lai | Sword of Coming | https://anilist.co/anime/137672 | Episode 24 |
 | Tasokare Hotel | Tasokare Hotel | https://anilist.co/anime/178495 | Episode 4 |
+| Sentai Red Isekai de Boukensha ni Naru | The Red Ranger Becomes an Adventurer in Another World | https://anilist.co/anime/180052 | Episode 3 |
 | Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season | The Seven Deadly Sins: Four Knights of the Apocalypse Season 2 | https://anilist.co/anime/176292 | Episode 12 |
 | Yami Shibai 14 | Theatre of Darkness: Yamishibai 14 | https://anilist.co/anime/185088 | Episode 3 |
 | Jibaku Shounen Hanako-kun 2 | Toilet-bound Hanako-kun Season 2 | https://anilist.co/anime/170892 | Episode 3 |
@@ -150,6 +151,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Kimi to Idol Precure♪ | Kimi to Idol Precure♪ | https://anilist.co/anime/185073 | February 01 at 23:30 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | https://anilist.co/anime/182417 | February 05 at 15:00 |
-| Sentai Red Isekai de Boukensha ni Naru | The Red Ranger Becomes an Adventurer in Another World | https://anilist.co/anime/180052 | January 26 at 15:30 |
 | Versailles no Bara Movie | Versailles no Bara Movie | https://anilist.co/anime/154392 | January 30 at 16:00 |
 {.dense}
