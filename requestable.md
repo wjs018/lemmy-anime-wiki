@@ -39,7 +39,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru | OKITSURA: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying | https://anilist.co/anime/166699 | [Link](https://ani.social/post/8956326) |
 | Chi. Chikyuu no Undou ni Tsuite | Orb: On the Movements of the Earth | https://anilist.co/anime/151514 | [Link](https://ani.social/post/8956323) |
 | Izure Saikyou no Renkinjutsushi? | Possibly the Greatest Alchemist of All Time | https://anilist.co/anime/177506 | [Link](https://ani.social/post/8873580) |
-| Mahoutsukai no Yakusoku | Promise of Wizard | https://anilist.co/anime/170916 | [Link](https://ani.social/post/8817017) |
 | Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season | Re:ZERO -Starting Life in Another World- Season 3 | https://anilist.co/anime/163134 | [Link](https://ani.social/post/7355505) |
 | Shangri-La Frontier 2nd Season | Shangri-La Frontier Season 2 | https://anilist.co/anime/176508 | [Link](https://ani.social/post/8976168) |
 | Ore dake Level Up na Ken: Season 2 - Arise from the Shadow | Solo Leveling Season 2 -Arise from the Shadow- | https://anilist.co/anime/176496 | [Link](https://ani.social/post/8955528) |
@@ -59,7 +58,6 @@ These shows have had episodes air already, but no thread was created because the
 | Show Name | English Show Name | AniList Link | Most Recently Episode Number  |
 | :-------- | :---------------- | :----------- | :--------------------------: |
 | 0-saiji Start Dash Monogatari Season 2 | 0-saiji Start Dash Monogatari Season 2 | https://anilist.co/anime/185462 | Episode 4 |
-| 5-Oku-nen Button Part 2 | 5-Oku-nen Button Part 2 | https://anilist.co/anime/182434 | Episode 2 |
 | Alps no Roujin Heidi no Ojii-san | Alps no Roujin Heidi no Ojii-san | https://anilist.co/anime/185539 | Episode 5 |
 | Arifureta Shokugyou de Sekai Saikyou 3rd season | Arifureta: From Commonplace to World's Strongest Season 3 | https://anilist.co/anime/154473 | Episode 12 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 65 |
@@ -149,6 +147,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Kimi to Idol Precure♪ | Kimi to Idol Precure♪ | https://anilist.co/anime/185073 | February 01 at 23:30 |
+| Mahoutsukai no Yakusoku | Promise of Wizard | https://anilist.co/anime/170916 | January 27 at 14:00 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | https://anilist.co/anime/182417 | February 05 at 15:00 |
 | Versailles no Bara Movie | Versailles no Bara Movie | https://anilist.co/anime/154392 | January 30 at 16:00 |
 {.dense}
