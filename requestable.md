@@ -112,7 +112,7 @@ These shows have had episodes air already, but no thread was created because the
 | SK∞ Extra Part | SK∞ Extra Part | https://anilist.co/anime/136381 | Episode 1 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2771 |
 | Sengoku Youko: Senma Konton-hen | Sengoku Youko: The Thousandfold Chaos Arc | https://anilist.co/anime/176660 | Episode 23 |
-| Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 14 |
+| Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 15 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1269 |
 | Shinkalion: Change the World | Shinkalion: Change the World | https://anilist.co/anime/172395 | Episode 38 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 93 |
