@@ -86,7 +86,7 @@ These shows have had episodes air already, but no thread was created because the
 | Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta. | I'm Getting Married to a Girl I Hate in My Class | https://anilist.co/anime/178462 | Episode 4 |
 | NEET Kunoichi to Naze ka Dousei Hajimemashita | I'm Living With a Otaku NEET Kunoichi?! | https://anilist.co/anime/174654 | Episode 7 |
 | I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 64 |
-| Ishura 2nd Season | ISHURA Season 2 | https://anilist.co/anime/176234 | Episode 3 |
+| Ishura 2nd Season | ISHURA Season 2 | https://anilist.co/anime/176234 | Episode 4 |
 | Kagaku×Bouken Survival! | Kagaku×Bouken Survival! | https://anilist.co/anime/174913 | Episode 14 |
 | Kinnikuman: Kanpeki Choujin Shiso-hen Season 2 | Kinnikuman Perfect Origin Arc Season 2 | https://anilist.co/anime/181886 | Episode 3 |
 | Shiguang Dailiren: Yingdu Pian | Link Click: Bridon Arc | https://anilist.co/anime/170166 | Episode 5 |
@@ -98,7 +98,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 9 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 151 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 15 |
-| Okaimono Panda! | Okaimono Panda! | https://anilist.co/anime/177603 | Episode 11 |
+| Okaimono Panda! | Okaimono Panda! | https://anilist.co/anime/177603 | Episode 12 |
 | ONE PIECE: Gyojin Tou-hen | One Piece Log: Fish-Man Island Saga | https://anilist.co/anime/183423 | Episode 13 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 81 |
 | Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2081 |
