@@ -36,6 +36,7 @@ Episode|Link
 2|[Link](https://ani.social/post/8334107)
 3|[Link](https://ani.social/post/8513115)
 4|[Link](https://ani.social/post/8874974)
+5|[Link](https://ani.social/post/9060035)
 {.dense}
 
 ## Ao no Exorcist: Yosuga-hen • Blue Exorcist -The Blue Night Saga-
@@ -215,6 +216,7 @@ Episode|Link
 1|[Link](https://ani.social/post/8511365)
 2|[Link](https://ani.social/post/8693352)
 3|[Link](https://ani.social/post/8874973)
+4|[Link](https://ani.social/post/9060034)
 {.dense}
 
 ## Mahoutsukai Precure!! MIRAI DAYS • Witchy Precure!! ~MIRAI DAYS~
