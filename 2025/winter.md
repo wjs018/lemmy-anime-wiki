@@ -63,6 +63,7 @@ Episode|Link
 2|[Link](https://ani.social/post/8546544)
 3|[Link](https://ani.social/post/8716157)
 4|[Link](https://ani.social/post/8901993)
+5|[Link](https://ani.social/post/9082521)
 {.dense}
 
 ## Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita • I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic
