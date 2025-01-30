@@ -214,6 +214,13 @@ Episode|Link
 3|[Link](https://ani.social/post/8926403)
 {.dense}
 
+## MAKE A GIRL
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/9083418)
+{.dense}
+
 ## Magic Maker: Isekai Mahou no Tsukurikata • Magic Maker: How to Make Magic in Another World
 
 Episode|Link
