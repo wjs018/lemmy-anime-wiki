@@ -30,7 +30,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kisaki Kyouiku kara Nigetai Watashi | I Want to Escape from Princess Lessons | https://anilist.co/anime/170650 | [Link](https://ani.social/post/8983008) |
 | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen | Is It Wrong To Try To Pick Up Girls in a Dungeon? V | https://anilist.co/anime/170732 | [Link](https://ani.social/post/7972626) |
 | Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwamete mita | I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic | https://anilist.co/anime/176063 | [Link](https://ani.social/post/9013612) |
-| MAKE A GIRL | MAKE A GIRL | https://anilist.co/anime/154064 |  |
+| MAKE A GIRL | MAKE A GIRL | https://anilist.co/anime/154064 | [Link](https://ani.social/post/9083418) |
 | Magic Maker: Isekai Mahou no Tsukurikata | Magic Maker: How to Make Magic in Another World | https://anilist.co/anime/179297 | [Link](https://ani.social/post/9060034) |
 | Watashi no Shiawase na Kekkon 2nd Season | My Happy Marriage Season 2 | https://anilist.co/anime/169441 | [Link](https://ani.social/post/9010936) |
 | Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru | OKITSURA: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying | https://anilist.co/anime/166699 | [Link](https://ani.social/post/8956326) |
@@ -61,7 +61,7 @@ These shows have had episodes air already, but no thread was created because the
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 65 |
 | Baban Baban Ban Vampire | Babanba Banban Vampire | https://anilist.co/anime/175422 | Episode 3 |
 | Binan Koukou Chikyuu Bouei-bu ETERNAL LOVE! | Binan Koukou Chikyuu Bouei-bu ETERNAL LOVE! | https://anilist.co/anime/179838 | Episode 1 |
-| Ao no Hako | Blue Box | https://anilist.co/anime/170942 | Episode 17 |
+| Ao no Hako | Blue Box | https://anilist.co/anime/170942 | Episode 18 |
 | Ao no Exorcist: Yuki no Hate-hen | Blue Exorcist -Beyond the Snow Saga- | https://anilist.co/anime/176311 | Episode 13 |
 | Ao no Exorcist: Yosuga-hen | Blue Exorcist -The Blue Night Saga- | https://anilist.co/anime/185880 | Episode 4 |
 | Ao no Miburo | Blue Miburo | https://anilist.co/anime/169258 | Episode 15 |
@@ -128,6 +128,7 @@ These shows have had episodes air already, but no thread was created because the
 | Amagami-san Chi no Enmusubi | Tying the Knot with an Amagami Sister | https://anilist.co/anime/164172 | Episode 16 |
 | UniteUp!: Uni:Birth | UniteUp! -Uni:Birth- | https://anilist.co/anime/167742 | Episode 3 |
 | Unnamed Memory Act.2 | Unnamed Memory Season 2 | https://anilist.co/anime/178550 | Episode 4 |
+| Versailles no Bara Movie | Versailles no Bara Movie | https://anilist.co/anime/154392 | Episode 1 |
 | Mahoutsukai Precure!! MIRAI DAYS | Witchy Precure!! ~MIRAI DAYS~ | https://anilist.co/anime/162722 | Episode 3 |
 | Wonderful Precure! | Wonderful Precure! | https://anilist.co/anime/171030 | Episode 50 |
 | Yao Shen Ji 8 | Yao Shen Ji 8 | https://anilist.co/anime/178351 | Episode 40 |
@@ -143,5 +144,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Kimi to Idol Precure♪ | Kimi to Idol Precure♪ | https://anilist.co/anime/185073 | February 01 at 23:30 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | https://anilist.co/anime/182417 | February 05 at 15:00 |
-| Versailles no Bara Movie | Versailles no Bara Movie | https://anilist.co/anime/154392 | January 30 at 16:00 |
 {.dense}
