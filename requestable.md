@@ -19,7 +19,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Douse, Koishite Shimaunda. | Anyway, I'm Falling in Love with You. | https://anilist.co/anime/175409 | [Link](https://ani.social/post/8905069) |
 | BanG Dream! Ave Mujica | BanG Dream! Ave Mujica | https://anilist.co/anime/169295 | [Link](https://ani.social/post/8901993) |
 | S-Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu | Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster! | https://anilist.co/anime/176158 | [Link](https://ani.social/post/8955527) |
-| Dr. STONE: SCIENCE FUTURE | Dr. STONE SCIENCE FUTURE | https://anilist.co/anime/172019 | [Link](https://ani.social/post/8900514) |
 | Dragon Ball DAIMA | Dragon Ball DAIMA | https://anilist.co/anime/170083 | [Link](https://ani.social/post/8926840) |
 | Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru | Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest | https://anilist.co/anime/178548 | [Link](https://ani.social/post/8902460) |
 | FARMAGIA | FARMAGIA | https://anilist.co/anime/178312 | [Link](https://ani.social/post/8926040) |
@@ -122,7 +121,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yami Shibai 14 | Theatre of Darkness: Yamishibai 14 | https://anilist.co/anime/185088 | Episode 4 |
 | Jibaku Shounen Hanako-kun 2 | Toilet-bound Hanako-kun Season 2 | https://anilist.co/anime/170892 | Episode 3 |
 | Ooi! Tonbo 2nd Season | Tonbo! Season 2 | https://anilist.co/anime/178729 | Episode 13 |
-| Tono to Inu | Tono to Inu | https://anilist.co/anime/174390 | Episode 15 |
+| Tono to Inu | Tono to Inu | https://anilist.co/anime/174390 | Episode 16 |
 | Touhai: Ura Rate Mahjong Touhai Roku | Touhai: Ura Rate Mahjong Touhai Roku | https://anilist.co/anime/173263 | Episode 15 |
 | Tousouchuu: Great Mission | Tousouchuu: Great Mission | https://anilist.co/anime/159560 | Episode 89 |
 | Amagami-san Chi no Enmusubi | Tying the Knot with an Amagami Sister | https://anilist.co/anime/164172 | Episode 16 |
@@ -141,6 +140,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
+| Dr. STONE: SCIENCE FUTURE | Dr. STONE SCIENCE FUTURE | https://anilist.co/anime/172019 | January 30 at 14:00 |
 | Kimi to Idol Precure♪ | Kimi to Idol Precure♪ | https://anilist.co/anime/185073 | February 01 at 23:30 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | https://anilist.co/anime/182417 | February 05 at 15:00 |
 | Versailles no Bara Movie | Versailles no Bara Movie | https://anilist.co/anime/154392 | January 30 at 16:00 |
