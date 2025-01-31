@@ -19,7 +19,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | S-Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu | Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster! | https://anilist.co/anime/176158 | [Link](https://ani.social/post/8955527) |
 | Dragon Ball DAIMA | Dragon Ball DAIMA | https://anilist.co/anime/170083 | [Link](https://ani.social/post/8926840) |
 | Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru | Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest | https://anilist.co/anime/178548 | [Link](https://ani.social/post/9083080) |
-| FARMAGIA | FARMAGIA | https://anilist.co/anime/178312 | [Link](https://ani.social/post/8926040) |
 | Hana wa Saku, Shura no Gotoku | Flower and Asura | https://anilist.co/anime/178022 | [Link](https://ani.social/post/9038334) |
 | Akuyaku Reijou Tensei Oji-san | From Bureaucrat to Villainess: Dad's Been Reincarnated! | https://anilist.co/anime/172453 | [Link](https://ani.social/post/9083079) |
 | Honey Lemon Soda | Honey Lemon Soda | https://anilist.co/anime/175443 | [Link](https://ani.social/post/9061034) |
@@ -116,7 +115,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sorairo Utility (TV) | Sorairo Utility (TV) | https://anilist.co/anime/174596 | Episode 4 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1683 |
 | Jian Lai | Sword of Coming | https://anilist.co/anime/137672 | Episode 25 |
-| Tasokare Hotel | Tasokare Hotel | https://anilist.co/anime/178495 | Episode 4 |
+| Tasokare Hotel | Tasokare Hotel | https://anilist.co/anime/178495 | Episode 5 |
 | Sentai Red Isekai de Boukensha ni Naru | The Red Ranger Becomes an Adventurer in Another World | https://anilist.co/anime/180052 | Episode 3 |
 | Yami Shibai 14 | Theatre of Darkness: Yamishibai 14 | https://anilist.co/anime/185088 | Episode 4 |
 | Jibaku Shounen Hanako-kun 2 | Toilet-bound Hanako-kun Season 2 | https://anilist.co/anime/170892 | Episode 3 |
@@ -142,6 +141,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
+| FARMAGIA | FARMAGIA | https://anilist.co/anime/178312 | January 31 at 14:30 |
 | Kimi to Idol Precure♪ | Kimi to Idol Precure♪ | https://anilist.co/anime/185073 | February 01 at 23:30 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | https://anilist.co/anime/182417 | February 05 at 15:00 |
 {.dense}
