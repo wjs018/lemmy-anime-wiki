@@ -112,7 +112,7 @@ These shows have had episodes air already, but no thread was created because the
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1269 |
 | Shinkalion: Change the World | Shinkalion: Change the World | https://anilist.co/anime/172395 | Episode 38 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 94 |
-| Sorairo Utility (TV) | Sorairo Utility (TV) | https://anilist.co/anime/174596 | Episode 4 |
+| Sorairo Utility (TV) | Sorairo Utility (TV) | https://anilist.co/anime/174596 | Episode 5 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1683 |
 | Jian Lai | Sword of Coming | https://anilist.co/anime/137672 | Episode 25 |
 | Tasokare Hotel | Tasokare Hotel | https://anilist.co/anime/178495 | Episode 5 |
