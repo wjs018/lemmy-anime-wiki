@@ -182,6 +182,13 @@ Episode|Link
 4|[Link](https://ani.social/post/9148951)
 {.dense}
 
+## Kimi to Idol Precure♪ • You and Idol Precure
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/9156124)
+{.dense}
+
 ## Kisaki Kyouiku kara Nigetai Watashi • I Want to Escape from Princess Lessons
 
 Episode|Link
