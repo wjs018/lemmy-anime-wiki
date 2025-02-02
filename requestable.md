@@ -103,7 +103,7 @@ These shows have had episodes air already, but no thread was created because the
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 82 |
 | Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2081 |
 | Mahoutsukai no Yakusoku | Promise of Wizard | https://anilist.co/anime/170916 | Episode 4 |
-| Punirunes Puni 2 | Punirunes Puni 2 | https://anilist.co/anime/179292 | Episode 16 |
+| Punirunes Puni 2 | Punirunes Puni 2 | https://anilist.co/anime/179292 | Episode 17 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 73 |
 | Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran | Rurouni Kenshin -Kyoto Disturbance- | https://anilist.co/anime/171637 | Episode 16 |
 | SAKAMOTO DAYS | SAKAMOTO DAYS | https://anilist.co/anime/177709 | Episode 5 |
