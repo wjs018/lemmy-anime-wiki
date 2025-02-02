@@ -132,7 +132,7 @@ Episode|Link
 1|[Link](https://ani.social/post/8320995)
 {.dense}
 
-## Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Tobatsu Shiyou to Omoimasu • I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time
+## Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu • I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time
 
 Episode|Link
 :-:|:-:
