@@ -92,7 +92,7 @@ These shows have had episodes air already, but no thread was created because the
 | Medalist | Medalist | https://anilist.co/anime/165171 | Episode 5 |
 | Momentary Lily | Momentary Lily | https://anilist.co/anime/177159 | Episode 5 |
 | Murder Mystery of the Dead | Murder Mystery of the Dead | https://anilist.co/anime/181776 | Episode 8 |
-| Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 9 |
+| Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 10 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 152 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 16 |
 | Okaimono Panda! | Okaimono Panda! | https://anilist.co/anime/177603 | Episode 12 |
