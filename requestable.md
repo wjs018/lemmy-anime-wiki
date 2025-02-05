@@ -29,7 +29,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Magic Maker: Isekai Mahou no Tsukurikata | Magic Maker: How to Make Magic in Another World | https://anilist.co/anime/179297 | [Link](https://ani.social/post/9060034) |
 | Watashi no Shiawase na Kekkon 2nd Season | My Happy Marriage Season 2 | https://anilist.co/anime/169441 | [Link](https://ani.social/post/9174718) |
 | Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru | OKITSURA: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying | https://anilist.co/anime/166699 | [Link](https://ani.social/post/9127093) |
-| Izure Saikyou no Renkinjutsushi? | Possibly the Greatest Alchemist of All Time | https://anilist.co/anime/177506 | [Link](https://ani.social/post/9058822) |
+| Izure Saikyou no Renkinjutsushi? | Possibly the Greatest Alchemist of All Time | https://anilist.co/anime/177506 | [Link](https://ani.social/post/9229484) |
 | Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season | Re:ZERO -Starting Life in Another World- Season 3 | https://anilist.co/anime/163134 | [Link](https://ani.social/post/9228161) |
 | Shangri-La Frontier 2nd Season | Shangri-La Frontier Season 2 | https://anilist.co/anime/176508 | [Link](https://ani.social/post/9143182) |
 | Ore dake Level Up na Ken: Season 2 - Arise from the Shadow | Solo Leveling Season 2 -Arise from the Shadow- | https://anilist.co/anime/176496 | [Link](https://ani.social/post/9126394) |
