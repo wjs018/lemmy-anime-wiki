@@ -48,7 +48,7 @@ These shows have had episodes air already, but no thread was created because the
 | :-------- | :---------------- | :----------- | :--------------------------: |
 | 0-saiji Start Dash Monogatari Season 2 | 0-saiji Start Dash Monogatari Season 2 | https://anilist.co/anime/185462 | Episode 5 |
 | Youkai Gakkou no Sensei Hajimemashita! | A Terrified Teacher at Ghoul School! | https://anilist.co/anime/171545 | Episode 17 |
-| Sousei no Aquarion: Myth of Emotions | AQUARION: Myth of Emotions | https://anilist.co/anime/162921 | Episode 4 |
+| Sousei no Aquarion: Myth of Emotions | AQUARION: Myth of Emotions | https://anilist.co/anime/162921 | Episode 5 |
 | Alps no Roujin Heidi no Ojii-san | Alps no Roujin Heidi no Ojii-san | https://anilist.co/anime/185539 | Episode 7 |
 | Douse, Koishite Shimaunda. | Anyway, I'm Falling in Love with You. | https://anilist.co/anime/175409 | Episode 4 |
 | Arifureta Shokugyou de Sekai Saikyou 3rd season | Arifureta: From Commonplace to World's Strongest Season 3 | https://anilist.co/anime/154473 | Episode 14 |
