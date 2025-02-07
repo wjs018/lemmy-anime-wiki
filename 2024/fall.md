@@ -144,6 +144,8 @@ Episode|Link
 9|[Link](https://ani.social/post/7668659)
 10|[Link](https://ani.social/post/7820977)
 11|[Link](https://ani.social/post/7972626)
+12|[Link](https://ani.social/post/9284951)
+13|[Link](https://ani.social/post/9284952)
 {.dense}
 
 ## Goukon ni Ittara Onna ga Inakatta Hanashi • How I Attended an All-Guy's Mixer
