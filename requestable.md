@@ -91,7 +91,6 @@ These shows have had episodes air already, but no thread was created because the
 | Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai | Medaka Kuroiwa is Impervious to My Charms | https://anilist.co/anime/177552 | Episode 5 |
 | Medalist | Medalist | https://anilist.co/anime/165171 | Episode 5 |
 | Momentary Lily | Momentary Lily | https://anilist.co/anime/177159 | Episode 6 |
-| Murder Mystery of the Dead | Murder Mystery of the Dead | https://anilist.co/anime/181776 | Episode 8 |
 | Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 10 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 152 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 16 |
@@ -112,7 +111,7 @@ These shows have had episodes air already, but no thread was created because the
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1270 |
 | Shinkalion: Change the World | Shinkalion: Change the World | https://anilist.co/anime/172395 | Episode 39 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 95 |
-| Sorairo Utility (TV) | Sorairo Utility (TV) | https://anilist.co/anime/174596 | Episode 5 |
+| Sorairo Utility (TV) | Sorairo Utility (TV) | https://anilist.co/anime/174596 | Episode 6 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1684 |
 | Jian Lai | Sword of Coming | https://anilist.co/anime/137672 | Episode 26 |
 | Tasokare Hotel | Tasokare Hotel | https://anilist.co/anime/178495 | Episode 6 |
