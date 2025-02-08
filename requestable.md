@@ -89,7 +89,7 @@ These shows have had episodes air already, but no thread was created because the
 | Magic Maker: Isekai Mahou no Tsukurikata | Magic Maker: How to Make Magic in Another World | https://anilist.co/anime/179297 | Episode 5 |
 | Mashin Souzouden Wataru | Mashin Souzouden Wataru | https://anilist.co/anime/173333 | Episode 4 |
 | Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai | Medaka Kuroiwa is Impervious to My Charms | https://anilist.co/anime/177552 | Episode 5 |
-| Medalist | Medalist | https://anilist.co/anime/165171 | Episode 5 |
+| Medalist | Medalist | https://anilist.co/anime/165171 | Episode 6 |
 | Momentary Lily | Momentary Lily | https://anilist.co/anime/177159 | Episode 6 |
 | Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 10 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 153 |
