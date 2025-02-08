@@ -57,7 +57,7 @@ These shows have had episodes air already, but no thread was created because the
 | Binan Koukou Chikyuu Bouei-bu ETERNAL LOVE! | Binan Koukou Chikyuu Bouei-bu ETERNAL LOVE! | https://anilist.co/anime/179838 | Episode 1 |
 | Ao no Hako | Blue Box | https://anilist.co/anime/170942 | Episode 19 |
 | Ao no Exorcist: Yosuga-hen | Blue Exorcist -The Blue Night Saga- | https://anilist.co/anime/185880 | Episode 5 |
-| Ao no Miburo | Blue Miburo | https://anilist.co/anime/169258 | Episode 16 |
+| Ao no Miburo | Blue Miburo | https://anilist.co/anime/169258 | Episode 17 |
 | Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite | Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~ | https://anilist.co/anime/178100 | Episode 6 |
 | Cardfight!! Vanguard: Divinez - Deluxe-hen | CARDFIGHT!! VANGUARD Divinez DELUXE Arc | https://anilist.co/anime/182920 | Episode 5 |
 | Project Sekai: Kowareta SEKAI to Utaenai MIKU | COLORFUL STAGE! The Movie: A Miku Who Can't Sing | https://anilist.co/anime/179878 | Episode 1 |
