@@ -116,7 +116,7 @@ These shows have had episodes air already, but no thread was created because the
 | Jian Lai | Sword of Coming | https://anilist.co/anime/137672 | Episode 26 |
 | Tasokare Hotel | Tasokare Hotel | https://anilist.co/anime/178495 | Episode 6 |
 | Sentai Red Isekai de Boukensha ni Naru | The Red Ranger Becomes an Adventurer in Another World | https://anilist.co/anime/180052 | Episode 5 |
-| Yami Shibai 14 | Theatre of Darkness: Yamishibai 14 | https://anilist.co/anime/185088 | Episode 5 |
+| Yami Shibai 14 | Theatre of Darkness: Yamishibai 14 | https://anilist.co/anime/185088 | Episode 6 |
 | Jibaku Shounen Hanako-kun 2 | Toilet-bound Hanako-kun Season 2 | https://anilist.co/anime/170892 | Episode 5 |
 | Tono to Inu | Tono to Inu | https://anilist.co/anime/174390 | Episode 17 |
 | Touhai: Ura Rate Mahjong Touhai Roku | Touhai: Ura Rate Mahjong Touhai Roku | https://anilist.co/anime/173263 | Episode 17 |
