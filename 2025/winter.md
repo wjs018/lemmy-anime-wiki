@@ -419,6 +419,7 @@ Episode|Link
 3|[Link](https://ani.social/post/8833288)
 4|[Link](https://ani.social/post/9010936)
 5|[Link](https://ani.social/post/9174718)
+6|[Link](https://ani.social/post/9364392)
 {.dense}
 
 ## Yami Shibai 14 • Theatre of Darkness: Yamishibai 14
