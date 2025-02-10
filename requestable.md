@@ -49,7 +49,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sousei no Aquarion: Myth of Emotions | AQUARION: Myth of Emotions | https://anilist.co/anime/162921 | Episode 5 |
 | Alps no Roujin Heidi no Ojii-san | Alps no Roujin Heidi no Ojii-san | https://anilist.co/anime/185539 | Episode 7 |
 | Douse, Koishite Shimaunda. | Anyway, I'm Falling in Love with You. | https://anilist.co/anime/175409 | Episode 5 |
-| Arifureta Shokugyou de Sekai Saikyou 3rd season | Arifureta: From Commonplace to World's Strongest Season 3 | https://anilist.co/anime/154473 | Episode 14 |
+| Arifureta Shokugyou de Sekai Saikyou 3rd season | Arifureta: From Commonplace to World's Strongest Season 3 | https://anilist.co/anime/154473 | Episode 15 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 67 |
 | Baban Baban Ban Vampire | Babanba Banban Vampire | https://anilist.co/anime/175422 | Episode 5 |
 | S-Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu | Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster! | https://anilist.co/anime/176158 | Episode 7 |
@@ -77,7 +77,7 @@ These shows have had episodes air already, but no thread was created because the
 | Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi | Headhunted to Another World: From Salaryman to Big Four! | https://anilist.co/anime/179689 | Episode 6 |
 | Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 44 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 299 |
-| Kono Kaisha ni Suki na Hito ga Imasu | I Have a Crush at Work | https://anilist.co/anime/179696 | Episode 5 |
+| Kono Kaisha ni Suki na Hito ga Imasu | I Have a Crush at Work | https://anilist.co/anime/179696 | Episode 6 |
 | A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu. | I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! | https://anilist.co/anime/180812 | Episode 5 |
 | Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta. | I'm Getting Married to a Girl I Hate in My Class | https://anilist.co/anime/178462 | Episode 6 |
 | NEET Kunoichi to Naze ka Dousei Hajimemashita | I'm Living With a Otaku NEET Kunoichi?! | https://anilist.co/anime/174654 | Episode 11 |
@@ -141,4 +141,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | MILGRAM Third Season | MILGRAM Third Season | https://anilist.co/anime/186495 | February 11 at 15:00 |
 | Senpai wa Otokonoko: Ame Nochi Hare | Senpai wa Otokonoko: Ame Nochi Hare | https://anilist.co/anime/182158 | February 13 at 16:00 |
+| Thunderbolt Fantasy: Touriken Yuuki - Saishuushou | Thunderbolt Fantasy: Touriken Yuuki - Saishuushou | https://anilist.co/anime/176432 | February 20 at 15:00 |
 {.dense}
