@@ -372,6 +372,7 @@ Episode|Link
 7|[Link](https://ani.social/post/7211801)
 8|[Link](https://ani.social/post/7355505)
 9|[Link](https://ani.social/post/9228161)
+10|[Link](https://ani.social/post/9416525)
 {.dense}
 
 ## Rekishi ni Nokoru Akujo ni Naruzo • I’ll Become a Villainess Who Goes Down in History
