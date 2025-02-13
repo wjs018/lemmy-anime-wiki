@@ -61,7 +61,7 @@ These shows have had episodes air already, but no thread was created because the
 | Project Sekai: Kowareta SEKAI to Utaenai MIKU | COLORFUL STAGE! The Movie: A Miku Who Can't Sing | https://anilist.co/anime/179878 | Episode 1 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1153 |
 | Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 46 |
-| Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 243 |
+| Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 244 |
 | Dokodemo Makibao | Dokodemo Makibao | https://anilist.co/anime/185538 | Episode 16 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 849 |
 | Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | Episode 28 |
