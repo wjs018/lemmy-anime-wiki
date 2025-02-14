@@ -458,5 +458,6 @@ Episode|Link
 3|[Link](https://ani.social/post/8927387)
 4|[Link](https://ani.social/post/9106005)
 5|[Link](https://ani.social/post/9288006)
+6|[Link](https://ani.social/post/9475097)
 {.dense}
 
