@@ -92,7 +92,7 @@ These shows have had episodes air already, but no thread was created because the
 | Medalist | Medalist | https://anilist.co/anime/165171 | Episode 6 |
 | Momentary Lily | Momentary Lily | https://anilist.co/anime/177159 | Episode 7 |
 | Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 11 |
-| Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 153 |
+| Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 154 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 17 |
 | Okaimono Panda! | Okaimono Panda! | https://anilist.co/anime/177603 | Episode 12 |
 | ONE PIECE: Gyojin Tou-hen | One Piece Log: Fish-Man Island Saga | https://anilist.co/anime/183423 | Episode 15 |
