@@ -121,7 +121,7 @@ Episode|Link|Episode|Link
 2|[Link](https://ani.social/post/6656572)|15|[Link](https://ani.social/post/8926840)
 3|[Link](https://ani.social/post/6803604)|16|[Link](https://ani.social/post/9105360)
 4|[Link](https://ani.social/post/6953653)|17|[Link](https://ani.social/post/9287209)
-5|[Link](https://ani.social/post/7111283)
+5|[Link](https://ani.social/post/7111283)|18|[Link](https://ani.social/post/9474017)
 6|[Link](https://ani.social/post/7258362)
 7|[Link](https://ani.social/post/7398198)
 8|[Link](https://ani.social/post/7554230)
