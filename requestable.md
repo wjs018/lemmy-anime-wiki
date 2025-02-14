@@ -31,7 +31,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 2nd Season | The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2 | https://anilist.co/anime/172258 | [Link](https://ani.social/post/9339934) |
 | Kusuriya no Hitorigoto 2nd Season | The Apothecary Diaries Season 2 | https://anilist.co/anime/176301 | [Link](https://ani.social/post/9285977) |
 | Arafou Otoko no Isekai Tsuuhan Seikatsu | The Daily Life of a Middle-Aged Online Shopper in Another World | https://anilist.co/anime/180292 | [Link](https://ani.social/post/9442624) |
-| Nihon e Youkoso Elf-san. | Welcome to Japan, Ms. Elf! | https://anilist.co/anime/172439 | [Link](https://ani.social/post/9284949) |
 | Kimi to Idol Precure♪ | You and Idol Precure ♪ | https://anilist.co/anime/185073 | [Link](https://ani.social/post/9325044) |
 | Zenshuu. | ZENSHU | https://anilist.co/anime/176273 | [Link](https://ani.social/post/9342240) |
 | Übel Blatt | Übel Blatt | https://anilist.co/anime/175198 | [Link](https://ani.social/post/9288006) |
@@ -143,4 +142,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Kankin Kuiki Level X (Zoku-hen) | Kankin Kuiki Level X (Zoku-hen) | https://anilist.co/anime/182877 | February 21 at 17:23 |
 | Thunderbolt Fantasy: Touriken Yuuki - Saishuushou | Thunderbolt Fantasy: Touriken Yuuki - Saishuushou | https://anilist.co/anime/176432 | February 20 at 15:00 |
+| Nihon e Youkoso Elf-san. | Welcome to Japan, Ms. Elf! | https://anilist.co/anime/172439 | February 14 at 14:00 |
 {.dense}
