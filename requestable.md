@@ -127,6 +127,7 @@ These shows have had episodes air already, but no thread was created because the
 | UniteUp!: Uni:Birth | UniteUp! -Uni:Birth- | https://anilist.co/anime/167742 | Episode 5 |
 | Unnamed Memory Act.2 | Unnamed Memory Season 2 | https://anilist.co/anime/178550 | Episode 6 |
 | Versailles no Bara Movie | Versailles no Bara Movie | https://anilist.co/anime/154392 | Episode 1 |
+| Nihon e Youkoso Elf-san. | Welcome to Japan, Ms. Elf! | https://anilist.co/anime/172439 | Episode 6 |
 | Mahoutsukai Precure!! MIRAI DAYS | Witchy Precure!! ~MIRAI DAYS~ | https://anilist.co/anime/162722 | Episode 5 |
 | Wonderful Precure! | Wonderful Precure! | https://anilist.co/anime/171030 | Episode 50 |
 | Yao Shen Ji 8 | Yao Shen Ji 8 | https://anilist.co/anime/178351 | Episode 42 |
@@ -142,5 +143,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Kankin Kuiki Level X (Zoku-hen) | Kankin Kuiki Level X (Zoku-hen) | https://anilist.co/anime/182877 | February 21 at 17:23 |
 | Thunderbolt Fantasy: Touriken Yuuki - Saishuushou | Thunderbolt Fantasy: Touriken Yuuki - Saishuushou | https://anilist.co/anime/176432 | February 20 at 15:00 |
-| Nihon e Youkoso Elf-san. | Welcome to Japan, Ms. Elf! | https://anilist.co/anime/172439 | February 14 at 14:00 |
 {.dense}
