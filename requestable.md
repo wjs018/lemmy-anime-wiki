@@ -27,7 +27,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Izure Saikyou no Renkinjutsushi? | Possibly the Greatest Alchemist of All Time | https://anilist.co/anime/177506 | [Link](https://ani.social/post/9417541) |
 | Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season | Re:ZERO -Starting Life in Another World- Season 3 | https://anilist.co/anime/163134 | [Link](https://ani.social/post/9416525) |
 | Shangri-La Frontier 2nd Season | Shangri-La Frontier Season 2 | https://anilist.co/anime/176508 | [Link](https://ani.social/post/9334041) |
-| Ore dake Level Up na Ken: Season 2 - Arise from the Shadow | Solo Leveling Season 2 -Arise from the Shadow- | https://anilist.co/anime/176496 | [Link](https://ani.social/post/9313124) |
+| Ore dake Level Up na Ken: Season 2 - Arise from the Shadow | Solo Leveling Season 2 -Arise from the Shadow- | https://anilist.co/anime/176496 | [Link](https://ani.social/post/9501808) |
 | Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 2nd Season | The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2 | https://anilist.co/anime/172258 | [Link](https://ani.social/post/9339934) |
 | Kusuriya no Hitorigoto 2nd Season | The Apothecary Diaries Season 2 | https://anilist.co/anime/176301 | [Link](https://ani.social/post/9472939) |
 | Arafou Otoko no Isekai Tsuuhan Seikatsu | The Daily Life of a Middle-Aged Online Shopper in Another World | https://anilist.co/anime/180292 | [Link](https://ani.social/post/9442624) |
@@ -51,7 +51,7 @@ These shows have had episodes air already, but no thread was created because the
 | Arifureta Shokugyou de Sekai Saikyou 3rd season | Arifureta: From Commonplace to World's Strongest Season 3 | https://anilist.co/anime/154473 | Episode 15 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 68 |
 | Baban Baban Ban Vampire | Babanba Banban Vampire | https://anilist.co/anime/175422 | Episode 5 |
-| S-Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu | Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster! | https://anilist.co/anime/176158 | Episode 7 |
+| S-Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu | Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster! | https://anilist.co/anime/176158 | Episode 8 |
 | Binan Koukou Chikyuu Bouei-bu ETERNAL LOVE! | Binan Koukou Chikyuu Bouei-bu ETERNAL LOVE! | https://anilist.co/anime/179838 | Episode 1 |
 | Ao no Hako | Blue Box | https://anilist.co/anime/170942 | Episode 20 |
 | Ao no Exorcist: Yosuga-hen | Blue Exorcist -The Blue Night Saga- | https://anilist.co/anime/185880 | Episode 6 |
@@ -105,7 +105,7 @@ These shows have had episodes air already, but no thread was created because the
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | https://anilist.co/anime/182417 | Episode 10 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 75 |
 | Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran | Rurouni Kenshin -Kyoto Disturbance- | https://anilist.co/anime/171637 | Episode 18 |
-| SAKAMOTO DAYS | SAKAMOTO DAYS | https://anilist.co/anime/177709 | Episode 6 |
+| SAKAMOTO DAYS | SAKAMOTO DAYS | https://anilist.co/anime/177709 | Episode 7 |
 | SK∞ Extra Part | SK∞ Extra Part | https://anilist.co/anime/136381 | Episode 1 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2773 |
 | Senpai wa Otokonoko: Ame Nochi Hare | Senpai wa Otokonoko: Ame Nochi Hare | https://anilist.co/anime/182158 | Episode 1 |
