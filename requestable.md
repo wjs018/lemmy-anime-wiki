@@ -86,7 +86,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shiguang Dailiren: Yingdu Pian | Link Click: Bridon Arc | https://anilist.co/anime/170166 | Episode 6 |
 | MILGRAM Third Season | MILGRAM Third Season | https://anilist.co/anime/186495 | Episode 1 |
 | Magic Maker: Isekai Mahou no Tsukurikata | Magic Maker: How to Make Magic in Another World | https://anilist.co/anime/179297 | Episode 6 |
-| Mashin Souzouden Wataru | Mashin Souzouden Wataru | https://anilist.co/anime/173333 | Episode 5 |
+| Mashin Souzouden Wataru | Mashin Souzouden Wataru | https://anilist.co/anime/173333 | Episode 6 |
 | Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai | Medaka Kuroiwa is Impervious to My Charms | https://anilist.co/anime/177552 | Episode 6 |
 | Medalist | Medalist | https://anilist.co/anime/165171 | Episode 7 |
 | Momentary Lily | Momentary Lily | https://anilist.co/anime/177159 | Episode 7 |
