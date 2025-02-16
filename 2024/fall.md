@@ -433,7 +433,7 @@ Episode|Link|Episode|Link
 2|[Link](https://ani.social/post/6693440)|16|[Link](https://ani.social/post/8976168)
 3|[Link](https://ani.social/post/6839780)|17|[Link](https://ani.social/post/9143182)
 4|[Link](https://ani.social/post/6986738)|18|[Link](https://ani.social/post/9334041)
-5|[Link](https://ani.social/post/7139813)
+5|[Link](https://ani.social/post/7139813)|19|[Link](https://ani.social/post/9523685)
 6|[Link](https://ani.social/post/7289560)
 7|[Link](https://ani.social/post/7432957)
 8|[Link](https://ani.social/post/7580863)
