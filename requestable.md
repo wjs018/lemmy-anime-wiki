@@ -105,7 +105,7 @@ These shows have had episodes air already, but no thread was created because the
 | Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran | Rurouni Kenshin -Kyoto Disturbance- | https://anilist.co/anime/171637 | Episode 18 |
 | SAKAMOTO DAYS | SAKAMOTO DAYS | https://anilist.co/anime/177709 | Episode 7 |
 | SK∞ Extra Part | SK∞ Extra Part | https://anilist.co/anime/136381 | Episode 1 |
-| Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2773 |
+| Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2774 |
 | Senpai wa Otokonoko: Ame Nochi Hare | Senpai wa Otokonoko: Ame Nochi Hare | https://anilist.co/anime/182158 | Episode 1 |
 | Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 17 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1272 |
