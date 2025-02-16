@@ -141,5 +141,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Kankin Kuiki Level X (Zoku-hen) | Kankin Kuiki Level X (Zoku-hen) | https://anilist.co/anime/182877 | February 21 at 17:23 |
+| Minimini Minini | Minimini Minini | https://anilist.co/anime/186752 | February 21 at 23:00 |
 | Thunderbolt Fantasy: Touriken Yuuki - Saishuushou | Thunderbolt Fantasy: Touriken Yuuki - Saishuushou | https://anilist.co/anime/176432 | February 20 at 15:00 |
 {.dense}
