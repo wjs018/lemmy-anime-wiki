@@ -107,7 +107,7 @@ These shows have had episodes air already, but no thread was created because the
 | SK∞ Extra Part | SK∞ Extra Part | https://anilist.co/anime/136381 | Episode 1 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2774 |
 | Senpai wa Otokonoko: Ame Nochi Hare | Senpai wa Otokonoko: Ame Nochi Hare | https://anilist.co/anime/182158 | Episode 1 |
-| Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 17 |
+| Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 18 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1272 |
 | Shinkalion: Change the World | Shinkalion: Change the World | https://anilist.co/anime/172395 | Episode 39 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 96 |
