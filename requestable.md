@@ -73,6 +73,7 @@ These shows have had episodes air already, but no thread was created because the
 | Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi | Headhunted to Another World: From Salaryman to Big Four! | https://anilist.co/anime/179689 | Episode 8 |
 | Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 45 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 300 |
+| Honey Lemon Soda | Honey Lemon Soda | https://anilist.co/anime/175443 | Episode 7 |
 | Kono Kaisha ni Suki na Hito ga Imasu | I Have a Crush at Work | https://anilist.co/anime/179696 | Episode 7 |
 | A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu. | I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! | https://anilist.co/anime/180812 | Episode 6 |
 | Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta. | I'm Getting Married to a Girl I Hate in My Class | https://anilist.co/anime/178462 | Episode 7 |
@@ -140,7 +141,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Aldnoah.Zero (Re+) | Aldnoah.Zero (Re+) | https://anilist.co/anime/185714 | February 27 at 15:00 |
-| Honey Lemon Soda | Honey Lemon Soda | https://anilist.co/anime/175443 | February 19 at 16:55 |
 | Kankin Kuiki Level X (Zoku-hen) | Kankin Kuiki Level X (Zoku-hen) | https://anilist.co/anime/182877 | February 21 at 17:23 |
 | Minimini Minini | Minimini Minini | https://anilist.co/anime/186752 | February 21 at 23:00 |
 | Thunderbolt Fantasy: Touriken Yuuki - Saishuushou | Thunderbolt Fantasy: Touriken Yuuki - Saishuushou | https://anilist.co/anime/176432 | February 20 at 15:00 |
