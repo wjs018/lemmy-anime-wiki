@@ -90,6 +90,7 @@ These shows have had episodes air already, but no thread was created because the
 | Mashin Souzouden Wataru | Mashin Souzouden Wataru | https://anilist.co/anime/173333 | Episode 6 |
 | Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai | Medaka Kuroiwa is Impervious to My Charms | https://anilist.co/anime/177552 | Episode 7 |
 | Medalist | Medalist | https://anilist.co/anime/165171 | Episode 7 |
+| Minimini Minini | Minimini Minini | https://anilist.co/anime/186752 | Episode 8 |
 | Momentary Lily | Momentary Lily | https://anilist.co/anime/177159 | Episode 8 |
 | Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 12 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 154 |
@@ -143,5 +144,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Aldnoah.Zero (Re+) | Aldnoah.Zero (Re+) | https://anilist.co/anime/185714 | February 27 at 15:00 |
-| Minimini Minini | Minimini Minini | https://anilist.co/anime/186752 | February 21 at 23:00 |
 {.dense}
