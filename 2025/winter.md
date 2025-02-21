@@ -250,6 +250,7 @@ Episode|Link
 4|[Link](https://ani.social/post/9104807)
 5|[Link](https://ani.social/post/9285977)
 6|[Link](https://ani.social/post/9472939)
+7|[Link](https://ani.social/post/9778759)
 {.dense}
 
 ## MAKE A GIRL
