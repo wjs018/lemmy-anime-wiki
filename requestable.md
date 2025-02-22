@@ -126,7 +126,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tousouchuu: Great Mission | Tousouchuu: Great Mission | https://anilist.co/anime/159560 | Episode 92 |
 | Trillion Game | Trillion Game | https://anilist.co/anime/169315 | Episode 20 |
 | Amagami-san Chi no Enmusubi | Tying the Knot with an Amagami Sister | https://anilist.co/anime/164172 | Episode 19 |
-| UniteUp!: Uni:Birth | UniteUp! -Uni:Birth- | https://anilist.co/anime/167742 | Episode 6 |
+| UniteUp!: Uni:Birth | UniteUp! -Uni:Birth- | https://anilist.co/anime/167742 | Episode 7 |
 | Unnamed Memory Act.2 | Unnamed Memory Season 2 | https://anilist.co/anime/178550 | Episode 7 |
 | Versailles no Bara Movie | Versailles no Bara Movie | https://anilist.co/anime/154392 | Episode 1 |
 | Mahoutsukai Precure!! MIRAI DAYS | Witchy Precure!! ~MIRAI DAYS~ | https://anilist.co/anime/162722 | Episode 6 |
