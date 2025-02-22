@@ -110,7 +110,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2774 |
 | Senpai wa Otokonoko: Ame Nochi Hare | Senpai wa Otokonoko: Ame Nochi Hare | https://anilist.co/anime/182158 | Episode 1 |
 | Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 18 |
-| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1272 |
+| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1273 |
 | Shinkalion: Change the World | Shinkalion: Change the World | https://anilist.co/anime/172395 | Episode 39 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 97 |
 | Sorairo Utility (TV) | Sorairo Utility (TV) | https://anilist.co/anime/174596 | Episode 8 |
