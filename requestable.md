@@ -32,7 +32,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kusuriya no Hitorigoto 2nd Season | The Apothecary Diaries Season 2 | https://anilist.co/anime/176301 | [Link](https://ani.social/post/9778759) |
 | Arafou Otoko no Isekai Tsuuhan Seikatsu | The Daily Life of a Middle-Aged Online Shopper in Another World | https://anilist.co/anime/180292 | [Link](https://ani.social/post/9731978) |
 | Nihon e Youkoso Elf-san. | Welcome to Japan, Ms. Elf! | https://anilist.co/anime/172439 | [Link](https://ani.social/post/9776134) |
-| Zenshuu. | ZENSHU | https://anilist.co/anime/176273 | [Link](https://ani.social/post/9532474) |
+| Zenshuu. | ZENSHU | https://anilist.co/anime/176273 | [Link](https://ani.social/post/9857399) |
 | Übel Blatt | Übel Blatt | https://anilist.co/anime/175198 | [Link](https://ani.social/post/9780888) |
 {.dense}
 
