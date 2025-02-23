@@ -95,7 +95,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 155 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 19 |
 | Okaimono Panda! | Okaimono Panda! | https://anilist.co/anime/177603 | Episode 12 |
-| ONE PIECE: Gyojin Tou-hen | One Piece Log: Fish-Man Island Saga | https://anilist.co/anime/183423 | Episode 16 |
+| ONE PIECE: Gyojin Tou-hen | One Piece Log: Fish-Man Island Saga | https://anilist.co/anime/183423 | Episode 17 |
 | Chi. Chikyuu no Undou ni Tsuite | Orb: On the Movements of the Earth | https://anilist.co/anime/151514 | Episode 22 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 85 |
 | Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2084 |
@@ -142,4 +142,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Aldnoah.Zero (Re+) | Aldnoah.Zero (Re+) | https://anilist.co/anime/185714 | February 27 at 15:00 |
+| Kairyuu to Yuubinya-san | Kairyuu to Yuubinya-san | https://anilist.co/anime/186559 | February 26 at 16:00 |
 {.dense}
