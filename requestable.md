@@ -141,6 +141,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
-| Aldnoah.Zero (Re+) | Aldnoah.Zero (Re+) | https://anilist.co/anime/185714 | February 27 at 15:00 |
+| Aldnoah.Zero (Re+) | Aldnoah.Zero (Re+) | https://anilist.co/anime/185714 | February 27 at 16:00 |
 | Kairyuu to Yuubinya-san | Kairyuu to Yuubinya-san | https://anilist.co/anime/186559 | February 26 at 16:00 |
 {.dense}
