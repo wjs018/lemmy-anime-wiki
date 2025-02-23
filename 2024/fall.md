@@ -435,7 +435,7 @@ Episode|Link|Episode|Link
 3|[Link](https://ani.social/post/6839780)|17|[Link](https://ani.social/post/9143182)
 4|[Link](https://ani.social/post/6986738)|18|[Link](https://ani.social/post/9334041)
 5|[Link](https://ani.social/post/7139813)|19|[Link](https://ani.social/post/9523685)
-6|[Link](https://ani.social/post/7289560)
+6|[Link](https://ani.social/post/7289560)|20|[Link](https://ani.social/post/9846251)
 7|[Link](https://ani.social/post/7432957)
 8|[Link](https://ani.social/post/7580863)
 9|[Link](https://ani.social/post/7728361)
