@@ -87,7 +87,7 @@ These shows have had episodes air already, but no thread was created because the
 | MILGRAM Third Season | MILGRAM Third Season | https://anilist.co/anime/186495 | Episode 1 |
 | Magic Maker: Isekai Mahou no Tsukurikata | Magic Maker: How to Make Magic in Another World | https://anilist.co/anime/179297 | Episode 7 |
 | Mashin Souzouden Wataru | Mashin Souzouden Wataru | https://anilist.co/anime/173333 | Episode 7 |
-| Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai | Medaka Kuroiwa is Impervious to My Charms | https://anilist.co/anime/177552 | Episode 7 |
+| Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai | Medaka Kuroiwa is Impervious to My Charms | https://anilist.co/anime/177552 | Episode 8 |
 | Minimini minini | Minimini minini | https://anilist.co/anime/186752 | Episode 8 |
 | Momentary Lily | Momentary Lily | https://anilist.co/anime/177159 | Episode 8 |
 | Watashi no Shiawase na Kekkon 2nd Season | My Happy Marriage Season 2 | https://anilist.co/anime/169441 | Episode 8 |
