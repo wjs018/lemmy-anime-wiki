@@ -58,7 +58,7 @@ These shows have had episodes air already, but no thread was created because the
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1154 |
 | Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 48 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 247 |
-| Dokodemo Makibao | Dokodemo Makibao | https://anilist.co/anime/185538 | Episode 19 |
+| Dokodemo Makibao | Dokodemo Makibao | https://anilist.co/anime/185538 | Episode 20 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 851 |
 | Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | Episode 30 |
 | Dr. STONE: SCIENCE FUTURE | Dr. STONE SCIENCE FUTURE | https://anilist.co/anime/172019 | Episode 7 |
