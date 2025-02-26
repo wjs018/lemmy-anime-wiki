@@ -190,6 +190,7 @@ Episode|Link
 6|[Link](https://ani.social/post/9229484)
 7|[Link](https://ani.social/post/9417541)
 8|[Link](https://ani.social/post/9692202)
+9|[Link](https://ani.social/post/9971542)
 {.dense}
 
 ## Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 2nd Season • The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2
