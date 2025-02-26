@@ -91,7 +91,7 @@ These shows have had episodes air already, but no thread was created because the
 | Minimini minini | Minimini minini | https://anilist.co/anime/186752 | Episode 8 |
 | Momentary Lily | Momentary Lily | https://anilist.co/anime/177159 | Episode 8 |
 | Watashi no Shiawase na Kekkon 2nd Season | My Happy Marriage Season 2 | https://anilist.co/anime/169441 | Episode 8 |
-| Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 12 |
+| Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 13 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 155 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 19 |
 | Okaimono Panda! | Okaimono Panda! | https://anilist.co/anime/177603 | Episode 12 |
