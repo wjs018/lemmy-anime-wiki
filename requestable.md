@@ -94,7 +94,7 @@ These shows have had episodes air already, but no thread was created because the
 | Momentary Lily | Momentary Lily | https://anilist.co/anime/177159 | Episode 9 |
 | Watashi no Shiawase na Kekkon 2nd Season | My Happy Marriage Season 2 | https://anilist.co/anime/169441 | Episode 8 |
 | Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 13 |
-| Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 155 |
+| Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 156 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 19 |
 | ONE PIECE: Gyojin Tou-hen | One Piece Log: Fish-Man Island Saga | https://anilist.co/anime/183423 | Episode 17 |
 | Chi. Chikyuu no Undou ni Tsuite | Orb: On the Movements of the Earth | https://anilist.co/anime/151514 | Episode 22 |
