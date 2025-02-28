@@ -16,7 +16,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | :-------- | :---------------- | :----------- | :--------------------: |
 | Ameku Takao no Suiri Karte | Ameku M.D.: Doctor Detective | https://anilist.co/anime/176642 | [Link](https://ani.social/post/9975370) |
 | BanG Dream! Ave Mujica | BanG Dream! Ave Mujica | https://anilist.co/anime/169295 | [Link](https://ani.social/post/10013417) |
-| Dragon Ball DAIMA | Dragon Ball DAIMA | https://anilist.co/anime/170083 | [Link](https://ani.social/post/9779712) |
+| Dragon Ball DAIMA | Dragon Ball DAIMA | https://anilist.co/anime/170083 | [Link](https://ani.social/post/10056228) |
 | Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time | https://anilist.co/anime/167143 | [Link](https://ani.social/post/9780159) |
 | Kisaki Kyouiku kara Nigetai Watashi | I Want to Escape from Princess Lessons | https://anilist.co/anime/170650 | [Link](https://ani.social/post/9853676) |
 | Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen | Is It Wrong To Try To Pick Up Girls in a Dungeon? V | https://anilist.co/anime/170732 | [Link](https://ani.social/post/9970775) |
