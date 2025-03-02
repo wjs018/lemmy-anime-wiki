@@ -70,7 +70,7 @@ These shows have had episodes air already, but no thread was created because the
 | Grisaia: Phantom Trigger THE ANIMATION (TV) | Grisaia: Phantom Trigger | https://anilist.co/anime/145740 | Episode 9 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 593 |
 | Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi | Headhunted to Another World: From Salaryman to Big Four! | https://anilist.co/anime/179689 | Episode 9 |
-| Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 46 |
+| Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 47 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 301 |
 | Honey Lemon Soda | Honey Lemon Soda | https://anilist.co/anime/175443 | Episode 8 |
 | Kono Kaisha ni Suki na Hito ga Imasu | I Have a Crush at Work | https://anilist.co/anime/179696 | Episode 8 |
