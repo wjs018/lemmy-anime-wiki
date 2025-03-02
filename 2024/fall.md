@@ -438,7 +438,7 @@ Episode|Link|Episode|Link
 4|[Link](https://ani.social/post/6986738)|18|[Link](https://ani.social/post/9334041)
 5|[Link](https://ani.social/post/7139813)|19|[Link](https://ani.social/post/9523685)
 6|[Link](https://ani.social/post/7289560)|20|[Link](https://ani.social/post/9846251)
-7|[Link](https://ani.social/post/7432957)
+7|[Link](https://ani.social/post/7432957)|21|[Link](https://ani.social/post/10124498)
 8|[Link](https://ani.social/post/7580863)
 9|[Link](https://ani.social/post/7728361)
 10|[Link](https://ani.social/post/7881571)
