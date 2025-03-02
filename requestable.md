@@ -85,7 +85,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kankin Kuiki Level X 2nd Season | Lockdown Zone: Level X Season 2 | https://anilist.co/anime/182877 | Episode 2 |
 | MILGRAM Third Season | MILGRAM Third Season | https://anilist.co/anime/186495 | Episode 1 |
 | Magic Maker: Isekai Mahou no Tsukurikata | Magic Maker: How to Make Magic in Another World | https://anilist.co/anime/179297 | Episode 8 |
-| Mashin Souzouden Wataru | Mashin Souzouden Wataru | https://anilist.co/anime/173333 | Episode 7 |
+| Mashin Souzouden Wataru | Mashin Souzouden Wataru | https://anilist.co/anime/173333 | Episode 8 |
 | Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai | Medaka Kuroiwa is Impervious to My Charms | https://anilist.co/anime/177552 | Episode 8 |
 | Minimini minini | Minimini minini | https://anilist.co/anime/186752 | Episode 9 |
 | Momentary Lily | Momentary Lily | https://anilist.co/anime/177159 | Episode 9 |
