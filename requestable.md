@@ -89,7 +89,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai | Medaka Kuroiwa is Impervious to My Charms | https://anilist.co/anime/177552 | Episode 8 |
 | Minimini minini | Minimini minini | https://anilist.co/anime/186752 | Episode 9 |
 | Momentary Lily | Momentary Lily | https://anilist.co/anime/177159 | Episode 9 |
-| Watashi no Shiawase na Kekkon 2nd Season | My Happy Marriage Season 2 | https://anilist.co/anime/169441 | Episode 8 |
+| Watashi no Shiawase na Kekkon 2nd Season | My Happy Marriage Season 2 | https://anilist.co/anime/169441 | Episode 9 |
 | Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 13 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 156 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 20 |
