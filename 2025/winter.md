@@ -46,6 +46,7 @@ Episode|Link
 6|[Link](https://ani.social/post/9231739)
 7|[Link](https://ani.social/post/9694629)
 8|[Link](https://ani.social/post/9975370)
+9|[Link](https://ani.social/post/10263026)
 {.dense}
 
 ## Ao no Exorcist: Yosuga-hen • Blue Exorcist -The Blue Night Saga-
