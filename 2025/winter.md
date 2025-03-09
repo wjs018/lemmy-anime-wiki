@@ -216,6 +216,7 @@ Episode|Link
 6|[Link](https://ani.social/post/9530498)
 7|[Link](https://ani.social/post/9854533)
 8|[Link](https://ani.social/post/10133808)
+9|[Link](https://ani.social/post/10436061)
 {.dense}
 
 ## Kimi to Idol Precure♪ • You and Idol Precure ♪
