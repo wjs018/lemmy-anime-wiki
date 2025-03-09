@@ -491,6 +491,7 @@ Episode|Link
 7|[Link](https://ani.social/post/9532474)
 8|[Link](https://ani.social/post/9857399)
 9|[Link](https://ani.social/post/10136926)
+10|[Link](https://ani.social/post/10440290)
 {.dense}
 
 ## Übel Blatt
