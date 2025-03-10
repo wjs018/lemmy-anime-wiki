@@ -89,6 +89,7 @@ These shows have had episodes air already, but no thread was created because the
 | Minimini minini | Minimini minini | https://anilist.co/anime/186752 | Episode 10 |
 | Momentary Lily | Momentary Lily | https://anilist.co/anime/177159 | Episode 10 |
 | Watashi no Shiawase na Kekkon 2nd Season | My Happy Marriage Season 2 | https://anilist.co/anime/169441 | Episode 9 |
+| Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 22 |
 | Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 14 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 157 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 21 |
@@ -136,7 +137,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Mononoke: Hinezumi | Mononoke: Hinezumi | https://anilist.co/anime/179852 | March 13 at 16:00 |
-| Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | March 10 at 05:00 |
 | Oshiri Tantei: Star and Moon | Oshiri Tantei: Star and Moon | https://anilist.co/anime/185643 | March 19 at 15:00 |
 | Shimajirou: Shimajirou to Yuuki no Uta | Shimajirou: Shimajirou to Yuuki no Uta | https://anilist.co/anime/183412 | March 13 at 15:00 |
 {.dense}
