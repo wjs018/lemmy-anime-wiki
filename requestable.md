@@ -106,7 +106,7 @@ These shows have had episodes air already, but no thread was created because the
 | SAKAMOTO DAYS | SAKAMOTO DAYS | https://anilist.co/anime/177709 | Episode 10 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2777 |
 | Senpai wa Otokonoko: Ame Nochi Hare | Senpai wa Otokonoko: Ame Nochi Hare | https://anilist.co/anime/182158 | Episode 1 |
-| Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 20 |
+| Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 21 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1275 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 99 |
 | Sorairo Utility (TV) | Sorairo Utility (TV) | https://anilist.co/anime/174596 | Episode 10 |
