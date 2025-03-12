@@ -90,7 +90,7 @@ These shows have had episodes air already, but no thread was created because the
 | Momentary Lily | Momentary Lily | https://anilist.co/anime/177159 | Episode 10 |
 | Watashi no Shiawase na Kekkon 2nd Season | My Happy Marriage Season 2 | https://anilist.co/anime/169441 | Episode 10 |
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 22 |
-| Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 14 |
+| Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 15 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 157 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 21 |
 | Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru | OKITSURA: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying | https://anilist.co/anime/166699 | Episode 10 |
