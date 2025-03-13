@@ -15,7 +15,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
 | Ameku Takao no Suiri Karte | Ameku M.D.: Doctor Detective | https://anilist.co/anime/176642 | [Link](https://ani.social/post/10263026) |
-| BanG Dream! Ave Mujica | Ave Mujica - The Die is Cast - | https://anilist.co/anime/169295 | [Link](https://ani.social/post/10304675) |
+| BanG Dream! Ave Mujica | Ave Mujica - The Die is Cast - | https://anilist.co/anime/169295 | [Link](https://ani.social/post/10640283) |
 | Akuyaku Reijou Tensei Oji-san | From Bureaucrat to Villainess: Dad's Been Reincarnated! | https://anilist.co/anime/172453 | [Link](https://ani.social/post/10305234) |
 | Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time | https://anilist.co/anime/167143 | [Link](https://ani.social/post/10350376) |
 | Medalist | Medalist | https://anilist.co/anime/165171 | [Link](https://ani.social/post/10399621) |
@@ -80,8 +80,8 @@ These shows have had episodes air already, but no thread was created because the
 | Kagaku×Bouken Survival! | Kagaku×Bouken Survival! | https://anilist.co/anime/174913 | Episode 20 |
 | Kairyuu to Yuubinya-san | Kairyuu to Yuubinya-san | https://anilist.co/anime/186559 | Episode 1 |
 | Kinnikuman: Kanpeki Choujin Shiso-hen Season 2 | Kinnikuman Perfect Origin Arc Season 2 | https://anilist.co/anime/181886 | Episode 9 |
+| Kono Subarashii Sekai ni Shukufuku wo! 3: BONUS STAGE | Kono Subarashii Sekai ni Shukufuku wo! 3: BONUS STAGE | https://anilist.co/anime/181244 | Episode 1 |
 | Kankin Kuiki Level X 2nd Season | Lockdown Zone: Level X Season 2 | https://anilist.co/anime/182877 | Episode 3 |
-| MILGRAM Third Season | MILGRAM Third Season | https://anilist.co/anime/186495 | Episode 1 |
 | Magic Maker: Isekai Mahou no Tsukurikata | Magic Maker: How to Make Magic in Another World | https://anilist.co/anime/179297 | Episode 10 |
 | Mashin Souzouden Wataru | Mashin Souzouden Wataru | https://anilist.co/anime/173333 | Episode 9 |
 | Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai | Medaka Kuroiwa is Impervious to My Charms | https://anilist.co/anime/177552 | Episode 10 |
@@ -107,6 +107,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2777 |
 | Senpai wa Otokonoko: Ame Nochi Hare | Senpai wa Otokonoko: Ame Nochi Hare | https://anilist.co/anime/182158 | Episode 1 |
 | Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 21 |
+| Shimajirou: Shimajirou to Yuuki no Uta | Shimajirou: Shimajirou to Yuuki no Uta | https://anilist.co/anime/183412 | Episode 1 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1275 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 100 |
 | Sorairo Utility (TV) | Sorairo Utility (TV) | https://anilist.co/anime/174596 | Episode 10 |
@@ -136,8 +137,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
-| Kono Subarashii Sekai ni Shukufuku wo! 3: BONUS STAGE | Kono Subarashii Sekai ni Shukufuku wo! 3: BONUS STAGE | https://anilist.co/anime/181244 | March 13 at 15:00 |
 | Mononoke: Hinezumi | Mononoke: Hinezumi | https://anilist.co/anime/179852 | March 13 at 16:00 |
 | Oshiri Tantei: Star and Moon | Oshiri Tantei: Star and Moon | https://anilist.co/anime/185643 | March 19 at 15:00 |
-| Shimajirou: Shimajirou to Yuuki no Uta | Shimajirou: Shimajirou to Yuuki no Uta | https://anilist.co/anime/183412 | March 13 at 15:00 |
 {.dense}
