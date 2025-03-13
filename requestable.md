@@ -59,7 +59,7 @@ These shows have had episodes air already, but no thread was created because the
 | Doraemon: Nobita no e Sekai Monogatari | Doraemon: Nobita no e Sekai Monogatari | https://anilist.co/anime/182333 | Episode 1 |
 | Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | Episode 32 |
 | Dr. STONE: SCIENCE FUTURE | Dr. STONE SCIENCE FUTURE | https://anilist.co/anime/172019 | Episode 10 |
-| Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru | Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest | https://anilist.co/anime/178548 | Episode 9 |
+| Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru | Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest | https://anilist.co/anime/178548 | Episode 10 |
 | FARMAGIA | FARMAGIA | https://anilist.co/anime/178312 | Episode 9 |
 | Hana wa Saku, Shura no Gotoku | Flower and Asura | https://anilist.co/anime/178022 | Episode 10 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 147 |
@@ -80,13 +80,13 @@ These shows have had episodes air already, but no thread was created because the
 | Kagaku×Bouken Survival! | Kagaku×Bouken Survival! | https://anilist.co/anime/174913 | Episode 20 |
 | Kairyuu to Yuubinya-san | Kairyuu to Yuubinya-san | https://anilist.co/anime/186559 | Episode 1 |
 | Kinnikuman: Kanpeki Choujin Shiso-hen Season 2 | Kinnikuman Perfect Origin Arc Season 2 | https://anilist.co/anime/181886 | Episode 9 |
-| Kono Subarashii Sekai ni Shukufuku wo! 3: BONUS STAGE | Kono Subarashii Sekai ni Shukufuku wo! 3: BONUS STAGE | https://anilist.co/anime/181244 | Episode 1 |
+| Kono Subarashii Sekai ni Shukufuku wo! 3: BONUS STAGE | Kono Subarashii Sekai ni Shukufuku wo! 3: BONUS STAGE | https://anilist.co/anime/181244 | Episode 2 |
 | Kankin Kuiki Level X 2nd Season | Lockdown Zone: Level X Season 2 | https://anilist.co/anime/182877 | Episode 3 |
 | Magic Maker: Isekai Mahou no Tsukurikata | Magic Maker: How to Make Magic in Another World | https://anilist.co/anime/179297 | Episode 10 |
 | Mashin Souzouden Wataru | Mashin Souzouden Wataru | https://anilist.co/anime/173333 | Episode 9 |
 | Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai | Medaka Kuroiwa is Impervious to My Charms | https://anilist.co/anime/177552 | Episode 10 |
 | Minimini minini | Minimini minini | https://anilist.co/anime/186752 | Episode 10 |
-| Momentary Lily | Momentary Lily | https://anilist.co/anime/177159 | Episode 10 |
+| Momentary Lily | Momentary Lily | https://anilist.co/anime/177159 | Episode 11 |
 | Watashi no Shiawase na Kekkon 2nd Season | My Happy Marriage Season 2 | https://anilist.co/anime/169441 | Episode 10 |
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 22 |
 | Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 15 |
