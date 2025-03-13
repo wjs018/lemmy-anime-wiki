@@ -33,6 +33,7 @@ Episode|Link
 7|[Link](https://ani.social/post/9736540)
 8|[Link](https://ani.social/post/10069907)
 9|[Link](https://ani.social/post/10305234)
+10|[Link](https://ani.social/post/10644280)
 {.dense}
 
 ## Ameku Takao no Suiri Karte • Ameku M.D.: Doctor Detective
