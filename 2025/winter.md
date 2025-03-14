@@ -361,6 +361,7 @@ Episode|Link
 7|[Link](https://ani.social/post/9776134)
 8|[Link](https://ani.social/post/10052459)
 9|[Link](https://ani.social/post/10345134)
+10|[Link](https://ani.social/post/10696624)
 {.dense}
 
 ## Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru • OKITSURA: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying
