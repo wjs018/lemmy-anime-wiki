@@ -27,7 +27,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kusuriya no Hitorigoto 2nd Season | The Apothecary Diaries Season 2 | https://anilist.co/anime/176301 | [Link](https://ani.social/post/10691449) |
 | Arafou Otoko no Isekai Tsuuhan Seikatsu | The Daily Life of a Middle-Aged Online Shopper in Another World | https://anilist.co/anime/180292 | [Link](https://ani.social/post/10635518) |
 | Zenshuu. | ZENSHU | https://anilist.co/anime/176273 | [Link](https://ani.social/post/10440290) |
-| Übel Blatt | Übel Blatt | https://anilist.co/anime/175198 | [Link](https://ani.social/post/10351428) |
 {.dense}
 
 ## Requestable Shows
@@ -140,4 +139,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Luka to Taiyou no Hana | Luka and the Flower of the Sun | https://anilist.co/anime/178126 | March 24 at 16:00 |
 | Oshiri Tantei: Star and Moon | Oshiri Tantei: Star and Moon | https://anilist.co/anime/185643 | March 19 at 15:00 |
+| Übel Blatt | Übel Blatt | https://anilist.co/anime/175198 | March 14 at 16:30 |
 {.dense}
