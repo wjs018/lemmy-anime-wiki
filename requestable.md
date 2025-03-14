@@ -85,7 +85,7 @@ These shows have had episodes air already, but no thread was created because the
 | Magic Maker: Isekai Mahou no Tsukurikata | Magic Maker: How to Make Magic in Another World | https://anilist.co/anime/179297 | Episode 10 |
 | Mashin Souzouden Wataru | Mashin Souzouden Wataru | https://anilist.co/anime/173333 | Episode 9 |
 | Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai | Medaka Kuroiwa is Impervious to My Charms | https://anilist.co/anime/177552 | Episode 10 |
-| Minimini minini | Minimini minini | https://anilist.co/anime/186752 | Episode 10 |
+| Minimini minini | Minimini minini | https://anilist.co/anime/186752 | Episode 11 |
 | Momentary Lily | Momentary Lily | https://anilist.co/anime/177159 | Episode 11 |
 | Mononoke: Hinezumi | Mononoke: Hinezumi | https://anilist.co/anime/179852 | Episode 1 |
 | Watashi no Shiawase na Kekkon 2nd Season | My Happy Marriage Season 2 | https://anilist.co/anime/169441 | Episode 10 |
