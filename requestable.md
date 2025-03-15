@@ -45,7 +45,7 @@ These shows have had episodes air already, but no thread was created because the
 | Arifureta Shokugyou de Sekai Saikyou 3rd season | Arifureta: From Commonplace to World's Strongest Season 3 | https://anilist.co/anime/154473 | Episode 16 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 72 |
 | Baban Baban Ban Vampire | Babanba Banban Vampire | https://anilist.co/anime/175422 | Episode 9 |
-| S-Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu | Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster! | https://anilist.co/anime/176158 | Episode 11 |
+| S-Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu | Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster! | https://anilist.co/anime/176158 | Episode 12 |
 | Ao no Hako | Blue Box | https://anilist.co/anime/170942 | Episode 24 |
 | Ao no Exorcist: Yosuga-hen | Blue Exorcist -The Blue Night Saga- | https://anilist.co/anime/185880 | Episode 10 |
 | Ao no Miburo | Blue Miburo | https://anilist.co/anime/169258 | Episode 22 |
@@ -103,7 +103,7 @@ These shows have had episodes air already, but no thread was created because the
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | https://anilist.co/anime/182417 | Episode 14 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 79 |
 | Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran | Rurouni Kenshin -Kyoto Disturbance- | https://anilist.co/anime/171637 | Episode 22 |
-| SAKAMOTO DAYS | SAKAMOTO DAYS | https://anilist.co/anime/177709 | Episode 10 |
+| SAKAMOTO DAYS | SAKAMOTO DAYS | https://anilist.co/anime/177709 | Episode 11 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2777 |
 | Senpai wa Otokonoko: Ame Nochi Hare | Senpai wa Otokonoko: Ame Nochi Hare | https://anilist.co/anime/182158 | Episode 1 |
 | Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 21 |
@@ -138,6 +138,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
+| Aldnoah.Zero: Ame no Danshou - The Penultimate Truth | Aldnoah.Zero: Ame no Danshou - The Penultimate Truth | https://anilist.co/anime/181440 | March 25 at 15:00 |
 | Luka to Taiyou no Hana | Luka and the Flower of the Sun | https://anilist.co/anime/178126 | March 24 at 16:00 |
 | Oshiri Tantei: Star and Moon | Oshiri Tantei: Star and Moon | https://anilist.co/anime/185643 | March 19 at 15:00 |
 {.dense}
