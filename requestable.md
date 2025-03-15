@@ -28,6 +28,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Arafou Otoko no Isekai Tsuuhan Seikatsu | The Daily Life of a Middle-Aged Online Shopper in Another World | https://anilist.co/anime/180292 | [Link](https://ani.social/post/10635518) |
 | Nihon e Youkoso Elf-san. | Welcome to Japan, Ms. Elf! | https://anilist.co/anime/172439 | [Link](https://ani.social/post/10696624) |
 | Zenshuu. | ZENSHU | https://anilist.co/anime/176273 | [Link](https://ani.social/post/10440290) |
+| Übel Blatt | Übel Blatt | https://anilist.co/anime/175198 | [Link](https://ani.social/post/10743314) |
 {.dense}
 
 ## Requestable Shows
@@ -128,7 +129,6 @@ These shows have had episodes air already, but no thread was created because the
 | Kimi to Idol Precure♪ | You and Idol Precure ♪ | https://anilist.co/anime/185073 | Episode 6 |
 | Yu☆Gi☆Oh! Go Rush!! | Yu☆Gi☆Oh! Go Rush!! | https://anilist.co/anime/142842 | Episode 148 |
 | minute! kaiju no. 8 | minute! kaiju no. 8 | https://anilist.co/anime/186300 | Episode 15 |
-| Übel Blatt | Übel Blatt | https://anilist.co/anime/175198 | Episode 10 |
 {.dense}
 
 ## Upcoming Shows
