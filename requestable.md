@@ -55,7 +55,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 50 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 252 |
 | Dokodemo Makibao | Dokodemo Makibao | https://anilist.co/anime/185538 | Episode 24 |
-| Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 853 |
+| Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 854 |
 | Doraemon: Nobita no e Sekai Monogatari | Doraemon: Nobita no e Sekai Monogatari | https://anilist.co/anime/182333 | Episode 1 |
 | Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | Episode 32 |
 | Dr. STONE: SCIENCE FUTURE | Dr. STONE SCIENCE FUTURE | https://anilist.co/anime/172019 | Episode 10 |
