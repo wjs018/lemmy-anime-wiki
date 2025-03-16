@@ -58,7 +58,7 @@ These shows have had episodes air already, but no thread was created because the
 | Dokodemo Makibao | Dokodemo Makibao | https://anilist.co/anime/185538 | Episode 24 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 854 |
 | Doraemon: Nobita no e Sekai Monogatari | Doraemon: Nobita no e Sekai Monogatari | https://anilist.co/anime/182333 | Episode 1 |
-| Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | Episode 32 |
+| Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | Episode 33 |
 | Dr. STONE: SCIENCE FUTURE | Dr. STONE SCIENCE FUTURE | https://anilist.co/anime/172019 | Episode 10 |
 | Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru | Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest | https://anilist.co/anime/178548 | Episode 10 |
 | FARMAGIA | FARMAGIA | https://anilist.co/anime/178312 | Episode 10 |
