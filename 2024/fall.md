@@ -442,7 +442,7 @@ Episode|Link|Episode|Link
 6|[Link](https://ani.social/post/7289560)|20|[Link](https://ani.social/post/9846251)
 7|[Link](https://ani.social/post/7432957)|21|[Link](https://ani.social/post/10124498)
 8|[Link](https://ani.social/post/7580863)|22|[Link](https://ani.social/post/10425808)
-9|[Link](https://ani.social/post/7728361)
+9|[Link](https://ani.social/post/7728361)|23|[Link](https://ani.social/post/10772805)
 10|[Link](https://ani.social/post/7881571)
 11|[Link](https://ani.social/post/8043054)
 13|[Link](https://ani.social/post/8426676)
