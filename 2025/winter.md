@@ -377,6 +377,7 @@ Episode|Link
 6|[Link](https://ani.social/post/9314717)
 7|[Link](https://ani.social/post/9503143)
 8|[Link](https://ani.social/post/9820217)
+11|[Link](https://ani.social/post/10761400)
 {.dense}
 
 ## Ore dake Level Up na Ken: Season 2 - Arise from the Shadow • Solo Leveling Season 2 -Arise from the Shadow-
