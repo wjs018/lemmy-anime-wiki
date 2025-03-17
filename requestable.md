@@ -98,7 +98,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chi. Chikyuu no Undou ni Tsuite | Orb: On the Movements of the Earth | https://anilist.co/anime/151514 | Episode 25 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 88 |
 | Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2088 |
-| Mahoutsukai no Yakusoku | Promise of Wizard | https://anilist.co/anime/170916 | Episode 10 |
+| Mahoutsukai no Yakusoku | Promise of Wizard | https://anilist.co/anime/170916 | Episode 11 |
 | Punirunes Puni 2 | Punirunes Puni 2 | https://anilist.co/anime/179292 | Episode 23 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | https://anilist.co/anime/182417 | Episode 14 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 80 |
