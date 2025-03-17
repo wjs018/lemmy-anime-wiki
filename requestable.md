@@ -67,7 +67,7 @@ These shows have had episodes air already, but no thread was created because the
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 148 |
 | Grisaia: Phantom Trigger THE ANIMATION (TV) | Grisaia: Phantom Trigger | https://anilist.co/anime/145740 | Episode 11 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 595 |
-| Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi | Headhunted to Another World: From Salaryman to Big Four! | https://anilist.co/anime/179689 | Episode 11 |
+| Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi | Headhunted to Another World: From Salaryman to Big Four! | https://anilist.co/anime/179689 | Episode 12 |
 | Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 49 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 304 |
 | Honey Lemon Soda | Honey Lemon Soda | https://anilist.co/anime/175443 | Episode 10 |
