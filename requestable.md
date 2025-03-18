@@ -115,6 +115,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sentai Red Isekai de Boukensha ni Naru | The Red Ranger Becomes an Adventurer in Another World | https://anilist.co/anime/180052 | Episode 10 |
 | Yami Shibai 14 | Theatre of Darkness: Yamishibai 14 | https://anilist.co/anime/185088 | Episode 11 |
 | Thunderbolt Fantasy: Touriken Yuuki - Saishuushou | Thunderbolt Fantasy: Touriken Yuuki - Saishuushou | https://anilist.co/anime/176432 | Episode 1 |
+| Tirori Mix (2025) | Tirori Mix (2025) | https://anilist.co/anime/188122 | Episode 1 |
 | Jibaku Shounen Hanako-kun 2 | Toilet-bound Hanako-kun Season 2 | https://anilist.co/anime/170892 | Episode 10 |
 | Tono to Inu | Tono to Inu | https://anilist.co/anime/174390 | Episode 22 |
 | Touhai: Ura Rate Mahjong Touhai Roku | Touhai: Ura Rate Mahjong Touhai Roku | https://anilist.co/anime/173263 | Episode 22 |
@@ -143,6 +144,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Kaijuu 8-gou: Hoshina no Kyuujitsu | Kaijuu 8-gou: Hoshina no Kyuujitsu | https://anilist.co/anime/179999 | March 27 at 15:00 |
 | Luka to Taiyou no Hana | Luka and the Flower of the Sun | https://anilist.co/anime/178126 | March 24 at 16:00 |
 | Oshiri Tantei: Star and Moon | Oshiri Tantei: Star and Moon | https://anilist.co/anime/185643 | March 19 at 15:00 |
-| Tirori Mix (2025) | Tirori Mix (2025) | https://anilist.co/anime/188122 | March 18 at 11:00 |
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | March 26 at 02:00 |
 {.dense}
