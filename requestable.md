@@ -144,4 +144,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Luka to Taiyou no Hana | Luka and the Flower of the Sun | https://anilist.co/anime/178126 | March 24 at 16:00 |
 | Oshiri Tantei: Star and Moon | Oshiri Tantei: Star and Moon | https://anilist.co/anime/185643 | March 19 at 15:00 |
 | Tirori Mix (2025) | Tirori Mix (2025) | https://anilist.co/anime/188122 | March 18 at 11:00 |
+| Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | March 26 at 02:00 |
 {.dense}
