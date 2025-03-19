@@ -366,7 +366,7 @@ Episode|Link
 Episode|Link|Episode|Link
 :-:|:-:|:-:|:-:
 1|[Link](https://ani.social/post/6322668)|14|[Link](https://ani.social/post/10587638)
-2|[Link](https://ani.social/post/6463466)
+2|[Link](https://ani.social/post/6463466)|15|[Link](https://ani.social/post/10912983)
 3|[Link](https://ani.social/post/6610423)
 4|[Link](https://ani.social/post/6760350)
 5|[Link](https://ani.social/post/6905955)
