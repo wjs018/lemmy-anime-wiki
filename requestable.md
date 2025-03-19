@@ -14,7 +14,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
-| Ameku Takao no Suiri Karte | Ameku M.D.: Doctor Detective | https://anilist.co/anime/176642 | [Link](https://ani.social/post/10263026) |
+| Ameku Takao no Suiri Karte | Ameku M.D.: Doctor Detective | https://anilist.co/anime/176642 | [Link](https://ani.social/post/10916244) |
 | BanG Dream! Ave Mujica | Ave Mujica - The Die is Cast - | https://anilist.co/anime/169295 | [Link](https://ani.social/post/10640283) |
 | Akuyaku Reijou Tensei Oji-san | From Bureaucrat to Villainess: Dad's Been Reincarnated! | https://anilist.co/anime/172453 | [Link](https://ani.social/post/10644280) |
 | Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time | https://anilist.co/anime/167143 | [Link](https://ani.social/post/10694483) |
@@ -83,7 +83,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kinnikuman: Kanpeki Choujin Shiso-hen Season 2 | Kinnikuman Perfect Origin Arc Season 2 | https://anilist.co/anime/181886 | Episode 10 |
 | Kono Subarashii Sekai ni Shukufuku wo! 3: BONUS STAGE | Kono Subarashii Sekai ni Shukufuku wo! 3: BONUS STAGE | https://anilist.co/anime/181244 | Episode 2 |
 | Kankin Kuiki Level X 2nd Season | Lockdown Zone: Level X Season 2 | https://anilist.co/anime/182877 | Episode 4 |
-| Magic Maker: Isekai Mahou no Tsukurikata | Magic Maker: How to Make Magic in Another World | https://anilist.co/anime/179297 | Episode 10 |
+| Magic Maker: Isekai Mahou no Tsukurikata | Magic Maker: How to Make Magic in Another World | https://anilist.co/anime/179297 | Episode 11 |
 | Mashin Souzouden Wataru | Mashin Souzouden Wataru | https://anilist.co/anime/173333 | Episode 10 |
 | Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai | Medaka Kuroiwa is Impervious to My Charms | https://anilist.co/anime/177552 | Episode 11 |
 | Momentary Lily | Momentary Lily | https://anilist.co/anime/177159 | Episode 11 |
