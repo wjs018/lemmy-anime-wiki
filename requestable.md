@@ -43,7 +43,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sousei no Aquarion: Myth of Emotions | AQUARION: Myth of Emotions | https://anilist.co/anime/162921 | Episode 11 |
 | Aldnoah.Zero (Re+) | Aldnoah.Zero (Re+) | https://anilist.co/anime/185714 | Episode 1 |
 | Alps no Roujin Heidi no Ojii-san | Alps no Roujin Heidi no Ojii-san | https://anilist.co/anime/185539 | Episode 13 |
-| Douse, Koishite Shimaunda. | Anyway, I'm Falling in Love with You. | https://anilist.co/anime/175409 | Episode 10 |
+| Douse, Koishite Shimaunda. | Anyway, I'm Falling in Love with You. | https://anilist.co/anime/175409 | Episode 11 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 72 |
 | Baban Baban Ban Vampire | Babanba Banban Vampire | https://anilist.co/anime/175422 | Episode 10 |
 | S-Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu | Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster! | https://anilist.co/anime/176158 | Episode 12 |
@@ -120,7 +120,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tono to Inu | Tono to Inu | https://anilist.co/anime/174390 | Episode 23 |
 | Touhai: Ura Rate Mahjong Touhai Roku | Touhai: Ura Rate Mahjong Touhai Roku | https://anilist.co/anime/173263 | Episode 22 |
 | Tousouchuu: Great Mission | Tousouchuu: Great Mission | https://anilist.co/anime/159560 | Episode 95 |
-| Trillion Game | Trillion Game | https://anilist.co/anime/169315 | Episode 23 |
+| Trillion Game | Trillion Game | https://anilist.co/anime/169315 | Episode 24 |
 | Amagami-san Chi no Enmusubi | Tying the Knot with an Amagami Sister | https://anilist.co/anime/164172 | Episode 23 |
 | UniteUp!: Uni:Birth | UniteUp! -Uni:Birth- | https://anilist.co/anime/167742 | Episode 9 |
 | Unnamed Memory Act.2 | Unnamed Memory Season 2 | https://anilist.co/anime/178550 | Episode 11 |
