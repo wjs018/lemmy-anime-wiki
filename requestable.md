@@ -59,7 +59,7 @@ These shows have had episodes air already, but no thread was created because the
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 854 |
 | Doraemon: Nobita no e Sekai Monogatari | Doraemon: Nobita no e Sekai Monogatari | https://anilist.co/anime/182333 | Episode 1 |
 | Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | Episode 33 |
-| Dr. STONE: SCIENCE FUTURE | Dr. STONE SCIENCE FUTURE | https://anilist.co/anime/172019 | Episode 10 |
+| Dr. STONE: SCIENCE FUTURE | Dr. STONE SCIENCE FUTURE | https://anilist.co/anime/172019 | Episode 11 |
 | Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru | Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest | https://anilist.co/anime/178548 | Episode 10 |
 | FARMAGIA | FARMAGIA | https://anilist.co/anime/178312 | Episode 10 |
 | Hana wa Saku, Shura no Gotoku | Flower and Asura | https://anilist.co/anime/178022 | Episode 11 |
@@ -117,7 +117,7 @@ These shows have had episodes air already, but no thread was created because the
 | Thunderbolt Fantasy: Touriken Yuuki - Saishuushou | Thunderbolt Fantasy: Touriken Yuuki - Saishuushou | https://anilist.co/anime/176432 | Episode 1 |
 | Tirori Mix (2025) | Tirori Mix (2025) | https://anilist.co/anime/188122 | Episode 1 |
 | Jibaku Shounen Hanako-kun 2 | Toilet-bound Hanako-kun Season 2 | https://anilist.co/anime/170892 | Episode 10 |
-| Tono to Inu | Tono to Inu | https://anilist.co/anime/174390 | Episode 22 |
+| Tono to Inu | Tono to Inu | https://anilist.co/anime/174390 | Episode 23 |
 | Touhai: Ura Rate Mahjong Touhai Roku | Touhai: Ura Rate Mahjong Touhai Roku | https://anilist.co/anime/173263 | Episode 22 |
 | Tousouchuu: Great Mission | Tousouchuu: Great Mission | https://anilist.co/anime/159560 | Episode 95 |
 | Trillion Game | Trillion Game | https://anilist.co/anime/169315 | Episode 23 |
