@@ -60,7 +60,7 @@ These shows have had episodes air already, but no thread was created because the
 | Doraemon: Nobita no e Sekai Monogatari | Doraemon: Nobita no e Sekai Monogatari | https://anilist.co/anime/182333 | Episode 1 |
 | Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | Episode 33 |
 | Dr. STONE: SCIENCE FUTURE | Dr. STONE SCIENCE FUTURE | https://anilist.co/anime/172019 | Episode 11 |
-| Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru | Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest | https://anilist.co/anime/178548 | Episode 10 |
+| Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru | Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest | https://anilist.co/anime/178548 | Episode 11 |
 | FARMAGIA | FARMAGIA | https://anilist.co/anime/178312 | Episode 10 |
 | Hana wa Saku, Shura no Gotoku | Flower and Asura | https://anilist.co/anime/178022 | Episode 11 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 148 |
@@ -86,7 +86,7 @@ These shows have had episodes air already, but no thread was created because the
 | Magic Maker: Isekai Mahou no Tsukurikata | Magic Maker: How to Make Magic in Another World | https://anilist.co/anime/179297 | Episode 11 |
 | Mashin Souzouden Wataru | Mashin Souzouden Wataru | https://anilist.co/anime/173333 | Episode 10 |
 | Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai | Medaka Kuroiwa is Impervious to My Charms | https://anilist.co/anime/177552 | Episode 11 |
-| Momentary Lily | Momentary Lily | https://anilist.co/anime/177159 | Episode 11 |
+| Momentary Lily | Momentary Lily | https://anilist.co/anime/177159 | Episode 12 |
 | Mononoke: Hinezumi | Mononoke: Hinezumi | https://anilist.co/anime/179852 | Episode 1 |
 | Watashi no Shiawase na Kekkon 2nd Season | My Happy Marriage Season 2 | https://anilist.co/anime/169441 | Episode 11 |
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 23 |
