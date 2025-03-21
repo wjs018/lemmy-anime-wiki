@@ -528,5 +528,6 @@ Episode|Link
 8|[Link](https://ani.social/post/10057881)
 9|[Link](https://ani.social/post/10351428)
 10|[Link](https://ani.social/post/10743314)
+11|[Link](https://ani.social/post/11024657)
 {.dense}
 
