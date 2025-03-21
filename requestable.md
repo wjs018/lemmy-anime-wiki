@@ -130,7 +130,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kimi to Idol Precure♪ | You and Idol Precure ♪ | https://anilist.co/anime/185073 | Episode 6 |
 | Yu☆Gi☆Oh! Go Rush!! | Yu☆Gi☆Oh! Go Rush!! | https://anilist.co/anime/142842 | Episode 149 |
 | minini Animation Series | minini Animation Series | https://anilist.co/anime/186752 | Episode 11 |
-| minute! kaiju no. 8 | minute! kaiju no. 8 | https://anilist.co/anime/186300 | Episode 15 |
+| minute! kaiju no. 8 | minute! kaiju no. 8 | https://anilist.co/anime/186300 | Episode 16 |
 {.dense}
 
 ## Upcoming Shows
