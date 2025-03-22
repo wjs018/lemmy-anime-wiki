@@ -387,6 +387,7 @@ Episode|Link
 7|[Link](https://ani.social/post/9503143)
 8|[Link](https://ani.social/post/9820217)
 11|[Link](https://ani.social/post/10761400)
+12|[Link](https://ani.social/post/11088584)
 {.dense}
 
 ## Ore dake Level Up na Ken: Season 2 - Arise from the Shadow • Solo Leveling Season 2 -Arise from the Shadow-
@@ -404,6 +405,7 @@ Episode|Link
 9|[Link](https://ani.social/post/10097352)
 10|[Link](https://ani.social/post/10395734)
 11|[Link](https://ani.social/post/10740586)
+12|[Link](https://ani.social/post/11088581)
 {.dense}
 
 ## S-Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu • Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster!
