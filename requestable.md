@@ -115,7 +115,6 @@ These shows have had episodes air already, but no thread was created because the
 | Tasokare Hotel | Tasokare Hotel | https://anilist.co/anime/178495 | Episode 12 |
 | Sentai Red Isekai de Boukensha ni Naru | The Red Ranger Becomes an Adventurer in Another World | https://anilist.co/anime/180052 | Episode 10 |
 | Yami Shibai 14 | Theatre of Darkness: Yamishibai 14 | https://anilist.co/anime/185088 | Episode 11 |
-| Thunderbolt Fantasy: Touriken Yuuki - Saishuushou | Thunderbolt Fantasy: Touriken Yuuki - Saishuushou | https://anilist.co/anime/176432 | Episode 1 |
 | Tirori Mix (2025) | Tirori Mix (2025) | https://anilist.co/anime/188122 | Episode 1 |
 | Jibaku Shounen Hanako-kun 2 | Toilet-bound Hanako-kun Season 2 | https://anilist.co/anime/170892 | Episode 10 |
 | Tono to Inu | Tono to Inu | https://anilist.co/anime/174390 | Episode 23 |
@@ -140,6 +139,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Aldnoah.Zero: Ame no Danshou - The Penultimate Truth | Aldnoah.Zero: Ame no Danshou - The Penultimate Truth | https://anilist.co/anime/181440 | March 25 at 15:00 |
+| Ballpark de Tsukamaete! | Catch Me at the Ballpark! | https://anilist.co/anime/184279 | April 01 at 15:00 |
 | Kaijuu 8-gou Movie | Kaiju No. 8: Mission Recon | https://anilist.co/anime/179998 | March 27 at 15:00 |
 | Kaijuu 8-gou: Hoshina no Kyuujitsu | Kaijuu 8-gou: Hoshina no Kyuujitsu | https://anilist.co/anime/179999 | March 27 at 15:00 |
 | Koisuru ONE PIECE | Koisuru ONE PIECE | https://anilist.co/anime/188668 | March 31 at 15:00 |
