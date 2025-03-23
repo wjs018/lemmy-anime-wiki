@@ -147,4 +147,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Haite Kudasai, Takamine-san | Please Put Them On, Takamine-san | https://anilist.co/anime/179965 | April 02 at 13:30 |
 | Kijin Gentoushou | Sword of the Demon Hunter: Kijin Gentosho | https://anilist.co/anime/143598 | March 31 at 12:30 |
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | March 26 at 02:00 |
+| Your Forma | Your Forma | https://anilist.co/anime/167142 | April 02 at 14:45 |
 {.dense}
