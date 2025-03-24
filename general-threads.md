@@ -2,13 +2,31 @@
 title: General Discussion Threads Index
 description: A collection of all the general discussion threads from the community.
 published: true
-date: 2025-03-24T15:04:25.006Z
+date: 2025-03-24T15:05:21.104Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-04T16:32:54.623Z
 ---
 
 Please use the links below to browse the weekly general discussion threads. When a thread has a given theme, I have tried to mark it as such.
+
+## 2025
+
+| Week | Link | Notes |
+|:-:|:-:|---|
+| 1 | [Link](https://ani.social/post/8261757) |  |
+| 2 | [Link](https://ani.social/post/8445062) |  |
+| 3 | [Link](https://ani.social/post/8637382) |  |
+| 4 | [Link](https://ani.social/post/8817816) |  |
+| 5 | [Link](https://ani.social/post/9001319) |  |
+| 6 | [Link](https://ani.social/post/9165851) |  |
+| 7 | [Link](https://ani.social/post/9354786) |  |
+| 8 | [Link](https://ani.social/post/9555557) |  |
+| 9 | [Link](https://ani.social/post/9879233) |  |
+| 10 | [Link](https://ani.social/post/10158695) |  |
+| 11 | [Link](https://ani.social/post/10467986) |  |
+| 12 | [Link](https://ani.social/post/10809183) |  |
+| 13 | [Link](https://ani.social/post/11182624) |  |
 
 ## 2024
 
