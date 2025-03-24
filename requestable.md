@@ -82,9 +82,10 @@ These shows have had episodes air already, but no thread was created because the
 | Kinnikuman: Kanpeki Choujin Shiso-hen Season 2 | Kinnikuman Perfect Origin Arc Season 2 | https://anilist.co/anime/181886 | Episode 10 |
 | Kono Subarashii Sekai ni Shukufuku wo! 3: BONUS STAGE | Kono Subarashii Sekai ni Shukufuku wo! 3: BONUS STAGE | https://anilist.co/anime/181244 | Episode 2 |
 | Kankin Kuiki Level X 2nd Season | Lockdown Zone: Level X Season 2 | https://anilist.co/anime/182877 | Episode 5 |
+| Luka to Taiyou no Hana | Luka and the Flower of the Sun | https://anilist.co/anime/178126 | Episode 2 |
 | Mashin Souzouden Wataru | MACHINE GENESIS WATARU | https://anilist.co/anime/173333 | Episode 11 |
 | Magic Maker: Isekai Mahou no Tsukurikata | Magic Maker: How to Make Magic in Another World | https://anilist.co/anime/179297 | Episode 11 |
-| Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai | Medaka Kuroiwa is Impervious to My Charms | https://anilist.co/anime/177552 | Episode 11 |
+| Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai | Medaka Kuroiwa is Impervious to My Charms | https://anilist.co/anime/177552 | Episode 12 |
 | Momentary Lily | Momentary Lily | https://anilist.co/anime/177159 | Episode 12 |
 | Mononoke: Hinezumi | Mononoke: Hinezumi | https://anilist.co/anime/179852 | Episode 1 |
 | Watashi no Shiawase na Kekkon 2nd Season | My Happy Marriage Season 2 | https://anilist.co/anime/169441 | Episode 11 |
@@ -138,11 +139,11 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Aldnoah.Zero: Ame no Danshou - The Penultimate Truth | Aldnoah.Zero: Ame no Danshou - The Penultimate Truth | https://anilist.co/anime/181440 | March 25 at 15:00 |
+| Araiguma Calcal-dan | Araiguma Calcal-dan | https://anilist.co/anime/186522 | April 03 at 16:54 |
 | Ballpark de Tsukamaete! | Catch Me at the Ballpark! | https://anilist.co/anime/184279 | April 01 at 15:00 |
 | Kaijuu 8-gou Movie | Kaiju No. 8: Mission Recon | https://anilist.co/anime/179998 | March 27 at 15:00 |
 | Kaijuu 8-gou: Hoshina no Kyuujitsu | Kaijuu 8-gou: Hoshina no Kyuujitsu | https://anilist.co/anime/179999 | March 27 at 15:00 |
 | Koisuru ONE PIECE | Koisuru ONE PIECE | https://anilist.co/anime/188668 | March 31 at 15:00 |
-| Luka to Taiyou no Hana | Luka and the Flower of the Sun | https://anilist.co/anime/178126 | March 24 at 16:00 |
 | MIRU: Watashi no Mirai | MIRU: Watashi no Mirai | https://anilist.co/anime/166373 | April 02 at 17:30 |
 | Aru Majo ga Shinu Made | Once Upon a Witch's Death | https://anilist.co/anime/178701 | April 01 at 14:30 |
 | PetitCure: Precure Fairies | PetitCure: Precure Fairies | https://anilist.co/anime/188394 | April 03 at 09:30 |
