@@ -2,7 +2,7 @@
 title: General Discussion Threads Index
 description: A collection of all the general discussion threads from the community.
 published: true
-date: 2025-03-24T15:05:21.104Z
+date: 2025-03-24T15:06:49.300Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-04T16:32:54.623Z
@@ -14,19 +14,20 @@ Please use the links below to browse the weekly general discussion threads. When
 
 | Week | Link | Notes |
 |:-:|:-:|---|
-| 1 | [Link](https://ani.social/post/8261757) |  |
+| 1 | [Link](https://ani.social/post/8261757) | Winter Season Kickoff |
 | 2 | [Link](https://ani.social/post/8445062) |  |
 | 3 | [Link](https://ani.social/post/8637382) |  |
 | 4 | [Link](https://ani.social/post/8817816) |  |
 | 5 | [Link](https://ani.social/post/9001319) |  |
-| 6 | [Link](https://ani.social/post/9165851) |  |
+| 6 | [Link](https://ani.social/post/9165851) | Favorite OPs and EDs of Winter Season |
 | 7 | [Link](https://ani.social/post/9354786) |  |
 | 8 | [Link](https://ani.social/post/9555557) |  |
 | 9 | [Link](https://ani.social/post/9879233) |  |
 | 10 | [Link](https://ani.social/post/10158695) |  |
 | 11 | [Link](https://ani.social/post/10467986) |  |
 | 12 | [Link](https://ani.social/post/10809183) |  |
-| 13 | [Link](https://ani.social/post/11182624) |  |
+| 13 | [Link](https://ani.social/post/11182624) | Spring Season Preview |
+{.dense}
 
 ## 2024
 
