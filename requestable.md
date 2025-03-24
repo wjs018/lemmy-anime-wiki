@@ -145,6 +145,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Luka to Taiyou no Hana | Luka and the Flower of the Sun | https://anilist.co/anime/178126 | March 24 at 16:00 |
 | MIRU: Watashi no Mirai | MIRU: Watashi no Mirai | https://anilist.co/anime/166373 | April 02 at 17:30 |
 | Aru Majo ga Shinu Made | Once Upon a Witch's Death | https://anilist.co/anime/178701 | April 01 at 14:30 |
+| PetitCure: Precure Fairies | PetitCure: Precure Fairies | https://anilist.co/anime/188394 | April 03 at 09:30 |
 | Haite Kudasai, Takamine-san | Please Put Them On, Takamine-san | https://anilist.co/anime/179965 | April 02 at 13:30 |
 | Kijin Gentoushou | Sword of the Demon Hunter: Kijin Gentosho | https://anilist.co/anime/143598 | March 31 at 12:30 |
 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? | The Beginning After the End | https://anilist.co/anime/183161 | April 02 at 15:46 |
