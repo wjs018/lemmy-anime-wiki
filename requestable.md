@@ -152,4 +152,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | March 26 at 02:00 |
 | WIND BREAKER Season 2 | WIND BREAKER Season 2 | https://anilist.co/anime/178680 | April 02 at 15:26 |
 | Your Forma | Your Forma | https://anilist.co/anime/167142 | April 02 at 14:45 |
+| cocoon: Aru Natsu no Shoujo-tachi Yori | cocoon: Aru Natsu no Shoujo-tachi Yori | https://anilist.co/anime/166527 | March 29 at 16:30 |
 {.dense}
