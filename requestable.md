@@ -54,7 +54,7 @@ These shows have had episodes air already, but no thread was created because the
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1158 |
 | Chao Neng Lifang | Chao Neng Lifang | https://anilist.co/anime/166442 | Episode 1 |
 | Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 51 |
-| Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 254 |
+| Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 255 |
 | Dokodemo Makibao | Dokodemo Makibao | https://anilist.co/anime/185538 | Episode 27 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 855 |
 | Doraemon: Nobita no e Sekai Monogatari | Doraemon: Nobita no e Sekai Monogatari | https://anilist.co/anime/182333 | Episode 1 |
