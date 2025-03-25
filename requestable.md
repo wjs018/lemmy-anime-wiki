@@ -107,7 +107,7 @@ These shows have had episodes air already, but no thread was created because the
 | Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran | Rurouni Kenshin -Kyoto Disturbance- | https://anilist.co/anime/171637 | Episode 23 |
 | SAKAMOTO DAYS | SAKAMOTO DAYS | https://anilist.co/anime/177709 | Episode 11 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2779 |
-| Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 22 |
+| Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 23 |
 | Shimajirou: Shimajirou to Yuuki no Uta | Shimajirou: Shimajirou to Yuuki no Uta | https://anilist.co/anime/183412 | Episode 1 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1277 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 101 |
