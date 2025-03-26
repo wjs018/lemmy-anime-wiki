@@ -111,7 +111,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 23 |
 | Shimajirou: Shimajirou to Yuuki no Uta | Shimajirou: Shimajirou to Yuuki no Uta | https://anilist.co/anime/183412 | Episode 1 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1277 |
-| Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 101 |
+| Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 102 |
 | Sorairo Utility (TV) | Sorairo Utility (TV) | https://anilist.co/anime/174596 | Episode 12 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1690 |
 | Tasokare Hotel | Tasokare Hotel | https://anilist.co/anime/178495 | Episode 12 |
@@ -122,6 +122,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tono to Inu | Tono to Inu | https://anilist.co/anime/174390 | Episode 23 |
 | Touhai: Ura Rate Mahjong Touhai Roku | Touhai: Ura Rate Mahjong Touhai Roku | https://anilist.co/anime/173263 | Episode 23 |
 | Tousouchuu: Great Mission | Tousouchuu: Great Mission | https://anilist.co/anime/159560 | Episode 96 |
+| Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 1 |
 | Trillion Game | Trillion Game | https://anilist.co/anime/169315 | Episode 24 |
 | Amagami-san Chi no Enmusubi | Tying the Knot with an Amagami Sister | https://anilist.co/anime/164172 | Episode 24 |
 | UniteUp!: Uni:Birth | UniteUp! -Uni:Birth- | https://anilist.co/anime/167742 | Episode 9 |
@@ -164,7 +165,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Kijin Gentoushou | Sword of the Demon Hunter: Kijin Gentosho | https://anilist.co/anime/143598 | March 31 at 12:30 |
 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? | The Beginning After the End | https://anilist.co/anime/183161 | April 02 at 15:46 |
 | Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru | The Brilliant Healer's New Life in the Shadows | https://anilist.co/anime/175872 | April 03 at 14:30 |
-| Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | March 26 at 02:00 |
 | WIND BREAKER Season 2 | WIND BREAKER Season 2 | https://anilist.co/anime/178680 | April 02 at 15:26 |
 | Your Forma | Your Forma | https://anilist.co/anime/167142 | April 02 at 14:45 |
 | cocoon: Aru Natsu no Shoujo-tachi Yori | cocoon: Aru Natsu no Shoujo-tachi Yori | https://anilist.co/anime/166527 | March 29 at 16:30 |
