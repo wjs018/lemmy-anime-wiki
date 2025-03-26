@@ -17,11 +17,14 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Aharen-san wa Hakarenai Season 2 | Aharen-san wa Hakarenai Season 2 | https://anilist.co/anime/179979 |  |
 | Ameku Takao no Suiri Karte | Ameku M.D.: Doctor Detective | https://anilist.co/anime/176642 | [Link](https://ani.social/post/10916244) |
 | Anne Shirley | Anne Shirley | https://anilist.co/anime/184639 |  |
+| Apocalypse Hotel | Apocalypse Hotel | https://anilist.co/anime/180675 |  |
 | BanG Dream! Ave Mujica | Ave Mujica - The Die is Cast - | https://anilist.co/anime/169295 | [Link](https://ani.social/post/10954858) |
 | Kuroshitsuji: Midori no Majo-hen | Black Butler: Emerald Witch Arc | https://anilist.co/anime/179054 |  |
+| Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara. | Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara. | https://anilist.co/anime/182419 |  |
 | Enen no Shouboutai: San no Shou | Fire Force Season 3 | https://anilist.co/anime/149118 |  |
 | Hibi wa Sugiredo Meshi Umashi | Food for the Soul | https://anilist.co/anime/185939 |  |
 | Akuyaku Reijou Tensei Oji-san | From Bureaucrat to Villainess: Dad's Been Reincarnated! | https://anilist.co/anime/172453 | [Link](https://ani.social/post/10957651) |
+| Katainaka no Ossan, Kensei ni Naru | From Old Country Bumpkin to Master Swordsman | https://anilist.co/anime/179955 |  |
 | Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time | https://anilist.co/anime/167143 | [Link](https://ani.social/post/11023450) |
 | Kowloon Generic Romance | Kowloon Generic Romance | https://anilist.co/anime/182814 |  |
 | Lazarus | Lazarus | https://anilist.co/anime/167336 |  |
@@ -30,6 +33,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Nazotoki wa Dinner no Ato de | Nazotoki wa Dinner no Ato de | https://anilist.co/anime/184989 |  |
 | Aru Majo ga Shinu Made | Once Upon a Witch's Death | https://anilist.co/anime/178701 |  |
 | Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season | Re:ZERO -Starting Life in Another World- Season 3 | https://anilist.co/anime/163134 | [Link](https://ani.social/post/10912983) |
+| Rock wa Lady no Tashinami Deshite | Rock is a Lady’s Modesty | https://anilist.co/anime/179694 |  |
 | Shoushimin Series 2nd Season | SHOSHIMIN: How to become Ordinary Season 2 | https://anilist.co/anime/181182 |  |
 | Shangri-La Frontier 2nd Season | Shangri-La Frontier Season 2 | https://anilist.co/anime/176508 | [Link](https://ani.social/post/11136771) |
 | Ore dake Level Up na Ken: Season 2 - Arise from the Shadow | Solo Leveling Season 2 -Arise from the Shadow- | https://anilist.co/anime/176496 | [Link](https://ani.social/post/11088581) |
@@ -39,12 +43,15 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kusuriya no Hitorigoto 2nd Season | The Apothecary Diaries Season 2 | https://anilist.co/anime/176301 | [Link](https://ani.social/post/11020328) |
 | Arafou Otoko no Isekai Tsuuhan Seikatsu | The Daily Life of a Middle-Aged Online Shopper in Another World | https://anilist.co/anime/180292 | [Link](https://ani.social/post/10950595) |
 | Shiunji-ke no Kodomotachi | The Shiunji Family Children | https://anilist.co/anime/174802 |  |
+| Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru | The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom | https://anilist.co/anime/183275 |  |
 | WIND BREAKER Season 2 | WIND BREAKER Season 2 | https://anilist.co/anime/178680 |  |
 | Nihon e Youkoso Elf-san. | Welcome to Japan, Ms. Elf! | https://anilist.co/anime/172439 | [Link](https://ani.social/post/11017053) |
 | Witch Watch | Witch Watch | https://anilist.co/anime/180367 |  |
 | Shin Samurai-den YAIBA | YAIBA: Samurai Legend | https://anilist.co/anime/177476 |  |
 | Kimi to Idol Precure♪ | You and Idol Precure ♪ | https://anilist.co/anime/185073 | [Link](https://ani.social/post/11212585) |
 | Zenshuu. | ZENSHU | https://anilist.co/anime/176273 | [Link](https://ani.social/post/11156717) |
+| Zatsu Tabi: That's Journey | ZatsuTabi -That's Journey- | https://anilist.co/anime/165445 |  |
+| mono | mono | https://anilist.co/anime/176246 |  |
 | Übel Blatt | Übel Blatt | https://anilist.co/anime/175198 | [Link](https://ani.social/post/11024657) |
 {.dense}
 
@@ -171,7 +178,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Oshiri Tantei 9 | Oshiri Tantei 9 | https://anilist.co/anime/185645 | April 05 at 01:00 |
 | PetitCure: Precure Fairies | PetitCure: Precure Fairies | https://anilist.co/anime/188394 | April 03 at 09:30 |
 | Haite Kudasai, Takamine-san | Please Put Them On, Takamine-san | https://anilist.co/anime/179965 | April 02 at 13:30 |
-| Rock wa Lady no Tashinami Deshite | Rock is a Lady’s Modesty | https://anilist.co/anime/179694 | April 03 at 14:56 |
 | SHIBUYA♡HACHI 2nd Season | SHIBUYA♡HACHI 2nd Season | https://anilist.co/anime/185715 | April 04 at 22:00 |
 | Sumikko Gurashi: Koko ga Ochitsukun Desu | Sumikko Gurashi: Koko ga Ochitsukun Desu | https://anilist.co/anime/188884 | April 03 at 23:30 |
 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? | The Beginning After the End | https://anilist.co/anime/183161 | April 02 at 15:46 |
