@@ -26,8 +26,11 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Akuyaku Reijou Tensei Oji-san | From Bureaucrat to Villainess: Dad's Been Reincarnated! | https://anilist.co/anime/172453 | [Link](https://ani.social/post/10957651) |
 | Katainaka no Ossan, Kensei ni Naru | From Old Country Bumpkin to Master Swordsman | https://anilist.co/anime/179955 |  |
 | Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time | https://anilist.co/anime/167143 | [Link](https://ani.social/post/11023450) |
+| Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita: Sono ni | I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2 | https://anilist.co/anime/143337 |  |
+| Kono Subarashii Sekai ni Shukufuku wo! 3: BONUS STAGE | KONOSUBA -God's Blessing on This Wonderful World! 3 -BONUS STAGE- | https://anilist.co/anime/181244 |  |
 | Kowloon Generic Romance | Kowloon Generic Romance | https://anilist.co/anime/182814 |  |
 | Lazarus | Lazarus | https://anilist.co/anime/167336 |  |
+| Lycoris Recoil: Friends are thieves of time. | Lycoris Recoil: Friends are thieves of time. | https://anilist.co/anime/179706 |  |
 | Medalist | Medalist | https://anilist.co/anime/165171 | [Link](https://ani.social/post/11093008) |
 | Kidou Senshi Gundam GQuuuuuuX | Mobile Suit Gundam GQuuuuuuX | https://anilist.co/anime/185213 |  |
 | Nazotoki wa Dinner no Ato de | Nazotoki wa Dinner no Ato de | https://anilist.co/anime/184989 |  |
@@ -106,7 +109,6 @@ These shows have had episodes air already, but no thread was created because the
 | Kagaku×Bouken Survival! | Kagaku×Bouken Survival! | https://anilist.co/anime/174913 | Episode 21 |
 | Kairyuu to Yuubinya-san | Kairyuu to Yuubinya-san | https://anilist.co/anime/186559 | Episode 1 |
 | Kinnikuman: Kanpeki Choujin Shiso-hen Season 2 | Kinnikuman Perfect Origin Arc Season 2 | https://anilist.co/anime/181886 | Episode 10 |
-| Kono Subarashii Sekai ni Shukufuku wo! 3: BONUS STAGE | Kono Subarashii Sekai ni Shukufuku wo! 3: BONUS STAGE | https://anilist.co/anime/181244 | Episode 2 |
 | Kankin Kuiki Level X 2nd Season | Lockdown Zone: Level X Season 2 | https://anilist.co/anime/182877 | Episode 5 |
 | Luka to Taiyou no Hana | Luka and the Flower of the Sun | https://anilist.co/anime/178126 | Episode 2 |
 | Mashin Souzouden Wataru | MACHINE GENESIS WATARU | https://anilist.co/anime/173333 | Episode 11 |
