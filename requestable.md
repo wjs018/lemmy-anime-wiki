@@ -94,12 +94,12 @@ These shows have had episodes air already, but no thread was created because the
 | FARMAGIA | FARMAGIA | https://anilist.co/anime/178312 | Episode 11 |
 | Hana wa Saku, Shura no Gotoku | Flower and Asura | https://anilist.co/anime/178022 | Episode 12 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 149 |
-| Grisaia: Phantom Trigger THE ANIMATION (TV) | Grisaia: Phantom Trigger | https://anilist.co/anime/145740 | Episode 12 |
+| Grisaia: Phantom Trigger THE ANIMATION (TV) | Grisaia: Phantom Trigger | https://anilist.co/anime/145740 | Episode 13 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 596 |
 | Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi | Headhunted to Another World: From Salaryman to Big Four! | https://anilist.co/anime/179689 | Episode 12 |
 | Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 50 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 305 |
-| Honey Lemon Soda | Honey Lemon Soda | https://anilist.co/anime/175443 | Episode 11 |
+| Honey Lemon Soda | Honey Lemon Soda | https://anilist.co/anime/175443 | Episode 12 |
 | Kono Kaisha ni Suki na Hito ga Imasu | I Have a Crush at Work | https://anilist.co/anime/179696 | Episode 12 |
 | A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu. | I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! | https://anilist.co/anime/180812 | Episode 10 |
 | Kisaki Kyouiku kara Nigetai Watashi | I Want to Escape from Princess Lessons | https://anilist.co/anime/170650 | Episode 12 |
