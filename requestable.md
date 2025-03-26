@@ -175,6 +175,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Ballpark de Tsukamaete! | Catch Me at the Ballpark! | https://anilist.co/anime/184279 | April 01 at 15:00 |
 | Everyday Host | Everyday Host | https://anilist.co/anime/185584 | April 04 at 16:13 |
 | GUILTY GEAR STRIVE: DUAL RULERS | GUILTY GEAR STRIVE: DUAL RULERS | https://anilist.co/anime/178046 | April 05 at 13:30 |
+| Go! Go! Vehicle Zoo: Norimono Star-hen | Go! Go! Vehicle Zoo: Norimono Star-hen | https://anilist.co/anime/188661 | April 05 at 23:30 |
 | Kaijuu 8-gou Movie | Kaiju No. 8: Mission Recon | https://anilist.co/anime/179998 | March 27 at 15:00 |
 | Kaijuu 8-gou: Hoshina no Kyuujitsu | Kaijuu 8-gou: Hoshina no Kyuujitsu | https://anilist.co/anime/179999 | March 27 at 15:00 |
 | Koisuru ONE PIECE | Koisuru ONE PIECE | https://anilist.co/anime/188668 | March 31 at 15:00 |
