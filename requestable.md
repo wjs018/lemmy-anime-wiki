@@ -173,11 +173,13 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!) | Can a Boy-Girl Friendship Survive? | https://anilist.co/anime/153554 | April 04 at 13:30 |
 | Ballpark de Tsukamaete! | Catch Me at the Ballpark! | https://anilist.co/anime/184279 | April 01 at 15:00 |
 | Everyday Host | Everyday Host | https://anilist.co/anime/185584 | April 04 at 16:13 |
+| GUILTY GEAR STRIVE: DUAL RULERS | GUILTY GEAR STRIVE: DUAL RULERS | https://anilist.co/anime/178046 | April 05 at 13:30 |
 | Kaijuu 8-gou Movie | Kaiju No. 8: Mission Recon | https://anilist.co/anime/179998 | March 27 at 15:00 |
 | Kaijuu 8-gou: Hoshina no Kyuujitsu | Kaijuu 8-gou: Hoshina no Kyuujitsu | https://anilist.co/anime/179999 | March 27 at 15:00 |
 | Koisuru ONE PIECE | Koisuru ONE PIECE | https://anilist.co/anime/188668 | March 31 at 15:00 |
 | MIRU: Watashi no Mirai | MIRU: Watashi no Mirai | https://anilist.co/anime/166373 | April 02 at 17:30 |
 | MUZIK TIGER In the Forest | MUZIK TIGER In the Forest | https://anilist.co/anime/177633 | April 02 at 11:59 |
+| Masuda Kousuke Gekijou Gag Manga Biyori GO | Masuda Kousuke Gekijou Gag Manga Biyori GO | https://anilist.co/anime/185259 | April 05 at 13:30 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | April 03 at 16:58 |
 | Oideyo Mahou Shoujo-mura (Fuhou Senkyo) | Oideyo Mahou Shoujo-mura (Fuhou Senkyo) | https://anilist.co/anime/187998 | April 03 at 19:16 |
 | Oshiri Tantei 9 | Oshiri Tantei 9 | https://anilist.co/anime/185645 | April 05 at 01:00 |
