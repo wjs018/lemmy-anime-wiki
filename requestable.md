@@ -72,7 +72,7 @@ These shows have had episodes air already, but no thread was created because the
 | Aldnoah.Zero (Re+) | Aldnoah.Zero (Re+) | https://anilist.co/anime/185714 | Episode 1 |
 | Aldnoah.Zero: Ame no Danshou - The Penultimate Truth | Aldnoah.Zero: Ame no Danshou - The Penultimate Truth | https://anilist.co/anime/181440 | Episode 1 |
 | Alps no Roujin Heidi no Ojii-san | Alps no Roujin Heidi no Ojii-san | https://anilist.co/anime/185539 | Episode 14 |
-| Douse, Koishite Shimaunda. | Anyway, I'm Falling in Love with You. | https://anilist.co/anime/175409 | Episode 11 |
+| Douse, Koishite Shimaunda. | Anyway, I'm Falling in Love with You. | https://anilist.co/anime/175409 | Episode 12 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 73 |
 | Baban Baban Ban Vampire | Babanba Banban Vampire | https://anilist.co/anime/175422 | Episode 11 |
 | S-Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu | Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster! | https://anilist.co/anime/176158 | Episode 12 |
@@ -153,7 +153,7 @@ These shows have had episodes air already, but no thread was created because the
 | Touhai: Ura Rate Mahjong Touhai Roku | Touhai: Ura Rate Mahjong Touhai Roku | https://anilist.co/anime/173263 | Episode 23 |
 | Tousouchuu: Great Mission | Tousouchuu: Great Mission | https://anilist.co/anime/159560 | Episode 96 |
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 1 |
-| Trillion Game | Trillion Game | https://anilist.co/anime/169315 | Episode 24 |
+| Trillion Game | Trillion Game | https://anilist.co/anime/169315 | Episode 25 |
 | Amagami-san Chi no Enmusubi | Tying the Knot with an Amagami Sister | https://anilist.co/anime/164172 | Episode 24 |
 | UniteUp!: Uni:Birth | UniteUp! -Uni:Birth- | https://anilist.co/anime/167742 | Episode 9 |
 | Unnamed Memory Act.2 | Unnamed Memory Season 2 | https://anilist.co/anime/178550 | Episode 12 |
