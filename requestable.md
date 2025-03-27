@@ -201,6 +201,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi | The Unaware Atelier Meister | https://anilist.co/anime/183133 | April 06 at 13:00 |
 | Tu Bian Yingxiong X | To Be Hero X | https://anilist.co/anime/156092 | April 06 at 00:30 |
 | Uma Musume: Cinderella Gray | Uma Musume: Cinderella Gray | https://anilist.co/anime/180516 | April 06 at 07:30 |
+| Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita | Yandere Dark Elf: She Chased Me All the Way From Another World! | https://anilist.co/anime/180829 | April 06 at 17:06 |
 | Your Forma | Your Forma | https://anilist.co/anime/167142 | April 02 at 14:45 |
 | cocoon: Aru Natsu no Shoujo-tachi Yori | cocoon: Aru Natsu no Shoujo-tachi Yori | https://anilist.co/anime/166527 | March 29 at 16:30 |
 {.dense}
