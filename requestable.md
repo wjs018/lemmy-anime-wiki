@@ -46,7 +46,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kijin Gentoushou | Sword of the Demon Hunter: Kijin Gentosho | https://anilist.co/anime/143598 |  |
 | Teogonia | Teogonia | https://anilist.co/anime/176702 |  |
 | Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 2nd Season | The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2 | https://anilist.co/anime/172258 | [Link](https://ani.social/post/11151727) |
-| Kusuriya no Hitorigoto 2nd Season | The Apothecary Diaries Season 2 | https://anilist.co/anime/176301 | [Link](https://ani.social/post/11020328) |
+| Kusuriya no Hitorigoto 2nd Season | The Apothecary Diaries Season 2 | https://anilist.co/anime/176301 | [Link](https://ani.social/post/11372069) |
 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? | The Beginning After the End | https://anilist.co/anime/183161 |  |
 | Arafou Otoko no Isekai Tsuuhan Seikatsu | The Daily Life of a Middle-Aged Online Shopper in Another World | https://anilist.co/anime/180292 | [Link](https://ani.social/post/11325253) |
 | Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru | The Gorilla God’s Go-To Girl | https://anilist.co/anime/182060 |  |
@@ -173,6 +173,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
+| #Compass 2.0－Sentou Setsuri Kaiseki System | #COMPASS2.0 ANIMATION PROJECT | https://anilist.co/anime/158287 | April 07 at 15:00 |
 | Araiguma Calcal-dan | Araiguma Calcal-dan | https://anilist.co/anime/186522 | April 03 at 16:54 |
 | Bye Bye, Earth Season 2 | Bye Bye, Earth Season 2 | https://anilist.co/anime/181078 | April 04 at 14:30 |
 | CLASSIC★STARS | CLASSIC★STARS | https://anilist.co/anime/178825 | April 05 at 16:00 |
