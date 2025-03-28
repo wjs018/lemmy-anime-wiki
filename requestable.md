@@ -164,7 +164,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yao Shen Ji 8 | Yao Shen Ji 8 | https://anilist.co/anime/178351 | Episode 48 |
 | Yu☆Gi☆Oh! Go Rush!! | Yu☆Gi☆Oh! Go Rush!! | https://anilist.co/anime/142842 | Episode 150 |
 | minini Animation Series | minini Animation Series | https://anilist.co/anime/186752 | Episode 12 |
-| minute! kaiju no. 8 | minute! kaiju no. 8 | https://anilist.co/anime/186300 | Episode 16 |
+| minute! kaiju no. 8 | minute! kaiju no. 8 | https://anilist.co/anime/186300 | Episode 17 |
 {.dense}
 
 ## Upcoming Shows
