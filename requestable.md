@@ -53,7 +53,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Shiunji-ke no Kodomotachi | The Shiunji Family Children | https://anilist.co/anime/174802 |  |
 | Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru | The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom | https://anilist.co/anime/183275 |  |
 | WIND BREAKER Season 2 | WIND BREAKER Season 2 | https://anilist.co/anime/178680 |  |
-| Nihon e Youkoso Elf-san. | Welcome to Japan, Ms. Elf! | https://anilist.co/anime/172439 | [Link](https://ani.social/post/11017053) |
+| Nihon e Youkoso Elf-san. | Welcome to Japan, Ms. Elf! | https://anilist.co/anime/172439 | [Link](https://ani.social/post/11370195) |
 | Witch Watch | Witch Watch | https://anilist.co/anime/180367 |  |
 | Shin Samurai-den YAIBA | YAIBA: Samurai Legend | https://anilist.co/anime/177476 |  |
 | Kimi to Idol Precure♪ | You and Idol Precure ♪ | https://anilist.co/anime/185073 | [Link](https://ani.social/post/11212585) |
@@ -188,6 +188,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Maebashi Witches | Maebashi Witches | https://anilist.co/anime/180825 | April 06 at 13:30 |
 | Kakushite! Makina-san!! | Makina-san's a Love Bot?! | https://anilist.co/anime/177509 | April 06 at 16:20 |
 | Masuda Kousuke Gekijou Gag Manga Biyori GO | Masuda Kousuke Gekijou Gag Manga Biyori GO | https://anilist.co/anime/185259 | April 05 at 13:30 |
+| Vigilante: Boku no Hero Academia ILLEGALS | My Hero Academia: Vigilantes | https://anilist.co/anime/185736 | April 07 at 14:00 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | April 03 at 16:58 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | April 06 at 15:16 |
 | Oideyo Mahou Shoujo-mura (Fuhou Senkyo) | Oideyo Mahou Shoujo-mura (Fuhou Senkyo) | https://anilist.co/anime/187998 | April 03 at 19:16 |
