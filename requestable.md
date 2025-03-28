@@ -163,6 +163,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yu☆Gi☆Oh! Go Rush!! | Yu☆Gi☆Oh! Go Rush!! | https://anilist.co/anime/142842 | Episode 150 |
 | minini Animation Series | minini Animation Series | https://anilist.co/anime/186752 | Episode 12 |
 | minute! kaiju no. 8 | minute! kaiju no. 8 | https://anilist.co/anime/186300 | Episode 17 |
+| Übel Blatt | Übel Blatt | https://anilist.co/anime/175198 | Episode 12 |
 {.dense}
 
 ## Upcoming Shows
@@ -207,5 +208,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita | Yandere Dark Elf: She Chased Me All the Way From Another World! | https://anilist.co/anime/180829 | April 06 at 17:06 |
 | Your Forma | Your Forma | https://anilist.co/anime/167142 | April 02 at 14:45 |
 | cocoon: Aru Natsu no Shoujo-tachi Yori | cocoon: Aru Natsu no Shoujo-tachi Yori | https://anilist.co/anime/166527 | March 29 at 16:30 |
-| Übel Blatt | Übel Blatt | https://anilist.co/anime/175198 | March 28 at 16:30 |
 {.dense}
