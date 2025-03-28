@@ -26,7 +26,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Hibi wa Sugiredo Meshi Umashi | Food for the Soul | https://anilist.co/anime/185939 |  |
 | Akuyaku Reijou Tensei Oji-san | From Bureaucrat to Villainess: Dad's Been Reincarnated! | https://anilist.co/anime/172453 | [Link](https://ani.social/post/11333544) |
 | Katainaka no Ossan, Kensei ni Naru | From Old Country Bumpkin to Master Swordsman | https://anilist.co/anime/179955 |  |
-| Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time | https://anilist.co/anime/167143 | [Link](https://ani.social/post/11023450) |
+| Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu | I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time | https://anilist.co/anime/167143 | [Link](https://ani.social/post/11374308) |
 | Ore wa Seikan Kokka no Akutoku Ryoushu!  | I'm the Evil Lord of an Intergalactic Empire! | https://anilist.co/anime/183274 |  |
 | Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita: Sono ni | I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2 | https://anilist.co/anime/143337 |  |
 | Kono Subarashii Sekai ni Shukufuku wo! 3: BONUS STAGE | KONOSUBA -God's Blessing on This Wonderful World! 3 -BONUS STAGE- | https://anilist.co/anime/181244 |  |
@@ -114,7 +114,6 @@ These shows have had episodes air already, but no thread was created because the
 | Kagaku×Bouken Survival! | Kagaku×Bouken Survival! | https://anilist.co/anime/174913 | Episode 21 |
 | Kaijuu 8-gou Movie | Kaiju No. 8: Mission Recon | https://anilist.co/anime/179998 | Episode 1 |
 | Kaijuu 8-gou: Hoshina no Kyuujitsu | Kaijuu 8-gou: Hoshina no Kyuujitsu | https://anilist.co/anime/179999 | Episode 1 |
-| Kairyuu to Yuubinya-san | Kairyuu to Yuubinya-san | https://anilist.co/anime/186559 | Episode 1 |
 | Kinnikuman: Kanpeki Choujin Shiso-hen Season 2 | Kinnikuman Perfect Origin Arc Season 2 | https://anilist.co/anime/181886 | Episode 10 |
 | Kankin Kuiki Level X 2nd Season | Lockdown Zone: Level X Season 2 | https://anilist.co/anime/182877 | Episode 5 |
 | Luka to Taiyou no Hana | Luka and the Flower of the Sun | https://anilist.co/anime/178126 | Episode 2 |
