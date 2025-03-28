@@ -60,7 +60,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Zenshuu. | ZENSHU | https://anilist.co/anime/176273 | [Link](https://ani.social/post/11156717) |
 | Zatsu Tabi: That's Journey | ZatsuTabi -That's Journey- | https://anilist.co/anime/165445 |  |
 | mono | mono | https://anilist.co/anime/176246 |  |
-| Übel Blatt | Übel Blatt | https://anilist.co/anime/175198 | [Link](https://ani.social/post/11024657) |
 {.dense}
 
 ## Requestable Shows
@@ -208,4 +207,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita | Yandere Dark Elf: She Chased Me All the Way From Another World! | https://anilist.co/anime/180829 | April 06 at 17:06 |
 | Your Forma | Your Forma | https://anilist.co/anime/167142 | April 02 at 14:45 |
 | cocoon: Aru Natsu no Shoujo-tachi Yori | cocoon: Aru Natsu no Shoujo-tachi Yori | https://anilist.co/anime/166527 | March 29 at 16:30 |
+| Übel Blatt | Übel Blatt | https://anilist.co/anime/175198 | March 28 at 16:30 |
 {.dense}
