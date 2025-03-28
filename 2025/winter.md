@@ -178,6 +178,7 @@ Episode|Link
 9|[Link](https://ani.social/post/10350376)
 10|[Link](https://ani.social/post/10694483)
 11|[Link](https://ani.social/post/11023450)
+12|[Link](https://ani.social/post/11374308)
 {.dense}
 
 ## Hana wa Saku, Shura no Gotoku • Flower and Asura
