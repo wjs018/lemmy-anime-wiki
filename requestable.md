@@ -126,7 +126,7 @@ These shows have had episodes air already, but no thread was created because the
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 24 |
 | Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 17 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 160 |
-| Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 23 |
+| Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 24 |
 | Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru | OKITSURA: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying | https://anilist.co/anime/166699 | Episode 10 |
 | ONE PIECE: Gyojin Tou-hen | One Piece Log: Fish-Man Island Saga | https://anilist.co/anime/183423 | Episode 20 |
 | Chi. Chikyuu no Undou ni Tsuite | Orb: On the Movements of the Earth | https://anilist.co/anime/151514 | Episode 25 |
