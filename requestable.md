@@ -60,6 +60,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Zenshuu. | ZENSHU | https://anilist.co/anime/176273 | [Link](https://ani.social/post/11156717) |
 | Zatsu Tabi: That's Journey | ZatsuTabi -That's Journey- | https://anilist.co/anime/165445 |  |
 | mono | mono | https://anilist.co/anime/176246 |  |
+| Übel Blatt | Übel Blatt | https://anilist.co/anime/175198 | [Link](https://ani.social/post/11394929) |
 {.dense}
 
 ## Requestable Shows
@@ -163,7 +164,6 @@ These shows have had episodes air already, but no thread was created because the
 | Yu☆Gi☆Oh! Go Rush!! | Yu☆Gi☆Oh! Go Rush!! | https://anilist.co/anime/142842 | Episode 150 |
 | minini Animation Series | minini Animation Series | https://anilist.co/anime/186752 | Episode 12 |
 | minute! kaiju no. 8 | minute! kaiju no. 8 | https://anilist.co/anime/186300 | Episode 17 |
-| Übel Blatt | Übel Blatt | https://anilist.co/anime/175198 | Episode 12 |
 {.dense}
 
 ## Upcoming Shows
