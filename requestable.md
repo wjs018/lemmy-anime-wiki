@@ -142,7 +142,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2779 |
 | Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 23 |
 | Shimajirou: Shimajirou to Yuuki no Uta | Shimajirou: Shimajirou to Yuuki no Uta | https://anilist.co/anime/183412 | Episode 1 |
-| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1277 |
+| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1278 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 102 |
 | Sorairo Utility (TV) | Sorairo Utility (TV) | https://anilist.co/anime/174596 | Episode 12 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1691 |
