@@ -82,7 +82,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ao no Exorcist: Yosuga-hen | Blue Exorcist -The Blue Night Saga- | https://anilist.co/anime/185880 | Episode 12 |
 | Ao no Miburo | Blue Miburo | https://anilist.co/anime/169258 | Episode 23 |
 | Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite | Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~ | https://anilist.co/anime/178100 | Episode 12 |
-| Cardfight!! Vanguard: Divinez - Deluxe-hen | CARDFIGHT!! VANGUARD Divinez DELUXE Arc | https://anilist.co/anime/182920 | Episode 10 |
+| Cardfight!! Vanguard: Divinez - Deluxe-hen | CARDFIGHT!! VANGUARD Divinez DELUXE Arc | https://anilist.co/anime/182920 | Episode 11 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1158 |
 | Chao Neng Lifang | Chao Neng Lifang | https://anilist.co/anime/166442 | Episode 2 |
 | Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 52 |
