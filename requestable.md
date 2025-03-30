@@ -56,7 +56,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Nihon e Youkoso Elf-san. | Welcome to Japan, Ms. Elf! | https://anilist.co/anime/172439 | [Link](https://ani.social/post/11370195) |
 | Witch Watch | Witch Watch | https://anilist.co/anime/180367 |  |
 | Shin Samurai-den YAIBA | YAIBA: Samurai Legend | https://anilist.co/anime/177476 |  |
-| Kimi to Idol Precure♪ | You and Idol Precure ♪ | https://anilist.co/anime/185073 | [Link](https://ani.social/post/11212585) |
+| Kimi to Idol Precure♪ | You and Idol Precure ♪ | https://anilist.co/anime/185073 | [Link](https://ani.social/post/11434567) |
 | Zenshuu. | ZENSHU | https://anilist.co/anime/176273 | [Link](https://ani.social/post/11156717) |
 | Zatsu Tabi: That's Journey | ZatsuTabi -That's Journey- | https://anilist.co/anime/165445 |  |
 | mono | mono | https://anilist.co/anime/176246 |  |
