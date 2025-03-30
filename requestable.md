@@ -35,7 +35,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Rock wa Lady no Tashinami Deshite | Rock is a Lady’s Modesty | https://anilist.co/anime/179694 |  |
 | Shoushimin Series 2nd Season | SHOSHIMIN: How to become Ordinary Season 2 | https://anilist.co/anime/181182 |  |
 | Sentai Daishikkaku 2nd Season | Sentai Daishikkaku 2nd Season | https://anilist.co/anime/178781 |  |
-| Shangri-La Frontier 2nd Season | Shangri-La Frontier Season 2 | https://anilist.co/anime/176508 | [Link](https://ani.social/post/11136771) |
+| Shangri-La Frontier 2nd Season | Shangri-La Frontier Season 2 | https://anilist.co/anime/176508 | [Link](https://ani.social/post/11445697) |
 | Kijin Gentoushou | Sword of the Demon Hunter: Kijin Gentosho | https://anilist.co/anime/143598 |  |
 | Teogonia | Teogonia | https://anilist.co/anime/176702 |  |
 | Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 2nd Season | The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2 | https://anilist.co/anime/172258 | [Link](https://ani.social/post/11151727) |
