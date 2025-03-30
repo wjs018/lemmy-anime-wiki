@@ -138,6 +138,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chao Neng Lifang | Super Cube | https://anilist.co/anime/166442 | Episode 2 |
 | Tasokare Hotel | Tasokare Hotel | https://anilist.co/anime/178495 | Episode 12 |
 | Sentai Red Isekai de Boukensha ni Naru | The Red Ranger Becomes an Adventurer in Another World | https://anilist.co/anime/180052 | Episode 11 |
+| Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi | The Unaware Atelier Meister | https://anilist.co/anime/183133 | Episode 1 |
 | Yami Shibai 14 | Theatre of Darkness: Yamishibai 14 | https://anilist.co/anime/185088 | Episode 12 |
 | Tirori Mix (2025) | Tirori Mix (2025) | https://anilist.co/anime/188122 | Episode 1 |
 | Jibaku Shounen Hanako-kun 2 | Toilet-bound Hanako-kun Season 2 | https://anilist.co/anime/170892 | Episode 12 |
@@ -173,6 +174,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Everyday Host | Everyday Host | https://anilist.co/anime/185584 | April 04 at 16:13 |
 | GUILTY GEAR STRIVE: DUAL RULERS | GUILTY GEAR STRIVE: DUAL RULERS | https://anilist.co/anime/178046 | April 05 at 13:30 |
 | Go! Go! Vehicle Zoo: Norimono Star-hen | Go! Go! Vehicle Zoo: Norimono Star-hen | https://anilist.co/anime/188661 | April 05 at 23:30 |
+| HANA-Doll*: Reinterpretation of Flowering | HANA-Doll*: Reinterpretation of Flowering | https://anilist.co/anime/166371 | April 09 at 13:30 |
 | Himitsu no AiPri: Ring-hen | Himitsu no AiPri: Ring-hen | https://anilist.co/anime/184470 | April 06 at 00:30 |
 | Koisuru ONE PIECE | Koisuru ONE PIECE | https://anilist.co/anime/188668 | March 31 at 15:00 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | April 07 at 23:28 |
@@ -196,7 +198,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Summer Pockets | Summer Pockets | https://anilist.co/anime/143200 | April 07 at 14:30 |
 | Tamaranai no wa Koi nano ka | Tamaranai no wa Koi nano ka | https://anilist.co/anime/187362 | April 06 at 14:30 |
 | Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru | The Brilliant Healer's New Life in the Shadows | https://anilist.co/anime/175872 | April 03 at 14:30 |
-| Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi | The Unaware Atelier Meister | https://anilist.co/anime/183133 | March 30 at 13:30 |
 | Tu Bian Yingxiong X | To Be Hero X | https://anilist.co/anime/156092 | April 06 at 00:30 |
 | Uma Musume: Cinderella Gray | Uma Musume: Cinderella Gray | https://anilist.co/anime/180516 | April 06 at 07:30 |
 | Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita | Yandere Dark Elf: She Chased Me All the Way From Another World! | https://anilist.co/anime/180829 | April 06 at 17:06 |
