@@ -201,4 +201,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Uma Musume: Cinderella Gray | Uma Musume: Cinderella Gray | https://anilist.co/anime/180516 | April 06 at 07:30 |
 | Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita | Yandere Dark Elf: She Chased Me All the Way From Another World! | https://anilist.co/anime/180829 | April 06 at 17:06 |
 | Your Forma | Your Forma | https://anilist.co/anime/167142 | April 02 at 14:45 |
+| Zenryoku Usagi Season 2 | Zenryoku Usagi Season 2 | https://anilist.co/anime/184182 | April 09 at 13:56 |
 {.dense}
