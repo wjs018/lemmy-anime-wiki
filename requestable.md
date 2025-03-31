@@ -126,7 +126,7 @@ These shows have had episodes air already, but no thread was created because the
 | Mahoutsukai no Yakusoku | Promise of Wizard | https://anilist.co/anime/170916 | Episode 12 |
 | Punirunes Puni 2 | Punirunes Puni 2 | https://anilist.co/anime/179292 | Episode 25 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | https://anilist.co/anime/182417 | Episode 16 |
-| Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 81 |
+| Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 82 |
 | Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran | Rurouni Kenshin -Kyoto Disturbance- | https://anilist.co/anime/171637 | Episode 23 |
 | SAKAMOTO DAYS | SAKAMOTO DAYS | https://anilist.co/anime/177709 | Episode 11 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2780 |
