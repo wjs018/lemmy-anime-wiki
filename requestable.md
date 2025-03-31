@@ -106,6 +106,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kaijuu 8-gou Movie | Kaiju No. 8: Mission Recon | https://anilist.co/anime/179998 | Episode 1 |
 | Kaijuu 8-gou: Hoshina no Kyuujitsu | Kaiju No.8: Hoshina's Day Off | https://anilist.co/anime/179999 | Episode 1 |
 | Kinnikuman: Kanpeki Choujin Shiso-hen Season 2 | Kinnikuman Perfect Origin Arc Season 2 | https://anilist.co/anime/181886 | Episode 11 |
+| Koisuru ONE PIECE | Koisuru ONE PIECE | https://anilist.co/anime/188668 | Episode 1 |
 | Kankin Kuiki Level X 2nd Season | Lockdown Zone: Level X Season 2 | https://anilist.co/anime/182877 | Episode 6 |
 | Luka to Taiyou no Hana | Luka and the Flower of the Sun | https://anilist.co/anime/178126 | Episode 2 |
 | Mashin Souzouden Wataru | MACHINE GENESIS WATARU | https://anilist.co/anime/173333 | Episode 12 |
@@ -176,7 +177,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Go! Go! Vehicle Zoo: Norimono Star-hen | Go! Go! Vehicle Zoo: Norimono Star-hen | https://anilist.co/anime/188661 | April 05 at 23:30 |
 | HANA-Doll*: Reinterpretation of Flowering | HANA-Doll*: Reinterpretation of Flowering | https://anilist.co/anime/166371 | April 09 at 13:30 |
 | Himitsu no AiPri: Ring-hen | Himitsu no AiPri: Ring-hen | https://anilist.co/anime/184470 | April 06 at 00:30 |
-| Koisuru ONE PIECE | Koisuru ONE PIECE | https://anilist.co/anime/188668 | March 31 at 15:00 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | April 07 at 23:28 |
 | MIRU: Watashi no Mirai | MIRU: Watashi no Mirai | https://anilist.co/anime/166373 | April 02 at 17:30 |
 | MOONRISE | MOONRISE | https://anilist.co/anime/150654 | April 10 at 07:00 |
@@ -195,6 +195,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season | Re:ZERO -Starting Life in Another World- Season 3 | https://anilist.co/anime/163134 | April 02 at 14:30 |
 | SHIBUYA♡HACHI 2nd Season | SHIBUYA♡HACHI 2nd Season | https://anilist.co/anime/185715 | April 04 at 22:00 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | April 05 at 22:16 |
+| Yamato yo Towa ni: REBEL3199 | Star Blazers: Space Battleship Yamato 3199 | https://anilist.co/anime/144779 | April 10 at 16:00 |
 | Sumikko Gurashi: Koko ga Ochitsukun Desu | Sumikko Gurashi: Koko ga Ochitsukun Desu | https://anilist.co/anime/188884 | April 03 at 23:30 |
 | Summer Pockets | Summer Pockets | https://anilist.co/anime/143200 | April 07 at 14:30 |
 | Tamaranai no wa Koi nano ka | Tamaranai no wa Koi nano ka | https://anilist.co/anime/187362 | April 06 at 14:30 |
