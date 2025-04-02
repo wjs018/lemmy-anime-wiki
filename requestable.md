@@ -111,6 +111,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kankin Kuiki Level X 2nd Season | Lockdown Zone: Level X Season 2 | https://anilist.co/anime/182877 | Episode 6 |
 | Luka to Taiyou no Hana | Luka and the Flower of the Sun | https://anilist.co/anime/178126 | Episode 2 |
 | Mashin Souzouden Wataru | MACHINE GENESIS WATARU | https://anilist.co/anime/173333 | Episode 12 |
+| MIRU: Watashi no Mirai | MIRU: Watashi no Mirai | https://anilist.co/anime/166373 | Episode 1 |
 | MUZIK TIGER In the Forest | MUZIK TIGER In the Forest | https://anilist.co/anime/177633 | Episode 1 |
 | Magic Maker: Isekai Mahou no Tsukurikata | Magic Maker: How to Make Magic in Another World | https://anilist.co/anime/179297 | Episode 12 |
 | Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai | Medaka Kuroiwa is Impervious to My Charms | https://anilist.co/anime/177552 | Episode 12 |
@@ -183,7 +184,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Himitsu no AiPri: Ring-hen | Himitsu no AiPri: Ring-hen | https://anilist.co/anime/184470 | April 06 at 00:30 |
 | Kaijyu Sekai Seifuku | Kaijyu Sekai Seifuku | https://anilist.co/anime/184289 | April 04 at 22:00 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | April 07 at 23:28 |
-| MIRU: Watashi no Mirai | MIRU: Watashi no Mirai | https://anilist.co/anime/166373 | April 02 at 17:30 |
 | MOONRISE | MOONRISE | https://anilist.co/anime/150654 | April 10 at 07:00 |
 | Maebashi Witches | Maebashi Witches | https://anilist.co/anime/180825 | April 06 at 13:30 |
 | Kakushite! Makina-san!! | Makina-san's a Love Bot?! | https://anilist.co/anime/177509 | April 06 at 16:20 |
