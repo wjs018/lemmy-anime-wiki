@@ -31,3 +31,10 @@ Episode|Link
 1|[Link](https://ani.social/post/11493205)
 {.dense}
 
+## Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? • The Beginning After the End
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/11586791)
+{.dense}
+
