@@ -130,6 +130,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2090 |
 | Mahoutsukai no Yakusoku | Promise of Wizard | https://anilist.co/anime/170916 | Episode 12 |
 | Punirunes Puni 2 | Punirunes Puni 2 | https://anilist.co/anime/179292 | Episode 25 |
+| Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season | Re:ZERO -Starting Life in Another World- Season 3 | https://anilist.co/anime/163134 | Episode 17 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | https://anilist.co/anime/182417 | Episode 16 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 82 |
 | Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran | Rurouni Kenshin -Kyoto Disturbance- | https://anilist.co/anime/171637 | Episode 23 |
@@ -193,7 +194,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Oshiri Tantei 9 | Oshiri Tantei 9 | https://anilist.co/anime/185645 | April 05 at 01:00 |
 | PetitCure: Precure Fairies | PetitCure: Precure Fairies | https://anilist.co/anime/188394 | April 03 at 09:30 |
 | Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | April 06 at 00:00 |
-| Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season | Re:ZERO -Starting Life in Another World- Season 3 | https://anilist.co/anime/163134 | April 02 at 14:30 |
 | SHIBUYA♡HACHI 2nd Season | SHIBUYA♡HACHI 2nd Season | https://anilist.co/anime/185715 | April 04 at 22:00 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | April 05 at 22:16 |
 | Yamato yo Towa ni: REBEL3199 | Star Blazers: Space Battleship Yamato 3199 | https://anilist.co/anime/144779 | April 10 at 16:00 |
