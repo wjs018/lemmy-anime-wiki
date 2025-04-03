@@ -126,6 +126,7 @@ These shows have had episodes air already, but no thread was created because the
 | ONE PIECE: Gyojin Tou-hen | One Piece Log: Fish-Man Island Saga | https://anilist.co/anime/183423 | Episode 21 |
 | Chi. Chikyuu no Undou ni Tsuite | Orb: On the Movements of the Earth | https://anilist.co/anime/151514 | Episode 25 |
 | Oshiri Tantei: Star and Moon | Oshiri Tantei: Star and Moon | https://anilist.co/anime/185643 | Episode 1 |
+| PetitCure: Precure Fairies | PetitCure: Precure Fairies | https://anilist.co/anime/188394 | Episode 1 |
 | Haite Kudasai, Takamine-san | Please Put Them On, Takamine-san | https://anilist.co/anime/179965 | Episode 1 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 89 |
 | Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2090 |
@@ -193,7 +194,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | April 06 at 15:16 |
 | Oideyo Mahou Shoujo-mura (Fuhou Senkyo) | Oideyo Mahou Shoujo-mura (Fuhou Senkyo) | https://anilist.co/anime/187998 | April 03 at 19:16 |
 | Oshiri Tantei 9 | Oshiri Tantei 9 | https://anilist.co/anime/185645 | April 05 at 01:00 |
-| PetitCure: Precure Fairies | PetitCure: Precure Fairies | https://anilist.co/anime/188394 | April 03 at 09:30 |
 | Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | April 06 at 00:00 |
 | SHIBUYA♡HACHI 2nd Season | SHIBUYA♡HACHI 2nd Season | https://anilist.co/anime/185715 | April 04 at 22:00 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | April 05 at 22:16 |
