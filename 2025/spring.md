@@ -45,3 +45,10 @@ Episode|Link
 1|[Link](https://ani.social/post/11586791)
 {.dense}
 
+## WIND BREAKER Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/11628568)
+{.dense}
+
