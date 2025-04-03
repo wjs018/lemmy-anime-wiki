@@ -146,6 +146,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1691 |
 | Chao Neng Lifang | Super Cube | https://anilist.co/anime/166442 | Episode 2 |
 | Tasokare Hotel | Tasokare Hotel | https://anilist.co/anime/178495 | Episode 12 |
+| Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru | The Brilliant Healer's New Life in the Shadows | https://anilist.co/anime/175872 | Episode 1 |
 | Yami Shibai 14 | Theatre of Darkness: Yamishibai 14 | https://anilist.co/anime/185088 | Episode 12 |
 | Tirori Mix (2025) | Tirori Mix (2025) | https://anilist.co/anime/188122 | Episode 1 |
 | Jibaku Shounen Hanako-kun 2 | Toilet-bound Hanako-kun Season 2 | https://anilist.co/anime/170892 | Episode 12 |
@@ -201,7 +202,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Sumikko Gurashi: Koko ga Ochitsukun Desu | Sumikko Gurashi: Koko ga Ochitsukun Desu | https://anilist.co/anime/188884 | April 03 at 23:30 |
 | Summer Pockets | Summer Pockets | https://anilist.co/anime/143200 | April 07 at 14:30 |
 | Tamaranai no wa Koi nano ka | Tamaranai no wa Koi nano ka | https://anilist.co/anime/187362 | April 06 at 14:30 |
-| Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru | The Brilliant Healer's New Life in the Shadows | https://anilist.co/anime/175872 | April 03 at 14:30 |
 | Tu Bian Yingxiong X | To Be Hero X | https://anilist.co/anime/156092 | April 06 at 00:30 |
 | Uchuujin MuuMuu | Uchuujin MuuMuu | https://anilist.co/anime/185070 | April 08 at 15:00 |
 | Uma Musume: Cinderella Gray | Uma Musume: Cinderella Gray | https://anilist.co/anime/180516 | April 06 at 07:30 |
