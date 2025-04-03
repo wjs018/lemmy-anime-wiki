@@ -79,6 +79,7 @@ Episode|Link
 10|[Link](https://ani.social/post/10635518)
 11|[Link](https://ani.social/post/10950595)
 12|[Link](https://ani.social/post/11325253)
+13|[Link](https://ani.social/post/11623227)
 {.dense}
 
 ## BanG Dream! Ave Mujica • Ave Mujica - The Die is Cast -
