@@ -90,7 +90,7 @@ These shows have had episodes air already, but no thread was created because the
 | Hana wa Saku, Shura no Gotoku | Flower and Asura | https://anilist.co/anime/178022 | Episode 12 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 150 |
 | Grisaia: Phantom Trigger THE ANIMATION (TV) | Grisaia: Phantom Trigger | https://anilist.co/anime/145740 | Episode 13 |
-| Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 597 |
+| Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 598 |
 | Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi | Headhunted to Another World: From Salaryman to Big Four! | https://anilist.co/anime/179689 | Episode 12 |
 | Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 51 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 306 |
