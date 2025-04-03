@@ -31,6 +31,13 @@ Episode|Link
 1|[Link](https://ani.social/post/11493205)
 {.dense}
 
+## Rock wa Lady no Tashinami Deshite • Rock is a Lady’s Modesty
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/11627015)
+{.dense}
+
 ## Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? • The Beginning After the End
 
 Episode|Link
