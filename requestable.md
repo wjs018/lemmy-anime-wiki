@@ -147,6 +147,7 @@ These shows have had episodes air already, but no thread was created because the
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 103 |
 | Sorairo Utility (TV) | Sorairo Utility (TV) | https://anilist.co/anime/174596 | Episode 12 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1691 |
+| Sumikko Gurashi: Koko ga Ochitsukun Desu | Sumikko Gurashi: Koko ga Ochitsukun Desu | https://anilist.co/anime/188884 | Episode 1 |
 | Chao Neng Lifang | Super Cube | https://anilist.co/anime/166442 | Episode 2 |
 | Tasokare Hotel | Tasokare Hotel | https://anilist.co/anime/178495 | Episode 12 |
 | Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru | The Brilliant Healer's New Life in the Shadows | https://anilist.co/anime/175872 | Episode 1 |
@@ -199,7 +200,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | SHIBUYA♡HACHI 2nd Season | SHIBUYA♡HACHI 2nd Season | https://anilist.co/anime/185715 | April 04 at 22:00 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | April 05 at 22:16 |
 | Yamato yo Towa ni: REBEL3199 | Star Blazers: Space Battleship Yamato 3199 | https://anilist.co/anime/144779 | April 10 at 16:00 |
-| Sumikko Gurashi: Koko ga Ochitsukun Desu | Sumikko Gurashi: Koko ga Ochitsukun Desu | https://anilist.co/anime/188884 | April 03 at 23:30 |
 | Summer Pockets | Summer Pockets | https://anilist.co/anime/143200 | April 07 at 14:30 |
 | Tamaranai no wa Koi nano ka | Tamaranai no wa Koi nano ka | https://anilist.co/anime/187362 | April 06 at 14:30 |
 | Tu Bian Yingxiong X | To Be Hero X | https://anilist.co/anime/156092 | April 06 at 00:30 |
