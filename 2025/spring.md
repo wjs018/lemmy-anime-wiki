@@ -52,6 +52,13 @@ Episode|Link
 1|[Link](https://ani.social/post/11586791)
 {.dense}
 
+## Shoushimin Series 2nd Season • SHOSHIMIN: How to become Ordinary Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/11672974)
+{.dense}
+
 ## WIND BREAKER Season 2
 
 Episode|Link
