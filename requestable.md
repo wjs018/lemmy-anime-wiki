@@ -30,7 +30,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Lazarus | Lazarus | https://anilist.co/anime/167336 |  |
 | Lycoris Recoil: Friends are thieves of time. | Lycoris Recoil: Friends are thieves of time. | https://anilist.co/anime/179706 |  |
 | Kidou Senshi Gundam GQuuuuuuX | Mobile Suit Gundam GQuuuuuuX | https://anilist.co/anime/185213 |  |
-| Nazotoki wa Dinner no Ato de | Nazotoki wa Dinner no Ato de | https://anilist.co/anime/184989 |  |
+| Nazotoki wa Dinner no Ato de | Nazotoki wa Dinner no Ato de | https://anilist.co/anime/184989 | [Link](https://ani.social/post/11668898) |
 | Aru Majo ga Shinu Made | Once Upon a Witch's Death | https://anilist.co/anime/178701 | [Link](https://ani.social/post/11541124) |
 | Rock wa Lady no Tashinami Deshite | Rock is a Lady’s Modesty | https://anilist.co/anime/179694 | [Link](https://ani.social/post/11627015) |
 | Shoushimin Series 2nd Season | SHOSHIMIN: How to become Ordinary Season 2 | https://anilist.co/anime/181182 |  |
@@ -75,6 +75,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ao no Exorcist: Yosuga-hen | Blue Exorcist -The Blue Night Saga- | https://anilist.co/anime/185880 | Episode 12 |
 | Ao no Miburo | Blue Miburo | https://anilist.co/anime/169258 | Episode 24 |
 | Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite | Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~ | https://anilist.co/anime/178100 | Episode 12 |
+| Bye Bye, Earth Season 2 | Bye Bye, Earth Season 2 | https://anilist.co/anime/181078 | Episode 1 |
 | Cardfight!! Vanguard: Divinez - Deluxe-hen | CARDFIGHT!! VANGUARD Divinez DELUXE Arc | https://anilist.co/anime/182920 | Episode 11 |
 | Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!) | Can a Boy-Girl Friendship Survive? | https://anilist.co/anime/153554 | Episode 1 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1159 |
@@ -179,7 +180,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | #Compass 2.0－Sentou Setsuri Kaiseki System | #COMPASS2.0 ANIMATION PROJECT | https://anilist.co/anime/158287 | April 07 at 15:00 |
-| Bye Bye, Earth Season 2 | Bye Bye, Earth Season 2 | https://anilist.co/anime/181078 | April 04 at 14:30 |
 | CLASSIC★STARS | CLASSIC★STARS | https://anilist.co/anime/178825 | April 05 at 16:00 |
 | Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku  | Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku  | https://anilist.co/anime/188131 | April 08 at 12:56 |
 | Everyday Host | Everyday Host | https://anilist.co/anime/185584 | April 04 at 16:13 |
