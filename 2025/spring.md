@@ -17,6 +17,13 @@ Episode|Link
 1|[Link](https://ani.social/post/11541124)
 {.dense}
 
+## Enen no Shouboutai: San no Shou • Fire Force Season 3
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/11674087)
+{.dense}
+
 ## Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi • The Unaware Atelier Meister
 
 Episode|Link
