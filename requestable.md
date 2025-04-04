@@ -194,7 +194,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Kakushite! Makina-san!! | Makina-san's a Love Bot?! | https://anilist.co/anime/177509 | April 06 at 16:20 |
 | Masuda Kousuke Gekijou Gag Manga Biyori GO | Masuda Kousuke Gekijou Gag Manga Biyori GO | https://anilist.co/anime/185259 | April 05 at 13:30 |
 | Vigilante: Boku no Hero Academia ILLEGALS | My Hero Academia: Vigilantes | https://anilist.co/anime/185736 | April 07 at 14:00 |
-| ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | April 06 at 15:16 |
+| ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | April 05 at 13:00 |
 | Oshiri Tantei 9 | Oshiri Tantei 9 | https://anilist.co/anime/185645 | April 05 at 01:00 |
 | Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | April 06 at 00:00 |
 | SHIBUYA♡HACHI 2nd Season | SHIBUYA♡HACHI 2nd Season | https://anilist.co/anime/185715 | April 04 at 22:00 |
