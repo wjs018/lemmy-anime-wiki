@@ -168,7 +168,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yu☆Gi☆Oh! Go Rush!! | Yu☆Gi☆Oh! Go Rush!! | https://anilist.co/anime/142842 | Episode 151 |
 | cocoon: Aru Natsu no Shoujo-tachi Yori | cocoon: Aru Natsu no Shoujo-tachi Yori | https://anilist.co/anime/166527 | Episode 1 |
 | minini Animation Series | minini Animation Series | https://anilist.co/anime/186752 | Episode 12 |
-| minute! kaiju no. 8 | minute! kaiju no. 8 | https://anilist.co/anime/186300 | Episode 17 |
+| minute! kaiju no. 8 | minute! kaiju no. 8 | https://anilist.co/anime/186300 | Episode 18 |
 {.dense}
 
 ## Upcoming Shows
