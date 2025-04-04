@@ -31,6 +31,13 @@ Episode|Link
 1|[Link](https://ani.social/post/11493205)
 {.dense}
 
+## Nazotoki wa Dinner no Ato de
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/11668898)
+{.dense}
+
 ## Rock wa Lady no Tashinami Deshite • Rock is a Lady’s Modesty
 
 Episode|Link
