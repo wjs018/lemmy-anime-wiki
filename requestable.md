@@ -33,7 +33,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Nazotoki wa Dinner no Ato de | Nazotoki wa Dinner no Ato de | https://anilist.co/anime/184989 | [Link](https://ani.social/post/11668898) |
 | Aru Majo ga Shinu Made | Once Upon a Witch's Death | https://anilist.co/anime/178701 | [Link](https://ani.social/post/11541124) |
 | Rock wa Lady no Tashinami Deshite | Rock is a Lady’s Modesty | https://anilist.co/anime/179694 | [Link](https://ani.social/post/11627015) |
-| Shoushimin Series 2nd Season | SHOSHIMIN: How to become Ordinary Season 2 | https://anilist.co/anime/181182 |  |
+| Shoushimin Series 2nd Season | SHOSHIMIN: How to become Ordinary Season 2 | https://anilist.co/anime/181182 | [Link](https://ani.social/post/11672974) |
 | Sentai Daishikkaku 2nd Season | Sentai Daishikkaku 2nd Season | https://anilist.co/anime/178781 |  |
 | Shangri-La Frontier 2nd Season | Shangri-La Frontier Season 2 | https://anilist.co/anime/176508 | [Link](https://ani.social/post/11445697) |
 | Kijin Gentoushou | Sword of the Demon Hunter: Kijin Gentosho | https://anilist.co/anime/143598 | [Link](https://ani.social/post/11493205) |
