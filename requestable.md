@@ -132,6 +132,7 @@ These shows have had episodes air already, but no thread was created because the
 | Oideyo Mahou Shoujo-mura (Fuhou Senkyo) | Oideyo Mahou Shoujo-mura (Fuhou Senkyo) | https://anilist.co/anime/187998 | Episode 1 |
 | ONE PIECE: Gyojin Tou-hen | One Piece Log: Fish-Man Island Saga | https://anilist.co/anime/183423 | Episode 21 |
 | Chi. Chikyuu no Undou ni Tsuite | Orb: On the Movements of the Earth | https://anilist.co/anime/151514 | Episode 25 |
+| Oshiri Tantei 9 | Oshiri Tantei 9 | https://anilist.co/anime/185645 | Episode 1 |
 | Oshiri Tantei: Star and Moon | Oshiri Tantei: Star and Moon | https://anilist.co/anime/185643 | Episode 1 |
 | PetitCure: Precure Fairies | PetitCure: Precure Fairies | https://anilist.co/anime/188394 | Episode 1 |
 | Haite Kudasai, Takamine-san | Please Put Them On, Takamine-san | https://anilist.co/anime/179965 | Episode 1 |
@@ -196,7 +197,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Masuda Kousuke Gekijou Gag Manga Biyori GO | Masuda Kousuke Gekijou Gag Manga Biyori GO | https://anilist.co/anime/185259 | April 05 at 13:30 |
 | Vigilante: Boku no Hero Academia ILLEGALS | My Hero Academia: Vigilantes | https://anilist.co/anime/185736 | April 07 at 14:00 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | April 05 at 13:00 |
-| Oshiri Tantei 9 | Oshiri Tantei 9 | https://anilist.co/anime/185645 | April 05 at 01:00 |
 | Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | April 06 at 00:00 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | April 05 at 22:16 |
 | Yamato yo Towa ni: REBEL3199 | Star Blazers: Space Battleship Yamato 3199 | https://anilist.co/anime/144779 | April 10 at 16:00 |
