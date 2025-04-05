@@ -80,6 +80,13 @@ Episode|Link
 1|[Link](https://ani.social/post/11586791)
 {.dense}
 
+## Shin Samurai-den YAIBA • YAIBA: Samurai Legend
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/11699780)
+{.dense}
+
 ## Shoushimin Series 2nd Season • SHOSHIMIN: How to become Ordinary Season 2
 
 Episode|Link
