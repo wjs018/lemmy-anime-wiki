@@ -84,7 +84,6 @@ These shows have had episodes air already, but no thread was created because the
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 258 |
 | Dokodemo Makibao | Dokodemo Makibao | https://anilist.co/anime/185538 | Episode 28 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 857 |
-| Doraemon: Nobita no e Sekai Monogatari | Doraemon: Nobita no e Sekai Monogatari | https://anilist.co/anime/182333 | Episode 1 |
 | Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | Episode 35 |
 | Dr. STONE: SCIENCE FUTURE | Dr. STONE SCIENCE FUTURE | https://anilist.co/anime/172019 | Episode 12 |
 | Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru | Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest | https://anilist.co/anime/178548 | Episode 12 |
@@ -169,7 +168,7 @@ These shows have had episodes air already, but no thread was created because the
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 1 |
 | Trillion Game | Trillion Game | https://anilist.co/anime/169315 | Episode 26 |
 | Amagami-san Chi no Enmusubi | Tying the Knot with an Amagami Sister | https://anilist.co/anime/164172 | Episode 24 |
-| UniteUp!: Uni:Birth | UniteUp! -Uni:Birth- | https://anilist.co/anime/167742 | Episode 10 |
+| UniteUp!: Uni:Birth | UniteUp! -Uni:Birth- | https://anilist.co/anime/167742 | Episode 11 |
 | Unnamed Memory Act.2 | Unnamed Memory Season 2 | https://anilist.co/anime/178550 | Episode 12 |
 | Mahoutsukai Precure!! MIRAI DAYS | Witchy Precure!! ~MIRAI DAYS~ | https://anilist.co/anime/162722 | Episode 12 |
 | Yao Shen Ji 8 | Yao Shen Ji 8 | https://anilist.co/anime/178351 | Episode 49 |
