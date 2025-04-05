@@ -27,7 +27,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Ore wa Seikan Kokka no Akutoku Ryoushu!  | I'm the Evil Lord of an Intergalactic Empire! | https://anilist.co/anime/183274 |  |
 | Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita: Sono ni | I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2 | https://anilist.co/anime/143337 |  |
 | Kowloon Generic Romance | Kowloon Generic Romance | https://anilist.co/anime/182814 |  |
-| Lazarus | Lazarus | https://anilist.co/anime/167336 |  |
+| Lazarus | Lazarus | https://anilist.co/anime/167336 | [Link](https://ani.social/post/11694732) |
 | Lycoris Recoil: Friends are thieves of time. | Lycoris Recoil: Friends are thieves of time. | https://anilist.co/anime/179706 |  |
 | Kidou Senshi Gundam GQuuuuuuX | Mobile Suit Gundam GQuuuuuuX | https://anilist.co/anime/185213 |  |
 | Nazotoki wa Dinner no Ato de | Nazotoki wa Dinner no Ato de | https://anilist.co/anime/184989 | [Link](https://ani.social/post/11668898) |
