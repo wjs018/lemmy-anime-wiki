@@ -45,6 +45,13 @@ Episode|Link
 1|[Link](https://ani.social/post/11691153)
 {.dense}
 
+## Katainaka no Ossan, Kensei ni Naru • From Old Country Bumpkin to Master Swordsman
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/11710129)
+{.dense}
+
 ## Kijin Gentoushou • Sword of the Demon Hunter: Kijin Gentosho
 
 Episode|Link
@@ -57,6 +64,13 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/11708730)
+{.dense}
+
+## Kuroshitsuji: Midori no Majo-hen • Black Butler: Emerald Witch Arc
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/11710130)
 {.dense}
 
 ## Lazarus
