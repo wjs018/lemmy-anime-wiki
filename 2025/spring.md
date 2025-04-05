@@ -52,6 +52,13 @@ Episode|Link
 1|[Link](https://ani.social/post/11493205)
 {.dense}
 
+## Kowloon Generic Romance
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/11708730)
+{.dense}
+
 ## Lazarus
 
 Episode|Link
