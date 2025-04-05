@@ -49,7 +49,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi | The Unaware Atelier Meister | https://anilist.co/anime/183133 | [Link](https://ani.social/post/11485634) |
 | WIND BREAKER Season 2 | WIND BREAKER Season 2 | https://anilist.co/anime/178680 | [Link](https://ani.social/post/11628568) |
 | Witch Watch | Witch Watch | https://anilist.co/anime/180367 |  |
-| Shin Samurai-den YAIBA | YAIBA: Samurai Legend | https://anilist.co/anime/177476 |  |
+| Shin Samurai-den YAIBA | YAIBA: Samurai Legend | https://anilist.co/anime/177476 | [Link](https://ani.social/post/11699780) |
 | Kimi to Idol Precure♪ | You and Idol Precure ♪ | https://anilist.co/anime/185073 | [Link](https://ani.social/post/11434567) |
 | Zatsu Tabi: That's Journey | ZatsuTabi -That's Journey- | https://anilist.co/anime/165445 |  |
 | mono | mono | https://anilist.co/anime/176246 |  |
@@ -149,7 +149,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2780 |
 | Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 24 |
 | Shimajirou: Shimajirou to Yuuki no Uta | Shimajirou: Shimajirou to Yuuki no Uta | https://anilist.co/anime/183412 | Episode 1 |
-| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1278 |
+| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1279 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 103 |
 | Sorairo Utility (TV) | Sorairo Utility (TV) | https://anilist.co/anime/174596 | Episode 12 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1692 |
