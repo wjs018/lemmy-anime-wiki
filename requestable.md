@@ -92,6 +92,7 @@ These shows have had episodes air already, but no thread was created because the
 | FARMAGIA | FARMAGIA | https://anilist.co/anime/178312 | Episode 12 |
 | Hana wa Saku, Shura no Gotoku | Flower and Asura | https://anilist.co/anime/178022 | Episode 12 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 151 |
+| GUILTY GEAR STRIVE: DUAL RULERS | GUILTY GEAR STRIVE: DUAL RULERS | https://anilist.co/anime/178046 | Episode 1 |
 | Grisaia: Phantom Trigger THE ANIMATION (TV) | Grisaia: Phantom Trigger | https://anilist.co/anime/145740 | Episode 13 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 598 |
 | Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi | Headhunted to Another World: From Salaryman to Big Four! | https://anilist.co/anime/179689 | Episode 12 |
@@ -119,6 +120,7 @@ These shows have had episodes air already, but no thread was created because the
 | MIRU: Watashi no Mirai | MIRU: Watashi no Mirai | https://anilist.co/anime/166373 | Episode 1 |
 | MUZIK TIGER In the Forest | MUZIK TIGER In the Forest | https://anilist.co/anime/177633 | Episode 1 |
 | Magic Maker: Isekai Mahou no Tsukurikata | Magic Maker: How to Make Magic in Another World | https://anilist.co/anime/179297 | Episode 12 |
+| Masuda Kousuke Gekijou Gag Manga Biyori GO | Masuda Kousuke Gekijou Gag Manga Biyori GO | https://anilist.co/anime/185259 | Episode 1 |
 | Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai | Medaka Kuroiwa is Impervious to My Charms | https://anilist.co/anime/177552 | Episode 12 |
 | Momentary Lily | Momentary Lily | https://anilist.co/anime/177159 | Episode 13 |
 | Mononoke: Hinezumi | Mononoke: Hinezumi | https://anilist.co/anime/179852 | Episode 1 |
@@ -187,7 +189,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | #Compass 2.0－Sentou Setsuri Kaiseki System | #COMPASS2.0 ANIMATION PROJECT | https://anilist.co/anime/158287 | April 07 at 15:00 |
 | CLASSIC★STARS | CLASSIC★STARS | https://anilist.co/anime/178825 | April 05 at 16:00 |
 | Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku  | Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku  | https://anilist.co/anime/188131 | April 08 at 12:56 |
-| GUILTY GEAR STRIVE: DUAL RULERS | GUILTY GEAR STRIVE: DUAL RULERS | https://anilist.co/anime/178046 | April 05 at 13:30 |
 | Go! Go! Vehicle Zoo: Norimono Star-hen | Go! Go! Vehicle Zoo: Norimono Star-hen | https://anilist.co/anime/188661 | April 05 at 23:30 |
 | HANA-Doll*: Reinterpretation of Flowering | HANA-Doll*: Reinterpretation of Flowering | https://anilist.co/anime/166371 | April 09 at 13:30 |
 | Himitsu no AiPri: Ring-hen | Himitsu no AiPri: Ring-hen | https://anilist.co/anime/184470 | April 06 at 00:30 |
@@ -195,7 +196,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | MOONRISE | MOONRISE | https://anilist.co/anime/150654 | April 10 at 07:00 |
 | Maebashi Witches | Maebashi Witches | https://anilist.co/anime/180825 | April 06 at 13:30 |
 | Kakushite! Makina-san!! | Makina-san's a Love Bot?! | https://anilist.co/anime/177509 | April 06 at 16:20 |
-| Masuda Kousuke Gekijou Gag Manga Biyori GO | Masuda Kousuke Gekijou Gag Manga Biyori GO | https://anilist.co/anime/185259 | April 05 at 13:30 |
 | Vigilante: Boku no Hero Academia ILLEGALS | My Hero Academia: Vigilantes | https://anilist.co/anime/185736 | April 07 at 14:00 |
 | Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | April 06 at 00:00 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | April 05 at 22:16 |
