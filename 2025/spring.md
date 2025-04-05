@@ -38,6 +38,13 @@ Episode|Link
 1|[Link](https://ani.social/post/11485634)
 {.dense}
 
+## Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru • The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/11691153)
+{.dense}
+
 ## Kijin Gentoushou • Sword of the Demon Hunter: Kijin Gentosho
 
 Episode|Link
