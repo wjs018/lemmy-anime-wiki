@@ -45,7 +45,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru | The Gorilla God’s Go-To Girl | https://anilist.co/anime/182060 |  |
 | Sentai Red Isekai de Boukensha ni Naru | The Red Ranger Becomes an Adventurer in Another World | https://anilist.co/anime/180052 | [Link](https://ani.social/post/11463925) |
 | Shiunji-ke no Kodomotachi | The Shiunji Family Children | https://anilist.co/anime/174802 |  |
-| Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru | The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom | https://anilist.co/anime/183275 |  |
+| Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru | The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom | https://anilist.co/anime/183275 | [Link](https://ani.social/post/11691153) |
 | Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi | The Unaware Atelier Meister | https://anilist.co/anime/183133 | [Link](https://ani.social/post/11485634) |
 | WIND BREAKER Season 2 | WIND BREAKER Season 2 | https://anilist.co/anime/178680 | [Link](https://ani.social/post/11628568) |
 | Witch Watch | Witch Watch | https://anilist.co/anime/180367 |  |
