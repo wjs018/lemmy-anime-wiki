@@ -92,6 +92,8 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/11714963)
+2|[Link](https://ani.social/post/11714963)
+3|[Link](https://ani.social/post/11714963)
 {.dense}
 
 ## Rock wa Lady no Tashinami Deshite • Rock is a Lady’s Modesty
