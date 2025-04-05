@@ -52,6 +52,13 @@ Episode|Link
 1|[Link](https://ani.social/post/11493205)
 {.dense}
 
+## Lazarus
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/11694732)
+{.dense}
+
 ## Nazotoki wa Dinner no Ato de
 
 Episode|Link
