@@ -87,6 +87,13 @@ Episode|Link
 1|[Link](https://ani.social/post/11668898)
 {.dense}
 
+## Ore wa Seikan Kokka no Akutoku Ryoushu!  • I'm the Evil Lord of an Intergalactic Empire!
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/11714963)
+{.dense}
+
 ## Rock wa Lady no Tashinami Deshite • Rock is a Lady’s Modesty
 
 Episode|Link
