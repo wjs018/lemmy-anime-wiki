@@ -149,6 +149,7 @@ These shows have had episodes air already, but no thread was created because the
 | Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran | Rurouni Kenshin -Kyoto Disturbance- | https://anilist.co/anime/171637 | Episode 23 |
 | SAKAMOTO DAYS | SAKAMOTO DAYS | https://anilist.co/anime/177709 | Episode 11 |
 | SHIBUYA♡HACHI 2nd Season | SHIBUYA♡HACHI 2nd Season | https://anilist.co/anime/185715 | Episode 1 |
+| Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 1 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2780 |
 | Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 24 |
 | Shimajirou: Shimajirou to Yuuki no Uta | Shimajirou: Shimajirou to Yuuki no Uta | https://anilist.co/anime/183412 | Episode 1 |
@@ -197,7 +198,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Kakushite! Makina-san!! | Makina-san's a Love Bot?! | https://anilist.co/anime/177509 | April 06 at 16:20 |
 | Vigilante: Boku no Hero Academia ILLEGALS | My Hero Academia: Vigilantes | https://anilist.co/anime/185736 | April 07 at 14:00 |
 | Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | April 06 at 00:00 |
-| Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | April 05 at 22:16 |
 | Yamato yo Towa ni: REBEL3199 | Star Blazers: Space Battleship Yamato 3199 | https://anilist.co/anime/144779 | April 10 at 16:00 |
 | Summer Pockets | Summer Pockets | https://anilist.co/anime/143200 | April 07 at 14:30 |
 | Tamaranai no wa Koi nano ka | Tamaranai no wa Koi nano ka | https://anilist.co/anime/187362 | April 06 at 14:30 |
