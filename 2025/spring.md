@@ -145,3 +145,10 @@ Episode|Link
 1|[Link](https://ani.social/post/11628568)
 {.dense}
 
+## Witch Watch
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/11738603)
+{.dense}
+
