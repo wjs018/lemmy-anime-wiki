@@ -38,11 +38,19 @@ Episode|Link
 1|[Link](https://ani.social/post/11729583)
 {.dense}
 
+## Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru • The Gorilla God’s Go-To Girl
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/11749113)
+{.dense}
+
 ## Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi • The Unaware Atelier Meister
 
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/11485634)
+2|[Link](https://ani.social/post/11749112)
 {.dense}
 
 ## Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru • The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom
