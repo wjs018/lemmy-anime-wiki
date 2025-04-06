@@ -31,6 +31,13 @@ Episode|Link
 1|[Link](https://ani.social/post/11674087)
 {.dense}
 
+## GUILTY GEAR STRIVE: DUAL RULERS
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/11729583)
+{.dense}
+
 ## Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi • The Unaware Atelier Meister
 
 Episode|Link
