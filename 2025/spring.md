@@ -87,7 +87,7 @@ Episode|Link
 1|[Link](https://ani.social/post/11694732)
 {.dense}
 
-## Nazotoki wa Dinner no Ato de
+## Nazotoki wa Dinner no Ato de • The Dinner Table Detective
 
 Episode|Link
 :-:|:-:
