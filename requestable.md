@@ -123,7 +123,7 @@ These shows have had episodes air already, but no thread was created because the
 | Momentary Lily | Momentary Lily | https://anilist.co/anime/177159 | Episode 13 |
 | Mononoke: Hinezumi | Mononoke: Hinezumi | https://anilist.co/anime/179852 | Episode 1 |
 | Watashi no Shiawase na Kekkon 2nd Season | My Happy Marriage Season 2 | https://anilist.co/anime/169441 | Episode 12 |
-| Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 25 |
+| Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 26 |
 | Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 18 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 161 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 1 |
