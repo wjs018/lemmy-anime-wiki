@@ -86,6 +86,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/11493205)
+2|[Link](https://ani.social/post/11793006)
 {.dense}
 
 ## Kowloon Generic Romance
