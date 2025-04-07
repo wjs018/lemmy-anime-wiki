@@ -24,6 +24,13 @@ Episode|Link
 1|[Link](https://ani.social/post/11541124)
 {.dense}
 
+## Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara.
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/11785904)
+{.dense}
+
 ## Enen no Shouboutai: San no Shou • Fire Force Season 3
 
 Episode|Link
