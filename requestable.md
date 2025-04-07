@@ -200,6 +200,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | HANA-Doll*: Reinterpretation of Flowering | HANA-Doll*: Reinterpretation of Flowering | https://anilist.co/anime/166371 | April 09 at 13:30 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | April 07 at 23:28 |
 | MOONRISE | MOONRISE | https://anilist.co/anime/150654 | April 10 at 07:00 |
+| Meitantei Conan: Sekigan no Flashback | Meitantei Conan: Sekigan no Flashback | https://anilist.co/anime/185212 | April 17 at 23:00 |
 | Yamato yo Towa ni: REBEL3199 | Star Blazers: Space Battleship Yamato 3199 | https://anilist.co/anime/144779 | April 10 at 16:00 |
 | Uchuujin MuuMuu | Uchuujin MuuMuu | https://anilist.co/anime/185070 | April 08 at 15:00 |
 | YouTuNya 3 | YouTuNya 3 | https://anilist.co/anime/189602 | April 14 at 22:00 |
