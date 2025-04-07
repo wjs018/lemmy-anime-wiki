@@ -113,6 +113,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kaijyu Sekai Seifuku | Kaijyu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 1 |
 | Kinnikuman: Kanpeki Choujin Shiso-hen Season 2 | Kinnikuman Perfect Origin Arc Season 2 | https://anilist.co/anime/181886 | Episode 11 |
 | Koisuru ONE PIECE | Koisuru ONE PIECE | https://anilist.co/anime/188668 | Episode 5 |
+| Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 1 |
 | Kankin Kuiki Level X 2nd Season | Lockdown Zone: Level X Season 2 | https://anilist.co/anime/182877 | Episode 6 |
 | Luka to Taiyou no Hana | Luka and the Flower of the Sun | https://anilist.co/anime/178126 | Episode 2 |
 | Mashin Souzouden Wataru | MACHINE GENESIS WATARU | https://anilist.co/anime/173333 | Episode 13 |
@@ -198,7 +199,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku  | Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku  | https://anilist.co/anime/188131 | April 08 at 12:56 |
 | Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita Mini Anime Gekijou | Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita Mini Anime Gekijou | https://anilist.co/anime/189832 | April 13 at 17:06 |
 | HANA-Doll*: Reinterpretation of Flowering | HANA-Doll*: Reinterpretation of Flowering | https://anilist.co/anime/166371 | April 09 at 13:30 |
-| Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | April 07 at 23:28 |
 | MOONRISE | MOONRISE | https://anilist.co/anime/150654 | April 10 at 07:00 |
 | Meitantei Conan: Sekigan no Flashback | Meitantei Conan: Sekigan no Flashback | https://anilist.co/anime/185212 | April 17 at 23:00 |
 | Yamato yo Towa ni: REBEL3199 | Star Blazers: Space Battleship Yamato 3199 | https://anilist.co/anime/144779 | April 10 at 16:00 |
