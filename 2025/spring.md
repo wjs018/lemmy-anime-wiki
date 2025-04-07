@@ -10,6 +10,13 @@ dateCreated: 2025-03-31T16:19:02.497Z
 
 Below, you can find an index of all the discussion threads for shows from the Spring 2025 anime season. Not every episode of every show may have a discussion thread. To more easily find the show you are looking for, use the navigation menu for this page or use Ctrl+F.
 
+## Aharen-san wa Hakarenai Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/11786652)
+{.dense}
+
 ## Anne Shirley
 
 Episode|Link
@@ -172,5 +179,12 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/11738603)
+{.dense}
+
+## Zatsu Tabi: That's Journey • ZatsuTabi -That's Journey-
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/11786650)
 {.dense}
 
