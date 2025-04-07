@@ -29,6 +29,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kowloon Generic Romance | Kowloon Generic Romance | https://anilist.co/anime/182814 | [Link](https://ani.social/post/11708730) |
 | Lazarus | Lazarus | https://anilist.co/anime/167336 | [Link](https://ani.social/post/11694732) |
 | Lycoris Recoil: Friends are thieves of time. | Lycoris Recoil: Friends are thieves of time. | https://anilist.co/anime/179706 |  |
+| Maebashi Witches | Maebashi Witches | https://anilist.co/anime/180825 | [Link](https://ani.social/post/11784247) |
 | Kidou Senshi Gundam GQuuuuuuX | Mobile Suit Gundam GQuuuuuuX | https://anilist.co/anime/185213 |  |
 | Aru Majo ga Shinu Made | Once Upon a Witch's Death | https://anilist.co/anime/178701 | [Link](https://ani.social/post/11541124) |
 | Rock wa Lady no Tashinami Deshite | Rock is a Lady’s Modesty | https://anilist.co/anime/179694 | [Link](https://ani.social/post/11627015) |
@@ -116,7 +117,6 @@ These shows have had episodes air already, but no thread was created because the
 | Mashin Souzouden Wataru | MACHINE GENESIS WATARU | https://anilist.co/anime/173333 | Episode 13 |
 | MIRU: Watashi no Mirai | MIRU: Watashi no Mirai | https://anilist.co/anime/166373 | Episode 1 |
 | MUZIK TIGER In the Forest | MUZIK TIGER In the Forest | https://anilist.co/anime/177633 | Episode 1 |
-| Maebashi Witches | Maebashi Witches | https://anilist.co/anime/180825 | Episode 1 |
 | Magic Maker: Isekai Mahou no Tsukurikata | Magic Maker: How to Make Magic in Another World | https://anilist.co/anime/179297 | Episode 12 |
 | Kakushite! Makina-san!! | Makina-san's a Love Bot?! | https://anilist.co/anime/177509 | Episode 1 |
 | Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai | Medaka Kuroiwa is Impervious to My Charms | https://anilist.co/anime/177552 | Episode 12 |
