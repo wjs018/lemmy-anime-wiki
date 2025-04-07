@@ -35,7 +35,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Rock wa Lady no Tashinami Deshite | Rock is a Lady’s Modesty | https://anilist.co/anime/179694 | [Link](https://ani.social/post/11627015) |
 | Shoushimin Series 2nd Season | SHOSHIMIN: How to become Ordinary Season 2 | https://anilist.co/anime/181182 | [Link](https://ani.social/post/11672974) |
 | Sentai Daishikkaku 2nd Season | Sentai Daishikkaku 2nd Season | https://anilist.co/anime/178781 |  |
-| Kijin Gentoushou | Sword of the Demon Hunter: Kijin Gentosho | https://anilist.co/anime/143598 | [Link](https://ani.social/post/11493205) |
+| Kijin Gentoushou | Sword of the Demon Hunter: Kijin Gentosho | https://anilist.co/anime/143598 | [Link](https://ani.social/post/11793006) |
 | Teogonia | Teogonia | https://anilist.co/anime/176702 |  |
 | Kusuriya no Hitorigoto 2nd Season | The Apothecary Diaries Season 2 | https://anilist.co/anime/176301 | [Link](https://ani.social/post/11670534) |
 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? | The Beginning After the End | https://anilist.co/anime/183161 | [Link](https://ani.social/post/11586791) |
@@ -130,7 +130,6 @@ These shows have had episodes air already, but no thread was created because the
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 161 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 1 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 25 |
-| Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsura Sugiru | OKITSURA: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying | https://anilist.co/anime/166699 | Episode 10 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1124 |
 | Oideyo Mahou Shoujo-mura (Fuhou Senkyo) | Oideyo Mahou Shoujo-mura (Fuhou Senkyo) | https://anilist.co/anime/187998 | Episode 1 |
 | ONE PIECE: Gyojin Tou-hen | One Piece Log: Fish-Man Island Saga | https://anilist.co/anime/183423 | Episode 21 |
