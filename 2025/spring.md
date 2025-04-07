@@ -31,11 +31,32 @@ Episode|Link
 1|[Link](https://ani.social/post/11541124)
 {.dense}
 
+## Ballpark de Tsukamaete! • Catch Me at the Ballpark!
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/11801469)
+{.dense}
+
+## CLASSIC★STARS
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/11801467)
+{.dense}
+
 ## Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara.
 
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/11785904)
+{.dense}
+
+## Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!) • Can a Boy-Girl Friendship Survive?
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/11801468)
 {.dense}
 
 ## Enen no Shouboutai: San no Shou • Fire Force Season 3
