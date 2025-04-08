@@ -175,6 +175,13 @@ Episode|Link
 1|[Link](https://ani.social/post/11699780)
 {.dense}
 
+## Shiunji-ke no Kodomotachi • The Shiunji Family Children
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/11831143)
+{.dense}
+
 ## Shoushimin Series 2nd Season • SHOSHIMIN: How to become Ordinary Season 2
 
 Episode|Link
