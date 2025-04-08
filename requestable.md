@@ -152,7 +152,7 @@ These shows have had episodes air already, but no thread was created because the
 | SHIBUYA♡HACHI 2nd Season | SHIBUYA♡HACHI 2nd Season | https://anilist.co/anime/185715 | Episode 1 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 1 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2774 |
-| Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 24 |
+| Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 25 |
 | Shimajirou: Shimajirou to Yuuki no Uta | Shimajirou: Shimajirou to Yuuki no Uta | https://anilist.co/anime/183412 | Episode 1 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1279 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 103 |
