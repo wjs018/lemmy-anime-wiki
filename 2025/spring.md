@@ -24,6 +24,13 @@ Episode|Link
 1|[Link](https://ani.social/post/11684344)
 {.dense}
 
+## Apocalypse Hotel
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/11839559)
+{.dense}
+
 ## Aru Majo ga Shinu Made • Once Upon a Witch's Death
 
 Episode|Link
