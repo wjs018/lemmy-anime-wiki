@@ -37,6 +37,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/11801469)
+2|[Link](https://ani.social/post/11837061)
 {.dense}
 
 ## CLASSIC★STARS
