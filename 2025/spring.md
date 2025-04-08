@@ -29,6 +29,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/11541124)
+2|[Link](https://ani.social/post/11835940)
 {.dense}
 
 ## Ballpark de Tsukamaete! • Catch Me at the Ballpark!
@@ -100,6 +101,13 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/11710129)
+{.dense}
+
+## Kidou Senshi Gundam GQuuuuuuX • Mobile Suit Gundam GQuuuuuuX
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/11835939)
 {.dense}
 
 ## Kijin Gentoushou • Sword of the Demon Hunter: Kijin Gentosho
