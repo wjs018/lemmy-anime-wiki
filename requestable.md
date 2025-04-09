@@ -140,7 +140,7 @@ These shows have had episodes air already, but no thread was created because the
 | Oshiri Tantei 9 | Oshiri Tantei 9 | https://anilist.co/anime/185645 | Episode 1 |
 | Oshiri Tantei: Star and Moon | Oshiri Tantei: Star and Moon | https://anilist.co/anime/185643 | Episode 1 |
 | PetitCure: Precure Fairies | PetitCure: Precure Fairies | https://anilist.co/anime/188394 | Episode 1 |
-| Haite Kudasai, Takamine-san | Please Put Them On, Takamine-san | https://anilist.co/anime/179965 | Episode 1 |
+| Haite Kudasai, Takamine-san | Please Put Them On, Takamine-san | https://anilist.co/anime/179965 | Episode 2 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 89 |
 | Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2091 |
 | Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | Episode 1 |
