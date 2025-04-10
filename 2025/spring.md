@@ -162,6 +162,13 @@ Episode|Link
 1|[Link](https://ani.social/post/11668898)
 {.dense}
 
+## Ninja to Koroshiya no Futarigurashi • A Ninja and an Assassin Under One Roof
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/11920396)
+{.dense}
+
 ## Ore wa Seikan Kokka no Akutoku Ryoushu!  • I'm the Evil Lord of an Intergalactic Empire!
 
 Episode|Link
