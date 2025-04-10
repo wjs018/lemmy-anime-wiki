@@ -67,7 +67,7 @@ These shows have had episodes air already, but no thread was created because the
 | Aldnoah.Zero: Ame no Danshou - The Penultimate Truth | Aldnoah.Zero: Ame no Danshou - The Penultimate Truth | https://anilist.co/anime/181440 | Episode 1 |
 | Alps no Roujin Heidi no Ojii-san | Alps no Roujin Heidi no Ojii-san | https://anilist.co/anime/185539 | Episode 14 |
 | Douse, Koishite Shimaunda. | Anyway, I'm Falling in Love with You. | https://anilist.co/anime/175409 | Episode 12 |
-| Araiguma Calcal-dan | Araiguma Calcal-dan | https://anilist.co/anime/186522 | Episode 1 |
+| Araiguma Calcal-dan | Araiguma Calcal-dan | https://anilist.co/anime/186522 | Episode 2 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 75 |
 | Baban Baban Ban Vampire | Babanba Banban Vampire | https://anilist.co/anime/175422 | Episode 12 |
 | S-Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu | Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster! | https://anilist.co/anime/176158 | Episode 12 |
@@ -132,7 +132,7 @@ These shows have had episodes air already, but no thread was created because the
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 26 |
 | Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 19 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 161 |
-| Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 1 |
+| Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 2 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 25 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1124 |
 | Oideyo Mahou Shoujo-mura (Fuhou Senkyo) | Oideyo Mahou Shoujo-mura (Fuhou Senkyo) | https://anilist.co/anime/187998 | Episode 1 |
