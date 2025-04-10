@@ -148,6 +148,25 @@ Episode|Link
 1|[Link](https://ani.social/post/11694732)
 {.dense}
 
+## MOONRISE
+
+Episode|Link|Episode|Link
+:-:|:-:|:-:|:-:
+1|[Link](https://ani.social/post/11931436)|14|[Link](https://ani.social/post/11931436)
+2|[Link](https://ani.social/post/11931436)|15|[Link](https://ani.social/post/11931436)
+3|[Link](https://ani.social/post/11931436)|16|[Link](https://ani.social/post/11931436)
+4|[Link](https://ani.social/post/11931436)|17|[Link](https://ani.social/post/11931436)
+5|[Link](https://ani.social/post/11931436)|18|[Link](https://ani.social/post/11931436)
+6|[Link](https://ani.social/post/11931436)
+7|[Link](https://ani.social/post/11931436)
+8|[Link](https://ani.social/post/11931436)
+9|[Link](https://ani.social/post/11931436)
+10|[Link](https://ani.social/post/11931436)
+11|[Link](https://ani.social/post/11931436)
+12|[Link](https://ani.social/post/11931436)
+13|[Link](https://ani.social/post/11931436)
+{.dense}
+
 ## Maebashi Witches
 
 Episode|Link
