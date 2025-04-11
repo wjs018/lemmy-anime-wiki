@@ -180,6 +180,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/11668898)
+2|[Link](https://ani.social/post/11971574)
 {.dense}
 
 ## Ninja to Koroshiya no Futarigurashi • A Ninja and an Assassin Under One Roof
@@ -240,6 +241,13 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/11706491)
+{.dense}
+
+## Teogonia
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/11971575)
 {.dense}
 
 ## WIND BREAKER Season 2
