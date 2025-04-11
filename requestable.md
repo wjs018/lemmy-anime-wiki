@@ -68,7 +68,7 @@ These shows have had episodes air already, but no thread was created because the
 | Alps no Roujin Heidi no Ojii-san | Alps no Roujin Heidi no Ojii-san | https://anilist.co/anime/185539 | Episode 14 |
 | Douse, Koishite Shimaunda. | Anyway, I'm Falling in Love with You. | https://anilist.co/anime/175409 | Episode 12 |
 | Araiguma Calcal-dan | Araiguma Calcal-dan | https://anilist.co/anime/186522 | Episode 2 |
-| BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 75 |
+| BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 76 |
 | Baban Baban Ban Vampire | Babanba Banban Vampire | https://anilist.co/anime/175422 | Episode 12 |
 | S-Rank Monster no "Behemoth" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu | Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster! | https://anilist.co/anime/176158 | Episode 12 |
 | Ao no Hako | Blue Box | https://anilist.co/anime/170942 | Episode 25 |
