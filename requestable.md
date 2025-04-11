@@ -87,6 +87,7 @@ These shows have had episodes air already, but no thread was created because the
 | Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru | Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest | https://anilist.co/anime/178548 | Episode 12 |
 | Everyday Host | Everyday Host | https://anilist.co/anime/185584 | Episode 2 |
 | FARMAGIA | FARMAGIA | https://anilist.co/anime/178312 | Episode 12 |
+| Enen no Shouboutai: San no Shou | Fire Force Season 3 | https://anilist.co/anime/149118 | Episode 2 |
 | Hana wa Saku, Shura no Gotoku | Flower and Asura | https://anilist.co/anime/178022 | Episode 12 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 152 |
 | Masuda Kousuke Gekijou Gag Manga Biyori GO | Gag Manga Biyori GO | https://anilist.co/anime/185259 | Episode 1 |
@@ -203,7 +204,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Boku to Roboco Movie | Boku to Roboco Movie | https://anilist.co/anime/166249 | April 17 at 15:00 |
 | Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita Mini Anime Gekijou | Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita Mini Anime Gekijou | https://anilist.co/anime/189832 | April 13 at 17:06 |
-| Enen no Shouboutai: San no Shou | Fire Force Season 3 | https://anilist.co/anime/149118 | April 11 at 17:53 |
 | Meitantei Conan: Sekigan no Flashback | Meitantei Conan: Sekigan no Flashback | https://anilist.co/anime/185212 | April 17 at 23:00 |
 | Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu | SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life | https://anilist.co/anime/179541 | April 20 at 10:30 |
 | YouTuNya 3 | YouTuNya 3 | https://anilist.co/anime/189602 | April 14 at 22:00 |
