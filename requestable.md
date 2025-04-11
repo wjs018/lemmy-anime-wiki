@@ -193,7 +193,7 @@ These shows have had episodes air already, but no thread was created because the
 | Zenryoku Usagi Season 2 | Zenryoku Usagi Season 2 | https://anilist.co/anime/184182 | Episode 1 |
 | cocoon: Aru Natsu no Shoujo-tachi Yori | cocoon: Aru Natsu no Shoujo-tachi Yori | https://anilist.co/anime/166527 | Episode 1 |
 | minini Animation Series | minini Animation Series | https://anilist.co/anime/186752 | Episode 12 |
-| minute! kaiju no. 8 | minute! kaiju no. 8 | https://anilist.co/anime/186300 | Episode 18 |
+| minute! kaiju no. 8 | minute! kaiju no. 8 | https://anilist.co/anime/186300 | Episode 19 |
 {.dense}
 
 ## Upcoming Shows
