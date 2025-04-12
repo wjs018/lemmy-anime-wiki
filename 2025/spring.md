@@ -82,6 +82,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/11729583)
+2|[Link](https://ani.social/post/12014010)
 {.dense}
 
 ## Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru • The Gorilla God’s Go-To Girl
@@ -112,6 +113,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/11710129)
+2|[Link](https://ani.social/post/12014011)
 {.dense}
 
 ## Kidou Senshi Gundam GQuuuuuuX • Mobile Suit Gundam GQuuuuuuX
