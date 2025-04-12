@@ -22,6 +22,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/11684344)
+2|[Link](https://ani.social/post/12006660)
 {.dense}
 
 ## Apocalypse Hotel
