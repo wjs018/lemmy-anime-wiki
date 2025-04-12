@@ -92,6 +92,13 @@ Episode|Link
 1|[Link](https://ani.social/post/11749113)
 {.dense}
 
+## Hibi wa Sugiredo Meshi Umashi • Food for the Soul
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/12015842)
+{.dense}
+
 ## Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi • The Unaware Atelier Meister
 
 Episode|Link
@@ -144,6 +151,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/11710130)
+2|[Link](https://ani.social/post/12015841)
 {.dense}
 
 ## Lazarus
