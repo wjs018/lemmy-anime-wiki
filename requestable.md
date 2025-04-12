@@ -101,7 +101,7 @@ These shows have had episodes air already, but no thread was created because the
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 307 |
 | Honey Lemon Soda | Honey Lemon Soda | https://anilist.co/anime/175443 | Episode 12 |
 | Kono Kaisha ni Suki na Hito ga Imasu | I Have a Crush at Work | https://anilist.co/anime/179696 | Episode 12 |
-| A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu. | I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! | https://anilist.co/anime/180812 | Episode 12 |
+| A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu. | I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! | https://anilist.co/anime/180812 | Episode 13 |
 | Kisaki Kyouiku kara Nigetai Watashi | I Want to Escape from Princess Lessons | https://anilist.co/anime/170650 | Episode 12 |
 | Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta. | I'm Getting Married to a Girl I Hate in My Class | https://anilist.co/anime/178462 | Episode 12 |
 | NEET Kunoichi to Naze ka Dousei Hajimemashita | I'm Living With a Otaku NEET Kunoichi?! | https://anilist.co/anime/174654 | Episode 23 |
@@ -125,7 +125,6 @@ These shows have had episodes air already, but no thread was created because the
 | Kakushite! Makina-san!! | Makina-san's a Love Bot?! | https://anilist.co/anime/177509 | Episode 1 |
 | Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai | Medaka Kuroiwa is Impervious to My Charms | https://anilist.co/anime/177552 | Episode 12 |
 | Momentary Lily | Momentary Lily | https://anilist.co/anime/177159 | Episode 13 |
-| Mononoke: Hinezumi | Mononoke: Hinezumi | https://anilist.co/anime/179852 | Episode 1 |
 | Watashi no Shiawase na Kekkon 2nd Season | My Happy Marriage Season 2 | https://anilist.co/anime/169441 | Episode 13 |
 | Vigilante: Boku no Hero Academia ILLEGALS | My Hero Academia: Vigilantes | https://anilist.co/anime/185736 | Episode 1 |
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 26 |
