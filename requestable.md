@@ -80,6 +80,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 52 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 260 |
 | Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku  | Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku  | https://anilist.co/anime/188131 | Episode 1 |
+| Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita Mini Anime Gekijou | Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita Mini Anime Gekijou | https://anilist.co/anime/189832 | Episode 2 |
 | Dokodemo Makibao | Dokodemo Makibao | https://anilist.co/anime/185538 | Episode 28 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 858 |
 | Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | Episode 37 |
@@ -181,7 +182,7 @@ These shows have had episodes air already, but no thread was created because the
 | UniteUp!: Uni:Birth | UniteUp! -Uni:Birth- | https://anilist.co/anime/167742 | Episode 12 |
 | Unnamed Memory Act.2 | Unnamed Memory Season 2 | https://anilist.co/anime/178550 | Episode 12 |
 | Mahoutsukai Precure!! MIRAI DAYS | Witchy Precure!! ~MIRAI DAYS~ | https://anilist.co/anime/162722 | Episode 12 |
-| Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita | Yandere Dark Elf: She Chased Me All the Way From Another World! | https://anilist.co/anime/180829 | Episode 1 |
+| Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita | Yandere Dark Elf: She Chased Me All the Way From Another World! | https://anilist.co/anime/180829 | Episode 2 |
 | Yao Shen Ji 8 | Yao Shen Ji 8 | https://anilist.co/anime/178351 | Episode 50 |
 | Kimi to Idol Precure♪ | You and Idol Precure ♪ | https://anilist.co/anime/185073 | Episode 10 |
 | Your Forma | Your Forma | https://anilist.co/anime/167142 | Episode 2 |
@@ -200,7 +201,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Boku to Roboco Movie | Boku to Roboco Movie | https://anilist.co/anime/166249 | April 17 at 15:00 |
-| Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita Mini Anime Gekijou | Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita Mini Anime Gekijou | https://anilist.co/anime/189832 | April 13 at 17:06 |
 | Hyakushou Kizoku 2 OVA | Hyakushou Kizoku 2 OVA | https://anilist.co/anime/185716 | April 22 at 15:00 |
 | Meitantei Conan: Sekigan no Flashback | Meitantei Conan: Sekigan no Flashback | https://anilist.co/anime/185212 | April 17 at 23:00 |
 | Natsume Yuujinchou Shichi Special | Natsume Yuujinchou Shichi Special | https://anilist.co/anime/184762 | April 22 at 15:00 |
