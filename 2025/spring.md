@@ -91,6 +91,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/11749113)
+2|[Link](https://ani.social/post/12058265)
 {.dense}
 
 ## Hibi wa Sugiredo Meshi Umashi • Food for the Soul
@@ -106,6 +107,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/11485634)
 2|[Link](https://ani.social/post/11749112)
+3|[Link](https://ani.social/post/12058210)
 {.dense}
 
 ## Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru • The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom
@@ -187,6 +189,7 @@ Episode|Link|Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/11784247)
+2|[Link](https://ani.social/post/12058205)
 {.dense}
 
 ## Nazotoki wa Dinner no Ato de • The Dinner Table Detective
@@ -227,6 +230,13 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/11586791)
 2|[Link](https://ani.social/post/11886950)
+{.dense}
+
+## Sentai Daishikkaku 2nd Season
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/12058264)
 {.dense}
 
 ## Shin Samurai-den YAIBA • YAIBA: Samurai Legend
