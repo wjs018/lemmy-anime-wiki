@@ -132,7 +132,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 162 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 2 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 26 |
-| ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1124 |
+| ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1125 |
 | Oideyo Mahou Shoujo-mura (Fuhou Senkyo) | Oideyo Mahou Shoujo-mura (Fuhou Senkyo) | https://anilist.co/anime/187998 | Episode 2 |
 | ONE PIECE: Gyojin Tou-hen | One Piece Log: Fish-Man Island Saga | https://anilist.co/anime/183423 | Episode 21 |
 | Chi. Chikyuu no Undou ni Tsuite | Orb: On the Movements of the Earth | https://anilist.co/anime/151514 | Episode 25 |
