@@ -160,6 +160,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/11694732)
+2|[Link](https://ani.social/post/12042495)
 {.dense}
 
 ## MOONRISE
