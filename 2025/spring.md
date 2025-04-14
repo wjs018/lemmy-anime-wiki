@@ -15,6 +15,7 @@ Below, you can find an index of all the discussion threads for shows from the Sp
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/11786652)
+2|[Link](https://ani.social/post/12098839)
 {.dense}
 
 ## Anne Shirley
@@ -299,6 +300,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/11786650)
+2|[Link](https://ani.social/post/12098838)
 {.dense}
 
 ## mono
