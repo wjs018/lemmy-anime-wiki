@@ -61,6 +61,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/11785904)
+2|[Link](https://ani.social/post/12097781)
 {.dense}
 
 ## Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!) • Can a Boy-Girl Friendship Survive?
