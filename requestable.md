@@ -158,7 +158,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1693 |
 | Yamato yo Towa ni: REBEL3199 | Star Blazers: Space Battleship Yamato 3199 | https://anilist.co/anime/144779 | Episode 7 |
 | Sumikko Gurashi: Koko ga Ochitsukun Desu | Sumikko Gurashi: Koko ga Ochitsukun Desu | https://anilist.co/anime/188884 | Episode 2 |
-| Summer Pockets | Summer Pockets | https://anilist.co/anime/143200 | Episode 1 |
+| Summer Pockets | Summer Pockets | https://anilist.co/anime/143200 | Episode 2 |
 | Chao Neng Lifang | Super Cube | https://anilist.co/anime/166442 | Episode 6 |
 | Tamaranai no wa Koi nano ka | Tamaranai no wa Koi nano ka | https://anilist.co/anime/187362 | Episode 1 |
 | Tasokare Hotel | Tasokare Hotel | https://anilist.co/anime/178495 | Episode 12 |
