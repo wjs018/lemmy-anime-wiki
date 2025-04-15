@@ -255,6 +255,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/11831143)
+2|[Link](https://ani.social/post/12146863)
 {.dense}
 
 ## Shoushimin Series 2nd Season • SHOSHIMIN: How to become Ordinary Season 2
