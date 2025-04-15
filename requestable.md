@@ -43,7 +43,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? | The Beginning After the End | https://anilist.co/anime/183161 | [Link](https://ani.social/post/11886950) |
 | Nazotoki wa Dinner no Ato de | The Dinner Table Detective | https://anilist.co/anime/184989 | [Link](https://ani.social/post/11971574) |
 | Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru | The Gorilla God’s Go-To Girl | https://anilist.co/anime/182060 | [Link](https://ani.social/post/12058265) |
-| Shiunji-ke no Kodomotachi | The Shiunji Family Children | https://anilist.co/anime/174802 | [Link](https://ani.social/post/11831143) |
+| Shiunji-ke no Kodomotachi | The Shiunji Family Children | https://anilist.co/anime/174802 | [Link](https://ani.social/post/12146863) |
 | Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru | The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom | https://anilist.co/anime/183275 | [Link](https://ani.social/post/11883685) |
 | Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi | The Unaware Atelier Meister | https://anilist.co/anime/183133 | [Link](https://ani.social/post/12058210) |
 | WIND BREAKER Season 2 | WIND BREAKER Season 2 | https://anilist.co/anime/178680 | [Link](https://ani.social/post/11928962) |
