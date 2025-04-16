@@ -245,6 +245,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/11586791)
 2|[Link](https://ani.social/post/11886950)
+3|[Link](https://ani.social/post/12198492)
 {.dense}
 
 ## Sentai Daishikkaku 2nd Season
