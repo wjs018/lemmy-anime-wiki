@@ -152,7 +152,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2775 |
 | Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 26 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1280 |
-| Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 104 |
+| Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 105 |
 | Sorairo Utility (TV) | Sorairo Utility (TV) | https://anilist.co/anime/174596 | Episode 12 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1693 |
 | Yamato yo Towa ni: REBEL3199 | Star Blazers: Space Battleship Yamato 3199 | https://anilist.co/anime/144779 | Episode 7 |
