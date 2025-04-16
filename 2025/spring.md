@@ -172,6 +172,13 @@ Episode|Link
 2|[Link](https://ani.social/post/12042495)
 {.dense}
 
+## Lycoris Recoil: Friends are thieves of time. • Lycoris Recoil -Friends are thieves of time.-
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/12187829)
+{.dense}
+
 ## MOONRISE
 
 Episode|Link|Episode|Link
