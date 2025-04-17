@@ -127,7 +127,7 @@ These shows have had episodes air already, but no thread was created because the
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 27 |
 | Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 20 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 162 |
-| Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 2 |
+| Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 3 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 26 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1125 |
 | Oideyo Mahou Shoujo-mura (Fuhou Senkyo) | Oideyo Mahou Shoujo-mura (Fuhou Senkyo) | https://anilist.co/anime/187998 | Episode 2 |
