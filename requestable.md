@@ -162,7 +162,6 @@ These shows have had episodes air already, but no thread was created because the
 | Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru | The Brilliant Healer's New Life in the Shadows | https://anilist.co/anime/175872 | Episode 2 |
 | Sentai Red Isekai de Boukensha ni Naru | The Red Ranger Becomes an Adventurer in Another World | https://anilist.co/anime/180052 | Episode 11 |
 | Yami Shibai 14 | Theatre of Darkness: Yamishibai 14 | https://anilist.co/anime/185088 | Episode 13 |
-| Tirori Mix (2025) | Tirori Mix (2025) | https://anilist.co/anime/188122 | Episode 1 |
 | Tu Bian Yingxiong X | To Be Hero X | https://anilist.co/anime/156092 | Episode 2 |
 | Jibaku Shounen Hanako-kun 2 | Toilet-bound Hanako-kun Season 2 | https://anilist.co/anime/170892 | Episode 12 |
 | Tono to Inu | Tono to Inu | https://anilist.co/anime/174390 | Episode 24 |
