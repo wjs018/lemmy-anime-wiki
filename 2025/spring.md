@@ -74,6 +74,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/11801468)
 2|[Link](https://ani.social/post/11969327)
+3|[Link](https://ani.social/post/12283031)
 {.dense}
 
 ## Enen no Shouboutai: San no Shou • Fire Force Season 3
