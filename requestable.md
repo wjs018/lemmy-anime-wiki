@@ -89,6 +89,7 @@ These shows have had episodes air already, but no thread was created because the
 | Enen no Shouboutai: San no Shou | Fire Force Season 3 | https://anilist.co/anime/149118 | Episode 3 |
 | Hana wa Saku, Shura no Gotoku | Flower and Asura | https://anilist.co/anime/178022 | Episode 12 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 153 |
+| GUILTY GEAR STRIVE: DUAL RULERS | GUILTY GEAR STRIVE: DUAL RULERS | https://anilist.co/anime/178046 | Episode 3 |
 | Masuda Kousuke Gekijou Gag Manga Biyori GO | Gag Manga Biyori GO | https://anilist.co/anime/185259 | Episode 3 |
 | Go! Go! Vehicle Zoo: Norimono Star-hen | Go! Go! Vehicle Zoo: Norimono Star-hen | https://anilist.co/anime/188661 | Episode 2 |
 | Grisaia: Phantom Trigger THE ANIMATION (TV) | Grisaia: Phantom Trigger | https://anilist.co/anime/145740 | Episode 13 |
@@ -193,7 +194,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
-| GUILTY GEAR STRIVE: DUAL RULERS | GUILTY GEAR STRIVE: DUAL RULERS | https://anilist.co/anime/178046 | April 19 at 14:30 |
 | Hyakushou Kizoku 2 OVA | Hyakushou Kizoku 2 OVA | https://anilist.co/anime/185716 | April 22 at 15:00 |
 | Natsume Yuujinchou Shichi Special | Natsume Yuujinchou Shichi Special | https://anilist.co/anime/184762 | April 22 at 15:00 |
 | Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu | SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life | https://anilist.co/anime/179541 | April 20 at 10:30 |
