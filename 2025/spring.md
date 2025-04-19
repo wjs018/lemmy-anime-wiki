@@ -132,6 +132,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/11710129)
 2|[Link](https://ani.social/post/12014011)
+3|[Link](https://ani.social/post/12328022)
 {.dense}
 
 ## Kidou Senshi Gundam GQuuuuuuX • Mobile Suit Gundam GQuuuuuuX
