@@ -74,7 +74,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ao no Miburo | Blue Miburo | https://anilist.co/anime/169258 | Episode 24 |
 | Boku to Roboco Movie | Boku to Roboco Movie | https://anilist.co/anime/166249 | Episode 1 |
 | Bye Bye, Earth Season 2 | Bye Bye, Earth Season 2 | https://anilist.co/anime/181078 | Episode 3 |
-| Cardfight!! Vanguard: Divinez - Deluxe-hen | CARDFIGHT!! VANGUARD Divinez DELUXE Arc | https://anilist.co/anime/182920 | Episode 12 |
+| Cardfight!! Vanguard: Divinez - Deluxe-hen | CARDFIGHT!! VANGUARD Divinez DELUXE Arc | https://anilist.co/anime/182920 | Episode 13 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1158 |
 | Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 52 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 260 |
