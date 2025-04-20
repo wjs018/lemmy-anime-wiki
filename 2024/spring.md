@@ -451,7 +451,7 @@ Episode|Link
 2|[Link](https://ani.social/post/3181965)
 {.dense}
 
-## Sentai Daishikkaku • GO! GO! Loser Ranger!
+## Sentai Daishikkaku • Go! Go! Loser Ranger!
 
 Episode|Link
 :-:|:-:

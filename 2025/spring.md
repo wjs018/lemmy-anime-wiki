@@ -258,7 +258,7 @@ Episode|Link
 3|[Link](https://ani.social/post/12198492)
 {.dense}
 
-## Sentai Daishikkaku 2nd Season
+## Sentai Daishikkaku 2nd Season • Go! Go! Loser Ranger! Season 2
 
 Episode|Link
 :-:|:-:

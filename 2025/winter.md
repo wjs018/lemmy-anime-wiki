@@ -158,7 +158,7 @@ Episode|Link
 4|[Link](https://ani.social/post/9083080)
 {.dense}
 
-## Grisaia: Phantom Trigger THE ANIMATION (TV) • Grisaia: Phantom Trigger
+## Grisaia: Phantom Trigger • Grisaia: Phantom Trigger
 
 Episode|Link
 :-:|:-:
