@@ -118,7 +118,7 @@ These shows have had episodes air already, but no thread was created because the
 | MUZIK TIGER In the Forest | MUZIK TIGER In the Forest | https://anilist.co/anime/177633 | Episode 3 |
 | Magic Maker: Isekai Mahou no Tsukurikata | Magic Maker: How to Make Magic in Another World | https://anilist.co/anime/179297 | Episode 12 |
 | Kakushite! Makina-san!! | Makina-san's a Love Bot?! | https://anilist.co/anime/177509 | Episode 2 |
-| Mashin Souzouden Wataru | Mashin Creator Wataru | https://anilist.co/anime/173333 | Episode 14 |
+| Mashin Souzouden Wataru | Mashin Creator Wataru | https://anilist.co/anime/173333 | Episode 15 |
 | Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai | Medaka Kuroiwa is Impervious to My Charms | https://anilist.co/anime/177552 | Episode 12 |
 | Meitantei Conan: Sekigan no Flashback | Meitantei Conan: Sekigan no Flashback | https://anilist.co/anime/185212 | Episode 1 |
 | Momentary Lily | Momentary Lily | https://anilist.co/anime/177159 | Episode 13 |
