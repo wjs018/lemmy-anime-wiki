@@ -279,6 +279,13 @@ Episode|Link
 3|[Link](https://ani.social/post/12320250)
 {.dense}
 
+## Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu • SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/12379815)
+{.dense}
+
 ## Shiunji-ke no Kodomotachi • The Shiunji Family Children
 
 Episode|Link
