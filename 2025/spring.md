@@ -284,6 +284,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/12379815)
+2|[Link](https://ani.social/post/12382464)
 {.dense}
 
 ## Shiunji-ke no Kodomotachi • The Shiunji Family Children
