@@ -151,6 +151,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tamaranai no wa Koi nano ka | Tamaranai no wa Koi nano ka | https://anilist.co/anime/187362 | Episode 1 |
 | Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru | The Brilliant Healer's New Life in the Shadows | https://anilist.co/anime/175872 | Episode 3 |
 | Sentai Red Isekai de Boukensha ni Naru | The Red Ranger Becomes an Adventurer in Another World | https://anilist.co/anime/180052 | Episode 11 |
+| Shiunji-ke no Kodomotachi | The Shiunji Family Children | https://anilist.co/anime/174802 | Episode 3 |
 | Yami Shibai 14 | Theatre of Darkness: Yamishibai 14 | https://anilist.co/anime/185088 | Episode 13 |
 | Tu Bian Yingxiong X | To Be Hero X | https://anilist.co/anime/156092 | Episode 3 |
 | Jibaku Shounen Hanako-kun 2 | Toilet-bound Hanako-kun Season 2 | https://anilist.co/anime/170892 | Episode 12 |
@@ -187,5 +188,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Tabekko Doubutsu THE MOVIE | Dream Animals THE MOVIE | https://anilist.co/anime/180124 | April 30 at 15:00 |
 | Hyakushou Kizoku 2 OVA | Hyakushou Kizoku 2 OVA | https://anilist.co/anime/185716 | April 22 at 15:00 |
 | Natsume Yuujinchou Shichi Special | Natsume Yuujinchou Shichi Special | https://anilist.co/anime/184762 | April 22 at 15:00 |
-| Shiunji-ke no Kodomotachi | The Shiunji Family Children | https://anilist.co/anime/174802 | April 22 at 14:30 |
 {.dense}
