@@ -53,6 +53,7 @@ Episode|Link
 1|[Link](https://ani.social/post/11801469)
 2|[Link](https://ani.social/post/11837061)
 3|[Link](https://ani.social/post/12149802)
+4|[Link](https://ani.social/post/12466079)
 {.dense}
 
 ## CLASSIC★STARS
