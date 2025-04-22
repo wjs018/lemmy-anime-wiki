@@ -72,7 +72,7 @@ These shows have had episodes air already, but no thread was created because the
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1159 |
 | Chibi Godzilla no Gyakushuu 2 | Chibi Godzilla Raids Again Season 2 | https://anilist.co/anime/175869 | Episode 52 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 260 |
-| Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku  | Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku  | https://anilist.co/anime/188131 | Episode 2 |
+| Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku  | Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku  | https://anilist.co/anime/188131 | Episode 3 |
 | Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita Mini Anime Gekijou | Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita Mini Anime Gekijou | https://anilist.co/anime/189832 | Episode 3 |
 | Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara. | Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara. | https://anilist.co/anime/182419 | Episode 3 |
 | Dokodemo Makibao | Dokodemo Makibao | https://anilist.co/anime/185538 | Episode 28 |
@@ -97,7 +97,6 @@ These shows have had episodes air already, but no thread was created because the
 | Honey Lemon Soda | Honey Lemon Soda | https://anilist.co/anime/175443 | Episode 12 |
 | Kono Kaisha ni Suki na Hito ga Imasu | I Have a Crush at Work | https://anilist.co/anime/179696 | Episode 12 |
 | A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu. | I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! | https://anilist.co/anime/180812 | Episode 14 |
-| Kisaki Kyouiku kara Nigetai Watashi | I Want to Escape from Princess Lessons | https://anilist.co/anime/170650 | Episode 12 |
 | I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 75 |
 | Ishura 2nd Season | ISHURA Season 2 | https://anilist.co/anime/176234 | Episode 12 |
 | Kaijuu 8-gou Movie | Kaiju No. 8: Mission Recon | https://anilist.co/anime/179998 | Episode 1 |
