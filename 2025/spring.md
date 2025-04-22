@@ -148,6 +148,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/11835939)
 2|[Link](https://ani.social/post/12151107)
+3|[Link](https://ani.social/post/12467377)
 {.dense}
 
 ## Kijin Gentoushou • Sword of the Demon Hunter: Kijin Gentosho
