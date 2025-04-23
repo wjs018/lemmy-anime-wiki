@@ -143,7 +143,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2776 |
 | Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 27 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1281 |
-| Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 105 |
+| Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 106 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1694 |
 | Yamato yo Towa ni: REBEL3199 | Star Blazers: Space Battleship Yamato 3199 | https://anilist.co/anime/144779 | Episode 7 |
 | Sumikko Gurashi: Koko ga Ochitsukun Desu | Sumikko Gurashi: Koko ga Ochitsukun Desu | https://anilist.co/anime/188884 | Episode 3 |
@@ -159,7 +159,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tono to Inu | Tono to Inu | https://anilist.co/anime/174390 | Episode 24 |
 | Touhai: Ura Rate Mahjong Touhai Roku | Touhai: Ura Rate Mahjong Touhai Roku | https://anilist.co/anime/173263 | Episode 25 |
 | Tousouchuu: Great Mission | Tousouchuu: Great Mission | https://anilist.co/anime/159560 | Episode 97 |
-| Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 3 |
+| Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 4 |
 | Trillion Game | Trillion Game | https://anilist.co/anime/169315 | Episode 26 |
 | Amagami-san Chi no Enmusubi | Tying the Knot with an Amagami Sister | https://anilist.co/anime/164172 | Episode 24 |
 | Uchuujin MuuMuu | Uchuujin MuuMuu | https://anilist.co/anime/185070 | Episode 2 |
