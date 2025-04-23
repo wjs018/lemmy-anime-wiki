@@ -109,7 +109,7 @@ These shows have had episodes air already, but no thread was created because the
 | Luka to Taiyou no Hana | Luka and the Flower of the Sun | https://anilist.co/anime/178126 | Episode 2 |
 | MIRU: Watashi no Mirai | MIRU: Watashi no Mirai | https://anilist.co/anime/166373 | Episode 3 |
 | MOONRISE | MOONRISE | https://anilist.co/anime/150654 | Episode 1 |
-| MUZIK TIGER In the Forest | MUZIK TIGER In the Forest | https://anilist.co/anime/177633 | Episode 3 |
+| MUZIK TIGER In the Forest | MUZIK TIGER In the Forest | https://anilist.co/anime/177633 | Episode 4 |
 | Magic Maker: Isekai Mahou no Tsukurikata | Magic Maker: How to Make Magic in Another World | https://anilist.co/anime/179297 | Episode 12 |
 | Kakushite! Makina-san!! | Makina-san's a Love Bot?! | https://anilist.co/anime/177509 | Episode 3 |
 | Mashin Souzouden Wataru | Mashin Creator Wataru | https://anilist.co/anime/173333 | Episode 15 |
@@ -120,7 +120,7 @@ These shows have had episodes air already, but no thread was created because the
 | Vigilante: Boku no Hero Academia ILLEGALS | My Hero Academia: Vigilantes | https://anilist.co/anime/185736 | Episode 3 |
 | Natsume Yuujinchou Shichi Special | Natsume Yuujinchou Shichi Special | https://anilist.co/anime/184762 | Episode 1 |
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 28 |
-| Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 20 |
+| Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 21 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 163 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 3 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 27 |
