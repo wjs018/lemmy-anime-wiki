@@ -56,7 +56,6 @@ These shows have had episodes air already, but no thread was created because the
 | :-------- | :---------------- | :----------- | :--------------------------: |
 | #Compass 2.0－Sentou Setsuri Kaiseki System | #COMPASS2.0 ANIMATION PROJECT | https://anilist.co/anime/158287 | Episode 3 |
 | Sousei no Aquarion: Myth of Emotions | AQUARION: Myth of Emotions | https://anilist.co/anime/162921 | Episode 12 |
-| Alps no Roujin Heidi no Ojii-san | Alps no Roujin Heidi no Ojii-san | https://anilist.co/anime/185539 | Episode 14 |
 | Douse, Koishite Shimaunda. | Anyway, I'm Falling in Love with You. | https://anilist.co/anime/175409 | Episode 12 |
 | Araiguma Calcal-dan | Araiguma Calcal-dan | https://anilist.co/anime/186522 | Episode 4 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 77 |
