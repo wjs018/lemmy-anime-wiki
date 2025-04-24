@@ -145,7 +145,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kijin Gentoushou | Sword of the Demon Hunter: Kijin Gentosho | https://anilist.co/anime/143598 | Episode 4 |
 | Tamaranai no wa Koi nano ka | Tamaranai no wa Koi nano ka | https://anilist.co/anime/187362 | Episode 1 |
 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? | The Beginning After the End | https://anilist.co/anime/183161 | Episode 4 |
-| Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru | The Brilliant Healer's New Life in the Shadows | https://anilist.co/anime/175872 | Episode 3 |
+| Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru | The Brilliant Healer's New Life in the Shadows | https://anilist.co/anime/175872 | Episode 4 |
 | Shiunji-ke no Kodomotachi | The Shiunji Family Children | https://anilist.co/anime/174802 | Episode 3 |
 | Yami Shibai 14 | Theatre of Darkness: Yamishibai 14 | https://anilist.co/anime/185088 | Episode 13 |
 | Tu Bian Yingxiong X | To Be Hero X | https://anilist.co/anime/156092 | Episode 3 |
@@ -159,7 +159,6 @@ These shows have had episodes air already, but no thread was created because the
 | Uchuujin MuuMuu | Uchuujin MuuMuu | https://anilist.co/anime/185070 | Episode 3 |
 | Uma Musume: Cinderella Gray | Umamusume: Cinderella Gray | https://anilist.co/anime/180516 | Episode 3 |
 | UniteUp!: Uni:Birth | UniteUp! -Uni:Birth- | https://anilist.co/anime/167742 | Episode 12 |
-| Unnamed Memory Act.2 | Unnamed Memory Season 2 | https://anilist.co/anime/178550 | Episode 12 |
 | Mahoutsukai Precure!! MIRAI DAYS | Witchy Precure!! ~MIRAI DAYS~ | https://anilist.co/anime/162722 | Episode 12 |
 | Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita | Yandere Dark Elf: She Chased Me All the Way From Another World! | https://anilist.co/anime/180829 | Episode 3 |
 | Yao Shen Ji 8 | Yao Shen Ji 8 | https://anilist.co/anime/178351 | Episode 52 |
