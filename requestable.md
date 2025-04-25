@@ -138,7 +138,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yamato yo Towa ni: REBEL3199 | Star Blazers: Space Battleship Yamato 3199 | https://anilist.co/anime/144779 | Episode 7 |
 | Sumikko Gurashi: Koko ga Ochitsukun Desu | Sumikko Gurashi: Koko ga Ochitsukun Desu | https://anilist.co/anime/188884 | Episode 4 |
 | Summer Pockets | Summer Pockets | https://anilist.co/anime/143200 | Episode 3 |
-| Chao Neng Lifang | Super Cube | https://anilist.co/anime/166442 | Episode 7 |
+| Chao Neng Lifang | Super Cube | https://anilist.co/anime/166442 | Episode 8 |
 | Kijin Gentoushou | Sword of the Demon Hunter: Kijin Gentosho | https://anilist.co/anime/143598 | Episode 4 |
 | Tamaranai no wa Koi nano ka | Tamaranai no wa Koi nano ka | https://anilist.co/anime/187362 | Episode 1 |
 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? | The Beginning After the End | https://anilist.co/anime/183161 | Episode 4 |
