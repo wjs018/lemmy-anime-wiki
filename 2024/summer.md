@@ -403,6 +403,13 @@ Episode|Link
 12|[Link](https://ani.social/post/6049050)
 {.dense}
 
+## Overlord: Sei Oukoku-hen • OVERLORD: The Sacred Kingdom
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/12594381)
+{.dense}
+
 ## Rick and Morty: The Anime
 
 Episode|Link
