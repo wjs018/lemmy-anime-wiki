@@ -162,6 +162,14 @@ Episode|Link
 3|[Link](https://ani.social/post/12102724)
 {.dense}
 
+## Kono Subarashii Sekai ni Shukufuku wo! 3: BONUS STAGE • KONOSUBA -God's Blessing on This Wonderful World! 3 -BONUS STAGE-
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/12585388)
+2|[Link](https://ani.social/post/12585388)
+{.dense}
+
 ## Kowloon Generic Romance
 
 Episode|Link
