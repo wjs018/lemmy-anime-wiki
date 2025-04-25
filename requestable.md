@@ -37,7 +37,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu | SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life | https://anilist.co/anime/179541 | [Link](https://ani.social/post/12382464) |
 | Shoushimin Series 2nd Season | SHOSHIMIN: How to become Ordinary Season 2 | https://anilist.co/anime/181182 | [Link](https://ani.social/post/12334513) |
 | Teogonia | Teogonia | https://anilist.co/anime/176702 | [Link](https://ani.social/post/12287071) |
-| Kusuriya no Hitorigoto 2nd Season | The Apothecary Diaries Season 2 | https://anilist.co/anime/176301 | [Link](https://ani.social/post/12284073) |
+| Kusuriya no Hitorigoto 2nd Season | The Apothecary Diaries Season 2 | https://anilist.co/anime/176301 | [Link](https://ani.social/post/12601613) |
 | Nazotoki wa Dinner no Ato de | The Dinner Table Detective | https://anilist.co/anime/184989 | [Link](https://ani.social/post/12285157) |
 | Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru | The Gorilla God’s Go-To Girl | https://anilist.co/anime/182060 | [Link](https://ani.social/post/12370828) |
 | Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru | The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom | https://anilist.co/anime/183275 | [Link](https://ani.social/post/12513409) |
@@ -125,7 +125,6 @@ These shows have had episodes air already, but no thread was created because the
 | Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | Episode 3 |
 | Punirunes Puni 2 | Punirunes Puni 2 | https://anilist.co/anime/179292 | Episode 25 |
 | Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season | Re:ZERO -Starting Life in Another World- Season 3 | https://anilist.co/anime/163134 | Episode 17 |
-| Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 3rd Season | https://anilist.co/anime/182417 | Episode 16 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 85 |
 | SHIBUYA♡HACHI 2nd Season | SHIBUYA♡HACHI 2nd Season | https://anilist.co/anime/185715 | Episode 3 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 3 |
