@@ -241,6 +241,7 @@ Episode|Link
 1|[Link](https://ani.social/post/11668898)
 2|[Link](https://ani.social/post/11971574)
 3|[Link](https://ani.social/post/12285157)
+4|[Link](https://ani.social/post/12602632)
 {.dense}
 
 ## Ninja to Koroshiya no Futarigurashi • A Ninja and an Assassin Under One Roof
