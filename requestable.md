@@ -58,7 +58,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sousei no Aquarion: Myth of Emotions | AQUARION: Myth of Emotions | https://anilist.co/anime/162921 | Episode 12 |
 | Douse, Koishite Shimaunda. | Anyway, I'm Falling in Love with You. | https://anilist.co/anime/175409 | Episode 12 |
 | Araiguma Calcal-dan | Araiguma Calcal-dan | https://anilist.co/anime/186522 | Episode 4 |
-| BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 77 |
+| BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 78 |
 | Baban Baban Ban Vampire | Babanba Banban Vampire | https://anilist.co/anime/175422 | Episode 12 |
 | Ao no Miburo | Blue Miburo | https://anilist.co/anime/169258 | Episode 24 |
 | Boku to Roboco Movie | Boku to Roboco Movie | https://anilist.co/anime/166249 | Episode 1 |
