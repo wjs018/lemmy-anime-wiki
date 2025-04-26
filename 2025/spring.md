@@ -327,6 +327,7 @@ Episode|Link
 1|[Link](https://ani.social/post/11672974)
 2|[Link](https://ani.social/post/12021333)
 3|[Link](https://ani.social/post/12334513)
+4|[Link](https://ani.social/post/12655249)
 {.dense}
 
 ## Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita: Sono ni • I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2
