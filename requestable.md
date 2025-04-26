@@ -44,7 +44,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi | The Unaware Atelier Meister | https://anilist.co/anime/183133 | [Link](https://ani.social/post/12370826) |
 | WIND BREAKER Season 2 | WIND BREAKER Season 2 | https://anilist.co/anime/178680 | [Link](https://ani.social/post/12559557) |
 | Witch Watch | Witch Watch | https://anilist.co/anime/180367 | [Link](https://ani.social/post/12361844) |
-| Shin Samurai-den YAIBA | YAIBA: Samurai Legend | https://anilist.co/anime/177476 | [Link](https://ani.social/post/12320250) |
 | mono | mono | https://anilist.co/anime/176246 | [Link](https://ani.social/post/12331369) |
 {.dense}
 
@@ -170,4 +169,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Tabekko Doubutsu THE MOVIE | Dream Animals THE MOVIE | https://anilist.co/anime/180124 | April 30 at 15:00 |
+| Shin Samurai-den YAIBA | YAIBA: Samurai Legend | https://anilist.co/anime/177476 | April 26 at 09:30 |
 {.dense}
