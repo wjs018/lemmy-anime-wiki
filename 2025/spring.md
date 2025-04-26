@@ -65,6 +65,7 @@ Episode|Link
 1|[Link](https://ani.social/post/11801467)
 2|[Link](https://ani.social/post/12020315)
 3|[Link](https://ani.social/post/12333322)
+4|[Link](https://ani.social/post/12654185)
 {.dense}
 
 ## Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara.
