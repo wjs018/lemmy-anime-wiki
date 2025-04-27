@@ -24,7 +24,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Ballpark de Tsukamaete! | Catch Me at the Ballpark! | https://anilist.co/anime/184279 | [Link](https://ani.social/post/12466079) |
 | Hibi wa Sugiredo Meshi Umashi | Food for the Soul | https://anilist.co/anime/185939 | [Link](https://ani.social/post/12652870) |
 | Katainaka no Ossan, Kensei ni Naru | From Old Country Bumpkin to Master Swordsman | https://anilist.co/anime/179955 | [Link](https://ani.social/post/12650969) |
-| Sentai Daishikkaku 2nd Season | Go! Go! Loser Ranger! Season 2 | https://anilist.co/anime/178781 | [Link](https://ani.social/post/12370827) |
+| Sentai Daishikkaku 2nd Season | Go! Go! Loser Ranger! Season 2 | https://anilist.co/anime/178781 | [Link](https://ani.social/post/12696740) |
 | Ore wa Seikan Kokka no Akutoku Ryoushu!  | I'm the Evil Lord of an Intergalactic Empire! | https://anilist.co/anime/183274 | [Link](https://ani.social/post/12656457) |
 | Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita: Sono ni | I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2 | https://anilist.co/anime/143337 | [Link](https://ani.social/post/12647902) |
 | Kowloon Generic Romance | Kowloon Generic Romance | https://anilist.co/anime/182814 | [Link](https://ani.social/post/12650084) |
@@ -39,7 +39,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Teogonia | Teogonia | https://anilist.co/anime/176702 | [Link](https://ani.social/post/12605894) |
 | Kusuriya no Hitorigoto 2nd Season | The Apothecary Diaries Season 2 | https://anilist.co/anime/176301 | [Link](https://ani.social/post/12601613) |
 | Nazotoki wa Dinner no Ato de | The Dinner Table Detective | https://anilist.co/anime/184989 | [Link](https://ani.social/post/12602632) |
-| Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru | The Gorilla God’s Go-To Girl | https://anilist.co/anime/182060 | [Link](https://ani.social/post/12370828) |
+| Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru | The Gorilla God’s Go-To Girl | https://anilist.co/anime/182060 | [Link](https://ani.social/post/12696741) |
 | Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru | The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom | https://anilist.co/anime/183275 | [Link](https://ani.social/post/12513409) |
 | Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi | The Unaware Atelier Meister | https://anilist.co/anime/183133 | [Link](https://ani.social/post/12693628) |
 | WIND BREAKER Season 2 | WIND BREAKER Season 2 | https://anilist.co/anime/178680 | [Link](https://ani.social/post/12559557) |
@@ -101,7 +101,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 164 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 4 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 28 |
-| ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1126 |
+| ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1127 |
 | Oideyo Mahou Shoujo-mura (Fuhou Senkyo) | Oideyo Mahou Shoujo-mura (Fuhou Senkyo) | https://anilist.co/anime/187998 | Episode 4 |
 | ONE PIECE: Gyojin Tou-hen | One Piece Log: Fish-Man Island Saga | https://anilist.co/anime/183423 | Episode 21 |
 | Oshiri Tantei 9 | Oshiri Tantei 9 | https://anilist.co/anime/185645 | Episode 4 |
