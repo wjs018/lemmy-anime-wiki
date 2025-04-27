@@ -78,7 +78,7 @@ These shows have had episodes air already, but no thread was created because the
 | HANA-Doll*: Reinterpretation of Flowering | HANA-Doll*: Reinterpretation of Flowering | https://anilist.co/anime/166371 | Episode 3 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 601 |
 | Himitsu no AiPri | Himitsu no AiPri | https://anilist.co/anime/171080 | Episode 51 |
-| Himitsu no AiPri: Ring-hen | Himitsu no AiPri: Ring-hen | https://anilist.co/anime/184470 | Episode 3 |
+| Himitsu no AiPri: Ring-hen | Himitsu no AiPri: Ring-hen | https://anilist.co/anime/184470 | Episode 4 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 309 |
 | Hyakushou Kizoku 2 OVA | Hyakushou Kizoku 2 OVA | https://anilist.co/anime/185716 | Episode 1 |
 | A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu. | I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! | https://anilist.co/anime/180812 | Episode 15 |
@@ -131,7 +131,7 @@ These shows have had episodes air already, but no thread was created because the
 | Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru | The Brilliant Healer's New Life in the Shadows | https://anilist.co/anime/175872 | Episode 4 |
 | Shiunji-ke no Kodomotachi | The Shiunji Family Children | https://anilist.co/anime/174802 | Episode 3 |
 | Yami Shibai 14 | Theatre of Darkness: Yamishibai 14 | https://anilist.co/anime/185088 | Episode 13 |
-| Tu Bian Yingxiong X | To Be Hero X | https://anilist.co/anime/156092 | Episode 3 |
+| Tu Bian Yingxiong X | To Be Hero X | https://anilist.co/anime/156092 | Episode 4 |
 | Jibaku Shounen Hanako-kun 2 | Toilet-bound Hanako-kun Season 2 | https://anilist.co/anime/170892 | Episode 12 |
 | Touhai: Ura Rate Mahjong Touhai Roku | Touhai: Ura Rate Mahjong Touhai Roku | https://anilist.co/anime/173263 | Episode 25 |
 | Tousouchuu: Great Mission | Tousouchuu: Great Mission | https://anilist.co/anime/159560 | Episode 97 |
