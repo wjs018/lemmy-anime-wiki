@@ -108,6 +108,7 @@ Episode|Link
 1|[Link](https://ani.social/post/11749113)
 2|[Link](https://ani.social/post/12058265)
 3|[Link](https://ani.social/post/12370828)
+4|[Link](https://ani.social/post/12696741)
 {.dense}
 
 ## Hibi wa Sugiredo Meshi Umashi • Food for the Soul
@@ -297,6 +298,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/12058264)
 2|[Link](https://ani.social/post/12370827)
+3|[Link](https://ani.social/post/12696740)
 {.dense}
 
 ## Shin Samurai-den YAIBA • YAIBA: Samurai Legend
