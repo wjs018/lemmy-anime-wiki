@@ -116,7 +116,7 @@ These shows have had episodes air already, but no thread was created because the
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 85 |
 | SHIBUYA♡HACHI 2nd Season | SHIBUYA♡HACHI 2nd Season | https://anilist.co/anime/185715 | Episode 4 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 4 |
-| Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2776 |
+| Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2777 |
 | Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 27 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1282 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 106 |
