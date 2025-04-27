@@ -167,6 +167,7 @@ Episode|Link
 1|[Link](https://ani.social/post/11493205)
 2|[Link](https://ani.social/post/11793006)
 3|[Link](https://ani.social/post/12102724)
+4|[Link](https://ani.social/post/12710926)
 {.dense}
 
 ## Kono Subarashii Sekai ni Shukufuku wo! 3: BONUS STAGE • KONOSUBA -God's Blessing on This Wonderful World! 3 -BONUS STAGE-
