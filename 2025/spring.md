@@ -127,6 +127,7 @@ Episode|Link
 2|[Link](https://ani.social/post/11749112)
 3|[Link](https://ani.social/post/12058210)
 4|[Link](https://ani.social/post/12370826)
+5|[Link](https://ani.social/post/12693628)
 {.dense}
 
 ## Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru • The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom
@@ -239,6 +240,7 @@ Episode|Link
 1|[Link](https://ani.social/post/11784247)
 2|[Link](https://ani.social/post/12058205)
 3|[Link](https://ani.social/post/12370824)
+4|[Link](https://ani.social/post/12693625)
 {.dense}
 
 ## Nazotoki wa Dinner no Ato de • The Dinner Table Detective
