@@ -15,7 +15,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
 | Ninja to Koroshiya no Futarigurashi | A Ninja and an Assassin Under One Roof | https://anilist.co/anime/177120 | [Link](https://ani.social/post/12553390) |
-| Aharen-san wa Hakarenai Season 2 | Aharen-san wa Hakarenai Season 2 | https://anilist.co/anime/179979 | [Link](https://ani.social/post/12414526) |
 | Anne Shirley | Anne Shirley | https://anilist.co/anime/184639 | [Link](https://ani.social/post/12641515) |
 | Apocalypse Hotel | Apocalypse Hotel | https://anilist.co/anime/180675 | [Link](https://ani.social/post/12470061) |
 | Kuroshitsuji: Midori no Majo-hen | Black Butler: Emerald Witch Arc | https://anilist.co/anime/179054 | [Link](https://ani.social/post/12650973) |
@@ -146,7 +145,7 @@ These shows have had episodes air already, but no thread was created because the
 | Your Forma | Your Forma | https://anilist.co/anime/167142 | Episode 4 |
 | Yurukawa Mell-chan | Yurukawa Mell-chan | https://anilist.co/anime/189716 | Episode 4 |
 | Yu☆Gi☆Oh! Go Rush!! | Yu☆Gi☆Oh! Go Rush!! | https://anilist.co/anime/142842 | Episode 151 |
-| Zatsu Tabi: That's Journey | ZatsuTabi -That's Journey- | https://anilist.co/anime/165445 | Episode 3 |
+| Zatsu Tabi: That's Journey | ZatsuTabi -That's Journey- | https://anilist.co/anime/165445 | Episode 4 |
 | Zenryoku Usagi Season 2 | Zenryoku Usagi Season 2 | https://anilist.co/anime/184182 | Episode 3 |
 | cocoon: Aru Natsu no Shoujo-tachi Yori | cocoon: Aru Natsu no Shoujo-tachi Yori | https://anilist.co/anime/166527 | Episode 1 |
 | minute! kaiju no. 8 | minute! kaiju no. 8 | https://anilist.co/anime/186300 | Episode 21 |
@@ -158,6 +157,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
+| Aharen-san wa Hakarenai Season 2 | Aharen-san wa Hakarenai Season 2 | https://anilist.co/anime/179979 | April 28 at 14:00 |
 | Tabekko Doubutsu THE MOVIE | Dream Animals THE MOVIE | https://anilist.co/anime/180124 | April 30 at 15:00 |
 | Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II | Our Last Crusade or the Rise of a New World Season 2 | https://anilist.co/anime/139825 | May 08 at 12:30 |
 | Sousou no Frieren: ●● no Mahou 2 | Sousou no Frieren: ●● no Mahou 2 | https://anilist.co/anime/189513 | May 07 at 11:00 |
