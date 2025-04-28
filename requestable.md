@@ -58,7 +58,6 @@ These shows have had episodes air already, but no thread was created because the
 | Araiguma Calcal-dan | Araiguma Calcal-dan | https://anilist.co/anime/186522 | Episode 4 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 78 |
 | Baban Baban Ban Vampire | Babanba Banban Vampire | https://anilist.co/anime/175422 | Episode 12 |
-| Ao no Miburo | Blue Miburo | https://anilist.co/anime/169258 | Episode 24 |
 | Boku to Roboco Movie | Boku to Roboco Movie | https://anilist.co/anime/166249 | Episode 1 |
 | Bye Bye, Earth Season 2 | Bye Bye, Earth Season 2 | https://anilist.co/anime/181078 | Episode 4 |
 | Cardfight!! Vanguard: Divinez - Deluxe-hen | CARDFIGHT!! VANGUARD Divinez DELUXE Arc | https://anilist.co/anime/182920 | Episode 13 |
