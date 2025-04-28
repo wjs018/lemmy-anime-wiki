@@ -57,7 +57,6 @@ These shows have had episodes air already, but no thread was created because the
 | Aharen-san wa Hakarenai Season 2 | Aharen-san wa Hakarenai Season 2 | https://anilist.co/anime/179979 | Episode 4 |
 | Araiguma Calcal-dan | Araiguma Calcal-dan | https://anilist.co/anime/186522 | Episode 4 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 78 |
-| Baban Baban Ban Vampire | Babanba Banban Vampire | https://anilist.co/anime/175422 | Episode 12 |
 | Boku to Roboco Movie | Boku to Roboco Movie | https://anilist.co/anime/166249 | Episode 1 |
 | Bye Bye, Earth Season 2 | Bye Bye, Earth Season 2 | https://anilist.co/anime/181078 | Episode 4 |
 | Cardfight!! Vanguard: Divinez - Deluxe-hen | CARDFIGHT!! VANGUARD Divinez DELUXE Arc | https://anilist.co/anime/182920 | Episode 13 |
@@ -121,7 +120,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1695 |
 | Yamato yo Towa ni: REBEL3199 | Star Blazers: Space Battleship Yamato 3199 | https://anilist.co/anime/144779 | Episode 7 |
 | Sumikko Gurashi: Koko ga Ochitsukun Desu | Sumikko Gurashi: Koko ga Ochitsukun Desu | https://anilist.co/anime/188884 | Episode 4 |
-| Summer Pockets | Summer Pockets | https://anilist.co/anime/143200 | Episode 3 |
+| Summer Pockets | Summer Pockets | https://anilist.co/anime/143200 | Episode 4 |
 | Chao Neng Lifang | Super Cube | https://anilist.co/anime/166442 | Episode 8 |
 | Tamaranai no wa Koi nano ka | Tamaranai no wa Koi nano ka | https://anilist.co/anime/187362 | Episode 1 |
 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? | The Beginning After the End | https://anilist.co/anime/183161 | Episode 4 |
