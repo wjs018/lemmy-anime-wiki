@@ -147,7 +147,6 @@ These shows have had episodes air already, but no thread was created because the
 | Yu☆Gi☆Oh! Go Rush!! | Yu☆Gi☆Oh! Go Rush!! | https://anilist.co/anime/142842 | Episode 151 |
 | Zatsu Tabi: That's Journey | ZatsuTabi -That's Journey- | https://anilist.co/anime/165445 | Episode 4 |
 | Zenryoku Usagi Season 2 | Zenryoku Usagi Season 2 | https://anilist.co/anime/184182 | Episode 3 |
-| cocoon: Aru Natsu no Shoujo-tachi Yori | cocoon: Aru Natsu no Shoujo-tachi Yori | https://anilist.co/anime/166527 | Episode 1 |
 | minute! kaiju no. 8 | minute! kaiju no. 8 | https://anilist.co/anime/186300 | Episode 21 |
 {.dense}
 
