@@ -46,6 +46,7 @@ Episode|Link
 2|[Link](https://ani.social/post/11835940)
 3|[Link](https://ani.social/post/12148684)
 4|[Link](https://ani.social/post/12464458)
+5|[Link](https://ani.social/post/12784275)
 {.dense}
 
 ## Ballpark de Tsukamaete! • Catch Me at the Ballpark!
