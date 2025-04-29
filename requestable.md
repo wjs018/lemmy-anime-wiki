@@ -54,6 +54,7 @@ These shows have had episodes air already, but no thread was created because the
 | Show Name | English Show Name | AniList Link | Most Recently Episode Number  |
 | :-------- | :---------------- | :----------- | :--------------------------: |
 | #Compass 2.0－Sentou Setsuri Kaiseki System | #COMPASS2.0 ANIMATION PROJECT | https://anilist.co/anime/158287 | Episode 4 |
+| A Horny Money World: Densetsu no Yoru | A Horny Money World: legendary night | https://anilist.co/anime/191734 | Episode 1 |
 | Aharen-san wa Hakarenai Season 2 | Aharen-san wa Hakarenai Season 2 | https://anilist.co/anime/179979 | Episode 4 |
 | Araiguma Calcal-dan | Araiguma Calcal-dan | https://anilist.co/anime/186522 | Episode 4 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 78 |
@@ -149,7 +150,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
-| A Horny Money World: Densetsu no Yoru | A Horny Money World: legendary night | https://anilist.co/anime/191734 | April 29 at 11:00 |
 | Tabekko Doubutsu THE MOVIE | Dream Animals THE MOVIE | https://anilist.co/anime/180124 | April 30 at 15:00 |
 | Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II | Our Last Crusade or the Rise of a New World Season 2 | https://anilist.co/anime/139825 | May 08 at 12:30 |
 | Sousou no Frieren: ●● no Mahou 2 | Sousou no Frieren: ●● no Mahou 2 | https://anilist.co/anime/189513 | May 07 at 11:00 |
