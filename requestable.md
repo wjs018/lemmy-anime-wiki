@@ -114,7 +114,7 @@ These shows have had episodes air already, but no thread was created because the
 | SHIBUYA♡HACHI 2nd Season | SHIBUYA♡HACHI 2nd Season | https://anilist.co/anime/185715 | Episode 4 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 4 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2777 |
-| Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 27 |
+| Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 28 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1282 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 106 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1695 |
