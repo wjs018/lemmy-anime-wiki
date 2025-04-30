@@ -85,7 +85,7 @@ These shows have had episodes air already, but no thread was created because the
 | Koisuru ONE PIECE | Koisuru ONE PIECE | https://anilist.co/anime/188668 | Episode 5 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 4 |
 | Mashin Souzouden Wataru | MASHIN CREATOR WATARU | https://anilist.co/anime/173333 | Episode 16 |
-| MIRU: Watashi no Mirai | MIRU: Watashi no Mirai | https://anilist.co/anime/166373 | Episode 4 |
+| MIRU: Watashi no Mirai | MIRU: Watashi no Mirai | https://anilist.co/anime/166373 | Episode 5 |
 | MOONRISE | MOONRISE | https://anilist.co/anime/150654 | Episode 1 |
 | MUZIK TIGER In the Forest | MUZIK TIGER In the Forest | https://anilist.co/anime/177633 | Episode 5 |
 | Kakushite! Makina-san!! | Makina-san's a Love Bot?! | https://anilist.co/anime/177509 | Episode 4 |
