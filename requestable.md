@@ -15,6 +15,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
 | Ninja to Koroshiya no Futarigurashi | A Ninja and an Assassin Under One Roof | https://anilist.co/anime/177120 | [Link](https://ani.social/post/12553390) |
+| Aharen-san wa Hakarenai Season 2 | Aharen-san wa Hakarenai Season 2 | https://anilist.co/anime/179979 | [Link](https://ani.social/post/12821897) |
 | Anne Shirley | Anne Shirley | https://anilist.co/anime/184639 | [Link](https://ani.social/post/12641515) |
 | Apocalypse Hotel | Apocalypse Hotel | https://anilist.co/anime/180675 | [Link](https://ani.social/post/12789783) |
 | Kuroshitsuji: Midori no Majo-hen | Black Butler: Emerald Witch Arc | https://anilist.co/anime/179054 | [Link](https://ani.social/post/12650973) |
@@ -54,7 +55,6 @@ These shows have had episodes air already, but no thread was created because the
 | :-------- | :---------------- | :----------- | :--------------------------: |
 | #Compass 2.0－Sentou Setsuri Kaiseki System | #COMPASS2.0 ANIMATION PROJECT | https://anilist.co/anime/158287 | Episode 4 |
 | A Horny Money World: Densetsu no Yoru | A Horny Money World: legendary night | https://anilist.co/anime/191734 | Episode 1 |
-| Aharen-san wa Hakarenai Season 2 | Aharen-san wa Hakarenai Season 2 | https://anilist.co/anime/179979 | Episode 4 |
 | Araiguma Calcal-dan | Araiguma Calcal-dan | https://anilist.co/anime/186522 | Episode 4 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 78 |
 | Boku to Roboco Movie | Boku to Roboco Movie | https://anilist.co/anime/166249 | Episode 1 |
