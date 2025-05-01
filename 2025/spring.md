@@ -373,6 +373,7 @@ Episode|Link
 2|[Link](https://ani.social/post/11928962)
 3|[Link](https://ani.social/post/12244197)
 4|[Link](https://ani.social/post/12559557)
+5|[Link](https://ani.social/post/12878635)
 {.dense}
 
 ## Witch Watch
