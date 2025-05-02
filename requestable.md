@@ -36,7 +36,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Shoushimin Series 2nd Season | SHOSHIMIN: How to become Ordinary Season 2 | https://anilist.co/anime/181182 | [Link](https://ani.social/post/12655249) |
 | Kijin Gentoushou | Sword of the Demon Hunter: Kijin Gentosho | https://anilist.co/anime/143598 | [Link](https://ani.social/post/12741006) |
 | Teogonia | Teogonia | https://anilist.co/anime/176702 | [Link](https://ani.social/post/12605894) |
-| Kusuriya no Hitorigoto 2nd Season | The Apothecary Diaries Season 2 | https://anilist.co/anime/176301 | [Link](https://ani.social/post/12601613) |
+| Kusuriya no Hitorigoto 2nd Season | The Apothecary Diaries Season 2 | https://anilist.co/anime/176301 | [Link](https://ani.social/post/12927426) |
 | Nazotoki wa Dinner no Ato de | The Dinner Table Detective | https://anilist.co/anime/184989 | [Link](https://ani.social/post/12602632) |
 | Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru | The Gorilla God’s Go-To Girl | https://anilist.co/anime/182060 | [Link](https://ani.social/post/12696741) |
 | Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru | The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom | https://anilist.co/anime/183275 | [Link](https://ani.social/post/12831123) |
