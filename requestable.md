@@ -93,7 +93,7 @@ These shows have had episodes air already, but no thread was created because the
 | Natsume Yuujinchou Shichi Special | Natsume Yuujinchou Shichi Special | https://anilist.co/anime/184762 | Episode 1 |
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 29 |
 | Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 22 |
-| Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 164 |
+| Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 165 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 5 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 28 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1127 |
