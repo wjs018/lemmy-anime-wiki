@@ -35,7 +35,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu | SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life | https://anilist.co/anime/179541 | [Link](https://ani.social/post/12688844) |
 | Shoushimin Series 2nd Season | SHOSHIMIN: How to become Ordinary Season 2 | https://anilist.co/anime/181182 | [Link](https://ani.social/post/12655249) |
 | Kijin Gentoushou | Sword of the Demon Hunter: Kijin Gentosho | https://anilist.co/anime/143598 | [Link](https://ani.social/post/12741006) |
-| Teogonia | Teogonia | https://anilist.co/anime/176702 | [Link](https://ani.social/post/12605894) |
 | Kusuriya no Hitorigoto 2nd Season | The Apothecary Diaries Season 2 | https://anilist.co/anime/176301 | [Link](https://ani.social/post/12927426) |
 | Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru | The Gorilla God’s Go-To Girl | https://anilist.co/anime/182060 | [Link](https://ani.social/post/12696741) |
 | Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru | The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom | https://anilist.co/anime/183275 | [Link](https://ani.social/post/12831123) |
@@ -152,5 +151,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II | Our Last Crusade or the Rise of a New World Season 2 | https://anilist.co/anime/139825 | May 08 at 12:30 |
 | Sousou no Frieren: ●● no Mahou 2 | Sousou no Frieren: ●● no Mahou 2 | https://anilist.co/anime/189513 | May 07 at 11:00 |
+| Teogonia | Teogonia | https://anilist.co/anime/176702 | May 02 at 16:30 |
 | Uta no☆Prince-sama♪ TABOO NIGHT XXXX | Uta no☆Prince-sama♪ TABOO NIGHT XXXX | https://anilist.co/anime/172393 | May 08 at 15:00 |
 {.dense}
