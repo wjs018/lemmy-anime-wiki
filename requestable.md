@@ -58,7 +58,7 @@ These shows have had episodes air already, but no thread was created because the
 | Boku to Roboco Movie | Boku to Roboco Movie | https://anilist.co/anime/166249 | Episode 1 |
 | Bye Bye, Earth Season 2 | Bye Bye, Earth Season 2 | https://anilist.co/anime/181078 | Episode 5 |
 | Cardfight!! Vanguard: Divinez - Deluxe-hen | CARDFIGHT!! VANGUARD Divinez DELUXE Arc | https://anilist.co/anime/182920 | Episode 13 |
-| Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1160 |
+| Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1161 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 260 |
 | Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku  | Chikuwa Senki: Ore no Kawaii de Chikyuu Shinryaku  | https://anilist.co/anime/188131 | Episode 4 |
 | Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita Mini Anime Gekijou | Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita Mini Anime Gekijou | https://anilist.co/anime/189832 | Episode 4 |
