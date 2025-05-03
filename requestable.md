@@ -30,7 +30,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Aru Majo ga Shinu Made | Once Upon a Witch's Death | https://anilist.co/anime/178701 | [Link](https://ani.social/post/12784275) |
 | Rock wa Lady no Tashinami Deshite | Rock is a Lady’s Modesty | https://anilist.co/anime/179694 | [Link](https://ani.social/post/12954060) |
 | Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu | SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life | https://anilist.co/anime/179541 | [Link](https://ani.social/post/12688844) |
-| Shoushimin Series 2nd Season | SHOSHIMIN: How to become Ordinary Season 2 | https://anilist.co/anime/181182 | [Link](https://ani.social/post/12655249) |
+| Shoushimin Series 2nd Season | SHOSHIMIN: How to become Ordinary Season 2 | https://anilist.co/anime/181182 | [Link](https://ani.social/post/12985414) |
 | Kijin Gentoushou | Sword of the Demon Hunter: Kijin Gentosho | https://anilist.co/anime/143598 | [Link](https://ani.social/post/12741006) |
 | Kusuriya no Hitorigoto 2nd Season | The Apothecary Diaries Season 2 | https://anilist.co/anime/176301 | [Link](https://ani.social/post/12927426) |
 | Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru | The Gorilla God’s Go-To Girl | https://anilist.co/anime/182060 | [Link](https://ani.social/post/12696741) |
@@ -127,7 +127,6 @@ These shows have had episodes air already, but no thread was created because the
 | Tu Bian Yingxiong X | To Be Hero X | https://anilist.co/anime/156092 | Episode 4 |
 | Touhai: Ura Rate Mahjong Touhai Roku | Touhai: Ura Rate Mahjong Touhai Roku | https://anilist.co/anime/173263 | Episode 25 |
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 4 |
-| Trillion Game | Trillion Game | https://anilist.co/anime/169315 | Episode 26 |
 | Uchuujin MuuMuu | Uchuujin MuuMuu | https://anilist.co/anime/185070 | Episode 4 |
 | Uma Musume: Cinderella Gray | Umamusume: Cinderella Gray | https://anilist.co/anime/180516 | Episode 4 |
 | Umayuru: Pretty Gray | Umayuru: Pretty Gray | https://anilist.co/anime/191689 | Episode 2 |
