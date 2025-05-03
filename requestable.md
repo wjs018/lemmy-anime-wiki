@@ -52,6 +52,7 @@ These shows have had episodes air already, but no thread was created because the
 | :-------- | :---------------- | :----------- | :--------------------------: |
 | #Compass 2.0－Sentou Setsuri Kaiseki System | #COMPASS2.0 ANIMATION PROJECT | https://anilist.co/anime/158287 | Episode 4 |
 | A Horny Money World: Densetsu no Yoru | A Horny Money World: legendary night | https://anilist.co/anime/191734 | Episode 1 |
+| Anne Shirley | Anne Shirley | https://anilist.co/anime/184639 | Episode 5 |
 | Araiguma Calcal-dan | Araiguma Calcal-dan | https://anilist.co/anime/186522 | Episode 5 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 79 |
 | Boku to Roboco Movie | Boku to Roboco Movie | https://anilist.co/anime/166249 | Episode 1 |
@@ -149,7 +150,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
-| Anne Shirley | Anne Shirley | https://anilist.co/anime/184639 | May 03 at 10:26 |
 | Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II | Our Last Crusade or the Rise of a New World Season 2 | https://anilist.co/anime/139825 | May 08 at 12:30 |
 | Sousou no Frieren: ●● no Mahou 2 | Sousou no Frieren: ●● no Mahou 2 | https://anilist.co/anime/189513 | May 07 at 11:00 |
 | Uta no☆Prince-sama♪ TABOO NIGHT XXXX | Uta no☆Prince-sama♪ TABOO NIGHT XXXX | https://anilist.co/anime/172393 | May 08 at 15:00 |
