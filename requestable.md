@@ -24,7 +24,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Sentai Daishikkaku 2nd Season | Go! Go! Loser Ranger! Season 2 | https://anilist.co/anime/178781 | [Link](https://ani.social/post/12696740) |
 | Ore wa Seikan Kokka no Akutoku Ryoushu!  | I'm the Evil Lord of an Intergalactic Empire! | https://anilist.co/anime/183274 | [Link](https://ani.social/post/12986107) |
 | Kowloon Generic Romance | Kowloon Generic Romance | https://anilist.co/anime/182814 | [Link](https://ani.social/post/12979712) |
-| Lazarus | Lazarus | https://anilist.co/anime/167336 | [Link](https://ani.social/post/12678111) |
+| Lazarus | Lazarus | https://anilist.co/anime/167336 | [Link](https://ani.social/post/13008503) |
 | Lycoris Recoil: Friends are thieves of time. | Lycoris Recoil -Friends are thieves of time.- | https://anilist.co/anime/179706 | [Link](https://ani.social/post/12824952) |
 | Maebashi Witches | Maebashi Witches | https://anilist.co/anime/180825 | [Link](https://ani.social/post/12693625) |
 | Aru Majo ga Shinu Made | Once Upon a Witch's Death | https://anilist.co/anime/178701 | [Link](https://ani.social/post/12784275) |
