@@ -392,6 +392,7 @@ Episode|Link
 2|[Link](https://ani.social/post/12048000)
 3|[Link](https://ani.social/post/12361844)
 4|[Link](https://ani.social/post/12684490)
+5|[Link](https://ani.social/post/13014296)
 {.dense}
 
 ## Zatsu Tabi: That's Journey • ZatsuTabi -That's Journey-
