@@ -85,7 +85,7 @@ These shows have had episodes air already, but no thread was created because the
 | MOONRISE | MOONRISE | https://anilist.co/anime/150654 | Episode 1 |
 | MUZIK TIGER In the Forest | MUZIK TIGER In the Forest | https://anilist.co/anime/177633 | Episode 5 |
 | Maebashi Witches | Maebashi Witches | https://anilist.co/anime/180825 | Episode 5 |
-| Kakushite! Makina-san!! | Makina-san's a Love Bot?! | https://anilist.co/anime/177509 | Episode 4 |
+| Kakushite! Makina-san!! | Makina-san's a Love Bot?! | https://anilist.co/anime/177509 | Episode 5 |
 | Meitantei Conan: Sekigan no Flashback | Meitantei Conan: Sekigan no Flashback | https://anilist.co/anime/185212 | Episode 1 |
 | Kidou Senshi Gundam GQuuuuuuX | Mobile Suit Gundam GQuuuuuuX | https://anilist.co/anime/185213 | Episode 4 |
 | Watashi no Shiawase na Kekkon 2nd Season | My Happy Marriage Season 2 | https://anilist.co/anime/169441 | Episode 13 |
