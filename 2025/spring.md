@@ -365,6 +365,7 @@ Episode|Link
 2|[Link](https://ani.social/post/12013020)
 3|[Link](https://ani.social/post/12326948)
 4|[Link](https://ani.social/post/12647902)
+5|[Link](https://ani.social/post/13061679)
 {.dense}
 
 ## Teogonia
