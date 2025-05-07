@@ -2,7 +2,7 @@
 title: Community Rules
 description: Full rules for the anime@ani.social community
 published: true
-date: 2024-12-03T05:32:20.921Z
+date: 2025-05-07T05:45:58.379Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-17T05:17:49.151Z
@@ -19,8 +19,6 @@ Posts must relate to anime or anime-related topics
 The working definition we are working with for this rule is that a show/movie is considered anime if it has *either* a MAL page or an AniList page. Similarly, anime-related topics could include posts about animation studios, voice talent, musicians, or other industry personnel that have worked on anime projects in the past.
 
 There are some topics that some might consider anime-related but are not allowed. An example would be video games that feature anime properties. Posts about these are not permitted in this community. Additionally, routine behind the scenes footage of industry talent like voice actors are not permitted. Posts about individuals should be about significant events (marriage, illness, death, etc.). For more typical behind the scenes footage, check out [!seiyuu@ani.social](https://ani.social/c/seiyuu).
-
-If you are making a post intending on having a discussion about a show/topic that isn't covered by one of the other categories on this page, then please include some context, a discussion starter, or descriptive enough title to help foster discussion. Doing something like creating a post with the name of a show and no other comment/post body will simply be considered low-effort and spammy content and removed.
 
 If you have a post removed and you feel it has been removed in error, feel free to reach out.
 
