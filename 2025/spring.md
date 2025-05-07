@@ -151,6 +151,7 @@ Episode|Link
 3|[Link](https://ani.social/post/12196016)
 4|[Link](https://ani.social/post/12513409)
 5|[Link](https://ani.social/post/12831123)
+6|[Link](https://ani.social/post/13188667)
 {.dense}
 
 ## Katainaka no Ossan, Kensei ni Naru • From Old Country Bumpkin to Master Swordsman
