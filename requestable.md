@@ -14,7 +14,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
-| Ninja to Koroshiya no Futarigurashi | A Ninja and an Assassin Under One Roof | https://anilist.co/anime/177120 | [Link](https://ani.social/post/12870892) |
+| Ninja to Koroshiya no Futarigurashi | A Ninja and an Assassin Under One Roof | https://anilist.co/anime/177120 | [Link](https://ani.social/post/13236071) |
 | Aharen-san wa Hakarenai Season 2 | Aharen-san wa Hakarenai Season 2 | https://anilist.co/anime/179979 | [Link](https://ani.social/post/13076210) |
 | Apocalypse Hotel | Apocalypse Hotel | https://anilist.co/anime/180675 | [Link](https://ani.social/post/13138692) |
 | Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!) | Can a Boy-Girl Friendship Survive? | https://anilist.co/anime/153554 | [Link](https://ani.social/post/12926211) |
