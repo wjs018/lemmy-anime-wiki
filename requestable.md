@@ -128,6 +128,7 @@ These shows have had episodes air already, but no thread was created because the
 | Uma Musume: Cinderella Gray | Umamusume: Cinderella Gray | https://anilist.co/anime/180516 | Episode 5 |
 | Umayuru: Pretty Gray | Umayuru: Pretty Gray | https://anilist.co/anime/191689 | Episode 4 |
 | Uta no☆Prince-sama♪ TABOO NIGHT XXXX | Uta no☆Prince-sama♪ TABOO NIGHT XXXX | https://anilist.co/anime/172393 | Episode 1 |
+| WIND BREAKER Season 2 | WIND BREAKER Season 2 | https://anilist.co/anime/178680 | Episode 6 |
 | Shin Samurai-den YAIBA | YAIBA: Samurai Legend | https://anilist.co/anime/177476 | Episode 5 |
 | Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita | Yandere Dark Elf: She Chased Me All the Way From Another World! | https://anilist.co/anime/180829 | Episode 5 |
 | Yao Shen Ji 8 | Yao Shen Ji 8 | https://anilist.co/anime/178351 | Episode 52 |
@@ -147,5 +148,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Terra Live | U Takes Terra | https://anilist.co/anime/185778 | May 16 at 12:00 |
-| WIND BREAKER Season 2 | WIND BREAKER Season 2 | https://anilist.co/anime/178680 | May 08 at 16:26 |
 {.dense}
