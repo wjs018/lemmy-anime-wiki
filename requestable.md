@@ -98,6 +98,7 @@ These shows have had episodes air already, but no thread was created because the
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1128 |
 | Oideyo Mahou Shoujo-mura (Fuhou Senkyo) | Oideyo Mahou Shoujo-mura (Fuhou Senkyo) | https://anilist.co/anime/187998 | Episode 5 |
 | Oshiri Tantei 9 | Oshiri Tantei 9 | https://anilist.co/anime/185645 | Episode 5 |
+| Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II | Our Last Crusade or the Rise of a New World Season 2 | https://anilist.co/anime/139825 | Episode 5 |
 | PetitCure: Precure Fairies | PetitCure: Precure Fairies | https://anilist.co/anime/188394 | Episode 7 |
 | Haite Kudasai, Takamine-san | Please Put Them On, Takamine-san | https://anilist.co/anime/179965 | Episode 6 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 94 |
@@ -145,7 +146,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
-| Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II | Our Last Crusade or the Rise of a New World Season 2 | https://anilist.co/anime/139825 | May 08 at 12:30 |
 | Terra Live | U Takes Terra | https://anilist.co/anime/185778 | May 16 at 12:00 |
 | Uta no☆Prince-sama♪ TABOO NIGHT XXXX | Uta no☆Prince-sama♪ TABOO NIGHT XXXX | https://anilist.co/anime/172393 | May 08 at 15:00 |
 {.dense}
