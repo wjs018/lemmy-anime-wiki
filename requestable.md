@@ -46,7 +46,7 @@ These shows have had episodes air already, but no thread was created because the
 | #Compass 2.0－Sentou Setsuri Kaiseki System | #COMPASS2.0 ANIMATION PROJECT | https://anilist.co/anime/158287 | Episode 5 |
 | A Horny Money World: Densetsu no Yoru | A Horny Money World: legendary night | https://anilist.co/anime/191734 | Episode 1 |
 | Anne Shirley | Anne Shirley | https://anilist.co/anime/184639 | Episode 5 |
-| Araiguma Calcal-dan | Araiguma Calcal-dan | https://anilist.co/anime/186522 | Episode 5 |
+| Araiguma Calcal-dan | Araiguma Calcal-dan | https://anilist.co/anime/186522 | Episode 6 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 79 |
 | Kuroshitsuji: Midori no Majo-hen | Black Butler: Emerald Witch Arc | https://anilist.co/anime/179054 | Episode 5 |
 | Boku to Roboco Movie | Boku to Roboco Movie | https://anilist.co/anime/166249 | Episode 1 |
