@@ -305,6 +305,7 @@ Episode|Link
 3|[Link](https://ani.social/post/12242840)
 4|[Link](https://ani.social/post/12558525)
 5|[Link](https://ani.social/post/12954060)
+6|[Link](https://ani.social/post/13243794)
 {.dense}
 
 ## Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? • The Beginning After the End
