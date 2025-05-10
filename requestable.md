@@ -103,7 +103,7 @@ These shows have had episodes air already, but no thread was created because the
 | Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | Episode 5 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 87 |
 | SHIBUYA♡HACHI 2nd Season | SHIBUYA♡HACHI 2nd Season | https://anilist.co/anime/185715 | Episode 6 |
-| Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 5 |
+| Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 6 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2778 |
 | Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 29 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1284 |
