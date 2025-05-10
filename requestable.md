@@ -52,7 +52,7 @@ These shows have had episodes air already, but no thread was created because the
 | Boku to Roboco Movie | Boku to Roboco Movie | https://anilist.co/anime/166249 | Episode 1 |
 | Bye Bye, Earth Season 2 | Bye Bye, Earth Season 2 | https://anilist.co/anime/181078 | Episode 6 |
 | Cardfight!! Vanguard: Divinez - Deluxe-hen | CARDFIGHT!! VANGUARD Divinez DELUXE Arc | https://anilist.co/anime/182920 | Episode 13 |
-| CLASSIC★STARS | CLASSIC★STARS | https://anilist.co/anime/178825 | Episode 5 |
+| CLASSIC★STARS | CLASSIC★STARS | https://anilist.co/anime/178825 | Episode 6 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1162 |
 | Ballpark de Tsukamaete! | Catch Me at the Ballpark! | https://anilist.co/anime/184279 | Episode 6 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 260 |
