@@ -34,7 +34,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru | The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom | https://anilist.co/anime/183275 | [Link](https://ani.social/post/13188667) |
 | Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi | The Unaware Atelier Meister | https://anilist.co/anime/183133 | [Link](https://ani.social/post/13026293) |
 | Witch Watch | Witch Watch | https://anilist.co/anime/180367 | [Link](https://ani.social/post/13014296) |
-| mono | mono | https://anilist.co/anime/176246 | [Link](https://ani.social/post/12981906) |
+| mono | mono | https://anilist.co/anime/176246 | [Link](https://ani.social/post/13344533) |
 {.dense}
 
 ## Requestable Shows
@@ -74,7 +74,7 @@ These shows have had episodes air already, but no thread was created because the
 | Himitsu no AiPri: Ring-hen | Himitsu no AiPri: Ring-hen | https://anilist.co/anime/184470 | Episode 5 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 312 |
 | Hyakushou Kizoku 2 OVA | Hyakushou Kizoku 2 OVA | https://anilist.co/anime/185716 | Episode 2 |
-| A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu. | I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! | https://anilist.co/anime/180812 | Episode 16 |
+| A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu. | I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! | https://anilist.co/anime/180812 | Episode 17 |
 | I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 78 |
 | Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 6 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 5 |
@@ -110,7 +110,6 @@ These shows have had episodes air already, but no thread was created because the
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 106 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1697 |
 | Sousou no Frieren: ●● no Mahou 2 | Sousou no Frieren: ●● no Mahou 2 | https://anilist.co/anime/189513 | Episode 2 |
-| Yamato yo Towa ni: REBEL3199 | Star Blazers: Space Battleship Yamato 3199 | https://anilist.co/anime/144779 | Episode 7 |
 | Sumikko Gurashi: Koko ga Ochitsukun Desu | Sumikko Gurashi: Koko ga Ochitsukun Desu | https://anilist.co/anime/188884 | Episode 6 |
 | Summer Pockets | Summer Pockets | https://anilist.co/anime/143200 | Episode 5 |
 | Chao Neng Lifang | Super Cube | https://anilist.co/anime/166442 | Episode 10 |
