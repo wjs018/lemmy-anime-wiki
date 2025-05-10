@@ -21,7 +21,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Hibi wa Sugiredo Meshi Umashi | Food for the Soul | https://anilist.co/anime/185939 | [Link](https://ani.social/post/12982954) |
 | Katainaka no Ossan, Kensei ni Naru | From Old Country Bumpkin to Master Swordsman | https://anilist.co/anime/179955 | [Link](https://ani.social/post/12981032) |
 | Ore wa Seikan Kokka no Akutoku Ryoushu!  | I'm the Evil Lord of an Intergalactic Empire! | https://anilist.co/anime/183274 | [Link](https://ani.social/post/12986107) |
-| Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita: Sono ni | I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2 | https://anilist.co/anime/143337 | [Link](https://ani.social/post/13061679) |
+| Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita: Sono ni | I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2 | https://anilist.co/anime/143337 | [Link](https://ani.social/post/13340176) |
 | Kowloon Generic Romance | Kowloon Generic Romance | https://anilist.co/anime/182814 | [Link](https://ani.social/post/12979712) |
 | Lazarus | Lazarus | https://anilist.co/anime/167336 | [Link](https://ani.social/post/13008503) |
 | Lycoris Recoil: Friends are thieves of time. | Lycoris Recoil -Friends are thieves of time.- | https://anilist.co/anime/179706 | [Link](https://ani.social/post/13178871) |
