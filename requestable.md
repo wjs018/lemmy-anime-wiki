@@ -70,7 +70,7 @@ These shows have had episodes air already, but no thread was created because the
 | Go! Go! Vehicle Zoo: Norimono Star-hen | Go! Go! Vehicle Zoo: Norimono Star-hen | https://anilist.co/anime/188661 | Episode 6 |
 | HANA-Doll*: Reinterpretation of Flowering | HANA-Doll*: Reinterpretation of Flowering | https://anilist.co/anime/166371 | Episode 5 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 603 |
-| Himitsu no AiPri: Ring-hen | Himitsu no AiPri: Ring-hen | https://anilist.co/anime/184470 | Episode 5 |
+| Himitsu no AiPri: Ring-hen | Himitsu no AiPri: Ring-hen | https://anilist.co/anime/184470 | Episode 6 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 312 |
 | Hyakushou Kizoku 2 OVA | Hyakushou Kizoku 2 OVA | https://anilist.co/anime/185716 | Episode 2 |
 | A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu. | I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! | https://anilist.co/anime/180812 | Episode 17 |
@@ -118,7 +118,7 @@ These shows have had episodes air already, but no thread was created because the
 | Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru | The Brilliant Healer's New Life in the Shadows | https://anilist.co/anime/175872 | Episode 6 |
 | Nazotoki wa Dinner no Ato de | The Dinner Table Detective | https://anilist.co/anime/184989 | Episode 6 |
 | Shiunji-ke no Kodomotachi | The Shiunji Family Children | https://anilist.co/anime/174802 | Episode 5 |
-| Tu Bian Yingxiong X | To Be Hero X | https://anilist.co/anime/156092 | Episode 5 |
+| Tu Bian Yingxiong X | To Be Hero X | https://anilist.co/anime/156092 | Episode 6 |
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 4 |
 | Uchuujin MuuMuu | Uchuujin MuuMuu | https://anilist.co/anime/185070 | Episode 5 |
 | Uma Musume: Cinderella Gray | Umamusume: Cinderella Gray | https://anilist.co/anime/180516 | Episode 5 |
