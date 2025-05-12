@@ -395,6 +395,13 @@ Episode|Link
 3|[Link](https://ani.social/post/12605894)
 {.dense}
 
+## Uma Musume: Cinderella Gray • Umamusume: Cinderella Gray
+
+Episode|Link
+:-:|:-:
+6|[Link](https://ani.social/post/13418073)
+{.dense}
+
 ## WIND BREAKER Season 2
 
 Episode|Link
