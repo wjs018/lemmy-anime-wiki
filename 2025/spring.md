@@ -19,6 +19,7 @@ Episode|Link
 3|[Link](https://ani.social/post/12414526)
 4|[Link](https://ani.social/post/12821897)
 5|[Link](https://ani.social/post/13076210)
+6|[Link](https://ani.social/post/13442769)
 {.dense}
 
 ## Anne Shirley
