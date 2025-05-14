@@ -24,7 +24,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita: Sono ni | I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2 | https://anilist.co/anime/143337 | [Link](https://ani.social/post/13340176) |
 | Kowloon Generic Romance | Kowloon Generic Romance | https://anilist.co/anime/182814 | [Link](https://ani.social/post/13341713) |
 | Lazarus | Lazarus | https://anilist.co/anime/167336 | [Link](https://ani.social/post/13373198) |
-| Lycoris Recoil: Friends are thieves of time. | Lycoris Recoil -Friends are thieves of time.- | https://anilist.co/anime/179706 | [Link](https://ani.social/post/13178871) |
+| Lycoris Recoil: Friends are thieves of time. | Lycoris Recoil -Friends are thieves of time.- | https://anilist.co/anime/179706 | [Link](https://ani.social/post/13539065) |
 | Aru Majo ga Shinu Made | Once Upon a Witch's Death | https://anilist.co/anime/178701 | [Link](https://ani.social/post/13497286) |
 | Rock wa Lady no Tashinami Deshite | Rock is a Lady’s Modesty | https://anilist.co/anime/179694 | [Link](https://ani.social/post/13243794) |
 | Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu | SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life | https://anilist.co/anime/179541 | [Link](https://ani.social/post/13384895) |
