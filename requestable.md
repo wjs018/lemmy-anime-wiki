@@ -97,7 +97,7 @@ These shows have had episodes air already, but no thread was created because the
 | Oideyo Mahou Shoujo-mura (Fuhou Senkyo) | Oideyo Mahou Shoujo-mura (Fuhou Senkyo) | https://anilist.co/anime/187998 | Episode 6 |
 | Oshiri Tantei 9 | Oshiri Tantei 9 | https://anilist.co/anime/185645 | Episode 6 |
 | Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II | Our Last Crusade or the Rise of a New World Season 2 | https://anilist.co/anime/139825 | Episode 5 |
-| PetitCure: Precure Fairies | PetitCure: Precure Fairies | https://anilist.co/anime/188394 | Episode 7 |
+| PetitCure: Precure Fairies | PetitCure: Precure Fairies | https://anilist.co/anime/188394 | Episode 8 |
 | Haite Kudasai, Takamine-san | Please Put Them On, Takamine-san | https://anilist.co/anime/179965 | Episode 7 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 95 |
 | Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2096 |
@@ -145,6 +145,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Dragon Heart: Reikai Tanbouki | Dragon Heart: Reikai Tanbouki | https://anilist.co/anime/186935 | May 22 at 15:00 |
 | Kaitou Queen no Yuuga na Vacances | Kaitou Queen no Yuuga na Vacances | https://anilist.co/anime/162682 | May 22 at 15:00 |
+| Kireigoto | Kireigoto | https://anilist.co/anime/192976 | May 19 at 11:30 |
 | Ling Long 2 | Ling Long 2 | https://anilist.co/anime/135580 | May 23 at 02:00 |
 | Princess Principal: Crown Handler - Chapter 4 | Princess Principal: Crown Handler - Chapter 4 | https://anilist.co/anime/186716 | May 22 at 15:00 |
 | Terra Live | U Takes Terra | https://anilist.co/anime/185778 | May 16 at 12:00 |
