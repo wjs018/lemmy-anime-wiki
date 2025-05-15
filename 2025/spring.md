@@ -295,6 +295,7 @@ Episode|Link
 3|[Link](https://ani.social/post/12553390)
 4|[Link](https://ani.social/post/12870892)
 5|[Link](https://ani.social/post/13236071)
+6|[Link](https://ani.social/post/13594183)
 {.dense}
 
 ## Ore wa Seikan Kokka no Akutoku Ryoushu!  • I'm the Evil Lord of an Intergalactic Empire!
