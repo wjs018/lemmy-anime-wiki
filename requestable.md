@@ -121,6 +121,7 @@ These shows have had episodes air already, but no thread was created because the
 | Nazotoki wa Dinner no Ato de | The Dinner Table Detective | https://anilist.co/anime/184989 | Episode 6 |
 | Shiunji-ke no Kodomotachi | The Shiunji Family Children | https://anilist.co/anime/174802 | Episode 6 |
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 5 |
+| Terra Live | U Takes Terra | https://anilist.co/anime/185778 | Episode 1 |
 | Uchuujin MuuMuu | Uchuujin MuuMuu | https://anilist.co/anime/185070 | Episode 6 |
 | Umayuru: Pretty Gray | Umayuru: Pretty Gray | https://anilist.co/anime/191689 | Episode 4 |
 | Uta no☆Prince-sama♪ TABOO NIGHT XXXX | Uta no☆Prince-sama♪ TABOO NIGHT XXXX | https://anilist.co/anime/172393 | Episode 1 |
@@ -148,5 +149,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Kireigoto | Kireigoto | https://anilist.co/anime/192976 | May 19 at 11:30 |
 | Ling Long 2 | Ling Long 2 | https://anilist.co/anime/135580 | May 23 at 02:00 |
 | Princess Principal: Crown Handler - Chapter 4 | Princess Principal: Crown Handler - Chapter 4 | https://anilist.co/anime/186716 | May 22 at 15:00 |
-| Terra Live | U Takes Terra | https://anilist.co/anime/185778 | May 16 at 12:00 |
 {.dense}
