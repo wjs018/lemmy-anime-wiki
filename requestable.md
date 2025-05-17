@@ -50,7 +50,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kuroshitsuji: Midori no Majo-hen | Black Butler: Emerald Witch Arc | https://anilist.co/anime/179054 | Episode 7 |
 | Bye Bye, Earth Season 2 | Bye Bye, Earth Season 2 | https://anilist.co/anime/181078 | Episode 7 |
 | Cardfight!! Vanguard: Divinez - Deluxe-hen | CARDFIGHT!! VANGUARD Divinez DELUXE Arc | https://anilist.co/anime/182920 | Episode 13 |
-| CLASSIC★STARS | CLASSIC★STARS | https://anilist.co/anime/178825 | Episode 6 |
+| CLASSIC★STARS | CLASSIC★STARS | https://anilist.co/anime/178825 | Episode 7 |
 | Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!) | Can a Boy-Girl Friendship Survive? | https://anilist.co/anime/153554 | Episode 7 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1163 |
 | Ballpark de Tsukamaete! | Catch Me at the Ballpark! | https://anilist.co/anime/184279 | Episode 7 |
