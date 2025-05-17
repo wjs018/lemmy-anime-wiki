@@ -65,8 +65,8 @@ These shows have had episodes air already, but no thread was created because the
 | Everyday Host | Everyday Host | https://anilist.co/anime/185584 | Episode 7 |
 | Enen no Shouboutai: San no Shou | Fire Force Season 3 | https://anilist.co/anime/149118 | Episode 7 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 157 |
-| GUILTY GEAR STRIVE: DUAL RULERS | GUILTY GEAR STRIVE: DUAL RULERS | https://anilist.co/anime/178046 | Episode 6 |
-| Masuda Kousuke Gekijou Gag Manga Biyori GO | Gag Manga Biyori GO | https://anilist.co/anime/185259 | Episode 6 |
+| GUILTY GEAR STRIVE: DUAL RULERS | GUILTY GEAR STRIVE: DUAL RULERS | https://anilist.co/anime/178046 | Episode 7 |
+| Masuda Kousuke Gekijou Gag Manga Biyori GO | Gag Manga Biyori GO | https://anilist.co/anime/185259 | Episode 7 |
 | Sentai Daishikkaku 2nd Season | Go! Go! Loser Ranger! Season 2 | https://anilist.co/anime/178781 | Episode 5 |
 | Go! Go! Vehicle Zoo: Norimono Star-hen | Go! Go! Vehicle Zoo: Norimono Star-hen | https://anilist.co/anime/188661 | Episode 6 |
 | HANA-Doll*: Reinterpretation of Flowering | HANA-Doll*: Reinterpretation of Flowering | https://anilist.co/anime/166371 | Episode 6 |
