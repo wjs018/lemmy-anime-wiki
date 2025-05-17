@@ -17,7 +17,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Ninja to Koroshiya no Futarigurashi | A Ninja and an Assassin Under One Roof | https://anilist.co/anime/177120 | [Link](https://ani.social/post/13594183) |
 | Aharen-san wa Hakarenai Season 2 | Aharen-san wa Hakarenai Season 2 | https://anilist.co/anime/179979 | [Link](https://ani.social/post/13442769) |
 | Apocalypse Hotel | Apocalypse Hotel | https://anilist.co/anime/180675 | [Link](https://ani.social/post/13501574) |
-| Hibi wa Sugiredo Meshi Umashi | Food for the Soul | https://anilist.co/anime/185939 | [Link](https://ani.social/post/13346118) |
 | Katainaka no Ossan, Kensei ni Naru | From Old Country Bumpkin to Master Swordsman | https://anilist.co/anime/179955 | [Link](https://ani.social/post/13702138) |
 | Ore wa Seikan Kokka no Akutoku Ryoushu!  | I'm the Evil Lord of an Intergalactic Empire! | https://anilist.co/anime/183274 | [Link](https://ani.social/post/13350363) |
 | Kowloon Generic Romance | Kowloon Generic Romance | https://anilist.co/anime/182814 | [Link](https://ani.social/post/13701146) |
@@ -144,6 +143,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Dragon Heart: Reikai Tanbouki | Dragon Heart: Reikai Tanbouki | https://anilist.co/anime/186935 | May 22 at 15:00 |
+| Hibi wa Sugiredo Meshi Umashi | Food for the Soul | https://anilist.co/anime/185939 | May 17 at 16:30 |
 | Kaitou Queen no Yuuga na Vacances | Kaitou Queen no Yuuga na Vacances | https://anilist.co/anime/162682 | May 22 at 15:00 |
 | Kireigoto | Kireigoto | https://anilist.co/anime/192976 | May 19 at 11:30 |
 | Ling Long 2 | Ling Long 2 | https://anilist.co/anime/135580 | May 23 at 02:00 |
