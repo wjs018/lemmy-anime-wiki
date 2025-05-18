@@ -78,7 +78,7 @@ These shows have had episodes air already, but no thread was created because the
 | I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 79 |
 | Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 7 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 7 |
-| Mashin Souzouden Wataru | MASHIN CREATOR WATARU | https://anilist.co/anime/173333 | Episode 18 |
+| Mashin Souzouden Wataru | MASHIN CREATOR WATARU | https://anilist.co/anime/173333 | Episode 19 |
 | MIRU: Watashi no Mirai | MIRU: Watashi no Mirai | https://anilist.co/anime/166373 | Episode 5 |
 | MUZIK TIGER In the Forest | MUZIK TIGER In the Forest | https://anilist.co/anime/177633 | Episode 7 |
 | Maebashi Witches | Maebashi Witches | https://anilist.co/anime/180825 | Episode 6 |
