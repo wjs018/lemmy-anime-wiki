@@ -17,6 +17,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Ninja to Koroshiya no Futarigurashi | A Ninja and an Assassin Under One Roof | https://anilist.co/anime/177120 | [Link](https://ani.social/post/13594183) |
 | Aharen-san wa Hakarenai Season 2 | Aharen-san wa Hakarenai Season 2 | https://anilist.co/anime/179979 | [Link](https://ani.social/post/13442769) |
 | Apocalypse Hotel | Apocalypse Hotel | https://anilist.co/anime/180675 | [Link](https://ani.social/post/13501574) |
+| Hibi wa Sugiredo Meshi Umashi | Food for the Soul | https://anilist.co/anime/185939 | [Link](https://ani.social/post/13733671) |
 | Katainaka no Ossan, Kensei ni Naru | From Old Country Bumpkin to Master Swordsman | https://anilist.co/anime/179955 | [Link](https://ani.social/post/13702138) |
 | Ore wa Seikan Kokka no Akutoku Ryoushu!  | I'm the Evil Lord of an Intergalactic Empire! | https://anilist.co/anime/183274 | [Link](https://ani.social/post/13709614) |
 | Kowloon Generic Romance | Kowloon Generic Romance | https://anilist.co/anime/182814 | [Link](https://ani.social/post/13701146) |
@@ -62,7 +63,6 @@ These shows have had episodes air already, but no thread was created because the
 | Tabekko Doubutsu THE MOVIE | Dream Animals THE MOVIE | https://anilist.co/anime/180124 | Episode 1 |
 | Everyday Host | Everyday Host | https://anilist.co/anime/185584 | Episode 7 |
 | Enen no Shouboutai: San no Shou | Fire Force Season 3 | https://anilist.co/anime/149118 | Episode 7 |
-| Hibi wa Sugiredo Meshi Umashi | Food for the Soul | https://anilist.co/anime/185939 | Episode 6 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 157 |
 | GUILTY GEAR STRIVE: DUAL RULERS | GUILTY GEAR STRIVE: DUAL RULERS | https://anilist.co/anime/178046 | Episode 7 |
 | Masuda Kousuke Gekijou Gag Manga Biyori GO | Gag Manga Biyori GO | https://anilist.co/anime/185259 | Episode 7 |
