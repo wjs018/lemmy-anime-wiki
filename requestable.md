@@ -108,7 +108,7 @@ These shows have had episodes air already, but no thread was created because the
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1285 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 106 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1698 |
-| Sousou no Frieren: ●● no Mahou 2 | Sousou no Frieren: ●● no Mahou 2 | https://anilist.co/anime/189513 | Episode 2 |
+| Sousou no Frieren: ●● no Mahou Part 2 | Sousou no Frieren: ●● no Mahou Part 2 | https://anilist.co/anime/189513 | Episode 2 |
 | Sumikko Gurashi: Koko ga Ochitsukun Desu | Sumikko Gurashi: Koko ga Ochitsukun Desu | https://anilist.co/anime/188884 | Episode 7 |
 | Summer Pockets | Summer Pockets | https://anilist.co/anime/143200 | Episode 6 |
 | Chao Neng Lifang | Super Cube | https://anilist.co/anime/166442 | Episode 11 |
