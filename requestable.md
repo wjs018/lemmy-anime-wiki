@@ -98,7 +98,7 @@ These shows have had episodes air already, but no thread was created because the
 | PetitCure: Precure Fairies | PetitCure: Precure Fairies | https://anilist.co/anime/188394 | Episode 8 |
 | Haite Kudasai, Takamine-san | Please Put Them On, Takamine-san | https://anilist.co/anime/179965 | Episode 7 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 96 |
-| Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2096 |
+| Ojarumaru | Prince Mackaroo | https://anilist.co/anime/4459 | Episode 2097 |
 | Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | Episode 7 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 88 |
 | SHIBUYA♡HACHI 2nd Season | SHIBUYA♡HACHI 2nd Season | https://anilist.co/anime/185715 | Episode 7 |
