@@ -84,7 +84,7 @@ These shows have had episodes air already, but no thread was created because the
 | Maebashi Witches | Maebashi Witches | https://anilist.co/anime/180825 | Episode 7 |
 | Kakushite! Makina-san!! | Makina-san's a Love Bot?! | https://anilist.co/anime/177509 | Episode 7 |
 | Kidou Senshi Gundam GQuuuuuuX | Mobile Suit Gundam GQuuuuuuX | https://anilist.co/anime/185213 | Episode 6 |
-| Vigilante: Boku no Hero Academia ILLEGALS | My Hero Academia: Vigilantes | https://anilist.co/anime/185736 | Episode 6 |
+| Vigilante: Boku no Hero Academia ILLEGALS | My Hero Academia: Vigilantes | https://anilist.co/anime/185736 | Episode 7 |
 | Natsume Yuujinchou Shichi Special | Natsume Yuujinchou Shichi Special | https://anilist.co/anime/184762 | Episode 1 |
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 32 |
 | Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 24 |
@@ -143,6 +143,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Dragon Heart: Reikai Tanbouki | Dragon Heart: Reikai Tanbouki | https://anilist.co/anime/186935 | May 22 at 15:00 |
+| Jujutsu Kaisen: Kaigyoku・Gyokusetsu | JUJUTSU KAISEN: Hidden Inventory / Premature Death – The Movie | https://anilist.co/anime/192809 | May 29 at 15:00 |
 | Kaitou Queen no Yuuga na Vacances | Kaitou Queen no Yuuga na Vacances | https://anilist.co/anime/162682 | May 22 at 15:00 |
 | Ling Long 2 | Ling Long 2 | https://anilist.co/anime/135580 | May 23 at 02:00 |
 | Princess Principal: Crown Handler - Chapter 4 | Princess Principal: Crown Handler - Chapter 4 | https://anilist.co/anime/186716 | May 22 at 15:00 |
