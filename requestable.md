@@ -92,6 +92,7 @@ These shows have had episodes air already, but no thread was created because the
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 31 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1129 |
 | Oideyo Mahou Shoujo-mura (Fuhou Senkyo) | Oideyo Mahou Shoujo-mura (Fuhou Senkyo) | https://anilist.co/anime/187998 | Episode 7 |
+| Aru Majo ga Shinu Made | Once Upon a Witch's Death | https://anilist.co/anime/178701 | Episode 8 |
 | Oshiri Tantei 9 | Oshiri Tantei 9 | https://anilist.co/anime/185645 | Episode 7 |
 | Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II | Our Last Crusade or the Rise of a New World Season 2 | https://anilist.co/anime/139825 | Episode 6 |
 | PetitCure: Precure Fairies | PetitCure: Precure Fairies | https://anilist.co/anime/188394 | Episode 8 |
@@ -147,6 +148,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Jujutsu Kaisen: Kaigyoku・Gyokusetsu - Juju Sanpo | Jujutsu Kaisen: Kaigyoku・Gyokusetsu - Juju Sanpo | https://anilist.co/anime/192810 | May 29 at 16:20 |
 | Kaitou Queen no Yuuga na Vacances | Kaitou Queen no Yuuga na Vacances | https://anilist.co/anime/162682 | May 22 at 15:00 |
 | Ling Long 2 | Ling Long 2 | https://anilist.co/anime/135580 | May 23 at 02:00 |
-| Aru Majo ga Shinu Made | Once Upon a Witch's Death | https://anilist.co/anime/178701 | May 20 at 15:30 |
 | Princess Principal: Crown Handler - Chapter 4 | Princess Principal: Crown Handler - Chapter 4 | https://anilist.co/anime/186716 | May 22 at 15:00 |
 {.dense}
