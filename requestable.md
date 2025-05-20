@@ -117,7 +117,7 @@ These shows have had episodes air already, but no thread was created because the
 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? | The Beginning After the End | https://anilist.co/anime/183161 | Episode 7 |
 | Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru | The Brilliant Healer's New Life in the Shadows | https://anilist.co/anime/175872 | Episode 7 |
 | Nazotoki wa Dinner no Ato de | The Dinner Table Detective | https://anilist.co/anime/184989 | Episode 7 |
-| Shiunji-ke no Kodomotachi | The Shiunji Family Children | https://anilist.co/anime/174802 | Episode 6 |
+| Shiunji-ke no Kodomotachi | The Shiunji Family Children | https://anilist.co/anime/174802 | Episode 7 |
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 5 |
 | Terra Live | U Takes Terra | https://anilist.co/anime/185778 | Episode 1 |
 | Uchuujin MuuMuu | Uchuujin MuuMuu | https://anilist.co/anime/185070 | Episode 6 |
