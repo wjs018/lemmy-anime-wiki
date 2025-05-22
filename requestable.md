@@ -67,7 +67,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sentai Daishikkaku 2nd Season | Go! Go! Loser Ranger! Season 2 | https://anilist.co/anime/178781 | Episode 6 |
 | Go! Go! Vehicle Zoo: Norimono Star-hen | Go! Go! Vehicle Zoo: Norimono Star-hen | https://anilist.co/anime/188661 | Episode 7 |
 | HANA-Doll*: Reinterpretation of Flowering | HANA-Doll*: Reinterpretation of Flowering | https://anilist.co/anime/166371 | Episode 7 |
-| Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 604 |
+| Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 605 |
 | Himitsu no AiPri: Ring-hen | Himitsu no AiPri: Ring-hen | https://anilist.co/anime/184470 | Episode 7 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 314 |
 | Hyakushou Kizoku 2 OVA | Hyakushou Kizoku 2 OVA | https://anilist.co/anime/185716 | Episode 2 |
