@@ -126,7 +126,6 @@ These shows have had episodes air already, but no thread was created because the
 | WIND BREAKER Season 2 | WIND BREAKER Season 2 | https://anilist.co/anime/178680 | Episode 7 |
 | Shin Samurai-den YAIBA | YAIBA: Samurai Legend | https://anilist.co/anime/177476 | Episode 7 |
 | Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita | Yandere Dark Elf: She Chased Me All the Way From Another World! | https://anilist.co/anime/180829 | Episode 7 |
-| Yao Shen Ji 8 | Yao Shen Ji 8 | https://anilist.co/anime/178351 | Episode 52 |
 | Kimi to Idol Precure♪ | You and Idol Precure ♪ | https://anilist.co/anime/185073 | Episode 15 |
 | YouTuNya 3 | YouTuNya 3 | https://anilist.co/anime/189602 | Episode 5 |
 | Your Forma | Your Forma | https://anilist.co/anime/167142 | Episode 8 |
