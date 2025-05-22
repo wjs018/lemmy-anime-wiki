@@ -23,7 +23,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kowloon Generic Romance | Kowloon Generic Romance | https://anilist.co/anime/182814 | [Link](https://ani.social/post/13701146) |
 | Lazarus | Lazarus | https://anilist.co/anime/167336 | [Link](https://ani.social/post/13731571) |
 | Lycoris Recoil: Friends are thieves of time. | Lycoris Recoil -Friends are thieves of time.- | https://anilist.co/anime/179706 | [Link](https://ani.social/post/13901381) |
-| Rock wa Lady no Tashinami Deshite | Rock is a Lady’s Modesty | https://anilist.co/anime/179694 | [Link](https://ani.social/post/13601167) |
 | Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu | SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life | https://anilist.co/anime/179541 | [Link](https://ani.social/post/13742247) |
 | Shoushimin Series 2nd Season | SHOSHIMIN: How to become Ordinary Season 2 | https://anilist.co/anime/181182 | [Link](https://ani.social/post/13708527) |
 | Kusuriya no Hitorigoto 2nd Season | The Apothecary Diaries Season 2 | https://anilist.co/anime/176301 | [Link](https://ani.social/post/13294124) |
@@ -147,4 +146,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Jujutsu Kaisen: Kaigyoku・Gyokusetsu | JUJUTSU KAISEN: Hidden Inventory / Premature Death – The Movie | https://anilist.co/anime/192809 | May 29 at 15:00 |
 | Jujutsu Kaisen: Kaigyoku・Gyokusetsu - Juju Sanpo | Jujutsu Kaisen: Kaigyoku・Gyokusetsu - Juju Sanpo | https://anilist.co/anime/192810 | May 29 at 16:20 |
 | Ling Long 2 | Ling Long 2 | https://anilist.co/anime/135580 | May 23 at 02:00 |
+| Rock wa Lady no Tashinami Deshite | Rock is a Lady’s Modesty | https://anilist.co/anime/179694 | May 22 at 15:56 |
 {.dense}
