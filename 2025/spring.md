@@ -220,6 +220,7 @@ Episode|Link
 5|[Link](https://ani.social/post/12979712)
 6|[Link](https://ani.social/post/13341713)
 7|[Link](https://ani.social/post/13701146)
+8|[Link](https://ani.social/post/14066117)
 {.dense}
 
 ## Kuroshitsuji: Midori no Majo-hen • Black Butler: Emerald Witch Arc
