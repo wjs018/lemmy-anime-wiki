@@ -233,6 +233,7 @@ Episode|Link
 2|[Link](https://ani.social/post/12015841)
 3|[Link](https://ani.social/post/12329772)
 4|[Link](https://ani.social/post/12650973)
+8|[Link](https://ani.social/post/14086311)
 {.dense}
 
 ## Lazarus
