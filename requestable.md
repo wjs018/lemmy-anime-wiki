@@ -71,6 +71,7 @@ These shows have had episodes air already, but no thread was created because the
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 314 |
 | Hyakushou Kizoku 2 OVA | Hyakushou Kizoku 2 OVA | https://anilist.co/anime/185716 | Episode 2 |
 | A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu. | I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! | https://anilist.co/anime/180812 | Episode 19 |
+| Ore wa Seikan Kokka no Akutoku Ryoushu!  | I'm the Evil Lord of an Intergalactic Empire! | https://anilist.co/anime/183274 | Episode 8 |
 | Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita: Sono ni | I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2 | https://anilist.co/anime/143337 | Episode 8 |
 | I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 80 |
 | Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 8 |
@@ -143,7 +144,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Chibizenji-sensei Inokori Kougiroku | Chibizenji-sensei Inokori Kougiroku | https://anilist.co/anime/193242 | May 26 at 16:00 |
-| Ore wa Seikan Kokka no Akutoku Ryoushu!  | I'm the Evil Lord of an Intergalactic Empire! | https://anilist.co/anime/183274 | May 24 at 18:00 |
 | Jujutsu Kaisen: Kaigyoku・Gyokusetsu | JUJUTSU KAISEN: Hidden Inventory / Premature Death – The Movie | https://anilist.co/anime/192809 | May 29 at 15:00 |
 | Jujutsu Kaisen: Kaigyoku・Gyokusetsu - Juju Sanpo | Jujutsu Kaisen: Kaigyoku・Gyokusetsu - Juju Sanpo | https://anilist.co/anime/192810 | May 29 at 16:20 |
 {.dense}
