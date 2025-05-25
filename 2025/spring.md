@@ -126,6 +126,7 @@ Episode|Link
 5|[Link](https://ani.social/post/13029330)
 6|[Link](https://ani.social/post/13396189)
 7|[Link](https://ani.social/post/13751457)
+8|[Link](https://ani.social/post/14118057)
 {.dense}
 
 ## Hibi wa Sugiredo Meshi Umashi • Food for the Soul
