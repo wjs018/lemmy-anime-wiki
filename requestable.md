@@ -29,7 +29,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru | The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom | https://anilist.co/anime/183275 | [Link](https://ani.social/post/13909198) |
 | Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi | The Unaware Atelier Meister | https://anilist.co/anime/183133 | [Link](https://ani.social/post/13749442) |
 | Tu Bian Yingxiong X | To Be Hero X | https://anilist.co/anime/156092 | [Link](https://ani.social/post/14091793) |
-| Uma Musume: Cinderella Gray | Umamusume: Cinderella Gray | https://anilist.co/anime/180516 | [Link](https://ani.social/post/13737912) |
+| Uma Musume: Cinderella Gray | Umamusume: Cinderella Gray | https://anilist.co/anime/180516 | [Link](https://ani.social/post/14102460) |
 | Witch Watch | Witch Watch | https://anilist.co/anime/180367 | [Link](https://ani.social/post/13738664) |
 | mono | mono | https://anilist.co/anime/176246 | [Link](https://ani.social/post/14068835) |
 {.dense}
