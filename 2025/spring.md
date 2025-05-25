@@ -153,6 +153,7 @@ Episode|Link
 6|[Link](https://ani.social/post/13026293)
 7|[Link](https://ani.social/post/13393028)
 8|[Link](https://ani.social/post/13749442)
+9|[Link](https://ani.social/post/14113638)
 {.dense}
 
 ## Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru • The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom
