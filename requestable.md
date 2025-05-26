@@ -20,6 +20,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kuroshitsuji: Midori no Majo-hen | Black Butler: Emerald Witch Arc | https://anilist.co/anime/179054 | [Link](https://ani.social/post/14086311) |
 | Hibi wa Sugiredo Meshi Umashi | Food for the Soul | https://anilist.co/anime/185939 | [Link](https://ani.social/post/14070278) |
 | Katainaka no Ossan, Kensei ni Naru | From Old Country Bumpkin to Master Swordsman | https://anilist.co/anime/179955 | [Link](https://ani.social/post/14067771) |
+| Sentai Daishikkaku 2nd Season | Go! Go! Loser Ranger! Season 2 | https://anilist.co/anime/178781 | [Link](https://ani.social/post/14191284) |
 | Kowloon Generic Romance | Kowloon Generic Romance | https://anilist.co/anime/182814 | [Link](https://ani.social/post/14066117) |
 | Lazarus | Lazarus | https://anilist.co/anime/167336 | [Link](https://ani.social/post/14098033) |
 | Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu | SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life | https://anilist.co/anime/179541 | [Link](https://ani.social/post/14107214) |
@@ -64,7 +65,6 @@ These shows have had episodes air already, but no thread was created because the
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 158 |
 | GUILTY GEAR STRIVE: DUAL RULERS | GUILTY GEAR STRIVE: DUAL RULERS | https://anilist.co/anime/178046 | Episode 8 |
 | Masuda Kousuke Gekijou Gag Manga Biyori GO | Gag Manga Biyori GO | https://anilist.co/anime/185259 | Episode 8 |
-| Sentai Daishikkaku 2nd Season | Go! Go! Loser Ranger! Season 2 | https://anilist.co/anime/178781 | Episode 7 |
 | Go! Go! Vehicle Zoo: Norimono Star-hen | Go! Go! Vehicle Zoo: Norimono Star-hen | https://anilist.co/anime/188661 | Episode 8 |
 | HANA-Doll*: Reinterpretation of Flowering | HANA-Doll*: Reinterpretation of Flowering | https://anilist.co/anime/166371 | Episode 7 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 605 |
