@@ -74,6 +74,7 @@ These shows have had episodes air already, but no thread was created because the
 | Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita: Sono ni | I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2 | https://anilist.co/anime/143337 | Episode 8 |
 | I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 81 |
 | Jujutsu Kaisen: Kaigyoku・Gyokusetsu | JUJUTSU KAISEN: Hidden Inventory / Premature Death – The Movie | https://anilist.co/anime/192809 | Episode 1 |
+| Jujutsu Kaisen: Kaigyoku・Gyokusetsu - Juju Sanpo | Jujutsu Kaisen: Kaigyoku・Gyokusetsu - Juju Sanpo | https://anilist.co/anime/192810 | Episode 1 |
 | Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 8 |
 | Kaitou Queen no Yuuga na Vacances | Kaitou Queen no Yuuga na Vacances | https://anilist.co/anime/162682 | Episode 1 |
 | Kireigoto | Kireigoto | https://anilist.co/anime/192976 | Episode 1 |
@@ -124,7 +125,7 @@ These shows have had episodes air already, but no thread was created because the
 | Uchuujin MuuMuu | Uchuujin MuuMuu | https://anilist.co/anime/185070 | Episode 8 |
 | Umayuru: Pretty Gray | Umayuru: Pretty Gray | https://anilist.co/anime/191689 | Episode 4 |
 | Uta no☆Prince-sama♪ TABOO NIGHT XXXX | Uta no☆Prince-sama♪ TABOO NIGHT XXXX | https://anilist.co/anime/172393 | Episode 1 |
-| WIND BREAKER Season 2 | WIND BREAKER Season 2 | https://anilist.co/anime/178680 | Episode 8 |
+| WIND BREAKER Season 2 | WIND BREAKER Season 2 | https://anilist.co/anime/178680 | Episode 9 |
 | Shin Samurai-den YAIBA | YAIBA: Samurai Legend | https://anilist.co/anime/177476 | Episode 8 |
 | Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita | Yandere Dark Elf: She Chased Me All the Way From Another World! | https://anilist.co/anime/180829 | Episode 8 |
 | Kimi to Idol Precure♪ | You and Idol Precure ♪ | https://anilist.co/anime/185073 | Episode 16 |
@@ -142,5 +143,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
-| Jujutsu Kaisen: Kaigyoku・Gyokusetsu - Juju Sanpo | Jujutsu Kaisen: Kaigyoku・Gyokusetsu - Juju Sanpo | https://anilist.co/anime/192810 | May 29 at 16:20 |
 {.dense}
