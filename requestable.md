@@ -59,7 +59,7 @@ These shows have had episodes air already, but no thread was created because the
 | Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | Episode 43 |
 | Dragon Heart: Reikai Tanbouki | Dragon Heart: Reikai Tanbouki | https://anilist.co/anime/186935 | Episode 1 |
 | Everyday Host | Everyday Host | https://anilist.co/anime/185584 | Episode 9 |
-| Enen no Shouboutai: San no Shou | Fire Force Season 3 | https://anilist.co/anime/149118 | Episode 8 |
+| Enen no Shouboutai: San no Shou | Fire Force Season 3 | https://anilist.co/anime/149118 | Episode 9 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 159 |
 | GUILTY GEAR STRIVE: DUAL RULERS | GUILTY GEAR STRIVE: DUAL RULERS | https://anilist.co/anime/178046 | Episode 8 |
 | Masuda Kousuke Gekijou Gag Manga Biyori GO | Gag Manga Biyori GO | https://anilist.co/anime/185259 | Episode 8 |
