@@ -80,7 +80,6 @@ These shows have had episodes air already, but no thread was created because the
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 8 |
 | Ling Long 2 | Ling Long 2 | https://anilist.co/anime/135580 | Episode 2 |
 | Mashin Souzouden Wataru | MASHIN CREATOR WATARU | https://anilist.co/anime/173333 | Episode 20 |
-| MIRU: Watashi no Mirai | MIRU: Watashi no Mirai | https://anilist.co/anime/166373 | Episode 5 |
 | MUZIK TIGER In the Forest | MUZIK TIGER In the Forest | https://anilist.co/anime/177633 | Episode 9 |
 | Maebashi Witches | Maebashi Witches | https://anilist.co/anime/180825 | Episode 8 |
 | Kakushite! Makina-san!! | Makina-san's a Love Bot?! | https://anilist.co/anime/177509 | Episode 8 |
