@@ -290,7 +290,7 @@ Episode|Link|Episode|Link
 4|[Link](https://ani.social/post/9104807)|17|[Link](https://ani.social/post/12927426)
 5|[Link](https://ani.social/post/9285977)|18|[Link](https://ani.social/post/13294124)
 6|[Link](https://ani.social/post/9472939)|19|[Link](https://ani.social/post/14012418)
-7|[Link](https://ani.social/post/9778759)
+7|[Link](https://ani.social/post/9778759)|20|[Link](https://ani.social/post/14383656)
 8|[Link](https://ani.social/post/10054381)
 9|[Link](https://ani.social/post/10348229)
 10|[Link](https://ani.social/post/10691449)
