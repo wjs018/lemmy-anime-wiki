@@ -132,6 +132,7 @@ These shows have had episodes air already, but no thread was created because the
 | Zatsu Tabi: That's Journey | ZatsuTabi -That's Journey- | https://anilist.co/anime/165445 | Episode 8 |
 | Zenryoku Usagi Season 2 | Zenryoku Usagi Season 2 | https://anilist.co/anime/184182 | Episode 8 |
 | minute! kaiju no. 8 | minute! kaiju no. 8 | https://anilist.co/anime/186300 | Episode 24 |
+| mono | mono | https://anilist.co/anime/176246 | Episode 8 |
 {.dense}
 
 ## Upcoming Shows
@@ -140,5 +141,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
-| mono | mono | https://anilist.co/anime/176246 | May 31 at 16:00 |
 {.dense}
