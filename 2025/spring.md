@@ -142,6 +142,7 @@ Episode|Link
 5|[Link](https://ani.social/post/13346118)
 6|[Link](https://ani.social/post/13733671)
 7|[Link](https://ani.social/post/14070278)
+8|[Link](https://ani.social/post/14440754)
 {.dense}
 
 ## Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi • The Unaware Atelier Meister
