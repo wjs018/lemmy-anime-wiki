@@ -76,6 +76,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kireigoto | Kireigoto | https://anilist.co/anime/192976 | Episode 1 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 9 |
 | Kowloon Generic Romance | Kowloon Generic Romance | https://anilist.co/anime/182814 | Episode 9 |
+| Lazarus | Lazarus | https://anilist.co/anime/167336 | Episode 9 |
 | Ling Long 2 | Ling Long 2 | https://anilist.co/anime/135580 | Episode 2 |
 | Mashin Souzouden Wataru | MASHIN CREATOR WATARU | https://anilist.co/anime/173333 | Episode 20 |
 | MUZIK TIGER In the Forest | MUZIK TIGER In the Forest | https://anilist.co/anime/177633 | Episode 9 |
@@ -140,5 +141,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
-| Lazarus | Lazarus | https://anilist.co/anime/167336 | June 01 at 05:00 |
 {.dense}
