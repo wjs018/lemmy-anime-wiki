@@ -443,6 +443,7 @@ Episode|Link
 6|[Link](https://ani.social/post/13418073)
 7|[Link](https://ani.social/post/13737912)
 8|[Link](https://ani.social/post/14102460)
+9|[Link](https://ani.social/post/14475552)
 {.dense}
 
 ## WIND BREAKER Season 2
