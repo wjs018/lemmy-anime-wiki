@@ -82,7 +82,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kakushite! Makina-san!! | Makina-san's a Love Bot?! | https://anilist.co/anime/177509 | Episode 9 |
 | Kidou Senshi Gundam GQuuuuuuX | Mobile Suit Gundam GQuuuuuuX | https://anilist.co/anime/185213 | Episode 8 |
 | Vigilante: Boku no Hero Academia ILLEGALS | My Hero Academia: Vigilantes | https://anilist.co/anime/185736 | Episode 8 |
-| Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 33 |
+| Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 34 |
 | Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 26 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 169 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 9 |
