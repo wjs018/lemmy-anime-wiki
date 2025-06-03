@@ -104,7 +104,7 @@ These shows have had episodes air already, but no thread was created because the
 | SHIBUYA♡HACHI 2nd Season | SHIBUYA♡HACHI 2nd Season | https://anilist.co/anime/185715 | Episode 9 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 9 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2782 |
-| Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 32 |
+| Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 33 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1286 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1700 |
 | Sousou no Frieren: ●● no Mahou Part 2 | Sousou no Frieren: ●● no Mahou Part 2 | https://anilist.co/anime/189513 | Episode 2 |
