@@ -47,6 +47,7 @@ Episode|Link
 6|[Link](https://ani.social/post/13501574)
 7|[Link](https://ani.social/post/13862031)
 8|[Link](https://ani.social/post/14235199)
+9|[Link](https://ani.social/post/14607067)
 {.dense}
 
 ## Aru Majo ga Shinu Made • Once Upon a Witch's Death
