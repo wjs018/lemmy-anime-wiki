@@ -130,7 +130,7 @@ These shows have had episodes air already, but no thread was created because the
 | Your Forma | Your Forma | https://anilist.co/anime/167142 | Episode 9 |
 | Yurukawa Mell-chan | Yurukawa Mell-chan | https://anilist.co/anime/189716 | Episode 9 |
 | Zatsu Tabi: That's Journey | ZatsuTabi -That's Journey- | https://anilist.co/anime/165445 | Episode 9 |
-| Zenryoku Usagi Season 2 | Zenryoku Usagi Season 2 | https://anilist.co/anime/184182 | Episode 8 |
+| Zenryoku Usagi Season 2 | Zenryoku Usagi Season 2 | https://anilist.co/anime/184182 | Episode 9 |
 | minute! kaiju no. 8 | minute! kaiju no. 8 | https://anilist.co/anime/186300 | Episode 24 |
 | mono | mono | https://anilist.co/anime/176246 | Episode 8 |
 {.dense}
