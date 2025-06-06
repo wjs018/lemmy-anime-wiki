@@ -117,7 +117,7 @@ These shows have had episodes air already, but no thread was created because the
 | Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru | The Gorilla God’s Go-To Girl | https://anilist.co/anime/182060 | Episode 9 |
 | Shiunji-ke no Kodomotachi | The Shiunji Family Children | https://anilist.co/anime/174802 | Episode 9 |
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 6 |
-| Terra Live | U Takes Terra | https://anilist.co/anime/185778 | Episode 4 |
+| Terra Live | U Takes Terra | https://anilist.co/anime/185778 | Episode 5 |
 | Uchuujin MuuMuu | Uchuujin MuuMuu | https://anilist.co/anime/185070 | Episode 9 |
 | Uta no☆Prince-sama♪ TABOO NIGHT XXXX | Uta no☆Prince-sama♪ TABOO NIGHT XXXX | https://anilist.co/anime/172393 | Episode 1 |
 | WIND BREAKER Season 2 | WIND BREAKER Season 2 | https://anilist.co/anime/178680 | Episode 10 |
