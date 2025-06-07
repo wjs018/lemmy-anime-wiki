@@ -192,6 +192,7 @@ Episode|Link
 7|[Link](https://ani.social/post/13702138)
 8|[Link](https://ani.social/post/14067771)
 9|[Link](https://ani.social/post/14438354)
+10|[Link](https://ani.social/post/14872521)
 {.dense}
 
 ## Kidou Senshi Gundam GQuuuuuuX • Mobile Suit Gundam GQuuuuuuX
@@ -246,6 +247,7 @@ Episode|Link
 4|[Link](https://ani.social/post/12650973)
 8|[Link](https://ani.social/post/14086311)
 9|[Link](https://ani.social/post/14438357)
+10|[Link](https://ani.social/post/14872523)
 {.dense}
 
 ## Lazarus
