@@ -105,7 +105,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 9 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2782 |
 | Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 33 |
-| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1286 |
+| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1287 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1701 |
 | Sumikko Gurashi: Koko ga Ochitsukun Desu | Sumikko Gurashi: Koko ga Ochitsukun Desu | https://anilist.co/anime/188884 | Episode 10 |
 | Summer Pockets | Summer Pockets | https://anilist.co/anime/143200 | Episode 9 |
