@@ -107,6 +107,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 33 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1287 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1701 |
+| Sousou no Frieren: ●● no Mahou Part 2 | Sousou no Frieren: ●● no Mahou Part 2 | https://anilist.co/anime/189513 | Episode 3 |
 | Sumikko Gurashi: Koko ga Ochitsukun Desu | Sumikko Gurashi: Koko ga Ochitsukun Desu | https://anilist.co/anime/188884 | Episode 10 |
 | Summer Pockets | Summer Pockets | https://anilist.co/anime/143200 | Episode 9 |
 | Chao Neng Lifang | Super Cube | https://anilist.co/anime/166442 | Episode 12 |
@@ -139,5 +140,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | JUNK WORLD | JUNK WORLD | https://anilist.co/anime/191370 | June 12 at 15:00 |
-| Sousou no Frieren: ●● no Mahou Part 2 | Sousou no Frieren: ●● no Mahou Part 2 | https://anilist.co/anime/189513 | June 08 at 11:00 |
 {.dense}
