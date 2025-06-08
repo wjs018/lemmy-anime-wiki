@@ -28,7 +28,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi | The Unaware Atelier Meister | https://anilist.co/anime/183133 | [Link](https://ani.social/post/14487811) |
 | Tu Bian Yingxiong X | To Be Hero X | https://anilist.co/anime/156092 | [Link](https://ani.social/post/14896915) |
 | Uma Musume: Cinderella Gray | Umamusume: Cinderella Gray | https://anilist.co/anime/180516 | [Link](https://ani.social/post/14909701) |
-| Witch Watch | Witch Watch | https://anilist.co/anime/180367 | [Link](https://ani.social/post/14476556) |
+| Witch Watch | Witch Watch | https://anilist.co/anime/180367 | [Link](https://ani.social/post/14910334) |
 {.dense}
 
 ## Requestable Shows
