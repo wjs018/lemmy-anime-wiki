@@ -378,6 +378,7 @@ Episode|Link
 3|[Link](https://ani.social/post/12696740)
 7|[Link](https://ani.social/post/14191284)
 8|[Link](https://ani.social/post/14490348)
+9|[Link](https://ani.social/post/14922441)
 {.dense}
 
 ## Shin Samurai-den YAIBA • YAIBA: Samurai Legend
