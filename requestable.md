@@ -78,13 +78,13 @@ These shows have had episodes air already, but no thread was created because the
 | Kowloon Generic Romance | Kowloon Generic Romance | https://anilist.co/anime/182814 | Episode 10 |
 | Ling Long 2 | Ling Long 2 | https://anilist.co/anime/135580 | Episode 3 |
 | Mashin Souzouden Wataru | MASHIN CREATOR WATARU | https://anilist.co/anime/173333 | Episode 22 |
-| MUZIK TIGER In the Forest | MUZIK TIGER In the Forest | https://anilist.co/anime/177633 | Episode 10 |
+| MUZIK TIGER In the Forest | MUZIK TIGER In the Forest | https://anilist.co/anime/177633 | Episode 11 |
 | Maebashi Witches | Maebashi Witches | https://anilist.co/anime/180825 | Episode 10 |
 | Kakushite! Makina-san!! | Makina-san's a Love Bot?! | https://anilist.co/anime/177509 | Episode 10 |
 | Kidou Senshi Gundam GQuuuuuuX | Mobile Suit Gundam GQuuuuuuX | https://anilist.co/anime/185213 | Episode 10 |
 | Vigilante: Boku no Hero Academia ILLEGALS | My Hero Academia: Vigilantes | https://anilist.co/anime/185736 | Episode 10 |
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 35 |
-| Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 27 |
+| Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 28 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 170 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 10 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 34 |
