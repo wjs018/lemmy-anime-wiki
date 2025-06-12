@@ -68,6 +68,7 @@ These shows have had episodes air already, but no thread was created because the
 | Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita: Sono ni | I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2 | https://anilist.co/anime/143337 | Episode 10 |
 | I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 82 |
 | Jujutsu Kaisen: Kaigyoku・Gyokusetsu | JUJUTSU KAISEN: Hidden Inventory / Premature Death – The Movie | https://anilist.co/anime/192809 | Episode 1 |
+| JUNK WORLD | JUNK WORLD | https://anilist.co/anime/191370 | Episode 1 |
 | Jujutsu Kaisen: Kaigyoku・Gyokusetsu - Juju Sanpo | Jujutsu Kaisen: Kaigyoku・Gyokusetsu - Juju Sanpo | https://anilist.co/anime/192810 | Episode 1 |
 | Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 10 |
 | Kaitou Queen no Yuuga na Vacances | Kaitou Queen no Yuuga na Vacances | https://anilist.co/anime/162682 | Episode 1 |
@@ -139,7 +140,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
-| JUNK WORLD | JUNK WORLD | https://anilist.co/anime/191370 | June 12 at 15:00 |
 | Lupin the IIIrd: Zenigata to 2-nin no Lupin | Lupin the IIIrd: Zenigata to 2-nin no Lupin | https://anilist.co/anime/191884 | June 19 at 15:00 |
 | Xi Xing Ji: Da Yuan Hun | Xi Xing Ji: Da Yuan Hun | https://anilist.co/anime/137681 | June 16 at 01:00 |
 {.dense}
