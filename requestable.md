@@ -60,7 +60,7 @@ These shows have had episodes air already, but no thread was created because the
 | Masuda Kousuke Gekijou Gag Manga Biyori GO | Gag Manga Biyori GO | https://anilist.co/anime/185259 | Episode 10 |
 | Go! Go! Vehicle Zoo: Norimono Star-hen | Go! Go! Vehicle Zoo: Norimono Star-hen | https://anilist.co/anime/188661 | Episode 10 |
 | HANA-Doll*: Reinterpretation of Flowering | HANA-Doll*: Reinterpretation of Flowering | https://anilist.co/anime/166371 | Episode 10 |
-| Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 607 |
+| Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 608 |
 | Himitsu no AiPri: Ring-hen | Himitsu no AiPri: Ring-hen | https://anilist.co/anime/184470 | Episode 10 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 317 |
 | A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu. | I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! | https://anilist.co/anime/180812 | Episode 21 |
