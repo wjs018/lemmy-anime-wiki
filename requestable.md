@@ -75,7 +75,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kireigoto | Kireigoto | https://anilist.co/anime/192976 | Episode 1 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 10 |
 | Kowloon Generic Romance | Kowloon Generic Romance | https://anilist.co/anime/182814 | Episode 10 |
-| Ling Long 2 | Ling Long 2 | https://anilist.co/anime/135580 | Episode 3 |
+| Ling Long 2 | Ling Long 2 | https://anilist.co/anime/135580 | Episode 4 |
 | Mashin Souzouden Wataru | MASHIN CREATOR WATARU | https://anilist.co/anime/173333 | Episode 22 |
 | MUZIK TIGER In the Forest | MUZIK TIGER In the Forest | https://anilist.co/anime/177633 | Episode 11 |
 | Maebashi Witches | Maebashi Witches | https://anilist.co/anime/180825 | Episode 10 |
