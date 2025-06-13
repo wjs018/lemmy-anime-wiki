@@ -112,7 +112,7 @@ These shows have had episodes air already, but no thread was created because the
 | Summer Pockets | Summer Pockets | https://anilist.co/anime/143200 | Episode 10 |
 | Chao Neng Lifang | Super Cube | https://anilist.co/anime/166442 | Episode 12 |
 | Kijin Gentoushou | Sword of the Demon Hunter: Kijin Gentosho | https://anilist.co/anime/143598 | Episode 11 |
-| Teogonia | Teogonia | https://anilist.co/anime/176702 | Episode 9 |
+| Teogonia | Teogonia | https://anilist.co/anime/176702 | Episode 10 |
 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? | The Beginning After the End | https://anilist.co/anime/183161 | Episode 11 |
 | Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru | The Brilliant Healer's New Life in the Shadows | https://anilist.co/anime/175872 | Episode 11 |
 | Nazotoki wa Dinner no Ato de | The Dinner Table Detective | https://anilist.co/anime/184989 | Episode 11 |
