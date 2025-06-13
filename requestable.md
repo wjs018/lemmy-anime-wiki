@@ -84,7 +84,7 @@ These shows have had episodes air already, but no thread was created because the
 | Vigilante: Boku no Hero Academia ILLEGALS | My Hero Academia: Vigilantes | https://anilist.co/anime/185736 | Episode 10 |
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 35 |
 | Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 28 |
-| Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 170 |
+| Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 171 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 11 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 34 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1132 |
