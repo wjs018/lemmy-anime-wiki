@@ -50,7 +50,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita Mini Anime Gekijou | Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita Mini Anime Gekijou | https://anilist.co/anime/189832 | Episode 10 |
 | Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara. | Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara. | https://anilist.co/anime/182419 | Episode 10 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 867 |
-| Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | Episode 45 |
+| Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | Episode 46 |
 | Dragon Heart: Reikai Tanbouki | Dragon Heart: Reikai Tanbouki | https://anilist.co/anime/186935 | Episode 1 |
 | Everyday Host | Everyday Host | https://anilist.co/anime/185584 | Episode 11 |
 | Enen no Shouboutai: San no Shou | Fire Force Season 3 | https://anilist.co/anime/149118 | Episode 11 |
