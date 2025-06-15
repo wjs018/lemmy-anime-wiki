@@ -19,7 +19,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Katainaka no Ossan, Kensei ni Naru | From Old Country Bumpkin to Master Swordsman | https://anilist.co/anime/179955 | [Link](https://ani.social/post/15239946) |
 | Sentai Daishikkaku 2nd Season | Go! Go! Loser Ranger! Season 2 | https://anilist.co/anime/178781 | [Link](https://ani.social/post/14922441) |
 | Lazarus | Lazarus | https://anilist.co/anime/167336 | [Link](https://ani.social/post/15271057) |
-| Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu | SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life | https://anilist.co/anime/179541 | [Link](https://ani.social/post/14913598) |
+| Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu | SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life | https://anilist.co/anime/179541 | [Link](https://ani.social/post/15281493) |
 | Shoushimin Series 2nd Season | SHOSHIMIN: How to become Ordinary Season 2 | https://anilist.co/anime/181182 | [Link](https://ani.social/post/15245705) |
 | Kusuriya no Hitorigoto 2nd Season | The Apothecary Diaries Season 2 | https://anilist.co/anime/176301 | [Link](https://ani.social/post/15187813) |
 | Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru | The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom | https://anilist.co/anime/183275 | [Link](https://ani.social/post/15084288) |
