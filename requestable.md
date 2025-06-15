@@ -117,6 +117,7 @@ These shows have had episodes air already, but no thread was created because the
 | Nazotoki wa Dinner no Ato de | The Dinner Table Detective | https://anilist.co/anime/184989 | Episode 11 |
 | Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru | The Gorilla God’s Go-To Girl | https://anilist.co/anime/182060 | Episode 10 |
 | Shiunji-ke no Kodomotachi | The Shiunji Family Children | https://anilist.co/anime/174802 | Episode 10 |
+| Tu Bian Yingxiong X | To Be Hero X | https://anilist.co/anime/156092 | Episode 11 |
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 6 |
 | Terra Live | U Takes Terra | https://anilist.co/anime/185778 | Episode 6 |
 | Uchuujin MuuMuu | Uchuujin MuuMuu | https://anilist.co/anime/185070 | Episode 10 |
@@ -140,6 +141,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Lupin the IIIrd: Zenigata to 2-nin no Lupin | Lupin the IIIrd: Zenigata to 2-nin no Lupin | https://anilist.co/anime/191884 | June 19 at 15:00 |
-| Tu Bian Yingxiong X | To Be Hero X | https://anilist.co/anime/156092 | June 15 at 01:30 |
 | Xi Xing Ji: Da Yuan Hun | Xi Xing Ji: Da Yuan Hun | https://anilist.co/anime/137681 | June 16 at 01:00 |
 {.dense}
