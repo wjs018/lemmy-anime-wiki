@@ -23,7 +23,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Shoushimin Series 2nd Season | SHOSHIMIN: How to become Ordinary Season 2 | https://anilist.co/anime/181182 | [Link](https://ani.social/post/15245705) |
 | Kusuriya no Hitorigoto 2nd Season | The Apothecary Diaries Season 2 | https://anilist.co/anime/176301 | [Link](https://ani.social/post/15187813) |
 | Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru | The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom | https://anilist.co/anime/183275 | [Link](https://ani.social/post/15084288) |
-| Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi | The Unaware Atelier Meister | https://anilist.co/anime/183133 | [Link](https://ani.social/post/14919745) |
+| Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi | The Unaware Atelier Meister | https://anilist.co/anime/183133 | [Link](https://ani.social/post/15288551) |
 | Uma Musume: Cinderella Gray | Umamusume: Cinderella Gray | https://anilist.co/anime/180516 | [Link](https://ani.social/post/15276729) |
 | Witch Watch | Witch Watch | https://anilist.co/anime/180367 | [Link](https://ani.social/post/15277532) |
 {.dense}
@@ -77,7 +77,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ling Long 2 | Ling Long 2 | https://anilist.co/anime/135580 | Episode 4 |
 | Mashin Souzouden Wataru | MASHIN CREATOR WATARU | https://anilist.co/anime/173333 | Episode 23 |
 | MUZIK TIGER In the Forest | MUZIK TIGER In the Forest | https://anilist.co/anime/177633 | Episode 11 |
-| Maebashi Witches | Maebashi Witches | https://anilist.co/anime/180825 | Episode 10 |
+| Maebashi Witches | Maebashi Witches | https://anilist.co/anime/180825 | Episode 11 |
 | Kakushite! Makina-san!! | Makina-san's a Love Bot?! | https://anilist.co/anime/177509 | Episode 10 |
 | Kidou Senshi Gundam GQuuuuuuX | Mobile Suit Gundam GQuuuuuuX | https://anilist.co/anime/185213 | Episode 10 |
 | Vigilante: Boku no Hero Academia ILLEGALS | My Hero Academia: Vigilantes | https://anilist.co/anime/185736 | Episode 10 |
