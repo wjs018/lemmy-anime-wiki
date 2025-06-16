@@ -506,6 +506,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/11786650)
 2|[Link](https://ani.social/post/12098838)
+11|[Link](https://ani.social/post/15354417)
 {.dense}
 
 ## mono
