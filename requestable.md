@@ -141,4 +141,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Lupin the IIIrd: Zenigata to 2-nin no Lupin | Lupin the IIIrd: Zenigata to 2-nin no Lupin | https://anilist.co/anime/191884 | June 19 at 15:00 |
+| Yu-Gi-Oh! CARD GAME: THE CHRONICLES (2025) | Yu-Gi-Oh! CARD GAME: THE CHRONICLES (2025) | https://anilist.co/anime/186151 | June 20 at 04:00 |
 {.dense}
