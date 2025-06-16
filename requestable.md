@@ -122,6 +122,7 @@ These shows have had episodes air already, but no thread was created because the
 | Terra Live | U Takes Terra | https://anilist.co/anime/185778 | Episode 6 |
 | Uchuujin MuuMuu | Uchuujin MuuMuu | https://anilist.co/anime/185070 | Episode 10 |
 | WIND BREAKER Season 2 | WIND BREAKER Season 2 | https://anilist.co/anime/178680 | Episode 11 |
+| Xi Xing Ji: Da Yuan Hun | Xi Xing Ji: Da Yuan Hun | https://anilist.co/anime/137681 | Episode 3 |
 | Shin Samurai-den YAIBA | YAIBA: Samurai Legend | https://anilist.co/anime/177476 | Episode 11 |
 | Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita | Yandere Dark Elf: She Chased Me All the Way From Another World! | https://anilist.co/anime/180829 | Episode 11 |
 | Kimi to Idol Precure♪ | You and Idol Precure ♪ | https://anilist.co/anime/185073 | Episode 19 |
@@ -140,5 +141,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Lupin the IIIrd: Zenigata to 2-nin no Lupin | Lupin the IIIrd: Zenigata to 2-nin no Lupin | https://anilist.co/anime/191884 | June 19 at 15:00 |
-| Xi Xing Ji: Da Yuan Hun | Xi Xing Ji: Da Yuan Hun | https://anilist.co/anime/137681 | June 16 at 01:00 |
 {.dense}
