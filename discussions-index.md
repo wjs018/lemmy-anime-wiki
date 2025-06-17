@@ -2,7 +2,7 @@
 title: Episode Discussion Thread Index
 description: A collection of all the episode discussion threads from the community.
 published: true
-date: 2025-06-17T15:09:56.008Z
+date: 2025-06-17T15:10:07.378Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-21T04:46:16.316Z
@@ -14,7 +14,7 @@ Please use the links below to find the discussion threads that you are looking f
 
 - [Winter Season](/2025/winter)
 - [Spring Season](/2025/spring)
-- [Summer Season](/2025/sumer)
+- [Summer Season](/2025/summer)
 
 ## 2024
 
