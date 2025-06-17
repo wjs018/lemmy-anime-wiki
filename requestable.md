@@ -45,7 +45,7 @@ These shows have had episodes air already, but no thread was created because the
 | CLASSIC★STARS | CLASSIC★STARS | https://anilist.co/anime/178825 | Episode 11 |
 | Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!) | Can a Boy-Girl Friendship Survive? | https://anilist.co/anime/153554 | Episode 11 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1165 |
-| Ballpark de Tsukamaete! | Catch Me at the Ballpark! | https://anilist.co/anime/184279 | Episode 11 |
+| Ballpark de Tsukamaete! | Catch Me at the Ballpark! | https://anilist.co/anime/184279 | Episode 12 |
 | Chibizenji-sensei Inokori Kougiroku | Chibizenji-sensei Inokori Kougiroku | https://anilist.co/anime/193242 | Episode 11 |
 | Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita Mini Anime Gekijou | Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita Mini Anime Gekijou | https://anilist.co/anime/189832 | Episode 11 |
 | Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara. | Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara. | https://anilist.co/anime/182419 | Episode 11 |
