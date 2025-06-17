@@ -2,7 +2,7 @@
 title: Spring 2025 Discussion Thread Index
 description: All the episode discussion threads for Spring 2025 shows
 published: true
-date: 2025-03-31T16:19:02.497Z
+date: 2025-05-29T13:33:43.644Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-31T16:19:02.497Z
@@ -22,8 +22,6 @@ Episode|Link
 6|[Link](https://ani.social/post/13442769)
 7|[Link](https://ani.social/post/13798790)
 8|[Link](https://ani.social/post/14168909)
-9|[Link](https://ani.social/post/14565202)
-10|[Link](https://ani.social/post/14971634)
 {.dense}
 
 ## Anne Shirley
@@ -48,8 +46,6 @@ Episode|Link
 6|[Link](https://ani.social/post/13501574)
 7|[Link](https://ani.social/post/13862031)
 8|[Link](https://ani.social/post/14235199)
-9|[Link](https://ani.social/post/14607067)
-10|[Link](https://ani.social/post/15034555)
 {.dense}
 
 ## Aru Majo ga Shinu Made • Once Upon a Witch's Death
@@ -146,7 +142,6 @@ Episode|Link
 5|[Link](https://ani.social/post/13346118)
 6|[Link](https://ani.social/post/13733671)
 7|[Link](https://ani.social/post/14070278)
-8|[Link](https://ani.social/post/14440754)
 {.dense}
 
 ## Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi • The Unaware Atelier Meister
@@ -162,9 +157,6 @@ Episode|Link
 7|[Link](https://ani.social/post/13393028)
 8|[Link](https://ani.social/post/13749442)
 9|[Link](https://ani.social/post/14113638)
-10|[Link](https://ani.social/post/14487811)
-11|[Link](https://ani.social/post/14919745)
-12|[Link](https://ani.social/post/15288551)
 {.dense}
 
 ## Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru • The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom
@@ -180,8 +172,6 @@ Episode|Link
 7|[Link](https://ani.social/post/13547600)
 8|[Link](https://ani.social/post/13909198)
 9|[Link](https://ani.social/post/14282757)
-10|[Link](https://ani.social/post/14716955)
-11|[Link](https://ani.social/post/15084288)
 {.dense}
 
 ## Katainaka no Ossan, Kensei ni Naru • From Old Country Bumpkin to Master Swordsman
@@ -196,9 +186,6 @@ Episode|Link
 6|[Link](https://ani.social/post/13342881)
 7|[Link](https://ani.social/post/13702138)
 8|[Link](https://ani.social/post/14067771)
-9|[Link](https://ani.social/post/14438354)
-10|[Link](https://ani.social/post/14872521)
-11|[Link](https://ani.social/post/15239946)
 {.dense}
 
 ## Kidou Senshi Gundam GQuuuuuuX • Mobile Suit Gundam GQuuuuuuX
@@ -252,8 +239,6 @@ Episode|Link
 3|[Link](https://ani.social/post/12329772)
 4|[Link](https://ani.social/post/12650973)
 8|[Link](https://ani.social/post/14086311)
-9|[Link](https://ani.social/post/14438357)
-10|[Link](https://ani.social/post/14872523)
 {.dense}
 
 ## Lazarus
@@ -268,8 +253,6 @@ Episode|Link
 6|[Link](https://ani.social/post/13373198)
 7|[Link](https://ani.social/post/13731571)
 8|[Link](https://ani.social/post/14098033)
-10|[Link](https://ani.social/post/14932259)
-11|[Link](https://ani.social/post/15271057)
 {.dense}
 
 ## Lycoris Recoil: Friends are thieves of time. • Lycoris Recoil -Friends are thieves of time.-
@@ -335,7 +318,6 @@ Episode|Link
 6|[Link](https://ani.social/post/13594183)
 7|[Link](https://ani.social/post/13956065)
 8|[Link](https://ani.social/post/14329946)
-9|[Link](https://ani.social/post/14760423)
 {.dense}
 
 ## Ore wa Seikan Kokka no Akutoku Ryoushu!  • I'm the Evil Lord of an Intergalactic Empire!
@@ -373,7 +355,6 @@ Episode|Link
 3|[Link](https://ani.social/post/12198492)
 8|[Link](https://ani.social/post/14125743)
 9|[Link](https://ani.social/post/14286140)
-10|[Link](https://ani.social/post/14718163)
 {.dense}
 
 ## Sentai Daishikkaku 2nd Season • Go! Go! Loser Ranger! Season 2
@@ -384,9 +365,6 @@ Episode|Link
 2|[Link](https://ani.social/post/12370827)
 3|[Link](https://ani.social/post/12696740)
 7|[Link](https://ani.social/post/14191284)
-8|[Link](https://ani.social/post/14490348)
-9|[Link](https://ani.social/post/14922441)
-10|[Link](https://ani.social/post/15291568)
 {.dense}
 
 ## Shin Samurai-den YAIBA • YAIBA: Samurai Legend
@@ -409,9 +387,6 @@ Episode|Link
 5|[Link](https://ani.social/post/13384895)
 6|[Link](https://ani.social/post/13742247)
 7|[Link](https://ani.social/post/14107214)
-8|[Link](https://ani.social/post/14537352)
-9|[Link](https://ani.social/post/14913598)
-10|[Link](https://ani.social/post/15281493)
 {.dense}
 
 ## Shiunji-ke no Kodomotachi • The Shiunji Family Children
@@ -434,9 +409,6 @@ Episode|Link
 6|[Link](https://ani.social/post/13349103)
 7|[Link](https://ani.social/post/13708527)
 8|[Link](https://ani.social/post/14073176)
-9|[Link](https://ani.social/post/14443579)
-10|[Link](https://ani.social/post/14877515)
-11|[Link](https://ani.social/post/15245705)
 {.dense}
 
 ## Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita: Sono ni • I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2
@@ -467,9 +439,6 @@ Episode|Link
 6|[Link](https://ani.social/post/13418073)
 7|[Link](https://ani.social/post/13737912)
 8|[Link](https://ani.social/post/14102460)
-9|[Link](https://ani.social/post/14475552)
-10|[Link](https://ani.social/post/14909701)
-11|[Link](https://ani.social/post/15276729)
 {.dense}
 
 ## WIND BREAKER Season 2
@@ -495,9 +464,6 @@ Episode|Link
 6|[Link](https://ani.social/post/13379663)
 7|[Link](https://ani.social/post/13738664)
 8|[Link](https://ani.social/post/14103341)
-9|[Link](https://ani.social/post/14476556)
-10|[Link](https://ani.social/post/14910334)
-11|[Link](https://ani.social/post/15277532)
 {.dense}
 
 ## Zatsu Tabi: That's Journey • ZatsuTabi -That's Journey-
@@ -506,7 +472,6 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/11786650)
 2|[Link](https://ani.social/post/12098838)
-11|[Link](https://ani.social/post/15354417)
 {.dense}
 
 ## mono

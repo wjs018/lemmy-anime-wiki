@@ -2,7 +2,7 @@
 title: Bot User Guide
 description: Your guide to rikka, the anime community discussion thread bot.
 published: true
-date: 2024-06-22T03:25:44.400Z
+date: 2025-05-23T02:41:31.244Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-17T04:44:34.849Z

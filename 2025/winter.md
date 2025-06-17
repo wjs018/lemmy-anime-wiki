@@ -2,7 +2,7 @@
 title: Winter 2025 Discussion Thread Index
 description: All the episode discussion threads for Winter 2025 shows
 published: true
-date: 2025-01-01T19:38:58.792Z
+date: 2025-05-30T15:01:20.000Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-01T19:37:32.145Z
@@ -291,8 +291,8 @@ Episode|Link|Episode|Link
 5|[Link](https://ani.social/post/9285977)|18|[Link](https://ani.social/post/13294124)
 6|[Link](https://ani.social/post/9472939)|19|[Link](https://ani.social/post/14012418)
 7|[Link](https://ani.social/post/9778759)|20|[Link](https://ani.social/post/14383656)
-8|[Link](https://ani.social/post/10054381)|21|[Link](https://ani.social/post/14817070)
-9|[Link](https://ani.social/post/10348229)|22|[Link](https://ani.social/post/15187813)
+8|[Link](https://ani.social/post/10054381)
+9|[Link](https://ani.social/post/10348229)
 10|[Link](https://ani.social/post/10691449)
 11|[Link](https://ani.social/post/11020328)
 12|[Link](https://ani.social/post/11372069)
