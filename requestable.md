@@ -141,7 +141,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | KING OF PRISM -Your Endless Call- Minna Kirameke! Prism☆Tours | KING OF PRISM -Your Endless Call- Minna Kirameke! Prism☆Tours | https://anilist.co/anime/184756 | June 26 at 16:00 |
-| Kobayashi-san Chi no Maidragon Samishii Gariya no Ryuu | Kobayashi-san Chi no Maidragon Samishii Gariya no Ryuu | https://anilist.co/anime/181839 | June 26 at 15:00 |
+| Kobayashi-san Chi no Maidragon Samishii Gariya no Ryuu | Kobayashi-san Chi no Maidragon Samishii Gariya no Ryuu | https://anilist.co/anime/181839 | June 26 at 16:00 |
 | LUPIN THE IIIRD THE MOVIE: Fujimi no Ketsuzoku | LUPIN THE IIIRD THE MOVIE: Fujimi no Ketsuzoku | https://anilist.co/anime/185084 | June 26 at 15:00 |
 | Lupin the IIIrd: Zenigata to 2-nin no Lupin | Lupin the IIIrd: Zenigata to 2-nin no Lupin | https://anilist.co/anime/191884 | June 19 at 15:00 |
 | Shinsei Galverse | Shinsei Galverse | https://anilist.co/anime/192474 | June 25 at 12:30 |
