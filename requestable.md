@@ -115,6 +115,7 @@ These shows have had episodes air already, but no thread was created because the
 | Nazotoki wa Dinner no Ato de | The Dinner Table Detective | https://anilist.co/anime/184989 | Episode 11 |
 | Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru | The Gorilla God’s Go-To Girl | https://anilist.co/anime/182060 | Episode 11 |
 | Shiunji-ke no Kodomotachi | The Shiunji Family Children | https://anilist.co/anime/174802 | Episode 11 |
+| Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru | The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom | https://anilist.co/anime/183275 | Episode 12 |
 | Tu Bian Yingxiong X | To Be Hero X | https://anilist.co/anime/156092 | Episode 11 |
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 6 |
 | Terra Live | U Takes Terra | https://anilist.co/anime/185778 | Episode 6 |
@@ -144,6 +145,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Shinsei Galverse | Shinsei Galverse | https://anilist.co/anime/192474 | June 25 at 12:30 |
 | Soreike! Anpanman: Chapon no Hero! | Soreike! Anpanman: Chapon no Hero! | https://anilist.co/anime/186542 | June 26 at 15:00 |
 | Takopii no Genzai | Takopii no Genzai | https://anilist.co/anime/185407 | June 27 at 15:00 |
-| Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru | The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom | https://anilist.co/anime/183275 | June 18 at 16:00 |
 | Yu-Gi-Oh! CARD GAME: THE CHRONICLES (2025) | Yu-Gi-Oh! CARD GAME: THE CHRONICLES (2025) | https://anilist.co/anime/186151 | June 20 at 04:00 |
 {.dense}
