@@ -128,7 +128,7 @@ These shows have had episodes air already, but no thread was created because the
 | YouTuNya 3 | YouTuNya 3 | https://anilist.co/anime/189602 | Episode 8 |
 | Your Forma | Your Forma | https://anilist.co/anime/167142 | Episode 11 |
 | Yurukawa Mell-chan | Yurukawa Mell-chan | https://anilist.co/anime/189716 | Episode 11 |
-| Zenryoku Usagi Season 2 | Zenryoku Usagi Season 2 | https://anilist.co/anime/184182 | Episode 10 |
+| Zenryoku Usagi Season 2 | Zenryoku Usagi Season 2 | https://anilist.co/anime/184182 | Episode 11 |
 | mono | mono | https://anilist.co/anime/176246 | Episode 10 |
 {.dense}
 
