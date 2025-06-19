@@ -38,7 +38,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ninja to Koroshiya no Futarigurashi | A Ninja and an Assassin Under One Roof | https://anilist.co/anime/177120 | Episode 11 |
 | Aharen-san wa Hakarenai Season 2 | Aharen-san wa Hakarenai Season 2 | https://anilist.co/anime/179979 | Episode 11 |
 | Anne Shirley | Anne Shirley | https://anilist.co/anime/184639 | Episode 11 |
-| Araiguma Calcal-dan | Araiguma Calcal-dan | https://anilist.co/anime/186522 | Episode 11 |
+| Araiguma Calcal-dan | Araiguma Calcal-dan | https://anilist.co/anime/186522 | Episode 12 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 85 |
 | Kuroshitsuji: Midori no Majo-hen | Black Butler: Emerald Witch Arc | https://anilist.co/anime/179054 | Episode 11 |
 | Bye Bye, Earth Season 2 | Bye Bye, Earth Season 2 | https://anilist.co/anime/181078 | Episode 10 |
