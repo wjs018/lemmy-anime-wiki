@@ -75,6 +75,7 @@ These shows have had episodes air already, but no thread was created because the
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 11 |
 | Kowloon Generic Romance | Kowloon Generic Romance | https://anilist.co/anime/182814 | Episode 11 |
 | Ling Long 2 | Ling Long 2 | https://anilist.co/anime/135580 | Episode 4 |
+| Lupin the IIIrd: Zenigata to 2-nin no Lupin | Lupin the IIIrd: Zenigata to 2-nin no Lupin | https://anilist.co/anime/191884 | Episode 1 |
 | Mashin Souzouden Wataru | MASHIN CREATOR WATARU | https://anilist.co/anime/173333 | Episode 23 |
 | MUZIK TIGER In the Forest | MUZIK TIGER In the Forest | https://anilist.co/anime/177633 | Episode 12 |
 | Maebashi Witches | Maebashi Witches | https://anilist.co/anime/180825 | Episode 11 |
@@ -141,7 +142,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | KING OF PRISM -Your Endless Call- Minna Kirameke! Prism☆Tours | KING OF PRISM -Your Endless Call- Minna Kirameke! Prism☆Tours | https://anilist.co/anime/184756 | June 26 at 16:00 |
 | Kobayashi-san Chi no Maidragon Samishii Gariya no Ryuu | Kobayashi-san Chi no Maidragon Samishii Gariya no Ryuu | https://anilist.co/anime/181839 | June 26 at 16:00 |
 | LUPIN THE IIIRD THE MOVIE: Fujimi no Ketsuzoku | LUPIN THE IIIRD THE MOVIE: Fujimi no Ketsuzoku | https://anilist.co/anime/185084 | June 26 at 15:00 |
-| Lupin the IIIrd: Zenigata to 2-nin no Lupin | Lupin the IIIrd: Zenigata to 2-nin no Lupin | https://anilist.co/anime/191884 | June 19 at 15:00 |
 | Shinsei Galverse | Shinsei Galverse | https://anilist.co/anime/192474 | June 25 at 12:30 |
 | Soreike! Anpanman: Chapon no Hero! | Soreike! Anpanman: Chapon no Hero! | https://anilist.co/anime/186542 | June 26 at 15:00 |
 | Takopii no Genzai | Takopii no Genzai | https://anilist.co/anime/185407 | June 27 at 15:00 |
