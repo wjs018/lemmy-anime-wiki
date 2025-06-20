@@ -128,6 +128,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kimi to Idol Precure♪ | You and Idol Precure ♪ | https://anilist.co/anime/185073 | Episode 19 |
 | YouTuNya 3 | YouTuNya 3 | https://anilist.co/anime/189602 | Episode 8 |
 | Your Forma | Your Forma | https://anilist.co/anime/167142 | Episode 12 |
+| Yu-Gi-Oh! CARD GAME: THE CHRONICLES (2025) | Yu-Gi-Oh! CARD GAME: THE CHRONICLES (2025) | https://anilist.co/anime/186151 | Episode 3 |
 | Yurukawa Mell-chan | Yurukawa Mell-chan | https://anilist.co/anime/189716 | Episode 12 |
 | Zenryoku Usagi Season 2 | Zenryoku Usagi Season 2 | https://anilist.co/anime/184182 | Episode 11 |
 | mono | mono | https://anilist.co/anime/176246 | Episode 10 |
@@ -145,5 +146,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Shinsei Galverse | Shinsei Galverse | https://anilist.co/anime/192474 | June 25 at 12:30 |
 | Soreike! Anpanman: Chapon no Hero! | Soreike! Anpanman: Chapon no Hero! | https://anilist.co/anime/186542 | June 26 at 15:00 |
 | Takopii no Genzai | Takopii no Genzai | https://anilist.co/anime/185407 | June 27 at 15:00 |
-| Yu-Gi-Oh! CARD GAME: THE CHRONICLES (2025) | Yu-Gi-Oh! CARD GAME: THE CHRONICLES (2025) | https://anilist.co/anime/186151 | June 20 at 04:00 |
 {.dense}
