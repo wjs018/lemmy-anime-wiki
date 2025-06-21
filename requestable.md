@@ -86,7 +86,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 29 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 172 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 12 |
-| Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 35 |
+| Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 36 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1133 |
 | Oideyo Mahou Shoujo-mura (Fuhou Senkyo) | Oideyo Mahou Shoujo-mura (Fuhou Senkyo) | https://anilist.co/anime/187998 | Episode 12 |
 | Oshiri Tantei 9 | Oshiri Tantei 9 | https://anilist.co/anime/185645 | Episode 10 |
