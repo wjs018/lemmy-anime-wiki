@@ -44,7 +44,7 @@ These shows have had episodes air already, but no thread was created because the
 | Bye Bye, Earth Season 2 | Bye Bye, Earth Season 2 | https://anilist.co/anime/181078 | Episode 10 |
 | CLASSIC★STARS | CLASSIC★STARS | https://anilist.co/anime/178825 | Episode 11 |
 | Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!) | Can a Boy-Girl Friendship Survive? | https://anilist.co/anime/153554 | Episode 12 |
-| Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1165 |
+| Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1166 |
 | Ballpark de Tsukamaete! | Catch Me at the Ballpark! | https://anilist.co/anime/184279 | Episode 12 |
 | Chibizenji-sensei Inokori Kougiroku | Chibizenji-sensei Inokori Kougiroku | https://anilist.co/anime/193242 | Episode 11 |
 | Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita Mini Anime Gekijou | Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita Mini Anime Gekijou | https://anilist.co/anime/189832 | Episode 11 |
