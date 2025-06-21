@@ -128,7 +128,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yu-Gi-Oh! CARD GAME: THE CHRONICLES (2025) | Yu-Gi-Oh! CARD GAME: THE CHRONICLES (2025) | https://anilist.co/anime/186151 | Episode 3 |
 | Yurukawa Mell-chan | Yurukawa Mell-chan | https://anilist.co/anime/189716 | Episode 12 |
 | Zenryoku Usagi Season 2 | Zenryoku Usagi Season 2 | https://anilist.co/anime/184182 | Episode 11 |
-| mono | mono | https://anilist.co/anime/176246 | Episode 10 |
+| mono | mono | https://anilist.co/anime/176246 | Episode 11 |
 {.dense}
 
 ## Upcoming Shows
@@ -138,6 +138,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Mattaku Saikin no Tantei to Kitara | Detectives These Days Are Crazy! | https://anilist.co/anime/180460 | July 01 at 14:30 |
+| Hitozuma no Kuchibiru wa Kan Chu-Hi no Aji ga Shite | Hitozuma no Kuchibiru wa Kan Chu-Hi no Aji ga Shite | https://anilist.co/anime/186789 | July 01 at 16:00 |
 | KING OF PRISM -Your Endless Call- Minna Kirameke! Prism☆Tours | KING OF PRISM -Your Endless Call- Minna Kirameke! Prism☆Tours | https://anilist.co/anime/184756 | June 26 at 16:00 |
 | Kobayashi-san Chi no Maidragon Samishii Gariya no Ryuu | Kobayashi-san Chi no Maidragon Samishii Gariya no Ryuu | https://anilist.co/anime/181839 | June 26 at 16:00 |
 | LUPIN THE IIIRD THE MOVIE: Fujimi no Ketsuzoku | LUPIN THE IIIRD THE MOVIE: Fujimi no Ketsuzoku | https://anilist.co/anime/185084 | June 26 at 15:00 |
