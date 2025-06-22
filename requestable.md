@@ -17,7 +17,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Apocalypse Hotel | Apocalypse Hotel | https://anilist.co/anime/180675 | [Link](https://ani.social/post/15407353) |
 | Sentai Daishikkaku 2nd Season | Go! Go! Loser Ranger! Season 2 | https://anilist.co/anime/178781 | [Link](https://ani.social/post/15291568) |
 | Lazarus | Lazarus | https://anilist.co/anime/167336 | [Link](https://ani.social/post/15641856) |
-| Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu | SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life | https://anilist.co/anime/179541 | [Link](https://ani.social/post/15281493) |
 | Kusuriya no Hitorigoto 2nd Season | The Apothecary Diaries Season 2 | https://anilist.co/anime/176301 | [Link](https://ani.social/post/15187813) |
 | Uma Musume: Cinderella Gray | Umamusume: Cinderella Gray | https://anilist.co/anime/180516 | [Link](https://ani.social/post/15648268) |
 | Witch Watch | Witch Watch | https://anilist.co/anime/180367 | [Link](https://ani.social/post/15648987) |
@@ -140,6 +139,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | LUPIN THE IIIRD THE MOVIE: Fujimi no Ketsuzoku | LUPIN THE IIIRD THE MOVIE: The Immortal Bloodline | https://anilist.co/anime/185084 | June 26 at 15:00 |
 | Kobayashi-san Chi no Maidragon Samishii Gariya no Ryuu | Miss Kobayashi's Dragon Maid: A lonely dragon wants to be loved | https://anilist.co/anime/181839 | June 26 at 16:00 |
 | Necronomico no Cosmic Horror Show | Necronomico and the Cosmic Horror Show | https://anilist.co/anime/185505 | July 01 at 14:30 |
+| Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu | SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life | https://anilist.co/anime/179541 | June 22 at 11:30 |
 | Shinsei Galverse | Shinsei Galverse | https://anilist.co/anime/192474 | June 25 at 12:30 |
 | Soreike! Anpanman: Chapon no Hero! | Soreike! Anpanman: Chapon no Hero! | https://anilist.co/anime/186542 | June 26 at 15:00 |
 | Takopii no Genzai | Takopi's Original Sin | https://anilist.co/anime/185407 | June 27 at 15:00 |
