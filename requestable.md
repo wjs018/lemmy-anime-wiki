@@ -70,7 +70,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kowloon Generic Romance | Kowloon Generic Romance | https://anilist.co/anime/182814 | Episode 12 |
 | LUPIN THE IIIRD: Zenigata to Futari no Lupin | LUPIN THE IIIRD: Zenigata and the Two Lupins | https://anilist.co/anime/191884 | Episode 1 |
 | Ling Long 2 | Ling Long 2 | https://anilist.co/anime/135580 | Episode 5 |
-| Mashin Souzouden Wataru | MASHIN CREATOR WATARU | https://anilist.co/anime/173333 | Episode 23 |
+| Mashin Souzouden Wataru | MASHIN CREATOR WATARU | https://anilist.co/anime/173333 | Episode 24 |
 | MUZIK TIGER In the Forest | MUZIK TIGER In the Forest | https://anilist.co/anime/177633 | Episode 12 |
 | Maebashi Witches | Maebashi Witches | https://anilist.co/anime/180825 | Episode 11 |
 | Kakushite! Makina-san!! | Makina-san's a Love Bot?! | https://anilist.co/anime/177509 | Episode 11 |
