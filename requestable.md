@@ -51,6 +51,7 @@ These shows have had episodes air already, but no thread was created because the
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 162 |
 | GUILTY GEAR STRIVE: DUAL RULERS | GUILTY GEAR STRIVE: DUAL RULERS | https://anilist.co/anime/178046 | Episode 8 |
 | Masuda Kousuke Gekijou Gag Manga Biyori GO | Gag Manga Biyori GO | https://anilist.co/anime/185259 | Episode 12 |
+| Sentai Daishikkaku 2nd Season | Go! Go! Loser Ranger! Season 2 | https://anilist.co/anime/178781 | Episode 11 |
 | Go! Go! Vehicle Zoo: Norimono Star-hen | Go! Go! Vehicle Zoo: Norimono Star-hen | https://anilist.co/anime/188661 | Episode 12 |
 | HANA-Doll*: Reinterpretation of Flowering | HANA-Doll*: Reinterpretation of Flowering | https://anilist.co/anime/166371 | Episode 11 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 609 |
@@ -136,7 +137,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Clevatess: Majuu no Ou to Akago to Kabane no Yuusha | Clevatess | https://anilist.co/anime/178869 | July 02 at 14:00 |
 | Dandadan 2nd Season | DAN DA DAN Season 2 | https://anilist.co/anime/185660 | July 02 at 15:26 |
 | Mattaku Saikin no Tantei to Kitara | Detectives These Days Are Crazy! | https://anilist.co/anime/180460 | July 01 at 14:30 |
-| Sentai Daishikkaku 2nd Season | Go! Go! Loser Ranger! Season 2 | https://anilist.co/anime/178781 | June 22 at 15:30 |
 | Jigoku Sensei Nube (2025) | Hell Teacher: Jigoku Sensei Nube (2025) | https://anilist.co/anime/179678 | July 02 at 14:15 |
 | Hitozuma no Kuchibiru wa Kan Chu-Hi no Aji ga Shite | Hitozuma no Kuchibiru wa Kan Chu-Hi no Aji ga Shite | https://anilist.co/anime/186789 | July 01 at 16:00 |
 | KING OF PRISM -Your Endless Call- Minna Kirameke! Prism☆Tours | KING OF PRISM -Your Endless Call- Minna Kirameke! Prism☆Tours | https://anilist.co/anime/184756 | June 26 at 16:00 |
