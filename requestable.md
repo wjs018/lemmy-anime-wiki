@@ -105,7 +105,6 @@ These shows have had episodes air already, but no thread was created because the
 | Sousou no Frieren: ●● no Mahou Part 2 | Sousou no Frieren: ●● no Mahou Part 2 | https://anilist.co/anime/189513 | Episode 3 |
 | Sumikko Gurashi: Koko ga Ochitsukun Desu | Sumikko Gurashi: Koko ga Ochitsukun Desu | https://anilist.co/anime/188884 | Episode 12 |
 | Summer Pockets | Summer Pockets | https://anilist.co/anime/143200 | Episode 11 |
-| Chao Neng Lifang | Super Cube | https://anilist.co/anime/166442 | Episode 12 |
 | Kijin Gentoushou | Sword of the Demon Hunter: Kijin Gentosho | https://anilist.co/anime/143598 | Episode 12 |
 | Teogonia | Teogonia | https://anilist.co/anime/176702 | Episode 11 |
 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? | The Beginning After the End | https://anilist.co/anime/183161 | Episode 12 |
