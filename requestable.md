@@ -93,6 +93,7 @@ These shows have had episodes air already, but no thread was created because the
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 93 |
 | Rock wa Lady no Tashinami Deshite | Rock is a Lady’s Modesty | https://anilist.co/anime/179694 | Episode 12 |
 | SHIBUYA♡HACHI 2nd Season | SHIBUYA♡HACHI 2nd Season | https://anilist.co/anime/185715 | Episode 12 |
+| Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu | SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life | https://anilist.co/anime/179541 | Episode 11 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 12 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2785 |
 | Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 35 |
@@ -139,7 +140,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | LUPIN THE IIIRD THE MOVIE: Fujimi no Ketsuzoku | LUPIN THE IIIRD THE MOVIE: The Immortal Bloodline | https://anilist.co/anime/185084 | June 26 at 15:00 |
 | Kobayashi-san Chi no Maidragon Samishii Gariya no Ryuu | Miss Kobayashi's Dragon Maid: A lonely dragon wants to be loved | https://anilist.co/anime/181839 | June 26 at 16:00 |
 | Necronomico no Cosmic Horror Show | Necronomico and the Cosmic Horror Show | https://anilist.co/anime/185505 | July 01 at 14:30 |
-| Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu | SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life | https://anilist.co/anime/179541 | June 22 at 11:30 |
 | Shinsei Galverse | Shinsei Galverse | https://anilist.co/anime/192474 | June 25 at 12:30 |
 | Soreike! Anpanman: Chapon no Hero! | Soreike! Anpanman: Chapon no Hero! | https://anilist.co/anime/186542 | June 26 at 15:00 |
 | Takopii no Genzai | Takopi's Original Sin | https://anilist.co/anime/185407 | June 27 at 15:00 |
