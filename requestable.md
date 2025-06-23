@@ -19,7 +19,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kusuriya no Hitorigoto 2nd Season | The Apothecary Diaries Season 2 | https://anilist.co/anime/176301 | [Link](https://ani.social/post/15187813) |
 | Uma Musume: Cinderella Gray | Umamusume: Cinderella Gray | https://anilist.co/anime/180516 | [Link](https://ani.social/post/15648268) |
 | Witch Watch | Witch Watch | https://anilist.co/anime/180367 | [Link](https://ani.social/post/15648987) |
-| Zatsu Tabi: That's Journey | ZatsuTabi -That's Journey- | https://anilist.co/anime/165445 | [Link](https://ani.social/post/15354417) |
+| Zatsu Tabi: That's Journey | ZatsuTabi -That's Journey- | https://anilist.co/anime/165445 | [Link](https://ani.social/post/15708975) |
 {.dense}
 
 ## Requestable Shows
@@ -30,7 +30,7 @@ These shows have had episodes air already, but no thread was created because the
 | :-------- | :---------------- | :----------- | :--------------------------: |
 | #Compass 2.0－Sentou Setsuri Kaiseki System | #COMPASS2.0 ANIMATION PROJECT | https://anilist.co/anime/158287 | Episode 11 |
 | Ninja to Koroshiya no Futarigurashi | A Ninja and an Assassin Under One Roof | https://anilist.co/anime/177120 | Episode 11 |
-| Aharen-san wa Hakarenai Season 2 | Aharen-san wa Hakarenai Season 2 | https://anilist.co/anime/179979 | Episode 11 |
+| Aharen-san wa Hakarenai Season 2 | Aharen-san wa Hakarenai Season 2 | https://anilist.co/anime/179979 | Episode 12 |
 | Anne Shirley | Anne Shirley | https://anilist.co/anime/184639 | Episode 12 |
 | Araiguma Calcal-dan | Araiguma Calcal-dan | https://anilist.co/anime/186522 | Episode 12 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 86 |
