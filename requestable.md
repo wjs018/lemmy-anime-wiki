@@ -73,7 +73,7 @@ These shows have had episodes air already, but no thread was created because the
 | Maebashi Witches | Maebashi Witches | https://anilist.co/anime/180825 | Episode 12 |
 | Kakushite! Makina-san!! | Makina-san's a Love Bot?! | https://anilist.co/anime/177509 | Episode 12 |
 | Kidou Senshi Gundam GQuuuuuuX | Mobile Suit Gundam GQuuuuuuX | https://anilist.co/anime/185213 | Episode 11 |
-| Vigilante: Boku no Hero Academia ILLEGALS | My Hero Academia: Vigilantes | https://anilist.co/anime/185736 | Episode 11 |
+| Vigilante: Boku no Hero Academia ILLEGALS | My Hero Academia: Vigilantes | https://anilist.co/anime/185736 | Episode 12 |
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 37 |
 | Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 29 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 172 |
@@ -138,6 +138,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Mattaku Saikin no Tantei to Kitara | Detectives These Days Are Crazy! | https://anilist.co/anime/180460 | July 01 at 14:30 |
 | Jigoku Sensei Nube (2025) | Hell Teacher: Jigoku Sensei Nube (2025) | https://anilist.co/anime/179678 | July 02 at 14:15 |
 | Hitozuma no Kuchibiru wa Kan Chu-Hi no Aji ga Shite | Hitozuma no Kuchibiru wa Kan Chu-Hi no Aji ga Shite | https://anilist.co/anime/186789 | July 01 at 16:00 |
+| Kamitsubaki-shi Kensetsuchuu. | KAMITSUBAKI CITY UNDER CONSTRUCTION | https://anilist.co/anime/173335 | July 03 at 14:56 |
 | KING OF PRISM -Your Endless Call- Minna Kirameke! Prism☆Tours | KING OF PRISM -Your Endless Call- Minna Kirameke! Prism☆Tours | https://anilist.co/anime/184756 | June 26 at 16:00 |
 | LUPIN THE IIIRD THE MOVIE: Fujimi no Ketsuzoku | LUPIN THE IIIRD THE MOVIE: The Immortal Bloodline | https://anilist.co/anime/185084 | June 26 at 15:00 |
 | Kobayashi-san Chi no Maidragon Samishii Gariya no Ryuu | Miss Kobayashi's Dragon Maid: A lonely dragon wants to be loved | https://anilist.co/anime/181839 | June 26 at 16:00 |
@@ -149,4 +150,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Shinsei Galverse | Shinsei Galverse | https://anilist.co/anime/192474 | June 25 at 12:30 |
 | Soreike! Anpanman: Chapon no Hero! | Soreike! Anpanman: Chapon no Hero! | https://anilist.co/anime/186542 | June 26 at 15:00 |
 | Takopii no Genzai | Takopi's Original Sin | https://anilist.co/anime/185407 | June 27 at 15:00 |
+| Tsuihousha Shokudou e Youkoso! | Welcome to the Outcast's Restaurant! | https://anilist.co/anime/185544 | July 03 at 15:00 |
 {.dense}
