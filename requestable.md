@@ -150,6 +150,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Onmyo Kaiten Re:verse | Onmyo Kaiten Re:Birth Verse | https://anilist.co/anime/187387 | July 02 at 15:46 |
 | Koujo Denka no Katei Kyoushi | Private Tutor to the Duke's Daughter | https://anilist.co/anime/170113 | June 28 at 16:30 |
 | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season | Reborn as a Vending Machine, I Now Wander the Dungeon Season 2 | https://anilist.co/anime/169440 | July 02 at 13:00 |
+| Kanojo, Okarishimasu 4th Season | Rent-a-Girlfriend Season 4 | https://anilist.co/anime/179344 | July 04 at 17:23 |
 | Silent Witch: Chinmoku no Majo no Kakushigoto | Secrets of the Silent Witch | https://anilist.co/anime/179966 | July 04 at 15:00 |
 | Shinsei Galverse | Shinsei Galverse | https://anilist.co/anime/192474 | June 25 at 12:30 |
 | Soreike! Anpanman: Chapon no Hero! | Soreike! Anpanman: Chapon no Hero! | https://anilist.co/anime/186542 | June 26 at 15:00 |
