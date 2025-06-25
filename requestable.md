@@ -135,6 +135,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | 9-nine- Shihaisha no Oukan | 9-nine- Shihaisha no Oukan | https://anilist.co/anime/177761 | July 05 at 13:00 |
 | Arknights: Enshin Shomei | Arknights: RISE FROM EMBER | https://anilist.co/anime/177175 | July 04 at 14:30 |
+| Bad Girl | Bad Girl | https://anilist.co/anime/178675 | July 05 at 15:00 |
 | Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru | Betrothed to My Sister's Ex | https://anilist.co/anime/179879 | July 04 at 16:53 |
 | Yofukashi no Uta Season 2 | Call of the Night Season 2 | https://anilist.co/anime/175914 | July 04 at 14:30 |
 | Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen | Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen | https://anilist.co/anime/191994 | July 05 at 00:00 |
@@ -151,6 +152,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | LUPIN THE IIIRD THE MOVIE: Fujimi no Ketsuzoku | LUPIN THE IIIRD THE MOVIE: The Immortal Bloodline | https://anilist.co/anime/185084 | June 26 at 15:00 |
 | Ginga Tokkyuu Milky☆Subway | Milky☆Subway: The Galactic Limited Express | https://anilist.co/anime/189069 | July 03 at 13:54 |
 | Kobayashi-san Chi no Maidragon Samishii Gariya no Ryuu | Miss Kobayashi's Dragon Maid: A lonely dragon wants to be loved | https://anilist.co/anime/181839 | June 26 at 16:00 |
+| Sono Bisque Doll wa Koi wo Suru Season 2 | My Dress-Up Darling Season 2 | https://anilist.co/anime/154768 | July 05 at 15:00 |
 | Necronomico no Cosmic Horror Show | Necronomico and the Cosmic Horror Show | https://anilist.co/anime/185505 | July 01 at 14:30 |
 | Tsuyokute New Saga | New Saga | https://anilist.co/anime/155838 | July 02 at 17:16 |
 | Onmyo Kaiten Re:verse | Onmyo Kaiten Re:Birth Verse | https://anilist.co/anime/187387 | July 02 at 15:46 |
@@ -159,6 +161,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Seishun Buta Yarou wa Santa Claus no Yume wo Minai | Rascal Does Not Dream of Santa Claus | https://anilist.co/anime/171046 | July 05 at 14:30 |
 | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season | Reborn as a Vending Machine, I Now Wander the Dungeon Season 2 | https://anilist.co/anime/169440 | July 02 at 13:00 |
 | Kanojo, Okarishimasu 4th Season | Rent-a-Girlfriend Season 4 | https://anilist.co/anime/179344 | July 04 at 17:23 |
+| Yuusha Party wo Tsuihou Sareta Shiro Madoushi, S Rank Boukensha ni Hirowareru: Kono Shiro Madoushi ga Kikakugaisugiru | Scooped Up by an S-Rank Adventurer! | https://anilist.co/anime/179885 | July 05 at 15:00 |
 | Silent Witch: Chinmoku no Majo no Kakushigoto | Secrets of the Silent Witch | https://anilist.co/anime/179966 | July 04 at 15:00 |
 | Soreike! Anpanman: Chapon no Hero! | Soreike! Anpanman: Chapon no Hero! | https://anilist.co/anime/186542 | June 26 at 15:00 |
 | Takopii no Genzai | Takopi's Original Sin | https://anilist.co/anime/185407 | June 27 at 15:00 |
