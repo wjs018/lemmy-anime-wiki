@@ -171,4 +171,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Mizu Zokusei no Mahou Tsukai | The Water Magician | https://anilist.co/anime/186052 | July 03 at 16:28 |
 | Watari-kun no xx ga Houkai Sunzen | Watari-kun's ****** Is about to Collapse | https://anilist.co/anime/169420 | July 04 at 16:00 |
 | Tsuihousha Shokudou e Youkoso! | Welcome to the Outcast's Restaurant! | https://anilist.co/anime/185544 | July 03 at 15:00 |
+| Ame to Kimi to | With You and the Rain | https://anilist.co/anime/180425 | July 05 at 16:30 |
 {.dense}
