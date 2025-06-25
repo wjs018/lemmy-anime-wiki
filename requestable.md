@@ -123,7 +123,7 @@ These shows have had episodes air already, but no thread was created because the
 | Your Forma | Your Forma | https://anilist.co/anime/167142 | Episode 12 |
 | Yu-Gi-Oh! CARD GAME: THE CHRONICLES (2025) | Yu-Gi-Oh! CARD GAME: THE CHRONICLES (2025) | https://anilist.co/anime/186151 | Episode 3 |
 | Yurukawa Mell-chan | Yurukawa Mell-chan | https://anilist.co/anime/189716 | Episode 12 |
-| Zenryoku Usagi Season 2 | Zenryoku Usagi Season 2 | https://anilist.co/anime/184182 | Episode 11 |
+| Zenryoku Usagi Season 2 | Zenryoku Usagi Season 2 | https://anilist.co/anime/184182 | Episode 12 |
 | mono | mono | https://anilist.co/anime/176246 | Episode 11 |
 {.dense}
 
@@ -160,6 +160,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Silent Witch: Chinmoku no Majo no Kakushigoto | Secrets of the Silent Witch | https://anilist.co/anime/179966 | July 04 at 15:00 |
 | Soreike! Anpanman: Chapon no Hero! | Soreike! Anpanman: Chapon no Hero! | https://anilist.co/anime/186542 | June 26 at 15:00 |
 | Takopii no Genzai | Takopi's Original Sin | https://anilist.co/anime/185407 | June 27 at 15:00 |
+| Kizetsu Yuusha to Ansatsu Hime | The Shy Hero and the Assassin Princesses | https://anilist.co/anime/186561 | July 05 at 14:00 |
 | Mizu Zokusei no Mahou Tsukai | The Water Magician | https://anilist.co/anime/186052 | July 03 at 16:28 |
 | Watari-kun no xx ga Houkai Sunzen | Watari-kun's ****** Is about to Collapse | https://anilist.co/anime/169420 | July 04 at 16:00 |
 | Tsuihousha Shokudou e Youkoso! | Welcome to the Outcast's Restaurant! | https://anilist.co/anime/185544 | July 03 at 15:00 |
