@@ -122,7 +122,7 @@ These shows have had episodes air already, but no thread was created because the
 | YouTuNya 3 | YouTuNya 3 | https://anilist.co/anime/189602 | Episode 9 |
 | Your Forma | Your Forma | https://anilist.co/anime/167142 | Episode 13 |
 | Yu-Gi-Oh! CARD GAME: THE CHRONICLES (2025) | Yu-Gi-Oh! CARD GAME: THE CHRONICLES (2025) | https://anilist.co/anime/186151 | Episode 3 |
-| Yurukawa Mell-chan | Yurukawa Mell-chan | https://anilist.co/anime/189716 | Episode 12 |
+| Yurukawa Mell-chan | Yurukawa Mell-chan | https://anilist.co/anime/189716 | Episode 13 |
 | Zenryoku Usagi Season 2 | Zenryoku Usagi Season 2 | https://anilist.co/anime/184182 | Episode 12 |
 | mono | mono | https://anilist.co/anime/176246 | Episode 11 |
 {.dense}
@@ -157,6 +157,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Sono Bisque Doll wa Koi wo Suru Season 2 | My Dress-Up Darling Season 2 | https://anilist.co/anime/154768 | July 05 at 15:00 |
 | Necronomico no Cosmic Horror Show | Necronomico and the Cosmic Horror Show | https://anilist.co/anime/185505 | July 01 at 14:30 |
 | Tsuyokute New Saga | New Saga | https://anilist.co/anime/155838 | July 02 at 17:16 |
+| Nyaight of the Living Cat | Nyaight of the Living Cat | https://anilist.co/anime/175124 | July 06 at 14:00 |
 | Onmyo Kaiten Re:verse | Onmyo Kaiten Re:Birth Verse | https://anilist.co/anime/187387 | July 02 at 15:46 |
 | Koujo Denka no Katei Kyoushi | Private Tutor to the Duke's Daughter | https://anilist.co/anime/170113 | June 28 at 16:30 |
 | Puniru wa Kawaii Slime 2nd Season | Puniru wa Kawaii Slime 2nd Season | https://anilist.co/anime/185755 | July 06 at 08:30 |
