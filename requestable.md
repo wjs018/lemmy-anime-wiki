@@ -48,7 +48,7 @@ These shows have had episodes air already, but no thread was created because the
 | Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | Episode 47 |
 | Everyday Host | Everyday Host | https://anilist.co/anime/185584 | Episode 13 |
 | Enen no Shouboutai: San no Shou | Fire Force Season 3 | https://anilist.co/anime/149118 | Episode 12 |
-| Hibi wa Sugiredo Meshi Umashi | Food for the Soul | https://anilist.co/anime/185939 | Episode 11 |
+| Hibi wa Sugiredo Meshi Umashi | Food for the Soul | https://anilist.co/anime/185939 | Episode 12 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 163 |
 | Masuda Kousuke Gekijou Gag Manga Biyori GO | Gag Manga Biyori GO | https://anilist.co/anime/185259 | Episode 12 |
 | Sentai Daishikkaku 2nd Season | Go! Go! Loser Ranger! Season 2 | https://anilist.co/anime/178781 | Episode 11 |
@@ -62,7 +62,6 @@ These shows have had episodes air already, but no thread was created because the
 | Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita: Sono ni | I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2 | https://anilist.co/anime/143337 | Episode 12 |
 | I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 82 |
 | JUNK WORLD | JUNK WORLD | https://anilist.co/anime/191370 | Episode 1 |
-| Jujutsu Kaisen: Kaigyoku・Gyokusetsu - Juju Sanpo | Jujutsu Kaisen: Kaigyoku・Gyokusetsu - Juju Sanpo | https://anilist.co/anime/192810 | Episode 1 |
 | KING OF PRISM -Your Endless Call- Minna Kirameke! Prism☆Tours | KING OF PRISM -Your Endless Call- Minna Kirameke! Prism☆Tours | https://anilist.co/anime/184756 | Episode 1 |
 | Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 13 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 12 |
@@ -92,6 +91,7 @@ These shows have had episodes air already, but no thread was created because the
 | Haite Kudasai, Takamine-san | Please Put Them On, Takamine-san | https://anilist.co/anime/179965 | Episode 12 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 101 |
 | Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | Episode 12 |
+| Koujo Denka no Katei Kyoushi | Private Tutor to the Duke's Daughter | https://anilist.co/anime/170113 | Episode 1 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 94 |
 | Rock wa Lady no Tashinami Deshite | Rock is a Lady’s Modesty | https://anilist.co/anime/179694 | Episode 13 |
 | SHIBUYA♡HACHI 2nd Season | SHIBUYA♡HACHI 2nd Season | https://anilist.co/anime/185715 | Episode 13 |
@@ -171,7 +171,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Nyaight of the Living Cat | Nyaight of the Living Cat | https://anilist.co/anime/175124 | July 06 at 14:00 |
 | Onmyo Kaiten Re:verse | Onmyo Kaiten Re:Birth Verse | https://anilist.co/anime/187387 | July 02 at 15:46 |
 | Osomatsu-san 4 | Osomatsu-san 4 | https://anilist.co/anime/177880 | July 08 at 15:00 |
-| Koujo Denka no Katei Kyoushi | Private Tutor to the Duke's Daughter | https://anilist.co/anime/170113 | June 28 at 16:30 |
 | Puniru wa Kawaii Slime 2nd Season | Puniru wa Kawaii Slime 2nd Season | https://anilist.co/anime/185755 | July 06 at 08:30 |
 | Punirunes Puni 3 | Punirunes Puni 3 | https://anilist.co/anime/188653 | July 05 at 00:45 |
 | Seishun Buta Yarou wa Santa Claus no Yume wo Minai | Rascal Does Not Dream of Santa Claus | https://anilist.co/anime/171046 | July 05 at 14:30 |
@@ -187,6 +186,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Hikaru ga Shinda Natsu | The Summer Hikaru Died | https://anilist.co/anime/177689 | July 05 at 15:56 |
 | Mizu Zokusei no Mahou Tsukai | The Water Magician | https://anilist.co/anime/186052 | July 03 at 16:28 |
 | Watashi ga Koibito ni Nareru Wake Naijan, Murimuri! (※Muri ja Nakatta!?) | There's No Freaking Way I'll Be Your Lover! Unless... | https://anilist.co/anime/184591 | July 07 at 16:00 |
+| Turkey! | Turkey! Time to Strike | https://anilist.co/anime/159483 | July 08 at 16:29 |
 | Watari-kun no xx ga Houkai Sunzen | Watari-kun's ****** Is about to Collapse | https://anilist.co/anime/169420 | July 04 at 16:00 |
 | Tsuihousha Shokudou e Youkoso! | Welcome to the Outcast's Restaurant! | https://anilist.co/anime/185544 | July 03 at 15:00 |
 | Ame to Kimi to | With You and the Rain | https://anilist.co/anime/180425 | July 05 at 16:30 |
