@@ -139,6 +139,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | 9-nine- Shihaisha no Oukan | 9-nine- Shihaisha no Oukan | https://anilist.co/anime/177761 | July 05 at 13:00 |
+| Kakkou no Iinazuke Season 2 | A Couple of Cuckoos Season 2 | https://anilist.co/anime/179828 | July 08 at 14:00 |
 | Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku | Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin | https://anilist.co/anime/178433 | July 06 at 13:30 |
 | Arknights: Enshin Shomei | Arknights: RISE FROM EMBER | https://anilist.co/anime/177175 | July 04 at 14:30 |
 | Bad Girl | Bad Girl | https://anilist.co/anime/178675 | July 05 at 15:00 |
