@@ -128,7 +128,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yu-Gi-Oh! CARD GAME: THE CHRONICLES (2025) | Yu-Gi-Oh! CARD GAME: THE CHRONICLES (2025) | https://anilist.co/anime/186151 | Episode 3 |
 | Yurukawa Mell-chan | Yurukawa Mell-chan | https://anilist.co/anime/189716 | Episode 13 |
 | Zenryoku Usagi Season 2 | Zenryoku Usagi Season 2 | https://anilist.co/anime/184182 | Episode 12 |
-| mono | mono | https://anilist.co/anime/176246 | Episode 11 |
+| mono | mono | https://anilist.co/anime/176246 | Episode 12 |
 {.dense}
 
 ## Upcoming Shows
