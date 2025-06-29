@@ -14,7 +14,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
-| Lazarus | Lazarus | https://anilist.co/anime/167336 | [Link](https://ani.social/post/15641856) |
+| Lazarus | Lazarus | https://anilist.co/anime/167336 | [Link](https://ani.social/post/16007988) |
 | Takopii no Genzai | Takopi's Original Sin | https://anilist.co/anime/185407 | [Link](https://ani.social/post/15947516) |
 | Kusuriya no Hitorigoto 2nd Season | The Apothecary Diaries Season 2 | https://anilist.co/anime/176301 | [Link](https://ani.social/post/15924425) |
 | Uma Musume: Cinderella Gray | Umamusume: Cinderella Gray | https://anilist.co/anime/180516 | [Link](https://ani.social/post/15648268) |
