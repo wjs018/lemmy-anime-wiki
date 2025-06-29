@@ -160,6 +160,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Jigoku Sensei Nube (2025) | Hell Teacher: Jigoku Sensei Nube (2025) | https://anilist.co/anime/179678 | July 02 at 14:15 |
 | Hitozuma no Kuchibiru wa Kan Chu-Hi no Aji ga Shite | Hitozuma no Kuchibiru wa Kan Chu-Hi no Aji ga Shite | https://anilist.co/anime/186789 | July 01 at 16:00 |
 | Hotel Inhumans | Hotel Inhumans | https://anilist.co/anime/184034 | July 06 at 14:46 |
+| Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu 2nd Season | I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability Season 2 | https://anilist.co/anime/178090 | July 09 at 15:00 |
 | Jibaku Shounen Hanako-kun 2 Part 2 | Jibaku Shounen Hanako-kun 2 Part 2 | https://anilist.co/anime/189326 | July 06 at 07:30 |
 | Kamitsubaki-shi Kensetsuchuu. | KAMITSUBAKI CITY UNDER CONSTRUCTION | https://anilist.co/anime/173335 | July 03 at 14:56 |
 | Guimi Zhi Zhu | Lord of Mysteries | https://anilist.co/anime/137667 | July 05 at 03:00 |
