@@ -95,7 +95,7 @@ These shows have had episodes air already, but no thread was created because the
 | SHIBUYA♡HACHI Part 3 | SHIBUYA♡HACHI Part 3 | https://anilist.co/anime/185715 | Episode 13 |
 | Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu | SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life | https://anilist.co/anime/179541 | Episode 11 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 13 |
-| Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2785 |
+| Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2786 |
 | Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 36 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1290 |
 | Shinsei Galverse | Shinsei Galverse | https://anilist.co/anime/192474 | Episode 1 |
