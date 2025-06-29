@@ -14,13 +14,11 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
-| Apocalypse Hotel | Apocalypse Hotel | https://anilist.co/anime/180675 | [Link](https://ani.social/post/15774213) |
 | Lazarus | Lazarus | https://anilist.co/anime/167336 | [Link](https://ani.social/post/15641856) |
 | Takopii no Genzai | Takopi's Original Sin | https://anilist.co/anime/185407 | [Link](https://ani.social/post/15947516) |
 | Kusuriya no Hitorigoto 2nd Season | The Apothecary Diaries Season 2 | https://anilist.co/anime/176301 | [Link](https://ani.social/post/15924425) |
 | Uma Musume: Cinderella Gray | Umamusume: Cinderella Gray | https://anilist.co/anime/180516 | [Link](https://ani.social/post/15648268) |
 | Witch Watch | Witch Watch | https://anilist.co/anime/180367 | [Link](https://ani.social/post/15648987) |
-| Zatsu Tabi: That's Journey | ZatsuTabi -That's Journey- | https://anilist.co/anime/165445 | [Link](https://ani.social/post/15708975) |
 {.dense}
 
 ## Requestable Shows
@@ -94,7 +92,7 @@ These shows have had episodes air already, but no thread was created because the
 | Koujo Denka no Katei Kyoushi | Private Tutor to the Duke's Daughter | https://anilist.co/anime/170113 | Episode 1 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 94 |
 | Rock wa Lady no Tashinami Deshite | Rock is a Lady’s Modesty | https://anilist.co/anime/179694 | Episode 13 |
-| SHIBUYA♡HACHI 2nd Season | SHIBUYA♡HACHI 2nd Season | https://anilist.co/anime/185715 | Episode 13 |
+| SHIBUYA♡HACHI Part 3 | SHIBUYA♡HACHI Part 3 | https://anilist.co/anime/185715 | Episode 13 |
 | Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu | SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life | https://anilist.co/anime/179541 | Episode 11 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 13 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2785 |
@@ -127,6 +125,7 @@ These shows have had episodes air already, but no thread was created because the
 | Your Forma | Your Forma | https://anilist.co/anime/167142 | Episode 13 |
 | Yu-Gi-Oh! CARD GAME: THE CHRONICLES (2025) | Yu-Gi-Oh! CARD GAME: THE CHRONICLES (2025) | https://anilist.co/anime/186151 | Episode 3 |
 | Yurukawa Mell-chan | Yurukawa Mell-chan | https://anilist.co/anime/189716 | Episode 13 |
+| Zatsu Tabi: That's Journey | ZatsuTabi -That's Journey- | https://anilist.co/anime/165445 | Episode 10 |
 | Zenryoku Usagi Season 2 | Zenryoku Usagi Season 2 | https://anilist.co/anime/184182 | Episode 12 |
 | mono | mono | https://anilist.co/anime/176246 | Episode 12 |
 {.dense}
