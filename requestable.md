@@ -18,7 +18,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Takopii no Genzai | Takopi's Original Sin | https://anilist.co/anime/185407 | [Link](https://ani.social/post/15947516) |
 | Kusuriya no Hitorigoto 2nd Season | The Apothecary Diaries Season 2 | https://anilist.co/anime/176301 | [Link](https://ani.social/post/15924425) |
 | Uma Musume: Cinderella Gray | Umamusume: Cinderella Gray | https://anilist.co/anime/180516 | [Link](https://ani.social/post/16012707) |
-| Witch Watch | Witch Watch | https://anilist.co/anime/180367 | [Link](https://ani.social/post/15648987) |
+| Witch Watch | Witch Watch | https://anilist.co/anime/180367 | [Link](https://ani.social/post/16013185) |
 {.dense}
 
 ## Requestable Shows
