@@ -275,6 +275,7 @@ Episode|Link
 10|[Link](https://ani.social/post/14932259)
 11|[Link](https://ani.social/post/15271057)
 12|[Link](https://ani.social/post/15641856)
+13|[Link](https://ani.social/post/16007988)
 {.dense}
 
 ## Lycoris Recoil: Friends are thieves of time. • Lycoris Recoil -Friends are thieves of time.-
