@@ -150,7 +150,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shin Samurai-den YAIBA | YAIBA: Samurai Legend | https://anilist.co/anime/177476 | Episode 13 |
 | Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita | Yandere Dark Elf: She Chased Me All the Way From Another World! | https://anilist.co/anime/180829 | Episode 12 |
 | Kimi to Idol Precure♪ | You and Idol Precure ♪ | https://anilist.co/anime/185073 | Episode 21 |
-| YouTuNya 3 | YouTuNya 3 | https://anilist.co/anime/189602 | Episode 9 |
+| YouTuNya 3 | YouTuNya 3 | https://anilist.co/anime/189602 | Episode 10 |
 | Your Forma | Your Forma | https://anilist.co/anime/167142 | Episode 13 |
 | Yu-Gi-Oh! CARD GAME: THE CHRONICLES (2025) | Yu-Gi-Oh! CARD GAME: THE CHRONICLES (2025) | https://anilist.co/anime/186151 | Episode 3 |
 | Yurukawa Mell-chan | Yurukawa Mell-chan | https://anilist.co/anime/189716 | Episode 13 |
