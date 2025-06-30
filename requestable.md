@@ -14,15 +14,38 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
+| Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku | Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin | https://anilist.co/anime/178433 |  |
+| Arknights: Enshin Shomei | Arknights: RISE FROM EMBER | https://anilist.co/anime/177175 |  |
+| Bad Girl | Bad Girl | https://anilist.co/anime/178675 |  |
+| CITY THE ANIMATION | CITY THE ANIMATION | https://anilist.co/anime/181841 |  |
+| Yofukashi no Uta Season 2 | Call of the Night Season 2 | https://anilist.co/anime/175914 |  |
 | Dandadan 2nd Season | DAN DA DAN Season 2 | https://anilist.co/anime/185660 |  |
+| Mikadono Sanshimai wa Angai, Choroi. | Dealing with Mikadono Sisters Is a Breeze | https://anilist.co/anime/178886 |  |
+| Grand Blue Season 2 | Grand Blue Dreaming Season 2 | https://anilist.co/anime/182309 |  |
+| Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu 2nd Season | I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability Season 2 | https://anilist.co/anime/178090 |  |
 | Kaijuu 8-gou 2nd Season | Kaiju No. 8 Season 2 | https://anilist.co/anime/178754 |  |
 | Lazarus | Lazarus | https://anilist.co/anime/167336 | [Link](https://ani.social/post/16007988) |
 | Sono Bisque Doll wa Koi wo Suru Season 2 | My Dress-Up Darling Season 2 | https://anilist.co/anime/154768 |  |
+| New PANTY and STOCKING with GARTERBELT | New PANTY and STOCKING with GARTERBELT | https://anilist.co/anime/151799 |  |
+| Tsuyokute New Saga | New Saga | https://anilist.co/anime/155838 |  |
+| Nyaight of the Living Cat | Nyaight of the Living Cat | https://anilist.co/anime/175124 |  |
+| Seishun Buta Yarou wa Santa Claus no Yume wo Minai | Rascal Does Not Dream of Santa Claus | https://anilist.co/anime/171046 |  |
+| Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season | Reborn as a Vending Machine, I Now Wander the Dungeon Season 2 | https://anilist.co/anime/169440 |  |
+| Ruri no Houseki | Ruri Rocks | https://anilist.co/anime/180929 |  |
+| SAKAMOTO DAYS Part 2 | SAKAMOTO DAYS Part 2 | https://anilist.co/anime/184237 |  |
+| Silent Witch: Chinmoku no Majo no Kakushigoto | Secrets of the Silent Witch | https://anilist.co/anime/179966 |  |
+| Food Court de, Mata Ashita. | See You Tomorrow at the Food Court | https://anilist.co/anime/185519 |  |
+| Futari Solo Camp | Solo Camping for Two | https://anilist.co/anime/185965 |  |
 | Takopii no Genzai | Takopi's Original Sin | https://anilist.co/anime/185407 | [Link](https://ani.social/post/15947516) |
 | Kusuriya no Hitorigoto 2nd Season | The Apothecary Diaries Season 2 | https://anilist.co/anime/176301 | [Link](https://ani.social/post/15924425) |
 | Kaoru Hana wa Rin to Saku | The Fragrant Flower Blooms With Dignity | https://anilist.co/anime/181444 |  |
+| Hikaru ga Shinda Natsu | The Summer Hikaru Died | https://anilist.co/anime/177689 |  |
+| Mizu Zokusei no Mahou Tsukai | The Water Magician | https://anilist.co/anime/186052 |  |
+| Turkey! | Turkey! Time to Strike | https://anilist.co/anime/159483 |  |
 | Uma Musume: Cinderella Gray | Umamusume: Cinderella Gray | https://anilist.co/anime/180516 | [Link](https://ani.social/post/16012707) |
+| Tsuihousha Shokudou e Youkoso! | Welcome to the Outcast's Restaurant! | https://anilist.co/anime/185544 |  |
 | Witch Watch | Witch Watch | https://anilist.co/anime/180367 | [Link](https://ani.social/post/16013185) |
+| Ame to Kimi to | With You and the Rain | https://anilist.co/anime/180425 |  |
 {.dense}
 
 ## Requestable Shows
@@ -142,57 +165,36 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | 9-nine- Shihaisha no Oukan | 9-nine- Shihaisha no Oukan | https://anilist.co/anime/177761 | July 05 at 13:00 |
 | Kakkou no Iinazuke Season 2 | A Couple of Cuckoos Season 2 | https://anilist.co/anime/179828 | July 08 at 14:00 |
-| Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku | Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin | https://anilist.co/anime/178433 | July 06 at 13:30 |
-| Arknights: Enshin Shomei | Arknights: RISE FROM EMBER | https://anilist.co/anime/177175 | July 04 at 14:30 |
-| Bad Girl | Bad Girl | https://anilist.co/anime/178675 | July 05 at 15:00 |
 | Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru | Betrothed to My Sister's Ex | https://anilist.co/anime/179879 | July 04 at 16:53 |
 | Binan Koukou Chikyuu Bouei-bu Haikara! | Binan Koukou Chikyuu Bouei-bu Haikara! | https://anilist.co/anime/188138 | July 07 at 14:00 |
 | Busamen Gachi Fighter | Busamen Gachi Fighter | https://anilist.co/anime/184575 | July 06 at 14:30 |
-| CITY THE ANIMATION | CITY THE ANIMATION | https://anilist.co/anime/181841 | July 06 at 15:00 |
-| Yofukashi no Uta Season 2 | Call of the Night Season 2 | https://anilist.co/anime/175914 | July 04 at 14:30 |
 | Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen | Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen | https://anilist.co/anime/191994 | July 05 at 00:00 |
 | Chibi Godzilla no Gyakushuu 3 | Chibi Godzilla Raids Again Season 3 | https://anilist.co/anime/193883 | July 01 at 23:06 |
 | Clevatess: Majuu no Ou to Akago to Kabane no Yuusha | Clevatess | https://anilist.co/anime/178869 | July 02 at 14:00 |
 | GaCen Shoujo to Ibunka Kouryuu | Cultural Exchange with a Game Centre Girl | https://anilist.co/anime/180794 | July 06 at 14:30 |
-| Mikadono Sanshimai wa Angai, Choroi. | Dealing with Mikadono Sisters Is a Breeze | https://anilist.co/anime/178886 | July 09 at 15:20 |
 | Dekin no Mogura | Dekin no Mogura: The Earthbound Mole | https://anilist.co/anime/184574 | July 07 at 13:00 |
 | Mattaku Saikin no Tantei to Kitara | Detectives These Days Are Crazy! | https://anilist.co/anime/180460 | July 01 at 14:30 |
 | Fermat no Ryouri | Fermat no Ryouri | https://anilist.co/anime/186003 | July 05 at 14:30 |
 | Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | July 06 at 14:30 |
 | Gakkou de wa Oshiete Kurenai Taisetsu na Koto | Gakkou de wa Oshiete Kurenai Taisetsu na Koto | https://anilist.co/anime/193238 | July 04 at 22:00 |
-| Grand Blue Season 2 | Grand Blue Dreaming Season 2 | https://anilist.co/anime/182309 | July 07 at 15:30 |
 | Jigoku Sensei Nube (2025) | Hell Teacher: Jigoku Sensei Nube (2025) | https://anilist.co/anime/179678 | July 02 at 14:15 |
 | Hitozuma no Kuchibiru wa Kan Chu-Hi no Aji ga Shite | Hitozuma no Kuchibiru wa Kan Chu-Hi no Aji ga Shite | https://anilist.co/anime/186789 | July 01 at 16:00 |
 | Hotel Inhumans | Hotel Inhumans | https://anilist.co/anime/184034 | July 06 at 14:46 |
-| Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu 2nd Season | I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability Season 2 | https://anilist.co/anime/178090 | July 09 at 15:00 |
 | Jibaku Shounen Hanako-kun 2 Part 2 | Jibaku Shounen Hanako-kun 2 Part 2 | https://anilist.co/anime/189326 | July 06 at 07:30 |
 | Kamitsubaki-shi Kensetsuchuu. | KAMITSUBAKI CITY UNDER CONSTRUCTION | https://anilist.co/anime/173335 | July 03 at 14:56 |
 | Kizu darake Seijo yori Houfuku wo Komete | Kizu darake Seijo yori Houfuku wo Komete | https://anilist.co/anime/195209 | July 09 at 16:30 |
 | Guimi Zhi Zhu | Lord of Mysteries | https://anilist.co/anime/137667 | July 05 at 03:00 |
 | Ginga Tokkyuu Milky☆Subway | Milky☆Subway: The Galactic Limited Express | https://anilist.co/anime/189069 | July 03 at 13:54 |
 | Necronomico no Cosmic Horror Show | Necronomico and the Cosmic Horror Show | https://anilist.co/anime/185505 | July 01 at 14:30 |
-| New PANTY and STOCKING with GARTERBELT | New PANTY and STOCKING with GARTERBELT | https://anilist.co/anime/151799 | July 09 at 16:00 |
-| Tsuyokute New Saga | New Saga | https://anilist.co/anime/155838 | July 02 at 17:16 |
-| Nyaight of the Living Cat | Nyaight of the Living Cat | https://anilist.co/anime/175124 | July 06 at 14:00 |
 | Onmyo Kaiten Re:verse | Onmyo Kaiten Re:Birth Verse | https://anilist.co/anime/187387 | July 02 at 15:46 |
 | Osomatsu-san 4 | Osomatsu-san 4 | https://anilist.co/anime/177880 | July 08 at 15:00 |
 | Puniru wa Kawaii Slime 2nd Season | Puniru wa Kawaii Slime 2nd Season | https://anilist.co/anime/185755 | July 06 at 08:30 |
 | Punirunes Puni 3 | Punirunes Puni 3 | https://anilist.co/anime/188653 | July 05 at 00:45 |
-| Seishun Buta Yarou wa Santa Claus no Yume wo Minai | Rascal Does Not Dream of Santa Claus | https://anilist.co/anime/171046 | July 05 at 14:30 |
-| Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season | Reborn as a Vending Machine, I Now Wander the Dungeon Season 2 | https://anilist.co/anime/169440 | July 02 at 13:00 |
 | Kanojo, Okarishimasu 4th Season | Rent-a-Girlfriend Season 4 | https://anilist.co/anime/179344 | July 01 at 13:00 |
-| Ruri no Houseki | Ruri Rocks | https://anilist.co/anime/180929 | July 06 at 12:30 |
 | Yuusha Party wo Tsuihou Sareta Shiro Madoushi, S Rank Boukensha ni Hirowareru: Kono Shiro Madoushi ga Kikakugaisugiru | Scooped Up by an S-Rank Adventurer! | https://anilist.co/anime/179885 | July 05 at 15:00 |
-| Silent Witch: Chinmoku no Majo no Kakushigoto | Secrets of the Silent Witch | https://anilist.co/anime/179966 | July 04 at 15:00 |
-| Food Court de, Mata Ashita. | See You Tomorrow at the Food Court | https://anilist.co/anime/185519 | July 07 at 13:30 |
 | Shinobanai! Crypto Ninja Sakuya San no Maki | Shinobanai! Crypto Ninja Sakuya San no Maki | https://anilist.co/anime/181867 | July 07 at 12:54 |
 | Tate no Yuusha no Nariagari Season 4 | The Rising of the Shield Hero Season 4 | https://anilist.co/anime/173780 | July 09 at 12:00 |
 | Kizetsu Yuusha to Ansatsu Hime | The Shy Hero and the Assassin Princesses | https://anilist.co/anime/186561 | July 05 at 14:00 |
-| Hikaru ga Shinda Natsu | The Summer Hikaru Died | https://anilist.co/anime/177689 | July 05 at 15:56 |
-| Mizu Zokusei no Mahou Tsukai | The Water Magician | https://anilist.co/anime/186052 | July 03 at 16:28 |
 | Watashi ga Koibito ni Nareru Wake Naijan, Murimuri! (※Muri ja Nakatta!?) | There's No Freaking Way I'll Be Your Lover! Unless... | https://anilist.co/anime/184591 | July 07 at 16:00 |
-| Turkey! | Turkey! Time to Strike | https://anilist.co/anime/159483 | July 08 at 16:29 |
 | Watari-kun no xx ga Houkai Sunzen | Watari-kun's ****** Is about to Collapse | https://anilist.co/anime/169420 | July 04 at 16:00 |
-| Tsuihousha Shokudou e Youkoso! | Welcome to the Outcast's Restaurant! | https://anilist.co/anime/185544 | July 03 at 15:00 |
-| Ame to Kimi to | With You and the Rain | https://anilist.co/anime/180425 | July 05 at 16:30 |
 {.dense}
