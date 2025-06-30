@@ -90,7 +90,7 @@ These shows have had episodes air already, but no thread was created because the
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 101 |
 | Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | Episode 12 |
 | Koujo Denka no Katei Kyoushi | Private Tutor to the Duke's Daughter | https://anilist.co/anime/170113 | Episode 1 |
-| Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 94 |
+| Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 95 |
 | Rock wa Lady no Tashinami Deshite | Rock is a Lady’s Modesty | https://anilist.co/anime/179694 | Episode 13 |
 | SHIBUYA♡HACHI Part 3 | SHIBUYA♡HACHI Part 3 | https://anilist.co/anime/185715 | Episode 13 |
 | Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu | SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life | https://anilist.co/anime/179541 | Episode 12 |
