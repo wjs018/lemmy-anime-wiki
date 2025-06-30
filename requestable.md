@@ -175,6 +175,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | GaCen Shoujo to Ibunka Kouryuu | Cultural Exchange with a Game Centre Girl | https://anilist.co/anime/180794 | July 06 at 14:30 |
 | Dekin no Mogura | Dekin no Mogura: The Earthbound Mole | https://anilist.co/anime/184574 | July 07 at 13:00 |
 | Mattaku Saikin no Tantei to Kitara | Detectives These Days Are Crazy! | https://anilist.co/anime/180460 | July 01 at 14:30 |
+| Dr.STONE SCIENCE FUTURE Part 2 | Dr. STONE SCIENCE FUTURE Cour 2 | https://anilist.co/anime/189117 | July 10 at 13:00 |
 | Fermat no Ryouri | Fermat no Ryouri | https://anilist.co/anime/186003 | July 05 at 14:30 |
 | Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | July 06 at 14:30 |
 | Gakkou de wa Oshiete Kurenai Taisetsu na Koto | Gakkou de wa Oshiete Kurenai Taisetsu na Koto | https://anilist.co/anime/193238 | July 04 at 22:00 |
