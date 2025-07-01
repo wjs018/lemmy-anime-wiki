@@ -84,6 +84,7 @@ These shows have had episodes air already, but no thread was created because the
 | HANA-Doll*: Reinterpretation of Flowering | HANA-Doll*: Reinterpretation of Flowering | https://anilist.co/anime/166371 | Episode 12 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 610 |
 | Himitsu no AiPri: Ring-hen | Himitsu no AiPri: Ring-hen | https://anilist.co/anime/184470 | Episode 13 |
+| Hitozuma no Kuchibiru wa Kan Chu-Hi no Aji ga Shite | Hitozuma no Kuchibiru wa Kan Chu-Hi no Aji ga Shite | https://anilist.co/anime/186789 | Episode 1 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 320 |
 | A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu. | I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! | https://anilist.co/anime/180812 | Episode 24 |
 | Ore wa Seikan Kokka no Akutoku Ryoushu!  | I'm the Evil Lord of an Intergalactic Empire! | https://anilist.co/anime/183274 | Episode 12 |
@@ -183,7 +184,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | July 06 at 14:30 |
 | Gakkou de wa Oshiete Kurenai Taisetsu na Koto | Gakkou de wa Oshiete Kurenai Taisetsu na Koto | https://anilist.co/anime/193238 | July 04 at 22:00 |
 | Jigoku Sensei Nube (2025) | Hell Teacher: Jigoku Sensei Nube (2025) | https://anilist.co/anime/179678 | July 02 at 14:15 |
-| Hitozuma no Kuchibiru wa Kan Chu-Hi no Aji ga Shite | Hitozuma no Kuchibiru wa Kan Chu-Hi no Aji ga Shite | https://anilist.co/anime/186789 | July 01 at 16:00 |
 | Hotel Inhumans | Hotel Inhumans | https://anilist.co/anime/184034 | July 06 at 14:46 |
 | Jibaku Shounen Hanako-kun 2 Part 2 | Jibaku Shounen Hanako-kun 2 Part 2 | https://anilist.co/anime/189326 | July 06 at 07:30 |
 | Kamitsubaki-shi Kensetsuchuu. | KAMITSUBAKI CITY UNDER CONSTRUCTION | https://anilist.co/anime/173335 | July 03 at 14:56 |
