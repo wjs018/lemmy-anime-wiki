@@ -10,6 +10,13 @@ dateCreated: 2025-06-17T15:01:01.186Z
 
 Below, you can find an index of all the discussion threads for shows from the Summer 2025 anime season. Not every episode of every show may have a discussion thread. To more easily find the show you are looking for, use the navigation menu for this page or use Ctrl+F.
 
+## Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season • Reborn as a Vending Machine, I Now Wander the Dungeon Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/16172161)
+{.dense}
+
 ## Takopii no Genzai • Takopi's Original Sin
 
 Episode|Link
