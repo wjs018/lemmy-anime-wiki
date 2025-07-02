@@ -117,6 +117,7 @@ These shows have had episodes air already, but no thread was created because the
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1134 |
 | Oideyo Mahou Shoujo-mura (Fuhou Senkyo) | Oideyo Mahou Shoujo-mura (Fuhou Senkyo) | https://anilist.co/anime/187998 | Episode 13 |
 | Aru Majo ga Shinu Made | Once Upon a Witch's Death | https://anilist.co/anime/178701 | Episode 11 |
+| Onmyo Kaiten Re:verse | Onmyo Kaiten Re:Birth Verse | https://anilist.co/anime/187387 | Episode 1 |
 | Oshiri Tantei 9 | Oshiri Tantei 9 | https://anilist.co/anime/185645 | Episode 10 |
 | Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II | Our Last Crusade or the Rise of a New World Season 2 | https://anilist.co/anime/139825 | Episode 12 |
 | Katachi | Pain Give Form | https://anilist.co/anime/194390 | Episode 1 |
@@ -151,7 +152,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tu Bian Yingxiong X | To Be Hero X | https://anilist.co/anime/156092 | Episode 13 |
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 7 |
 | Terra Live | U Takes Terra | https://anilist.co/anime/185778 | Episode 8 |
-| Uchuujin MuuMuu | Uchuujin MuuMuu | https://anilist.co/anime/185070 | Episode 12 |
+| Uchuujin MuuMuu | Uchuujin MuuMuu | https://anilist.co/anime/185070 | Episode 13 |
 | WIND BREAKER Season 2 | WIND BREAKER Season 2 | https://anilist.co/anime/178680 | Episode 12 |
 | Xi Xing Ji: Da Yuan Hun | Xi Xing Ji: Da Yuan Hun | https://anilist.co/anime/137681 | Episode 5 |
 | Shin Samurai-den YAIBA | YAIBA: Samurai Legend | https://anilist.co/anime/177476 | Episode 13 |
@@ -190,7 +191,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Kizu darake Seijo yori Houfuku wo Komete | Kizu darake Seijo yori Houfuku wo Komete | https://anilist.co/anime/195209 | July 09 at 16:30 |
 | Leviathan | Leviathan | https://anilist.co/anime/177887 | July 10 at 07:00 |
 | Ginga Tokkyuu Milky☆Subway | Milky☆Subway: The Galactic Limited Express | https://anilist.co/anime/189069 | July 03 at 13:54 |
-| Onmyo Kaiten Re:verse | Onmyo Kaiten Re:Birth Verse | https://anilist.co/anime/187387 | July 02 at 15:46 |
 | Osomatsu-san 4 | Osomatsu-san 4 | https://anilist.co/anime/177880 | July 08 at 15:00 |
 | Puniru wa Kawaii Slime 2nd Season | Puniru wa Kawaii Slime 2nd Season | https://anilist.co/anime/185755 | July 06 at 08:30 |
 | Punirunes Puni 3 | Punirunes Puni 3 | https://anilist.co/anime/188653 | July 05 at 00:45 |
