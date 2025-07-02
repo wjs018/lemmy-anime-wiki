@@ -31,3 +31,10 @@ Episode|Link
 1|[Link](https://ani.social/post/15947516)
 {.dense}
 
+## Tsuyokute New Saga • New Saga
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/16183287)
+{.dense}
+
