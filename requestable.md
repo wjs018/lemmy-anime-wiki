@@ -100,7 +100,7 @@ These shows have had episodes air already, but no thread was created because the
 | LUPIN THE IIIRD: Zenigata to Futari no Lupin | LUPIN THE IIIRD: Zenigata and the Two Lupins | https://anilist.co/anime/191884 | Episode 1 |
 | Ling Long 2 | Ling Long 2 | https://anilist.co/anime/135580 | Episode 6 |
 | Mashin Souzouden Wataru | MASHIN CREATOR WATARU | https://anilist.co/anime/173333 | Episode 24 |
-| MUZIK TIGER In the Forest | MUZIK TIGER In the Forest | https://anilist.co/anime/177633 | Episode 13 |
+| MUZIK TIGER In the Forest | MUZIK TIGER In the Forest | https://anilist.co/anime/177633 | Episode 14 |
 | Maebashi Witches | Maebashi Witches | https://anilist.co/anime/180825 | Episode 12 |
 | Kakushite! Makina-san!! | Makina-san's a Love Bot?! | https://anilist.co/anime/177509 | Episode 12 |
 | Kobayashi-san Chi no Maidragon Samishii Gariya no Ryuu | Miss Kobayashi's Dragon Maid: A lonely dragon wants to be loved | https://anilist.co/anime/181839 | Episode 1 |
@@ -108,7 +108,7 @@ These shows have had episodes air already, but no thread was created because the
 | Vigilante: Boku no Hero Academia ILLEGALS | My Hero Academia: Vigilantes | https://anilist.co/anime/185736 | Episode 13 |
 | Necronomico no Cosmic Horror Show | Necronomico and the Cosmic Horror Show | https://anilist.co/anime/185505 | Episode 1 |
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 38 |
-| Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 30 |
+| Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 31 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 173 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 13 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 37 |
