@@ -31,6 +31,13 @@ Episode|Link
 1|[Link](https://ani.social/post/16172161)
 {.dense}
 
+## Mizu Zokusei no Mahou Tsukai • The Water Magician
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/16231336)
+{.dense}
+
 ## Takopii no Genzai • Takopi's Original Sin
 
 Episode|Link
