@@ -38,6 +38,13 @@ Episode|Link
 1|[Link](https://ani.social/post/15947516)
 {.dense}
 
+## Tsuihousha Shokudou e Youkoso! • Welcome to the Outcast's Restaurant!
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/16226224)
+{.dense}
+
 ## Tsuyokute New Saga • New Saga
 
 Episode|Link
