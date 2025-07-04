@@ -45,11 +45,19 @@ Episode|Link
 1|[Link](https://ani.social/post/16231336)
 {.dense}
 
+## Silent Witch: Chinmoku no Majo no Kakushigoto • Secrets of the Silent Witch
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/16276933)
+{.dense}
+
 ## Takopii no Genzai • Takopi's Original Sin
 
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/15947516)
+2|[Link](https://ani.social/post/16276934)
 {.dense}
 
 ## Tsuihousha Shokudou e Youkoso! • Welcome to the Outcast's Restaurant!

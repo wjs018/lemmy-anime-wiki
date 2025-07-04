@@ -294,7 +294,7 @@ Episode|Link|Episode|Link
 8|[Link](https://ani.social/post/10054381)|21|[Link](https://ani.social/post/14817070)
 9|[Link](https://ani.social/post/10348229)|22|[Link](https://ani.social/post/15187813)
 10|[Link](https://ani.social/post/10691449)|23|[Link](https://ani.social/post/15924425)
-11|[Link](https://ani.social/post/11020328)
+11|[Link](https://ani.social/post/11020328)|24|[Link](https://ani.social/post/16276931)
 12|[Link](https://ani.social/post/11372069)
 13|[Link](https://ani.social/post/11670534)
 {.dense}
