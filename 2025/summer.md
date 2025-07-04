@@ -10,6 +10,13 @@ dateCreated: 2025-06-17T15:01:01.186Z
 
 Below, you can find an index of all the discussion threads for shows from the Summer 2025 anime season. Not every episode of every show may have a discussion thread. To more easily find the show you are looking for, use the navigation menu for this page or use Ctrl+F.
 
+## Arknights: Enshin Shomei • Arknights: RISE FROM EMBER
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/16275590)
+{.dense}
+
 ## Clevatess: Majuu no Ou to Akago to Kabane no Yuusha • Clevatess
 
 Episode|Link
@@ -57,5 +64,12 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/16183287)
+{.dense}
+
+## Yofukashi no Uta Season 2 • Call of the Night Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/16275592)
 {.dense}
 
