@@ -38,6 +38,13 @@ Episode|Link
 1|[Link](https://ani.social/post/16178468)
 {.dense}
 
+## Hikaru ga Shinda Natsu • The Summer Hikaru Died
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/16327710)
+{.dense}
+
 ## Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season • Reborn as a Vending Machine, I Now Wander the Dungeon Season 2
 
 Episode|Link
