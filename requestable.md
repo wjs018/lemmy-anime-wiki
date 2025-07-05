@@ -131,6 +131,7 @@ These shows have had episodes air already, but no thread was created because the
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 102 |
 | Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | Episode 12 |
 | Koujo Denka no Katei Kyoushi | Private Tutor to the Duke's Daughter | https://anilist.co/anime/170113 | Episode 1 |
+| Punirunes Puni 3 | Punirunes Puni 3 | https://anilist.co/anime/188653 | Episode 1 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 95 |
 | Kanojo, Okarishimasu 4th Season | Rent-a-Girlfriend Season 4 | https://anilist.co/anime/179344 | Episode 1 |
 | Rock wa Lady no Tashinami Deshite | Rock is a Lady’s Modesty | https://anilist.co/anime/179694 | Episode 13 |
@@ -194,7 +195,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Leviathan | Leviathan | https://anilist.co/anime/177887 | July 10 at 07:00 |
 | Osomatsu-san 4 | Osomatsu-san 4 | https://anilist.co/anime/177880 | July 08 at 15:00 |
 | Puniru wa Kawaii Slime 2nd Season | Puniru wa Kawaii Slime 2nd Season | https://anilist.co/anime/185755 | July 06 at 08:30 |
-| Punirunes Puni 3 | Punirunes Puni 3 | https://anilist.co/anime/188653 | July 05 at 00:45 |
 | Yuusha Party wo Tsuihou Sareta Shiro Madoushi, S Rank Boukensha ni Hirowareru: Kono Shiro Madoushi ga Kikakugaisugiru | Scooped Up by an S-Rank Adventurer! | https://anilist.co/anime/179885 | July 05 at 15:00 |
 | Shinobanai! Crypto Ninja Sakuya San no Maki | Shinobanai! Crypto Ninja Sakuya San no Maki | https://anilist.co/anime/181867 | July 07 at 12:54 |
 | Tate no Yuusha no Nariagari Season 4 | The Rising of the Shield Hero Season 4 | https://anilist.co/anime/173780 | July 09 at 12:00 |
