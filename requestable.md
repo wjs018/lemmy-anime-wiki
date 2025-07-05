@@ -49,7 +49,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Uma Musume: Cinderella Gray | Umamusume: Cinderella Gray | https://anilist.co/anime/180516 | [Link](https://ani.social/post/16012707) |
 | Tsuihousha Shokudou e Youkoso! | Welcome to the Outcast's Restaurant! | https://anilist.co/anime/185544 | [Link](https://ani.social/post/16226224) |
 | Witch Watch | Witch Watch | https://anilist.co/anime/180367 | [Link](https://ani.social/post/16013185) |
-| Ame to Kimi to | With You and the Rain | https://anilist.co/anime/180425 |  |
+| Ame to Kimi to | With You and the Rain | https://anilist.co/anime/180425 | [Link](https://ani.social/post/16329495) |
 {.dense}
 
 ## Requestable Shows
