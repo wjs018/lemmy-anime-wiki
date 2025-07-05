@@ -76,7 +76,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita Mini Anime Gekijou | Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita Mini Anime Gekijou | https://anilist.co/anime/189832 | Episode 12 |
 | Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara. | Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara. | https://anilist.co/anime/182419 | Episode 12 |
 | Mattaku Saikin no Tantei to Kitara | Detectives These Days Are Crazy! | https://anilist.co/anime/180460 | Episode 1 |
-| Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 869 |
+| Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 870 |
 | Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | Episode 48 |
 | Everyday Host | Everyday Host | https://anilist.co/anime/185584 | Episode 14 |
 | Enen no Shouboutai: San no Shou | Fire Force Season 3 | https://anilist.co/anime/149118 | Episode 12 |
@@ -95,7 +95,6 @@ These shows have had episodes air already, but no thread was created because the
 | A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu. | I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! | https://anilist.co/anime/180812 | Episode 24 |
 | Ore wa Seikan Kokka no Akutoku Ryoushu!  | I'm the Evil Lord of an Intergalactic Empire! | https://anilist.co/anime/183274 | Episode 12 |
 | Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita: Sono ni | I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2 | https://anilist.co/anime/143337 | Episode 12 |
-| I.CINNAMOROLL Animation | I.CINNAMOROLL Animation | https://anilist.co/anime/169966 | Episode 82 |
 | JUNK WORLD | JUNK WORLD | https://anilist.co/anime/191370 | Episode 1 |
 | Kamitsubaki-shi Kensetsuchuu. | KAMITSUBAKI CITY UNDER CONSTRUCTION | https://anilist.co/anime/173335 | Episode 1 |
 | KING OF PRISM -Your Endless Call- Minna Kirameke! Prism☆Tours | KING OF PRISM -Your Endless Call- Minna Kirameke! Prism☆Tours | https://anilist.co/anime/184756 | Episode 1 |
