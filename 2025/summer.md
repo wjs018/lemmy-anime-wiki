@@ -45,6 +45,13 @@ Episode|Link
 1|[Link](https://ani.social/post/16231336)
 {.dense}
 
+## Seishun Buta Yarou wa Santa Claus no Yume wo Minai • Rascal Does Not Dream of Santa Claus
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/16324122)
+{.dense}
+
 ## Silent Witch: Chinmoku no Majo no Kakushigoto • Secrets of the Silent Witch
 
 Episode|Link
