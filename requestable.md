@@ -27,7 +27,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu 2nd Season | I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability Season 2 | https://anilist.co/anime/178090 |  |
 | Kaijuu 8-gou 2nd Season | Kaiju No. 8 Season 2 | https://anilist.co/anime/178754 |  |
 | Lazarus | Lazarus | https://anilist.co/anime/167336 | [Link](https://ani.social/post/16007988) |
-| Guimi Zhi Zhu | Lord of Mysteries | https://anilist.co/anime/137667 |  |
+| Guimi Zhi Zhu | Lord of Mysteries | https://anilist.co/anime/137667 | [Link](https://ani.social/post/16304060) |
 | Sono Bisque Doll wa Koi wo Suru Season 2 | My Dress-Up Darling Season 2 | https://anilist.co/anime/154768 |  |
 | New PANTY and STOCKING with GARTERBELT | New PANTY and STOCKING with GARTERBELT | https://anilist.co/anime/151799 |  |
 | Tsuyokute New Saga | New Saga | https://anilist.co/anime/155838 | [Link](https://ani.social/post/16183287) |
