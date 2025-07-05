@@ -45,6 +45,13 @@ Episode|Link
 1|[Link](https://ani.social/post/16172161)
 {.dense}
 
+## Kaoru Hana wa Rin to Saku • The Fragrant Flower Blooms With Dignity
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/16326786)
+{.dense}
+
 ## Mizu Zokusei no Mahou Tsukai • The Water Magician
 
 Episode|Link
