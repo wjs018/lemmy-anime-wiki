@@ -140,7 +140,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 13 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2786 |
 | Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 37 |
-| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1290 |
+| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1291 |
 | Shinsei Galverse | Shinsei Galverse | https://anilist.co/anime/192474 | Episode 1 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1705 |
 | Soreike! Anpanman: Chapon no Hero! | Soreike! Anpanman: Chapon no Hero! | https://anilist.co/anime/186542 | Episode 1 |
