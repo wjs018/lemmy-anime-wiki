@@ -118,7 +118,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 31 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 174 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 14 |
-| Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 37 |
+| Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 38 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1134 |
 | Oideyo Mahou Shoujo-mura (Fuhou Senkyo) | Oideyo Mahou Shoujo-mura (Fuhou Senkyo) | https://anilist.co/anime/187998 | Episode 13 |
 | Aru Majo ga Shinu Made | Once Upon a Witch's Death | https://anilist.co/anime/178701 | Episode 11 |
