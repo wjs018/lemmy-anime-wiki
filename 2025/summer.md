@@ -17,6 +17,13 @@ Episode|Link
 1|[Link](https://ani.social/post/16275590)
 {.dense}
 
+## Bad Girl
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/16325435)
+{.dense}
+
 ## Clevatess: Majuu no Ou to Akago to Kabane no Yuusha • Clevatess
 
 Episode|Link
@@ -57,6 +64,13 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/16276933)
+{.dense}
+
+## Sono Bisque Doll wa Koi wo Suru Season 2 • My Dress-Up Darling Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/16325434)
 {.dense}
 
 ## Takopii no Genzai • Takopi's Original Sin
