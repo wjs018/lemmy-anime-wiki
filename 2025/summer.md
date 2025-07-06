@@ -52,6 +52,13 @@ Episode|Link
 1|[Link](https://ani.social/post/16327710)
 {.dense}
 
+## Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku • Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/16367817)
+{.dense}
+
 ## Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season • Reborn as a Vending Machine, I Now Wander the Dungeon Season 2
 
 Episode|Link
