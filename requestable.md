@@ -18,7 +18,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Arknights: Enshin Shomei | Arknights: RISE FROM EMBER | https://anilist.co/anime/177175 | [Link](https://ani.social/post/16275590) |
 | Bad Girl | Bad Girl | https://anilist.co/anime/178675 | [Link](https://ani.social/post/16325435) |
 | Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru | Betrothed to My Sister's Ex | https://anilist.co/anime/179879 | [Link](https://ani.social/post/16291357) |
-| CITY THE ANIMATION | CITY THE ANIMATION | https://anilist.co/anime/181841 |  |
+| CITY THE ANIMATION | CITY THE ANIMATION | https://anilist.co/anime/181841 | [Link](https://ani.social/post/16371700) |
 | Yofukashi no Uta Season 2 | Call of the Night Season 2 | https://anilist.co/anime/175914 | [Link](https://ani.social/post/16275592) |
 | Clevatess: Majuu no Ou to Akago to Kabane no Yuusha | Clevatess | https://anilist.co/anime/178869 | [Link](https://ani.social/post/16186703) |
 | Dandadan 2nd Season | DAN DA DAN Season 2 | https://anilist.co/anime/185660 | [Link](https://ani.social/post/16178468) |
@@ -91,6 +91,7 @@ These shows have had episodes air already, but no thread was created because the
 | Jigoku Sensei Nube (2025) | Hell Teacher: Jigoku Sensei Nube (2025) | https://anilist.co/anime/179678 | Episode 1 |
 | Himitsu no AiPri: Ring-hen | Himitsu no AiPri: Ring-hen | https://anilist.co/anime/184470 | Episode 14 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 321 |
+| Hotel Inhumans | Hotel Inhumans | https://anilist.co/anime/184034 | Episode 1 |
 | A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu. | I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! | https://anilist.co/anime/180812 | Episode 24 |
 | Ore wa Seikan Kokka no Akutoku Ryoushu!  | I'm the Evil Lord of an Intergalactic Empire! | https://anilist.co/anime/183274 | Episode 12 |
 | Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita: Sono ni | I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2 | https://anilist.co/anime/143337 | Episode 12 |
@@ -187,9 +188,8 @@ These shows have episodes scheduled to air in the near future but are not alread
 | BULLET/BULLET | BULLET/BULLET | https://anilist.co/anime/157960 | July 15 at 15:00 |
 | Binan Koukou Chikyuu Bouei-bu Haikara! | Binan Koukou Chikyuu Bouei-bu Haikara! | https://anilist.co/anime/188138 | July 07 at 14:00 |
 | Busu ni Hanataba wo. | Busu ni Hanataba wo. | https://anilist.co/anime/156395 | July 11 at 14:30 |
-| Dekin no Mogura | Dekin no Mogura: The Earthbound Mole | https://anilist.co/anime/184574 | July 07 at 13:00 |
+| Dekin no Mogura | Dekin no Mogura: The Earthbound Mole | https://anilist.co/anime/184574 | July 07 at 14:00 |
 | Dr.STONE SCIENCE FUTURE Part 2 | Dr. STONE SCIENCE FUTURE Cour 2 | https://anilist.co/anime/189117 | July 10 at 13:00 |
-| Hotel Inhumans | Hotel Inhumans | https://anilist.co/anime/184034 | July 06 at 14:46 |
 | Kizu darake Seijo yori Houfuku wo Komete | Kizu darake Seijo yori Houfuku wo Komete | https://anilist.co/anime/195209 | July 09 at 16:30 |
 | Leviathan | Leviathan | https://anilist.co/anime/177887 | July 10 at 07:00 |
 | Osomatsu-san 4 | Mr. Osomatsu 4th Season | https://anilist.co/anime/177880 | July 08 at 15:00 |
