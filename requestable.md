@@ -61,7 +61,6 @@ These shows have had episodes air already, but no thread was created because the
 | Araiguma Calcal-dan | Araiguma Calcal-dan | https://anilist.co/anime/186522 | Episode 14 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 88 |
 | Kuroshitsuji: Midori no Majo-hen | Black Butler: Emerald Witch Arc | https://anilist.co/anime/179054 | Episode 13 |
-| Bye Bye, Earth Season 2 | Bye Bye, Earth Season 2 | https://anilist.co/anime/181078 | Episode 10 |
 | Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen | CARDFIGHT!! VANGUARD Divinez DELUXE Finals | https://anilist.co/anime/191994 | Episode 1 |
 | CLASSIC★STARS | CLASSIC★STARS | https://anilist.co/anime/178825 | Episode 13 |
 | Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!) | Can a Boy-Girl Friendship Survive? | https://anilist.co/anime/153554 | Episode 12 |
@@ -119,7 +118,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 174 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 14 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 38 |
-| ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1134 |
+| ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1135 |
 | Oideyo Mahou Shoujo-mura (Fuhou Senkyo) | Oideyo Mahou Shoujo-mura (Fuhou Senkyo) | https://anilist.co/anime/187998 | Episode 13 |
 | Aru Majo ga Shinu Made | Once Upon a Witch's Death | https://anilist.co/anime/178701 | Episode 11 |
 | Onmyo Kaiten Re:verse | Onmyo Kaiten Re:Birth Verse | https://anilist.co/anime/187387 | Episode 1 |
