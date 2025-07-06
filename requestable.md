@@ -30,7 +30,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Sono Bisque Doll wa Koi wo Suru Season 2 | My Dress-Up Darling Season 2 | https://anilist.co/anime/154768 | [Link](https://ani.social/post/16325434) |
 | New PANTY and STOCKING with GARTERBELT | New PANTY and STOCKING with GARTERBELT | https://anilist.co/anime/151799 |  |
 | Tsuyokute New Saga | New Saga | https://anilist.co/anime/155838 | [Link](https://ani.social/post/16183287) |
-| Nyaight of the Living Cat | Nyaight of the Living Cat | https://anilist.co/anime/175124 |  |
+| Nyaight of the Living Cat | Nyaight of the Living Cat | https://anilist.co/anime/175124 | [Link](https://ani.social/post/16368903) |
 | Seishun Buta Yarou wa Santa Claus no Yume wo Minai | Rascal Does Not Dream of Santa Claus | https://anilist.co/anime/171046 | [Link](https://ani.social/post/16324122) |
 | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season | Reborn as a Vending Machine, I Now Wander the Dungeon Season 2 | https://anilist.co/anime/169440 | [Link](https://ani.social/post/16172161) |
 | Ruri no Houseki | Ruri Rocks | https://anilist.co/anime/180929 | [Link](https://ani.social/post/16365589) |
