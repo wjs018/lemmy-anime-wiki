@@ -42,7 +42,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Futari Solo Camp | Solo Camping for Two | https://anilist.co/anime/185965 |  |
 | Takopii no Genzai | Takopi's Original Sin | https://anilist.co/anime/185407 | [Link](https://ani.social/post/16276934) |
 | Kusuriya no Hitorigoto 2nd Season | The Apothecary Diaries Season 2 | https://anilist.co/anime/176301 | [Link](https://ani.social/post/16276931) |
-| Kaoru Hana wa Rin to Saku | The Fragrant Flower Blooms With Dignity | https://anilist.co/anime/181444 | [Link](https://ani.social/post/16326786) |
 | Hikaru ga Shinda Natsu | The Summer Hikaru Died | https://anilist.co/anime/177689 | [Link](https://ani.social/post/16327710) |
 | Mizu Zokusei no Mahou Tsukai | The Water Magician | https://anilist.co/anime/186052 | [Link](https://ani.social/post/16231336) |
 | Turkey! | Turkey! Time to Strike | https://anilist.co/anime/159483 |  |
@@ -199,6 +198,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Osomatsu-san 4 | Osomatsu-san 4 | https://anilist.co/anime/177880 | July 08 at 15:00 |
 | Puniru wa Kawaii Slime 2nd Season | Puniru wa Kawaii Slime 2nd Season | https://anilist.co/anime/185755 | July 06 at 08:30 |
 | Shinobanai! Crypto Ninja Sakuya San no Maki | Shinobanai! Crypto Ninja Sakuya San no Maki | https://anilist.co/anime/181867 | July 07 at 12:54 |
+| Kaoru Hana wa Rin to Saku | The Fragrant Flower Blooms With Dignity | https://anilist.co/anime/181444 | July 12 at 15:30 |
 | Tate no Yuusha no Nariagari Season 4 | The Rising of the Shield Hero Season 4 | https://anilist.co/anime/173780 | July 09 at 12:00 |
 | Watashi ga Koibito ni Nareru Wake Naijan, Murimuri! (※Muri ja Nakatta!?) | There's No Freaking Way I'll Be Your Lover! Unless... | https://anilist.co/anime/184591 | July 07 at 16:00 |
 | Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | July 11 at 14:00 |
