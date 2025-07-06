@@ -93,6 +93,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ore wa Seikan Kokka no Akutoku Ryoushu!  | I'm the Evil Lord of an Intergalactic Empire! | https://anilist.co/anime/183274 | Episode 12 |
 | Slime Taoshite 300-nen, Shiranai Uchi ni Level MAX ni Nattemashita: Sono ni | I've Been Killing Slimes For 300 Years And Maxed Out My Level Season 2 | https://anilist.co/anime/143337 | Episode 12 |
 | JUNK WORLD | JUNK WORLD | https://anilist.co/anime/191370 | Episode 1 |
+| Jibaku Shounen Hanako-kun 2 Part 2 | Jibaku Shounen Hanako-kun 2 Part 2 | https://anilist.co/anime/189326 | Episode 1 |
 | Kamitsubaki-shi Kensetsuchuu. | KAMITSUBAKI CITY UNDER CONSTRUCTION | https://anilist.co/anime/173335 | Episode 1 |
 | KING OF PRISM -Your Endless Call- Minna Kirameke! Prism☆Tours | KING OF PRISM -Your Endless Call- Minna Kirameke! Prism☆Tours | https://anilist.co/anime/184756 | Episode 1 |
 | Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 14 |
@@ -187,7 +188,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Dr.STONE SCIENCE FUTURE Part 2 | Dr. STONE SCIENCE FUTURE Cour 2 | https://anilist.co/anime/189117 | July 10 at 13:00 |
 | Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | July 06 at 14:30 |
 | Hotel Inhumans | Hotel Inhumans | https://anilist.co/anime/184034 | July 06 at 14:46 |
-| Jibaku Shounen Hanako-kun 2 Part 2 | Jibaku Shounen Hanako-kun 2 Part 2 | https://anilist.co/anime/189326 | July 06 at 07:30 |
 | Kizu darake Seijo yori Houfuku wo Komete | Kizu darake Seijo yori Houfuku wo Komete | https://anilist.co/anime/195209 | July 09 at 16:30 |
 | Leviathan | Leviathan | https://anilist.co/anime/177887 | July 10 at 07:00 |
 | Osomatsu-san 4 | Mr. Osomatsu 4th Season | https://anilist.co/anime/177880 | July 08 at 15:00 |
