@@ -130,7 +130,7 @@ These shows have had episodes air already, but no thread was created because the
 | PetitCure: Precure Fairies | PetitCure: Precure Fairies | https://anilist.co/anime/188394 | Episode 15 |
 | Haite Kudasai, Takamine-san | Please Put Them On, Takamine-san | https://anilist.co/anime/179965 | Episode 12 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 102 |
-| Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | Episode 12 |
+| Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | Episode 13 |
 | Koujo Denka no Katei Kyoushi | Private Tutor to the Duke's Daughter | https://anilist.co/anime/170113 | Episode 2 |
 | Punirunes Puni 3 | Punirunes Puni 3 | https://anilist.co/anime/188653 | Episode 1 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 95 |
