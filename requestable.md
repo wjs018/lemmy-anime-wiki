@@ -193,7 +193,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Leviathan | Leviathan | https://anilist.co/anime/177887 | July 10 at 07:00 |
 | Osomatsu-san 4 | Mr. Osomatsu 4th Season | https://anilist.co/anime/177880 | July 08 at 15:00 |
 | Shinobanai! Crypto Ninja Sakuya San no Maki | Shinobanai! Crypto Ninja Sakuya San no Maki | https://anilist.co/anime/181867 | July 07 at 12:54 |
-| Kaoru Hana wa Rin to Saku | The Fragrant Flower Blooms With Dignity | https://anilist.co/anime/181444 | July 12 at 15:30 |
+| Kaoru Hana wa Rin to Saku | The Fragrant Flower Blooms With Dignity | https://anilist.co/anime/181444 | July 12 at 16:30 |
 | Tate no Yuusha no Nariagari Season 4 | The Rising of the Shield Hero Season 4 | https://anilist.co/anime/173780 | July 09 at 12:00 |
 | Watashi ga Koibito ni Nareru Wake Naijan, Murimuri! (※Muri ja Nakatta!?) | There's No Freaking Way I'll Be Your Lover! Unless... | https://anilist.co/anime/184591 | July 07 at 16:00 |
 | Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | July 11 at 14:00 |
