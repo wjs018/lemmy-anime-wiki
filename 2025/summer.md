@@ -73,6 +73,13 @@ Episode|Link
 1|[Link](https://ani.social/post/16231336)
 {.dense}
 
+## Ruri no Houseki • Ruri Rocks
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/16365589)
+{.dense}
+
 ## Seishun Buta Yarou wa Santa Claus no Yume wo Minai • Rascal Does Not Dream of Santa Claus
 
 Episode|Link
