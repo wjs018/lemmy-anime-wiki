@@ -72,6 +72,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita Mini Anime Gekijou | Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita Mini Anime Gekijou | https://anilist.co/anime/189832 | Episode 12 |
 | Hitozuma no Kuchibiru wa Kan Chu-Hi no Aji ga Shite | Chuhai Lips: Canned Flavor of Married Women | https://anilist.co/anime/186789 | Episode 1 |
 | Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara. | Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara. | https://anilist.co/anime/182419 | Episode 12 |
+| GaCen Shoujo to Ibunka Kouryuu | Cultural Exchange with a Game Centre Girl | https://anilist.co/anime/180794 | Episode 1 |
 | Mattaku Saikin no Tantei to Kitara | Detectives These Days Are Crazy! | https://anilist.co/anime/180460 | Episode 1 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 870 |
 | Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | Episode 49 |
@@ -80,6 +81,7 @@ These shows have had episodes air already, but no thread was created because the
 | Enen no Shouboutai: San no Shou | Fire Force Season 3 | https://anilist.co/anime/149118 | Episode 12 |
 | Hibi wa Sugiredo Meshi Umashi | Food for the Soul | https://anilist.co/anime/185939 | Episode 12 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 164 |
+| Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | Episode 1 |
 | Masuda Kousuke Gekijou Gag Manga Biyori GO | Gag Manga Biyori GO | https://anilist.co/anime/185259 | Episode 12 |
 | Gakkou de wa Oshiete Kurenai Taisetsu na Koto | Gakkou de wa Oshiete Kurenai Taisetsu na Koto | https://anilist.co/anime/193238 | Episode 1 |
 | Sentai Daishikkaku 2nd Season | Go! Go! Loser Ranger! Season 2 | https://anilist.co/anime/178781 | Episode 12 |
@@ -159,6 +161,7 @@ These shows have had episodes air already, but no thread was created because the
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 7 |
 | Terra Live | U Takes Terra | https://anilist.co/anime/185778 | Episode 8 |
 | Uchuujin MuuMuu | Uchuujin MuuMuu | https://anilist.co/anime/185070 | Episode 13 |
+| Busamen Gachi Fighter | Uglymug, Epicfighter | https://anilist.co/anime/184575 | Episode 1 |
 | WIND BREAKER Season 2 | WIND BREAKER Season 2 | https://anilist.co/anime/178680 | Episode 12 |
 | Watari-kun no xx ga Houkai Sunzen | Watari-kun's ****** Is about to Collapse | https://anilist.co/anime/169420 | Episode 1 |
 | Xi Xing Ji: Da Yuan Hun | Xi Xing Ji: Da Yuan Hun | https://anilist.co/anime/137681 | Episode 5 |
@@ -184,10 +187,8 @@ These shows have episodes scheduled to air in the near future but are not alread
 | BULLET/BULLET | BULLET/BULLET | https://anilist.co/anime/157960 | July 15 at 15:00 |
 | Binan Koukou Chikyuu Bouei-bu Haikara! | Binan Koukou Chikyuu Bouei-bu Haikara! | https://anilist.co/anime/188138 | July 07 at 14:00 |
 | Busu ni Hanataba wo. | Busu ni Hanataba wo. | https://anilist.co/anime/156395 | July 11 at 14:30 |
-| GaCen Shoujo to Ibunka Kouryuu | Cultural Exchange with a Game Centre Girl | https://anilist.co/anime/180794 | July 06 at 14:30 |
 | Dekin no Mogura | Dekin no Mogura: The Earthbound Mole | https://anilist.co/anime/184574 | July 07 at 13:00 |
 | Dr.STONE SCIENCE FUTURE Part 2 | Dr. STONE SCIENCE FUTURE Cour 2 | https://anilist.co/anime/189117 | July 10 at 13:00 |
-| Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | July 06 at 14:30 |
 | Hotel Inhumans | Hotel Inhumans | https://anilist.co/anime/184034 | July 06 at 14:46 |
 | Kizu darake Seijo yori Houfuku wo Komete | Kizu darake Seijo yori Houfuku wo Komete | https://anilist.co/anime/195209 | July 09 at 16:30 |
 | Leviathan | Leviathan | https://anilist.co/anime/177887 | July 10 at 07:00 |
@@ -197,5 +198,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Tate no Yuusha no Nariagari Season 4 | The Rising of the Shield Hero Season 4 | https://anilist.co/anime/173780 | July 09 at 12:00 |
 | Watashi ga Koibito ni Nareru Wake Naijan, Murimuri! (※Muri ja Nakatta!?) | There's No Freaking Way I'll Be Your Lover! Unless... | https://anilist.co/anime/184591 | July 07 at 16:00 |
 | Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | July 11 at 14:00 |
-| Busamen Gachi Fighter | Uglymug, Epicfighter | https://anilist.co/anime/184575 | July 06 at 14:30 |
 {.dense}
