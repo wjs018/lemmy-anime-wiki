@@ -87,7 +87,7 @@ These shows have had episodes air already, but no thread was created because the
 | Masuda Kousuke Gekijou Gag Manga Biyori GO | Gag Manga Biyori GO | https://anilist.co/anime/185259 | Episode 12 |
 | Gakkou de wa Oshiete Kurenai Taisetsu na Koto | Gakkou de wa Oshiete Kurenai Taisetsu na Koto | https://anilist.co/anime/193238 | Episode 1 |
 | Sentai Daishikkaku 2nd Season | Go! Go! Loser Ranger! Season 2 | https://anilist.co/anime/178781 | Episode 12 |
-| Go! Go! Vehicle Zoo: Norimono Star-hen | Go! Go! Vehicle Zoo: Norimono Star-hen | https://anilist.co/anime/188661 | Episode 13 |
+| Go! Go! Vehicle Zoo: Norimono Star-hen | Go! Go! Vehicle Zoo: Norimono Star-hen | https://anilist.co/anime/188661 | Episode 14 |
 | HANA-Doll*: Reinterpretation of Flowering | HANA-Doll*: Reinterpretation of Flowering | https://anilist.co/anime/166371 | Episode 12 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 611 |
 | Jigoku Sensei Nube (2025) | Hell Teacher: Jigoku Sensei Nube (2025) | https://anilist.co/anime/179678 | Episode 1 |
@@ -101,7 +101,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kamitsubaki-shi Kensetsuchuu. | KAMITSUBAKI CITY UNDER CONSTRUCTION | https://anilist.co/anime/173335 | Episode 1 |
 | KING OF PRISM -Your Endless Call- Minna Kirameke! Prism☆Tours | KING OF PRISM -Your Endless Call- Minna Kirameke! Prism☆Tours | https://anilist.co/anime/184756 | Episode 1 |
 | Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 14 |
-| Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 13 |
+| Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 14 |
 | Kowloon Generic Romance | Kowloon Generic Romance | https://anilist.co/anime/182814 | Episode 13 |
 | LUPIN THE IIIRD THE MOVIE: Fujimi no Ketsuzoku | LUPIN THE IIIRD THE MOVIE: The Immortal Bloodline | https://anilist.co/anime/185084 | Episode 1 |
 | LUPIN THE IIIRD: Zenigata to Futari no Lupin | LUPIN THE IIIRD: Zenigata and the Two Lupins | https://anilist.co/anime/191884 | Episode 1 |
@@ -167,7 +167,7 @@ These shows have had episodes air already, but no thread was created because the
 | Xi Xing Ji: Da Yuan Hun | Xi Xing Ji: Da Yuan Hun | https://anilist.co/anime/137681 | Episode 5 |
 | Shin Samurai-den YAIBA | YAIBA: Samurai Legend | https://anilist.co/anime/177476 | Episode 13 |
 | Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita | Yandere Dark Elf: She Chased Me All the Way From Another World! | https://anilist.co/anime/180829 | Episode 12 |
-| Kimi to Idol Precure♪ | You and Idol Precure ♪ | https://anilist.co/anime/185073 | Episode 21 |
+| Kimi to Idol Precure♪ | You and Idol Precure ♪ | https://anilist.co/anime/185073 | Episode 22 |
 | YouTuNya 3 | YouTuNya 3 | https://anilist.co/anime/189602 | Episode 10 |
 | Your Forma | Your Forma | https://anilist.co/anime/167142 | Episode 13 |
 | Yu-Gi-Oh! CARD GAME: THE CHRONICLES (2025) | Yu-Gi-Oh! CARD GAME: THE CHRONICLES (2025) | https://anilist.co/anime/186151 | Episode 3 |
