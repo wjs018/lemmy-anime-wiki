@@ -31,6 +31,13 @@ Episode|Link
 1|[Link](https://ani.social/post/16325435)
 {.dense}
 
+## CITY THE ANIMATION
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/16371700)
+{.dense}
+
 ## Clevatess: Majuu no Ou to Akago to Kabane no Yuusha • Clevatess
 
 Episode|Link
