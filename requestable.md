@@ -91,7 +91,7 @@ These shows have had episodes air already, but no thread was created because the
 | HANA-Doll*: Reinterpretation of Flowering | HANA-Doll*: Reinterpretation of Flowering | https://anilist.co/anime/166371 | Episode 12 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 611 |
 | Jigoku Sensei Nube (2025) | Hell Teacher: Jigoku Sensei Nube (2025) | https://anilist.co/anime/179678 | Episode 1 |
-| Himitsu no AiPri: Ring-hen | Himitsu no AiPri: Ring-hen | https://anilist.co/anime/184470 | Episode 13 |
+| Himitsu no AiPri: Ring-hen | Himitsu no AiPri: Ring-hen | https://anilist.co/anime/184470 | Episode 14 |
 | Hitozuma no Kuchibiru wa Kan Chu-Hi no Aji ga Shite | Hitozuma no Kuchibiru wa Kan Chu-Hi no Aji ga Shite | https://anilist.co/anime/186789 | Episode 1 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 320 |
 | A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu. | I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! | https://anilist.co/anime/180812 | Episode 24 |
@@ -158,7 +158,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shiunji-ke no Kodomotachi | The Shiunji Family Children | https://anilist.co/anime/174802 | Episode 12 |
 | Kizetsu Yuusha to Ansatsu Hime | The Shy Hero and the Assassin Princesses | https://anilist.co/anime/186561 | Episode 1 |
 | Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru | The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom | https://anilist.co/anime/183275 | Episode 12 |
-| Tu Bian Yingxiong X | To Be Hero X | https://anilist.co/anime/156092 | Episode 13 |
+| Tu Bian Yingxiong X | To Be Hero X | https://anilist.co/anime/156092 | Episode 14 |
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 7 |
 | Terra Live | U Takes Terra | https://anilist.co/anime/185778 | Episode 8 |
 | Uchuujin MuuMuu | Uchuujin MuuMuu | https://anilist.co/anime/185070 | Episode 13 |
