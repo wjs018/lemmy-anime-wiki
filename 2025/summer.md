@@ -59,6 +59,13 @@ Episode|Link
 1|[Link](https://ani.social/post/16417730)
 {.dense}
 
+## Gachiakuta
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/16424256)
+{.dense}
+
 ## Grand Blue Season 2 • Grand Blue Dreaming Season 2
 
 Episode|Link
