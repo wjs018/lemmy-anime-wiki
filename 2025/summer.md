@@ -52,6 +52,13 @@ Episode|Link
 1|[Link](https://ani.social/post/16178468)
 {.dense}
 
+## Food Court de, Mata Ashita. • See You Tomorrow at the Food Court
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/16417730)
+{.dense}
+
 ## Hikaru ga Shinda Natsu • The Summer Hikaru Died
 
 Episode|Link
