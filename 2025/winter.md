@@ -222,6 +222,13 @@ Episode|Link
 12|[Link](https://ani.social/post/10912932)
 {.dense}
 
+## Kaijuu 8-gou: Hoshina no Kyuujitsu • Kaiju No.8: Hoshina's Day Off
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/16433714)
+{.dense}
+
 ## Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 2nd Season • The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2
 
 Episode|Link
