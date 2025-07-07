@@ -60,6 +60,7 @@ These shows have had episodes air already, but no thread was created because the
 | Anne Shirley | Anne Shirley | https://anilist.co/anime/184639 | Episode 14 |
 | Araiguma Calcal-dan | Araiguma Calcal-dan | https://anilist.co/anime/186522 | Episode 14 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 88 |
+| Binan Koukou Chikyuu Bouei-bu Haikara! | Binan Koukou Chikyuu Bouei-bu Haikara! | https://anilist.co/anime/188138 | Episode 1 |
 | Kuroshitsuji: Midori no Majo-hen | Black Butler: Emerald Witch Arc | https://anilist.co/anime/179054 | Episode 13 |
 | Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen | CARDFIGHT!! VANGUARD Divinez DELUXE Finals | https://anilist.co/anime/191994 | Episode 1 |
 | CLASSIC★STARS | CLASSIC★STARS | https://anilist.co/anime/178825 | Episode 13 |
@@ -72,6 +73,7 @@ These shows have had episodes air already, but no thread was created because the
 | Hitozuma no Kuchibiru wa Kan Chu-Hi no Aji ga Shite | Chuhai Lips: Canned Flavor of Married Women | https://anilist.co/anime/186789 | Episode 1 |
 | Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara. | Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara. | https://anilist.co/anime/182419 | Episode 12 |
 | GaCen Shoujo to Ibunka Kouryuu | Cultural Exchange with a Game Centre Girl | https://anilist.co/anime/180794 | Episode 1 |
+| Dekin no Mogura | Dekin no Mogura: The Earthbound Mole | https://anilist.co/anime/184574 | Episode 1 |
 | Mattaku Saikin no Tantei to Kitara | Detectives These Days Are Crazy! | https://anilist.co/anime/180460 | Episode 1 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 870 |
 | Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | Episode 49 |
@@ -185,9 +187,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Kakkou no Iinazuke Season 2 | A Couple of Cuckoos Season 2 | https://anilist.co/anime/179828 | July 08 at 14:00 |
 | BULLET/BULLET | BULLET/BULLET | https://anilist.co/anime/157960 | July 15 at 15:00 |
-| Binan Koukou Chikyuu Bouei-bu Haikara! | Binan Koukou Chikyuu Bouei-bu Haikara! | https://anilist.co/anime/188138 | July 07 at 14:00 |
 | Busu ni Hanataba wo. | Busu ni Hanataba wo. | https://anilist.co/anime/156395 | July 11 at 14:30 |
-| Dekin no Mogura | Dekin no Mogura: The Earthbound Mole | https://anilist.co/anime/184574 | July 07 at 14:00 |
 | Dr.STONE SCIENCE FUTURE Part 2 | Dr. STONE SCIENCE FUTURE Cour 2 | https://anilist.co/anime/189117 | July 10 at 13:00 |
 | Kizu darake Seijo yori Houfuku wo Komete | Kizu darake Seijo yori Houfuku wo Komete | https://anilist.co/anime/195209 | July 09 at 16:30 |
 | Leviathan | Leviathan | https://anilist.co/anime/177887 | July 10 at 07:00 |
