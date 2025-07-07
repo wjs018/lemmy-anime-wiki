@@ -59,6 +59,13 @@ Episode|Link
 1|[Link](https://ani.social/post/16417730)
 {.dense}
 
+## Grand Blue Season 2 • Grand Blue Dreaming Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/16422825)
+{.dense}
+
 ## Hikaru ga Shinda Natsu • The Summer Hikaru Died
 
 Episode|Link
