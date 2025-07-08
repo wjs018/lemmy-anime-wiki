@@ -165,6 +165,13 @@ Episode|Link
 1|[Link](https://ani.social/post/16183287)
 {.dense}
 
+## Turkey! • Turkey! Time to Strike
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/16475937)
+{.dense}
+
 ## Yofukashi no Uta Season 2 • Call of the Night Season 2
 
 Episode|Link
