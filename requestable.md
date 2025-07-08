@@ -114,6 +114,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ginga Tokkyuu Milky☆Subway | Milky☆Subway: The Galactic Limited Express | https://anilist.co/anime/189069 | Episode 1 |
 | Kobayashi-san Chi no Maidragon Samishii Gariya no Ryuu | Miss Kobayashi's Dragon Maid: A lonely dragon wants to be loved | https://anilist.co/anime/181839 | Episode 1 |
 | Kidou Senshi Gundam GQuuuuuuX | Mobile Suit Gundam GQuuuuuuX | https://anilist.co/anime/185213 | Episode 12 |
+| Osomatsu-san 4 | Mr. Osomatsu 4th Season | https://anilist.co/anime/177880 | Episode 1 |
 | Vigilante: Boku no Hero Academia ILLEGALS | My Hero Academia: Vigilantes | https://anilist.co/anime/185736 | Episode 13 |
 | Necronomico no Cosmic Horror Show | Necronomico and the Cosmic Horror Show | https://anilist.co/anime/185505 | Episode 1 |
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 39 |
@@ -195,7 +196,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Leviathan | Leviathan | https://anilist.co/anime/177887 | July 10 at 07:00 |
 | Long Zu 2 | Long Zu 2 | https://anilist.co/anime/157692 | July 17 at 15:00 |
 | Luo Xiaohei Zhan Ji 2 | Luo Xiaohei Zhan Ji 2 | https://anilist.co/anime/166475 | July 17 at 15:00 |
-| Osomatsu-san 4 | Mr. Osomatsu 4th Season | https://anilist.co/anime/177880 | July 08 at 15:00 |
 | Kaoru Hana wa Rin to Saku | The Fragrant Flower Blooms With Dignity | https://anilist.co/anime/181444 | July 12 at 16:30 |
 | Tate no Yuusha no Nariagari Season 4 | The Rising of the Shield Hero Season 4 | https://anilist.co/anime/173780 | July 09 at 12:00 |
 | Tongling Fei 2 | Tongling Fei 2 | https://anilist.co/anime/175645 | July 16 at 15:00 |
