@@ -186,6 +186,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/16183287)
+2|[Link](https://ani.social/post/16531062)
 {.dense}
 
 ## Turkey! • Turkey! Time to Strike
