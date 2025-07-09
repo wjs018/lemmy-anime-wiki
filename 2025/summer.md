@@ -43,6 +43,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/16186703)
+2|[Link](https://ani.social/post/16518150)
 {.dense}
 
 ## Dandadan 2nd Season • DAN DA DAN Season 2
