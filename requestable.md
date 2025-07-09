@@ -25,7 +25,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Mikadono Sanshimai wa Angai, Choroi. | Dealing with Mikadono Sisters Is a Breeze | https://anilist.co/anime/178886 |  |
 | Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | [Link](https://ani.social/post/16424256) |
 | Grand Blue Season 2 | Grand Blue Dreaming Season 2 | https://anilist.co/anime/182309 | [Link](https://ani.social/post/16422825) |
-| Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu 2nd Season | I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability Season 2 | https://anilist.co/anime/178090 |  |
+| Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu 2nd Season | I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability Season 2 | https://anilist.co/anime/178090 | [Link](https://ani.social/post/16522932) |
 | Kaijuu 8-gou 2nd Season | Kaiju No. 8 Season 2 | https://anilist.co/anime/178754 |  |
 | Guimi Zhi Zhu | Lord of Mysteries | https://anilist.co/anime/137667 | [Link](https://ani.social/post/16304060) |
 | Sono Bisque Doll wa Koi wo Suru Season 2 | My Dress-Up Darling Season 2 | https://anilist.co/anime/154768 | [Link](https://ani.social/post/16325434) |
@@ -197,6 +197,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Long Zu 2 | Long Zu 2 | https://anilist.co/anime/157692 | July 17 at 15:00 |
 | Luo Xiaohei Zhan Ji 2 | Luo Xiaohei Zhan Ji 2 | https://anilist.co/anime/166475 | July 17 at 15:00 |
 | Nukitashi THE ANIMATION | Nukitashi THE ANIMATION | https://anilist.co/anime/174188 | July 18 at 17:06 |
+| Tamala 2030: A Punk Cat in Dark | Tamala 2030: A Punk Cat in Dark | https://anilist.co/anime/120756 | July 19 at 16:00 |
 | Kaoru Hana wa Rin to Saku | The Fragrant Flower Blooms With Dignity | https://anilist.co/anime/181444 | July 12 at 16:30 |
 | Tongling Fei 2 | Tongling Fei 2 | https://anilist.co/anime/175645 | July 16 at 15:00 |
 | Tooi-san wa Seishun Shitai! "Baka to SmaPho to Romance to" | Tooi-san wa Seishun Shitai! "Baka to SmaPho to Romance to" | https://anilist.co/anime/193623 | July 17 at 15:00 |
