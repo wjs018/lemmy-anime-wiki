@@ -108,7 +108,7 @@ These shows have had episodes air already, but no thread was created because the
 | LUPIN THE IIIRD: Zenigata to Futari no Lupin | LUPIN THE IIIRD: Zenigata and the Two Lupins | https://anilist.co/anime/191884 | Episode 1 |
 | Ling Long 2 | Ling Long 2 | https://anilist.co/anime/135580 | Episode 7 |
 | Mashin Souzouden Wataru | MASHIN CREATOR WATARU | https://anilist.co/anime/173333 | Episode 24 |
-| MUZIK TIGER In the Forest | MUZIK TIGER In the Forest | https://anilist.co/anime/177633 | Episode 14 |
+| MUZIK TIGER In the Forest | MUZIK TIGER In the Forest | https://anilist.co/anime/177633 | Episode 15 |
 | Maebashi Witches | Maebashi Witches | https://anilist.co/anime/180825 | Episode 12 |
 | Kakushite! Makina-san!! | Makina-san's a Love Bot?! | https://anilist.co/anime/177509 | Episode 12 |
 | Ginga Tokkyuu Milky☆Subway | Milky☆Subway: The Galactic Limited Express | https://anilist.co/anime/189069 | Episode 1 |
@@ -118,7 +118,7 @@ These shows have had episodes air already, but no thread was created because the
 | Vigilante: Boku no Hero Academia ILLEGALS | My Hero Academia: Vigilantes | https://anilist.co/anime/185736 | Episode 13 |
 | Necronomico no Cosmic Horror Show | Necronomico and the Cosmic Horror Show | https://anilist.co/anime/185505 | Episode 2 |
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 39 |
-| Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 31 |
+| Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 32 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 174 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 14 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 38 |
@@ -158,6 +158,7 @@ These shows have had episodes air already, but no thread was created because the
 | Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru | The Brilliant Healer's New Life in the Shadows | https://anilist.co/anime/175872 | Episode 12 |
 | Nazotoki wa Dinner no Ato de | The Dinner Table Detective | https://anilist.co/anime/184989 | Episode 12 |
 | Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru | The Gorilla God’s Go-To Girl | https://anilist.co/anime/182060 | Episode 12 |
+| Tate no Yuusha no Nariagari Season 4 | The Rising of the Shield Hero Season 4 | https://anilist.co/anime/173780 | Episode 1 |
 | Shiunji-ke no Kodomotachi | The Shiunji Family Children | https://anilist.co/anime/174802 | Episode 12 |
 | Kizetsu Yuusha to Ansatsu Hime | The Shy Hero and the Assassin Princesses | https://anilist.co/anime/186561 | Episode 1 |
 | Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru | The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom | https://anilist.co/anime/183275 | Episode 12 |
@@ -198,7 +199,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Luo Xiaohei Zhan Ji 2 | Luo Xiaohei Zhan Ji 2 | https://anilist.co/anime/166475 | July 17 at 15:00 |
 | Nukitashi THE ANIMATION | Nukitashi THE ANIMATION | https://anilist.co/anime/174188 | July 18 at 17:06 |
 | Kaoru Hana wa Rin to Saku | The Fragrant Flower Blooms With Dignity | https://anilist.co/anime/181444 | July 12 at 16:30 |
-| Tate no Yuusha no Nariagari Season 4 | The Rising of the Shield Hero Season 4 | https://anilist.co/anime/173780 | July 09 at 12:00 |
 | Tongling Fei 2 | Tongling Fei 2 | https://anilist.co/anime/175645 | July 16 at 15:00 |
 | Tooi-san wa Seishun Shitai! "Baka to SmaPho to Romance to" | Tooi-san wa Seishun Shitai! "Baka to SmaPho to Romance to" | https://anilist.co/anime/193623 | July 17 at 15:00 |
 | Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | July 11 at 14:00 |
