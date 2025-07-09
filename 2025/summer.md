@@ -117,6 +117,13 @@ Episode|Link
 1|[Link](https://ani.social/post/16231336)
 {.dense}
 
+## New PANTY and STOCKING with GARTERBELT
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/16525083)
+{.dense}
+
 ## Nyaight of the Living Cat
 
 Episode|Link
