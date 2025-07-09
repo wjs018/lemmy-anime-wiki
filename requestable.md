@@ -102,6 +102,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kamitsubaki-shi Kensetsuchuu. | KAMITSUBAKI CITY UNDER CONSTRUCTION | https://anilist.co/anime/173335 | Episode 1 |
 | KING OF PRISM -Your Endless Call- Minna Kirameke! Prism☆Tours | KING OF PRISM -Your Endless Call- Minna Kirameke! Prism☆Tours | https://anilist.co/anime/184756 | Episode 1 |
 | Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 14 |
+| Kizu darake Seijo yori Houfuku wo Komete | Kizu darake Seijo yori Houfuku wo Komete | https://anilist.co/anime/195209 | Episode 1 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 14 |
 | Kowloon Generic Romance | Kowloon Generic Romance | https://anilist.co/anime/182814 | Episode 13 |
 | LUPIN THE IIIRD THE MOVIE: Fujimi no Ketsuzoku | LUPIN THE IIIRD THE MOVIE: The Immortal Bloodline | https://anilist.co/anime/185084 | Episode 1 |
@@ -192,7 +193,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Busu ni Hanataba wo. | Busu ni Hanataba wo. | https://anilist.co/anime/156395 | July 11 at 14:30 |
 | Kimetsu no Yaiba: Mugenjou-hen Movie 1 - Akaza Sairai | Demon Slayer: Kimetsu no Yaiba Infinity Castle | https://anilist.co/anime/178788 | July 17 at 16:00 |
 | Dr.STONE SCIENCE FUTURE Part 2 | Dr. STONE SCIENCE FUTURE Cour 2 | https://anilist.co/anime/189117 | July 10 at 13:00 |
-| Kizu darake Seijo yori Houfuku wo Komete | Kizu darake Seijo yori Houfuku wo Komete | https://anilist.co/anime/195209 | July 09 at 16:30 |
 | Leviathan | Leviathan | https://anilist.co/anime/177887 | July 10 at 07:00 |
 | Long Zu 2 | Long Zu 2 | https://anilist.co/anime/157692 | July 17 at 15:00 |
 | Luo Xiaohei Zhan Ji 2 | Luo Xiaohei Zhan Ji 2 | https://anilist.co/anime/166475 | July 17 at 15:00 |
