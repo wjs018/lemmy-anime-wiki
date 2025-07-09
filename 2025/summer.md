@@ -153,6 +153,13 @@ Episode|Link
 2|[Link](https://ani.social/post/16276934)
 {.dense}
 
+## Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu 2nd Season • I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/16522932)
+{.dense}
+
 ## Tsuihousha Shokudou e Youkoso! • Welcome to the Outcast's Restaurant!
 
 Episode|Link
