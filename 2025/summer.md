@@ -103,6 +103,13 @@ Episode|Link
 1|[Link](https://ani.social/post/16326786)
 {.dense}
 
+## Mikadono Sanshimai wa Angai, Choroi. • Dealing with Mikadono Sisters Is a Breeze
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/16524177)
+{.dense}
+
 ## Mizu Zokusei no Mahou Tsukai • The Water Magician
 
 Episode|Link
