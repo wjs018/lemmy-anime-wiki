@@ -60,6 +60,13 @@ Episode|Link
 1|[Link](https://ani.social/post/16417730)
 {.dense}
 
+## Futari Solo Camp • Solo Camping for Two
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/16574179)
+{.dense}
+
 ## Gachiakuta
 
 Episode|Link
