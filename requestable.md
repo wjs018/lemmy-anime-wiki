@@ -130,7 +130,7 @@ These shows have had episodes air already, but no thread was created because the
 | Onmyo Kaiten Re:verse | Onmyo Kaiten Re:Birth Verse | https://anilist.co/anime/187387 | Episode 2 |
 | Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II | Our Last Crusade or the Rise of a New World Season 2 | https://anilist.co/anime/139825 | Episode 12 |
 | Katachi | Pain Give Form | https://anilist.co/anime/194390 | Episode 1 |
-| PetitCure: Precure Fairies | PetitCure: Precure Fairies | https://anilist.co/anime/188394 | Episode 15 |
+| PetitCure: Precure Fairies | PetitCure: Precure Fairies | https://anilist.co/anime/188394 | Episode 16 |
 | Haite Kudasai, Takamine-san | Please Put Them On, Takamine-san | https://anilist.co/anime/179965 | Episode 12 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 102 |
 | Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | Episode 13 |
