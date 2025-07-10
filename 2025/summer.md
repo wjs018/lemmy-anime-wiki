@@ -124,6 +124,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/16231336)
+2|[Link](https://ani.social/post/16577984)
 {.dense}
 
 ## New PANTY and STOCKING with GARTERBELT
