@@ -87,7 +87,7 @@ These shows have had episodes air already, but no thread was created because the
 | Hibi wa Sugiredo Meshi Umashi | Food for the Soul | https://anilist.co/anime/185939 | Episode 12 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 165 |
 | Masuda Kousuke Gekijou Gag Manga Biyori GO | Gag Manga Biyori GO | https://anilist.co/anime/185259 | Episode 12 |
-| Gakkou de wa Oshiete Kurenai Taisetsu na Koto | Gakkou de wa Oshiete Kurenai Taisetsu na Koto | https://anilist.co/anime/193238 | Episode 1 |
+| Gakkou de wa Oshiete Kurenai Taisetsu na Koto | Gakkou de wa Oshiete Kurenai Taisetsu na Koto | https://anilist.co/anime/193238 | Episode 2 |
 | Sentai Daishikkaku 2nd Season | Go! Go! Loser Ranger! Season 2 | https://anilist.co/anime/178781 | Episode 12 |
 | Go! Go! Vehicle Zoo: Norimono Star-hen | Go! Go! Vehicle Zoo: Norimono Star-hen | https://anilist.co/anime/188661 | Episode 14 |
 | HANA-Doll*: Reinterpretation of Flowering | HANA-Doll*: Reinterpretation of Flowering | https://anilist.co/anime/166371 | Episode 12 |
@@ -103,7 +103,7 @@ These shows have had episodes air already, but no thread was created because the
 | Jibaku Shounen Hanako-kun 2 Part 2 | Jibaku Shounen Hanako-kun 2 Part 2 | https://anilist.co/anime/189326 | Episode 1 |
 | Kamitsubaki-shi Kensetsuchuu. | KAMITSUBAKI CITY UNDER CONSTRUCTION | https://anilist.co/anime/173335 | Episode 2 |
 | KING OF PRISM -Your Endless Call- Minna Kirameke! Prism☆Tours | KING OF PRISM -Your Endless Call- Minna Kirameke! Prism☆Tours | https://anilist.co/anime/184756 | Episode 1 |
-| Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 14 |
+| Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 15 |
 | Kizu darake Seijo yori Houfuku wo Komete | Kizu darake Seijo yori Houfuku wo Komete | https://anilist.co/anime/195209 | Episode 1 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 14 |
 | Kowloon Generic Romance | Kowloon Generic Romance | https://anilist.co/anime/182814 | Episode 13 |
