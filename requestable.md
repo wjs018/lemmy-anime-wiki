@@ -123,7 +123,7 @@ These shows have had episodes air already, but no thread was created because the
 | Necronomico no Cosmic Horror Show | Necronomico and the Cosmic Horror Show | https://anilist.co/anime/185505 | Episode 2 |
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 39 |
 | Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 32 |
-| Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 174 |
+| Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 175 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 15 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 38 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1135 |
