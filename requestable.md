@@ -43,7 +43,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Turkey! | Turkey! Time to Strike | https://anilist.co/anime/159483 | [Link](https://ani.social/post/16475937) |
 | Tsuihousha Shokudou e Youkoso! | Welcome to the Outcast's Restaurant! | https://anilist.co/anime/185544 | [Link](https://ani.social/post/16574913) |
 | Witch Watch | Witch Watch | https://anilist.co/anime/180367 | [Link](https://ani.social/post/16360058) |
-| Ame to Kimi to | With You and the Rain | https://anilist.co/anime/180425 | [Link](https://ani.social/post/16329495) |
+| Ame to Kimi to | With You and the Rain | https://anilist.co/anime/180425 | [Link](https://ani.social/post/16676424) |
 {.dense}
 
 ## Requestable Shows
@@ -133,7 +133,7 @@ These shows have had episodes air already, but no thread was created because the
 | Haite Kudasai, Takamine-san | Please Put Them On, Takamine-san | https://anilist.co/anime/179965 | Episode 12 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 102 |
 | Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | Episode 13 |
-| Koujo Denka no Katei Kyoushi | Private Tutor to the Duke's Daughter | https://anilist.co/anime/170113 | Episode 2 |
+| Koujo Denka no Katei Kyoushi | Private Tutor to the Duke's Daughter | https://anilist.co/anime/170113 | Episode 3 |
 | Puniru wa Kawaii Slime 2nd Season | Puniru is a Kawaii Slime Season 2 | https://anilist.co/anime/185755 | Episode 1 |
 | Punirunes Puni 3 | Punirunes Puni 3 | https://anilist.co/anime/188653 | Episode 2 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 96 |
