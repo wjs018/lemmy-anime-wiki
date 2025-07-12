@@ -15,6 +15,7 @@ Below, you can find an index of all the discussion threads for shows from the Su
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/16329495)
+2|[Link](https://ani.social/post/16676424)
 {.dense}
 
 ## Arknights: Enshin Shomei • Arknights: RISE FROM EMBER
