@@ -29,6 +29,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/16325435)
+2|[Link](https://ani.social/post/16673431)
 {.dense}
 
 ## CITY THE ANIMATION
@@ -169,6 +170,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/16325434)
+2|[Link](https://ani.social/post/16673430)
 {.dense}
 
 ## Takopii no Genzai • Takopi's Original Sin
