@@ -144,6 +144,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/16368903)
+2|[Link](https://ani.social/post/16718928)
 {.dense}
 
 ## Ruri no Houseki • Ruri Rocks
