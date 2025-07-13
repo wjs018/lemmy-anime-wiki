@@ -526,7 +526,7 @@ Episode|Link
 12|[Link](https://ani.social/post/4335837)
 {.dense}
 
-## Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu • I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability
+## Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu • I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability
 
 Episode|Link
 :-:|:-:
