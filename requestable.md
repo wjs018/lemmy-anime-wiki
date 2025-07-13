@@ -92,7 +92,7 @@ These shows have had episodes air already, but no thread was created because the
 | HANA-Doll*: Reinterpretation of Flowering | HANA-Doll*: Reinterpretation of Flowering | https://anilist.co/anime/166371 | Episode 12 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 612 |
 | Jigoku Sensei Nube (2025) | Hell Teacher: Jigoku Sensei Nube (2025) | https://anilist.co/anime/179678 | Episode 3 |
-| Himitsu no AiPri: Ring-hen | Himitsu no AiPri: Ring-hen | https://anilist.co/anime/184470 | Episode 14 |
+| Himitsu no AiPri: Ring-hen | Himitsu no AiPri: Ring-hen | https://anilist.co/anime/184470 | Episode 15 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 321 |
 | Hotel Inhumans | Hotel Inhumans | https://anilist.co/anime/184034 | Episode 1 |
 | A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu. | I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! | https://anilist.co/anime/180812 | Episode 24 |
@@ -165,7 +165,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kizetsu Yuusha to Ansatsu Hime | The Shy Hero and the Assassin Princesses | https://anilist.co/anime/186561 | Episode 2 |
 | Kanpeki Sugite Kawai-ge ga Nai to Konyaku Haki Sareta Seijo wa Ringoku ni Urareru | The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom | https://anilist.co/anime/183275 | Episode 12 |
 | Watashi ga Koibito ni Nareru Wake Naijan, Murimuri! (※Muri ja Nakatta!?) | There's No Freaking Way I'll Be Your Lover! Unless... | https://anilist.co/anime/184591 | Episode 1 |
-| Tu Bian Yingxiong X | To Be Hero X | https://anilist.co/anime/156092 | Episode 14 |
+| Tu Bian Yingxiong X | To Be Hero X | https://anilist.co/anime/156092 | Episode 15 |
 | Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | Episode 1 |
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 7 |
 | Terra Live | U Takes Terra | https://anilist.co/anime/185778 | Episode 8 |
