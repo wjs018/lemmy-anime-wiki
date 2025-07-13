@@ -132,7 +132,7 @@ These shows have had episodes air already, but no thread was created because the
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 102 |
 | Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | Episode 14 |
 | Koujo Denka no Katei Kyoushi | Private Tutor to the Duke's Daughter | https://anilist.co/anime/170113 | Episode 3 |
-| Puniru wa Kawaii Slime 2nd Season | Puniru is a Kawaii Slime Season 2 | https://anilist.co/anime/185755 | Episode 1 |
+| Puniru wa Kawaii Slime 2nd Season | Puniru is a Kawaii Slime Season 2 | https://anilist.co/anime/185755 | Episode 2 |
 | Punirunes Puni 3 | Punirunes Puni 3 | https://anilist.co/anime/188653 | Episode 2 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 96 |
 | Kanojo, Okarishimasu 4th Season | Rent-a-Girlfriend Season 4 | https://anilist.co/anime/179344 | Episode 2 |
