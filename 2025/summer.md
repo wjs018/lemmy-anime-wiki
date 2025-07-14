@@ -85,7 +85,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/16422825)
-2|[Link](https://ani.social/post/16771561)
+2|[Link](https://ani.social/post/16770791)
 {.dense}
 
 ## Hikaru ga Shinda Natsu • The Summer Hikaru Died
