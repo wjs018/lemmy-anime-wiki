@@ -158,6 +158,13 @@ Episode|Link
 2|[Link](https://ani.social/post/16715595)
 {.dense}
 
+## SAKAMOTO DAYS Part 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/16766712)
+{.dense}
+
 ## Seishun Buta Yarou wa Santa Claus no Yume wo Minai • Rascal Does Not Dream of Santa Claus
 
 Episode|Link
