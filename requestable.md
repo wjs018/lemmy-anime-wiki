@@ -41,7 +41,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kaoru Hana wa Rin to Saku | The Fragrant Flower Blooms With Dignity | https://anilist.co/anime/181444 | [Link](https://ani.social/post/16715747) |
 | Hikaru ga Shinda Natsu | The Summer Hikaru Died | https://anilist.co/anime/177689 | [Link](https://ani.social/post/16675527) |
 | Mizu Zokusei no Mahou Tsukai | The Water Magician | https://anilist.co/anime/186052 | [Link](https://ani.social/post/16577984) |
-| Turkey! | Turkey! Time to Strike | https://anilist.co/anime/159483 | [Link](https://ani.social/post/16475937) |
+| Turkey! | Turkey! Time to Strike | https://anilist.co/anime/159483 | [Link](https://ani.social/post/16822221) |
 | Tsuihousha Shokudou e Youkoso! | Welcome to the Outcast's Restaurant! | https://anilist.co/anime/185544 | [Link](https://ani.social/post/16574913) |
 | Witch Watch | Witch Watch | https://anilist.co/anime/180367 | [Link](https://ani.social/post/16708289) |
 | Ame to Kimi to | With You and the Rain | https://anilist.co/anime/180425 | [Link](https://ani.social/post/16676424) |
