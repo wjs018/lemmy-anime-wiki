@@ -27,7 +27,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu 2nd Season | I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2 | https://anilist.co/anime/178090 | [Link](https://ani.social/post/16868002) |
 | Kaijuu 8-gou 2nd Season | Kaiju No. 8 Season 2 | https://anilist.co/anime/178754 |  |
 | Sono Bisque Doll wa Koi wo Suru Season 2 | My Dress-Up Darling Season 2 | https://anilist.co/anime/154768 | [Link](https://ani.social/post/16673430) |
-| New PANTY and STOCKING with GARTERBELT | New PANTY and STOCKING with GARTERBELT | https://anilist.co/anime/151799 | [Link](https://ani.social/post/16525083) |
+| New PANTY and STOCKING with GARTERBELT | New PANTY and STOCKING with GARTERBELT | https://anilist.co/anime/151799 | [Link](https://ani.social/post/16870452) |
 | Tsuyokute New Saga | New Saga | https://anilist.co/anime/155838 | [Link](https://ani.social/post/16531062) |
 | Nyaight of the Living Cat | Nyaight of the Living Cat | https://anilist.co/anime/175124 | [Link](https://ani.social/post/16718928) |
 | Seishun Buta Yarou wa Santa Claus no Yume wo Minai | Rascal Does Not Dream of Santa Claus | https://anilist.co/anime/171046 | [Link](https://ani.social/post/16672217) |
@@ -127,7 +127,7 @@ These shows have had episodes air already, but no thread was created because the
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 39 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1136 |
 | Oideyo Mahou Shoujo-mura (Fuhou Senkyo) | Oideyo Mahou Shoujo-mura (Fuhou Senkyo) | https://anilist.co/anime/187998 | Episode 13 |
-| Onmyo Kaiten Re:verse | Onmyo Kaiten Re:Birth Verse | https://anilist.co/anime/187387 | Episode 2 |
+| Onmyo Kaiten Re:verse | Onmyo Kaiten Re:Birth Verse | https://anilist.co/anime/187387 | Episode 3 |
 | Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II | Our Last Crusade or the Rise of a New World Season 2 | https://anilist.co/anime/139825 | Episode 12 |
 | PetitCure: Precure Fairies | PetitCure: Precure Fairies | https://anilist.co/anime/188394 | Episode 16 |
 | Haite Kudasai, Takamine-san | Please Put Them On, Takamine-san | https://anilist.co/anime/179965 | Episode 12 |
