@@ -206,6 +206,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/16522932)
+2|[Link](https://ani.social/post/16868002)
 {.dense}
 
 ## Tsuihousha Shokudou e Youkoso! • Welcome to the Outcast's Restaurant!
