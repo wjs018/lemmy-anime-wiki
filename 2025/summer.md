@@ -144,6 +144,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/16525083)
+2|[Link](https://ani.social/post/16870452)
 {.dense}
 
 ## Nyaight of the Living Cat
