@@ -108,7 +108,9 @@ These shows have had episodes air already, but no thread was created because the
 | LUPIN THE IIIRD: Zenigata to Futari no Lupin | LUPIN THE IIIRD: Zenigata and the Two Lupins | https://anilist.co/anime/191884 | Episode 1 |
 | Leviathan | Leviathan | https://anilist.co/anime/177887 | Episode 1 |
 | Ling Long 2 | Ling Long 2 | https://anilist.co/anime/135580 | Episode 8 |
+| Long Zu 2 | Long Zu 2 | https://anilist.co/anime/157692 | Episode 1 |
 | Guimi Zhi Zhu | Lord of Mysteries | https://anilist.co/anime/137667 | Episode 4 |
+| Luo Xiaohei Zhan Ji 2 | Luo Xiaohei Zhan Ji 2 | https://anilist.co/anime/166475 | Episode 1 |
 | Mashin Souzouden Wataru | MASHIN CREATOR WATARU | https://anilist.co/anime/173333 | Episode 24 |
 | MUZIK TIGER In the Forest | MUZIK TIGER In the Forest | https://anilist.co/anime/177633 | Episode 15 |
 | Maebashi Witches | Maebashi Witches | https://anilist.co/anime/180825 | Episode 12 |
@@ -168,6 +170,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tu Bian Yingxiong X | To Be Hero X | https://anilist.co/anime/156092 | Episode 15 |
 | Jibaku Shounen Hanako-kun 2 Part 2 | Toilet-Bound Hanako-kun Season 2 Part 2 | https://anilist.co/anime/189326 | Episode 2 |
 | Tongling Fei 2 | Tongling Fei 2 | https://anilist.co/anime/175645 | Episode 1 |
+| Tooi-san wa Seishun Shitai! "Baka to SmaPho to Romance to" | Tooi-san wa Seishun Shitai! "Baka to SmaPho to Romance to" | https://anilist.co/anime/193623 | Episode 1 |
 | Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | Episode 1 |
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 8 |
 | Terra Live | U Takes Terra | https://anilist.co/anime/185778 | Episode 8 |
@@ -197,10 +200,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Kimetsu no Yaiba: Mugenjou-hen Movie 1 - Akaza Sairai | Demon Slayer: Kimetsu no Yaiba Infinity Castle | https://anilist.co/anime/178788 | July 17 at 16:00 |
 | Karaoke Iko! | Let's Go Karaoke! | https://anilist.co/anime/183127 | July 24 at 13:30 |
-| Long Zu 2 | Long Zu 2 | https://anilist.co/anime/157692 | July 17 at 15:00 |
-| Luo Xiaohei Zhan Ji 2 | Luo Xiaohei Zhan Ji 2 | https://anilist.co/anime/166475 | July 17 at 15:00 |
 | My Melody and Kuromi | My Melody and Kuromi | https://anilist.co/anime/186043 | July 23 at 16:00 |
 | Nukitashi THE ANIMATION | Nukitashi THE ANIMATION | https://anilist.co/anime/174188 | July 18 at 17:06 |
 | Tamala 2030: A Punk Cat in Dark | Tamala 2030: A Punk Cat in Dark | https://anilist.co/anime/120756 | July 19 at 16:00 |
-| Tooi-san wa Seishun Shitai! "Baka to SmaPho to Romance to" | Tooi-san wa Seishun Shitai! "Baka to SmaPho to Romance to" | https://anilist.co/anime/193623 | July 17 at 15:00 |
 {.dense}
