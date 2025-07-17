@@ -56,6 +56,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/16178468)
 2|[Link](https://ani.social/post/16576257)
+3|[Link](https://ani.social/post/16918045)
 {.dense}
 
 ## Food Court de, Mata Ashita. • See You Tomorrow at the Food Court
@@ -71,6 +72,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/16574179)
+2|[Link](https://ani.social/post/16918046)
 {.dense}
 
 ## Gachiakuta
