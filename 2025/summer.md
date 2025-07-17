@@ -217,6 +217,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/16226224)
 2|[Link](https://ani.social/post/16574913)
+3|[Link](https://ani.social/post/16916750)
 {.dense}
 
 ## Tsuyokute New Saga • New Saga
