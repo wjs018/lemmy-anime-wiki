@@ -108,7 +108,7 @@ These shows have had episodes air already, but no thread was created because the
 | LUPIN THE IIIRD THE MOVIE: Fujimi no Ketsuzoku | LUPIN THE IIIRD THE MOVIE: The Immortal Bloodline | https://anilist.co/anime/185084 | Episode 1 |
 | LUPIN THE IIIRD: Zenigata to Futari no Lupin | LUPIN THE IIIRD: Zenigata and the Two Lupins | https://anilist.co/anime/191884 | Episode 1 |
 | Leviathan | Leviathan | https://anilist.co/anime/177887 | Episode 1 |
-| Ling Long 2 | Ling Long 2 | https://anilist.co/anime/135580 | Episode 8 |
+| Ling Long 2 | Ling Long 2 | https://anilist.co/anime/135580 | Episode 9 |
 | Long Zu 2 | Long Zu 2 | https://anilist.co/anime/157692 | Episode 1 |
 | Guimi Zhi Zhu | Lord of Mysteries | https://anilist.co/anime/137667 | Episode 4 |
 | Luo Xiaohei Zhan Ji 2 | Luo Xiaohei Zhan Ji 2 | https://anilist.co/anime/166475 | Episode 1 |
