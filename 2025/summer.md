@@ -194,6 +194,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/16276933)
 2|[Link](https://ani.social/post/16624050)
+3|[Link](https://ani.social/post/16964779)
 {.dense}
 
 ## Sono Bisque Doll wa Koi wo Suru Season 2 • My Dress-Up Darling Season 2
@@ -211,6 +212,7 @@ Episode|Link
 1|[Link](https://ani.social/post/15947516)
 2|[Link](https://ani.social/post/16276934)
 3|[Link](https://ani.social/post/16624049)
+4|[Link](https://ani.social/post/16964775)
 {.dense}
 
 ## Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu 2nd Season • I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2
