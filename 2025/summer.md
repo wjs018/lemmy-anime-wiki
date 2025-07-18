@@ -124,6 +124,13 @@ Episode|Link
 2|[Link](https://ani.social/post/16715747)
 {.dense}
 
+## Koujo Denka no Katei Kyoushi • Private Tutor to the Duke's Daughter
+
+Episode|Link
+:-:|:-:
+3|[Link](https://ani.social/post/16952115)
+{.dense}
+
 ## Mikadono Sanshimai wa Angai, Choroi. • Dealing with Mikadono Sisters Is a Breeze
 
 Episode|Link
