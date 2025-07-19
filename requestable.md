@@ -143,7 +143,7 @@ These shows have had episodes air already, but no thread was created because the
 | Rock wa Lady no Tashinami Deshite | Rock is a Lady’s Modesty | https://anilist.co/anime/179694 | Episode 13 |
 | SHIBUYA♡HACHI Part 3 | SHIBUYA♡HACHI Part 3 | https://anilist.co/anime/185715 | Episode 13 |
 | Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu | SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life | https://anilist.co/anime/179541 | Episode 12 |
-| Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 15 |
+| Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 16 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2788 |
 | Yuusha Party wo Tsuihou Sareta Shiro Madoushi, S Rank Boukensha ni Hirowareru: Kono Shiro Madoushi ga Kikakugaisugiru | Scooped Up by an S-Rank Adventurer! | https://anilist.co/anime/179885 | Episode 3 |
 | Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 39 |
@@ -167,6 +167,7 @@ These shows have had episodes air already, but no thread was created because the
 | Watashi ga Koibito ni Nareru Wake Naijan, Murimuri! (※Muri ja Nakatta!?) | There's No Freaking Way I'll Be Your Lover! Unless... | https://anilist.co/anime/184591 | Episode 2 |
 | Tu Bian Yingxiong X | To Be Hero X | https://anilist.co/anime/156092 | Episode 15 |
 | Jibaku Shounen Hanako-kun 2 Part 2 | Toilet-Bound Hanako-kun Season 2 Part 2 | https://anilist.co/anime/189326 | Episode 2 |
+| Tomica and Tom | Tomica and Tom | https://anilist.co/anime/196227 | Episode 1 |
 | Tongling Fei 2 | Tongling Fei 2 | https://anilist.co/anime/175645 | Episode 1 |
 | Tooi-san wa Seishun Shitai! "Baka to SmaPho to Romance to" | Tooi-san wa Seishun Shitai! "Baka to SmaPho to Romance to" | https://anilist.co/anime/193623 | Episode 1 |
 | Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | Episode 2 |
@@ -198,5 +199,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Karaoke Iko! | Let's Go Karaoke! | https://anilist.co/anime/183127 | July 24 at 13:30 |
 | My Melody and Kuromi | My Melody and Kuromi | https://anilist.co/anime/186043 | July 23 at 16:00 |
 | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | https://anilist.co/anime/196229 | July 20 at 12:30 |
-| Tomica and Tom | Tomica and Tom | https://anilist.co/anime/196227 | July 19 at 23:30 |
 {.dense}
