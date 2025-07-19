@@ -111,7 +111,7 @@ These shows have had episodes air already, but no thread was created because the
 | Leviathan | Leviathan | https://anilist.co/anime/177887 | Episode 1 |
 | Ling Long 2 | Ling Long 2 | https://anilist.co/anime/135580 | Episode 9 |
 | Long Zu 2 | Long Zu 2 | https://anilist.co/anime/157692 | Episode 1 |
-| Guimi Zhi Zhu | Lord of Mysteries | https://anilist.co/anime/137667 | Episode 4 |
+| Guimi Zhi Zhu | Lord of Mysteries | https://anilist.co/anime/137667 | Episode 5 |
 | Luo Xiaohei Zhan Ji 2 | Luo Xiaohei Zhan Ji 2 | https://anilist.co/anime/166475 | Episode 1 |
 | Mashin Souzouden Wataru | MASHIN CREATOR WATARU | https://anilist.co/anime/173333 | Episode 24 |
 | MUZIK TIGER In the Forest | MUZIK TIGER In the Forest | https://anilist.co/anime/177633 | Episode 15 |
@@ -128,7 +128,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 33 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 176 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 16 |
-| Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 39 |
+| Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 40 |
 | Nukitashi THE ANIMATION | Nukitashi THE ANIMATION | https://anilist.co/anime/174188 | Episode 1 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1136 |
 | Oideyo Mahou Shoujo-mura (Fuhou Senkyo) | Oideyo Mahou Shoujo-mura (Fuhou Senkyo) | https://anilist.co/anime/187998 | Episode 13 |
