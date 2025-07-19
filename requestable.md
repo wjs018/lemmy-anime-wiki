@@ -200,5 +200,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Karaoke Iko! | Let's Go Karaoke! | https://anilist.co/anime/183127 | July 24 at 13:30 |
 | My Melody and Kuromi | My Melody and Kuromi | https://anilist.co/anime/186043 | July 23 at 16:00 |
 | Tamala 2030: A Punk Cat in Dark | Tamala 2030: A Punk Cat in Dark | https://anilist.co/anime/120756 | July 19 at 16:00 |
+| Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | https://anilist.co/anime/196229 | July 20 at 12:30 |
 | Tomica and Tom | Tomica and Tom | https://anilist.co/anime/196227 | July 19 at 23:30 |
 {.dense}
