@@ -180,7 +180,7 @@ These shows have had episodes air already, but no thread was created because the
 | Watari-kun no xx ga Houkai Sunzen | Watari-kun's ****** Is about to Collapse | https://anilist.co/anime/169420 | Episode 3 |
 | Kizu darake Seijo yori Houfuku wo Komete | With Vengeance, Sincerely, Your Broken Saintess | https://anilist.co/anime/195209 | Episode 2 |
 | Xi Xing Ji: Da Yuan Hun | Xi Xing Ji: Da Yuan Hun | https://anilist.co/anime/137681 | Episode 7 |
-| Shin Samurai-den YAIBA | YAIBA: Samurai Legend | https://anilist.co/anime/177476 | Episode 14 |
+| Shin Samurai-den YAIBA | YAIBA: Samurai Legend | https://anilist.co/anime/177476 | Episode 15 |
 | Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikakete Kita | Yandere Dark Elf: She Chased Me All the Way From Another World! | https://anilist.co/anime/180829 | Episode 12 |
 | Kimi to Idol Precure♪ | You and Idol Precure ♪ | https://anilist.co/anime/185073 | Episode 23 |
 | YouTuNya 3 | YouTuNya 3 | https://anilist.co/anime/189602 | Episode 10 |
@@ -200,4 +200,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Karaoke Iko! | Let's Go Karaoke! | https://anilist.co/anime/183127 | July 24 at 13:30 |
 | My Melody and Kuromi | My Melody and Kuromi | https://anilist.co/anime/186043 | July 23 at 16:00 |
 | Tamala 2030: A Punk Cat in Dark | Tamala 2030: A Punk Cat in Dark | https://anilist.co/anime/120756 | July 19 at 16:00 |
+| Tomica and Tom | Tomica and Tom | https://anilist.co/anime/196227 | July 19 at 23:30 |
 {.dense}
