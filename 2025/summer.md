@@ -116,6 +116,13 @@ Episode|Link
 3|[Link](https://ani.social/post/16862584)
 {.dense}
 
+## Kaijuu 8-gou 2nd Season • Kaiju No. 8 Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/17007120)
+{.dense}
+
 ## Kaoru Hana wa Rin to Saku • The Fragrant Flower Blooms With Dignity
 
 Episode|Link
