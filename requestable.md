@@ -148,7 +148,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2788 |
 | Yuusha Party wo Tsuihou Sareta Shiro Madoushi, S Rank Boukensha ni Hirowareru: Kono Shiro Madoushi ga Kikakugaisugiru | Scooped Up by an S-Rank Adventurer! | https://anilist.co/anime/179885 | Episode 2 |
 | Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 39 |
-| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1292 |
+| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1293 |
 | Shinobanai! Crypto Ninja Sakuya San no Maki | Shinobanai! Crypto Ninja Sakuya San no Maki | https://anilist.co/anime/181867 | Episode 2 |
 | Shinsei Galverse | Shinsei Galverse | https://anilist.co/anime/192474 | Episode 1 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1707 |
