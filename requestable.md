@@ -58,7 +58,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kakkou no Iinazuke Season 2 | A Couple of Cuckoos Season 2 | https://anilist.co/anime/179828 | Episode 2 |
 | Ninja to Koroshiya no Futarigurashi | A Ninja and an Assassin Under One Roof | https://anilist.co/anime/177120 | Episode 12 |
 | Aharen-san wa Hakarenai Season 2 | Aharen-san wa Hakarenai Season 2 | https://anilist.co/anime/179979 | Episode 12 |
-| Anne Shirley | Anne Shirley | https://anilist.co/anime/184639 | Episode 15 |
+| Anne Shirley | Anne Shirley | https://anilist.co/anime/184639 | Episode 16 |
 | Araiguma Calcal-dan | Araiguma Calcal-dan | https://anilist.co/anime/186522 | Episode 16 |
 | Arknights: Enshin Shomei | Arknights: RISE FROM EMBER | https://anilist.co/anime/177175 | Episode 3 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 89 |
