@@ -63,7 +63,6 @@ These shows have had episodes air already, but no thread was created because the
 | Arknights: Enshin Shomei | Arknights: RISE FROM EMBER | https://anilist.co/anime/177175 | Episode 3 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 89 |
 | BULLET/BULLET | BULLET/BULLET | https://anilist.co/anime/157960 | Episode 1 |
-| Binan Koukou Chikyuu Bouei-bu Haikara! | Binan Koukou Chikyuu Bouei-bu Haikara! | https://anilist.co/anime/188138 | Episode 2 |
 | Kuroshitsuji: Midori no Majo-hen | Black Butler: Emerald Witch Arc | https://anilist.co/anime/179054 | Episode 13 |
 | Busu ni Hanataba wo. | Busu ni Hanataba wo. | https://anilist.co/anime/156395 | Episode 3 |
 | Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen | CARDFIGHT!! VANGUARD Divinez DELUXE Finals | https://anilist.co/anime/191994 | Episode 3 |
@@ -77,12 +76,14 @@ These shows have had episodes air already, but no thread was created because the
 | Hitozuma no Kuchibiru wa Kan Chu-Hi no Aji ga Shite | Chuhai Lips: Canned Flavor of Married Women | https://anilist.co/anime/186789 | Episode 3 |
 | Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara. | Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara. | https://anilist.co/anime/182419 | Episode 12 |
 | GaCen Shoujo to Ibunka Kouryuu | Cultural Exchange with a Game Centre Girl | https://anilist.co/anime/180794 | Episode 2 |
+| Binan Koukou Chikyuu Bouei-bu Haikara! | Cute High Earth Defense Club Hi-CARA! | https://anilist.co/anime/188138 | Episode 2 |
 | Dekin no Mogura | Dekin no Mogura: The Earthbound Mole | https://anilist.co/anime/184574 | Episode 2 |
 | Kimetsu no Yaiba: Mugenjou-hen Movie 1 - Akaza Sairai | Demon Slayer: Kimetsu no Yaiba Infinity Castle | https://anilist.co/anime/178788 | Episode 1 |
 | Mattaku Saikin no Tantei to Kitara | Detectives These Days Are Crazy! | https://anilist.co/anime/180460 | Episode 3 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 872 |
 | Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | Episode 51 |
 | Dr. STONE: SCIENCE FUTURE Part 2 | Dr. STONE SCIENCE FUTURE Cour 2 | https://anilist.co/anime/189117 | Episode 2 |
+| Long Zu 2 | Dragon Raja II -The Mourner's Eyes- | https://anilist.co/anime/157692 | Episode 1 |
 | Everyday Host | Everyday Host | https://anilist.co/anime/185584 | Episode 16 |
 | Fermat no Ryouri | Fermat no Ryouri | https://anilist.co/anime/186003 | Episode 3 |
 | Enen no Shouboutai: San no Shou | Fire Force Season 3 | https://anilist.co/anime/149118 | Episode 12 |
@@ -109,7 +110,6 @@ These shows have had episodes air already, but no thread was created because the
 | LUPIN THE IIIRD THE MOVIE: Fujimi no Ketsuzoku | LUPIN THE IIIRD THE MOVIE: The Immortal Bloodline | https://anilist.co/anime/185084 | Episode 1 |
 | Leviathan | Leviathan | https://anilist.co/anime/177887 | Episode 1 |
 | Ling Long 2 | Ling Long 2 | https://anilist.co/anime/135580 | Episode 9 |
-| Long Zu 2 | Long Zu 2 | https://anilist.co/anime/157692 | Episode 1 |
 | Guimi Zhi Zhu | Lord of Mysteries | https://anilist.co/anime/137667 | Episode 5 |
 | Luo Xiaohei Zhan Ji 2 | Luo Xiaohei Zhan Ji 2 | https://anilist.co/anime/166475 | Episode 1 |
 | Mashin Souzouden Wataru | MASHIN CREATOR WATARU | https://anilist.co/anime/173333 | Episode 24 |
