@@ -183,6 +183,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/16365589)
 2|[Link](https://ani.social/post/16715595)
+3|[Link](https://ani.social/post/17052667)
 {.dense}
 
 ## SAKAMOTO DAYS Part 2
