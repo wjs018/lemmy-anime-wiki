@@ -108,6 +108,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/16367817)
 2|[Link](https://ani.social/post/16717899)
+3|[Link](https://ani.social/post/17055032)
 {.dense}
 
 ## Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season • Reborn as a Vending Machine, I Now Wander the Dungeon Season 2
