@@ -35,6 +35,13 @@ Episode|Link
 3|[Link](https://ani.social/post/17011849)
 {.dense}
 
+## Busamen Gachi Fighter • Uglymug, Epicfighter
+
+Episode|Link
+:-:|:-:
+3|[Link](https://ani.social/post/17060555)
+{.dense}
+
 ## CITY THE ANIMATION
 
 Episode|Link
