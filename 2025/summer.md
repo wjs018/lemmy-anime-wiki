@@ -201,6 +201,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/16766712)
+3|[Link](https://ani.social/post/17105876)
 {.dense}
 
 ## Seishun Buta Yarou wa Santa Claus no Yume wo Minai • Rascal Does Not Dream of Santa Claus
