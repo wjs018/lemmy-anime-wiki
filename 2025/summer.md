@@ -195,6 +195,13 @@ Episode|Link
 3|[Link](https://ani.social/post/17056457)
 {.dense}
 
+## Osomatsu-san 4 • Mr. Osomatsu 4th Season
+
+Episode|Link
+:-:|:-:
+3|[Link](https://ani.social/post/17161637)
+{.dense}
+
 ## Ruri no Houseki • Ruri Rocks
 
 Episode|Link
