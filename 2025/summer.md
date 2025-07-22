@@ -273,6 +273,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/16475937)
 2|[Link](https://ani.social/post/16822221)
+3|[Link](https://ani.social/post/17158219)
 {.dense}
 
 ## Watashi ga Koibito ni Nareru Wake Naijan, Murimuri! (※Muri ja Nakatta!?) • There's No Freaking Way I'll Be Your Lover! Unless...
