@@ -275,6 +275,13 @@ Episode|Link
 2|[Link](https://ani.social/post/16822221)
 {.dense}
 
+## Watashi ga Koibito ni Nareru Wake Naijan, Murimuri! (※Muri ja Nakatta!?) • There's No Freaking Way I'll Be Your Lover! Unless...
+
+Episode|Link
+:-:|:-:
+3|[Link](https://ani.social/post/17150213)
+{.dense}
+
 ## Yofukashi no Uta Season 2 • Call of the Night Season 2
 
 Episode|Link
