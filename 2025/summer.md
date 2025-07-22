@@ -153,6 +153,13 @@ Episode|Link
 4|[Link](https://ani.social/post/17015489)
 {.dense}
 
+## Mattaku Saikin no Tantei to Kitara • Detectives These Days Are Crazy!
+
+Episode|Link
+:-:|:-:
+4|[Link](https://ani.social/post/17159383)
+{.dense}
+
 ## Mikadono Sanshimai wa Angai, Choroi. • Dealing with Mikadono Sisters Is a Breeze
 
 Episode|Link
