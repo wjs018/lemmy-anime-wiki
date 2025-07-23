@@ -357,6 +357,13 @@ Episode|Link
 7|[Link](https://ani.social/post/13709614)
 {.dense}
 
+## Princess-Session Orchestra
+
+Episode|Link
+:-:|:-:
+15|[Link](https://ani.social/post/17212056)
+{.dense}
+
 ## Rock wa Lady no Tashinami Deshite • Rock is a Lady’s Modesty
 
 Episode|Link

@@ -129,6 +129,13 @@ Episode|Link
 3|[Link](https://ani.social/post/17055032)
 {.dense}
 
+## Jibaku Shounen Hanako-kun 2 Part 2 • Toilet-Bound Hanako-kun Season 2 Part 2
+
+Episode|Link
+:-:|:-:
+3|[Link](https://ani.social/post/17212057)
+{.dense}
+
 ## Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season • Reborn as a Vending Machine, I Now Wander the Dungeon Season 2
 
 Episode|Link
