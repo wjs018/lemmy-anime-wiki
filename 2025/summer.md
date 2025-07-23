@@ -75,6 +75,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/16417730)
 2|[Link](https://ani.social/post/16765591)
+3|[Link](https://ani.social/post/17189026)
 {.dense}
 
 ## Futari Solo Camp • Solo Camping for Two
