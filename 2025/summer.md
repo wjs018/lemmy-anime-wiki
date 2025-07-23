@@ -70,6 +70,13 @@ Episode|Link
 3|[Link](https://ani.social/post/16918045)
 {.dense}
 
+## Dr. STONE: SCIENCE FUTURE Part 2 • Dr. STONE SCIENCE FUTURE Cour 2
+
+Episode|Link
+:-:|:-:
+2|[Link](https://ani.social/post/17212751)
+{.dense}
+
 ## Food Court de, Mata Ashita. • See You Tomorrow at the Food Court
 
 Episode|Link
