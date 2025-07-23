@@ -113,6 +113,13 @@ Episode|Link
 3|[Link](https://ani.social/post/17014201)
 {.dense}
 
+## Hitozuma no Kuchibiru wa Kan Chu-Hi no Aji ga Shite • Chuhai Lips: Canned Flavor of Married Women
+
+Episode|Link
+:-:|:-:
+4|[Link](https://ani.social/post/17211811)
+{.dense}
+
 ## Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku • Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin
 
 Episode|Link
@@ -179,6 +186,13 @@ Episode|Link
 1|[Link](https://ani.social/post/16231336)
 2|[Link](https://ani.social/post/16577984)
 3|[Link](https://ani.social/post/16920422)
+{.dense}
+
+## Necronomico no Cosmic Horror Show • Necronomico and the Cosmic Horror Show
+
+Episode|Link
+:-:|:-:
+4|[Link](https://ani.social/post/17211812)
 {.dense}
 
 ## New PANTY and STOCKING with GARTERBELT
