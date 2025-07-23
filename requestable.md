@@ -22,6 +22,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Hitozuma no Kuchibiru wa Kan Chu-Hi no Aji ga Shite | Chuhai Lips: Canned Flavor of Married Women | https://anilist.co/anime/186789 | [Link](https://ani.social/post/17211811) |
 | Clevatess: Majuu no Ou to Akago to Kabane no Yuusha | Clevatess | https://anilist.co/anime/178869 | [Link](https://ani.social/post/17196900) |
 | Dandadan 2nd Season | DAN DA DAN Season 2 | https://anilist.co/anime/185660 | [Link](https://ani.social/post/16918045) |
+| Mikadono Sanshimai wa Angai, Choroi. | Dealing with Mikadono Sisters Is a Breeze | https://anilist.co/anime/178886 | [Link](https://ani.social/post/17214324) |
 | Mattaku Saikin no Tantei to Kitara | Detectives These Days Are Crazy! | https://anilist.co/anime/180460 | [Link](https://ani.social/post/17159383) |
 | Dr. STONE: SCIENCE FUTURE Part 2 | Dr. STONE SCIENCE FUTURE Cour 2 | https://anilist.co/anime/189117 | [Link](https://ani.social/post/17212751) |
 | Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | [Link](https://ani.social/post/16719905) |
@@ -79,7 +80,6 @@ These shows have had episodes air already, but no thread was created because the
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 260 |
 | GaCen Shoujo to Ibunka Kouryuu | Cultural Exchange with a Game Centre Girl | https://anilist.co/anime/180794 | Episode 3 |
 | Binan Koukou Chikyuu Bouei-bu Haikara! | Cute High Earth Defense Club Hi-CARA! | https://anilist.co/anime/188138 | Episode 3 |
-| Mikadono Sanshimai wa Angai, Choroi. | Dealing with Mikadono Sisters Is a Breeze | https://anilist.co/anime/178886 | Episode 4 |
 | Dekin no Mogura | Dekin no Mogura: The Earthbound Mole | https://anilist.co/anime/184574 | Episode 3 |
 | Kimetsu no Yaiba: Mugenjou-hen Movie 1 - Akaza Sairai | Demon Slayer: Kimetsu no Yaiba Infinity Castle | https://anilist.co/anime/178788 | Episode 1 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 872 |
