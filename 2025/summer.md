@@ -315,6 +315,13 @@ Episode|Link
 3|[Link](https://ani.social/post/17158219)
 {.dense}
 
+## Utagoe wa Mille-Feuille
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/17212679)
+{.dense}
+
 ## Watashi ga Koibito ni Nareru Wake Naijan, Murimuri! (※Muri ja Nakatta!?) • There's No Freaking Way I'll Be Your Lover! Unless...
 
 Episode|Link
