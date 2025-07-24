@@ -203,6 +203,7 @@ Episode|Link
 1|[Link](https://ani.social/post/16231336)
 2|[Link](https://ani.social/post/16577984)
 3|[Link](https://ani.social/post/16920422)
+4|[Link](https://ani.social/post/17255042)
 {.dense}
 
 ## Necronomico no Cosmic Horror Show • Necronomico and the Cosmic Horror Show
