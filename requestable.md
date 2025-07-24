@@ -113,6 +113,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kobayashi-san Chi no Maidragon Samishii Gariya no Ryuu | Miss Kobayashi's Dragon Maid: A lonely dragon wants to be loved | https://anilist.co/anime/181839 | Episode 1 |
 | Kidou Senshi Gundam GQuuuuuuX | Mobile Suit Gundam GQuuuuuuX | https://anilist.co/anime/185213 | Episode 12 |
 | Vigilante: Boku no Hero Academia ILLEGALS | My Hero Academia: Vigilantes | https://anilist.co/anime/185736 | Episode 13 |
+| My Melody and Kuromi | My Melody and Kuromi | https://anilist.co/anime/186043 | Episode 1 |
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 41 |
 | New PANTY and STOCKING with GARTERBELT | New PANTY and STOCKING with GARTERBELT | https://anilist.co/anime/151799 | Episode 3 |
 | Tsuyokute New Saga | New Saga | https://anilist.co/anime/155838 | Episode 4 |
@@ -181,5 +182,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Karaoke Iko! | Let's Go Karaoke! | https://anilist.co/anime/183127 | July 24 at 13:30 |
-| My Melody and Kuromi | My Melody and Kuromi | https://anilist.co/anime/186043 | July 24 at 08:00 |
 {.dense}
