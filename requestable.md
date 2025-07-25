@@ -88,7 +88,7 @@ These shows have had episodes air already, but no thread was created because the
 | Fermat no Ryouri | Fermat no Ryouri | https://anilist.co/anime/186003 | Episode 3 |
 | Hibi wa Sugiredo Meshi Umashi | Food for the Soul | https://anilist.co/anime/185939 | Episode 12 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 167 |
-| Gakkou de wa Oshiete Kurenai Taisetsu na Koto | Gakkou de wa Oshiete Kurenai Taisetsu na Koto | https://anilist.co/anime/193238 | Episode 3 |
+| Gakkou de wa Oshiete Kurenai Taisetsu na Koto | Gakkou de wa Oshiete Kurenai Taisetsu na Koto | https://anilist.co/anime/193238 | Episode 4 |
 | Sentai Daishikkaku 2nd Season | Go! Go! Loser Ranger! Season 2 | https://anilist.co/anime/178781 | Episode 12 |
 | Go! Go! Vehicle Zoo: Norimono Star-hen | Go! Go! Vehicle Zoo: Norimono Star-hen | https://anilist.co/anime/188661 | Episode 16 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 614 |
@@ -99,7 +99,7 @@ These shows have had episodes air already, but no thread was created because the
 | A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu. | I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! | https://anilist.co/anime/180812 | Episode 24 |
 | Kamitsubaki-shi Kensetsuchuu. | KAMITSUBAKI CITY UNDER CONSTRUCTION | https://anilist.co/anime/173335 | Episode 4 |
 | KING OF PRISM -Your Endless Call- Minna Kirameke! Prism☆Tours | KING OF PRISM -Your Endless Call- Minna Kirameke! Prism☆Tours | https://anilist.co/anime/184756 | Episode 1 |
-| Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 16 |
+| Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 17 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 16 |
 | Kowloon Generic Romance | Kowloon Generic Romance | https://anilist.co/anime/182814 | Episode 13 |
 | LUPIN THE IIIRD THE MOVIE: Fujimi no Ketsuzoku | LUPIN THE IIIRD THE MOVIE: The Immortal Bloodline | https://anilist.co/anime/185084 | Episode 1 |
