@@ -84,7 +84,7 @@ These shows have had episodes air already, but no thread was created because the
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 872 |
 | Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | Episode 51 |
 | Long Zu 2 | Dragon Raja II -The Mourner's Eyes- | https://anilist.co/anime/157692 | Episode 1 |
-| Everyday Host | Everyday Host | https://anilist.co/anime/185584 | Episode 16 |
+| Everyday Host | Everyday Host | https://anilist.co/anime/185584 | Episode 17 |
 | Fermat no Ryouri | Fermat no Ryouri | https://anilist.co/anime/186003 | Episode 3 |
 | Hibi wa Sugiredo Meshi Umashi | Food for the Soul | https://anilist.co/anime/185939 | Episode 12 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 167 |
