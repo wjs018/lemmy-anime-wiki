@@ -40,9 +40,9 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season | Reborn as a Vending Machine, I Now Wander the Dungeon Season 2 | https://anilist.co/anime/169440 | [Link](https://ani.social/post/17196899) |
 | Ruri no Houseki | Ruri Rocks | https://anilist.co/anime/180929 | [Link](https://ani.social/post/17052667) |
 | SAKAMOTO DAYS Part 2 | SAKAMOTO DAYS Part 2 | https://anilist.co/anime/184237 | [Link](https://ani.social/post/17105876) |
-| Silent Witch: Chinmoku no Majo no Kakushigoto | Secrets of the Silent Witch | https://anilist.co/anime/179966 | [Link](https://ani.social/post/16964779) |
+| Silent Witch: Chinmoku no Majo no Kakushigoto | Secrets of the Silent Witch | https://anilist.co/anime/179966 | [Link](https://ani.social/post/17301024) |
 | Food Court de, Mata Ashita. | See You Tomorrow at the Food Court | https://anilist.co/anime/185519 | [Link](https://ani.social/post/17189026) |
-| Takopii no Genzai | Takopi's Original Sin | https://anilist.co/anime/185407 | [Link](https://ani.social/post/16964775) |
+| Takopii no Genzai | Takopi's Original Sin | https://anilist.co/anime/185407 | [Link](https://ani.social/post/17301023) |
 | Kaoru Hana wa Rin to Saku | The Fragrant Flower Blooms With Dignity | https://anilist.co/anime/181444 | [Link](https://ani.social/post/17013137) |
 | Hikaru ga Shinda Natsu | The Summer Hikaru Died | https://anilist.co/anime/177689 | [Link](https://ani.social/post/17014201) |
 | Mizu Zokusei no Mahou Tsukai | The Water Magician | https://anilist.co/anime/186052 | [Link](https://ani.social/post/17255042) |
