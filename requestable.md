@@ -156,7 +156,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tomica and Tom | Tomica and Tom | https://anilist.co/anime/196227 | Episode 1 |
 | Tongling Fei 2 | Tongling Fei 2 | https://anilist.co/anime/175645 | Episode 1 |
 | Tooi-san wa Seishun Shitai! "Baka to SmaPho to Romance to" | Tooi-san wa Seishun Shitai! "Baka to SmaPho to Romance to" | https://anilist.co/anime/193623 | Episode 1 |
-| Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | Episode 2 |
+| Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | Episode 3 |
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 8 |
 | Terra Live | U Takes Terra | https://anilist.co/anime/185778 | Episode 8 |
 | Uchuujin MuuMuu | Uchuujin MuuMuu | https://anilist.co/anime/185070 | Episode 16 |
