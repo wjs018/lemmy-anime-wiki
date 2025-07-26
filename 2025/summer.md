@@ -17,6 +17,7 @@ Episode|Link
 1|[Link](https://ani.social/post/16329495)
 2|[Link](https://ani.social/post/16676424)
 3|[Link](https://ani.social/post/17015437)
+4|[Link](https://ani.social/post/17356629)
 {.dense}
 
 ## Arknights: Enshin Shomei • Arknights: RISE FROM EMBER
@@ -181,6 +182,7 @@ Episode|Link
 :-:|:-:
 3|[Link](https://ani.social/post/16952115)
 4|[Link](https://ani.social/post/17015489)
+5|[Link](https://ani.social/post/17356630)
 {.dense}
 
 ## Mattaku Saikin no Tantei to Kitara • Detectives These Days Are Crazy!
