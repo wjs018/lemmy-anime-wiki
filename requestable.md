@@ -81,7 +81,7 @@ These shows have had episodes air already, but no thread was created because the
 | Binan Koukou Chikyuu Bouei-bu Haikara! | Cute High Earth Defense Club Hi-CARA! | https://anilist.co/anime/188138 | Episode 3 |
 | Dekin no Mogura | Dekin no Mogura: The Earthbound Mole | https://anilist.co/anime/184574 | Episode 3 |
 | Kimetsu no Yaiba: Mugenjou-hen Movie 1 - Akaza Sairai | Demon Slayer: Kimetsu no Yaiba Infinity Castle | https://anilist.co/anime/178788 | Episode 1 |
-| Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 872 |
+| Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 873 |
 | Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | Episode 51 |
 | Long Zu 2 | Dragon Raja II -The Mourner's Eyes- | https://anilist.co/anime/157692 | Episode 1 |
 | Everyday Host | Everyday Host | https://anilist.co/anime/185584 | Episode 17 |
