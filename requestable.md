@@ -165,4 +165,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
+| Koiboshi Perico | Koiboshi Perico | https://anilist.co/anime/196568 | July 28 at 10:00 |
 {.dense}
