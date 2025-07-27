@@ -34,7 +34,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Sono Bisque Doll wa Koi wo Suru Season 2 | My Dress-Up Darling Season 2 | https://anilist.co/anime/154768 | [Link](https://ani.social/post/17352301) |
 | Necronomico no Cosmic Horror Show | Necronomico and the Cosmic Horror Show | https://anilist.co/anime/185505 | [Link](https://ani.social/post/17211812) |
 | Nyaight of the Living Cat | Nyaight of the Living Cat | https://anilist.co/anime/175124 | [Link](https://ani.social/post/17056457) |
-| Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | [Link](https://ani.social/post/17212056) |
+| Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | [Link](https://ani.social/post/17371807) |
 | Koujo Denka no Katei Kyoushi | Private Tutor to the Duke's Daughter | https://anilist.co/anime/170113 | [Link](https://ani.social/post/17356630) |
 | Seishun Buta Yarou wa Santa Claus no Yume wo Minai | Rascal Does Not Dream of Santa Claus | https://anilist.co/anime/171046 | [Link](https://ani.social/post/17351150) |
 | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season | Reborn as a Vending Machine, I Now Wander the Dungeon Season 2 | https://anilist.co/anime/169440 | [Link](https://ani.social/post/17196899) |
