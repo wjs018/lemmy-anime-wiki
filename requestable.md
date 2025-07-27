@@ -92,7 +92,7 @@ These shows have had episodes air already, but no thread was created because the
 | Go! Go! Vehicle Zoo: Norimono Star-hen | Go! Go! Vehicle Zoo: Norimono Star-hen | https://anilist.co/anime/188661 | Episode 16 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 614 |
 | Jigoku Sensei Nube (2025) | Hell Teacher: Jigoku Sensei Nube (2025) | https://anilist.co/anime/179678 | Episode 5 |
-| Himitsu no AiPri: Ring-hen | Himitsu no AiPri: Ring-hen | https://anilist.co/anime/184470 | Episode 16 |
+| Himitsu no AiPri: Ring-hen | Himitsu no AiPri: Ring-hen | https://anilist.co/anime/184470 | Episode 17 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 323 |
 | Hotel Inhumans | Hotel Inhumans | https://anilist.co/anime/184034 | Episode 3 |
 | A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu. | I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths! | https://anilist.co/anime/180812 | Episode 24 |
@@ -143,7 +143,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tate no Yuusha no Nariagari Season 4 | The Rising of the Shield Hero Season 4 | https://anilist.co/anime/173780 | Episode 3 |
 | Kizetsu Yuusha to Ansatsu Hime | The Shy Hero and the Assassin Princesses | https://anilist.co/anime/186561 | Episode 4 |
 | Yami Shibai 15 | Theatre of Darkness: Yamishibai 15 | https://anilist.co/anime/194088 | Episode 2 |
-| Tu Bian Yingxiong X | To Be Hero X | https://anilist.co/anime/156092 | Episode 16 |
+| Tu Bian Yingxiong X | To Be Hero X | https://anilist.co/anime/156092 | Episode 17 |
 | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | https://anilist.co/anime/196229 | Episode 3 |
 | Tomica and Tom | Tomica and Tom | https://anilist.co/anime/196227 | Episode 2 |
 | Tongling Fei 2 | Tongling Fei 2 | https://anilist.co/anime/175645 | Episode 1 |
