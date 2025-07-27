@@ -138,14 +138,14 @@ These shows have had episodes air already, but no thread was created because the
 | Sumikko Gurashi: Koko ga Ochitsukun Desu | Sumikko Gurashi: Koko ga Ochitsukun Desu | https://anilist.co/anime/188884 | Episode 17 |
 | Summer Pockets | Summer Pockets | https://anilist.co/anime/143200 | Episode 16 |
 | Kijin Gentoushou | Sword of the Demon Hunter: Kijin Gentosho | https://anilist.co/anime/143598 | Episode 15 |
-| Tamala 2030: A Punk Cat in Dark | Tamala 2030: A Punk Cat in Dark | https://anilist.co/anime/120756 | Episode 1 |
+| TAMALA 2030: A Punk Cat in Dark | TAMALA 2030 | https://anilist.co/anime/120756 | Episode 1 |
+| TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 2 |
 | Teogonia | Teogonia | https://anilist.co/anime/176702 | Episode 12 |
 | Tate no Yuusha no Nariagari Season 4 | The Rising of the Shield Hero Season 4 | https://anilist.co/anime/173780 | Episode 3 |
 | Kizetsu Yuusha to Ansatsu Hime | The Shy Hero and the Assassin Princesses | https://anilist.co/anime/186561 | Episode 4 |
 | Yami Shibai 15 | Theatre of Darkness: Yamishibai 15 | https://anilist.co/anime/194088 | Episode 2 |
 | Tu Bian Yingxiong X | To Be Hero X | https://anilist.co/anime/156092 | Episode 17 |
 | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | https://anilist.co/anime/196229 | Episode 3 |
-| Tomica and Tom | Tomica and Tom | https://anilist.co/anime/196227 | Episode 2 |
 | Tongling Fei 2 | Tongling Fei 2 | https://anilist.co/anime/175645 | Episode 1 |
 | Tooi-san wa Seishun Shitai! "Baka to SmaPho to Romance to" | Tooi-san wa Seishun Shitai! "Baka to SmaPho to Romance to" | https://anilist.co/anime/193623 | Episode 1 |
 | Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | Episode 3 |
