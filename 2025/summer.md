@@ -359,6 +359,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 3|[Link](https://ani.social/post/17150213)
+4|[Link](https://ani.social/post/17453018)
 {.dense}
 
 ## Yofukashi no Uta Season 2 • Call of the Night Season 2
