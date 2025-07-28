@@ -68,7 +68,6 @@ These shows have had episodes air already, but no thread was created because the
 | Arknights: Enshin Shomei | Arknights: RISE FROM EMBER | https://anilist.co/anime/177175 | Episode 4 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 90 |
 | BULLET/BULLET | BULLET/BULLET | https://anilist.co/anime/157960 | Episode 1 |
-| Kuroshitsuji: Midori no Majo-hen | Black Butler: Emerald Witch Arc | https://anilist.co/anime/179054 | Episode 13 |
 | Busu ni Hanataba wo. | Busu ni Hanataba wo. | https://anilist.co/anime/156395 | Episode 4 |
 | Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen | CARDFIGHT!! VANGUARD Divinez DELUXE Finals | https://anilist.co/anime/191994 | Episode 4 |
 | CLASSIC★STARS | CLASSIC★STARS | https://anilist.co/anime/178825 | Episode 13 |
@@ -135,7 +134,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1708 |
 | Sousou no Frieren: ●● no Mahou Part 2 | Sousou no Frieren: ●● no Mahou Part 2 | https://anilist.co/anime/189513 | Episode 4 |
 | Sumikko Gurashi: Koko ga Ochitsukun Desu | Sumikko Gurashi: Koko ga Ochitsukun Desu | https://anilist.co/anime/188884 | Episode 17 |
-| Summer Pockets | Summer Pockets | https://anilist.co/anime/143200 | Episode 16 |
+| Summer Pockets | Summer Pockets | https://anilist.co/anime/143200 | Episode 17 |
 | Kijin Gentoushou | Sword of the Demon Hunter: Kijin Gentosho | https://anilist.co/anime/143598 | Episode 15 |
 | TAMALA 2030: A Punk Cat in Dark | TAMALA 2030 | https://anilist.co/anime/120756 | Episode 1 |
 | TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 2 |
