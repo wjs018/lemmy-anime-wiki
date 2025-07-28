@@ -107,7 +107,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ginga Tokkyuu Milky☆Subway | Milky☆Subway: The Galactic Limited Express | https://anilist.co/anime/189069 | Episode 4 |
 | Vigilante: Boku no Hero Academia ILLEGALS | My Hero Academia: Vigilantes | https://anilist.co/anime/185736 | Episode 13 |
 | My Melody and Kuromi | My Melody and Kuromi | https://anilist.co/anime/186043 | Episode 1 |
-| Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 41 |
+| Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 42 |
 | New PANTY and STOCKING with GARTERBELT | New PANTY and STOCKING with GARTERBELT | https://anilist.co/anime/151799 | Episode 3 |
 | Tsuyokute New Saga | New Saga | https://anilist.co/anime/155838 | Episode 4 |
 | Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 34 |
