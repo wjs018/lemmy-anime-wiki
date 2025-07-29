@@ -197,6 +197,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 4|[Link](https://ani.social/post/17159383)
+5|[Link](https://ani.social/post/17500530)
 {.dense}
 
 ## Mikadono Sanshimai wa Angai, Choroi. • Dealing with Mikadono Sisters Is a Breeze
@@ -224,6 +225,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 4|[Link](https://ani.social/post/17211812)
+5|[Link](https://ani.social/post/17500528)
 {.dense}
 
 ## New PANTY and STOCKING with GARTERBELT
