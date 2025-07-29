@@ -159,4 +159,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Crayon Shin-chan: Chou Karei! Shakunetsu no Kasukabe Dancers | Crayon Shin-chan: Chou Karei! Shakunetsu no Kasukabe Dancers | https://anilist.co/anime/185537 | August 07 at 15:00 |
+| Suki-Suki Diesuki Chou Ayeshiteru | Suki-Suki Diesuki Chou Ayeshiteru | https://anilist.co/anime/196694 | July 30 at 13:00 |
 {.dense}
