@@ -348,6 +348,7 @@ Episode|Link
 1|[Link](https://ani.social/post/16475937)
 2|[Link](https://ani.social/post/16822221)
 3|[Link](https://ani.social/post/17158219)
+4|[Link](https://ani.social/post/17506817)
 {.dense}
 
 ## Utagoe wa Mille-Feuille
