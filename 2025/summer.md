@@ -135,6 +135,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 4|[Link](https://ani.social/post/17211811)
+5|[Link](https://ani.social/post/17505003)
 {.dense}
 
 ## Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku • Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin
