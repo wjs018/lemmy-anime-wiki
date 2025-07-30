@@ -211,6 +211,7 @@ Episode|Link
 2|[Link](https://ani.social/post/16524177)
 3|[Link](https://ani.social/post/16869428)
 4|[Link](https://ani.social/post/17214324)
+5|[Link](https://ani.social/post/17563021)
 {.dense}
 
 ## Mizu Zokusei no Mahou Tsukai • The Water Magician
