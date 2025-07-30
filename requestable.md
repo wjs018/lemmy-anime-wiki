@@ -102,7 +102,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ginga Tokkyuu Milky☆Subway | Milky☆Subway: The Galactic Limited Express | https://anilist.co/anime/189069 | Episode 4 |
 | My Melody and Kuromi | My Melody and Kuromi | https://anilist.co/anime/186043 | Episode 1 |
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 42 |
-| New PANTY and STOCKING with GARTERBELT | New PANTY and STOCKING with GARTERBELT | https://anilist.co/anime/151799 | Episode 3 |
+| New PANTY and STOCKING with GARTERBELT | New PANTY and STOCKING with GARTERBELT | https://anilist.co/anime/151799 | Episode 4 |
 | Tsuyokute New Saga | New Saga | https://anilist.co/anime/155838 | Episode 4 |
 | Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 35 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 177 |
@@ -111,7 +111,7 @@ These shows have had episodes air already, but no thread was created because the
 | Nukitashi THE ANIMATION | Nukitashi THE ANIMATION | https://anilist.co/anime/174188 | Episode 2 |
 | Nyaight of the Living Cat | Nyaight of the Living Cat | https://anilist.co/anime/175124 | Episode 4 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1137 |
-| Onmyo Kaiten Re:verse | Onmyo Kaiten Re:Birth Verse | https://anilist.co/anime/187387 | Episode 4 |
+| Onmyo Kaiten Re:verse | Onmyo Kaiten Re:Birth Verse | https://anilist.co/anime/187387 | Episode 5 |
 | PetitCure: Precure Fairies | PetitCure: Precure Fairies | https://anilist.co/anime/188394 | Episode 18 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 103 |
 | Puniru wa Kawaii Slime 2nd Season | Puniru is a Kawaii Slime Season 2 | https://anilist.co/anime/185755 | Episode 4 |
