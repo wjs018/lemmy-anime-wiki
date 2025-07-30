@@ -63,6 +63,7 @@ Episode|Link
 2|[Link](https://ani.social/post/16518150)
 3|[Link](https://ani.social/post/16862585)
 4|[Link](https://ani.social/post/17196900)
+5|[Link](https://ani.social/post/17556855)
 {.dense}
 
 ## Dandadan 2nd Season • DAN DA DAN Season 2
@@ -164,6 +165,7 @@ Episode|Link
 2|[Link](https://ani.social/post/16520454)
 3|[Link](https://ani.social/post/16862584)
 4|[Link](https://ani.social/post/17196899)
+5|[Link](https://ani.social/post/17556854)
 {.dense}
 
 ## Kaijuu 8-gou 2nd Season • Kaiju No. 8 Season 2
