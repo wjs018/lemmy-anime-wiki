@@ -125,7 +125,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1708 |
 | Sousou no Frieren: ●● no Mahou Part 2 | Sousou no Frieren: ●● no Mahou Part 2 | https://anilist.co/anime/189513 | Episode 4 |
 | Suki-Suki Diesuki Chou Ayeshiteru | Suki-Suki Diesuki Chou Ayeshiteru | https://anilist.co/anime/196694 | Episode 1 |
-| Sumikko Gurashi: Koko ga Ochitsukun Desu | Sumikko Gurashi: Koko ga Ochitsukun Desu | https://anilist.co/anime/188884 | Episode 17 |
+| Sumikko Gurashi: Koko ga Ochitsukun Desu | Sumikko Gurashi: Koko ga Ochitsukun Desu | https://anilist.co/anime/188884 | Episode 18 |
 | Summer Pockets | Summer Pockets | https://anilist.co/anime/143200 | Episode 17 |
 | Kijin Gentoushou | Sword of the Demon Hunter: Kijin Gentosho | https://anilist.co/anime/143598 | Episode 16 |
 | TAMALA 2030: A Punk Cat in Dark | TAMALA 2030 | https://anilist.co/anime/120756 | Episode 1 |
