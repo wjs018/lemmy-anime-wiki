@@ -110,7 +110,7 @@ These shows have had episodes air already, but no thread was created because the
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1137 |
 | Onmyo Kaiten Re:verse | Onmyo Kaiten Re:Birth Verse | https://anilist.co/anime/187387 | Episode 5 |
 | PetitCure: Precure Fairies | PetitCure: Precure Fairies | https://anilist.co/anime/188394 | Episode 19 |
-| Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 103 |
+| Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 104 |
 | Puniru wa Kawaii Slime 2nd Season | Puniru is a Kawaii Slime Season 2 | https://anilist.co/anime/185755 | Episode 4 |
 | Punirunes Puni 3 | Punirunes Puni 3 | https://anilist.co/anime/188653 | Episode 4 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 99 |
@@ -123,7 +123,6 @@ These shows have had episodes air already, but no thread was created because the
 | Shinobanai! Crypto Ninja Sakuya San no Maki | Shinobanai! Crypto Ninja Sakuya San no Maki | https://anilist.co/anime/181867 | Episode 4 |
 | Futari Solo Camp | Solo Camping for Two | https://anilist.co/anime/185965 | Episode 4 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1709 |
-| Sousou no Frieren: ●● no Mahou Part 2 | Sousou no Frieren: ●● no Mahou Part 2 | https://anilist.co/anime/189513 | Episode 4 |
 | Suki-Suki Diesuki Chou Ayeshiteru | Suki-Suki Diesuki Chou Ayeshiteru | https://anilist.co/anime/196694 | Episode 1 |
 | Sumikko Gurashi: Koko ga Ochitsukun Desu | Sumikko Gurashi: Koko ga Ochitsukun Desu | https://anilist.co/anime/188884 | Episode 18 |
 | Summer Pockets | Summer Pockets | https://anilist.co/anime/143200 | Episode 17 |
@@ -157,4 +156,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Crayon Shin-chan: Chou Karei! Shakunetsu no Kasukabe Dancers | Crayon Shin-chan: Chou Karei! Shakunetsu no Kasukabe Dancers | https://anilist.co/anime/185537 | August 07 at 15:00 |
+| Sousou no Frieren: ●● no Mahou Part 2 | Sousou no Frieren: ●● no Mahou Part 2 | https://anilist.co/anime/189513 | August 06 at 11:00 |
 {.dense}
