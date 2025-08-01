@@ -93,7 +93,7 @@ These shows have had episodes air already, but no thread was created because the
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 17 |
 | Karaoke Iko! | Let's Go Karaoke! | https://anilist.co/anime/183127 | Episode 2 |
 | Leviathan | Leviathan | https://anilist.co/anime/177887 | Episode 1 |
-| Ling Long 2 | Ling Long 2 | https://anilist.co/anime/135580 | Episode 10 |
+| Ling Long 2 | Ling Long 2 | https://anilist.co/anime/135580 | Episode 11 |
 | Luo Xiaohei Zhan Ji 2 | Luo Xiaohei Zhan Ji 2 | https://anilist.co/anime/166475 | Episode 1 |
 | MUZIK TIGER In the Forest | MUZIK TIGER In the Forest | https://anilist.co/anime/177633 | Episode 15 |
 | Ginga Tokkyuu Milky☆Subway | Milky☆Subway: The Galactic Limited Express | https://anilist.co/anime/189069 | Episode 5 |
