@@ -33,7 +33,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Necronomico no Cosmic Horror Show | Necronomico and the Cosmic Horror Show | https://anilist.co/anime/185505 | [Link](https://ani.social/post/17500528) |
 | Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | [Link](https://ani.social/post/17371807) |
 | Koujo Denka no Katei Kyoushi | Private Tutor to the Duke's Daughter | https://anilist.co/anime/170113 | [Link](https://ani.social/post/17356630) |
-| Seishun Buta Yarou wa Santa Claus no Yume wo Minai | Rascal Does Not Dream of Santa Claus | https://anilist.co/anime/171046 | [Link](https://ani.social/post/17351150) |
+| Seishun Buta Yarou wa Santa Claus no Yume wo Minai | Rascal Does Not Dream of Santa Claus | https://anilist.co/anime/171046 | [Link](https://ani.social/post/17736163) |
 | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season | Reborn as a Vending Machine, I Now Wander the Dungeon Season 2 | https://anilist.co/anime/169440 | [Link](https://ani.social/post/17556854) |
 | Ruri no Houseki | Ruri Rocks | https://anilist.co/anime/180929 | [Link](https://ani.social/post/17392847) |
 | SAKAMOTO DAYS Part 2 | SAKAMOTO DAYS Part 2 | https://anilist.co/anime/184237 | [Link](https://ani.social/post/17450434) |
