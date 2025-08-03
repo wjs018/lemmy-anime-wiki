@@ -88,7 +88,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kamitsubaki-shi Kensetsuchuu. | KAMITSUBAKI CITY UNDER CONSTRUCTION | https://anilist.co/anime/173335 | Episode 5 |
 | Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 18 |
 | Koiboshi Perico | Koiboshi Perico | https://anilist.co/anime/196568 | Episode 1 |
-| Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 17 |
+| Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 18 |
 | Karaoke Iko! | Let's Go Karaoke! | https://anilist.co/anime/183127 | Episode 2 |
 | Leviathan | Leviathan | https://anilist.co/anime/177887 | Episode 1 |
 | Ling Long 2 | Ling Long 2 | https://anilist.co/anime/135580 | Episode 12 |
@@ -127,7 +127,7 @@ These shows have had episodes air already, but no thread was created because the
 | Summer Pockets | Summer Pockets | https://anilist.co/anime/143200 | Episode 17 |
 | Kijin Gentoushou | Sword of the Demon Hunter: Kijin Gentosho | https://anilist.co/anime/143598 | Episode 16 |
 | TAMALA 2030: A Punk Cat in Dark | TAMALA 2030 | https://anilist.co/anime/120756 | Episode 1 |
-| TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 2 |
+| TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 3 |
 | Tate no Yuusha no Nariagari Season 4 | The Rising of the Shield Hero Season 4 | https://anilist.co/anime/173780 | Episode 4 |
 | Kizetsu Yuusha to Ansatsu Hime | The Shy Hero and the Assassin Princesses | https://anilist.co/anime/186561 | Episode 5 |
 | Mizu Zokusei no Mahou Tsukai | The Water Magician | https://anilist.co/anime/186052 | Episode 5 |
@@ -146,7 +146,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ame to Kimi to | With You and the Rain | https://anilist.co/anime/180425 | Episode 5 |
 | Xi Xing Ji: Da Yuan Hun | Xi Xing Ji: Da Yuan Hun | https://anilist.co/anime/137681 | Episode 9 |
 | Shin Samurai-den YAIBA | YAIBA: Samurai Legend | https://anilist.co/anime/177476 | Episode 17 |
-| Kimi to Idol Precure♪ | You and Idol Precure ♪ | https://anilist.co/anime/185073 | Episode 25 |
+| Kimi to Idol Precure♪ | You and Idol Precure ♪ | https://anilist.co/anime/185073 | Episode 26 |
 {.dense}
 
 ## Upcoming Shows
