@@ -81,7 +81,7 @@ These shows have had episodes air already, but no thread was created because the
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 615 |
 | Jigoku Sensei Nube (2025) | Hell Teacher: Jigoku Sensei Nube (2025) | https://anilist.co/anime/179678 | Episode 6 |
 | Himitsu no AiPri: Ring-hen | Himitsu no AiPri: Ring-hen | https://anilist.co/anime/184470 | Episode 18 |
-| Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 324 |
+| Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 325 |
 | Hotel Inhumans | Hotel Inhumans | https://anilist.co/anime/184034 | Episode 4 |
 | Kamitsubaki-shi Kensetsuchuu. | KAMITSUBAKI CITY UNDER CONSTRUCTION | https://anilist.co/anime/173335 | Episode 5 |
 | Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 18 |
