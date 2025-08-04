@@ -123,7 +123,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1709 |
 | Suki-Suki Diesuki Chou Ayeshiteru | Suki-Suki Diesuki Chou Ayeshiteru | https://anilist.co/anime/196694 | Episode 1 |
 | Sumikko Gurashi: Koko ga Ochitsukun Desu | Sumikko Gurashi: Koko ga Ochitsukun Desu | https://anilist.co/anime/188884 | Episode 18 |
-| Summer Pockets | Summer Pockets | https://anilist.co/anime/143200 | Episode 17 |
+| Summer Pockets | Summer Pockets | https://anilist.co/anime/143200 | Episode 18 |
 | Kijin Gentoushou | Sword of the Demon Hunter: Kijin Gentosho | https://anilist.co/anime/143598 | Episode 16 |
 | TAMALA 2030: A Punk Cat in Dark | TAMALA 2030 | https://anilist.co/anime/120756 | Episode 1 |
 | TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 3 |
