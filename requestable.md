@@ -37,7 +37,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Ruri no Houseki | Ruri Rocks | https://anilist.co/anime/180929 | [Link](https://ani.social/post/17778896) |
 | SAKAMOTO DAYS Part 2 | SAKAMOTO DAYS Part 2 | https://anilist.co/anime/184237 | [Link](https://ani.social/post/17450434) |
 | Silent Witch: Chinmoku no Majo no Kakushigoto | Secrets of the Silent Witch | https://anilist.co/anime/179966 | [Link](https://ani.social/post/17679020) |
-| Food Court de, Mata Ashita. | See You Tomorrow at the Food Court | https://anilist.co/anime/185519 | [Link](https://ani.social/post/17444992) |
 | Kaoru Hana wa Rin to Saku | The Fragrant Flower Blooms With Dignity | https://anilist.co/anime/181444 | [Link](https://ani.social/post/17738211) |
 | Hikaru ga Shinda Natsu | The Summer Hikaru Died | https://anilist.co/anime/177689 | [Link](https://ani.social/post/17739190) |
 | Watashi ga Koibito ni Nareru Wake Naijan, Murimuri! (※Muri ja Nakatta!?) | There's No Freaking Way I'll Be Your Lover! Unless... | https://anilist.co/anime/184591 | [Link](https://ani.social/post/17453018) |
@@ -155,5 +154,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Crayon Shin-chan: Chou Karei! Shakunetsu no Kasukabe Dancers | Crayon Shin-chan: Chou Karei! Shakunetsu no Kasukabe Dancers | https://anilist.co/anime/185537 | August 07 at 15:00 |
+| Food Court de, Mata Ashita. | See You Tomorrow at the Food Court | https://anilist.co/anime/185519 | August 04 at 14:30 |
 | Sousou no Frieren: ●● no Mahou Part 2 | Sousou no Frieren: ●● no Mahou Part 2 | https://anilist.co/anime/189513 | August 06 at 11:00 |
 {.dense}
