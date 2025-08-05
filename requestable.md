@@ -28,7 +28,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Grand Blue Season 2 | Grand Blue Dreaming Season 2 | https://anilist.co/anime/182309 | [Link](https://ani.social/post/17835511) |
 | Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu 2nd Season | I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2 | https://anilist.co/anime/178090 | [Link](https://ani.social/post/17561803) |
 | Kaijuu 8-gou 2nd Season | Kaiju No. 8 Season 2 | https://anilist.co/anime/178754 | [Link](https://ani.social/post/17732608) |
-| Osomatsu-san 4 | Mr. Osomatsu 4th Season | https://anilist.co/anime/177880 | [Link](https://ani.social/post/17502058) |
+| Osomatsu-san 4 | Mr. Osomatsu 4th Season | https://anilist.co/anime/177880 | [Link](https://ani.social/post/17886387) |
 | Sono Bisque Doll wa Koi wo Suru Season 2 | My Dress-Up Darling Season 2 | https://anilist.co/anime/154768 | [Link](https://ani.social/post/17737073) |
 | Koujo Denka no Katei Kyoushi | Private Tutor to the Duke's Daughter | https://anilist.co/anime/170113 | [Link](https://ani.social/post/17356630) |
 | Seishun Buta Yarou wa Santa Claus no Yume wo Minai | Rascal Does Not Dream of Santa Claus | https://anilist.co/anime/171046 | [Link](https://ani.social/post/17736163) |
