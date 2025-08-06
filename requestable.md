@@ -25,7 +25,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Mattaku Saikin no Tantei to Kitara | Detectives These Days Are Crazy! | https://anilist.co/anime/180460 | [Link](https://ani.social/post/17885258) |
 | Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | [Link](https://ani.social/post/17783962) |
 | Grand Blue Season 2 | Grand Blue Dreaming Season 2 | https://anilist.co/anime/182309 | [Link](https://ani.social/post/17835511) |
-| Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu 2nd Season | I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2 | https://anilist.co/anime/178090 | [Link](https://ani.social/post/17561803) |
+| Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu 2nd Season | I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2 | https://anilist.co/anime/178090 | [Link](https://ani.social/post/17937761) |
 | Kaijuu 8-gou 2nd Season | Kaiju No. 8 Season 2 | https://anilist.co/anime/178754 | [Link](https://ani.social/post/17732608) |
 | Osomatsu-san 4 | Mr. Osomatsu 4th Season | https://anilist.co/anime/177880 | [Link](https://ani.social/post/17886387) |
 | Sono Bisque Doll wa Koi wo Suru Season 2 | My Dress-Up Darling Season 2 | https://anilist.co/anime/154768 | [Link](https://ani.social/post/17737073) |
@@ -138,7 +138,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tooi-san wa Seishun Shitai! "Baka to SmaPho to Romance to" | Tooi-san wa Seishun Shitai! "Baka to SmaPho to Romance to" | https://anilist.co/anime/193623 | Episode 1 |
 | Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | Episode 4 |
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 9 |
-| Uchuujin MuuMuu | Uchuujin MuuMuu | https://anilist.co/anime/185070 | Episode 17 |
+| Uchuujin MuuMuu | Uchuujin MuuMuu | https://anilist.co/anime/185070 | Episode 18 |
 | Utagoe wa Mille-Feuille | Utagoe wa Mille-Feuille | https://anilist.co/anime/166215 | Episode 3 |
 | Watari-kun no xx ga Houkai Sunzen | Watari-kun's ****** Is about to Collapse | https://anilist.co/anime/169420 | Episode 5 |
 | Tsuihousha Shokudou e Youkoso! | Welcome to the Outcast's Restaurant! | https://anilist.co/anime/185544 | Episode 5 |
