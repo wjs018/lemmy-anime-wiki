@@ -21,7 +21,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Yofukashi no Uta Season 2 | Call of the Night Season 2 | https://anilist.co/anime/175914 | [Link](https://ani.social/post/17678204) |
 | Clevatess: Majuu no Ou to Akago to Kabane no Yuusha | Clevatess | https://anilist.co/anime/178869 | [Link](https://ani.social/post/17933261) |
 | Dandadan 2nd Season | DAN DA DAN Season 2 | https://anilist.co/anime/185660 | [Link](https://ani.social/post/17623700) |
-| Mikadono Sanshimai wa Angai, Choroi. | Dealing with Mikadono Sisters Is a Breeze | https://anilist.co/anime/178886 | [Link](https://ani.social/post/17563021) |
 | Mattaku Saikin no Tantei to Kitara | Detectives These Days Are Crazy! | https://anilist.co/anime/180460 | [Link](https://ani.social/post/17885258) |
 | Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | [Link](https://ani.social/post/17783962) |
 | Grand Blue Season 2 | Grand Blue Dreaming Season 2 | https://anilist.co/anime/182309 | [Link](https://ani.social/post/17835511) |
@@ -142,7 +141,7 @@ These shows have had episodes air already, but no thread was created because the
 | Utagoe wa Mille-Feuille | Utagoe wa Mille-Feuille | https://anilist.co/anime/166215 | Episode 3 |
 | Watari-kun no xx ga Houkai Sunzen | Watari-kun's ****** Is about to Collapse | https://anilist.co/anime/169420 | Episode 5 |
 | Tsuihousha Shokudou e Youkoso! | Welcome to the Outcast's Restaurant! | https://anilist.co/anime/185544 | Episode 5 |
-| Kizu darake Seijo yori Houfuku wo Komete | With Vengeance, Sincerely, Your Broken Saintess | https://anilist.co/anime/195209 | Episode 4 |
+| Kizu darake Seijo yori Houfuku wo Komete | With Vengeance, Sincerely, Your Broken Saintess | https://anilist.co/anime/195209 | Episode 5 |
 | Ame to Kimi to | With You and the Rain | https://anilist.co/anime/180425 | Episode 5 |
 | Xi Xing Ji: Da Yuan Hun | Xi Xing Ji: Da Yuan Hun | https://anilist.co/anime/137681 | Episode 10 |
 | Shin Samurai-den YAIBA | YAIBA: Samurai Legend | https://anilist.co/anime/177476 | Episode 17 |
@@ -157,5 +156,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | ChaO | ChaO | https://anilist.co/anime/186169 | August 14 at 15:00 |
 | Crayon Shin-chan: Chou Karei! Shakunetsu no Kasukabe Dancers | Crayon Shin-chan: Chou Karei! Shakunetsu no Kasukabe Dancers | https://anilist.co/anime/185537 | August 07 at 15:00 |
+| Mikadono Sanshimai wa Angai, Choroi. | Dealing with Mikadono Sisters Is a Breeze | https://anilist.co/anime/178886 | August 06 at 16:20 |
 | Summer Pockets Movie | Summer Pockets Movie | https://anilist.co/anime/195230 | August 14 at 15:00 |
 {.dense}
