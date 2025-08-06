@@ -97,7 +97,7 @@ These shows have had episodes air already, but no thread was created because the
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 43 |
 | New PANTY and STOCKING with GARTERBELT | New PANTY and STOCKING with GARTERBELT | https://anilist.co/anime/151799 | Episode 4 |
 | Tsuyokute New Saga | New Saga | https://anilist.co/anime/155838 | Episode 5 |
-| Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 35 |
+| Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 36 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 178 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 18 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 42 |
