@@ -62,6 +62,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chibi Godzilla no Gyakushuu 3 | Chibi Godzilla Raids Again Season 3 | https://anilist.co/anime/193883 | Episode 6 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 264 |
 | Hitozuma no Kuchibiru wa Kan Chu-Hi no Aji ga Shite | Chuhai Lips: Canned Flavor of Married Women | https://anilist.co/anime/186789 | Episode 6 |
+| Crayon Shin-chan: Chou Karei! Shakunetsu no Kasukabe Dancers | Crayon Shin-chan: Chou Karei! Shakunetsu no Kasukabe Dancers | https://anilist.co/anime/185537 | Episode 1 |
 | GaCen Shoujo to Ibunka Kouryuu | Cultural Exchange with a Game Centre Girl | https://anilist.co/anime/180794 | Episode 5 |
 | Binan Koukou Chikyuu Bouei-bu Haikara! | Cute High Earth Defense Club Hi-CARA! | https://anilist.co/anime/188138 | Episode 5 |
 | Mikadono Sanshimai wa Angai, Choroi. | Dealing with Mikadono Sisters Is a Breeze | https://anilist.co/anime/178886 | Episode 6 |
@@ -156,6 +157,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | ChaO | ChaO | https://anilist.co/anime/186169 | August 14 at 15:00 |
-| Crayon Shin-chan: Chou Karei! Shakunetsu no Kasukabe Dancers | Crayon Shin-chan: Chou Karei! Shakunetsu no Kasukabe Dancers | https://anilist.co/anime/185537 | August 07 at 15:00 |
 | Summer Pockets Movie | Summer Pockets Movie | https://anilist.co/anime/195230 | August 14 at 15:00 |
 {.dense}
