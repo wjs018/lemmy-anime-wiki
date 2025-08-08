@@ -314,6 +314,7 @@ Episode|Link
 3|[Link](https://ani.social/post/16964779)
 4|[Link](https://ani.social/post/17301024)
 5|[Link](https://ani.social/post/17679020)
+6|[Link](https://ani.social/post/18048900)
 {.dense}
 
 ## Sono Bisque Doll wa Koi wo Suru Season 2 • My Dress-Up Darling Season 2
