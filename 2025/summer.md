@@ -303,6 +303,7 @@ Episode|Link
 3|[Link](https://ani.social/post/17011088)
 4|[Link](https://ani.social/post/17351150)
 5|[Link](https://ani.social/post/17736163)
+6|[Link](https://ani.social/post/18103393)
 {.dense}
 
 ## Silent Witch: Chinmoku no Majo no Kakushigoto • Secrets of the Silent Witch
