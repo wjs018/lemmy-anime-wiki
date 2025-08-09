@@ -36,6 +36,7 @@ Episode|Link
 3|[Link](https://ani.social/post/17011849)
 4|[Link](https://ani.social/post/17352302)
 5|[Link](https://ani.social/post/17737074)
+6|[Link](https://ani.social/post/18104449)
 {.dense}
 
 ## Busamen Gachi Fighter • Uglymug, Epicfighter
@@ -327,6 +328,7 @@ Episode|Link
 3|[Link](https://ani.social/post/17011847)
 4|[Link](https://ani.social/post/17352301)
 5|[Link](https://ani.social/post/17737073)
+6|[Link](https://ani.social/post/18104448)
 {.dense}
 
 ## Takopii no Genzai • Takopi's Original Sin
