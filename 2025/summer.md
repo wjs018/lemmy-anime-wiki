@@ -210,6 +210,7 @@ Episode|Link
 3|[Link](https://ani.social/post/16952115)
 4|[Link](https://ani.social/post/17015489)
 5|[Link](https://ani.social/post/17356630)
+6|[Link](https://ani.social/post/18108717)
 {.dense}
 
 ## Mattaku Saikin no Tantei to Kitara • Detectives These Days Are Crazy!
