@@ -58,6 +58,7 @@ Episode|Link
 3|[Link](https://ani.social/post/17059192)
 4|[Link](https://ani.social/post/17399933)
 5|[Link](https://ani.social/post/17785111)
+6|[Link](https://ani.social/post/18159425)
 {.dense}
 
 ## Clevatess: Majuu no Ou to Akago to Kabane no Yuusha • Clevatess
