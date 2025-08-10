@@ -159,6 +159,7 @@ Episode|Link
 3|[Link](https://ani.social/post/17055032)
 4|[Link](https://ani.social/post/17395468)
 5|[Link](https://ani.social/post/17781382)
+6|[Link](https://ani.social/post/18154685)
 {.dense}
 
 ## Jibaku Shounen Hanako-kun 2 Part 2 • Toilet-Bound Hanako-kun Season 2 Part 2
