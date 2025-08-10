@@ -46,6 +46,7 @@ Episode|Link
 3|[Link](https://ani.social/post/17060555)
 4|[Link](https://ani.social/post/17398426)
 5|[Link](https://ani.social/post/17783961)
+6|[Link](https://ani.social/post/18157828)
 {.dense}
 
 ## CITY THE ANIMATION
@@ -117,6 +118,7 @@ Episode|Link
 2|[Link](https://ani.social/post/16719905)
 3|[Link](https://ani.social/post/17398427)
 4|[Link](https://ani.social/post/17783962)
+5|[Link](https://ani.social/post/18157830)
 {.dense}
 
 ## Grand Blue Season 2 • Grand Blue Dreaming Season 2
