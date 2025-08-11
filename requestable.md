@@ -108,7 +108,7 @@ These shows have had episodes air already, but no thread was created because the
 | Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | Episode 18 |
 | Puniru wa Kawaii Slime 2nd Season | Puniru is a Kawaii Slime Season 2 | https://anilist.co/anime/185755 | Episode 6 |
 | Punirunes Puni 3 | Punirunes Puni 3 | https://anilist.co/anime/188653 | Episode 6 |
-| Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 100 |
+| Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 101 |
 | Kanojo, Okarishimasu 4th Season | Rent-a-Girlfriend Season 4 | https://anilist.co/anime/179344 | Episode 6 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 19 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2792 |
