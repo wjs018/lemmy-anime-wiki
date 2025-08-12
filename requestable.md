@@ -114,7 +114,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2792 |
 | Yuusha Party wo Tsuihou Sareta Shiro Madoushi, S Rank Boukensha ni Hirowareru: Kono Shiro Madoushi ga Kikakugaisugiru | Scooped Up by an S-Rank Adventurer! | https://anilist.co/anime/179885 | Episode 6 |
 | Food Court de, Mata Ashita. | See You Tomorrow at the Food Court | https://anilist.co/anime/185519 | Episode 6 |
-| Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 42 |
+| Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 43 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1296 |
 | Shinobanai! Crypto Ninja Sakuya San no Maki | Shinobanai! Crypto Ninja Sakuya San no Maki | https://anilist.co/anime/181867 | Episode 6 |
 | Futari Solo Camp | Solo Camping for Two | https://anilist.co/anime/185965 | Episode 5 |
