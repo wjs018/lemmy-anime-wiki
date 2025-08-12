@@ -224,6 +224,7 @@ Episode|Link
 4|[Link](https://ani.social/post/17159383)
 5|[Link](https://ani.social/post/17500530)
 6|[Link](https://ani.social/post/17885258)
+7|[Link](https://ani.social/post/18263111)
 {.dense}
 
 ## Mikadono Sanshimai wa Angai, Choroi. • Dealing with Mikadono Sisters Is a Breeze
