@@ -78,6 +78,7 @@ These shows have had episodes air already, but no thread was created because the
 | Himitsu no AiPri: Ring-hen | Himitsu no AiPri: Ring-hen | https://anilist.co/anime/184470 | Episode 19 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 326 |
 | Hotel Inhumans | Hotel Inhumans | https://anilist.co/anime/184034 | Episode 6 |
+| Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu 2nd Season | I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2 | https://anilist.co/anime/178090 | Episode 6 |
 | Kamitsubaki-shi Kensetsuchuu. | KAMITSUBAKI CITY UNDER CONSTRUCTION | https://anilist.co/anime/173335 | Episode 6 |
 | Kaijuu 8-gou 2nd Season | Kaiju No. 8 Season 2 | https://anilist.co/anime/178754 | Episode 4 |
 | Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 19 |
@@ -156,7 +157,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | AS ONE | AS ONE | https://anilist.co/anime/187317 | August 21 at 15:00 |
 | Muchuu sa, Kimi ni. | Captivated, By You | https://anilist.co/anime/183128 | August 21 at 13:30 |
 | ChaO | ChaO | https://anilist.co/anime/186169 | August 14 at 15:00 |
-| Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu 2nd Season | I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2 | https://anilist.co/anime/178090 | August 13 at 16:00 |
 | MILGRAM Third Season | MILGRAM The Third Trial | https://anilist.co/anime/186495 | August 19 at 16:00 |
 | Odekake Kozame: Tokai no Otomodachi | Odekake Kozame: Tokai no Otomodachi | https://anilist.co/anime/177518 | August 21 at 15:00 |
 | Summer Pockets Movie | Summer Pockets Movie | https://anilist.co/anime/195230 | August 14 at 15:00 |
