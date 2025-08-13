@@ -94,7 +94,7 @@ These shows have had episodes air already, but no thread was created because the
 | Necronomico no Cosmic Horror Show | Necronomico and the Cosmic Horror Show | https://anilist.co/anime/185505 | Episode 7 |
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 44 |
 | New PANTY and STOCKING with GARTERBELT | New PANTY and STOCKING with GARTERBELT | https://anilist.co/anime/151799 | Episode 6 |
-| Tsuyokute New Saga | New Saga | https://anilist.co/anime/155838 | Episode 6 |
+| Tsuyokute New Saga | New Saga | https://anilist.co/anime/155838 | Episode 7 |
 | Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 37 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 179 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 19 |
