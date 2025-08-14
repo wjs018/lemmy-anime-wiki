@@ -123,6 +123,13 @@ Episode|Link
 5|[Link](https://ani.social/post/18157830)
 {.dense}
 
+## Ginga Tokkyuu Milky☆Subway • Milky☆Subway: The Galactic Limited Express
+
+Episode|Link
+:-:|:-:
+7|[Link](https://ani.social/post/18393211)
+{.dense}
+
 ## Grand Blue Season 2 • Grand Blue Dreaming Season 2
 
 Episode|Link
