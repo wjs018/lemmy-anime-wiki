@@ -17,7 +17,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku | Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin | https://anilist.co/anime/178433 | [Link](https://ani.social/post/18154685) |
 | Bad Girl | Bad Girl | https://anilist.co/anime/178675 | [Link](https://ani.social/post/18104449) |
 | CITY THE ANIMATION | CITY THE ANIMATION | https://anilist.co/anime/181841 | [Link](https://ani.social/post/18159425) |
-| Yofukashi no Uta Season 2 | Call of the Night Season 2 | https://anilist.co/anime/175914 | [Link](https://ani.social/post/18047604) |
+| Yofukashi no Uta Season 2 | Call of the Night Season 2 | https://anilist.co/anime/175914 | [Link](https://ani.social/post/18439797) |
 | Dandadan 2nd Season | DAN DA DAN Season 2 | https://anilist.co/anime/185660 | [Link](https://ani.social/post/18381028) |
 | Mattaku Saikin no Tantei to Kitara | Detectives These Days Are Crazy! | https://anilist.co/anime/180460 | [Link](https://ani.social/post/18263111) |
 | Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | [Link](https://ani.social/post/18157830) |
@@ -47,7 +47,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kakkou no Iinazuke Season 2 | A Couple of Cuckoos Season 2 | https://anilist.co/anime/179828 | Episode 6 |
 | Anne Shirley | Anne Shirley | https://anilist.co/anime/184639 | Episode 19 |
 | Araiguma Calcal-dan | Araiguma Calcal-dan | https://anilist.co/anime/186522 | Episode 20 |
-| Arknights: Enshin Shomei | Arknights: RISE FROM EMBER | https://anilist.co/anime/177175 | Episode 6 |
+| Arknights: Enshin Shomei | Arknights: RISE FROM EMBER | https://anilist.co/anime/177175 | Episode 7 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 93 |
 | BULLET/BULLET | BULLET/BULLET | https://anilist.co/anime/157960 | Episode 9 |
 | Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru | Betrothed to My Sister's Ex | https://anilist.co/anime/179879 | Episode 6 |
