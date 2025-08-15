@@ -431,6 +431,7 @@ Episode|Link
 4|[Link](https://ani.social/post/17299648)
 5|[Link](https://ani.social/post/17678204)
 6|[Link](https://ani.social/post/18047604)
+7|[Link](https://ani.social/post/18439797)
 {.dense}
 
 ## Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru • Betrothed to My Sister's Ex
