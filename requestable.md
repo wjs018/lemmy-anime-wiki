@@ -101,6 +101,7 @@ These shows have had episodes air already, but no thread was created because the
 | PetitCure: Precure Fairies | PetitCure: Precure Fairies | https://anilist.co/anime/188394 | Episode 21 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 106 |
 | Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | Episode 18 |
+| Koujo Denka no Katei Kyoushi | Private Tutor to the Duke's Daughter | https://anilist.co/anime/170113 | Episode 7 |
 | Puniru wa Kawaii Slime 2nd Season | Puniru is a Kawaii Slime Season 2 | https://anilist.co/anime/185755 | Episode 6 |
 | Punirunes Puni 3 | Punirunes Puni 3 | https://anilist.co/anime/188653 | Episode 7 |
 | Seishun Buta Yarou wa Santa Claus no Yume wo Minai | Rascal Does Not Dream of Santa Claus | https://anilist.co/anime/171046 | Episode 7 |
@@ -154,6 +155,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Muchuu sa, Kimi ni. | Captivated, By You | https://anilist.co/anime/183128 | August 21 at 13:30 |
 | MILGRAM Third Season | MILGRAM The Third Trial | https://anilist.co/anime/186495 | August 19 at 16:00 |
 | Odekake Kozame: Tokai no Otomodachi | Odekake Kozame: Tokai no Otomodachi | https://anilist.co/anime/177518 | August 21 at 15:00 |
-| Koujo Denka no Katei Kyoushi | Private Tutor to the Duke's Daughter | https://anilist.co/anime/170113 | August 16 at 17:30 |
 | bâan: Otona no Kyoukai | bâan: The Boundary of Adulthood | https://anilist.co/anime/195494 | August 23 at 16:00 |
 {.dense}
