@@ -87,7 +87,7 @@ These shows have had episodes air already, but no thread was created because the
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 19 |
 | Karaoke Iko! | Let's Go Karaoke! | https://anilist.co/anime/183127 | Episode 4 |
 | Ling Long 2 | Ling Long 2 | https://anilist.co/anime/135580 | Episode 13 |
-| Guimi Zhi Zhu | Lord of Mysteries | https://anilist.co/anime/137667 | Episode 8 |
+| Guimi Zhi Zhu | Lord of Mysteries | https://anilist.co/anime/137667 | Episode 9 |
 | Luo Xiaohei Zhan Ji 2 | Luo Xiaohei Zhan Ji 2 | https://anilist.co/anime/166475 | Episode 1 |
 | Osomatsu-san 4 | Mr. Osomatsu 4th Season | https://anilist.co/anime/177880 | Episode 6 |
 | My Melody and Kuromi | My Melody and Kuromi | https://anilist.co/anime/186043 | Episode 1 |
@@ -98,7 +98,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 37 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 180 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 20 |
-| Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 43 |
+| Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 44 |
 | Nukitashi THE ANIMATION | Nukitashi THE ANIMATION | https://anilist.co/anime/174188 | Episode 5 |
 | Nyaight of the Living Cat | Nyaight of the Living Cat | https://anilist.co/anime/175124 | Episode 6 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1139 |
