@@ -45,7 +45,7 @@ These shows have had episodes air already, but no thread was created because the
 | :-------- | :---------------- | :----------- | :--------------------------: |
 | 9-nine- Shihaisha no Oukan | 9-nine- Shihaisha no Oukan | https://anilist.co/anime/177761 | Episode 7 |
 | Kakkou no Iinazuke Season 2 | A Couple of Cuckoos Season 2 | https://anilist.co/anime/179828 | Episode 6 |
-| Anne Shirley | Anne Shirley | https://anilist.co/anime/184639 | Episode 19 |
+| Anne Shirley | Anne Shirley | https://anilist.co/anime/184639 | Episode 20 |
 | Araiguma Calcal-dan | Araiguma Calcal-dan | https://anilist.co/anime/186522 | Episode 20 |
 | Arknights: Enshin Shomei | Arknights: RISE FROM EMBER | https://anilist.co/anime/177175 | Episode 7 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 93 |
