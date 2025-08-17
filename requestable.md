@@ -130,7 +130,7 @@ These shows have had episodes air already, but no thread was created because the
 | Mizu Zokusei no Mahou Tsukai | The Water Magician | https://anilist.co/anime/186052 | Episode 6 |
 | Yami Shibai 15 | Theatre of Darkness: Yamishibai 15 | https://anilist.co/anime/194088 | Episode 5 |
 | Tu Bian Yingxiong X | To Be Hero X | https://anilist.co/anime/156092 | Episode 20 |
-| Jibaku Shounen Hanako-kun 2 Part 2 | Toilet-Bound Hanako-kun Season 2 Part 2 | https://anilist.co/anime/189326 | Episode 6 |
+| Jibaku Shounen Hanako-kun 2 Part 2 | Toilet-Bound Hanako-kun Season 2 Part 2 | https://anilist.co/anime/189326 | Episode 7 |
 | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | https://anilist.co/anime/196229 | Episode 6 |
 | Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | Episode 6 |
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 9 |
