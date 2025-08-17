@@ -65,6 +65,7 @@ These shows have had episodes air already, but no thread was created because the
 | Everyday Host | Everyday Host | https://anilist.co/anime/185584 | Episode 19 |
 | Fermat no Ryouri | Fermat Kitchen | https://anilist.co/anime/186003 | Episode 6 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 170 |
+| Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | Episode 6 |
 | Gakkou de wa Oshiete Kurenai Taisetsu na Koto | Gakkou de wa Oshiete Kurenai Taisetsu na Koto | https://anilist.co/anime/193238 | Episode 7 |
 | Go! Go! Vehicle Zoo: Norimono Star-hen | Go! Go! Vehicle Zoo: Norimono Star-hen | https://anilist.co/anime/188661 | Episode 16 |
 | Grand Blue Season 2 | Grand Blue Dreaming Season 2 | https://anilist.co/anime/182309 | Episode 6 |
@@ -133,6 +134,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | Episode 6 |
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 9 |
 | Uchuujin MuuMuu | Uchuujin MuuMuu | https://anilist.co/anime/185070 | Episode 19 |
+| Busamen Gachi Fighter | Uglymug, Epicfighter | https://anilist.co/anime/184575 | Episode 7 |
 | Utagoe wa Mille-Feuille | Utagoe wa Mille-Feuille | https://anilist.co/anime/166215 | Episode 5 |
 | Watari-kun no xx ga Houkai Sunzen | Watari-kun's ****** Is about to Collapse | https://anilist.co/anime/169420 | Episode 7 |
 | Tsuihousha Shokudou e Youkoso! | Welcome to the Outcast's Restaurant! | https://anilist.co/anime/185544 | Episode 7 |
@@ -151,9 +153,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | AS ONE | AS ONE | https://anilist.co/anime/187317 | August 21 at 15:00 |
 | Muchuu sa, Kimi ni. | Captivated, By You | https://anilist.co/anime/183128 | August 21 at 13:30 |
-| Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | August 17 at 15:30 |
 | MILGRAM Third Season | MILGRAM The Third Trial | https://anilist.co/anime/186495 | August 19 at 16:00 |
 | Odekake Kozame: Tokai no Otomodachi | Odekake Kozame: Tokai no Otomodachi | https://anilist.co/anime/177518 | August 21 at 15:00 |
-| Busamen Gachi Fighter | Uglymug, Epicfighter | https://anilist.co/anime/184575 | August 17 at 15:30 |
 | bâan: Otona no Kyoukai | bâan: The Boundary of Adulthood | https://anilist.co/anime/195494 | August 23 at 16:00 |
 {.dense}
