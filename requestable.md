@@ -25,7 +25,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Ginga Tokkyuu Milky☆Subway | Milky☆Subway: The Galactic Limited Express | https://anilist.co/anime/189069 | [Link](https://ani.social/post/18393211) |
 | Sono Bisque Doll wa Koi wo Suru Season 2 | My Dress-Up Darling Season 2 | https://anilist.co/anime/154768 | [Link](https://ani.social/post/18495098) |
 | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season | Reborn as a Vending Machine, I Now Wander the Dungeon Season 2 | https://anilist.co/anime/169440 | [Link](https://ani.social/post/18313684) |
-| Ruri no Houseki | Ruri Rocks | https://anilist.co/anime/180929 | [Link](https://ani.social/post/18151523) |
+| Ruri no Houseki | Ruri Rocks | https://anilist.co/anime/180929 | [Link](https://ani.social/post/18536017) |
 | SAKAMOTO DAYS Part 2 | SAKAMOTO DAYS Part 2 | https://anilist.co/anime/184237 | [Link](https://ani.social/post/18212245) |
 | Kaoru Hana wa Rin to Saku | The Fragrant Flower Blooms With Dignity | https://anilist.co/anime/181444 | [Link](https://ani.social/post/18496253) |
 | Hikaru ga Shinda Natsu | The Summer Hikaru Died | https://anilist.co/anime/177689 | [Link](https://ani.social/post/18497323) |
