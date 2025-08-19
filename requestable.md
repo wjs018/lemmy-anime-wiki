@@ -82,7 +82,8 @@ These shows have had episodes air already, but no thread was created because the
 | Karaoke Iko! | Let's Go Karaoke! | https://anilist.co/anime/183127 | Episode 4 |
 | Ling Long 2 | Ling Long 2 | https://anilist.co/anime/135580 | Episode 13 |
 | Guimi Zhi Zhu | Lord of Mysteries | https://anilist.co/anime/137667 | Episode 9 |
-| Osomatsu-san 4 | Mr. Osomatsu 4th Season | https://anilist.co/anime/177880 | Episode 6 |
+| MILGRAM Third Season | MILGRAM The Third Trial | https://anilist.co/anime/186495 | Episode 2 |
+| Osomatsu-san 4 | Mr. Osomatsu 4th Season | https://anilist.co/anime/177880 | Episode 7 |
 | My Melody and Kuromi | My Melody and Kuromi | https://anilist.co/anime/186043 | Episode 1 |
 | Necronomico no Cosmic Horror Show | Necronomico and the Cosmic Horror Show | https://anilist.co/anime/185505 | Episode 8 |
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 45 |
@@ -152,7 +153,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | AS ONE | AS ONE | https://anilist.co/anime/187317 | August 21 at 15:00 |
 | Muchuu sa, Kimi ni. | Captivated, By You | https://anilist.co/anime/183128 | August 21 at 13:30 |
 | Fushigi ‌no ‌Kuni ‌de ‌Alice to: Dive ‌in ‌Wonderland | Fushigi ‌no ‌Kuni ‌de ‌Alice to: Dive ‌in ‌Wonderland | https://anilist.co/anime/186181 | August 28 at 15:00 |
-| MILGRAM Third Season | MILGRAM The Third Trial | https://anilist.co/anime/186495 | August 19 at 16:00 |
 | Odekake Kozame: Tokai no Otomodachi | Odekake Kozame: Tokai no Otomodachi | https://anilist.co/anime/177518 | August 21 at 15:00 |
 | bâan: Otona no Kyoukai | bâan: The Boundary of Adulthood | https://anilist.co/anime/195494 | August 23 at 16:00 |
 {.dense}
