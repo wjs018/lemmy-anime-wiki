@@ -111,7 +111,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yuusha Party wo Tsuihou Sareta Shiro Madoushi, S Rank Boukensha ni Hirowareru: Kono Shiro Madoushi ga Kikakugaisugiru | Scooped Up by an S-Rank Adventurer! | https://anilist.co/anime/179885 | Episode 7 |
 | Silent Witch: Chinmoku no Majo no Kakushigoto | Secrets of the Silent Witch | https://anilist.co/anime/179966 | Episode 7 |
 | Food Court de, Mata Ashita. | See You Tomorrow at the Food Court | https://anilist.co/anime/185519 | Episode 6 |
-| Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 43 |
+| Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 44 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1297 |
 | Shinobanai! Crypto Ninja Sakuya San no Maki | Shinobanai! Crypto Ninja Sakuya San no Maki | https://anilist.co/anime/181867 | Episode 7 |
 | Futari Solo Camp | Solo Camping for Two | https://anilist.co/anime/185965 | Episode 6 |
