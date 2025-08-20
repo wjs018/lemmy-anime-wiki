@@ -197,6 +197,7 @@ Episode|Link
 5|[Link](https://ani.social/post/17556854)
 6|[Link](https://ani.social/post/17933260)
 7|[Link](https://ani.social/post/18313684)
+8|[Link](https://ani.social/post/18689702)
 {.dense}
 
 ## Kaijuu 8-gou 2nd Season • Kaiju No. 8 Season 2
