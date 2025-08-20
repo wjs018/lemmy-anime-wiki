@@ -123,7 +123,7 @@ These shows have had episodes air already, but no thread was created because the
 | Summer Pockets Movie | Summer Pockets Movie | https://anilist.co/anime/195230 | Episode 1 |
 | Kijin Gentoushou | Sword of the Demon Hunter: Kijin Gentosho | https://anilist.co/anime/143598 | Episode 19 |
 | TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 2 |
-| Tate no Yuusha no Nariagari Season 4 | The Rising of the Shield Hero Season 4 | https://anilist.co/anime/173780 | Episode 6 |
+| Tate no Yuusha no Nariagari Season 4 | The Rising of the Shield Hero Season 4 | https://anilist.co/anime/173780 | Episode 7 |
 | Kizetsu Yuusha to Ansatsu Hime | The Shy Hero and the Assassin Princesses | https://anilist.co/anime/186561 | Episode 7 |
 | Mizu Zokusei no Mahou Tsukai | The Water Magician | https://anilist.co/anime/186052 | Episode 6 |
 | Yami Shibai 15 | Theatre of Darkness: Yamishibai 15 | https://anilist.co/anime/194088 | Episode 6 |
