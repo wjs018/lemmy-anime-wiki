@@ -130,6 +130,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 7|[Link](https://ani.social/post/18393211)
+8|[Link](https://ani.social/post/18740970)
 {.dense}
 
 ## Grand Blue Season 2 • Grand Blue Dreaming Season 2
