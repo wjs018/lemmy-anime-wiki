@@ -41,6 +41,7 @@ These shows have had episodes air already, but no thread was created because the
 | :-------- | :---------------- | :----------- | :--------------------------: |
 | 9-nine- Shihaisha no Oukan | 9-nine- Shihaisha no Oukan | https://anilist.co/anime/177761 | Episode 8 |
 | Kakkou no Iinazuke Season 2 | A Couple of Cuckoos Season 2 | https://anilist.co/anime/179828 | Episode 7 |
+| AS ONE | AS ONE | https://anilist.co/anime/187317 | Episode 1 |
 | Anne Shirley | Anne Shirley | https://anilist.co/anime/184639 | Episode 20 |
 | Araiguma Calcal-dan | Araiguma Calcal-dan | https://anilist.co/anime/186522 | Episode 20 |
 | Arknights: Enshin Shomei | Arknights: RISE FROM EMBER | https://anilist.co/anime/177175 | Episode 7 |
@@ -97,6 +98,7 @@ These shows have had episodes air already, but no thread was created because the
 | Nukitashi THE ANIMATION | Nukitashi THE ANIMATION | https://anilist.co/anime/174188 | Episode 5 |
 | Nyaight of the Living Cat | Nyaight of the Living Cat | https://anilist.co/anime/175124 | Episode 7 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1140 |
+| Odekake Kozame: Tokai no Otomodachi | Odekake Kozame: Tokai no Otomodachi | https://anilist.co/anime/177518 | Episode 1 |
 | Onmyo Kaiten Re:verse | Onmyo Kaiten Re:Birth Verse | https://anilist.co/anime/187387 | Episode 8 |
 | PetitCure: Precure Fairies | PetitCure: Precure Fairies | https://anilist.co/anime/188394 | Episode 22 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 106 |
@@ -151,8 +153,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
-| AS ONE | AS ONE | https://anilist.co/anime/187317 | August 21 at 15:00 |
 | Fushigi ‌no ‌Kuni ‌de ‌Alice to: Dive ‌in ‌Wonderland | Fushigi ‌no ‌Kuni ‌de ‌Alice to: Dive ‌in ‌Wonderland | https://anilist.co/anime/186181 | August 28 at 15:00 |
-| Odekake Kozame: Tokai no Otomodachi | Odekake Kozame: Tokai no Otomodachi | https://anilist.co/anime/177518 | August 21 at 15:00 |
 | bâan: Otona no Kyoukai | bâan: The Boundary of Adulthood | https://anilist.co/anime/195494 | August 23 at 16:00 |
 {.dense}
