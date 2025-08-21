@@ -19,7 +19,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru | Betrothed to My Sister's Ex | https://anilist.co/anime/179879 | [Link](https://ani.social/post/18450977) |
 | CITY THE ANIMATION | CITY THE ANIMATION | https://anilist.co/anime/181841 | [Link](https://ani.social/post/18542955) |
 | Yofukashi no Uta Season 2 | Call of the Night Season 2 | https://anilist.co/anime/175914 | [Link](https://ani.social/post/18439797) |
-| Dandadan 2nd Season | DAN DA DAN Season 2 | https://anilist.co/anime/185660 | [Link](https://ani.social/post/18381028) |
+| Dandadan 2nd Season | DAN DA DAN Season 2 | https://anilist.co/anime/185660 | [Link](https://ani.social/post/18748462) |
 | Mattaku Saikin no Tantei to Kitara | Detectives These Days Are Crazy! | https://anilist.co/anime/180460 | [Link](https://ani.social/post/18645031) |
 | Ginga Tokkyuu Milky☆Subway | Milky☆Subway: The Galactic Limited Express | https://anilist.co/anime/189069 | [Link](https://ani.social/post/18740970) |
 | Sono Bisque Doll wa Koi wo Suru Season 2 | My Dress-Up Darling Season 2 | https://anilist.co/anime/154768 | [Link](https://ani.social/post/18495098) |
@@ -117,7 +117,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 44 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1297 |
 | Shinobanai! Crypto Ninja Sakuya San no Maki | Shinobanai! Crypto Ninja Sakuya San no Maki | https://anilist.co/anime/181867 | Episode 7 |
-| Futari Solo Camp | Solo Camping for Two | https://anilist.co/anime/185965 | Episode 6 |
+| Futari Solo Camp | Solo Camping for Two | https://anilist.co/anime/185965 | Episode 7 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1711 |
 | Sousou no Frieren: ●● no Mahou Part 2 | Sousou no Frieren: ●● no Mahou Part 2 | https://anilist.co/anime/189513 | Episode 5 |
 | Suki-Suki Diesuki Chou Ayeshiteru | Suki-Suki Diesuki Chou Ayeshiteru | https://anilist.co/anime/196694 | Episode 1 |
