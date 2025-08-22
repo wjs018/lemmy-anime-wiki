@@ -64,7 +64,7 @@ These shows have had episodes air already, but no thread was created because the
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 876 |
 | Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | Episode 52 |
 | Dr. STONE: SCIENCE FUTURE Part 2 | Dr. STONE SCIENCE FUTURE Cour 2 | https://anilist.co/anime/189117 | Episode 7 |
-| Everyday Host | Everyday Host | https://anilist.co/anime/185584 | Episode 19 |
+| Everyday Host | Everyday Host | https://anilist.co/anime/185584 | Episode 20 |
 | Fermat no Ryouri | Fermat Kitchen | https://anilist.co/anime/186003 | Episode 6 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 171 |
 | Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | Episode 6 |
