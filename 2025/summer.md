@@ -156,6 +156,7 @@ Episode|Link
 5|[Link](https://ani.social/post/17739190)
 6|[Link](https://ani.social/post/18107812)
 7|[Link](https://ani.social/post/18497323)
+8|[Link](https://ani.social/post/18848610)
 {.dense}
 
 ## Hitozuma no Kuchibiru wa Kan Chu-Hi no Aji ga Shite • Chuhai Lips: Canned Flavor of Married Women
