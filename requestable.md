@@ -46,6 +46,7 @@ These shows have had episodes air already, but no thread was created because the
 | Arknights: Enshin Shomei | Arknights: RISE FROM EMBER | https://anilist.co/anime/177175 | Episode 8 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 94 |
 | BULLET/BULLET | BULLET/BULLET | https://anilist.co/anime/157960 | Episode 9 |
+| Bad Girl | Bad Girl | https://anilist.co/anime/178675 | Episode 8 |
 | Busu ni Hanataba wo. | Busu ni Hanataba wo. | https://anilist.co/anime/156395 | Episode 8 |
 | Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen | CARDFIGHT!! VANGUARD Divinez DELUXE Finals | https://anilist.co/anime/191994 | Episode 7 |
 | Muchuu sa, Kimi ni. | Captivated, By You | https://anilist.co/anime/183128 | Episode 1 |
@@ -152,7 +153,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
-| Bad Girl | Bad Girl | https://anilist.co/anime/178675 | August 23 at 16:00 |
 | Fushigi ‌no ‌Kuni ‌de ‌Alice to: Dive ‌in ‌Wonderland | Fushigi ‌no ‌Kuni ‌de ‌Alice to: Dive ‌in ‌Wonderland | https://anilist.co/anime/186181 | August 28 at 15:00 |
 | Haigakura | Haigakura | https://anilist.co/anime/168537 | August 28 at 17:30 |
 {.dense}
