@@ -86,7 +86,6 @@ These shows have had episodes air already, but no thread was created because the
 | Guimi Zhi Zhu | Lord of Mysteries | https://anilist.co/anime/137667 | Episode 10 |
 | MILGRAM Third Season | MILGRAM The Third Trial | https://anilist.co/anime/186495 | Episode 2 |
 | Osomatsu-san 4 | Mr. Osomatsu 4th Season | https://anilist.co/anime/177880 | Episode 7 |
-| My Melody and Kuromi | My Melody and Kuromi | https://anilist.co/anime/186043 | Episode 1 |
 | Necronomico no Cosmic Horror Show | Necronomico and the Cosmic Horror Show | https://anilist.co/anime/185505 | Episode 8 |
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 45 |
 | New PANTY and STOCKING with GARTERBELT | New PANTY and STOCKING with GARTERBELT | https://anilist.co/anime/151799 | Episode 7 |
