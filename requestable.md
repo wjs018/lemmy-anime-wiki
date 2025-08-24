@@ -94,7 +94,7 @@ These shows have had episodes air already, but no thread was created because the
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 21 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 45 |
 | Nukitashi THE ANIMATION | Nukitashi THE ANIMATION | https://anilist.co/anime/174188 | Episode 6 |
-| Nyaight of the Living Cat | Nyaight of the Living Cat | https://anilist.co/anime/175124 | Episode 7 |
+| Nyaight of the Living Cat | Nyaight of the Living Cat | https://anilist.co/anime/175124 | Episode 8 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1140 |
 | Odekake Kozame: Tokai no Otomodachi | Odekake Kozame: Tokai no Otomodachi | https://anilist.co/anime/177518 | Episode 1 |
 | Onmyo Kaiten Re:verse | Onmyo Kaiten Re:Birth Verse | https://anilist.co/anime/187387 | Episode 8 |
