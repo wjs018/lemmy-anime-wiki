@@ -23,7 +23,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Ginga Tokkyuu Milky☆Subway | Milky☆Subway: The Galactic Limited Express | https://anilist.co/anime/189069 | [Link](https://ani.social/post/18740970) |
 | Sono Bisque Doll wa Koi wo Suru Season 2 | My Dress-Up Darling Season 2 | https://anilist.co/anime/154768 | [Link](https://ani.social/post/18844555) |
 | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season | Reborn as a Vending Machine, I Now Wander the Dungeon Season 2 | https://anilist.co/anime/169440 | [Link](https://ani.social/post/18689702) |
-| SAKAMOTO DAYS Part 2 | SAKAMOTO DAYS Part 2 | https://anilist.co/anime/184237 | [Link](https://ani.social/post/18593647) |
+| SAKAMOTO DAYS Part 2 | SAKAMOTO DAYS Part 2 | https://anilist.co/anime/184237 | [Link](https://ani.social/post/18943465) |
 | Kaoru Hana wa Rin to Saku | The Fragrant Flower Blooms With Dignity | https://anilist.co/anime/181444 | [Link](https://ani.social/post/18847050) |
 | Hikaru ga Shinda Natsu | The Summer Hikaru Died | https://anilist.co/anime/177689 | [Link](https://ani.social/post/18848610) |
 | Watashi ga Koibito ni Nareru Wake Naijan, Murimuri! (※Muri ja Nakatta!?) | There's No Freaking Way I'll Be Your Lover! Unless... | https://anilist.co/anime/184591 | [Link](https://ani.social/post/18596727) |
@@ -123,7 +123,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sumikko Gurashi: Koko ga Ochitsukun Desu | Sumikko Gurashi: Koko ga Ochitsukun Desu | https://anilist.co/anime/188884 | Episode 18 |
 | Summer Pockets | Summer Pockets | https://anilist.co/anime/143200 | Episode 21 |
 | Summer Pockets Movie | Summer Pockets Movie | https://anilist.co/anime/195230 | Episode 1 |
-| Kijin Gentoushou | Sword of the Demon Hunter: Kijin Gentosho | https://anilist.co/anime/143598 | Episode 19 |
+| Kijin Gentoushou | Sword of the Demon Hunter: Kijin Gentosho | https://anilist.co/anime/143598 | Episode 20 |
 | TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 2 |
 | Tate no Yuusha no Nariagari Season 4 | The Rising of the Shield Hero Season 4 | https://anilist.co/anime/173780 | Episode 7 |
 | Kizetsu Yuusha to Ansatsu Hime | The Shy Hero and the Assassin Princesses | https://anilist.co/anime/186561 | Episode 8 |
