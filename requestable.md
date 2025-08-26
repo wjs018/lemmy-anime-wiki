@@ -20,6 +20,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Yofukashi no Uta Season 2 | Call of the Night Season 2 | https://anilist.co/anime/175914 | [Link](https://ani.social/post/18795470) |
 | Dandadan 2nd Season | DAN DA DAN Season 2 | https://anilist.co/anime/185660 | [Link](https://ani.social/post/18748462) |
 | Mattaku Saikin no Tantei to Kitara | Detectives These Days Are Crazy! | https://anilist.co/anime/180460 | [Link](https://ani.social/post/18991652) |
+| Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | [Link](https://ani.social/post/19002378) |
 | Ginga Tokkyuu Milky☆Subway | Milky☆Subway: The Galactic Limited Express | https://anilist.co/anime/189069 | [Link](https://ani.social/post/18740970) |
 | Sono Bisque Doll wa Koi wo Suru Season 2 | My Dress-Up Darling Season 2 | https://anilist.co/anime/154768 | [Link](https://ani.social/post/18844555) |
 | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season | Reborn as a Vending Machine, I Now Wander the Dungeon Season 2 | https://anilist.co/anime/169440 | [Link](https://ani.social/post/18689702) |
@@ -28,6 +29,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Hikaru ga Shinda Natsu | The Summer Hikaru Died | https://anilist.co/anime/177689 | [Link](https://ani.social/post/18848610) |
 | Watashi ga Koibito ni Nareru Wake Naijan, Murimuri! (※Muri ja Nakatta!?) | There's No Freaking Way I'll Be Your Lover! Unless... | https://anilist.co/anime/184591 | [Link](https://ani.social/post/18946371) |
 | Turkey! | Turkey! Time to Strike | https://anilist.co/anime/159483 | [Link](https://ani.social/post/18996303) |
+| Tsuihousha Shokudou e Youkoso! | Welcome to the Outcast's Restaurant! | https://anilist.co/anime/185544 | [Link](https://ani.social/post/19002382) |
 | Witch Watch | Witch Watch | https://anilist.co/anime/180367 | [Link](https://ani.social/post/18876708) |
 {.dense}
 
@@ -65,7 +67,6 @@ These shows have had episodes air already, but no thread was created because the
 | Everyday Host | Everyday Host | https://anilist.co/anime/185584 | Episode 20 |
 | Fermat no Ryouri | Fermat Kitchen | https://anilist.co/anime/186003 | Episode 7 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 171 |
-| Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | Episode 7 |
 | Gakkou de wa Oshiete Kurenai Taisetsu na Koto | Gakkou de wa Oshiete Kurenai Taisetsu na Koto | https://anilist.co/anime/193238 | Episode 8 |
 | Grand Blue Season 2 | Grand Blue Dreaming Season 2 | https://anilist.co/anime/182309 | Episode 8 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 618 |
@@ -137,7 +138,6 @@ These shows have had episodes air already, but no thread was created because the
 | Busamen Gachi Fighter | Uglymug, Epicfighter | https://anilist.co/anime/184575 | Episode 8 |
 | Utagoe wa Mille-Feuille | Utagoe wa Mille-Feuille | https://anilist.co/anime/166215 | Episode 6 |
 | Watari-kun no xx ga Houkai Sunzen | Watari-kun's ****** Is about to Collapse | https://anilist.co/anime/169420 | Episode 8 |
-| Tsuihousha Shokudou e Youkoso! | Welcome to the Outcast's Restaurant! | https://anilist.co/anime/185544 | Episode 8 |
 | Kizu darake Seijo yori Houfuku wo Komete | With Vengeance, Sincerely, Your Broken Saintess | https://anilist.co/anime/195209 | Episode 7 |
 | Ame to Kimi to | With You and the Rain | https://anilist.co/anime/180425 | Episode 8 |
 | Xi Xing Ji: Da Yuan Hun | Xi Xing Ji: Da Yuan Hun | https://anilist.co/anime/137681 | Episode 12 |
