@@ -125,6 +125,7 @@ Episode|Link
 3|[Link](https://ani.social/post/17398427)
 4|[Link](https://ani.social/post/17783962)
 5|[Link](https://ani.social/post/18157830)
+7|[Link](https://ani.social/post/19002378)
 {.dense}
 
 ## Ginga Tokkyuu Milky☆Subway • Milky☆Subway: The Galactic Limited Express
@@ -400,6 +401,7 @@ Episode|Link
 2|[Link](https://ani.social/post/16574913)
 3|[Link](https://ani.social/post/16916750)
 4|[Link](https://ani.social/post/17250974)
+5|[Link](https://ani.social/post/19002382)
 {.dense}
 
 ## Tsuyokute New Saga • New Saga
