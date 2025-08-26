@@ -61,7 +61,6 @@ These shows have had episodes air already, but no thread was created because the
 | Mikadono Sanshimai wa Angai, Choroi. | Dealing with Mikadono Sisters Is a Breeze | https://anilist.co/anime/178886 | Episode 8 |
 | Dekin no Mogura | Dekin no Mogura: The Earthbound Mole | https://anilist.co/anime/184574 | Episode 8 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 877 |
-| Dou Po Cangqiong: Nian Fan 3 | Dou Po Cangqiong: Nian Fan 3 | https://anilist.co/anime/168164 | Episode 52 |
 | Dr. STONE: SCIENCE FUTURE Part 2 | Dr. STONE SCIENCE FUTURE Cour 2 | https://anilist.co/anime/189117 | Episode 7 |
 | Everyday Host | Everyday Host | https://anilist.co/anime/185584 | Episode 20 |
 | Fermat no Ryouri | Fermat Kitchen | https://anilist.co/anime/186003 | Episode 7 |
@@ -113,7 +112,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yuusha Party wo Tsuihou Sareta Shiro Madoushi, S Rank Boukensha ni Hirowareru: Kono Shiro Madoushi ga Kikakugaisugiru | Scooped Up by an S-Rank Adventurer! | https://anilist.co/anime/179885 | Episode 8 |
 | Silent Witch: Chinmoku no Majo no Kakushigoto | Secrets of the Silent Witch | https://anilist.co/anime/179966 | Episode 8 |
 | Food Court de, Mata Ashita. | See You Tomorrow at the Food Court | https://anilist.co/anime/185519 | Episode 6 |
-| Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 44 |
+| Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 45 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1298 |
 | Shinobanai! Crypto Ninja Sakuya San no Maki | Shinobanai! Crypto Ninja Sakuya San no Maki | https://anilist.co/anime/181867 | Episode 8 |
 | Futari Solo Camp | Solo Camping for Two | https://anilist.co/anime/185965 | Episode 7 |
