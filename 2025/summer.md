@@ -393,6 +393,13 @@ Episode|Link
 5|[Link](https://ani.social/post/17937761)
 {.dense}
 
+## Tougen Anki • Tougen Anki: Legend of the Cursed Blood
+
+Episode|Link
+:-:|:-:
+7|[Link](https://ani.social/post/19021095)
+{.dense}
+
 ## Tsuihousha Shokudou e Youkoso! • Welcome to the Outcast's Restaurant!
 
 Episode|Link
