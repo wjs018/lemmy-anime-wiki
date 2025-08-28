@@ -88,6 +88,7 @@ Episode|Link
 6|[Link](https://ani.social/post/17996017)
 7|[Link](https://ani.social/post/18381028)
 8|[Link](https://ani.social/post/18748462)
+9|[Link](https://ani.social/post/19091577)
 {.dense}
 
 ## Dr. STONE: SCIENCE FUTURE Part 2 • Dr. STONE SCIENCE FUTURE Cour 2
