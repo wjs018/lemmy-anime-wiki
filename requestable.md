@@ -48,7 +48,7 @@ These shows have had episodes air already, but no thread was created because the
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 95 |
 | BULLET/BULLET | BULLET/BULLET | https://anilist.co/anime/157960 | Episode 9 |
 | Bad Girl | Bad Girl | https://anilist.co/anime/178675 | Episode 8 |
-| Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru | Betrothed to My Sister's Ex | https://anilist.co/anime/179879 | Episode 6 |
+| Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru | Betrothed to My Sister's Ex | https://anilist.co/anime/179879 | Episode 9 |
 | Busu ni Hanataba wo. | Busu ni Hanataba wo. | https://anilist.co/anime/156395 | Episode 9 |
 | Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen | CARDFIGHT!! VANGUARD Divinez DELUXE Finals | https://anilist.co/anime/191994 | Episode 7 |
 | Muchuu sa, Kimi ni. | Captivated, By You | https://anilist.co/anime/183128 | Episode 2 |
@@ -94,7 +94,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 181 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 22 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 45 |
-| Nukitashi THE ANIMATION | Nukitashi THE ANIMATION | https://anilist.co/anime/174188 | Episode 6 |
+| Nukitashi THE ANIMATION | Nukitashi THE ANIMATION | https://anilist.co/anime/174188 | Episode 7 |
 | Nyaight of the Living Cat | Nyaight of the Living Cat | https://anilist.co/anime/175124 | Episode 8 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1141 |
 | Odekake Kozame: Tokai no Otomodachi | Odekake Kozame: Tokai no Otomodachi | https://anilist.co/anime/177518 | Episode 1 |
