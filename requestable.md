@@ -15,7 +15,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
 | Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku | Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin | https://anilist.co/anime/178433 | [Link](https://ani.social/post/18888306) |
-| Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru | Betrothed to My Sister's Ex | https://anilist.co/anime/179879 | [Link](https://ani.social/post/18802104) |
 | CITY THE ANIMATION | CITY THE ANIMATION | https://anilist.co/anime/181841 | [Link](https://ani.social/post/18892598) |
 | Yofukashi no Uta Season 2 | Call of the Night Season 2 | https://anilist.co/anime/175914 | [Link](https://ani.social/post/19139836) |
 | Dandadan 2nd Season | DAN DA DAN Season 2 | https://anilist.co/anime/185660 | [Link](https://ani.social/post/19091577) |
@@ -49,6 +48,7 @@ These shows have had episodes air already, but no thread was created because the
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 95 |
 | BULLET/BULLET | BULLET/BULLET | https://anilist.co/anime/157960 | Episode 9 |
 | Bad Girl | Bad Girl | https://anilist.co/anime/178675 | Episode 8 |
+| Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru | Betrothed to My Sister's Ex | https://anilist.co/anime/179879 | Episode 6 |
 | Busu ni Hanataba wo. | Busu ni Hanataba wo. | https://anilist.co/anime/156395 | Episode 9 |
 | Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen | CARDFIGHT!! VANGUARD Divinez DELUXE Finals | https://anilist.co/anime/191994 | Episode 7 |
 | Muchuu sa, Kimi ni. | Captivated, By You | https://anilist.co/anime/183128 | Episode 2 |
