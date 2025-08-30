@@ -110,7 +110,7 @@ These shows have had episodes air already, but no thread was created because the
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 103 |
 | Kanojo, Okarishimasu 4th Season | Rent-a-Girlfriend Season 4 | https://anilist.co/anime/179344 | Episode 9 |
 | Ruri no Houseki | Ruri Rocks | https://anilist.co/anime/180929 | Episode 8 |
-| Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 21 |
+| Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 22 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2794 |
 | Yuusha Party wo Tsuihou Sareta Shiro Madoushi, S Rank Boukensha ni Hirowareru: Kono Shiro Madoushi ga Kikakugaisugiru | Scooped Up by an S-Rank Adventurer! | https://anilist.co/anime/179885 | Episode 9 |
 | Silent Witch: Chinmoku no Majo no Kakushigoto | Secrets of the Silent Witch | https://anilist.co/anime/179966 | Episode 9 |
@@ -121,7 +121,6 @@ These shows have had episodes air already, but no thread was created because the
 | Futari Solo Camp | Solo Camping for Two | https://anilist.co/anime/185965 | Episode 8 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1713 |
 | Sousou no Frieren: ●● no Mahou Part 2 | Sousou no Frieren: ●● no Mahou Part 2 | https://anilist.co/anime/189513 | Episode 5 |
-| Sumikko Gurashi: Koko ga Ochitsukun Desu | Sumikko Gurashi: Koko ga Ochitsukun Desu | https://anilist.co/anime/188884 | Episode 18 |
 | Summer Pockets | Summer Pockets | https://anilist.co/anime/143200 | Episode 21 |
 | Summer Pockets Movie | Summer Pockets Movie | https://anilist.co/anime/195230 | Episode 1 |
 | Kijin Gentoushou | Sword of the Demon Hunter: Kijin Gentosho | https://anilist.co/anime/143598 | Episode 20 |
