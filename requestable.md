@@ -83,7 +83,7 @@ These shows have had episodes air already, but no thread was created because the
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 21 |
 | Karaoke Iko! | Let's Go Karaoke! | https://anilist.co/anime/183127 | Episode 5 |
 | Ling Long 2 | Ling Long 2 | https://anilist.co/anime/135580 | Episode 13 |
-| Guimi Zhi Zhu | Lord of Mysteries | https://anilist.co/anime/137667 | Episode 10 |
+| Guimi Zhi Zhu | Lord of Mysteries | https://anilist.co/anime/137667 | Episode 11 |
 | MILGRAM Third Season | MILGRAM The Third Trial | https://anilist.co/anime/186495 | Episode 2 |
 | Osomatsu-san 4 | Mr. Osomatsu 4th Season | https://anilist.co/anime/177880 | Episode 8 |
 | Necronomico no Cosmic Horror Show | Necronomico and the Cosmic Horror Show | https://anilist.co/anime/185505 | Episode 9 |
@@ -93,7 +93,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 39 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 182 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 22 |
-| Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 45 |
+| Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 46 |
 | Nukitashi THE ANIMATION | Nukitashi THE ANIMATION | https://anilist.co/anime/174188 | Episode 7 |
 | Nyaight of the Living Cat | Nyaight of the Living Cat | https://anilist.co/anime/175124 | Episode 8 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1141 |
