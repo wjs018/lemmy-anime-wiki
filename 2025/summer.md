@@ -232,6 +232,7 @@ Episode|Link
 6|[Link](https://ani.social/post/18106156)
 7|[Link](https://ani.social/post/18496253)
 8|[Link](https://ani.social/post/18847050)
+9|[Link](https://ani.social/post/19193278)
 {.dense}
 
 ## Koujo Denka no Katei Kyoushi • Private Tutor to the Duke's Daughter
