@@ -19,7 +19,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Yofukashi no Uta Season 2 | Call of the Night Season 2 | https://anilist.co/anime/175914 | [Link](https://ani.social/post/19139836) |
 | Dandadan 2nd Season | DAN DA DAN Season 2 | https://anilist.co/anime/185660 | [Link](https://ani.social/post/19091577) |
 | Mattaku Saikin no Tantei to Kitara | Detectives These Days Are Crazy! | https://anilist.co/anime/180460 | [Link](https://ani.social/post/18991652) |
-| Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | [Link](https://ani.social/post/19002378) |
+| Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | [Link](https://ani.social/post/19237698) |
 | Kaijuu 8-gou 2nd Season | Kaiju No. 8 Season 2 | https://anilist.co/anime/178754 | [Link](https://ani.social/post/19186729) |
 | Ginga Tokkyuu Milky☆Subway | Milky☆Subway: The Galactic Limited Express | https://anilist.co/anime/189069 | [Link](https://ani.social/post/19084462) |
 | Sono Bisque Doll wa Koi wo Suru Season 2 | My Dress-Up Darling Season 2 | https://anilist.co/anime/154768 | [Link](https://ani.social/post/19191686) |
@@ -60,7 +60,7 @@ These shows have had episodes air already, but no thread was created because the
 | Hitozuma no Kuchibiru wa Kan Chu-Hi no Aji ga Shite | Chuhai Lips: Canned Flavor of Married Women | https://anilist.co/anime/186789 | Episode 8 |
 | Clevatess: Majuu no Ou to Akago to Kabane no Yuusha | Clevatess | https://anilist.co/anime/178869 | Episode 9 |
 | Crayon Shin-chan: Chou Karei! Shakunetsu no Kasukabe Dancers | Crayon Shin-chan: Chou Karei! Shakunetsu no Kasukabe Dancers | https://anilist.co/anime/185537 | Episode 1 |
-| GaCen Shoujo to Ibunka Kouryuu | Cultural Exchange with a Game Centre Girl | https://anilist.co/anime/180794 | Episode 7 |
+| GaCen Shoujo to Ibunka Kouryuu | Cultural Exchange with a Game Centre Girl | https://anilist.co/anime/180794 | Episode 8 |
 | Binan Koukou Chikyuu Bouei-bu Haikara! | Cute High Earth Defense Club Hi-CARA! | https://anilist.co/anime/188138 | Episode 8 |
 | Mikadono Sanshimai wa Angai, Choroi. | Dealing with Mikadono Sisters Is a Breeze | https://anilist.co/anime/178886 | Episode 9 |
 | Dekin no Mogura | Dekin no Mogura: The Earthbound Mole | https://anilist.co/anime/184574 | Episode 9 |
@@ -134,7 +134,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | https://anilist.co/anime/196229 | Episode 9 |
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 10 |
 | Uchuujin MuuMuu | Uchuujin MuuMuu | https://anilist.co/anime/185070 | Episode 21 |
-| Busamen Gachi Fighter | Uglymug, Epicfighter | https://anilist.co/anime/184575 | Episode 8 |
+| Busamen Gachi Fighter | Uglymug, Epicfighter | https://anilist.co/anime/184575 | Episode 9 |
 | Utagoe wa Mille-Feuille | Utagoe wa Mille-Feuille | https://anilist.co/anime/166215 | Episode 7 |
 | Watari-kun no xx ga Houkai Sunzen | Watari-kun's ****** Is about to Collapse | https://anilist.co/anime/169420 | Episode 9 |
 | Kizu darake Seijo yori Houfuku wo Komete | With Vengeance, Sincerely, Your Broken Saintess | https://anilist.co/anime/195209 | Episode 8 |
