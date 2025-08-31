@@ -31,7 +31,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | [Link](https://ani.social/post/19138505) |
 | Turkey! | Turkey! Time to Strike | https://anilist.co/anime/159483 | [Link](https://ani.social/post/18996303) |
 | Tsuihousha Shokudou e Youkoso! | Welcome to the Outcast's Restaurant! | https://anilist.co/anime/185544 | [Link](https://ani.social/post/19186126) |
-| Witch Watch | Witch Watch | https://anilist.co/anime/180367 | [Link](https://ani.social/post/18876708) |
+| Witch Watch | Witch Watch | https://anilist.co/anime/180367 | [Link](https://ani.social/post/19224783) |
 {.dense}
 
 ## Requestable Shows
