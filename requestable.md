@@ -121,7 +121,7 @@ These shows have had episodes air already, but no thread was created because the
 | Futari Solo Camp | Solo Camping for Two | https://anilist.co/anime/185965 | Episode 8 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1713 |
 | Sousou no Frieren: ●● no Mahou Part 2 | Sousou no Frieren: ●● no Mahou Part 2 | https://anilist.co/anime/189513 | Episode 5 |
-| Summer Pockets | Summer Pockets | https://anilist.co/anime/143200 | Episode 21 |
+| Summer Pockets | Summer Pockets | https://anilist.co/anime/143200 | Episode 22 |
 | Summer Pockets Movie | Summer Pockets Movie | https://anilist.co/anime/195230 | Episode 1 |
 | Kijin Gentoushou | Sword of the Demon Hunter: Kijin Gentosho | https://anilist.co/anime/143598 | Episode 20 |
 | TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 2 |
