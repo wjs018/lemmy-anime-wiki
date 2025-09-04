@@ -101,6 +101,7 @@ These shows have had episodes air already, but no thread was created because the
 | Odekake Kozame: Tokai no Otomodachi | Odekake Kozame: Tokai no Otomodachi | https://anilist.co/anime/177518 | Episode 1 |
 | Onmyo Kaiten Re:verse | Onmyo Kaiten Re:Birth Verse | https://anilist.co/anime/187387 | Episode 10 |
 | PetitCure: Precure Fairies | PetitCure: Precure Fairies | https://anilist.co/anime/188394 | Episode 23 |
+| Pokémon Concierge Part 2 | Pokémon Concierge: Season 1: Part 2 | https://anilist.co/anime/175035 | Episode 1 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 108 |
 | Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | Episode 21 |
 | Koujo Denka no Katei Kyoushi | Private Tutor to the Duke's Daughter | https://anilist.co/anime/170113 | Episode 9 |
@@ -152,5 +153,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Kimi to Idol Precure♪ Omatase! Kimi ni Todokeru KirakkiLive! | Kimi to Idol Precure♪ Omatase! Kimi ni Todokeru KirakkiLive! | https://anilist.co/anime/183414 | September 11 at 15:00 |
-| Pokémon Concierge Part 2 | Pokémon Concierge: Season 1: Part 2 | https://anilist.co/anime/175035 | September 04 at 07:00 |
 {.dense}
