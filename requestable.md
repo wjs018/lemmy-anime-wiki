@@ -94,7 +94,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 182 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 23 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 46 |
-| Nukitashi THE ANIMATION | Nukitashi THE ANIMATION | https://anilist.co/anime/174188 | Episode 7 |
+| Nukitashi THE ANIMATION | Nukitashi THE ANIMATION | https://anilist.co/anime/174188 | Episode 8 |
 | Nyaight of the Living Cat | Nyaight of the Living Cat | https://anilist.co/anime/175124 | Episode 9 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1141 |
 | Odekake Kozame: Tokai no Otomodachi | Odekake Kozame: Tokai no Otomodachi | https://anilist.co/anime/177518 | Episode 1 |
