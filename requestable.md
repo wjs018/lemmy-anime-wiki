@@ -91,7 +91,7 @@ These shows have had episodes air already, but no thread was created because the
 | New PANTY and STOCKING with GARTERBELT | New PANTY and STOCKING with GARTERBELT | https://anilist.co/anime/151799 | Episode 9 |
 | Tsuyokute New Saga | New Saga | https://anilist.co/anime/155838 | Episode 10 |
 | Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 40 |
-| Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 182 |
+| Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 183 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 23 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 46 |
 | Nukitashi THE ANIMATION | Nukitashi THE ANIMATION | https://anilist.co/anime/174188 | Episode 8 |
