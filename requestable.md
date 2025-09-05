@@ -45,7 +45,7 @@ These shows have had episodes air already, but no thread was created because the
 | Anne Shirley | Anne Shirley | https://anilist.co/anime/184639 | Episode 20 |
 | Araiguma Calcal-dan | Araiguma Calcal-dan | https://anilist.co/anime/186522 | Episode 23 |
 | Arknights: Enshin Shomei | Arknights: RISE FROM EMBER | https://anilist.co/anime/177175 | Episode 9 |
-| BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 95 |
+| BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 96 |
 | BULLET/BULLET | BULLET/BULLET | https://anilist.co/anime/157960 | Episode 9 |
 | Bad Girl | Bad Girl | https://anilist.co/anime/178675 | Episode 9 |
 | Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru | Betrothed to My Sister's Ex | https://anilist.co/anime/179879 | Episode 9 |
