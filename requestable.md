@@ -115,7 +115,7 @@ These shows have had episodes air already, but no thread was created because the
 | Silent Witch: Chinmoku no Majo no Kakushigoto | Secrets of the Silent Witch | https://anilist.co/anime/179966 | Episode 9 |
 | Food Court de, Mata Ashita. | See You Tomorrow at the Food Court | https://anilist.co/anime/185519 | Episode 6 |
 | Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 45 |
-| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1299 |
+| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1300 |
 | Shinobanai! Crypto Ninja Sakuya San no Maki | Shinobanai! Crypto Ninja Sakuya San no Maki | https://anilist.co/anime/181867 | Episode 9 |
 | Futari Solo Camp | Solo Camping for Two | https://anilist.co/anime/185965 | Episode 9 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1714 |
