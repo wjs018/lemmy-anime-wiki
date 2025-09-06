@@ -105,7 +105,7 @@ These shows have had episodes air already, but no thread was created because the
 | Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | Episode 21 |
 | Koujo Denka no Katei Kyoushi | Private Tutor to the Duke's Daughter | https://anilist.co/anime/170113 | Episode 9 |
 | Puniru wa Kawaii Slime 2nd Season | Puniru is a Kawaii Slime Season 2 | https://anilist.co/anime/185755 | Episode 9 |
-| Punirunes Puni 3 | Punirunes Puni 3 | https://anilist.co/anime/188653 | Episode 9 |
+| Punirunes Puni 3 | Punirunes Puni 3 | https://anilist.co/anime/188653 | Episode 10 |
 | Seishun Buta Yarou wa Santa Claus no Yume wo Minai | Rascal Does Not Dream of Santa Claus | https://anilist.co/anime/171046 | Episode 9 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 104 |
 | Kanojo, Okarishimasu 4th Season | Rent-a-Girlfriend Season 4 | https://anilist.co/anime/179344 | Episode 10 |
