@@ -58,7 +58,6 @@ These shows have had episodes air already, but no thread was created because the
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 273 |
 | Hitozuma no Kuchibiru wa Kan Chu-Hi no Aji ga Shite | Chuhai Lips: Canned Flavor of Married Women | https://anilist.co/anime/186789 | Episode 8 |
 | Clevatess: Majuu no Ou to Akago to Kabane no Yuusha | Clevatess | https://anilist.co/anime/178869 | Episode 10 |
-| Crayon Shin-chan: Chou Karei! Shakunetsu no Kasukabe Dancers | Crayon Shin-chan: Chou Karei! Shakunetsu no Kasukabe Dancers | https://anilist.co/anime/185537 | Episode 1 |
 | GaCen Shoujo to Ibunka Kouryuu | Cultural Exchange with a Game Centre Girl | https://anilist.co/anime/180794 | Episode 8 |
 | Binan Koukou Chikyuu Bouei-bu Haikara! | Cute High Earth Defense Club Hi-CARA! | https://anilist.co/anime/188138 | Episode 9 |
 | Mikadono Sanshimai wa Angai, Choroi. | Dealing with Mikadono Sisters Is a Breeze | https://anilist.co/anime/178886 | Episode 10 |
@@ -125,7 +124,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kijin Gentoushou | Sword of the Demon Hunter: Kijin Gentosho | https://anilist.co/anime/143598 | Episode 21 |
 | TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 2 |
 | Tate no Yuusha no Nariagari Season 4 | The Rising of the Shield Hero Season 4 | https://anilist.co/anime/173780 | Episode 9 |
-| Kizetsu Yuusha to Ansatsu Hime | The Shy Hero and the Assassin Princesses | https://anilist.co/anime/186561 | Episode 9 |
+| Kizetsu Yuusha to Ansatsu Hime | The Shy Hero and the Assassin Princesses | https://anilist.co/anime/186561 | Episode 10 |
 | Mizu Zokusei no Mahou Tsukai | The Water Magician | https://anilist.co/anime/186052 | Episode 9 |
 | Yami Shibai 15 | Theatre of Darkness: Yamishibai 15 | https://anilist.co/anime/194088 | Episode 8 |
 | Tu Bian Yingxiong X | To Be Hero X | https://anilist.co/anime/156092 | Episode 22 |
