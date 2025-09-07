@@ -80,7 +80,6 @@ These shows have had episodes air already, but no thread was created because the
 | Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 23 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 23 |
 | Karaoke Iko! | Let's Go Karaoke! | https://anilist.co/anime/183127 | Episode 5 |
-| Ling Long 2 | Ling Long 2 | https://anilist.co/anime/135580 | Episode 13 |
 | Guimi Zhi Zhu | Lord of Mysteries | https://anilist.co/anime/137667 | Episode 12 |
 | MILGRAM Third Season | MILGRAM The Third Trial | https://anilist.co/anime/186495 | Episode 2 |
 | Osomatsu-san 4 | Mr. Osomatsu 4th Season | https://anilist.co/anime/177880 | Episode 9 |
