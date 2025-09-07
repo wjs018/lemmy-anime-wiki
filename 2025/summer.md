@@ -333,6 +333,7 @@ Episode|Link
 6|[Link](https://ani.social/post/18151523)
 7|[Link](https://ani.social/post/18536017)
 9|[Link](https://ani.social/post/19281784)
+10|[Link](https://ani.social/post/19584752)
 {.dense}
 
 ## SAKAMOTO DAYS Part 2
