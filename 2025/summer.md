@@ -456,7 +456,7 @@ Episode|Link
 8|[Link](https://ani.social/post/18996303)
 {.dense}
 
-## Utagoe wa Mille-Feuille
+## Utagoe wa Mille-Feuille • Harmony of Mille-Feuille
 
 Episode|Link
 :-:|:-:
