@@ -68,7 +68,7 @@ These shows have had episodes air already, but no thread was created because the
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 173 |
 | Fushigi ‌no ‌Kuni ‌de ‌Alice to: Dive ‌in ‌Wonderland | Fushigi ‌no ‌Kuni ‌de ‌Alice to: Dive ‌in ‌Wonderland | https://anilist.co/anime/186181 | Episode 1 |
 | Gakkou de wa Oshiete Kurenai Taisetsu na Koto | Gakkou de wa Oshiete Kurenai Taisetsu na Koto | https://anilist.co/anime/193238 | Episode 10 |
-| Grand Blue Season 2 | Grand Blue Dreaming Season 2 | https://anilist.co/anime/182309 | Episode 9 |
+| Grand Blue Season 2 | Grand Blue Dreaming Season 2 | https://anilist.co/anime/182309 | Episode 10 |
 | Haigakura | Haigakura | https://anilist.co/anime/168537 | Episode 10 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 620 |
 | Utagoe wa Mille-Feuille | Harmony of Mille-Feuille | https://anilist.co/anime/166215 | Episode 8 |
