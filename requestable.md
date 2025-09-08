@@ -150,5 +150,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
+| Chikyuu no Latair | Chikyuu no Latair | https://anilist.co/anime/198408 | September 12 at 10:40 |
 | Kimi to Idol Precure♪ Omatase! Kimi ni Todokeru KirakkiLive! | Kimi to Idol Precure♪ Omatase! Kimi ni Todokeru KirakkiLive! | https://anilist.co/anime/183414 | September 11 at 15:00 |
 {.dense}
