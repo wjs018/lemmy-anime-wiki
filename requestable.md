@@ -69,7 +69,7 @@ These shows have had episodes air already, but no thread was created because the
 | Gakkou de wa Oshiete Kurenai Taisetsu na Koto | Gakkou de wa Oshiete Kurenai Taisetsu na Koto | https://anilist.co/anime/193238 | Episode 10 |
 | Grand Blue Season 2 | Grand Blue Dreaming Season 2 | https://anilist.co/anime/182309 | Episode 10 |
 | Haigakura | Haigakura | https://anilist.co/anime/168537 | Episode 11 |
-| Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 620 |
+| Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 621 |
 | Utagoe wa Mille-Feuille | Harmony of Mille-Feuille | https://anilist.co/anime/166215 | Episode 9 |
 | Jigoku Sensei Nube (2025) | Hell Teacher: Jigoku Sensei Nube (2025) | https://anilist.co/anime/179678 | Episode 11 |
 | Himitsu no AiPri: Ring-hen | Himitsu no AiPri: Ring-hen | https://anilist.co/anime/184470 | Episode 23 |
