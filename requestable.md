@@ -90,7 +90,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tsuyokute New Saga | New Saga | https://anilist.co/anime/155838 | Episode 11 |
 | Yoru wa Neko to Issho Season 3 | Nights with a Cat Season 3 | https://anilist.co/anime/175137 | Episode 40 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 183 |
-| Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 23 |
+| Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 24 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 47 |
 | Nukitashi THE ANIMATION | Nukitashi THE ANIMATION | https://anilist.co/anime/174188 | Episode 8 |
 | Nyaight of the Living Cat | Nyaight of the Living Cat | https://anilist.co/anime/175124 | Episode 10 |
