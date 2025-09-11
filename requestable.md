@@ -50,7 +50,7 @@ These shows have had episodes air already, but no thread was created because the
 | Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru | Betrothed to My Sister's Ex | https://anilist.co/anime/179879 | Episode 10 |
 | Busu ni Hanataba wo. | Busu ni Hanataba wo. | https://anilist.co/anime/156395 | Episode 10 |
 | Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen | CARDFIGHT!! VANGUARD Divinez DELUXE Finals | https://anilist.co/anime/191994 | Episode 9 |
-| Muchuu sa, Kimi ni. | Captivated, By You | https://anilist.co/anime/183128 | Episode 3 |
+| Muchuu sa, Kimi ni. | Captivated, By You | https://anilist.co/anime/183128 | Episode 4 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1174 |
 | ChaO | ChaO | https://anilist.co/anime/186169 | Episode 1 |
 | Chibi Godzilla no Gyakushuu 3 | Chibi Godzilla Raids Again Season 3 | https://anilist.co/anime/193883 | Episode 11 |
@@ -71,7 +71,7 @@ These shows have had episodes air already, but no thread was created because the
 | Grand Blue Season 2 | Grand Blue Dreaming Season 2 | https://anilist.co/anime/182309 | Episode 10 |
 | Haigakura | Haigakura | https://anilist.co/anime/168537 | Episode 10 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 620 |
-| Utagoe wa Mille-Feuille | Harmony of Mille-Feuille | https://anilist.co/anime/166215 | Episode 8 |
+| Utagoe wa Mille-Feuille | Harmony of Mille-Feuille | https://anilist.co/anime/166215 | Episode 9 |
 | Jigoku Sensei Nube (2025) | Hell Teacher: Jigoku Sensei Nube (2025) | https://anilist.co/anime/179678 | Episode 11 |
 | Himitsu no AiPri: Ring-hen | Himitsu no AiPri: Ring-hen | https://anilist.co/anime/184470 | Episode 23 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 330 |
