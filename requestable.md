@@ -152,4 +152,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Hyakuemu. | 100 METERS | https://anilist.co/anime/177687 | September 18 at 15:00 |
 | Chainsaw Man: Reze-hen | Chainsaw Man – The Movie: Reze Arc | https://anilist.co/anime/171627 | September 18 at 16:00 |
 | Chikyuu no Latair | Chikyuu no Latair | https://anilist.co/anime/198408 | September 12 at 10:40 |
+| Sumikko Gurashi: Koko ga Ochitsukun Desu | Sumikko Gurashi: Koko ga Ochitsukun Desu | https://anilist.co/anime/188884 | September 18 at 23:30 |
 {.dense}
