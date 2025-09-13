@@ -61,7 +61,7 @@ These shows have had episodes air already, but no thread was created because the
 | Binan Koukou Chikyuu Bouei-bu Haikara! | Cute High Earth Defense Club Hi-CARA! | https://anilist.co/anime/188138 | Episode 10 |
 | Mikadono Sanshimai wa Angai, Choroi. | Dealing with Mikadono Sisters Is a Breeze | https://anilist.co/anime/178886 | Episode 11 |
 | Dekin no Mogura | Dekin no Mogura: The Earthbound Mole | https://anilist.co/anime/184574 | Episode 10 |
-| Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 879 |
+| Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 880 |
 | Dr. STONE: SCIENCE FUTURE Part 2 | Dr. STONE SCIENCE FUTURE Cour 2 | https://anilist.co/anime/189117 | Episode 10 |
 | Everyday Host | Everyday Host | https://anilist.co/anime/185584 | Episode 23 |
 | Fermat no Ryouri | Fermat Kitchen | https://anilist.co/anime/186003 | Episode 9 |
