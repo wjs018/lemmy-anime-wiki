@@ -133,6 +133,7 @@ Episode|Link
 7|[Link](https://ani.social/post/19002378)
 8|[Link](https://ani.social/post/19237698)
 9|[Link](https://ani.social/post/19589801)
+10|[Link](https://ani.social/post/19950340)
 {.dense}
 
 ## Ginga Tokkyuu Milky☆Subway • Milky☆Subway: The Galactic Limited Express
