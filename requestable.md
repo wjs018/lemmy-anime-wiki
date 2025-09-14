@@ -29,7 +29,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kaoru Hana wa Rin to Saku | The Fragrant Flower Blooms With Dignity | https://anilist.co/anime/181444 | [Link](https://ani.social/post/19901652) |
 | Watashi ga Koibito ni Nareru Wake Naijan, Murimuri! (※Muri ja Nakatta!?) | There's No Freaking Way I'll Be Your Lover! Unless... | https://anilist.co/anime/184591 | [Link](https://ani.social/post/19645851) |
 | Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | [Link](https://ani.social/post/19842720) |
-| Witch Watch | Witch Watch | https://anilist.co/anime/180367 | [Link](https://ani.social/post/19224783) |
+| Witch Watch | Witch Watch | https://anilist.co/anime/180367 | [Link](https://ani.social/post/19934377) |
 {.dense}
 
 ## Requestable Shows
