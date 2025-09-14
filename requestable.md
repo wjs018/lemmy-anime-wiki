@@ -19,7 +19,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Yofukashi no Uta Season 2 | Call of the Night Season 2 | https://anilist.co/anime/175914 | [Link](https://ani.social/post/19844054) |
 | Dandadan 2nd Season | DAN DA DAN Season 2 | https://anilist.co/anime/185660 | [Link](https://ani.social/post/19795125) |
 | Mattaku Saikin no Tantei to Kitara | Detectives These Days Are Crazy! | https://anilist.co/anime/180460 | [Link](https://ani.social/post/19691358) |
-| Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | [Link](https://ani.social/post/19589801) |
+| Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | [Link](https://ani.social/post/19950340) |
 | Kaijuu 8-gou 2nd Season | Kaiju No. 8 Season 2 | https://anilist.co/anime/178754 | [Link](https://ani.social/post/19894756) |
 | Ginga Tokkyuu Milky☆Subway | Milky☆Subway: The Galactic Limited Express | https://anilist.co/anime/189069 | [Link](https://ani.social/post/19787638) |
 | Sono Bisque Doll wa Koi wo Suru Season 2 | My Dress-Up Darling Season 2 | https://anilist.co/anime/154768 | [Link](https://ani.social/post/19900827) |
@@ -56,7 +56,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chikyuu no Latair | Chikyuu no Latair | https://anilist.co/anime/198408 | Episode 2 |
 | Hitozuma no Kuchibiru wa Kan Chu-Hi no Aji ga Shite | Chuhai Lips: Canned Flavor of Married Women | https://anilist.co/anime/186789 | Episode 8 |
 | Clevatess: Majuu no Ou to Akago to Kabane no Yuusha | Clevatess | https://anilist.co/anime/178869 | Episode 11 |
-| GaCen Shoujo to Ibunka Kouryuu | Cultural Exchange with a Game Centre Girl | https://anilist.co/anime/180794 | Episode 9 |
+| GaCen Shoujo to Ibunka Kouryuu | Cultural Exchange with a Game Centre Girl | https://anilist.co/anime/180794 | Episode 10 |
 | Binan Koukou Chikyuu Bouei-bu Haikara! | Cute High Earth Defense Club Hi-CARA! | https://anilist.co/anime/188138 | Episode 10 |
 | Mikadono Sanshimai wa Angai, Choroi. | Dealing with Mikadono Sisters Is a Breeze | https://anilist.co/anime/178886 | Episode 11 |
 | Dekin no Mogura | Dekin no Mogura: The Earthbound Mole | https://anilist.co/anime/184574 | Episode 11 |
@@ -94,7 +94,7 @@ These shows have had episodes air already, but no thread was created because the
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 48 |
 | Nukitashi THE ANIMATION | Nukitashi THE ANIMATION | https://anilist.co/anime/174188 | Episode 9 |
 | Nyaight of the Living Cat | Nyaight of the Living Cat | https://anilist.co/anime/175124 | Episode 11 |
-| ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1142 |
+| ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1143 |
 | Odekake Kozame: Tokai no Otomodachi | Odekake Kozame: Tokai no Otomodachi | https://anilist.co/anime/177518 | Episode 1 |
 | Onmyo Kaiten Re:verse | Onmyo Kaiten Re:Birth Verse | https://anilist.co/anime/187387 | Episode 11 |
 | PetitCure: Precure Fairies | PetitCure: Precure Fairies | https://anilist.co/anime/188394 | Episode 25 |
@@ -131,7 +131,7 @@ These shows have had episodes air already, but no thread was created because the
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 10 |
 | Turkey! | Turkey! Time to Strike | https://anilist.co/anime/159483 | Episode 10 |
 | Uchuujin MuuMuu | Uchuujin MuuMuu | https://anilist.co/anime/185070 | Episode 23 |
-| Busamen Gachi Fighter | Uglymug, Epicfighter | https://anilist.co/anime/184575 | Episode 10 |
+| Busamen Gachi Fighter | Uglymug, Epicfighter | https://anilist.co/anime/184575 | Episode 11 |
 | Watari-kun no xx ga Houkai Sunzen | Watari-kun's ****** Is about to Collapse | https://anilist.co/anime/169420 | Episode 11 |
 | Tsuihousha Shokudou e Youkoso! | Welcome to the Outcast's Restaurant! | https://anilist.co/anime/185544 | Episode 11 |
 | Kizu darake Seijo yori Houfuku wo Komete | With Vengeance, Sincerely, Your Broken Saintess | https://anilist.co/anime/195209 | Episode 10 |
