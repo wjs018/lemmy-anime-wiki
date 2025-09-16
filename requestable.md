@@ -148,6 +148,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Hyakuemu. | 100 METERS | https://anilist.co/anime/177687 | September 18 at 15:00 |
+| Cat's♥Eye (2025) | Cat's♥Eye (2025) | https://anilist.co/anime/184718 | September 26 at 07:00 |
 | Chainsaw Man: Reze-hen | Chainsaw Man – The Movie: Reze Arc | https://anilist.co/anime/171627 | September 18 at 16:00 |
 | Towa no Yuugure | Dusk Beyond the End of the World | https://anilist.co/anime/195153 | September 25 at 15:26 |
 | Future Kid Takara | Future Kid Takara | https://anilist.co/anime/159981 | September 25 at 07:00 |
