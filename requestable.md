@@ -154,4 +154,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Shuukan Ranobe Anime | Shuukan Ranobe Anime | https://anilist.co/anime/198745 | September 20 at 18:00 |
 | Sumikko Gurashi: Koko ga Ochitsukun Desu | Sumikko Gurashi: Koko ga Ochitsukun Desu | https://anilist.co/anime/188884 | September 18 at 23:30 |
 | TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | September 21 at 00:30 |
+| Yasei no Last Boss ga Arawareta! | Yasei no Last Boss ga Arawareta! | https://anilist.co/anime/180523 | September 27 at 13:30 |
 {.dense}
