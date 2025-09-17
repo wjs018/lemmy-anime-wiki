@@ -104,6 +104,7 @@ These shows have had episodes air already, but no thread was created because the
 | Puniru wa Kawaii Slime 2nd Season | Puniru is a Kawaii Slime Season 2 | https://anilist.co/anime/185755 | Episode 11 |
 | Punirunes Puni 3 | Punirunes Puni 3 | https://anilist.co/anime/188653 | Episode 11 |
 | Seishun Buta Yarou wa Santa Claus no Yume wo Minai | Rascal Does Not Dream of Santa Claus | https://anilist.co/anime/171046 | Episode 11 |
+| Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season | Reborn as a Vending Machine, I Now Wander the Dungeon Season 2 | https://anilist.co/anime/169440 | Episode 12 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 106 |
 | Kanojo, Okarishimasu 4th Season | Rent-a-Girlfriend Season 4 | https://anilist.co/anime/179344 | Episode 12 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 24 |
@@ -150,7 +151,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Chainsaw Man: Reze-hen | Chainsaw Man – The Movie: Reze Arc | https://anilist.co/anime/171627 | September 18 at 16:00 |
 | Towa no Yuugure | Dusk Beyond the End of the World | https://anilist.co/anime/195153 | September 25 at 15:26 |
 | Future Kid Takara | Future Kid Takara | https://anilist.co/anime/159981 | September 25 at 07:00 |
-| Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season | Reborn as a Vending Machine, I Now Wander the Dungeon Season 2 | https://anilist.co/anime/169440 | September 17 at 14:00 |
 | Shuukan Ranobe Anime | Shuukan Ranobe Anime | https://anilist.co/anime/198745 | September 20 at 18:00 |
 | Sumikko Gurashi: Koko ga Ochitsukun Desu | Sumikko Gurashi: Koko ga Ochitsukun Desu | https://anilist.co/anime/188884 | September 18 at 23:30 |
 | TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | September 21 at 00:30 |
