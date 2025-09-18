@@ -50,6 +50,7 @@ These shows have had episodes air already, but no thread was created because the
 | Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen | CARDFIGHT!! VANGUARD Divinez DELUXE Finals | https://anilist.co/anime/191994 | Episode 9 |
 | Muchuu sa, Kimi ni. | Captivated, By You | https://anilist.co/anime/183128 | Episode 5 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1175 |
+| Chainsaw Man: Reze-hen | Chainsaw Man – The Movie: Reze Arc | https://anilist.co/anime/171627 | Episode 1 |
 | Chibi Godzilla no Gyakushuu 3 | Chibi Godzilla Raids Again Season 3 | https://anilist.co/anime/193883 | Episode 12 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 276 |
 | Chikyuu no Latair | Chikyuu no Latair | https://anilist.co/anime/198408 | Episode 2 |
@@ -77,13 +78,12 @@ These shows have had episodes air already, but no thread was created because the
 | Host ni Iroiro Kiitemita! | Host ni Iroiro Kiitemita! | https://anilist.co/anime/198948 | Episode 7 |
 | Hotel Inhumans | Hotel Inhumans | https://anilist.co/anime/184034 | Episode 11 |
 | Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu 2nd Season | I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2 | https://anilist.co/anime/178090 | Episode 11 |
-| Kamitsubaki-shi Kensetsuchuu. | KAMITSUBAKI CITY UNDER CONSTRUCTION | https://anilist.co/anime/173335 | Episode 11 |
+| Kamitsubaki-shi Kensetsuchuu. | KAMITSUBAKI CITY UNDER CONSTRUCTION | https://anilist.co/anime/173335 | Episode 12 |
 | Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 24 |
 | Kimi to Idol Precure♪ Omatase! Kimi ni Todokeru KirakkiLive! | Kimi to Idol Precure♪ Omatase! Kimi ni Todokeru KirakkiLive! | https://anilist.co/anime/183414 | Episode 1 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 24 |
 | Karaoke Iko! | Let's Go Karaoke! | https://anilist.co/anime/183127 | Episode 5 |
 | Guimi Zhi Zhu | Lord of Mysteries | https://anilist.co/anime/137667 | Episode 13 |
-| MILGRAM Third Season | MILGRAM The Third Trial | https://anilist.co/anime/186495 | Episode 2 |
 | Osomatsu-san 4 | Mr. Osomatsu 4th Season | https://anilist.co/anime/177880 | Episode 11 |
 | Necronomico no Cosmic Horror Show | Necronomico and the Cosmic Horror Show | https://anilist.co/anime/185505 | Episode 12 |
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 49 |
@@ -134,7 +134,7 @@ These shows have had episodes air already, but no thread was created because the
 | Uchuujin MuuMuu | Uchuujin MuuMuu | https://anilist.co/anime/185070 | Episode 24 |
 | Busamen Gachi Fighter | Uglymug, Epicfighter | https://anilist.co/anime/184575 | Episode 11 |
 | Watari-kun no xx ga Houkai Sunzen | Watari-kun's ****** Is about to Collapse | https://anilist.co/anime/169420 | Episode 11 |
-| Tsuihousha Shokudou e Youkoso! | Welcome to the Outcast's Restaurant! | https://anilist.co/anime/185544 | Episode 11 |
+| Tsuihousha Shokudou e Youkoso! | Welcome to the Outcast's Restaurant! | https://anilist.co/anime/185544 | Episode 12 |
 | Kizu darake Seijo yori Houfuku wo Komete | With Vengeance, Sincerely, Your Broken Saintess | https://anilist.co/anime/195209 | Episode 11 |
 | Ame to Kimi to | With You and the Rain | https://anilist.co/anime/180425 | Episode 11 |
 | Shin Samurai-den YAIBA | YAIBA: Samurai Legend | https://anilist.co/anime/177476 | Episode 22 |
@@ -149,7 +149,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Cat's♥Eye (2025) | Cat's♥Eye (2025) | https://anilist.co/anime/184718 | September 26 at 07:00 |
-| Chainsaw Man: Reze-hen | Chainsaw Man – The Movie: Reze Arc | https://anilist.co/anime/171627 | September 18 at 16:00 |
 | Towa no Yuugure | Dusk Beyond the End of the World | https://anilist.co/anime/195153 | September 25 at 15:26 |
 | Future Kid Takara | Future Kid Takara | https://anilist.co/anime/159981 | September 25 at 07:00 |
 | Shuukan Ranobe Anime | Shuukan Ranobe Anime | https://anilist.co/anime/198745 | September 20 at 18:00 |
