@@ -103,6 +103,7 @@ Episode|Link
 :-:|:-:
 2|[Link](https://ani.social/post/17212751)
 3|[Link](https://ani.social/post/17245777)
+11|[Link](https://ani.social/post/20165492)
 {.dense}
 
 ## Food Court de, Mata Ashita. • See You Tomorrow at the Food Court
