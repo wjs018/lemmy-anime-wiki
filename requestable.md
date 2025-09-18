@@ -36,6 +36,7 @@ These shows have had episodes air already, but no thread was created because the
 
 | Show Name | English Show Name | AniList Link | Most Recently Episode Number  |
 | :-------- | :---------------- | :----------- | :--------------------------: |
+| Hyakuemu. | 100 METERS | https://anilist.co/anime/177687 | Episode 1 |
 | 9-nine- Shihaisha no Oukan | 9-nine- Shihaisha no Oukan | https://anilist.co/anime/177761 | Episode 11 |
 | Kakkou no Iinazuke Season 2 | A Couple of Cuckoos Season 2 | https://anilist.co/anime/179828 | Episode 11 |
 | AS ONE | AS ONE | https://anilist.co/anime/187317 | Episode 1 |
@@ -147,7 +148,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
-| Hyakuemu. | 100 METERS | https://anilist.co/anime/177687 | September 18 at 15:00 |
 | Cat's♥Eye (2025) | Cat's♥Eye (2025) | https://anilist.co/anime/184718 | September 26 at 07:00 |
 | Chainsaw Man: Reze-hen | Chainsaw Man – The Movie: Reze Arc | https://anilist.co/anime/171627 | September 18 at 16:00 |
 | Towa no Yuugure | Dusk Beyond the End of the World | https://anilist.co/anime/195153 | September 25 at 15:26 |
