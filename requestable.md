@@ -54,7 +54,7 @@ These shows have had episodes air already, but no thread was created because the
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1175 |
 | Chainsaw Man: Reze-hen | Chainsaw Man – The Movie: Reze Arc | https://anilist.co/anime/171627 | Episode 1 |
 | Chibi Godzilla no Gyakushuu 3 | Chibi Godzilla Raids Again Season 3 | https://anilist.co/anime/193883 | Episode 12 |
-| Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 276 |
+| Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 277 |
 | Chikyuu no Latair | Chikyuu no Latair | https://anilist.co/anime/198408 | Episode 2 |
 | GaCen Shoujo to Ibunka Kouryuu | Cultural Exchange with a Game Centre Girl | https://anilist.co/anime/180794 | Episode 10 |
 | Binan Koukou Chikyuu Bouei-bu Haikara! | Cute High Earth Defense Club Hi-CARA! | https://anilist.co/anime/188138 | Episode 11 |
