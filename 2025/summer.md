@@ -239,6 +239,7 @@ Episode|Link
 7|[Link](https://ani.social/post/19186729)
 8|[Link](https://ani.social/post/19535986)
 9|[Link](https://ani.social/post/19894756)
+10|[Link](https://ani.social/post/20257518)
 {.dense}
 
 ## Kaoru Hana wa Rin to Saku • The Fragrant Flower Blooms With Dignity
