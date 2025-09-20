@@ -112,6 +112,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 45 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1302 |
 | Shinobanai! Crypto Ninja Sakuya San no Maki | Shinobanai! Crypto Ninja Sakuya San no Maki | https://anilist.co/anime/181867 | Episode 11 |
+| Shuukan Ranobe Anime | Shuukan Ranobe Anime | https://anilist.co/anime/198745 | Episode 11 |
 | Futari Solo Camp | Solo Camping for Two | https://anilist.co/anime/185965 | Episode 11 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1716 |
 | Sousou no Frieren: ●● no Mahou Part 2 | Sousou no Frieren: ●● no Mahou Part 2 | https://anilist.co/anime/189513 | Episode 6 |
@@ -151,7 +152,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Future Kid Takara | Future Kid Takara | https://anilist.co/anime/159981 | September 25 at 07:00 |
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | September 30 at 04:00 |
 | Karaoke Iko! | Let's Go Karaoke! | https://anilist.co/anime/183127 | September 25 at 13:30 |
-| Shuukan Ranobe Anime | Shuukan Ranobe Anime | https://anilist.co/anime/198745 | September 20 at 18:00 |
 | TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | September 21 at 00:30 |
 | Yano-kun no Futsuu no Hibi | Yano-kun's Ordinary Days | https://anilist.co/anime/183965 | September 30 at 16:36 |
 | Yasei no Last Boss ga Arawareta! | Yasei no Last Boss ga Arawareta! | https://anilist.co/anime/180523 | September 27 at 13:30 |
