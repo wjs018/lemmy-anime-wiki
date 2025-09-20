@@ -536,3 +536,10 @@ Episode|Link
 8|[Link](https://ani.social/post/18802104)
 {.dense}
 
+## bâan: Otona no Kyoukai • bâan: The Boundary of Adulthood
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/20273566)
+{.dense}
+
