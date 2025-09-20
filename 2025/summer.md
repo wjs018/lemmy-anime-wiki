@@ -409,6 +409,7 @@ Episode|Link
 9|[Link](https://ani.social/post/19191686)
 10|[Link](https://ani.social/post/19540595)
 11|[Link](https://ani.social/post/19900827)
+12|[Link](https://ani.social/post/20263263)
 {.dense}
 
 ## Takopii no Genzai • Takopi's Original Sin
