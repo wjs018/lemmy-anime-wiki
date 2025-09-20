@@ -113,7 +113,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yuusha Party wo Tsuihou Sareta Shiro Madoushi, S Rank Boukensha ni Hirowareru: Kono Shiro Madoushi ga Kikakugaisugiru | Scooped Up by an S-Rank Adventurer! | https://anilist.co/anime/179885 | Episode 11 |
 | Silent Witch: Chinmoku no Majo no Kakushigoto | Secrets of the Silent Witch | https://anilist.co/anime/179966 | Episode 11 |
 | Shendao Dizun | Shendao Dizun | https://anilist.co/anime/185794 | Episode 45 |
-| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1301 |
+| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1302 |
 | Shinobanai! Crypto Ninja Sakuya San no Maki | Shinobanai! Crypto Ninja Sakuya San no Maki | https://anilist.co/anime/181867 | Episode 11 |
 | Futari Solo Camp | Solo Camping for Two | https://anilist.co/anime/185965 | Episode 11 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1716 |
