@@ -147,6 +147,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Towa no Yuugure | Dusk Beyond the End of the World | https://anilist.co/anime/195153 | September 25 at 15:26 |
 | Future Kid Takara | Future Kid Takara | https://anilist.co/anime/159981 | September 25 at 07:00 |
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | September 30 at 04:00 |
+| Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga | Hero Without a Class: Who Even Needs Skills?! | https://anilist.co/anime/169969 | October 01 at 13:00 |
 | Karaoke Iko! | Let's Go Karaoke! | https://anilist.co/anime/183127 | September 25 at 13:30 |
 | MUZIK TIGER In the Forest 2 | MUZIK TIGER In the Forest 2 | https://anilist.co/anime/195383 | October 01 at 10:59 |
 | Yano-kun no Futsuu no Hibi | Yano-kun's Ordinary Days | https://anilist.co/anime/183965 | September 30 at 16:36 |
