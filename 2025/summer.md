@@ -354,6 +354,7 @@ Episode|Link
 9|[Link](https://ani.social/post/19281784)
 10|[Link](https://ani.social/post/19584752)
 11|[Link](https://ani.social/post/19944409)
+12|[Link](https://ani.social/post/20305788)
 {.dense}
 
 ## SAKAMOTO DAYS Part 2
