@@ -89,7 +89,7 @@ Episode|Link
 4|[Link](https://ani.social/post/12654185)
 {.dense}
 
-## Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara.
+## Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara. • The Mononoke Lecture Logs of Chuzenji-sensei: He Just Solves All the Mysteries
 
 Episode|Link
 :-:|:-:
