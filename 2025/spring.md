@@ -514,7 +514,7 @@ Episode|Link|Episode|Link
 8|[Link](https://ani.social/post/14103341)|21|[Link](https://ani.social/post/18876708)
 9|[Link](https://ani.social/post/14476556)|22|[Link](https://ani.social/post/19224783)
 10|[Link](https://ani.social/post/14910334)|23|[Link](https://ani.social/post/19934377)
-11|[Link](https://ani.social/post/15277532)
+11|[Link](https://ani.social/post/15277532)|24|[Link](https://ani.social/post/20297394)
 12|[Link](https://ani.social/post/15648987)
 13|[Link](https://ani.social/post/16013185)
 {.dense}
