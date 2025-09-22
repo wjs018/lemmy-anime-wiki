@@ -16,14 +16,18 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | :-------- | :---------------- | :----------- | :--------------------: |
 | Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku | Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin | https://anilist.co/anime/178433 | [Link](https://ani.social/post/20308452) |
 | CITY THE ANIMATION | CITY THE ANIMATION | https://anilist.co/anime/181841 | [Link](https://ani.social/post/20312357) |
+| Tondemo Skill de Isekai Hourou Meshi 2 | Campfire Cooking in Another World with my Absurd Skill Season 2 | https://anilist.co/anime/170577 |  |
 | Dr. STONE: SCIENCE FUTURE Part 2 | Dr. STONE SCIENCE FUTURE Cour 2 | https://anilist.co/anime/189117 | [Link](https://ani.social/post/20165492) |
+| Towa no Yuugure | Dusk Beyond the End of the World | https://anilist.co/anime/195153 |  |
 | Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | [Link](https://ani.social/post/20311331) |
 | Kaijuu 8-gou 2nd Season | Kaiju No. 8 Season 2 | https://anilist.co/anime/178754 | [Link](https://ani.social/post/20257518) |
+| One Punch Man 3 | One-Punch Man Season 3 | https://anilist.co/anime/153800 |  |
 | Ruri no Houseki | Ruri Rocks | https://anilist.co/anime/180929 | [Link](https://ani.social/post/20305788) |
 | Kaoru Hana wa Rin to Saku | The Fragrant Flower Blooms With Dignity | https://anilist.co/anime/181444 | [Link](https://ani.social/post/20264011) |
 | Hikaru ga Shinda Natsu | The Summer Hikaru Died | https://anilist.co/anime/177689 | [Link](https://ani.social/post/20285679) |
 | Watashi ga Koibito ni Nareru Wake Naijan, Murimuri! (※Muri ja Nakatta!?) | There's No Freaking Way I'll Be Your Lover! Unless... | https://anilist.co/anime/184591 | [Link](https://ani.social/post/20005488) |
 | Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | [Link](https://ani.social/post/20208314) |
+| Shuumatsu Touring | Touring After the Apocalypse | https://anilist.co/anime/186920 |  |
 | Witch Watch | Witch Watch | https://anilist.co/anime/180367 | [Link](https://ani.social/post/20297394) |
 {.dense}
 
@@ -144,7 +148,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Souzai Saishuka no Isekai Ryokouki | A Gatherer's Adventure in Isekai | https://anilist.co/anime/187663 | September 29 at 15:30 |
 | Yasei no Last Boss ga Arawareta! | A Wild Last Boss Appeared! | https://anilist.co/anime/180523 | September 27 at 13:30 |
 | Cat's♥Eye (2025) | Cat's Eye | https://anilist.co/anime/184718 | September 26 at 07:00 |
-| Towa no Yuugure | Dusk Beyond the End of the World | https://anilist.co/anime/195153 | September 25 at 15:26 |
 | Future Kid Takara | Future Kid Takara | https://anilist.co/anime/159981 | September 25 at 07:00 |
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | September 30 at 04:00 |
 | Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga | Hero Without a Class: Who Even Needs Skills?! | https://anilist.co/anime/169969 | October 01 at 13:00 |
