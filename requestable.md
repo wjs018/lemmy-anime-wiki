@@ -156,6 +156,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Future Kid Takara | Future Kid Takara | https://anilist.co/anime/159981 | September 25 at 07:00 |
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | September 30 at 04:00 |
 | Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga | Hero Without a Class: Who Even Needs Skills?! | https://anilist.co/anime/169969 | October 01 at 13:00 |
+| Koala Enikki | Koala Enikki | https://anilist.co/anime/194389 | October 02 at 11:00 |
 | Karaoke Iko! | Let's Go Karaoke! | https://anilist.co/anime/183127 | September 25 at 13:30 |
 | Let’s Play: Quest Darake no My Life | Let’s Play | https://anilist.co/anime/193968 | October 01 at 15:46 |
 | MUZIK TIGER In the Forest 2 | MUZIK TIGER In the Forest 2 | https://anilist.co/anime/195383 | October 01 at 10:59 |
