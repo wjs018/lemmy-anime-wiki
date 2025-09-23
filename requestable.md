@@ -44,7 +44,7 @@ These shows have had episodes air already, but no thread was created because the
 | :-------- | :---------------- | :----------- | :--------------------------: |
 | Hyakuemu. | 100 METERS | https://anilist.co/anime/177687 | Episode 1 |
 | 9-nine- Shihaisha no Oukan | 9-nine- Shihaisha no Oukan | https://anilist.co/anime/177761 | Episode 12 |
-| Kakkou no Iinazuke Season 2 | A Couple of Cuckoos Season 2 | https://anilist.co/anime/179828 | Episode 11 |
+| Kakkou no Iinazuke Season 2 | A Couple of Cuckoos Season 2 | https://anilist.co/anime/179828 | Episode 12 |
 | Anne Shirley | Anne Shirley | https://anilist.co/anime/184639 | Episode 23 |
 | Araiguma Calcal-dan | Araiguma Calcal-dan | https://anilist.co/anime/186522 | Episode 24 |
 | Arknights: Enshin Shomei | Arknights: RISE FROM EMBER | https://anilist.co/anime/177175 | Episode 10 |
@@ -165,6 +165,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Karaoke Iko! | Let's Go Karaoke! | https://anilist.co/anime/183127 | September 25 at 13:30 |
 | Let’s Play: Quest Darake no My Life | Let’s Play | https://anilist.co/anime/193968 | October 01 at 15:46 |
 | MUZIK TIGER In the Forest 2 | MUZIK TIGER In the Forest 2 | https://anilist.co/anime/195383 | October 01 at 10:59 |
+| Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka | May I Ask for One Final Thing? | https://anilist.co/anime/181447 | October 03 at 15:00 |
 | Shinjiteita Nakamatachi ni Dungeon Okuchi de Korosarekaketa ga Gift "Mugen Gacha" de Level 9999 no Nakamatachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu and "Zamaa!" Shimasu! | My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge! | https://anilist.co/anime/184322 | October 03 at 14:30 |
 | Nohara Hiroshi: Hiru Meshi no Ryuugi | Nohara Hiroshi: Hiru Meshi no Ryuugi | https://anilist.co/anime/187860 | October 03 at 02:00 |
 | Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu! | Pass the Monster Meat, Milady! | https://anilist.co/anime/183291 | October 01 at 16:28 |
