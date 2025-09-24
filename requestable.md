@@ -139,7 +139,7 @@ These shows have had episodes air already, but no thread was created because the
 | Busamen Gachi Fighter | Uglymug, Epicfighter | https://anilist.co/anime/184575 | Episode 12 |
 | Watari-kun no xx ga Houkai Sunzen | Watari-kun's ****** Is about to Collapse | https://anilist.co/anime/169420 | Episode 12 |
 | Tsuihousha Shokudou e Youkoso! | Welcome to the Outcast's Restaurant! | https://anilist.co/anime/185544 | Episode 12 |
-| Kizu darake Seijo yori Houfuku wo Komete | With Vengeance, Sincerely, Your Broken Saintess | https://anilist.co/anime/195209 | Episode 11 |
+| Kizu darake Seijo yori Houfuku wo Komete | With Vengeance, Sincerely, Your Broken Saintess | https://anilist.co/anime/195209 | Episode 12 |
 | Ame to Kimi to | With You and the Rain | https://anilist.co/anime/180425 | Episode 12 |
 | Shin Samurai-den YAIBA | YAIBA: Samurai Legend | https://anilist.co/anime/177476 | Episode 23 |
 | Kimi to Idol Precure♪ | You and Idol Precure ♪ | https://anilist.co/anime/185073 | Episode 33 |
@@ -171,6 +171,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Let’s Play: Quest Darake no My Life | Let’s Play | https://anilist.co/anime/193968 | October 01 at 15:46 |
 | MUZIK TIGER In the Forest 2 | MUZIK TIGER In the Forest 2 | https://anilist.co/anime/195383 | October 01 at 10:59 |
 | Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka | May I Ask for One Final Thing? | https://anilist.co/anime/181447 | October 03 at 15:00 |
+| Tomodachi no Imouto ga Ore ni dake Uzai | My Friend's Little Sister Has It In for Me! | https://anilist.co/anime/129195 | October 04 at 16:30 |
 | Shinjiteita Nakamatachi ni Dungeon Okuchi de Korosarekaketa ga Gift "Mugen Gacha" de Level 9999 no Nakamatachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu and "Zamaa!" Shimasu! | My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge! | https://anilist.co/anime/184322 | October 03 at 14:30 |
 | Boku no Hero Academia FINAL SEASON | My Hero Academia FINAL SEASON | https://anilist.co/anime/182896 | October 04 at 08:30 |
 | Nohara Hiroshi: Hiru Meshi no Ryuugi | Nohara Hiroshi: Hiru Meshi no Ryuugi | https://anilist.co/anime/187860 | October 03 at 02:00 |
