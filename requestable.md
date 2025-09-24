@@ -162,6 +162,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | September 30 at 04:00 |
 | Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga | Hero Without a Class: Who Even Needs Skills?! | https://anilist.co/anime/169969 | October 01 at 13:00 |
 | Hyakushou Kizoku 3rd Season | Hyakushou Kizoku 3rd Season | https://anilist.co/anime/185694 | October 03 at 12:54 |
+| Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun | Inexpressive Kashiwada and Expressive Oota | https://anilist.co/anime/187940 | October 04 at 12:00 |
 | JOCHUM Season 2 | JOCHUM Season 2 | https://anilist.co/anime/198413 | October 03 at 21:00 |
 | Kagaku×Bouken Survival! 2nd Season | Kagaku×Bouken Survival! 2nd Season | https://anilist.co/anime/186736 | October 04 at 09:25 |
 | Koala Enikki | Koala Enikki | https://anilist.co/anime/194389 | October 02 at 11:00 |
