@@ -485,6 +485,7 @@ Episode|Link
 6|[Link](https://ani.social/post/18268723)
 7|[Link](https://ani.social/post/18652267)
 8|[Link](https://ani.social/post/18996303)
+12|[Link](https://ani.social/post/20471307)
 {.dense}
 
 ## Utagoe wa Mille-Feuille • Harmony of Mille-Feuille
