@@ -181,6 +181,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Ranma 1/2 (2024) 2nd Season | Ranma1/2 (2024) Season 2 | https://anilist.co/anime/185731 | October 04 at 15:55 |
 | SANDA | SANDA | https://anilist.co/anime/179302 | October 03 at 16:53 |
 | SHIBUYA♡HACHI Part 4 | SHIBUYA♡HACHI Part 4 | https://anilist.co/anime/195173 | October 03 at 21:00 |
+| SI-VIS: The Sound of Heroes | SI-VIS: The Sound of Heroes | https://anilist.co/anime/196553 | October 05 at 00:30 |
 | Shabake | Shabake | https://anilist.co/anime/184997 | October 03 at 14:30 |
 | Sylvanian Families: Freya no Wonder Days | Sylvanian Families: Freya no Wonder Days | https://anilist.co/anime/198921 | October 02 at 11:22 |
 | Kekkon Yubiwa Monogatari 2nd Season | Tales of Wedding Rings Season 2 | https://anilist.co/anime/176298 | October 04 at 12:30 |
