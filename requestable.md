@@ -54,7 +54,7 @@ These shows have had episodes air already, but no thread was created because the
 | Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru | Betrothed to My Sister's Ex | https://anilist.co/anime/179879 | Episode 12 |
 | Busu ni Hanataba wo. | Busu ni Hanataba wo. | https://anilist.co/anime/156395 | Episode 12 |
 | Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen | CARDFIGHT!! VANGUARD Divinez DELUXE Finals | https://anilist.co/anime/191994 | Episode 10 |
-| Muchuu sa, Kimi ni. | Captivated, By You | https://anilist.co/anime/183128 | Episode 5 |
+| Muchuu sa, Kimi ni. | Captivated, By You | https://anilist.co/anime/183128 | Episode 6 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1176 |
 | Chainsaw Man: Reze-hen | Chainsaw Man – The Movie: Reze Arc | https://anilist.co/anime/171627 | Episode 1 |
 | Chibi Godzilla no Gyakushuu 3 | Chibi Godzilla Raids Again Season 3 | https://anilist.co/anime/193883 | Episode 13 |
@@ -160,6 +160,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Bukiyou na Senpai. | Bukiyou na Senpai. | https://anilist.co/anime/185575 | October 02 at 13:00 |
 | Cat's♥Eye (2025) | Cat's Eye | https://anilist.co/anime/184718 | September 26 at 07:00 |
 | Chou Futsuu Mahou Shoujo Asumi Toruverse | Chou Futsuu Mahou Shoujo Asumi Toruverse | https://anilist.co/anime/198926 | October 02 at 13:54 |
+| Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha. | Dad is a Hero, Mom is a Spirit, I'm a Reincarnator | https://anilist.co/anime/173692 | October 05 at 14:30 |
 | GANGLION | GANGLION | https://anilist.co/anime/198117 | October 03 at 16:53 |
 | GIRLS BAND CRY: Seishun Kyousoukyoku | GIRLS BAND CRY: Seishun Kyousoukyoku | https://anilist.co/anime/186714 | October 02 at 15:00 |
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | September 30 at 04:00 |
