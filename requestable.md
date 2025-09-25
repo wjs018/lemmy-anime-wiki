@@ -154,6 +154,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Souzai Saishuka no Isekai Ryokouki | A Gatherer's Adventure in Isekai | https://anilist.co/anime/187663 | September 29 at 15:30 |
 | Taiyou yori mo Mabushii Hoshi | A Star Brighter Than the Sun | https://anilist.co/anime/186621 | October 02 at 14:56 |
 | Yasei no Last Boss ga Arawareta! | A Wild Last Boss Appeared! | https://anilist.co/anime/180523 | September 27 at 13:30 |
+| Ao no Orchestra 2nd Season | Ao no Orchestra 2nd Season | https://anilist.co/anime/170018 | October 05 at 08:00 |
 | Bukiyou na Senpai. | Bukiyou na Senpai. | https://anilist.co/anime/185575 | October 02 at 13:00 |
 | Cat's♥Eye (2025) | Cat's Eye | https://anilist.co/anime/184718 | September 26 at 07:00 |
 | Chou Futsuu Mahou Shoujo Asumi Toruverse | Chou Futsuu Mahou Shoujo Asumi Toruverse | https://anilist.co/anime/198926 | October 02 at 13:54 |
