@@ -135,6 +135,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tu Bian Yingxiong X | To Be Hero X | https://anilist.co/anime/156092 | Episode 24 |
 | Jibaku Shounen Hanako-kun 2 Part 2 | Toilet-Bound Hanako-kun Season 2 Part 2 | https://anilist.co/anime/189326 | Episode 12 |
 | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | https://anilist.co/anime/196229 | Episode 12 |
+| Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | Episode 12 |
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 10 |
 | Uchuujin MuuMuu | Uchuujin MuuMuu | https://anilist.co/anime/185070 | Episode 24 |
 | Busamen Gachi Fighter | Uglymug, Epicfighter | https://anilist.co/anime/184575 | Episode 12 |
@@ -194,7 +195,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu | The Banished Court Magician Aims to Become the Strongest | https://anilist.co/anime/188487 | October 04 at 14:30 |
 | Watashi wo Tabetai, Hitodenashi | This Monster Wants to Eat Me | https://anilist.co/anime/183385 | October 02 at 13:30 |
 | Fumetsu no Anata e Season 3 | To Your Eternity Season 3 | https://anilist.co/anime/162669 | October 04 at 14:45 |
-| Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | September 26 at 15:00 |
 | Uma Musume: Cinderella Gray Part 2 | Uma Musume: Cinderella Gray Part 2 | https://anilist.co/anime/195240 | October 05 at 07:30 |
 | Yano-kun no Futsuu no Hibi | Yano-kun's Ordinary Days | https://anilist.co/anime/183965 | September 30 at 16:36 |
 {.dense}
