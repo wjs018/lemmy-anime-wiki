@@ -60,7 +60,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chainsaw Man: Reze-hen | Chainsaw Man – The Movie: Reze Arc | https://anilist.co/anime/171627 | Episode 1 |
 | Chibi Godzilla no Gyakushuu 3 | Chibi Godzilla Raids Again Season 3 | https://anilist.co/anime/193883 | Episode 13 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 279 |
-| Chikyuu no Latair | Chikyuu no Latair | https://anilist.co/anime/198408 | Episode 3 |
+| Chikyuu no Latair | Chikyuu no Latair | https://anilist.co/anime/198408 | Episode 4 |
 | Clevatess: Majuu no Ou to Akago to Kabane no Yuusha | Clevatess | https://anilist.co/anime/178869 | Episode 11 |
 | GaCen Shoujo to Ibunka Kouryuu | Cultural Exchange with a Game Centre Girl | https://anilist.co/anime/180794 | Episode 11 |
 | Binan Koukou Chikyuu Bouei-bu Haikara! | Cute High Earth Defense Club Hi-CARA! | https://anilist.co/anime/188138 | Episode 12 |
@@ -70,7 +70,7 @@ These shows have had episodes air already, but no thread was created because the
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 881 |
 | Everyday Host | Everyday Host | https://anilist.co/anime/185584 | Episode 23 |
 | Fermat no Ryouri | Fermat Kitchen | https://anilist.co/anime/186003 | Episode 11 |
-| Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 175 |
+| Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 176 |
 | Fushigi ‌no ‌Kuni ‌de ‌Alice to: Dive ‌in ‌Wonderland | Fushigi ‌no ‌Kuni ‌de ‌Alice to: Dive ‌in ‌Wonderland | https://anilist.co/anime/186181 | Episode 1 |
 | Future Kid Takara | Future Kid Takara | https://anilist.co/anime/159981 | Episode 1 |
 | Gakkou de wa Oshiete Kurenai Taisetsu na Koto | Gakkou de wa Oshiete Kurenai Taisetsu na Koto | https://anilist.co/anime/193238 | Episode 12 |
