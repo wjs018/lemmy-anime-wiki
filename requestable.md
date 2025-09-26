@@ -56,6 +56,7 @@ These shows have had episodes air already, but no thread was created because the
 | Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen | CARDFIGHT!! VANGUARD Divinez DELUXE Finals | https://anilist.co/anime/191994 | Episode 10 |
 | Muchuu sa, Kimi ni. | Captivated, By You | https://anilist.co/anime/183128 | Episode 6 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1176 |
+| Cat's♥Eye (2025) | Cat's Eye | https://anilist.co/anime/184718 | Episode 1 |
 | Chainsaw Man: Reze-hen | Chainsaw Man – The Movie: Reze Arc | https://anilist.co/anime/171627 | Episode 1 |
 | Chibi Godzilla no Gyakushuu 3 | Chibi Godzilla Raids Again Season 3 | https://anilist.co/anime/193883 | Episode 13 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 279 |
@@ -158,7 +159,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Alma-chan wa Kazoku ni Naritai | Alma-chan Wants to Be a Family! | https://anilist.co/anime/186190 | October 05 at 14:00 |
 | Ao no Orchestra 2nd Season | Ao no Orchestra 2nd Season | https://anilist.co/anime/170018 | October 05 at 08:00 |
 | Bukiyou na Senpai. | Bukiyou na Senpai. | https://anilist.co/anime/185575 | October 02 at 13:00 |
-| Cat's♥Eye (2025) | Cat's Eye | https://anilist.co/anime/184718 | September 26 at 07:00 |
 | Chou Futsuu Mahou Shoujo Asumi Toruverse | Chou Futsuu Mahou Shoujo Asumi Toruverse | https://anilist.co/anime/198926 | October 02 at 13:54 |
 | Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha. | Dad is a Hero, Mom is a Spirit, I'm a Reincarnator | https://anilist.co/anime/173692 | October 05 at 14:30 |
 | GANGLION | GANGLION | https://anilist.co/anime/198117 | October 03 at 16:53 |
