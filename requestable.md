@@ -66,7 +66,7 @@ These shows have had episodes air already, but no thread was created because the
 | Mikadono Sanshimai wa Angai, Choroi. | Dealing with Mikadono Sisters Is a Breeze | https://anilist.co/anime/178886 | Episode 12 |
 | Dekin no Mogura | Dekin no Mogura: The Earthbound Mole | https://anilist.co/anime/184574 | Episode 12 |
 | Mattaku Saikin no Tantei to Kitara | Detectives These Days Are Crazy! | https://anilist.co/anime/180460 | Episode 12 |
-| Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 881 |
+| Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 882 |
 | Everyday Host | Everyday Host | https://anilist.co/anime/185584 | Episode 24 |
 | Fermat no Ryouri | Fermat Kitchen | https://anilist.co/anime/186003 | Episode 11 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 176 |
@@ -161,6 +161,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Alma-chan wa Kazoku ni Naritai | Alma-chan Wants to Be a Family! | https://anilist.co/anime/186190 | October 05 at 14:00 |
 | Ao no Orchestra 2nd Season | Ao no Orchestra 2nd Season | https://anilist.co/anime/170018 | October 05 at 08:00 |
 | Bukiyou na Senpai. | Bukiyou na Senpai. | https://anilist.co/anime/185575 | October 02 at 13:00 |
+| Chitose-kun wa Ramune Bin no Naka | Chitose Is in the Ramune Bottle | https://anilist.co/anime/180082 | October 07 at 09:00 |
 | Chou Futsuu Mahou Shoujo Asumi Toruverse | Chou Futsuu Mahou Shoujo Asumi Toruverse | https://anilist.co/anime/198926 | October 02 at 13:54 |
 | Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha. | Dad is a Hero, Mom is a Spirit, I'm a Reincarnator | https://anilist.co/anime/173692 | October 05 at 14:30 |
 | GANGLION | GANGLION | https://anilist.co/anime/198117 | October 03 at 16:53 |
