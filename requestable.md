@@ -45,7 +45,7 @@ These shows have had episodes air already, but no thread was created because the
 | Hyakuemu. | 100 METERS | https://anilist.co/anime/177687 | Episode 1 |
 | 9-nine- Shihaisha no Oukan | 9-nine- Shihaisha no Oukan | https://anilist.co/anime/177761 | Episode 12 |
 | Kakkou no Iinazuke Season 2 | A Couple of Cuckoos Season 2 | https://anilist.co/anime/179828 | Episode 12 |
-| Anne Shirley | Anne Shirley | https://anilist.co/anime/184639 | Episode 23 |
+| Anne Shirley | Anne Shirley | https://anilist.co/anime/184639 | Episode 24 |
 | Araiguma Calcal-dan | Araiguma Calcal-dan | https://anilist.co/anime/186522 | Episode 24 |
 | Arknights: Enshin Shomei | Arknights: RISE FROM EMBER | https://anilist.co/anime/177175 | Episode 10 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 99 |
