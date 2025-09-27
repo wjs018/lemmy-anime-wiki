@@ -143,7 +143,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tsuihousha Shokudou e Youkoso! | Welcome to the Outcast's Restaurant! | https://anilist.co/anime/185544 | Episode 12 |
 | Kizu darake Seijo yori Houfuku wo Komete | With Vengeance, Sincerely, Your Broken Saintess | https://anilist.co/anime/195209 | Episode 12 |
 | Ame to Kimi to | With You and the Rain | https://anilist.co/anime/180425 | Episode 12 |
-| Shin Samurai-den YAIBA | YAIBA: Samurai Legend | https://anilist.co/anime/177476 | Episode 23 |
+| Shin Samurai-den YAIBA | YAIBA: Samurai Legend | https://anilist.co/anime/177476 | Episode 24 |
 | Kimi to Idol Precure♪ | You and Idol Precure ♪ | https://anilist.co/anime/185073 | Episode 33 |
 {.dense}
 
