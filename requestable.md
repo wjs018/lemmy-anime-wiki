@@ -68,7 +68,7 @@ These shows have had episodes air already, but no thread was created because the
 | Mattaku Saikin no Tantei to Kitara | Detectives These Days Are Crazy! | https://anilist.co/anime/180460 | Episode 12 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 882 |
 | Everyday Host | Everyday Host | https://anilist.co/anime/185584 | Episode 24 |
-| Fermat no Ryouri | Fermat Kitchen | https://anilist.co/anime/186003 | Episode 11 |
+| Fermat no Ryouri | Fermat Kitchen | https://anilist.co/anime/186003 | Episode 12 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 176 |
 | Future Kid Takara | Future Kid Takara | https://anilist.co/anime/159981 | Episode 1 |
 | Gakkou de wa Oshiete Kurenai Taisetsu na Koto | Gakkou de wa Oshiete Kurenai Taisetsu na Koto | https://anilist.co/anime/193238 | Episode 13 |
@@ -110,7 +110,7 @@ These shows have had episodes air already, but no thread was created because the
 | Koujo Denka no Katei Kyoushi | Private Tutor to the Duke's Daughter | https://anilist.co/anime/170113 | Episode 12 |
 | Puniru wa Kawaii Slime 2nd Season | Puniru is a Kawaii Slime Season 2 | https://anilist.co/anime/185755 | Episode 12 |
 | Punirunes Puni 3 | Punirunes Puni 3 | https://anilist.co/anime/188653 | Episode 13 |
-| Seishun Buta Yarou wa Santa Claus no Yume wo Minai | Rascal Does Not Dream of Santa Claus | https://anilist.co/anime/171046 | Episode 12 |
+| Seishun Buta Yarou wa Santa Claus no Yume wo Minai | Rascal Does Not Dream of Santa Claus | https://anilist.co/anime/171046 | Episode 13 |
 | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season | Reborn as a Vending Machine, I Now Wander the Dungeon Season 2 | https://anilist.co/anime/169440 | Episode 12 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 107 |
 | Kanojo, Okarishimasu 4th Season | Rent-a-Girlfriend Season 4 | https://anilist.co/anime/179344 | Episode 12 |
