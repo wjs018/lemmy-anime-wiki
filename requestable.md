@@ -66,6 +66,7 @@ These shows have had episodes air already, but no thread was created because the
 | Fermat no Ryouri | Fermat Kitchen | https://anilist.co/anime/186003 | Episode 12 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 176 |
 | Future Kid Takara | Future Kid Takara | https://anilist.co/anime/159981 | Episode 1 |
+| Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | Episode 12 |
 | Gakkou de wa Oshiete Kurenai Taisetsu na Koto | Gakkou de wa Oshiete Kurenai Taisetsu na Koto | https://anilist.co/anime/193238 | Episode 13 |
 | Grand Blue Season 2 | Grand Blue Dreaming Season 2 | https://anilist.co/anime/182309 | Episode 12 |
 | Haigakura | Haigakura | https://anilist.co/anime/168537 | Episode 13 |
@@ -162,7 +163,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha. | Dad is a Hero, Mom is a Spirit, I'm a Reincarnator | https://anilist.co/anime/173692 | October 05 at 14:30 |
 | GANGLION | GANGLION | https://anilist.co/anime/198117 | October 03 at 16:53 |
 | GIRLS BAND CRY: Seishun Kyousoukyoku | GIRLS BAND CRY: Seishun Kyousoukyoku | https://anilist.co/anime/186714 | October 02 at 15:00 |
-| Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | September 28 at 15:30 |
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | September 30 at 04:00 |
 | Sawaranaide Kotesashi-kun | Hands off: Sawaranaide Kotesashi-kun! | https://anilist.co/anime/187331 | October 06 at 16:06 |
 | Heika Watashi wo Wasurete Kudasai | Heika Watashi wo Wasurete Kudasai | https://anilist.co/anime/198312 | October 07 at 13:55 |
