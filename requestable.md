@@ -199,5 +199,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Fumetsu no Anata e Season 3 | To Your Eternity Season 3 | https://anilist.co/anime/162669 | October 04 at 14:45 |
 | Toujima Tanzaburou wa Kamen Rider ni Naritai | Tojima Wants to Be a Kamen Rider | https://anilist.co/anime/187464 | October 04 at 15:30 |
 | Uma Musume: Cinderella Gray Part 2 | Uma Musume: Cinderella Gray Part 2 | https://anilist.co/anime/195240 | October 05 at 07:30 |
+| WanDance | WanDance | https://anilist.co/anime/180436 | October 08 at 14:45 |
 | Yano-kun no Futsuu no Hibi | Yano-kun's Ordinary Days | https://anilist.co/anime/183965 | September 30 at 16:36 |
 {.dense}
