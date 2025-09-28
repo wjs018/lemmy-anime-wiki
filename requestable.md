@@ -23,7 +23,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | [Link](https://ani.social/post/20311331) |
 | Kingdom 6th Season | Kingdom 6th Season | https://anilist.co/anime/190840 |  |
 | One Punch Man 3 | One-Punch Man Season 3 | https://anilist.co/anime/153800 |  |
-| Ruri no Houseki | Ruri Rocks | https://anilist.co/anime/180929 | [Link](https://ani.social/post/20305788) |
+| Ruri no Houseki | Ruri Rocks | https://anilist.co/anime/180929 | [Link](https://ani.social/post/20671573) |
 | SPY×FAMILY Season 3 | SPY x FAMILY Season 3 | https://anilist.co/anime/177937 |  |
 | Star Wars: Visions Volume 3 | Star Wars: Visions Volume 3 | https://anilist.co/anime/184642 |  |
 | Shuumatsu Touring | Touring After the Apocalypse | https://anilist.co/anime/186920 |  |
