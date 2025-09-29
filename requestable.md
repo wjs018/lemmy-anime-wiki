@@ -108,7 +108,7 @@ These shows have had episodes air already, but no thread was created because the
 | Punirunes Puni 3 | Punirunes Puni 3 | https://anilist.co/anime/188653 | Episode 13 |
 | Seishun Buta Yarou wa Santa Claus no Yume wo Minai | Rascal Does Not Dream of Santa Claus | https://anilist.co/anime/171046 | Episode 13 |
 | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season | Reborn as a Vending Machine, I Now Wander the Dungeon Season 2 | https://anilist.co/anime/169440 | Episode 12 |
-| Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 107 |
+| Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 108 |
 | Kanojo, Okarishimasu 4th Season | Rent-a-Girlfriend Season 4 | https://anilist.co/anime/179344 | Episode 12 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 26 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2799 |
