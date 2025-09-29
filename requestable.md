@@ -14,6 +14,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
+| Yasei no Last Boss ga Arawareta! | A Wild Last Boss Appeared! | https://anilist.co/anime/180523 | [Link](https://ani.social/post/20701761) |
 | Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku | Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin | https://anilist.co/anime/178433 | [Link](https://ani.social/post/20674348) |
 | CITY THE ANIMATION | CITY THE ANIMATION | https://anilist.co/anime/181841 | [Link](https://ani.social/post/20678717) |
 | Tondemo Skill de Isekai Hourou Meshi 2 | Campfire Cooking in Another World with my Absurd Skill Season 2 | https://anilist.co/anime/170577 |  |
@@ -38,7 +39,6 @@ These shows have had episodes air already, but no thread was created because the
 | Hyakuemu. | 100 METERS | https://anilist.co/anime/177687 | Episode 1 |
 | 9-nine- Shihaisha no Oukan | 9-nine- Shihaisha no Oukan | https://anilist.co/anime/177761 | Episode 13 |
 | Kakkou no Iinazuke Season 2 | A Couple of Cuckoos Season 2 | https://anilist.co/anime/179828 | Episode 12 |
-| Yasei no Last Boss ga Arawareta! | A Wild Last Boss Appeared! | https://anilist.co/anime/180523 | Episode 1 |
 | Anne Shirley | Anne Shirley | https://anilist.co/anime/184639 | Episode 24 |
 | Araiguma Calcal-dan | Araiguma Calcal-dan | https://anilist.co/anime/186522 | Episode 24 |
 | Arknights: Enshin Shomei | Arknights: RISE FROM EMBER | https://anilist.co/anime/177175 | Episode 10 |
