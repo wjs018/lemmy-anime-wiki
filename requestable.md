@@ -16,6 +16,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | :-------- | :---------------- | :----------- | :--------------------: |
 | Egao no Taenai Shokuba desu. | A Mangaka's Weirdly Wonderful Workplace | https://anilist.co/anime/173523 |  |
 | Yasei no Last Boss ga Arawareta! | A Wild Last Boss Appeared! | https://anilist.co/anime/180523 | [Link](https://ani.social/post/20701761) |
+| Ao no Orchestra 2nd Season | Ao no Orchestra 2nd Season | https://anilist.co/anime/170018 |  |
 | Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku | Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin | https://anilist.co/anime/178433 | [Link](https://ani.social/post/20674348) |
 | CITY THE ANIMATION | CITY THE ANIMATION | https://anilist.co/anime/181841 | [Link](https://ani.social/post/20678717) |
 | Tondemo Skill de Isekai Hourou Meshi 2 | Campfire Cooking in Another World with my Absurd Skill Season 2 | https://anilist.co/anime/170577 |  |
@@ -24,11 +25,16 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | 3-nen Z-gumi Ginpachi-sensei | GINTAMA - Mr. Ginpachi's Zany Class | https://anilist.co/anime/162890 |  |
 | Kingdom 6th Season | Kingdom 6th Season | https://anilist.co/anime/190840 |  |
 | Let’s Play: Quest Darake no My Life | Let’s Play | https://anilist.co/anime/193968 |  |
+| Boku no Hero Academia FINAL SEASON | My Hero Academia FINAL SEASON | https://anilist.co/anime/182896 |  |
 | One Punch Man 3 | One-Punch Man Season 3 | https://anilist.co/anime/153800 |  |
 | Ruri no Houseki | Ruri Rocks | https://anilist.co/anime/180929 | [Link](https://ani.social/post/20671573) |
+| SANDA | SANDA | https://anilist.co/anime/179302 |  |
 | SPY×FAMILY Season 3 | SPY x FAMILY Season 3 | https://anilist.co/anime/177937 |  |
+| Shabake | Shabake | https://anilist.co/anime/184997 |  |
 | Star Wars: Visions Volume 3 | Star Wars: Visions Volume 3 | https://anilist.co/anime/184642 |  |
+| Fujimoto Tatsuki 17-26 | Tatsuki Fujimoto 17-26 | https://anilist.co/anime/198188 |  |
 | Watashi wo Tabetai, Hitodenashi | This Monster Wants to Eat Me | https://anilist.co/anime/183385 |  |
+| Fumetsu no Anata e Season 3 | To Your Eternity Season 3 | https://anilist.co/anime/162669 |  |
 | Shuumatsu Touring | Touring After the Apocalypse | https://anilist.co/anime/186920 |  |
 | Witch Watch | Witch Watch | https://anilist.co/anime/180367 | [Link](https://ani.social/post/20297394) |
 {.dense}
@@ -158,7 +164,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Sozai Saishuka no Isekai Ryokouki | A Gatherer's Adventure in Isekai | https://anilist.co/anime/187663 | September 29 at 15:30 |
 | Taiyou yori mo Mabushii Hoshi | A Star Brighter Than the Sun | https://anilist.co/anime/186621 | October 02 at 14:56 |
 | Alma-chan wa Kazoku ni Naritai | Alma-chan Wants to Be a Family! | https://anilist.co/anime/186190 | October 05 at 14:00 |
-| Ao no Orchestra 2nd Season | Ao no Orchestra 2nd Season | https://anilist.co/anime/170018 | October 05 at 08:00 |
 | Bukiyou na Senpai. | Bukiyou na Senpai. | https://anilist.co/anime/185575 | October 02 at 13:00 |
 | Chitose-kun wa Ramune Bin no Naka | Chitose Is in the Ramune Bottle | https://anilist.co/anime/180082 | October 07 at 09:00 |
 | Chou Futsuu Mahou Shoujo Asumi Toruverse | Chou Futsuu Mahou Shoujo Asumi Toruverse | https://anilist.co/anime/198926 | October 02 at 13:54 |
@@ -181,7 +186,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Kikaijikake no Marie | Mechanical Marie | https://anilist.co/anime/179992 | October 05 at 13:00 |
 | Tomodachi no Imouto ga Ore ni dake Uzai | My Friend's Little Sister Has It In for Me! | https://anilist.co/anime/129195 | October 04 at 16:30 |
 | Shinjiteita Nakamatachi ni Dungeon Okuchi de Korosarekaketa ga Gift "Mugen Gacha" de Level 9999 no Nakamatachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu and "Zamaa!" Shimasu! | My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge! | https://anilist.co/anime/184322 | October 03 at 14:30 |
-| Boku no Hero Academia FINAL SEASON | My Hero Academia FINAL SEASON | https://anilist.co/anime/182896 | October 04 at 08:30 |
 | Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga | My Status as an Assassin Obviously Exceeds the Hero’s | https://anilist.co/anime/186794 | October 05 at 16:30 |
 | Ninja to Gokudou | Ninja Vs. Gokudo | https://anilist.co/anime/186914 | October 07 at 17:06 |
 | Nohara Hiroshi: Hiru Meshi no Ryuugi | Nohara Hiroshi: Hiru Meshi no Ryuugi | https://anilist.co/anime/187860 | October 03 at 02:00 |
@@ -190,16 +194,13 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Debu to Love to Ayamachi to! | Plus-sized Misadventures in Love! | https://anilist.co/anime/170936 | October 06 at 14:00 |
 | Potion, Wagami wo Tasukeru | Potion, Wagami wo Tasukeru | https://anilist.co/anime/198561 | October 02 at 16:00 |
 | Ranma 1/2 (2024) 2nd Season | Ranma1/2 (2024) Season 2 | https://anilist.co/anime/185731 | October 04 at 15:55 |
-| SANDA | SANDA | https://anilist.co/anime/179302 | October 03 at 16:53 |
 | SHIBUYA♡HACHI Part 4 | SHIBUYA♡HACHI Part 4 | https://anilist.co/anime/195173 | October 03 at 21:00 |
 | SI-VIS: The Sound of Heroes | SI-VIS: The Sound of Heroes | https://anilist.co/anime/196553 | October 05 at 00:30 |
-| Shabake | Shabake | https://anilist.co/anime/184997 | October 03 at 14:30 |
 | Sylvanian Families: Freya no Wonder Days | Sylvanian Families: Freya no Wonder Days | https://anilist.co/anime/198921 | October 02 at 11:22 |
 | Kekkon Yubiwa Monogatari 2nd Season | Tales of Wedding Rings Season 2 | https://anilist.co/anime/176298 | October 04 at 12:30 |
 | Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu | The Banished Court Magician Aims to Become the Strongest | https://anilist.co/anime/188487 | October 04 at 14:30 |
 | Tensei Akujo no Kuro Rekishi | The Dark History of the Reincarnated Villainess | https://anilist.co/anime/174914 | October 08 at 15:00 |
 | Mofa Gongzhu De Xiao Fannao | The Fated Magical Princess: Who Made Me a Princess | https://anilist.co/anime/165530 | October 05 at 16:00 |
-| Fumetsu no Anata e Season 3 | To Your Eternity Season 3 | https://anilist.co/anime/162669 | October 04 at 14:45 |
 | Toujima Tanzaburou wa Kamen Rider ni Naritai | Tojima Wants to Be a Kamen Rider | https://anilist.co/anime/187464 | October 04 at 15:30 |
 | Uma Musume: Cinderella Gray Part 2 | Uma Musume: Cinderella Gray Part 2 | https://anilist.co/anime/195240 | October 05 at 07:30 |
 | WanDance | WanDance | https://anilist.co/anime/180436 | October 08 at 14:45 |
