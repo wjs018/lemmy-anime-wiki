@@ -22,7 +22,9 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Tondemo Skill de Isekai Hourou Meshi 2 | Campfire Cooking in Another World with my Absurd Skill Season 2 | https://anilist.co/anime/170577 |  |
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 |  |
 | Towa no Yuugure | Dusk Beyond the End of the World | https://anilist.co/anime/195153 | [Link](https://ani.social/post/20516032) |
+| GANGLION | GANGLION | https://anilist.co/anime/198117 |  |
 | 3-nen Z-gumi Ginpachi-sensei | GINTAMA - Mr. Ginpachi's Zany Class | https://anilist.co/anime/162890 |  |
+| Gnosia | Gnosia | https://anilist.co/anime/185116 |  |
 | Kingdom 6th Season | Kingdom 6th Season | https://anilist.co/anime/190840 |  |
 | Let’s Play: Quest Darake no My Life | Let’s Play | https://anilist.co/anime/193968 |  |
 | Boku no Hero Academia FINAL SEASON | My Hero Academia FINAL SEASON | https://anilist.co/anime/182896 |  |
@@ -36,6 +38,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Watashi wo Tabetai, Hitodenashi | This Monster Wants to Eat Me | https://anilist.co/anime/183385 |  |
 | Fumetsu no Anata e Season 3 | To Your Eternity Season 3 | https://anilist.co/anime/162669 |  |
 | Shuumatsu Touring | Touring After the Apocalypse | https://anilist.co/anime/186920 |  |
+| Uma Musume: Cinderella Gray Part 2 | Uma Musume: Cinderella Gray Part 2 | https://anilist.co/anime/195240 |  |
 | Witch Watch | Witch Watch | https://anilist.co/anime/180367 | [Link](https://ani.social/post/20297394) |
 {.dense}
 
@@ -169,7 +172,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Chou Futsuu Mahou Shoujo Asumi Toruverse | Chou Futsuu Mahou Shoujo Asumi Toruverse | https://anilist.co/anime/198926 | October 02 at 13:54 |
 | Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha. | Dad is a Hero, Mom is a Spirit, I'm a Reincarnator | https://anilist.co/anime/173692 | October 05 at 14:30 |
 | Long Zu 2 | Dragon Raja II -The Mourner's Eyes- | https://anilist.co/anime/157692 | October 02 at 16:00 |
-| GANGLION | GANGLION | https://anilist.co/anime/198117 | October 03 at 16:53 |
 | GIRLS BAND CRY: Seishun Kyousoukyoku | GIRLS BAND CRY: Seishun Kyousoukyoku | https://anilist.co/anime/186714 | October 02 at 15:00 |
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | September 30 at 04:00 |
 | Sawaranaide Kotesashi-kun | Hands off: Sawaranaide Kotesashi-kun! | https://anilist.co/anime/187331 | October 06 at 16:06 |
@@ -202,7 +204,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Tensei Akujo no Kuro Rekishi | The Dark History of the Reincarnated Villainess | https://anilist.co/anime/174914 | October 08 at 15:00 |
 | Mofa Gongzhu De Xiao Fannao | The Fated Magical Princess: Who Made Me a Princess | https://anilist.co/anime/165530 | October 05 at 16:00 |
 | Toujima Tanzaburou wa Kamen Rider ni Naritai | Tojima Wants to Be a Kamen Rider | https://anilist.co/anime/187464 | October 04 at 15:30 |
-| Uma Musume: Cinderella Gray Part 2 | Uma Musume: Cinderella Gray Part 2 | https://anilist.co/anime/195240 | October 05 at 07:30 |
 | WanDance | WanDance | https://anilist.co/anime/180436 | October 08 at 14:45 |
 | Yano-kun no Futsuu no Hibi | Yano-kun's Ordinary Days | https://anilist.co/anime/183965 | September 30 at 16:36 |
 {.dense}
