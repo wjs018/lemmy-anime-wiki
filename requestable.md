@@ -156,6 +156,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kizu darake Seijo yori Houfuku wo Komete | With Vengeance, Sincerely, Your Broken Saintess | https://anilist.co/anime/195209 | Episode 12 |
 | Ame to Kimi to | With You and the Rain | https://anilist.co/anime/180425 | Episode 12 |
 | Shin Samurai-den YAIBA | YAIBA: Samurai Legend | https://anilist.co/anime/177476 | Episode 24 |
+| Yano-kun no Futsuu no Hibi | Yano-kun's Ordinary Days | https://anilist.co/anime/183965 | Episode 1 |
 | Kimi to Idol Precure♪ | You and Idol Precure ♪ | https://anilist.co/anime/185073 | Episode 34 |
 {.dense}
 
@@ -209,5 +210,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Housenka | The Last Blossom | https://anilist.co/anime/177686 | October 09 at 16:00 |
 | Toujima Tanzaburou wa Kamen Rider ni Naritai | Tojima Wants to Be a Kamen Rider | https://anilist.co/anime/187464 | October 04 at 15:30 |
 | WanDance | WanDance | https://anilist.co/anime/180436 | October 08 at 14:45 |
-| Yano-kun no Futsuu no Hibi | Yano-kun's Ordinary Days | https://anilist.co/anime/183965 | September 30 at 16:36 |
 {.dense}
