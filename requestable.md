@@ -115,6 +115,7 @@ These shows have had episodes air already, but no thread was created because the
 | Nyaight of the Living Cat | Nyaight of the Living Cat | https://anilist.co/anime/175124 | Episode 12 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1145 |
 | Onmyo Kaiten Re:verse | Onmyo Kaiten Re:Birth Verse | https://anilist.co/anime/187387 | Episode 12 |
+| Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu! | Pass the Monster Meat, Milady! | https://anilist.co/anime/183291 | Episode 1 |
 | PetitCure: Precure Fairies | PetitCure: Precure Fairies | https://anilist.co/anime/188394 | Episode 27 |
 | Pokémon Concierge Part 2 | Pokémon Concierge: Season 1: Part 2 | https://anilist.co/anime/175035 | Episode 1 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 111 |
@@ -195,7 +196,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Ninja to Gokudou | Ninja Vs. Gokudo | https://anilist.co/anime/186914 | October 07 at 17:06 |
 | Nohara Hiroshi: Hiru Meshi no Ryuugi | Nohara Hiroshi: Hiru Meshi no Ryuugi | https://anilist.co/anime/187860 | October 03 at 02:00 |
 | Oshiri Tantei 9 Part 2 | Oshiri Tantei 9 Part 2 | https://anilist.co/anime/194832 | October 04 at 00:00 |
-| Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu! | Pass the Monster Meat, Milady! | https://anilist.co/anime/183291 | October 01 at 16:28 |
 | Debu to Love to Ayamachi to! | Plus-sized Misadventures in Love! | https://anilist.co/anime/170936 | October 06 at 14:00 |
 | Potion, Wagami wo Tasukeru | Potion, Wagami wo Tasukeru | https://anilist.co/anime/198561 | October 02 at 16:00 |
 | Ranma 1/2 (2024) 2nd Season | Ranma1/2 (2024) Season 2 | https://anilist.co/anime/185731 | October 04 at 15:55 |
