@@ -26,7 +26,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | 3-nen Z-gumi Ginpachi-sensei | GINTAMA - Mr. Ginpachi's Zany Class | https://anilist.co/anime/162890 |  |
 | Gnosia | Gnosia | https://anilist.co/anime/185116 |  |
 | Kingdom 6th Season | Kingdom 6th Season | https://anilist.co/anime/190840 |  |
-| Let’s Play: Quest Darake no My Life | Let’s Play | https://anilist.co/anime/193968 |  |
+| Let’s Play: Quest Darake no My Life | Let’s Play | https://anilist.co/anime/193968 | [Link](https://ani.social/post/20829039) |
 | Boku no Hero Academia FINAL SEASON | My Hero Academia FINAL SEASON | https://anilist.co/anime/182896 |  |
 | One Punch Man 3 | One-Punch Man Season 3 | https://anilist.co/anime/153800 |  |
 | Ruri no Houseki | Ruri Rocks | https://anilist.co/anime/180929 | [Link](https://ani.social/post/20671573) |
