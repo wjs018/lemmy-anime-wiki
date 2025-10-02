@@ -21,7 +21,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | CITY THE ANIMATION | CITY THE ANIMATION | https://anilist.co/anime/181841 | [Link](https://ani.social/post/20678717) |
 | Tondemo Skill de Isekai Hourou Meshi 2 | Campfire Cooking in Another World with my Absurd Skill Season 2 | https://anilist.co/anime/170577 |  |
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 |  |
-| Towa no Yuugure | Dusk Beyond the End of the World | https://anilist.co/anime/195153 | [Link](https://ani.social/post/20516032) |
+| Towa no Yuugure | Dusk Beyond the End of the World | https://anilist.co/anime/195153 | [Link](https://ani.social/post/20879117) |
 | GANGLION | GANGLION | https://anilist.co/anime/198117 |  |
 | 3-nen Z-gumi Ginpachi-sensei | GINTAMA - Mr. Ginpachi's Zany Class | https://anilist.co/anime/162890 |  |
 | Gnosia | Gnosia | https://anilist.co/anime/185116 |  |
@@ -142,7 +142,7 @@ These shows have had episodes air already, but no thread was created because the
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1303 |
 | Shinobanai! Crypto Ninja Sakuya San no Maki | Shinobanai! Crypto Ninja Sakuya San no Maki | https://anilist.co/anime/181867 | Episode 12 |
 | Shuukan Ranobe Anime | Shuukan Ranobe Anime | https://anilist.co/anime/198745 | Episode 12 |
-| Futari Solo Camp | Solo Camping for Two | https://anilist.co/anime/185965 | Episode 12 |
+| Futari Solo Camp | Solo Camping for Two | https://anilist.co/anime/185965 | Episode 13 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1717 |
 | Sousou no Frieren: ●● no Mahou Part 2 | Sousou no Frieren: ●● no Mahou Part 2 | https://anilist.co/anime/189513 | Episode 6 |
 | Sumikko Gurashi: Koko ga Ochitsukun Desu | Sumikko Gurashi: Koko ga Ochitsukun Desu | https://anilist.co/anime/188884 | Episode 17 |
