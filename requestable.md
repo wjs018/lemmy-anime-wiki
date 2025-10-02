@@ -29,6 +29,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Let’s Play: Quest Darake no My Life | Let’s Play | https://anilist.co/anime/193968 | [Link](https://ani.social/post/20829039) |
 | Boku no Hero Academia FINAL SEASON | My Hero Academia FINAL SEASON | https://anilist.co/anime/182896 |  |
 | One Punch Man 3 | One-Punch Man Season 3 | https://anilist.co/anime/153800 |  |
+| Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu! | Pass the Monster Meat, Milady! | https://anilist.co/anime/183291 | [Link](https://ani.social/post/20879832) |
 | Ruri no Houseki | Ruri Rocks | https://anilist.co/anime/180929 | [Link](https://ani.social/post/20671573) |
 | SANDA | SANDA | https://anilist.co/anime/179302 |  |
 | SPY×FAMILY Season 3 | SPY x FAMILY Season 3 | https://anilist.co/anime/177937 |  |
@@ -122,7 +123,6 @@ These shows have had episodes air already, but no thread was created because the
 | Nyaight of the Living Cat | Nyaight of the Living Cat | https://anilist.co/anime/175124 | Episode 12 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1145 |
 | Onmyo Kaiten Re:verse | Onmyo Kaiten Re:Birth Verse | https://anilist.co/anime/187387 | Episode 12 |
-| Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu! | Pass the Monster Meat, Milady! | https://anilist.co/anime/183291 | Episode 1 |
 | PetitCure: Precure Fairies | PetitCure: Precure Fairies | https://anilist.co/anime/188394 | Episode 28 |
 | Pokémon Concierge Part 2 | Pokémon Concierge: Season 1: Part 2 | https://anilist.co/anime/175035 | Episode 1 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 111 |
