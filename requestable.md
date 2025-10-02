@@ -197,6 +197,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Ninja to Gokudou | Ninja Vs. Gokudo | https://anilist.co/anime/186914 | October 07 at 17:06 |
 | Nohara Hiroshi: Hiru Meshi no Ryuugi | Nohara Hiroshi: Hiru Meshi no Ryuugi | https://anilist.co/anime/187860 | October 03 at 02:00 |
 | Oshiri Tantei 9 Part 2 | Oshiri Tantei 9 Part 2 | https://anilist.co/anime/194832 | October 04 at 00:00 |
+| PetitCure: Precure Fairies Season 2 | PetitCure: Precure Fairies Season 2 | https://anilist.co/anime/199635 | October 09 at 09:30 |
 | Debu to Love to Ayamachi to! | Plus-sized Misadventures in Love! | https://anilist.co/anime/170936 | October 06 at 14:00 |
 | Potion, Wagami wo Tasukeru | Potion, Wagami wo Tasukeru | https://anilist.co/anime/198561 | October 02 at 16:00 |
 | Ranma 1/2 (2024) 2nd Season | Ranma1/2 (2024) Season 2 | https://anilist.co/anime/185731 | October 04 at 15:55 |
