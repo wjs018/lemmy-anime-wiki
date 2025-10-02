@@ -68,6 +68,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chibi Godzilla no Gyakushuu 3 | Chibi Godzilla Raids Again Season 3 | https://anilist.co/anime/193883 | Episode 14 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 280 |
 | Chikyuu no Latair | Chikyuu no Latair | https://anilist.co/anime/198408 | Episode 4 |
+| Chou Futsuu Mahou Shoujo Asumi Toruverse | Chou Futsuu Mahou Shoujo Asumi Toruverse | https://anilist.co/anime/198926 | Episode 1 |
 | Clevatess: Majuu no Ou to Akago to Kabane no Yuusha | Clevatess | https://anilist.co/anime/178869 | Episode 11 |
 | GaCen Shoujo to Ibunka Kouryuu | Cultural Exchange with a Game Centre Girl | https://anilist.co/anime/180794 | Episode 12 |
 | Binan Koukou Chikyuu Bouei-bu Haikara! | Cute High Earth Defense Club Hi-CARA! | https://anilist.co/anime/188138 | Episode 12 |
@@ -178,7 +179,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Aikatsu! x PriPara THE MOVIE -Deai no Kiseki- | Aikatsu! x PriPara THE MOVIE -Deai no Kiseki- | https://anilist.co/anime/191403 | October 09 at 15:00 |
 | Alma-chan wa Kazoku ni Naritai | Alma-chan Wants to Be a Family! | https://anilist.co/anime/186190 | October 05 at 14:00 |
 | Chitose-kun wa Ramune Bin no Naka | Chitose Is in the Ramune Bottle | https://anilist.co/anime/180082 | October 07 at 09:00 |
-| Chou Futsuu Mahou Shoujo Asumi Toruverse | Chou Futsuu Mahou Shoujo Asumi Toruverse | https://anilist.co/anime/198926 | October 02 at 13:54 |
 | Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha. | Dad is a Hero, Mom is a Spirit, I'm a Reincarnator | https://anilist.co/anime/173692 | October 05 at 14:30 |
 | Long Zu 2 | Dragon Raja II -The Mourner's Eyes- | https://anilist.co/anime/157692 | October 02 at 16:00 |
 | GIRLS BAND CRY: Seishun Kyousoukyoku | GIRLS BAND CRY: Seishun Kyousoukyoku | https://anilist.co/anime/186714 | October 02 at 15:00 |
