@@ -24,6 +24,13 @@ Episode|Link
 1|[Link](https://ani.social/post/20516032)
 {.dense}
 
+## Watashi wo Tabetai, Hitodenashi • This Monster Wants to Eat Me
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/20871206)
+{.dense}
+
 ## Yasei no Last Boss ga Arawareta! • A Wild Last Boss Appeared!
 
 Episode|Link
