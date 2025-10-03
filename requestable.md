@@ -187,6 +187,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Sawaranaide Kotesashi-kun | Hands off: Sawaranaide Kotesashi-kun! | https://anilist.co/anime/187331 | October 06 at 16:06 |
 | Heika Watashi wo Wasurete Kudasai | Heika Watashi wo Wasurete Kudasai | https://anilist.co/anime/198312 | October 07 at 13:55 |
 | Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun | Inexpressive Kashiwada and Expressive Oota | https://anilist.co/anime/187940 | October 04 at 12:00 |
+| Isekai Quartet 3 | Isekai Quartet 3 | https://anilist.co/anime/194447 | October 13 at 13:30 |
 | JOCHUM Season 2 | JOCHUM Season 2 | https://anilist.co/anime/198413 | October 03 at 21:00 |
 | Kagaku×Bouken Survival! 2nd Season | Kagaku×Bouken Survival! 2nd Season | https://anilist.co/anime/186736 | October 04 at 09:25 |
 | Nageki no Bourei wa Intai shitai 2 | Let This Grieving Soul Retire Cour 2 | https://anilist.co/anime/185801 | October 04 at 14:30 |
