@@ -24,6 +24,13 @@ Episode|Link
 1|[Link](https://ani.social/post/20829039)
 {.dense}
 
+## Shabake
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/20923536)
+{.dense}
+
 ## Towa no Yuugure • Dusk Beyond the End of the World
 
 Episode|Link
