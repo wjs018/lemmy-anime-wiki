@@ -17,11 +17,25 @@ Episode|Link
 1|[Link](https://ani.social/post/20879832)
 {.dense}
 
+## GANGLION
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/20929934)
+{.dense}
+
 ## Let’s Play: Quest Darake no My Life • Let’s Play
 
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/20829039)
+{.dense}
+
+## SANDA
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/20929936)
 {.dense}
 
 ## Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka • May I Ask for One Final Thing?
