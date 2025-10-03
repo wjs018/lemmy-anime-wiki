@@ -99,6 +99,7 @@ These shows have had episodes air already, but no thread was created because the
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 333 |
 | Host ni Iroiro Kiitemita | Host ni Iroiro Kiitemita | https://anilist.co/anime/198948 | Episode 8 |
 | Hotel Inhumans | Hotel Inhumans | https://anilist.co/anime/184034 | Episode 13 |
+| Hyakushou Kizoku 3rd Season | Hyakushou Kizoku 3rd Season | https://anilist.co/anime/185694 | Episode 1 |
 | Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu 2nd Season | I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2 | https://anilist.co/anime/178090 | Episode 12 |
 | Kamitsubaki-shi Kensetsuchuu. | KAMITSUBAKI CITY UNDER CONSTRUCTION | https://anilist.co/anime/173335 | Episode 13 |
 | Kaijuu 8-gou 2nd Season | Kaiju No. 8 Season 2 | https://anilist.co/anime/178754 | Episode 11 |
@@ -185,7 +186,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Golden Kamuy: Sapporo Beer Koujou-hen | Golden Kamuy: Sapporo Beer Koujou-hen | https://anilist.co/anime/196115 | October 09 at 15:00 |
 | Sawaranaide Kotesashi-kun | Hands off: Sawaranaide Kotesashi-kun! | https://anilist.co/anime/187331 | October 06 at 16:06 |
 | Heika Watashi wo Wasurete Kudasai | Heika Watashi wo Wasurete Kudasai | https://anilist.co/anime/198312 | October 07 at 13:55 |
-| Hyakushou Kizoku 3rd Season | Hyakushou Kizoku 3rd Season | https://anilist.co/anime/185694 | October 03 at 12:54 |
 | Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun | Inexpressive Kashiwada and Expressive Oota | https://anilist.co/anime/187940 | October 04 at 12:00 |
 | JOCHUM Season 2 | JOCHUM Season 2 | https://anilist.co/anime/198413 | October 03 at 21:00 |
 | Kagaku×Bouken Survival! 2nd Season | Kagaku×Bouken Survival! 2nd Season | https://anilist.co/anime/186736 | October 04 at 09:25 |
