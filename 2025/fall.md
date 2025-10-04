@@ -45,6 +45,13 @@ Episode|Link
 1|[Link](https://ani.social/post/20929936)
 {.dense}
 
+## SPY×FAMILY Season 3 • SPY x FAMILY Season 3
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/20971814)
+{.dense}
+
 ## Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka • May I Ask for One Final Thing?
 
 Episode|Link
