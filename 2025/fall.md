@@ -59,6 +59,13 @@ Episode|Link
 1|[Link](https://ani.social/post/20923536)
 {.dense}
 
+## Sozai Saishuka no Isekai Ryokouki • A Gatherer's Adventure in Isekai
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/20960422)
+{.dense}
+
 ## Towa no Yuugure • Dusk Beyond the End of the World
 
 Episode|Link
