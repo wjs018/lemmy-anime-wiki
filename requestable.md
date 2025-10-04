@@ -40,7 +40,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Fujimoto Tatsuki 17-26 | Tatsuki Fujimoto 17-26 | https://anilist.co/anime/198188 |  |
 | Watashi wo Tabetai, Hitodenashi | This Monster Wants to Eat Me | https://anilist.co/anime/183385 | [Link](https://ani.social/post/20871206) |
 | Fumetsu no Anata e Season 3 | To Your Eternity Season 3 | https://anilist.co/anime/162669 | [Link](https://ani.social/post/20973119) |
-| Shuumatsu Touring | Touring After the Apocalypse | https://anilist.co/anime/186920 |  |
+| Shuumatsu Touring | Touring After the Apocalypse | https://anilist.co/anime/186920 | [Link](https://ani.social/post/20975815) |
 | Uma Musume: Cinderella Gray Part 2 | Uma Musume: Cinderella Gray Part 2 | https://anilist.co/anime/195240 |  |
 | Witch Watch | Witch Watch | https://anilist.co/anime/180367 | [Link](https://ani.social/post/20297394) |
 {.dense}
@@ -166,6 +166,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yami Shibai 15 | Theatre of Darkness: Yamishibai 15 | https://anilist.co/anime/194088 | Episode 12 |
 | Tu Bian Yingxiong X | To Be Hero X | https://anilist.co/anime/156092 | Episode 24 |
 | Jibaku Shounen Hanako-kun 2 Part 2 | Toilet-Bound Hanako-kun Season 2 Part 2 | https://anilist.co/anime/189326 | Episode 12 |
+| Toujima Tanzaburou wa Kamen Rider ni Naritai | Tojima Wants to Be a Kamen Rider | https://anilist.co/anime/187464 | Episode 1 |
 | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | https://anilist.co/anime/196229 | Episode 13 |
 | Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | Episode 13 |
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 10 |
@@ -209,7 +210,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Tensei Akujo no Kuro Rekishi | The Dark History of the Reincarnated Villainess | https://anilist.co/anime/174914 | October 08 at 15:00 |
 | Mofa Gongzhu De Xiao Fannao | The Fated Magical Princess: Who Made Me a Princess | https://anilist.co/anime/165530 | October 05 at 16:00 |
 | Housenka | The Last Blossom | https://anilist.co/anime/177686 | October 09 at 16:00 |
-| Toujima Tanzaburou wa Kamen Rider ni Naritai | Tojima Wants to Be a Kamen Rider | https://anilist.co/anime/187464 | October 04 at 15:30 |
 | WanDance | WanDance | https://anilist.co/anime/180436 | October 08 at 14:45 |
 | Kimi to Koete Koi ni Naru | With You, Our Love Will Make It Through | https://anilist.co/anime/186161 | October 14 at 14:30 |
 {.dense}
