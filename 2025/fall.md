@@ -80,6 +80,13 @@ Episode|Link
 1|[Link](https://ani.social/post/20923536)
 {.dense}
 
+## Shuumatsu Touring • Touring After the Apocalypse
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/20975815)
+{.dense}
+
 ## Sozai Saishuka no Isekai Ryokouki • A Gatherer's Adventure in Isekai
 
 Episode|Link
