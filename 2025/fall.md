@@ -17,6 +17,13 @@ Episode|Link
 1|[Link](https://ani.social/post/20879832)
 {.dense}
 
+## Boku no Hero Academia FINAL SEASON • My Hero Academia FINAL SEASON
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/20959886)
+{.dense}
+
 ## GANGLION
 
 Episode|Link
