@@ -63,7 +63,7 @@ These shows have had episodes air already, but no thread was created because the
 | Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru | Betrothed to My Sister's Ex | https://anilist.co/anime/179879 | Episode 12 |
 | Bukiyou na Senpai. | Bukiyou na Senpai. | https://anilist.co/anime/185575 | Episode 1 |
 | Busu ni Hanataba wo. | Busu ni Hanataba wo. | https://anilist.co/anime/156395 | Episode 13 |
-| Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen | CARDFIGHT!! VANGUARD Divinez DELUXE Finals | https://anilist.co/anime/191994 | Episode 11 |
+| Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen | CARDFIGHT!! VANGUARD Divinez DELUXE Finals | https://anilist.co/anime/191994 | Episode 12 |
 | Muchuu sa, Kimi ni. | Captivated, By You | https://anilist.co/anime/183128 | Episode 6 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1177 |
 | Cat's♥Eye (2025) | Cat's Eye (2025) | https://anilist.co/anime/184718 | Episode 2 |
@@ -127,6 +127,7 @@ These shows have had episodes air already, but no thread was created because the
 | Nyaight of the Living Cat | Nyaight of the Living Cat | https://anilist.co/anime/175124 | Episode 12 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1145 |
 | Onmyo Kaiten Re:verse | Onmyo Kaiten Re:Birth Verse | https://anilist.co/anime/187387 | Episode 12 |
+| Oshiri Tantei 9 Part 2 | Oshiri Tantei 9 Part 2 | https://anilist.co/anime/194832 | Episode 1 |
 | PetitCure: Precure Fairies | PetitCure: Precure Fairies | https://anilist.co/anime/188394 | Episode 28 |
 | Pokémon Concierge Part 2 | Pokémon Concierge: Season 1: Part 2 | https://anilist.co/anime/175035 | Episode 1 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 111 |
@@ -199,7 +200,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Tomodachi no Imouto ga Ore ni dake Uzai | My Friend's Little Sister Has It In for Me! | https://anilist.co/anime/129195 | October 04 at 16:30 |
 | Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga | My Status as an Assassin Obviously Exceeds the Hero’s | https://anilist.co/anime/186794 | October 05 at 16:30 |
 | Ninja to Gokudou | Ninja Vs. Gokudo | https://anilist.co/anime/186914 | October 07 at 17:06 |
-| Oshiri Tantei 9 Part 2 | Oshiri Tantei 9 Part 2 | https://anilist.co/anime/194832 | October 04 at 00:00 |
 | PetitCure: Precure Fairies Season 2 | PetitCure: Precure Fairies Season 2 | https://anilist.co/anime/199635 | October 09 at 09:30 |
 | Debu to Love to Ayamachi to! | Plus-sized Misadventures in Love! | https://anilist.co/anime/170936 | October 06 at 14:00 |
 | Ranma 1/2 (2024) 2nd Season | Ranma1/2 (2024) Season 2 | https://anilist.co/anime/185731 | October 04 at 15:55 |
