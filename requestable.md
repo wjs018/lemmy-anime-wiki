@@ -138,6 +138,7 @@ These shows have had episodes air already, but no thread was created because the
 | Koujo Denka no Katei Kyoushi | Private Tutor to the Duke's Daughter | https://anilist.co/anime/170113 | Episode 12 |
 | Puniru wa Kawaii Slime 2nd Season | Puniru is a Kawaii Slime Season 2 | https://anilist.co/anime/185755 | Episode 12 |
 | Punirunes Puni 3 | Punirunes Puni 3 | https://anilist.co/anime/188653 | Episode 14 |
+| Ranma 1/2 (2024) 2nd Season | Ranma1/2 (2024) Season 2 | https://anilist.co/anime/185731 | Episode 1 |
 | Seishun Buta Yarou wa Santa Claus no Yume wo Minai | Rascal Does Not Dream of Santa Claus | https://anilist.co/anime/171046 | Episode 13 |
 | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season | Reborn as a Vending Machine, I Now Wander the Dungeon Season 2 | https://anilist.co/anime/169440 | Episode 12 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 108 |
@@ -146,7 +147,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 26 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2799 |
 | Yuusha Party wo Tsuihou Sareta Shiro Madoushi, S Rank Boukensha ni Hirowareru: Kono Shiro Madoushi ga Kikakugaisugiru | Scooped Up by an S-Rank Adventurer! | https://anilist.co/anime/179885 | Episode 12 |
-| Silent Witch: Chinmoku no Majo no Kakushigoto | Secrets of the Silent Witch | https://anilist.co/anime/179966 | Episode 12 |
+| Silent Witch: Chinmoku no Majo no Kakushigoto | Secrets of the Silent Witch | https://anilist.co/anime/179966 | Episode 13 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1304 |
 | Shinobanai! Crypto Ninja Sakuya San no Maki | Shinobanai! Crypto Ninja Sakuya San no Maki | https://anilist.co/anime/181867 | Episode 12 |
 | Shuukan Ranobe Anime | Shuukan Ranobe Anime | https://anilist.co/anime/198745 | Episode 12 |
@@ -204,7 +205,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Ninja to Gokudou | Ninja Vs. Gokudo | https://anilist.co/anime/186914 | October 07 at 17:06 |
 | PetitCure: Precure Fairies Season 2 | PetitCure: Precure Fairies Season 2 | https://anilist.co/anime/199635 | October 09 at 09:30 |
 | Debu to Love to Ayamachi to! | Plus-sized Misadventures in Love! | https://anilist.co/anime/170936 | October 06 at 14:00 |
-| Ranma 1/2 (2024) 2nd Season | Ranma1/2 (2024) Season 2 | https://anilist.co/anime/185731 | October 04 at 15:55 |
 | SI-VIS: The Sound of Heroes | SI-VIS: The Sound of Heroes | https://anilist.co/anime/196553 | October 05 at 00:30 |
 | Yamato yo Towa ni: REBEL3199 | Star Blazers: Space Battleship Yamato 3199 | https://anilist.co/anime/144779 | October 09 at 16:00 |
 | Tensei Akujo no Kuro Rekishi | The Dark History of the Reincarnated Villainess | https://anilist.co/anime/174914 | October 08 at 15:00 |
