@@ -38,6 +38,13 @@ Episode|Link
 1|[Link](https://ani.social/post/20929934)
 {.dense}
 
+## Kingdom 6th Season
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/20974470)
+{.dense}
+
 ## Let’s Play: Quest Darake no My Life • Let’s Play
 
 Episode|Link
