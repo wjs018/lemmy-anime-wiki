@@ -109,6 +109,13 @@ Episode|Link
 2|[Link](https://ani.social/post/20879117)
 {.dense}
 
+## Uma Musume: Cinderella Gray Part 2 • Umamusume: Cinderella Gray 2nd Cour
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/21008658)
+{.dense}
+
 ## Watashi wo Tabetai, Hitodenashi • This Monster Wants to Eat Me
 
 Episode|Link
