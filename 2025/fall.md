@@ -45,7 +45,7 @@ Episode|Link
 1|[Link](https://ani.social/post/20929934)
 {.dense}
 
-## Kingdom 6th Season
+## Kingdom 6th Season • Kingdom Season 6
 
 Episode|Link
 :-:|:-:

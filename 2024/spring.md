@@ -191,7 +191,7 @@ Episode|Link
 5|[Link](https://ani.social/post/3518994)
 {.dense}
 
-## Kaijuu 8-gou • Kaiju No.8
+## Kaijuu 8-gou • Kaiju No. 8
 
 Episode|Link
 :-:|:-:

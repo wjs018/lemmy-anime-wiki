@@ -339,7 +339,7 @@ Episode|Link
 3|[Link](https://ani.social/post/17056457)
 {.dense}
 
-## Osomatsu-san 4 • Mr. Osomatsu 4th Season
+## Osomatsu-san 4th Season • Mr. Osomatsu 4th season
 
 Episode|Link
 :-:|:-:
