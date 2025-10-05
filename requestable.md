@@ -198,7 +198,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Anila to Cocora | Anila to Cocora | https://anilist.co/anime/199794 | October 09 at 18:15 |
 | Chitose-kun wa Ramune Bin no Naka | Chitose Is in the Ramune Bottle | https://anilist.co/anime/180082 | October 07 at 09:00 |
 | Golden Kamuy: Sapporo Beer Koujou-hen | Golden Kamuy: Sapporo Beer Koujou-hen | https://anilist.co/anime/196115 | October 09 at 15:00 |
-| Sawaranaide Kotesashi-kun Mini Anime Gekijou | Hands off: Sawaranaide Kotesashi-kun! Mini Anime | https://anilist.co/anime/199812 | October 12 at 17:05 |
+| Sawaranaide Kotesashi-kun Mini Anime Gekijou | Hands off: Sawaranaide Kotesashi-kun! Mini Anime | https://anilist.co/anime/199812 | October 12 at 17:06 |
 | Heika Watashi wo Wasurete Kudasai | Heika Watashi wo Wasurete Kudasai | https://anilist.co/anime/198312 | October 07 at 13:55 |
 | Isekai Quartet 3 | Isekai Quartet 3 | https://anilist.co/anime/194447 | October 13 at 13:30 |
 | Chanto Suenai Kyuuketsuki-chan | Li'l Miss Vampire Can't Suck Right | https://anilist.co/anime/186524 | October 12 at 13:30 |
