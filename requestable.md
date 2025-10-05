@@ -208,6 +208,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Tensei Akujo no Kuro Rekishi | The Dark History of the Reincarnated Villainess | https://anilist.co/anime/174914 | October 08 at 15:00 |
 | Mofa Gongzhu De Xiao Fannao | The Fated Magical Princess: Who Made Me a Princess | https://anilist.co/anime/165530 | October 05 at 16:00 |
 | Housenka | The Last Blossom | https://anilist.co/anime/177686 | October 09 at 16:00 |
+| Ugoku! Neko Mukashi Banashi | Ugoku! Neko Mukashi Banashi | https://anilist.co/anime/188529 | October 15 at 11:00 |
 | WanDance | WanDance | https://anilist.co/anime/180436 | October 08 at 14:45 |
 | Kimi to Koete Koi ni Naru | With You, Our Love Will Make It Through | https://anilist.co/anime/186161 | October 14 at 14:30 |
 {.dense}
