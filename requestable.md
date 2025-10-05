@@ -92,6 +92,7 @@ These shows have had episodes air already, but no thread was created because the
 | Grand Blue Season 2 | Grand Blue Dreaming Season 2 | https://anilist.co/anime/182309 | Episode 12 |
 | Haigakura | Haigakura | https://anilist.co/anime/168537 | Episode 13 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 624 |
+| Sawaranaide Kotesashi-kun | Hands off: Sawaranaide Kotesashi-kun! | https://anilist.co/anime/187331 | Episode 1 |
 | Utagoe wa Mille-Feuille | Harmony of Mille-Feuille | https://anilist.co/anime/166215 | Episode 10 |
 | Jigoku Sensei Nube (2025) | Hell Teacher: Jigoku Sensei Nube (2025) | https://anilist.co/anime/179678 | Episode 13 |
 | Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga | Hero Without a Class: Who Even Needs Skills?! | https://anilist.co/anime/169969 | Episode 2 |
@@ -197,7 +198,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Anila to Cocora | Anila to Cocora | https://anilist.co/anime/199794 | October 09 at 18:15 |
 | Chitose-kun wa Ramune Bin no Naka | Chitose Is in the Ramune Bottle | https://anilist.co/anime/180082 | October 07 at 09:00 |
 | Golden Kamuy: Sapporo Beer Koujou-hen | Golden Kamuy: Sapporo Beer Koujou-hen | https://anilist.co/anime/196115 | October 09 at 15:00 |
-| Sawaranaide Kotesashi-kun | Hands off: Sawaranaide Kotesashi-kun! | https://anilist.co/anime/187331 | October 05 at 17:06 |
+| Sawaranaide Kotesashi-kun Mini Anime Gekijou | Hands off: Sawaranaide Kotesashi-kun! Mini Anime | https://anilist.co/anime/199812 | October 12 at 17:05 |
 | Heika Watashi wo Wasurete Kudasai | Heika Watashi wo Wasurete Kudasai | https://anilist.co/anime/198312 | October 07 at 13:55 |
 | Isekai Quartet 3 | Isekai Quartet 3 | https://anilist.co/anime/194447 | October 13 at 13:30 |
 | Chanto Suenai Kyuuketsuki-chan | Li'l Miss Vampire Can't Suck Right | https://anilist.co/anime/186524 | October 12 at 13:30 |
