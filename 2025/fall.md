@@ -24,6 +24,13 @@ Episode|Link
 1|[Link](https://ani.social/post/20959886)
 {.dense}
 
+## DIGIMON BEATBREAK
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/20995194)
+{.dense}
+
 ## Fumetsu no Anata e Season 3 • To Your Eternity Season 3
 
 Episode|Link
