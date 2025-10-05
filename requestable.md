@@ -54,6 +54,7 @@ These shows have had episodes air already, but no thread was created because the
 | 9-nine- Shihaisha no Oukan | 9-nine- Ruler's Crown | https://anilist.co/anime/177761 | Episode 13 |
 | Kakkou no Iinazuke Season 2 | A Couple of Cuckoos Season 2 | https://anilist.co/anime/179828 | Episode 12 |
 | Taiyou yori mo Mabushii Hoshi | A Star Brighter Than the Sun | https://anilist.co/anime/186621 | Episode 1 |
+| Alma-chan wa Kazoku ni Naritai | Alma-chan Wants to Be a Family! | https://anilist.co/anime/186190 | Episode 1 |
 | Anne Shirley | Anne Shirley | https://anilist.co/anime/184639 | Episode 24 |
 | Araiguma Calcal-dan | Araiguma Calcal-dan | https://anilist.co/anime/186522 | Episode 24 |
 | Arknights: Enshin Shomei | Arknights: RISE FROM EMBER | https://anilist.co/anime/177175 | Episode 10 |
@@ -191,7 +192,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | 2200-nen Neko no Kuni Nippon | 2200-nen Neko no Kuni Nippon | https://anilist.co/anime/199009 | October 07 at 05:00 |
 | Aikatsu! x PriPara THE MOVIE -Deai no Kiseki- | Aikatsu! x PriPara THE MOVIE -Deai no Kiseki- | https://anilist.co/anime/191403 | October 09 at 15:00 |
-| Alma-chan wa Kazoku ni Naritai | Alma-chan Wants to Be a Family! | https://anilist.co/anime/186190 | October 05 at 14:00 |
 | Anila to Cocora | Anila to Cocora | https://anilist.co/anime/199794 | October 09 at 18:15 |
 | Chitose-kun wa Ramune Bin no Naka | Chitose Is in the Ramune Bottle | https://anilist.co/anime/180082 | October 07 at 09:00 |
 | Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha. | Dad is a Hero, Mom is a Spirit, I'm a Reincarnator | https://anilist.co/anime/173692 | October 05 at 14:30 |
