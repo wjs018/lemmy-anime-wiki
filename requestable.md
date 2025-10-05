@@ -57,7 +57,6 @@ These shows have had episodes air already, but no thread was created because the
 | Alma-chan wa Kazoku ni Naritai | Alma-chan Wants to Be a Family! | https://anilist.co/anime/186190 | Episode 1 |
 | Anne Shirley | Anne Shirley | https://anilist.co/anime/184639 | Episode 24 |
 | Araiguma Calcal-dan | Araiguma Calcal-dan | https://anilist.co/anime/186522 | Episode 24 |
-| Arknights: Enshin Shomei | Arknights: RISE FROM EMBER | https://anilist.co/anime/177175 | Episode 10 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 99 |
 | Bad Girl | Bad Girl | https://anilist.co/anime/178675 | Episode 12 |
 | Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru | Betrothed to My Sister's Ex | https://anilist.co/anime/179879 | Episode 12 |
@@ -87,7 +86,7 @@ These shows have had episodes air already, but no thread was created because the
 | Future Kid Takara | Future Kid Takara | https://anilist.co/anime/159981 | Episode 1 |
 | Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | Episode 1 |
 | GIRLS BAND CRY: Seishun Kyousoukyoku | GIRLS BAND CRY: Seishun Kyousoukyoku | https://anilist.co/anime/186714 | Episode 1 |
-| Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | Episode 12 |
+| Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | Episode 13 |
 | Gakkou de wa Oshiete Kurenai Taisetsu na Koto | Gakkou de wa Oshiete Kurenai Taisetsu na Koto | https://anilist.co/anime/193238 | Episode 13 |
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | Episode 6 |
 | Grand Blue Season 2 | Grand Blue Dreaming Season 2 | https://anilist.co/anime/182309 | Episode 12 |
@@ -130,7 +129,7 @@ These shows have had episodes air already, but no thread was created because the
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 50 |
 | Nukitashi THE ANIMATION | Nukitashi THE ANIMATION | https://anilist.co/anime/174188 | Episode 11 |
 | Nyaight of the Living Cat | Nyaight of the Living Cat | https://anilist.co/anime/175124 | Episode 12 |
-| ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1145 |
+| ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1146 |
 | Onmyo Kaiten Re:verse | Onmyo Kaiten Re:Birth Verse | https://anilist.co/anime/187387 | Episode 12 |
 | Oshiri Tantei 9 Part 2 | Oshiri Tantei 9 Part 2 | https://anilist.co/anime/194832 | Episode 1 |
 | PetitCure: Precure Fairies | PetitCure: Precure Fairies | https://anilist.co/anime/188394 | Episode 28 |
