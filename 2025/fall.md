@@ -52,6 +52,13 @@ Episode|Link
 1|[Link](https://ani.social/post/20929934)
 {.dense}
 
+## Hyakushou Kizoku 3rd Season
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/21016341)
+{.dense}
+
 ## Kingdom 6th Season • Kingdom Season 6
 
 Episode|Link
@@ -92,6 +99,13 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/20923536)
+{.dense}
+
+## Shinjiteita Nakamatachi ni Dungeon Okuchi de Korosarekaketa ga Gift "Mugen Gacha" de Level 9999 no Nakamatachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu and "Zamaa!" Shimasu! • My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/21016342)
 {.dense}
 
 ## Shuumatsu Touring • Touring After the Apocalypse
