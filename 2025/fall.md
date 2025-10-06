@@ -38,6 +38,13 @@ Episode|Link
 1|[Link](https://ani.social/post/20995194)
 {.dense}
 
+## Egao no Taenai Shokuba desu. • A Mangaka's Weirdly Wonderful Workplace
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/21069452)
+{.dense}
+
 ## Fumetsu no Anata e Season 3 • To Your Eternity Season 3
 
 Episode|Link
