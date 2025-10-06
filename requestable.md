@@ -143,7 +143,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ranma 1/2 (2024) 2nd Season | Ranma1/2 (2024) Season 2 | https://anilist.co/anime/185731 | Episode 1 |
 | Seishun Buta Yarou wa Santa Claus no Yume wo Minai | Rascal Does Not Dream of Santa Claus | https://anilist.co/anime/171046 | Episode 13 |
 | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season | Reborn as a Vending Machine, I Now Wander the Dungeon Season 2 | https://anilist.co/anime/169440 | Episode 12 |
-| Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 108 |
+| Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 109 |
 | Kanojo, Okarishimasu 4th Season | Rent-a-Girlfriend Season 4 | https://anilist.co/anime/179344 | Episode 12 |
 | SHIBUYA♡HACHI Part 4 | SHIBUYA♡HACHI Part 4 | https://anilist.co/anime/195173 | Episode 1 |
 | SI-VIS: The Sound of Heroes | SI-VIS: The Sound of Heroes | https://anilist.co/anime/196553 | Episode 1 |
