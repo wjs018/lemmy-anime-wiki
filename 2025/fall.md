@@ -24,6 +24,13 @@ Episode|Link
 1|[Link](https://ani.social/post/20879832)
 {.dense}
 
+## Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga • My Status as an Assassin Obviously Exceeds the Hero’s
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/21091998)
+{.dense}
+
 ## Ao no Orchestra 2nd Season
 
 Episode|Link
