@@ -144,6 +144,13 @@ Episode|Link
 2|[Link](https://ani.social/post/21079802)
 {.dense}
 
+## Tondemo Skill de Isekai Hourou Meshi 2 • Campfire Cooking in Another World with my Absurd Skill Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/21126360)
+{.dense}
+
 ## Towa no Yuugure • Dusk Beyond the End of the World
 
 Episode|Link
