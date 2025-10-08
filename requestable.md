@@ -169,6 +169,7 @@ These shows have had episodes air already, but no thread was created because the
 | TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 3 |
 | Kekkon Yubiwa Monogatari II | Tales of Wedding Rings Season 2 | https://anilist.co/anime/176298 | Episode 1 |
 | Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu | The Banished Court Magician Aims to Become the Strongest | https://anilist.co/anime/188487 | Episode 1 |
+| Tensei Akujo no Kuro Rekishi | The Dark History of the Reincarnated Villainess | https://anilist.co/anime/174914 | Episode 1 |
 | Mofa Gongzhu De Xiao Fannao | The Fated Magical Princess: Who Made Me a Princess | https://anilist.co/anime/165530 | Episode 4 |
 | Tate no Yuusha no Nariagari Season 4 | The Rising of the Shield Hero Season 4 | https://anilist.co/anime/173780 | Episode 12 |
 | Kizetsu Yuusha to Ansatsu Hime | The Shy Hero and the Assassin Princesses | https://anilist.co/anime/186561 | Episode 12 |
@@ -209,7 +210,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Chanto Suenai Kyuuketsuki-chan | Li'l Miss Vampire Can't Suck Right | https://anilist.co/anime/186524 | October 12 at 13:30 |
 | PetitCure: Precure Fairies Season 2 | PetitCure: Precure Fairies Season 2 | https://anilist.co/anime/199635 | October 09 at 09:30 |
 | Yamato yo Towa ni: REBEL3199 | Star Blazers: Space Battleship Yamato 3199 | https://anilist.co/anime/144779 | October 09 at 16:00 |
-| Tensei Akujo no Kuro Rekishi | The Dark History of the Reincarnated Villainess | https://anilist.co/anime/174914 | October 08 at 15:00 |
 | Housenka | The Last Blossom | https://anilist.co/anime/177686 | October 09 at 16:00 |
 | Ugoku! Neko Mukashi Banashi | Ugoku! Neko Mukashi Banashi | https://anilist.co/anime/188529 | October 15 at 11:00 |
 | Kimi to Koete Koi ni Naru | With You, Our Love Will Make It Through | https://anilist.co/anime/186161 | October 14 at 14:30 |
