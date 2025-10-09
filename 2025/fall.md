@@ -158,6 +158,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/20516032)
 2|[Link](https://ani.social/post/20879117)
+3|[Link](https://ani.social/post/21228432)
 {.dense}
 
 ## Uma Musume: Cinderella Gray Part 2 • Umamusume: Cinderella Gray 2nd Cour
