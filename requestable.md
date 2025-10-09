@@ -133,7 +133,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tsuyokute New Saga | New Saga | https://anilist.co/anime/155838 | Episode 12 |
 | Ninja to Gokudou | Ninja Vs. Gokudo | https://anilist.co/anime/186914 | Episode 1 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 187 |
-| Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 26 |
+| Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 27 |
 | Nohara Hiroshi: Hiru Meshi no Ryuugi | Nohara Hiroshi: Hiru Meshi no Ryuugi | https://anilist.co/anime/187860 | Episode 1 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 50 |
 | Nukitashi THE ANIMATION | Nukitashi THE ANIMATION | https://anilist.co/anime/174188 | Episode 11 |
