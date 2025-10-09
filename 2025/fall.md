@@ -172,6 +172,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/20871206)
+2|[Link](https://ani.social/post/21224094)
 {.dense}
 
 ## Yasei no Last Boss ga Arawareta! • A Wild Last Boss Appeared!
