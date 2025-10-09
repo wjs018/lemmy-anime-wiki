@@ -88,7 +88,7 @@ These shows have had episodes air already, but no thread was created because the
 | Fermat no Ryouri | Fermat Kitchen | https://anilist.co/anime/186003 | Episode 12 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 177 |
 | Future Kid Takara | Future Kid Takara | https://anilist.co/anime/159981 | Episode 1 |
-| Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | Episode 1 |
+| Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | Episode 2 |
 | GIRLS BAND CRY: Seishun Kyousoukyoku | GIRLS BAND CRY: Seishun Kyousoukyoku | https://anilist.co/anime/186714 | Episode 1 |
 | Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | Episode 13 |
 | Gakkou de wa Oshiete Kurenai Taisetsu na Koto | Gakkou de wa Oshiete Kurenai Taisetsu na Koto | https://anilist.co/anime/193238 | Episode 13 |
