@@ -28,14 +28,14 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kingdom 6th Season | Kingdom Season 6 | https://anilist.co/anime/190840 | [Link](https://ani.social/post/20974470) |
 | Let’s Play: Quest Darake no My Life | Let’s Play | https://anilist.co/anime/193968 | [Link](https://ani.social/post/21179451) |
 | Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka | May I Ask for One Final Thing? | https://anilist.co/anime/181447 | [Link](https://ani.social/post/21276772) |
-| Shinjiteita Nakamatachi ni Dungeon Okuchi de Korosarekaketa ga Gift "Mugen Gacha" de Level 9999 no Nakamatachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu and "Zamaa!" Shimasu! | My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge! | https://anilist.co/anime/184322 | [Link](https://ani.social/post/21016342) |
+| Shinjiteita Nakamatachi ni Dungeon Okuchi de Korosarekaketa ga Gift "Mugen Gacha" de Level 9999 no Nakamatachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu and "Zamaa!" Shimasu! | My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge! | https://anilist.co/anime/184322 | [Link](https://ani.social/post/21278263) |
 | Boku no Hero Academia FINAL SEASON | My Hero Academia FINAL SEASON | https://anilist.co/anime/182896 | [Link](https://ani.social/post/20959886) |
 | Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga | My Status as an Assassin Obviously Exceeds the Hero’s | https://anilist.co/anime/186794 | [Link](https://ani.social/post/21091998) |
 | One Punch Man 3 | One-Punch Man Season 3 | https://anilist.co/anime/153800 |  |
 | Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu! | Pass the Monster Meat, Milady! | https://anilist.co/anime/183291 | [Link](https://ani.social/post/21230612) |
 | SANDA | SANDA | https://anilist.co/anime/179302 | [Link](https://ani.social/post/20929936) |
 | SPY×FAMILY Season 3 | SPY x FAMILY Season 3 | https://anilist.co/anime/177937 | [Link](https://ani.social/post/20971814) |
-| Shabake | Shabake | https://anilist.co/anime/184997 | [Link](https://ani.social/post/20923536) |
+| Shabake | Shabake | https://anilist.co/anime/184997 | [Link](https://ani.social/post/21278264) |
 | Star Wars: Visions Volume 3 | Star Wars: Visions Volume 3 | https://anilist.co/anime/184642 |  |
 | Fujimoto Tatsuki 17-26 | Tatsuki Fujimoto 17-26 | https://anilist.co/anime/198188 |  |
 | Watashi wo Tabetai, Hitodenashi | This Monster Wants to Eat Me | https://anilist.co/anime/183385 | [Link](https://ani.social/post/21224094) |
