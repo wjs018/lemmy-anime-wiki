@@ -66,6 +66,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/20973119)
+2|[Link](https://ani.social/post/21328884)
 {.dense}
 
 ## GANGLION
