@@ -82,7 +82,7 @@ These shows have had episodes air already, but no thread was created because the
 | Dekin no Mogura | Dekin no Mogura: The Earthbound Mole | https://anilist.co/anime/184574 | Episode 12 |
 | Mattaku Saikin no Tantei to Kitara | Detectives These Days Are Crazy! | https://anilist.co/anime/180460 | Episode 12 |
 | Dokodemo Makibao: World Tour | Dokodemo Makibao: World Tour | https://anilist.co/anime/199931 | Episode 1 |
-| Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 883 |
+| Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 884 |
 | Dr. STONE: SCIENCE FUTURE Part 2 | Dr. STONE SCIENCE FUTURE Cour 2 | https://anilist.co/anime/189117 | Episode 10 |
 | Long Zu 2 | Dragon Raja II -The Mourner's Eyes- | https://anilist.co/anime/157692 | Episode 13 |
 | Everyday Host | Everyday Host | https://anilist.co/anime/185584 | Episode 24 |
