@@ -55,6 +55,7 @@ These shows have had episodes air already, but no thread was created because the
 | 9-nine- Shihaisha no Oukan | 9-nine- Ruler's Crown | https://anilist.co/anime/177761 | Episode 13 |
 | Kakkou no Iinazuke Season 2 | A Couple of Cuckoos Season 2 | https://anilist.co/anime/179828 | Episode 12 |
 | Taiyou yori mo Mabushii Hoshi | A Star Brighter Than the Sun | https://anilist.co/anime/186621 | Episode 2 |
+| Yasei no Last Boss ga Arawareta! | A Wild Last Boss Appeared! | https://anilist.co/anime/180523 | Episode 3 |
 | Aikatsu! x PriPara THE MOVIE -Deai no Kiseki- | Aikatsu! x PriPara THE MOVIE -Deai no Kiseki- | https://anilist.co/anime/191403 | Episode 1 |
 | Alma-chan wa Kazoku ni Naritai | Alma-chan Wants to Be a Family! | https://anilist.co/anime/186190 | Episode 1 |
 | Anila to Cocora | Anila to Cocora | https://anilist.co/anime/199794 | Episode 2 |
@@ -204,7 +205,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
-| Yasei no Last Boss ga Arawareta! | A Wild Last Boss Appeared! | https://anilist.co/anime/180523 | October 11 at 14:30 |
 | Golden Kamuy: Inazuma Goutou to Mamushi no Ogin/Shimaenaga | Golden Kamuy: Inazuma Goutou to Mamushi no Ogin/Shimaenaga | https://anilist.co/anime/194872 | October 16 at 15:00 |
 | Sawaranaide Kotesashi-kun Mini Anime Gekijou | Hands off: Sawaranaide Kotesashi-kun! Mini Anime | https://anilist.co/anime/199812 | October 12 at 17:06 |
 | Isekai Quartet 3 | Isekai Quartet 3 | https://anilist.co/anime/194447 | October 13 at 13:30 |
