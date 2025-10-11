@@ -76,6 +76,13 @@ Episode|Link
 2|[Link](https://ani.social/post/21269121)
 {.dense}
 
+## Gnosia
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/21327237)
+{.dense}
+
 ## Hyakushou Kizoku 3rd Season
 
 Episode|Link
@@ -112,6 +119,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/20971814)
+2|[Link](https://ani.social/post/21327236)
 {.dense}
 
 ## Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka • May I Ask for One Final Thing?
