@@ -117,7 +117,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kakuriyo no Yadomeshi 2nd Season | Kakuriyo -Bed and Breakfast for Spirits- 2 | https://anilist.co/anime/177271 | Episode 2 |
 | Koala Enikki | Koala Enikki | https://anilist.co/anime/194389 | Episode 2 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 27 |
-| Nageki no Bourei wa Intai shitai 2 | Let This Grieving Soul Retire Cour 2 | https://anilist.co/anime/185801 | Episode 1 |
+| Nageki no Bourei wa Intai shitai 2 | Let This Grieving Soul Retire Cour 2 | https://anilist.co/anime/185801 | Episode 2 |
 | Karaoke Iko! | Let's Go Karaoke! | https://anilist.co/anime/183127 | Episode 5 |
 | Guimi Zhi Zhu | Lord of Mysteries | https://anilist.co/anime/137667 | Episode 14 |
 | MUZIK TIGER In the Forest 2 | MUZIK TIGER In the Forest 2 | https://anilist.co/anime/195383 | Episode 2 |
@@ -170,7 +170,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sylvanian Families: Freya no Wonder Days | Sylvanian Families: Freya no Wonder Days | https://anilist.co/anime/198921 | Episode 2 |
 | TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 3 |
 | Kekkon Yubiwa Monogatari II | Tales of Wedding Rings Season 2 | https://anilist.co/anime/176298 | Episode 2 |
-| Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu | The Banished Court Magician Aims to Become the Strongest | https://anilist.co/anime/188487 | Episode 1 |
+| Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu | The Banished Court Magician Aims to Become the Strongest | https://anilist.co/anime/188487 | Episode 2 |
 | Tensei Akujo no Kuro Rekishi | The Dark History of the Reincarnated Villainess | https://anilist.co/anime/174914 | Episode 1 |
 | Mofa Gongzhu De Xiao Fannao | The Fated Magical Princess: Who Made Me a Princess | https://anilist.co/anime/165530 | Episode 4 |
 | Housenka | The Last Blossom | https://anilist.co/anime/177686 | Episode 1 |
