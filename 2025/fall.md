@@ -52,6 +52,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/20995194)
+2|[Link](https://ani.social/post/21350639)
 {.dense}
 
 ## Egao no Taenai Shokuba desu. • A Mangaka's Weirdly Wonderful Workplace
