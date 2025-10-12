@@ -108,6 +108,13 @@ Episode|Link
 2|[Link](https://ani.social/post/21179451)
 {.dense}
 
+## One Punch Man 3 • One-Punch Man Season 3
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/21375928)
+{.dense}
+
 ## SANDA
 
 Episode|Link
