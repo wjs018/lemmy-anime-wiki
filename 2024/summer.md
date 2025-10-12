@@ -220,7 +220,7 @@ Episode|Link
 1|[Link](https://ani.social/post/5333809)
 {.dense}
 
-## Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II • Our Last Crusade or the Rise of a New World Season 2
+## Kimi to Boku no Saigo no Senjou, Arui wa Sekai ga Hajimaru Seisen Season II • Our Last Crusade or the Rise of a New World Season 2
 
 Episode|Link
 :-:|:-:
