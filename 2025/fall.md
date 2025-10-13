@@ -15,6 +15,7 @@ Below, you can find an index of all the discussion threads for shows from the Fa
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/21076416)
+2|[Link](https://ani.social/post/21429684)
 {.dense}
 
 ## Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu! • Pass the Monster Meat, Milady!
