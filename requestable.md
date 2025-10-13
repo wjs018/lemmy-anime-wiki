@@ -142,7 +142,7 @@ These shows have had episodes air already, but no thread was created because the
 | Oshiri Tantei 9 Part 2 | Oshiri Tantei 9 Part 2 | https://anilist.co/anime/194832 | Episode 2 |
 | PetitCure: Precure Fairies | PetitCure: Precure Fairies | https://anilist.co/anime/188394 | Episode 29 |
 | PetitCure: Precure Fairies Season 2 | PetitCure: Precure Fairies Season 2 | https://anilist.co/anime/199635 | Episode 1 |
-| Debu to Love to Ayamachi to! | Plus-sized Misadventures in Love! | https://anilist.co/anime/170936 | Episode 1 |
+| Debu to Love to Ayamachi to! | Plus-sized Misadventures in Love! | https://anilist.co/anime/170936 | Episode 2 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 112 |
 | Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | Episode 26 |
 | Koujo Denka no Katei Kyoushi | Private Tutor to the Duke's Daughter | https://anilist.co/anime/170113 | Episode 12 |
@@ -210,4 +210,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Monster Strike: Deadverse Reloaded | Monster Strike: Deadverse Reloaded | https://anilist.co/anime/196230 | October 21 at 14:00 |
 | Ugoku! Neko Mukashi Banashi | Ugoku! Neko Mukashi Banashi | https://anilist.co/anime/188529 | October 15 at 11:00 |
 | Kimi to Koete Koi ni Naru | With You, Our Love Will Make It Through | https://anilist.co/anime/186161 | October 14 at 14:30 |
+| Zombieland Saga: Yume Ginga Paradise | Zombieland Saga: Yume Ginga Paradise | https://anilist.co/anime/140337 | October 23 at 15:00 |
 {.dense}
