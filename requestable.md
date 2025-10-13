@@ -177,7 +177,6 @@ These shows have had episodes air already, but no thread was created because the
 | Housenka | The Last Blossom | https://anilist.co/anime/177686 | Episode 1 |
 | Tate no Yuusha no Nariagari Season 4 | The Rising of the Shield Hero Season 4 | https://anilist.co/anime/173780 | Episode 12 |
 | Kizetsu Yuusha to Ansatsu Hime | The Shy Hero and the Assassin Princesses | https://anilist.co/anime/186561 | Episode 12 |
-| Hikaru ga Shinda Natsu | The Summer Hikaru Died | https://anilist.co/anime/177689 | Episode 10 |
 | Mizu Zokusei no Mahou Tsukai | The Water Magician | https://anilist.co/anime/186052 | Episode 12 |
 | Yami Shibai 15 | Theatre of Darkness: Yamishibai 15 | https://anilist.co/anime/194088 | Episode 13 |
 | Tu Bian Yingxiong X | To Be Hero X | https://anilist.co/anime/156092 | Episode 24 |
@@ -206,6 +205,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Golden Kamuy: Inazuma Goutou to Mamushi no Ogin/Shimaenaga | Golden Kamuy: Inazuma Goutou to Mamushi no Ogin/Shimaenaga | https://anilist.co/anime/194872 | October 16 at 15:00 |
+| Kikaijikake no Marie Mini Anime | Kikaijikake no Marie Mini Anime | https://anilist.co/anime/200374 | October 16 at 12:00 |
 | MILGRAM Third Season | MILGRAM The Third Trial | https://anilist.co/anime/186495 | October 21 at 16:00 |
 | Monster Strike: Deadverse Reloaded | Monster Strike: Deadverse Reloaded | https://anilist.co/anime/196230 | October 21 at 14:00 |
 | Ugoku! Neko Mukashi Banashi | Ugoku! Neko Mukashi Banashi | https://anilist.co/anime/188529 | October 15 at 11:00 |
