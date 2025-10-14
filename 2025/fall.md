@@ -183,6 +183,13 @@ Episode|Link
 3|[Link](https://ani.social/post/21431366)
 {.dense}
 
+## Tomodachi no Imouto ga Ore ni dake Uzai • My Friend's Little Sister Has It In for Me!
+
+Episode|Link
+:-:|:-:
+2|[Link](https://ani.social/post/21469105)
+{.dense}
+
 ## Tondemo Skill de Isekai Hourou Meshi 2 • Campfire Cooking in Another World with my Absurd Skill Season 2
 
 Episode|Link
