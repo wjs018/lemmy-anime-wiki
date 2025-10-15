@@ -116,6 +116,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/20829039)
 2|[Link](https://ani.social/post/21179451)
+3|[Link](https://ani.social/post/21530688)
 {.dense}
 
 ## One Punch Man 3 • One-Punch Man Season 3
