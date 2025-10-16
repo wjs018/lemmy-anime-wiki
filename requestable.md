@@ -54,7 +54,7 @@ These shows have had episodes air already, but no thread was created because the
 | 2200-nen Neko no Kuni Nippon | 2200-nen Neko no Kuni Nippon | https://anilist.co/anime/199009 | Episode 2 |
 | 9-nine- Shihaisha no Oukan | 9-nine- Ruler's Crown | https://anilist.co/anime/177761 | Episode 13 |
 | Kakkou no Iinazuke Season 2 | A Couple of Cuckoos Season 2 | https://anilist.co/anime/179828 | Episode 12 |
-| Taiyou yori mo Mabushii Hoshi | A Star Brighter Than the Sun | https://anilist.co/anime/186621 | Episode 2 |
+| Taiyou yori mo Mabushii Hoshi | A Star Brighter Than the Sun | https://anilist.co/anime/186621 | Episode 3 |
 | Yasei no Last Boss ga Arawareta! | A Wild Last Boss Appeared! | https://anilist.co/anime/180523 | Episode 3 |
 | Aikatsu! x PriPara THE MOVIE -Deai no Kiseki- | Aikatsu! x PriPara THE MOVIE -Deai no Kiseki- | https://anilist.co/anime/191403 | Episode 1 |
 | Anila to Cocora | Anila to Cocora | https://anilist.co/anime/199794 | Episode 2 |
@@ -81,7 +81,7 @@ These shows have had episodes air already, but no thread was created because the
 | Dekin no Mogura | Dekin no Mogura: The Earthbound Mole | https://anilist.co/anime/184574 | Episode 12 |
 | Dokodemo Makibao: World Tour | Dokodemo Makibao: World Tour | https://anilist.co/anime/199931 | Episode 2 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 884 |
-| Long Zu 2 | Dragon Raja II -The Mourner's Eyes- | https://anilist.co/anime/157692 | Episode 13 |
+| Long Zu 2 | Dragon Raja II -The Mourner's Eyes- | https://anilist.co/anime/157692 | Episode 14 |
 | Everyday Host | Everyday Host | https://anilist.co/anime/185584 | Episode 24 |
 | Fermat no Ryouri | Fermat Kitchen | https://anilist.co/anime/186003 | Episode 12 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 178 |
