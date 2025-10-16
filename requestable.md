@@ -115,8 +115,9 @@ These shows have had episodes air already, but no thread was created because the
 | Kaijuu 8-gou 2nd Season | Kaiju No. 8 Season 2 | https://anilist.co/anime/178754 | Episode 12 |
 | Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 28 |
 | Kakuriyo no Yadomeshi 2nd Season | Kakuriyo -Bed and Breakfast for Spirits- 2 | https://anilist.co/anime/177271 | Episode 3 |
+| Kikaijikake no Marie Mini Anime | Kikaijikake no Marie Mini Anime | https://anilist.co/anime/200374 | Episode 3 |
 | Kingdom 6th Season | Kingdom Season 6 | https://anilist.co/anime/190840 | Episode 2 |
-| Koala Enikki | Koala Enikki | https://anilist.co/anime/194389 | Episode 2 |
+| Koala Enikki | Koala Enikki | https://anilist.co/anime/194389 | Episode 3 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 28 |
 | Nageki no Bourei wa Intai shitai 2 | Let This Grieving Soul Retire Cour 2 | https://anilist.co/anime/185801 | Episode 2 |
 | Karaoke Iko! | Let's Go Karaoke! | https://anilist.co/anime/183127 | Episode 5 |
@@ -206,7 +207,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Golden Kamuy: Inazuma Goutou to Mamushi no Ogin/Shimaenaga | Golden Kamuy: Inazuma Goutou to Mamushi no Ogin/Shimaenaga | https://anilist.co/anime/194872 | October 16 at 15:00 |
-| Kikaijikake no Marie Mini Anime | Kikaijikake no Marie Mini Anime | https://anilist.co/anime/200374 | October 16 at 12:00 |
 | MILGRAM Third Season | MILGRAM The Third Trial | https://anilist.co/anime/186495 | October 21 at 16:00 |
 | Monster Strike: Deadverse Reloaded | Monster Strike: Deadverse Reloaded | https://anilist.co/anime/196230 | October 21 at 14:00 |
 | Zombieland Saga: Yume Ginga Paradise | Zombieland Saga: Yume Ginga Paradise | https://anilist.co/anime/140337 | October 23 at 15:00 |
