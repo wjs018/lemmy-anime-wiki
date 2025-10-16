@@ -32,7 +32,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Boku no Hero Academia FINAL SEASON | My Hero Academia FINAL SEASON | https://anilist.co/anime/182896 | [Link](https://ani.social/post/21315494) |
 | Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga | My Status as an Assassin Obviously Exceeds the Hero’s | https://anilist.co/anime/186794 | [Link](https://ani.social/post/21433426) |
 | One Punch Man 3 | One-Punch Man Season 3 | https://anilist.co/anime/153800 | [Link](https://ani.social/post/21375928) |
-| Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu! | Pass the Monster Meat, Milady! | https://anilist.co/anime/183291 | [Link](https://ani.social/post/21230612) |
+| Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu! | Pass the Monster Meat, Milady! | https://anilist.co/anime/183291 | [Link](https://ani.social/post/21580340) |
 | SANDA | SANDA | https://anilist.co/anime/179302 | [Link](https://ani.social/post/21285193) |
 | SPY×FAMILY Season 3 | SPY x FAMILY Season 3 | https://anilist.co/anime/177937 | [Link](https://ani.social/post/21327236) |
 | Shabake | Shabake | https://anilist.co/anime/184997 | [Link](https://ani.social/post/21278264) |
@@ -183,7 +183,6 @@ These shows have had episodes air already, but no thread was created because the
 | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | https://anilist.co/anime/196229 | Episode 15 |
 | Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | Episode 14 |
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 11 |
-| Turkey! | Turkey! Time to Strike | https://anilist.co/anime/159483 | Episode 11 |
 | Uchuujin MuuMuu | Uchuujin MuuMuu | https://anilist.co/anime/185070 | Episode 24 |
 | Busamen Gachi Fighter | Uglymug, Epicfighter | https://anilist.co/anime/184575 | Episode 12 |
 | Ugoku! Neko Mukashi Banashi | Ugoku! Neko Mukashi Banashi | https://anilist.co/anime/188529 | Episode 1 |
