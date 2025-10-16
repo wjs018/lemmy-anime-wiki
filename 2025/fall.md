@@ -103,6 +103,13 @@ Episode|Link
 2|[Link](https://ani.social/post/21273922)
 {.dense}
 
+## Kikaijikake no Marie • Mechanical Marie
+
+Episode|Link
+:-:|:-:
+2|[Link](https://ani.social/post/21567477)
+{.dense}
+
 ## Kingdom 6th Season • Kingdom Season 6
 
 Episode|Link
