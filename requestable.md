@@ -143,7 +143,7 @@ These shows have had episodes air already, but no thread was created because the
 | PetitCure: Precure Fairies | PetitCure: Precure Fairies | https://anilist.co/anime/188394 | Episode 29 |
 | PetitCure: Precure Fairies Season 2 | PetitCure: Precure Fairies Season 2 | https://anilist.co/anime/199635 | Episode 2 |
 | Debu to Love to Ayamachi to! | Plus-sized Misadventures in Love! | https://anilist.co/anime/170936 | Episode 2 |
-| Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 112 |
+| Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 113 |
 | Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | Episode 26 |
 | Koujo Denka no Katei Kyoushi | Private Tutor to the Duke's Daughter | https://anilist.co/anime/170113 | Episode 12 |
 | Puniru wa Kawaii Slime 2nd Season | Puniru is a Kawaii Slime Season 2 | https://anilist.co/anime/185755 | Episode 12 |
