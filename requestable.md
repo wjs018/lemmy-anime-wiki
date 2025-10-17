@@ -130,7 +130,7 @@ These shows have had episodes air already, but no thread was created because the
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 50 |
 | New PANTY and STOCKING with GARTERBELT | New PANTY and STOCKING with GARTERBELT | https://anilist.co/anime/151799 | Episode 13 |
 | Ninja to Gokudou | Ninja Vs. Gokudo | https://anilist.co/anime/186914 | Episode 2 |
-| Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 188 |
+| Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 189 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 28 |
 | Nohara Hiroshi: Hiru Meshi no Ryuugi | Nohara Hiroshi: Hiru Meshi no Ryuugi | https://anilist.co/anime/187860 | Episode 3 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 50 |
