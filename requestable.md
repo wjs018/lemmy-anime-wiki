@@ -183,7 +183,6 @@ These shows have had episodes air already, but no thread was created because the
 | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | https://anilist.co/anime/196229 | Episode 15 |
 | Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | Episode 15 |
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 11 |
-| Uchuujin MuuMuu | Uchuujin MuuMuu | https://anilist.co/anime/185070 | Episode 24 |
 | Busamen Gachi Fighter | Uglymug, Epicfighter | https://anilist.co/anime/184575 | Episode 12 |
 | Ugoku! Neko Mukashi Banashi | Ugoku! Neko Mukashi Banashi | https://anilist.co/anime/188529 | Episode 1 |
 | WanDance | WanDance | https://anilist.co/anime/180436 | Episode 2 |
