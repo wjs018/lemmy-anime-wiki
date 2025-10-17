@@ -103,6 +103,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/21016341)
 2|[Link](https://ani.social/post/21273922)
+3|[Link](https://ani.social/post/21622146)
 {.dense}
 
 ## Kikaijikake no Marie • Mechanical Marie
