@@ -129,7 +129,6 @@ These shows have had episodes air already, but no thread was created because the
 | Bukiyou na Senpai. | My Awkward Senpai | https://anilist.co/anime/185575 | Episode 3 |
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 50 |
 | New PANTY and STOCKING with GARTERBELT | New PANTY and STOCKING with GARTERBELT | https://anilist.co/anime/151799 | Episode 13 |
-| Tsuyokute New Saga | New Saga | https://anilist.co/anime/155838 | Episode 12 |
 | Ninja to Gokudou | Ninja Vs. Gokudo | https://anilist.co/anime/186914 | Episode 2 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 188 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 28 |
