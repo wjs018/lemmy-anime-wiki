@@ -66,7 +66,6 @@ These shows have had episodes air already, but no thread was created because the
 | Muchuu sa, Kimi ni. | Captivated, By You | https://anilist.co/anime/183128 | Episode 6 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1179 |
 | Cat's♥Eye (2025) | Cat's Eye (2025) | https://anilist.co/anime/184718 | Episode 4 |
-| Chainsaw Man: Reze-hen | Chainsaw Man – The Movie: Reze Arc | https://anilist.co/anime/171627 | Episode 1 |
 | Chibi Godzilla no Gyakushuu 3 | Chibi Godzilla Raids Again Season 3 | https://anilist.co/anime/193883 | Episode 16 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 285 |
 | Chikyuu no Latair | Chikyuu no Latair | https://anilist.co/anime/198408 | Episode 5 |
@@ -182,7 +181,6 @@ These shows have had episodes air already, but no thread was created because the
 | Ugoku! Neko Mukashi Banashi | Ugoku! Neko Mukashi Banashi | https://anilist.co/anime/188529 | Episode 1 |
 | WanDance | WanDance | https://anilist.co/anime/180436 | Episode 2 |
 | Watari-kun no xx ga Houkai Sunzen | Watari-kun's ****** Is about to Collapse | https://anilist.co/anime/169420 | Episode 16 |
-| Tsuihousha Shokudou e Youkoso! | Welcome to the Outcast's Restaurant! | https://anilist.co/anime/185544 | Episode 12 |
 | Kizu darake Seijo yori Houfuku wo Komete | With Vengeance, Sincerely, Your Broken Saintess | https://anilist.co/anime/195209 | Episode 12 |
 | Ame to Kimi to | With You and the Rain | https://anilist.co/anime/180425 | Episode 12 |
 | Kimi to Koete Koi ni Naru | With You, Our Love Will Make It Through | https://anilist.co/anime/186161 | Episode 1 |
