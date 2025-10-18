@@ -126,6 +126,7 @@ These shows have had episodes air already, but no thread was created because the
 | MUZIK TIGER In the Forest 2 | MUZIK TIGER In the Forest 2 | https://anilist.co/anime/195383 | Episode 3 |
 | Osomatsu-san 4th Season | Mr. Osomatsu 4th season | https://anilist.co/anime/177880 | Episode 13 |
 | Bukiyou na Senpai. | My Awkward Senpai | https://anilist.co/anime/185575 | Episode 3 |
+| Boku no Hero Academia FINAL SEASON | My Hero Academia FINAL SEASON | https://anilist.co/anime/182896 | Episode 3 |
 | Neko ni Tensei Shita Oji-san | Neko ni Tensei Shita Oji-san | https://anilist.co/anime/176191 | Episode 50 |
 | New PANTY and STOCKING with GARTERBELT | New PANTY and STOCKING with GARTERBELT | https://anilist.co/anime/151799 | Episode 13 |
 | Ninja to Gokudou | Ninja Vs. Gokudo | https://anilist.co/anime/186914 | Episode 2 |
@@ -200,6 +201,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | MILGRAM Third Season | MILGRAM The Third Trial | https://anilist.co/anime/186495 | October 21 at 16:00 |
 | Monster Strike: Deadverse Reloaded | Monster Strike: Deadverse Reloaded | https://anilist.co/anime/196230 | October 21 at 14:00 |
-| Boku no Hero Academia FINAL SEASON | My Hero Academia FINAL SEASON | https://anilist.co/anime/182896 | October 18 at 09:30 |
 | Zombieland Saga: Yume Ginga Paradise | Zombieland Saga: Yume Ginga Paradise | https://anilist.co/anime/140337 | October 23 at 15:00 |
 {.dense}
