@@ -39,7 +39,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Fujimoto Tatsuki 17-26 | Tatsuki Fujimoto 17-26 | https://anilist.co/anime/198188 |  |
 | Watashi wo Tabetai, Hitodenashi | This Monster Wants to Eat Me | https://anilist.co/anime/183385 | [Link](https://ani.social/post/21573642) |
 | Fumetsu no Anata e Season 3 | To Your Eternity Season 3 | https://anilist.co/anime/162669 | [Link](https://ani.social/post/21328884) |
-| Shuumatsu Touring | Touring After the Apocalypse | https://anilist.co/anime/186920 | [Link](https://ani.social/post/21331369) |
+| Shuumatsu Touring | Touring After the Apocalypse | https://anilist.co/anime/186920 | [Link](https://ani.social/post/21677205) |
 | Uma Musume: Cinderella Gray Part 2 | Umamusume: Cinderella Gray 2nd Cour | https://anilist.co/anime/195240 | [Link](https://ani.social/post/21362932) |
 {.dense}
 
@@ -117,7 +117,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kingdom 6th Season | Kingdom Season 6 | https://anilist.co/anime/190840 | Episode 2 |
 | Koala Enikki | Koala Enikki | https://anilist.co/anime/194389 | Episode 3 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 28 |
-| Nageki no Bourei wa Intai shitai 2 | Let This Grieving Soul Retire Cour 2 | https://anilist.co/anime/185801 | Episode 2 |
+| Nageki no Bourei wa Intai shitai 2 | Let This Grieving Soul Retire Cour 2 | https://anilist.co/anime/185801 | Episode 3 |
 | Karaoke Iko! | Let's Go Karaoke! | https://anilist.co/anime/183127 | Episode 5 |
 | Chanto Suenai Kyuuketsuki-chan | Li'l Miss Vampire Can't Suck Right | https://anilist.co/anime/186524 | Episode 1 |
 | Guimi Zhi Zhu | Lord of Mysteries | https://anilist.co/anime/137667 | Episode 14 |
@@ -165,7 +165,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sylvanian Families: Freya no Wonder Days | Sylvanian Families: Freya no Wonder Days | https://anilist.co/anime/198921 | Episode 3 |
 | TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 3 |
 | Kekkon Yubiwa Monogatari II | Tales of Wedding Rings Season 2 | https://anilist.co/anime/176298 | Episode 3 |
-| Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu | The Banished Court Magician Aims to Become the Strongest | https://anilist.co/anime/188487 | Episode 2 |
+| Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu | The Banished Court Magician Aims to Become the Strongest | https://anilist.co/anime/188487 | Episode 3 |
 | Tensei Akujo no Kuro Rekishi | The Dark History of the Reincarnated Villainess | https://anilist.co/anime/174914 | Episode 2 |
 | Mofa Gongzhu De Xiao Fannao | The Fated Magical Princess: Who Made Me a Princess | https://anilist.co/anime/165530 | Episode 5 |
 | Housenka | The Last Blossom | https://anilist.co/anime/177686 | Episode 1 |
