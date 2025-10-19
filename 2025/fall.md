@@ -109,6 +109,13 @@ Episode|Link
 3|[Link](https://ani.social/post/21622146)
 {.dense}
 
+## Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun • Inexpressive Kashiwada and Expressive Oota
+
+Episode|Link
+:-:|:-:
+3|[Link](https://ani.social/post/21699631)
+{.dense}
+
 ## Kikaijikake no Marie • Mechanical Marie
 
 Episode|Link
