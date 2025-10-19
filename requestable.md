@@ -115,7 +115,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kikaijikake no Marie Mini Anime | Kikaijikake no Marie Mini Anime | https://anilist.co/anime/200374 | Episode 3 |
 | Kingdom 6th Season | Kingdom Season 6 | https://anilist.co/anime/190840 | Episode 3 |
 | Koala Enikki | Koala Enikki | https://anilist.co/anime/194389 | Episode 3 |
-| Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 28 |
+| Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 29 |
 | Nageki no Bourei wa Intai shitai 2 | Let This Grieving Soul Retire Cour 2 | https://anilist.co/anime/185801 | Episode 3 |
 | Karaoke Iko! | Let's Go Karaoke! | https://anilist.co/anime/183127 | Episode 5 |
 | Chanto Suenai Kyuuketsuki-chan | Li'l Miss Vampire Can't Suck Right | https://anilist.co/anime/186524 | Episode 1 |
@@ -162,7 +162,7 @@ These shows have had episodes air already, but no thread was created because the
 | Summer Pockets | Summer Pockets | https://anilist.co/anime/143200 | Episode 26 |
 | Kijin Gentoushou | Sword of the Demon Hunter: Kijin Gentosho | https://anilist.co/anime/143598 | Episode 24 |
 | Sylvanian Families: Freya no Wonder Days | Sylvanian Families: Freya no Wonder Days | https://anilist.co/anime/198921 | Episode 3 |
-| TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 3 |
+| TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 4 |
 | Kekkon Yubiwa Monogatari II | Tales of Wedding Rings Season 2 | https://anilist.co/anime/176298 | Episode 3 |
 | Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu | The Banished Court Magician Aims to Become the Strongest | https://anilist.co/anime/188487 | Episode 3 |
 | Tensei Akujo no Kuro Rekishi | The Dark History of the Reincarnated Villainess | https://anilist.co/anime/174914 | Episode 2 |
@@ -186,7 +186,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kimi to Koete Koi ni Naru | With You, Our Love Will Make It Through | https://anilist.co/anime/186161 | Episode 1 |
 | Shin Samurai-den YAIBA | YAIBA: Samurai Legend | https://anilist.co/anime/177476 | Episode 24 |
 | Yano-kun no Futsuu no Hibi | Yano-kun's Ordinary Days | https://anilist.co/anime/183965 | Episode 3 |
-| Kimi to Idol Precure♪ | You and Idol Precure ♪ | https://anilist.co/anime/185073 | Episode 36 |
+| Kimi to Idol Precure♪ | You and Idol Precure ♪ | https://anilist.co/anime/185073 | Episode 37 |
 {.dense}
 
 ## Upcoming Shows
