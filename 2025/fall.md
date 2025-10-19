@@ -55,6 +55,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/20959886)
 2|[Link](https://ani.social/post/21315494)
+3|[Link](https://ani.social/post/21710948)
 {.dense}
 
 ## DIGIMON BEATBREAK
