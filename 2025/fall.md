@@ -42,6 +42,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/21091998)
 2|[Link](https://ani.social/post/21433426)
+3|[Link](https://ani.social/post/21785233)
 {.dense}
 
 ## Ao no Orchestra Season 2
