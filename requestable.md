@@ -31,7 +31,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Tomodachi no Imouto ga Ore ni dake Uzai | My Friend's Little Sister Has It In for Me! | https://anilist.co/anime/129195 | [Link](https://ani.social/post/21682379) |
 | Shinjiteita Nakamatachi ni Dungeon Okuchi de Korosarekaketa ga Gift "Mugen Gacha" de Level 9999 no Nakamatachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu and "Zamaa!" Shimasu! | My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge! | https://anilist.co/anime/184322 | [Link](https://ani.social/post/21626913) |
 | Boku no Hero Academia FINAL SEASON | My Hero Academia FINAL SEASON | https://anilist.co/anime/182896 | [Link](https://ani.social/post/21710948) |
-| Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga | My Status as an Assassin Obviously Exceeds the Hero’s | https://anilist.co/anime/186794 | [Link](https://ani.social/post/21433426) |
+| Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga | My Status as an Assassin Obviously Exceeds the Hero’s | https://anilist.co/anime/186794 | [Link](https://ani.social/post/21785233) |
 | One Punch Man 3 | One-Punch Man Season 3 | https://anilist.co/anime/153800 | [Link](https://ani.social/post/21730461) |
 | Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu! | Pass the Monster Meat, Milady! | https://anilist.co/anime/183291 | [Link](https://ani.social/post/21580340) |
 | SANDA | SANDA | https://anilist.co/anime/179302 | [Link](https://ani.social/post/21633024) |
@@ -137,7 +137,6 @@ These shows have had episodes air already, but no thread was created because the
 | Debu to Love to Ayamachi to! | Plus-sized Misadventures in Love! | https://anilist.co/anime/170936 | Episode 3 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 113 |
 | Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | Episode 27 |
-| Koujo Denka no Katei Kyoushi | Private Tutor to the Duke's Daughter | https://anilist.co/anime/170113 | Episode 12 |
 | Puniru wa Kawaii Slime 2nd Season | Puniru is a Kawaii Slime Season 2 | https://anilist.co/anime/185755 | Episode 12 |
 | Punirunes Puni 3 | Punirunes Puni 3 | https://anilist.co/anime/188653 | Episode 16 |
 | Ranma 1/2 (2024) 2nd Season | Ranma1/2 (2024) Season 2 | https://anilist.co/anime/185731 | Episode 3 |
@@ -176,7 +175,6 @@ These shows have had episodes air already, but no thread was created because the
 | WanDance | WanDance | https://anilist.co/anime/180436 | Episode 2 |
 | Watari-kun no xx ga Houkai Sunzen | Watari-kun's ****** Is about to Collapse | https://anilist.co/anime/169420 | Episode 16 |
 | Kizu darake Seijo yori Houfuku wo Komete | With Vengeance, Sincerely, Your Broken Saintess | https://anilist.co/anime/195209 | Episode 12 |
-| Ame to Kimi to | With You and the Rain | https://anilist.co/anime/180425 | Episode 12 |
 | Kimi to Koete Koi ni Naru | With You, Our Love Will Make It Through | https://anilist.co/anime/186161 | Episode 1 |
 | Shin Samurai-den YAIBA | YAIBA: Samurai Legend | https://anilist.co/anime/177476 | Episode 24 |
 | Yano-kun no Futsuu no Hibi | Yano-kun's Ordinary Days | https://anilist.co/anime/183965 | Episode 3 |
