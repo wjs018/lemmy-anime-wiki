@@ -16,6 +16,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/21076416)
 2|[Link](https://ani.social/post/21429684)
+3|[Link](https://ani.social/post/21780482)
 {.dense}
 
 ## Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu! • Pass the Monster Meat, Milady!
