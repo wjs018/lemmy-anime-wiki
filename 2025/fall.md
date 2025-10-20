@@ -214,6 +214,7 @@ Episode|Link
 1|[Link](https://ani.social/post/20960422)
 2|[Link](https://ani.social/post/21079802)
 3|[Link](https://ani.social/post/21431366)
+4|[Link](https://ani.social/post/21782369)
 {.dense}
 
 ## Tomodachi no Imouto ga Ore ni dake Uzai • My Friend's Little Sister Has It In for Me!
