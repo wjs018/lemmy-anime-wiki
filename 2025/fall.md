@@ -74,6 +74,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/21069452)
 2|[Link](https://ani.social/post/21423470)
+3|[Link](https://ani.social/post/21772972)
 {.dense}
 
 ## Fumetsu no Anata e Season 3 • To Your Eternity Season 3
