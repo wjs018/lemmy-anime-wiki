@@ -168,7 +168,6 @@ These shows have had episodes air already, but no thread was created because the
 | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | https://anilist.co/anime/196229 | Episode 16 |
 | Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | Episode 15 |
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 11 |
-| Busamen Gachi Fighter | Uglymug, Epicfighter | https://anilist.co/anime/184575 | Episode 12 |
 | WanDance | WanDance | https://anilist.co/anime/180436 | Episode 2 |
 | Watari-kun no xx ga Houkai Sunzen | Watari-kun's ****** Is about to Collapse | https://anilist.co/anime/169420 | Episode 16 |
 | Kizu darake Seijo yori Houfuku wo Komete | With Vengeance, Sincerely, Your Broken Saintess | https://anilist.co/anime/195209 | Episode 12 |
