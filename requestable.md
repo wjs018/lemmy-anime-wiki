@@ -17,7 +17,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Sozai Saishuka no Isekai Ryokouki | A Gatherer's Adventure in Isekai | https://anilist.co/anime/187663 | [Link](https://ani.social/post/21782369) |
 | Egao no Taenai Shokuba desu. | A Mangaka's Weirdly Wonderful Workplace | https://anilist.co/anime/173523 | [Link](https://ani.social/post/21772972) |
 | Alma-chan wa Kazoku ni Naritai | Alma-chan Wants to Be a Family! | https://anilist.co/anime/186190 | [Link](https://ani.social/post/21728735) |
-| Tondemo Skill de Isekai Hourou Meshi 2 | Campfire Cooking in Another World with my Absurd Skill Season 2 | https://anilist.co/anime/170577 | [Link](https://ani.social/post/21476109) |
+| Tondemo Skill de Isekai Hourou Meshi 2 | Campfire Cooking in Another World with my Absurd Skill Season 2 | https://anilist.co/anime/170577 | [Link](https://ani.social/post/21830049) |
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | [Link](https://ani.social/post/21699315) |
 | Towa no Yuugure | Dusk Beyond the End of the World | https://anilist.co/anime/195153 | [Link](https://ani.social/post/21578591) |
 | GANGLION | GANGLION | https://anilist.co/anime/198117 | [Link](https://ani.social/post/21618353) |
@@ -117,6 +117,7 @@ These shows have had episodes air already, but no thread was created because the
 | Nageki no Bourei wa Intai shitai 2 | Let This Grieving Soul Retire Cour 2 | https://anilist.co/anime/185801 | Episode 3 |
 | Karaoke Iko! | Let's Go Karaoke! | https://anilist.co/anime/183127 | Episode 5 |
 | Chanto Suenai Kyuuketsuki-chan | Li'l Miss Vampire Can't Suck Right | https://anilist.co/anime/186524 | Episode 2 |
+| MILGRAM Third Season | MILGRAM The Third Trial | https://anilist.co/anime/186495 | Episode 3 |
 | MUZIK TIGER In the Forest 2 | MUZIK TIGER In the Forest 2 | https://anilist.co/anime/195383 | Episode 3 |
 | Monster Strike: Deadverse Reloaded | Monster Strike: Deadverse Reloaded | https://anilist.co/anime/196230 | Episode 1 |
 | Osomatsu-san 4th Season | Mr. Osomatsu 4th season | https://anilist.co/anime/177880 | Episode 13 |
@@ -183,7 +184,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
-| MILGRAM Third Season | MILGRAM The Third Trial | https://anilist.co/anime/186495 | October 21 at 16:00 |
 | Sumikko Gurashi: Sora no Ookoku to Futari no Ko | Sumikko Gurashi: Sora no Ookoku to Futari no Ko | https://anilist.co/anime/188522 | October 30 at 15:00 |
 | Zombieland Saga: Yume Ginga Paradise | Zombieland Saga: Yume Ginga Paradise | https://anilist.co/anime/140337 | October 23 at 15:00 |
 {.dense}
