@@ -33,7 +33,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 2|[Link](https://ani.social/post/21435649)
-3|[Link](https://ani.social/post/21728735)
+3|[Link](https://ani.social/post/21728096)
 {.dense}
 
 ## Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga • My Status as an Assassin Obviously Exceeds the Hero’s
