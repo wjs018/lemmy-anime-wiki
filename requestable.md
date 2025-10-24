@@ -98,7 +98,7 @@ These shows have had episodes air already, but no thread was created because the
 | Hotel Inhumans | Hotel Inhumans | https://anilist.co/anime/184034 | Episode 13 |
 | Potion, Wagami wo Tasukeru | I Saved Myself with a Potion!: Life in Another World | https://anilist.co/anime/198561 | Episode 4 |
 | Isekai Quartet 3 | Isekai Quartet 3 | https://anilist.co/anime/194447 | Episode 2 |
-| JOCHUM Season 2 | JOCHUM Season 2 | https://anilist.co/anime/198413 | Episode 3 |
+| JOCHUM Season 2 | JOCHUM Season 2 | https://anilist.co/anime/198413 | Episode 4 |
 | Kamitsubaki-shi Kensetsuchuu. | KAMITSUBAKI CITY UNDER CONSTRUCTION | https://anilist.co/anime/173335 | Episode 13 |
 | Kagaku×Bouken Survival! 2nd Season | Kagaku×Bouken Survival! 2nd Season | https://anilist.co/anime/186736 | Episode 3 |
 | Kaijuu 8-gou 2nd Season | Kaiju No. 8 Season 2 | https://anilist.co/anime/178754 | Episode 12 |
@@ -134,7 +134,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ranma 1/2 (2024) 2nd Season | Ranma1/2 (2024) Season 2 | https://anilist.co/anime/185731 | Episode 3 |
 | Seishun Buta Yarou wa Santa Claus no Yume wo Minai | Rascal Does Not Dream of Santa Claus | https://anilist.co/anime/171046 | Episode 13 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 111 |
-| SHIBUYA♡HACHI Part 4 | SHIBUYA♡HACHI Part 4 | https://anilist.co/anime/195173 | Episode 3 |
+| SHIBUYA♡HACHI Part 4 | SHIBUYA♡HACHI Part 4 | https://anilist.co/anime/195173 | Episode 4 |
 | SI-VIS: The Sound of Heroes | SI-VIS: The Sound of Heroes | https://anilist.co/anime/196553 | Episode 3 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 29 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2802 |
