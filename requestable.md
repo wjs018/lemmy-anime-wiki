@@ -118,7 +118,7 @@ These shows have had episodes air already, but no thread was created because the
 | Osomatsu-san 4th Season | Mr. Osomatsu 4th season | https://anilist.co/anime/177880 | Episode 13 |
 | Bukiyou na Senpai. | My Awkward Senpai | https://anilist.co/anime/185575 | Episode 4 |
 | Ninja to Gokudou | Ninja Vs. Gokudo | https://anilist.co/anime/186914 | Episode 3 |
-| Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 189 |
+| Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 190 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 29 |
 | Nohara Hiroshi: Hiru Meshi no Ryuugi | Nohara Hiroshi: Hiru Meshi no Ryuugi | https://anilist.co/anime/187860 | Episode 4 |
 | Nui Story 2 | Nui Story 2 | https://anilist.co/anime/183473 | Episode 50 |
