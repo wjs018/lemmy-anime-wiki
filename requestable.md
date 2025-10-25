@@ -22,7 +22,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Towa no Yuugure | Dusk Beyond the End of the World | https://anilist.co/anime/195153 | [Link](https://ani.social/post/21931561) |
 | GANGLION | GANGLION | https://anilist.co/anime/198117 | [Link](https://ani.social/post/21970537) |
 | 3-nen Z-gumi Ginpachi-sensei | GINTAMA - Mr. Ginpachi's Zany Class | https://anilist.co/anime/162890 | [Link](https://ani.social/post/21780482) |
-| Gnosia | Gnosia | https://anilist.co/anime/185116 | [Link](https://ani.social/post/21675850) |
+| Gnosia | Gnosia | https://anilist.co/anime/185116 | [Link](https://ani.social/post/22027301) |
 | Hyakushou Kizoku 3rd Season | Hyakushou Kizoku 3rd Season | https://anilist.co/anime/185694 | [Link](https://ani.social/post/21974663) |
 | Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun | Inexpressive Kashiwada and Expressive Oota | https://anilist.co/anime/187940 | [Link](https://ani.social/post/22021562) |
 | Let’s Play: Quest Darake no My Life | Let’s Play | https://anilist.co/anime/193968 | [Link](https://ani.social/post/21883275) |
@@ -35,7 +35,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | One Punch Man 3 | One-Punch Man Season 3 | https://anilist.co/anime/153800 | [Link](https://ani.social/post/21730461) |
 | Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu! | Pass the Monster Meat, Milady! | https://anilist.co/anime/183291 | [Link](https://ani.social/post/21934429) |
 | SANDA | SANDA | https://anilist.co/anime/179302 | [Link](https://ani.social/post/21986606) |
-| SPY×FAMILY Season 3 | SPY x FAMILY Season 3 | https://anilist.co/anime/177937 | [Link](https://ani.social/post/21675847) |
+| SPY×FAMILY Season 3 | SPY x FAMILY Season 3 | https://anilist.co/anime/177937 | [Link](https://ani.social/post/22027252) |
 | Shabake | Shabake | https://anilist.co/anime/184997 | [Link](https://ani.social/post/21978336) |
 | Star Wars: Visions Volume 3 | Star Wars: Visions Volume 3 | https://anilist.co/anime/184642 |  |
 | Watashi wo Tabetai, Hitodenashi | This Monster Wants to Eat Me | https://anilist.co/anime/183385 | [Link](https://ani.social/post/21926355) |
