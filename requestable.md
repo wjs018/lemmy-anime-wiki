@@ -40,7 +40,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Star Wars: Visions Volume 3 | Star Wars: Visions Volume 3 | https://anilist.co/anime/184642 |  |
 | Watashi wo Tabetai, Hitodenashi | This Monster Wants to Eat Me | https://anilist.co/anime/183385 | [Link](https://ani.social/post/21926355) |
 | Fumetsu no Anata e Season 3 | To Your Eternity Season 3 | https://anilist.co/anime/162669 | [Link](https://ani.social/post/21677987) |
-| Shuumatsu Touring | Touring After the Apocalypse | https://anilist.co/anime/186920 | [Link](https://ani.social/post/21677205) |
+| Shuumatsu Touring | Touring After the Apocalypse | https://anilist.co/anime/186920 | [Link](https://ani.social/post/22029547) |
 | Uma Musume: Cinderella Gray Part 2 | Umamusume: Cinderella Gray 2nd Cour | https://anilist.co/anime/195240 | [Link](https://ani.social/post/21714298) |
 {.dense}
 
@@ -106,7 +106,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kingdom 6th Season | Kingdom Season 6 | https://anilist.co/anime/190840 | Episode 3 |
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 4 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 29 |
-| Nageki no Bourei wa Intai shitai 2 | Let This Grieving Soul Retire Cour 2 | https://anilist.co/anime/185801 | Episode 3 |
+| Nageki no Bourei wa Intai shitai 2 | Let This Grieving Soul Retire Cour 2 | https://anilist.co/anime/185801 | Episode 4 |
 | Chanto Suenai Kyuuketsuki-chan | Li'l Miss Vampire Can't Suck Right | https://anilist.co/anime/186524 | Episode 2 |
 | MILGRAM Third Season | MILGRAM The Third Trial | https://anilist.co/anime/186495 | Episode 3 |
 | MUZIK TIGER In the Forest 2 | MUZIK TIGER In the Forest 2 | https://anilist.co/anime/195383 | Episode 4 |
@@ -146,7 +146,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sylvanian Families: Freya no Wonder Days | Sylvanian Families: Freya no Wonder Days | https://anilist.co/anime/198921 | Episode 4 |
 | TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 4 |
 | Kekkon Yubiwa Monogatari II | Tales of Wedding Rings Season 2 | https://anilist.co/anime/176298 | Episode 4 |
-| Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu | The Banished Court Magician Aims to Become the Strongest | https://anilist.co/anime/188487 | Episode 3 |
+| Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu | The Banished Court Magician Aims to Become the Strongest | https://anilist.co/anime/188487 | Episode 4 |
 | Tensei Akujo no Kuro Rekishi | The Dark History of the Reincarnated Villainess | https://anilist.co/anime/174914 | Episode 3 |
 | Mofa Gongzhu De Xiao Fannao | The Fated Magical Princess: Who Made Me a Princess | https://anilist.co/anime/165530 | Episode 6 |
 | Housenka | The Last Blossom | https://anilist.co/anime/177686 | Episode 1 |
