@@ -72,7 +72,6 @@ These shows have had episodes air already, but no thread was created because the
 | Dokodemo Makibao: World Tour | Dokodemo Makibao: World Tour | https://anilist.co/anime/199931 | Episode 3 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 886 |
 | Long Zu 2 | Dragon Raja II -The Mourner's Eyes- | https://anilist.co/anime/157692 | Episode 17 |
-| Everyday Host | Everyday Host | https://anilist.co/anime/185584 | Episode 24 |
 | Fermat no Ryouri | Fermat Kitchen | https://anilist.co/anime/186003 | Episode 12 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 180 |
 | Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | Episode 4 |
