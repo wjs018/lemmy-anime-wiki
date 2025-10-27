@@ -122,7 +122,7 @@ These shows have had episodes air already, but no thread was created because the
 | Punirunes Puni 3 | Punirunes Puni 3 | https://anilist.co/anime/188653 | Episode 17 |
 | Ranma 1/2 (2024) 2nd Season | Ranma1/2 (2024) Season 2 | https://anilist.co/anime/185731 | Episode 4 |
 | Seishun Buta Yarou wa Santa Claus no Yume wo Minai | Rascal Does Not Dream of Santa Claus | https://anilist.co/anime/171046 | Episode 13 |
-| Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 111 |
+| Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 112 |
 | SHIBUYA♡HACHI Part 4 | SHIBUYA♡HACHI Part 4 | https://anilist.co/anime/195173 | Episode 4 |
 | SI-VIS: The Sound of Heroes | SI-VIS: The Sound of Heroes | https://anilist.co/anime/196553 | Episode 4 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 30 |
