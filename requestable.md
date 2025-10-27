@@ -113,7 +113,7 @@ These shows have had episodes air already, but no thread was created because the
 | Oshiri Tantei 9 Part 2 | Oshiri Tantei 9 Part 2 | https://anilist.co/anime/194832 | Episode 4 |
 | PetitCure: Precure Fairies | PetitCure: Precure Fairies | https://anilist.co/anime/188394 | Episode 29 |
 | PetitCure: Precure Fairies Season 2 | PetitCure: Precure Fairies Season 2 | https://anilist.co/anime/199635 | Episode 3 |
-| Debu to Love to Ayamachi to! | Plus-sized Misadventures in Love! | https://anilist.co/anime/170936 | Episode 3 |
+| Debu to Love to Ayamachi to! | Plus-sized Misadventures in Love! | https://anilist.co/anime/170936 | Episode 4 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 114 |
 | Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | Episode 28 |
 | Punirunes Puni 3 | Punirunes Puni 3 | https://anilist.co/anime/188653 | Episode 17 |
@@ -159,5 +159,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
+| Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 2 | Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 2 | https://anilist.co/anime/183384 | November 06 at 15:00 |
 | Sumikko Gurashi: Sora no Ookoku to Futari no Ko | Sumikko Gurashi: Sora no Ookoku to Futari no Ko | https://anilist.co/anime/188522 | October 30 at 15:00 |
 {.dense}
