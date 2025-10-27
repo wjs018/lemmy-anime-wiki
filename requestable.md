@@ -87,7 +87,7 @@ These shows have had episodes air already, but no thread was created because the
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 337 |
 | Hotel Inhumans | Hotel Inhumans | https://anilist.co/anime/184034 | Episode 13 |
 | Potion, Wagami wo Tasukeru | I Saved Myself with a Potion!: Life in Another World | https://anilist.co/anime/198561 | Episode 4 |
-| Isekai Quartet 3 | Isekai Quartet 3 | https://anilist.co/anime/194447 | Episode 2 |
+| Isekai Quartet 3 | Isekai Quartet 3 | https://anilist.co/anime/194447 | Episode 3 |
 | JOCHUM Season 2 | JOCHUM Season 2 | https://anilist.co/anime/198413 | Episode 4 |
 | Kagaku×Bouken Survival! 2nd Season | Kagaku×Bouken Survival! 2nd Season | https://anilist.co/anime/186736 | Episode 4 |
 | Kaijuu 8-gou 2nd Season | Kaiju No. 8 Season 2 | https://anilist.co/anime/178754 | Episode 12 |
