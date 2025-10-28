@@ -243,15 +243,15 @@ Episode|Link
 
 Episode|Link
 :-:|:-:
-1|[Link](https://ani.social/post/22178912)
-2|[Link](https://ani.social/post/22178913)
-3|[Link](https://ani.social/post/22178914)
-4|[Link](https://ani.social/post/22178915)
-5|[Link](https://ani.social/post/22178919)
-6|[Link](https://ani.social/post/22178920)
-7|[Link](https://ani.social/post/22178922)
-8|[Link](https://ani.social/post/22178923)
-9|[Link](https://ani.social/post/22178925)
+1|[Link](https://ani.social/post/22179823)
+2|[Link](https://ani.social/post/22179823)
+3|[Link](https://ani.social/post/22179823)
+4|[Link](https://ani.social/post/22179823)
+5|[Link](https://ani.social/post/22179823)
+6|[Link](https://ani.social/post/22179823)
+7|[Link](https://ani.social/post/22179823)
+8|[Link](https://ani.social/post/22179823)
+9|[Link](https://ani.social/post/22179823)
 {.dense}
 
 ## Tomodachi no Imouto ga Ore ni dake Uzai • My Friend's Little Sister Has It In for Me!
