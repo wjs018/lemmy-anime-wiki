@@ -239,6 +239,21 @@ Episode|Link
 5|[Link](https://ani.social/post/22133339)
 {.dense}
 
+## Star Wars: Visions Volume 3
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/22178912)
+2|[Link](https://ani.social/post/22178913)
+3|[Link](https://ani.social/post/22178914)
+4|[Link](https://ani.social/post/22178915)
+5|[Link](https://ani.social/post/22178919)
+6|[Link](https://ani.social/post/22178920)
+7|[Link](https://ani.social/post/22178922)
+8|[Link](https://ani.social/post/22178923)
+9|[Link](https://ani.social/post/22178925)
+{.dense}
+
 ## Tomodachi no Imouto ga Ore ni dake Uzai • My Friend's Little Sister Has It In for Me!
 
 Episode|Link
