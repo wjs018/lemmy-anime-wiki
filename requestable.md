@@ -62,7 +62,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chibi Godzilla no Gyakushuu 3 | Chibi Godzilla Raids Again Season 3 | https://anilist.co/anime/193883 | Episode 17 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 288 |
 | Chikyuu no Latair | Chikyuu no Latair | https://anilist.co/anime/198408 | Episode 5 |
-| Chitose-kun wa Ramune Bin no Naka | Chitose Is in the Ramune Bottle | https://anilist.co/anime/180082 | Episode 3 |
+| Chitose-kun wa Ramune Bin no Naka | Chitose Is in the Ramune Bottle | https://anilist.co/anime/180082 | Episode 4 |
 | Chou Futsuu Mahou Shoujo Asumi Toruverse | Chou Futsuu Mahou Shoujo Asumi Toruverse | https://anilist.co/anime/198926 | Episode 4 |
 | GaCen Shoujo to Ibunka Kouryuu | Cultural Exchange with a Game Centre Girl | https://anilist.co/anime/180794 | Episode 12 |
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | Episode 4 |
@@ -80,7 +80,7 @@ These shows have had episodes air already, but no thread was created because the
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 627 |
 | Sawaranaide Kotesashi-kun | Hands off: Sawaranaide Kotesashi-kun! | https://anilist.co/anime/187331 | Episode 4 |
 | Sawaranaide Kotesashi-kun Mini Anime Gekijou | Hands off: Sawaranaide Kotesashi-kun! Mini Anime | https://anilist.co/anime/199812 | Episode 4 |
-| Heika Watashi wo Wasurete Kudasai | Heika Watashi wo Wasurete Kudasai | https://anilist.co/anime/198312 | Episode 3 |
+| Heika Watashi wo Wasurete Kudasai | Heika Watashi wo Wasurete Kudasai | https://anilist.co/anime/198312 | Episode 4 |
 | Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga | Hero Without a Class: Who Even Needs Skills?! | https://anilist.co/anime/169969 | Episode 5 |
 | Himitsu no AiPri: Ring-hen | Himitsu no AiPri: Ring-hen | https://anilist.co/anime/184470 | Episode 30 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 337 |
@@ -101,7 +101,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chanto Suenai Kyuuketsuki-chan | Li'l Miss Vampire Can't Suck Right | https://anilist.co/anime/186524 | Episode 3 |
 | MILGRAM Third Season | MILGRAM The Third Trial | https://anilist.co/anime/186495 | Episode 3 |
 | MUZIK TIGER In the Forest 2 | MUZIK TIGER In the Forest 2 | https://anilist.co/anime/195383 | Episode 4 |
-| Monster Strike: Deadverse Reloaded | Monster Strike: Deadverse Reloaded | https://anilist.co/anime/196230 | Episode 1 |
+| Monster Strike: Deadverse Reloaded | Monster Strike: Deadverse Reloaded | https://anilist.co/anime/196230 | Episode 2 |
 | Osomatsu-san 4th Season | Mr. Osomatsu 4th season | https://anilist.co/anime/177880 | Episode 13 |
 | Bukiyou na Senpai. | My Awkward Senpai | https://anilist.co/anime/185575 | Episode 4 |
 | Ninja to Gokudou | Ninja Vs. Gokudo | https://anilist.co/anime/186914 | Episode 3 |
