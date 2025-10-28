@@ -36,7 +36,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | SANDA | SANDA | https://anilist.co/anime/179302 | [Link](https://ani.social/post/21986606) |
 | SPY×FAMILY Season 3 | SPY x FAMILY Season 3 | https://anilist.co/anime/177937 | [Link](https://ani.social/post/22027252) |
 | Shabake | Shabake | https://anilist.co/anime/184997 | [Link](https://ani.social/post/21978336) |
-| Star Wars: Visions Volume 3 | Star Wars: Visions Volume 3 | https://anilist.co/anime/184642 | [Link](https://ani.social/post/22178925) |
+| Star Wars: Visions Volume 3 | Star Wars: Visions Volume 3 | https://anilist.co/anime/184642 | [Link](https://ani.social/post/22179823) |
 | Watashi wo Tabetai, Hitodenashi | This Monster Wants to Eat Me | https://anilist.co/anime/183385 | [Link](https://ani.social/post/21926355) |
 | Fumetsu no Anata e Season 3 | To Your Eternity Season 3 | https://anilist.co/anime/162669 | [Link](https://ani.social/post/22030235) |
 | Shuumatsu Touring | Touring After the Apocalypse | https://anilist.co/anime/186920 | [Link](https://ani.social/post/22029547) |
@@ -64,7 +64,6 @@ These shows have had episodes air already, but no thread was created because the
 | Chikyuu no Latair | Chikyuu no Latair | https://anilist.co/anime/198408 | Episode 5 |
 | Chitose-kun wa Ramune Bin no Naka | Chitose Is in the Ramune Bottle | https://anilist.co/anime/180082 | Episode 4 |
 | Chou Futsuu Mahou Shoujo Asumi Toruverse | Chou Futsuu Mahou Shoujo Asumi Toruverse | https://anilist.co/anime/198926 | Episode 4 |
-| GaCen Shoujo to Ibunka Kouryuu | Cultural Exchange with a Game Centre Girl | https://anilist.co/anime/180794 | Episode 12 |
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | Episode 4 |
 | Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha. | Dad is a Hero, Mom is a Spirit, I'm a Reincarnator | https://anilist.co/anime/173692 | Episode 4 |
 | Dokodemo Makibao: World Tour | Dokodemo Makibao: World Tour | https://anilist.co/anime/199931 | Episode 3 |
