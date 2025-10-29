@@ -89,7 +89,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kagaku×Bouken Survival! 2nd Season | Kagaku×Bouken Survival! 2nd Season | https://anilist.co/anime/186736 | Episode 4 |
 | Kaijuu 8-gou 2nd Season | Kaiju No. 8 Season 2 | https://anilist.co/anime/178754 | Episode 12 |
 | Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 30 |
-| Kakuriyo no Yadomeshi 2nd Season | Kakuriyo -Bed and Breakfast for Spirits- 2 | https://anilist.co/anime/177271 | Episode 4 |
+| Kakuriyo no Yadomeshi 2nd Season | Kakuriyo -Bed and Breakfast for Spirits- 2 | https://anilist.co/anime/177271 | Episode 5 |
 | Kasukana Yuuhi | Kasukana Yuuhi | https://anilist.co/anime/200560 | Episode 1 |
 | Kikaijikake no Marie Mini Anime | Kikaijikake no Marie Mini Anime | https://anilist.co/anime/200374 | Episode 4 |
 | Kingdom 6th Season | Kingdom Season 6 | https://anilist.co/anime/190840 | Episode 4 |
@@ -126,12 +126,11 @@ These shows have had episodes air already, but no thread was created because the
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1721 |
 | Yamato yo Towa ni: REBEL3199 | Star Blazers: Space Battleship Yamato 3199 | https://anilist.co/anime/144779 | Episode 11 |
 | Sumikko Gurashi: Koko ga Ochitsukun Desu | Sumikko Gurashi: Koko ga Ochitsukun Desu | https://anilist.co/anime/188884 | Episode 21 |
-| Kijin Gentoushou | Sword of the Demon Hunter: Kijin Gentosho | https://anilist.co/anime/143598 | Episode 24 |
 | Sylvanian Families: Freya no Wonder Days | Sylvanian Families: Freya no Wonder Days | https://anilist.co/anime/198921 | Episode 4 |
 | TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 4 |
 | Kekkon Yubiwa Monogatari II | Tales of Wedding Rings Season 2 | https://anilist.co/anime/176298 | Episode 4 |
 | Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu | The Banished Court Magician Aims to Become the Strongest | https://anilist.co/anime/188487 | Episode 4 |
-| Tensei Akujo no Kuro Rekishi | The Dark History of the Reincarnated Villainess | https://anilist.co/anime/174914 | Episode 3 |
+| Tensei Akujo no Kuro Rekishi | The Dark History of the Reincarnated Villainess | https://anilist.co/anime/174914 | Episode 4 |
 | Mofa Gongzhu De Xiao Fannao | The Fated Magical Princess: Who Made Me a Princess | https://anilist.co/anime/165530 | Episode 7 |
 | Housenka | The Last Blossom | https://anilist.co/anime/177686 | Episode 1 |
 | Yami Shibai 15 | Theatre of Darkness: Yamishibai 15 | https://anilist.co/anime/194088 | Episode 13 |
