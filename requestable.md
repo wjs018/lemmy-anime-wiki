@@ -74,7 +74,7 @@ These shows have had episodes air already, but no thread was created because the
 | Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | Episode 16 |
 | Golden Kamuy: Inazuma Goutou to Mamushi no Ogin/Shimaenaga | Golden Kamuy: Inazuma Goutou to Mamushi no Ogin/Shimaenaga | https://anilist.co/anime/194872 | Episode 1 |
 | Golden Kamuy: Sapporo Beer Koujou-hen | Golden Kamuy: Sapporo Beer Koujou-hen | https://anilist.co/anime/196115 | Episode 2 |
-| Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 627 |
+| Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 628 |
 | Sawaranaide Kotesashi-kun | Hands off: Sawaranaide Kotesashi-kun! | https://anilist.co/anime/187331 | Episode 4 |
 | Sawaranaide Kotesashi-kun Mini Anime Gekijou | Hands off: Sawaranaide Kotesashi-kun! Mini Anime | https://anilist.co/anime/199812 | Episode 4 |
 | Heika Watashi wo Wasurete Kudasai | Heika Watashi wo Wasurete Kudasai | https://anilist.co/anime/198312 | Episode 4 |
