@@ -72,6 +72,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | Episode 5 |
 | GIRLS BAND CRY: Seishun Kyousoukyoku | GIRLS BAND CRY: Seishun Kyousoukyoku | https://anilist.co/anime/186714 | Episode 1 |
 | Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | Episode 16 |
+| Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | Episode 7 |
 | Golden Kamuy: Inazuma Goutou to Mamushi no Ogin/Shimaenaga | Golden Kamuy: Inazuma Goutou to Mamushi no Ogin/Shimaenaga | https://anilist.co/anime/194872 | Episode 1 |
 | Golden Kamuy: Sapporo Beer Koujou-hen | Golden Kamuy: Sapporo Beer Koujou-hen | https://anilist.co/anime/196115 | Episode 2 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 628 |
@@ -151,6 +152,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
-| Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | October 31 at 04:00 |
 | Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 2 | Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 2 | https://anilist.co/anime/183384 | November 06 at 15:00 |
 {.dense}
