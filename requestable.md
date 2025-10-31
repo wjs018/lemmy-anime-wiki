@@ -121,7 +121,7 @@ These shows have had episodes air already, but no thread was created because the
 | Silent Witch: Chinmoku no Majo no Kakushigoto | Secrets of the Silent Witch | https://anilist.co/anime/179966 | Episode 13 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1307 |
 | Futari Solo Camp | Solo Camping for Two | https://anilist.co/anime/185965 | Episode 17 |
-| Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1721 |
+| Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1722 |
 | Yamato yo Towa ni: REBEL3199 | Star Blazers: Space Battleship Yamato 3199 | https://anilist.co/anime/144779 | Episode 11 |
 | Sumikko Gurashi: Koko ga Ochitsukun Desu | Sumikko Gurashi: Koko ga Ochitsukun Desu | https://anilist.co/anime/188884 | Episode 22 |
 | Sumikko Gurashi: Sora no Ookoku to Futari no Ko | Sumikko Gurashi: Sora no Ookoku to Futari no Ko | https://anilist.co/anime/188522 | Episode 1 |
