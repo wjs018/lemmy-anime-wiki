@@ -104,7 +104,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ninja to Gokudou | Ninja Vs. Gokudo | https://anilist.co/anime/186914 | Episode 4 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 190 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 30 |
-| Nohara Hiroshi: Hiru Meshi no Ryuugi | Nohara Hiroshi: Hiru Meshi no Ryuugi | https://anilist.co/anime/187860 | Episode 4 |
+| Nohara Hiroshi: Hiru Meshi no Ryuugi | Nohara Hiroshi: Hiru Meshi no Ryuugi | https://anilist.co/anime/187860 | Episode 5 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1147 |
 | Oshiri Tantei 9 Part 2 | Oshiri Tantei 9 Part 2 | https://anilist.co/anime/194832 | Episode 4 |
 | PetitCure: Precure Fairies | PetitCure: Precure Fairies | https://anilist.co/anime/188394 | Episode 29 |
@@ -133,10 +133,11 @@ These shows have had episodes air already, but no thread was created because the
 | Tensei Akujo no Kuro Rekishi | The Dark History of the Reincarnated Villainess | https://anilist.co/anime/174914 | Episode 4 |
 | Mofa Gongzhu De Xiao Fannao | The Fated Magical Princess: Who Made Me a Princess | https://anilist.co/anime/165530 | Episode 7 |
 | Housenka | The Last Blossom | https://anilist.co/anime/177686 | Episode 1 |
+| The Lenticulars | The Lenticulars | https://anilist.co/anime/201151 | Episode 1 |
 | Yami Shibai 15 | Theatre of Darkness: Yamishibai 15 | https://anilist.co/anime/194088 | Episode 13 |
 | Toujima Tanzaburou wa Kamen Rider ni Naritai | Tojima Wants to Be a Kamen Rider | https://anilist.co/anime/187464 | Episode 4 |
 | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | https://anilist.co/anime/196229 | Episode 17 |
-| Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | Episode 15 |
+| Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | Episode 16 |
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 11 |
 | WanDance | WanDance | https://anilist.co/anime/180436 | Episode 4 |
 | Watari-kun no xx ga Houkai Sunzen | Watari-kun's ****** Is about to Collapse | https://anilist.co/anime/169420 | Episode 17 |
@@ -153,5 +154,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 2 | Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 2 | https://anilist.co/anime/183384 | November 06 at 15:00 |
-| The Lenticulars | The Lenticulars | https://anilist.co/anime/201151 | October 31 at 14:50 |
 {.dense}
