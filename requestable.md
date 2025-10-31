@@ -21,7 +21,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Towa no Yuugure | Dusk Beyond the End of the World | https://anilist.co/anime/195153 | [Link](https://ani.social/post/22284277) |
 | 3-nen Z-gumi Ginpachi-sensei | GINTAMA - Mr. Ginpachi's Zany Class | https://anilist.co/anime/162890 | [Link](https://ani.social/post/22131706) |
 | Gnosia | Gnosia | https://anilist.co/anime/185116 | [Link](https://ani.social/post/22027301) |
-| Hyakushou Kizoku 3rd Season | Hyakushou Kizoku 3rd Season | https://anilist.co/anime/185694 | [Link](https://ani.social/post/21974663) |
+| Hyakushou Kizoku 3rd Season | Hyakushou Kizoku 3rd Season | https://anilist.co/anime/185694 | [Link](https://ani.social/post/22328709) |
 | Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun | Inexpressive Kashiwada and Expressive Oota | https://anilist.co/anime/187940 | [Link](https://ani.social/post/22021562) |
 | Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka | May I Ask for One Final Thing? | https://anilist.co/anime/181447 | [Link](https://ani.social/post/21982979) |
 | Kikaijikake no Marie | Mechanical Marie | https://anilist.co/anime/179992 | [Link](https://ani.social/post/22076636) |
