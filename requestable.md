@@ -60,14 +60,14 @@ These shows have had episodes air already, but no thread was created because the
 | Chitose-kun wa Ramune Bin no Naka | Chitose Is in the Ramune Bottle | https://anilist.co/anime/180082 | Episode 4 |
 | Chou Futsuu Mahou Shoujo Asumi Toruverse | Chou Futsuu Mahou Shoujo Asumi Toruverse | https://anilist.co/anime/198926 | Episode 5 |
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | Episode 5 |
-| Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha. | Dad is a Hero, Mom is a Spirit, I'm a Reincarnator | https://anilist.co/anime/173692 | Episode 4 |
+| Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha. | Dad is a Hero, Mom is a Spirit, I'm a Reincarnator | https://anilist.co/anime/173692 | Episode 5 |
 | Dokodemo Makibao: World Tour | Dokodemo Makibao: World Tour | https://anilist.co/anime/199931 | Episode 4 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 887 |
 | Long Zu 2 | Dragon Raja II -The Mourner's Eyes- | https://anilist.co/anime/157692 | Episode 18 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 181 |
 | GANGLION | GANGLION | https://anilist.co/anime/198117 | Episode 5 |
 | Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | Episode 5 |
-| Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | Episode 16 |
+| Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | Episode 17 |
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | Episode 7 |
 | Golden Kamuy: Inazuma Goutou to Mamushi no Ogin/Shimaenaga | Golden Kamuy: Inazuma Goutou to Mamushi no Ogin/Shimaenaga | https://anilist.co/anime/194872 | Episode 1 |
 | Golden Kamuy: Sapporo Beer Koujou-hen | Golden Kamuy: Sapporo Beer Koujou-hen | https://anilist.co/anime/196115 | Episode 2 |
@@ -102,7 +102,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 191 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 30 |
 | Nohara Hiroshi: Hiru Meshi no Ryuugi | Nohara Hiroshi: Hiru Meshi no Ryuugi | https://anilist.co/anime/187860 | Episode 5 |
-| ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1147 |
+| ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1148 |
 | Oshiri Tantei 9 Part 2 | Oshiri Tantei 9 Part 2 | https://anilist.co/anime/194832 | Episode 5 |
 | PetitCure: Precure Fairies | PetitCure: Precure Fairies | https://anilist.co/anime/188394 | Episode 29 |
 | PetitCure: Precure Fairies Season 2 | PetitCure: Precure Fairies Season 2 | https://anilist.co/anime/199635 | Episode 4 |
