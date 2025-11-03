@@ -78,7 +78,7 @@ These shows have had episodes air already, but no thread was created because the
 | Himitsu no AiPri: Ring-hen | Himitsu no AiPri: Ring-hen | https://anilist.co/anime/184470 | Episode 31 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 338 |
 | Potion, Wagami wo Tasukeru | I Saved Myself with a Potion!: Life in Another World | https://anilist.co/anime/198561 | Episode 5 |
-| Isekai Quartet 3 | Isekai Quartet 3 | https://anilist.co/anime/194447 | Episode 3 |
+| Isekai Quartet 3 | Isekai Quartet 3 | https://anilist.co/anime/194447 | Episode 4 |
 | JOCHUM Season 2 | JOCHUM Season 2 | https://anilist.co/anime/198413 | Episode 5 |
 | Kagaku×Bouken Survival! 2nd Season | Kagaku×Bouken Survival! 2nd Season | https://anilist.co/anime/186736 | Episode 5 |
 | Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 31 |
