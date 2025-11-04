@@ -289,6 +289,7 @@ Episode|Link
 2|[Link](https://ani.social/post/21476109)
 3|[Link](https://ani.social/post/21830049)
 4|[Link](https://ani.social/post/22181926)
+5|[Link](https://ani.social/post/22535499)
 {.dense}
 
 ## Towa no Yuugure • Dusk Beyond the End of the World
