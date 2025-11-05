@@ -18,6 +18,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Alma-chan wa Kazoku ni Naritai | Alma-chan Wants to Be a Family! | https://anilist.co/anime/186190 | [Link](https://ani.social/post/22433117) |
 | Tondemo Skill de Isekai Hourou Meshi 2 | Campfire Cooking in Another World with my Absurd Skill Season 2 | https://anilist.co/anime/170577 | [Link](https://ani.social/post/22535499) |
 | Towa no Yuugure | Dusk Beyond the End of the World | https://anilist.co/anime/195153 | [Link](https://ani.social/post/22284277) |
+| GANGLION | GANGLION | https://anilist.co/anime/198117 | [Link](https://ani.social/post/22565167) |
 | 3-nen Z-gumi Ginpachi-sensei | GINTAMA - Mr. Ginpachi's Zany Class | https://anilist.co/anime/162890 | [Link](https://ani.social/post/22484286) |
 | Gnosia | Gnosia | https://anilist.co/anime/185116 | [Link](https://ani.social/post/22381100) |
 | Hyakushou Kizoku 3rd Season | Hyakushou Kizoku 3rd Season | https://anilist.co/anime/185694 | [Link](https://ani.social/post/22328709) |
@@ -64,7 +65,6 @@ These shows have had episodes air already, but no thread was created because the
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 887 |
 | Long Zu 2 | Dragon Raja II -The Mourner's Eyes- | https://anilist.co/anime/157692 | Episode 18 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 181 |
-| GANGLION | GANGLION | https://anilist.co/anime/198117 | Episode 5 |
 | Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | Episode 5 |
 | Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | Episode 17 |
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | Episode 7 |
