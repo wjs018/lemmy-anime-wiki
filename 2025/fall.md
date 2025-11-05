@@ -108,6 +108,7 @@ Episode|Link
 2|[Link](https://ani.social/post/21269121)
 3|[Link](https://ani.social/post/21618353)
 4|[Link](https://ani.social/post/21970537)
+5|[Link](https://ani.social/post/22565167)
 {.dense}
 
 ## Gnosia
