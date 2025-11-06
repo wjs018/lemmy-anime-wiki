@@ -85,9 +85,9 @@ These shows have had episodes air already, but no thread was created because the
 | Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 31 |
 | Kakuriyo no Yadomeshi 2nd Season | Kakuriyo -Bed and Breakfast for Spirits- 2 | https://anilist.co/anime/177271 | Episode 6 |
 | Kasukana Yuuhi | Kasukana Yuuhi | https://anilist.co/anime/200560 | Episode 1 |
-| Kikaijikake no Marie Mini Anime | Kikaijikake no Marie Mini Anime | https://anilist.co/anime/200374 | Episode 5 |
+| Kikaijikake no Marie Mini Anime | Kikaijikake no Marie Mini Anime | https://anilist.co/anime/200374 | Episode 6 |
 | Kingdom 6th Season | Kingdom Season 6 | https://anilist.co/anime/190840 | Episode 5 |
-| Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 5 |
+| Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 6 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 31 |
 | Nageki no Bourei wa Intai shitai 2 | Let This Grieving Soul Retire Cour 2 | https://anilist.co/anime/185801 | Episode 5 |
 | Let’s Play: Quest Darake no My Life | Let’s Play | https://anilist.co/anime/193968 | Episode 6 |
