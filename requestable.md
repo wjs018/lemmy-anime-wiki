@@ -118,7 +118,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2804 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1308 |
 | Futari Solo Camp | Solo Camping for Two | https://anilist.co/anime/185965 | Episode 18 |
-| Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1722 |
+| Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1723 |
 | Yamato yo Towa ni: REBEL3199 | Star Blazers: Space Battleship Yamato 3199 | https://anilist.co/anime/144779 | Episode 11 |
 | Sumikko Gurashi: Koko ga Ochitsukun Desu | Sumikko Gurashi: Koko ga Ochitsukun Desu | https://anilist.co/anime/188884 | Episode 22 |
 | Sumikko Gurashi: Sora no Ookoku to Futari no Ko | Sumikko Gurashi: Sora no Ookoku to Futari no Ko | https://anilist.co/anime/188522 | Episode 1 |
