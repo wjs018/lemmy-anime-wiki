@@ -90,6 +90,13 @@ Episode|Link
 4|[Link](https://ani.social/post/22124612)
 {.dense}
 
+## Fujimoto Tatsuki 17-26 • Tatsuki Fujimoto 17-26
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/22710727)
+{.dense}
+
 ## Fumetsu no Anata e Season 3 • To Your Eternity Season 3
 
 Episode|Link
