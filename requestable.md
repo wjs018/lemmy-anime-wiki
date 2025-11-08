@@ -48,7 +48,6 @@ These shows have had episodes air already, but no thread was created because the
 | Egao no Taenai Shokuba desu. | A Mangaka's Weirdly Wonderful Workplace | https://anilist.co/anime/173523 | Episode 5 |
 | Taiyou yori mo Mabushii Hoshi | A Star Brighter Than the Sun | https://anilist.co/anime/186621 | Episode 6 |
 | Yasei no Last Boss ga Arawareta! | A Wild Last Boss Appeared! | https://anilist.co/anime/180523 | Episode 7 |
-| Aikatsu! x PriPara THE MOVIE -Deai no Kiseki- | Aikatsu! x PriPara THE MOVIE -Deai no Kiseki- | https://anilist.co/anime/191403 | Episode 1 |
 | Anila to Cocora | Anila to Cocora | https://anilist.co/anime/199794 | Episode 6 |
 | Ao no Orchestra Season 2 | Ao no Orchestra Season 2 | https://anilist.co/anime/170018 | Episode 5 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1181 |
@@ -118,7 +117,6 @@ These shows have had episodes air already, but no thread was created because the
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1309 |
 | Futari Solo Camp | Solo Camping for Two | https://anilist.co/anime/185965 | Episode 18 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1723 |
-| Yamato yo Towa ni: REBEL3199 | Star Blazers: Space Battleship Yamato 3199 | https://anilist.co/anime/144779 | Episode 11 |
 | Sumikko Gurashi: Koko ga Ochitsukun Desu | Sumikko Gurashi: Koko ga Ochitsukun Desu | https://anilist.co/anime/188884 | Episode 22 |
 | Sumikko Gurashi: Sora no Ookoku to Futari no Ko | Sumikko Gurashi: Sora no Ookoku to Futari no Ko | https://anilist.co/anime/188522 | Episode 1 |
 | Sylvanian Families: Freya no Wonder Days | Sylvanian Families: Freya no Wonder Days | https://anilist.co/anime/198921 | Episode 6 |
@@ -128,7 +126,6 @@ These shows have had episodes air already, but no thread was created because the
 | Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu | The Banished Court Magician Aims to Become the Strongest | https://anilist.co/anime/188487 | Episode 6 |
 | Tensei Akujo no Kuro Rekishi | The Dark History of the Reincarnated Villainess | https://anilist.co/anime/174914 | Episode 5 |
 | Mofa Gongzhu De Xiao Fannao | The Fated Magical Princess: Who Made Me a Princess | https://anilist.co/anime/165530 | Episode 8 |
-| Housenka | The Last Blossom | https://anilist.co/anime/177686 | Episode 1 |
 | Toujima Tanzaburou wa Kamen Rider ni Naritai | Tojima Wants to Be a Kamen Rider | https://anilist.co/anime/187464 | Episode 5 |
 | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | https://anilist.co/anime/196229 | Episode 18 |
 | Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | Episode 17 |
