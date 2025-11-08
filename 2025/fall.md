@@ -261,6 +261,7 @@ Episode|Link
 3|[Link](https://ani.social/post/21677205)
 4|[Link](https://ani.social/post/22029547)
 5|[Link](https://ani.social/post/22382256)
+6|[Link](https://ani.social/post/22733234)
 {.dense}
 
 ## Sozai Saishuka no Isekai Ryokouki • A Gatherer's Adventure in Isekai
