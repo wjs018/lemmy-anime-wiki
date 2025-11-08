@@ -109,7 +109,7 @@ These shows have had episodes air already, but no thread was created because the
 | Debu to Love to Ayamachi to! | Plus-sized Misadventures in Love! | https://anilist.co/anime/170936 | Episode 5 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 116 |
 | Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | Episode 29 |
-| Punirunes Puni 3 | Punirunes Puni 3 | https://anilist.co/anime/188653 | Episode 18 |
+| Punirunes Puni 3 | Punirunes Puni 3 | https://anilist.co/anime/188653 | Episode 19 |
 | Ranma 1/2 (2024) 2nd Season | Ranma1/2 (2024) Season 2 | https://anilist.co/anime/185731 | Episode 5 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 113 |
 | SHIBUYA♡HACHI Part 4 | SHIBUYA♡HACHI Part 4 | https://anilist.co/anime/195173 | Episode 6 |
