@@ -112,7 +112,7 @@ These shows have had episodes air already, but no thread was created because the
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 113 |
 | SHIBUYA♡HACHI Part 4 | SHIBUYA♡HACHI Part 4 | https://anilist.co/anime/195173 | Episode 6 |
 | SI-VIS: The Sound of Heroes | SI-VIS: The Sound of Heroes | https://anilist.co/anime/196553 | Episode 5 |
-| Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 31 |
+| Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 32 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2804 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1309 |
 | Futari Solo Camp | Solo Camping for Two | https://anilist.co/anime/185965 | Episode 18 |
