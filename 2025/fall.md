@@ -130,6 +130,7 @@ Episode|Link
 2|[Link](https://ani.social/post/21675850)
 3|[Link](https://ani.social/post/22027301)
 4|[Link](https://ani.social/post/22381100)
+5|[Link](https://ani.social/post/22731716)
 {.dense}
 
 ## Hyakushou Kizoku 3rd Season
@@ -211,6 +212,7 @@ Episode|Link
 3|[Link](https://ani.social/post/21675847)
 4|[Link](https://ani.social/post/22027252)
 5|[Link](https://ani.social/post/22381096)
+6|[Link](https://ani.social/post/22731715)
 {.dense}
 
 ## Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka • May I Ask for One Final Thing?
