@@ -101,7 +101,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ninja to Gokudou | Ninja Vs. Gokudo | https://anilist.co/anime/186914 | Episode 6 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 192 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 32 |
-| Nohara Hiroshi: Hiru Meshi no Ryuugi | Nohara Hiroshi: Hiru Meshi no Ryuugi | https://anilist.co/anime/187860 | Episode 6 |
+| Nohara Hiroshi: Hiru Meshi no Ryuugi | Nohara Hiroshi: Hiru Meshi no Ryuugi | https://anilist.co/anime/187860 | Episode 7 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1149 |
 | Oshiri Tantei 9 Part 2 | Oshiri Tantei 9 Part 2 | https://anilist.co/anime/194832 | Episode 6 |
 | PetitCure: Precure Fairies Season 2 | PetitCure: Precure Fairies Season 2 | https://anilist.co/anime/199635 | Episode 6 |
@@ -129,7 +129,7 @@ These shows have had episodes air already, but no thread was created because the
 | Mofa Gongzhu De Xiao Fannao | The Fated Magical Princess: Who Made Me a Princess | https://anilist.co/anime/165530 | Episode 9 |
 | Toujima Tanzaburou wa Kamen Rider ni Naritai | Tojima Wants to Be a Kamen Rider | https://anilist.co/anime/187464 | Episode 6 |
 | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | https://anilist.co/anime/196229 | Episode 19 |
-| Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | Episode 17 |
+| Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | Episode 18 |
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 11 |
 | WanDance | WanDance | https://anilist.co/anime/180436 | Episode 6 |
 | Watari-kun no xx ga Houkai Sunzen | Watari-kun's ****** Is about to Collapse | https://anilist.co/anime/169420 | Episode 19 |
