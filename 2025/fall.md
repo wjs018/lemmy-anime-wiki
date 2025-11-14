@@ -215,6 +215,7 @@ Episode|Link
 4|[Link](https://ani.social/post/21986606)
 5|[Link](https://ani.social/post/22339784)
 6|[Link](https://ani.social/post/22689044)
+7|[Link](https://ani.social/post/23027494)
 {.dense}
 
 ## SPY×FAMILY Season 3 • SPY x FAMILY Season 3
