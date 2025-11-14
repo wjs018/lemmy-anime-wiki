@@ -252,6 +252,7 @@ Episode|Link
 4|[Link](https://ani.social/post/21978336)
 5|[Link](https://ani.social/post/22332929)
 6|[Link](https://ani.social/post/22681803)
+7|[Link](https://ani.social/post/23020757)
 {.dense}
 
 ## Shinjiteita Nakamatachi ni Dungeon Okuchi de Korosarekaketa ga Gift "Mugen Gacha" de Level 9999 no Nakamatachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu and "Zamaa!" Shimasu! • My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!
@@ -264,6 +265,7 @@ Episode|Link
 4|[Link](https://ani.social/post/21978335)
 5|[Link](https://ani.social/post/22332928)
 6|[Link](https://ani.social/post/22681802)
+7|[Link](https://ani.social/post/23020755)
 {.dense}
 
 ## Shuumatsu Touring • Touring After the Apocalypse
