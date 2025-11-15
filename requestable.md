@@ -21,7 +21,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Towa no Yuugure | Dusk Beyond the End of the World | https://anilist.co/anime/195153 | [Link](https://ani.social/post/22976624) |
 | GANGLION | GANGLION | https://anilist.co/anime/198117 | [Link](https://ani.social/post/23014573) |
 | 3-nen Z-gumi Ginpachi-sensei | GINTAMA - Mr. Ginpachi's Zany Class | https://anilist.co/anime/162890 | [Link](https://ani.social/post/22831779) |
-| Gnosia | Gnosia | https://anilist.co/anime/185116 | [Link](https://ani.social/post/22731716) |
+| Gnosia | Gnosia | https://anilist.co/anime/185116 | [Link](https://ani.social/post/23062759) |
 | Hyakushou Kizoku 3rd Season | Hyakushou Kizoku 3rd Season | https://anilist.co/anime/185694 | [Link](https://ani.social/post/23017366) |
 | Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka | May I Ask for One Final Thing? | https://anilist.co/anime/181447 | [Link](https://ani.social/post/23025002) |
 | Kikaijikake no Marie | Mechanical Marie | https://anilist.co/anime/179992 | [Link](https://ani.social/post/22777448) |
@@ -30,7 +30,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | One Punch Man 3 | One-Punch Man Season 3 | https://anilist.co/anime/153800 | [Link](https://ani.social/post/22782502) |
 | Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu! | Pass the Monster Meat, Milady! | https://anilist.co/anime/183291 | [Link](https://ani.social/post/22979213) |
 | SANDA | SANDA | https://anilist.co/anime/179302 | [Link](https://ani.social/post/23027494) |
-| SPY×FAMILY Season 3 | SPY x FAMILY Season 3 | https://anilist.co/anime/177937 | [Link](https://ani.social/post/22731715) |
 | Shabake | Shabake | https://anilist.co/anime/184997 | [Link](https://ani.social/post/23020757) |
 | Watashi wo Tabetai, Hitodenashi | This Monster Wants to Eat Me | https://anilist.co/anime/183385 | [Link](https://ani.social/post/22971378) |
 | Fumetsu no Anata e Season 3 | To Your Eternity Season 3 | https://anilist.co/anime/162669 | [Link](https://ani.social/post/22733783) |
@@ -67,7 +66,6 @@ These shows have had episodes air already, but no thread was created because the
 | GIRLS BAND CRY: Naa, Mirai. | GIRLS BAND CRY: Naa, Mirai. | https://anilist.co/anime/199154 | Episode 1 |
 | Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | Episode 18 |
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | Episode 7 |
-| Golden Kamuy: Inazuma Goutou to Mamushi no Ogin/Shimaenaga | Golden Kamuy: Inazuma Goutou to Mamushi no Ogin/Shimaenaga | https://anilist.co/anime/194872 | Episode 1 |
 | Golden Kamuy: Sapporo Beer Koujou-hen | Golden Kamuy: Sapporo Beer Koujou-hen | https://anilist.co/anime/196115 | Episode 2 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 630 |
 | Sawaranaide Kotesashi-kun | Hands off: Sawaranaide Kotesashi-kun! | https://anilist.co/anime/187331 | Episode 6 |
@@ -145,5 +143,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
+| Nukitashi THE ANIMATION OVAs | Nukitashi THE ANIMATION OVAs | https://anilist.co/anime/194712 | November 25 at 15:00 |
+| SPY×FAMILY Season 3 | SPY x FAMILY Season 3 | https://anilist.co/anime/177937 | November 15 at 15:00 |
 | Hateshinaki Scarlet | Scarlet | https://anilist.co/anime/185773 | November 20 at 15:00 |
 {.dense}
