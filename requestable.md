@@ -115,7 +115,7 @@ These shows have had episodes air already, but no thread was created because the
 | SI-VIS: The Sound of Heroes | SI-VIS: The Sound of Heroes | https://anilist.co/anime/196553 | Episode 6 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 32 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2805 |
-| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1309 |
+| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1310 |
 | Futari Solo Camp | Solo Camping for Two | https://anilist.co/anime/185965 | Episode 19 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1724 |
 | Sumikko Gurashi: Koko ga Ochitsukun Desu | Sumikko Gurashi: Koko ga Ochitsukun Desu | https://anilist.co/anime/188884 | Episode 22 |
