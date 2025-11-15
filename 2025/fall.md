@@ -142,6 +142,7 @@ Episode|Link
 3|[Link](https://ani.social/post/22027301)
 4|[Link](https://ani.social/post/22381100)
 5|[Link](https://ani.social/post/22731716)
+6|[Link](https://ani.social/post/23062759)
 {.dense}
 
 ## Hyakushou Kizoku 3rd Season
