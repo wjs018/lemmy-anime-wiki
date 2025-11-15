@@ -322,6 +322,7 @@ Episode|Link
 4|[Link](https://ani.social/post/22035663)
 5|[Link](https://ani.social/post/22388532)
 6|[Link](https://ani.social/post/22738208)
+7|[Link](https://ani.social/post/23069195)
 {.dense}
 
 ## Tondemo Skill de Isekai Hourou Meshi 2 • Campfire Cooking in Another World with my Absurd Skill Season 2
