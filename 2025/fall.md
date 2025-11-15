@@ -118,6 +118,7 @@ Episode|Link
 4|[Link](https://ani.social/post/22030235)
 5|[Link](https://ani.social/post/22382852)
 6|[Link](https://ani.social/post/22733783)
+7|[Link](https://ani.social/post/23064465)
 {.dense}
 
 ## GANGLION
