@@ -230,6 +230,7 @@ Episode|Link
 4|[Link](https://ani.social/post/22027252)
 5|[Link](https://ani.social/post/22381096)
 6|[Link](https://ani.social/post/22731715)
+7|[Link](https://ani.social/post/23087362)
 {.dense}
 
 ## Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka • May I Ask for One Final Thing?
