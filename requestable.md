@@ -85,7 +85,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kikaijikake no Marie Mini Anime | Kikaijikake no Marie Mini Anime | https://anilist.co/anime/200374 | Episode 7 |
 | Kingdom 6th Season | Kingdom Season 6 | https://anilist.co/anime/190840 | Episode 7 |
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 7 |
-| Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 32 |
+| Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 33 |
 | Nageki no Bourei wa Intai shitai 2 | Let This Grieving Soul Retire Cour 2 | https://anilist.co/anime/185801 | Episode 7 |
 | Let’s Play: Quest Darake no My Life | Let’s Play | https://anilist.co/anime/193968 | Episode 7 |
 | Chanto Suenai Kyuuketsuki-chan | Li'l Miss Vampire Can't Suck Right | https://anilist.co/anime/186524 | Episode 5 |
@@ -121,7 +121,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sumikko Gurashi: Sora no Ookoku to Futari no Ko | Sumikko Gurashi: Sora no Ookoku to Futari no Ko | https://anilist.co/anime/188522 | Episode 1 |
 | Sylvanian Families: Freya no Wonder Days | Sylvanian Families: Freya no Wonder Days | https://anilist.co/anime/198921 | Episode 7 |
 | THE LENTICULARS | THE LENTICULARS | https://anilist.co/anime/201151 | Episode 3 |
-| TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 4 |
+| TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 5 |
 | Kekkon Yubiwa Monogatari II | Tales of Wedding Rings Season 2 | https://anilist.co/anime/176298 | Episode 7 |
 | Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu | The Banished Court Magician Aims to Become the Strongest | https://anilist.co/anime/188487 | Episode 7 |
 | Tensei Akujo no Kuro Rekishi | The Dark History of the Reincarnated Villainess | https://anilist.co/anime/174914 | Episode 6 |
@@ -134,7 +134,7 @@ These shows have had episodes air already, but no thread was created because the
 | Watari-kun no xx ga Houkai Sunzen | Watari-kun's ****** Is about to Collapse | https://anilist.co/anime/169420 | Episode 20 |
 | Kimi to Koete Koi ni Naru | With You, Our Love Will Make It Through | https://anilist.co/anime/186161 | Episode 5 |
 | Yano-kun no Futsuu no Hibi | Yano-kun's Ordinary Days | https://anilist.co/anime/183965 | Episode 7 |
-| Kimi to Idol Precure♪ | You and Idol Precure ♪ | https://anilist.co/anime/185073 | Episode 39 |
+| Kimi to Idol Precure♪ | You and Idol Precure ♪ | https://anilist.co/anime/185073 | Episode 40 |
 | Zombieland Saga: Yume Ginga Paradise | Zombieland Saga: Yume Ginga Paradise | https://anilist.co/anime/140337 | Episode 1 |
 {.dense}
 
