@@ -48,7 +48,7 @@ These shows have had episodes air already, but no thread was created because the
 | Taiyou yori mo Mabushii Hoshi | A Star Brighter Than the Sun | https://anilist.co/anime/186621 | Episode 7 |
 | Yasei no Last Boss ga Arawareta! | A Wild Last Boss Appeared! | https://anilist.co/anime/180523 | Episode 8 |
 | Anila to Cocora | Anila to Cocora | https://anilist.co/anime/199794 | Episode 7 |
-| Ao no Orchestra Season 2 | Ao no Orchestra Season 2 | https://anilist.co/anime/170018 | Episode 6 |
+| Ao no Orchestra Season 2 | Ao no Orchestra Season 2 | https://anilist.co/anime/170018 | Episode 7 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1182 |
 | Ugoku! Neko Mukashi Banashi | Cat Tales | https://anilist.co/anime/188529 | Episode 5 |
 | Cat's♥Eye (2025) | Cat's Eye (2025) | https://anilist.co/anime/184718 | Episode 6 |
