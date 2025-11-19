@@ -87,7 +87,7 @@ These shows have had episodes air already, but no thread was created because the
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 7 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 33 |
 | Nageki no Bourei wa Intai shitai 2 | Let This Grieving Soul Retire Cour 2 | https://anilist.co/anime/185801 | Episode 7 |
-| Let’s Play: Quest Darake no My Life | Let’s Play | https://anilist.co/anime/193968 | Episode 7 |
+| Let’s Play: Quest Darake no My Life | Let’s Play | https://anilist.co/anime/193968 | Episode 8 |
 | Chanto Suenai Kyuuketsuki-chan | Li'l Miss Vampire Can't Suck Right | https://anilist.co/anime/186524 | Episode 6 |
 | Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 2 | Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 2 | https://anilist.co/anime/183384 | Episode 1 |
 | MILGRAM Third Season | MILGRAM The Third Trial | https://anilist.co/anime/186495 | Episode 3 |
