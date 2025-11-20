@@ -97,7 +97,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga | My Status as an Assassin Obviously Exceeds the Hero’s | https://anilist.co/anime/186794 | Episode 7 |
 | Ninja to Gokudou | Ninja Vs. Gokudo | https://anilist.co/anime/186914 | Episode 7 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 193 |
-| Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 32 |
+| Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 33 |
 | Nohara Hiroshi: Hiru Meshi no Ryuugi | Nohara Hiroshi: Hiru Meshi no Ryuugi | https://anilist.co/anime/187860 | Episode 7 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1150 |
 | Oshiri Tantei 9 Part 2 | Oshiri Tantei 9 Part 2 | https://anilist.co/anime/194832 | Episode 7 |
