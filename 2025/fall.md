@@ -253,6 +253,7 @@ Episode|Link
 6|[Link](https://ani.social/post/22335434)
 7|[Link](https://ani.social/post/22684031)
 8|[Link](https://ani.social/post/23025002)
+9|[Link](https://ani.social/post/23352981)
 {.dense}
 
 ## Shabake
