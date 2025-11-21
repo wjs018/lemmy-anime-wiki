@@ -22,7 +22,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | GANGLION | GANGLION | https://anilist.co/anime/198117 | [Link](https://ani.social/post/23343404) |
 | 3-nen Z-gumi Ginpachi-sensei | GINTAMA - Mr. Ginpachi's Zany Class | https://anilist.co/anime/162890 | [Link](https://ani.social/post/23157001) |
 | Gnosia | Gnosia | https://anilist.co/anime/185116 | [Link](https://ani.social/post/23062759) |
-| Hyakushou Kizoku 3rd Season | Hyakushou Kizoku 3rd Season | https://anilist.co/anime/185694 | [Link](https://ani.social/post/23017366) |
+| Hyakushou Kizoku 3rd Season | Hyakushou Kizoku 3rd Season | https://anilist.co/anime/185694 | [Link](https://ani.social/post/23346345) |
 | Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka | May I Ask for One Final Thing? | https://anilist.co/anime/181447 | [Link](https://ani.social/post/23025002) |
 | Kikaijikake no Marie | Mechanical Marie | https://anilist.co/anime/179992 | [Link](https://ani.social/post/23104779) |
 | Tomodachi no Imouto ga Ore ni dake Uzai | My Friend's Little Sister Has It In for Me! | https://anilist.co/anime/129195 | [Link](https://ani.social/post/23069195) |
@@ -98,7 +98,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ninja to Gokudou | Ninja Vs. Gokudo | https://anilist.co/anime/186914 | Episode 7 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 193 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 33 |
-| Nohara Hiroshi: Hiru Meshi no Ryuugi | Nohara Hiroshi: Hiru Meshi no Ryuugi | https://anilist.co/anime/187860 | Episode 7 |
+| Nohara Hiroshi: Hiru Meshi no Ryuugi | Nohara Hiroshi: Hiru Meshi no Ryuugi | https://anilist.co/anime/187860 | Episode 8 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1150 |
 | Oshiri Tantei 9 Part 2 | Oshiri Tantei 9 Part 2 | https://anilist.co/anime/194832 | Episode 7 |
 | PetitCure: Precure Fairies Season 2 | PetitCure: Precure Fairies Season 2 | https://anilist.co/anime/199635 | Episode 7 |
@@ -127,7 +127,7 @@ These shows have had episodes air already, but no thread was created because the
 | Mofa Gongzhu De Xiao Fannao | The Fated Magical Princess: Who Made Me a Princess | https://anilist.co/anime/165530 | Episode 10 |
 | Toujima Tanzaburou wa Kamen Rider ni Naritai | Tojima Wants to Be a Kamen Rider | https://anilist.co/anime/187464 | Episode 7 |
 | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | https://anilist.co/anime/196229 | Episode 20 |
-| Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | Episode 18 |
+| Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | Episode 19 |
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 12 |
 | WanDance | WanDance | https://anilist.co/anime/180436 | Episode 7 |
 | Watari-kun no xx ga Houkai Sunzen | Watari-kun's ****** Is about to Collapse | https://anilist.co/anime/169420 | Episode 20 |
