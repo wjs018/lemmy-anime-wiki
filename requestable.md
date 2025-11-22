@@ -33,7 +33,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | SPY×FAMILY Season 3 | SPY x FAMILY Season 3 | https://anilist.co/anime/177937 | [Link](https://ani.social/post/23397215) |
 | Shabake | Shabake | https://anilist.co/anime/184997 | [Link](https://ani.social/post/23350121) |
 | Watashi wo Tabetai, Hitodenashi | This Monster Wants to Eat Me | https://anilist.co/anime/183385 | [Link](https://ani.social/post/23298337) |
-| Fumetsu no Anata e Season 3 | To Your Eternity Season 3 | https://anilist.co/anime/162669 | [Link](https://ani.social/post/23064465) |
 | Uma Musume: Cinderella Gray Part 2 | Umamusume: Cinderella Gray 2nd Cour | https://anilist.co/anime/195240 | [Link](https://ani.social/post/22767262) |
 {.dense}
 
@@ -127,6 +126,7 @@ These shows have had episodes air already, but no thread was created because the
 | Toujima Tanzaburou wa Kamen Rider ni Naritai | Tojima Wants to Be a Kamen Rider | https://anilist.co/anime/187464 | Episode 7 |
 | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | https://anilist.co/anime/196229 | Episode 20 |
 | Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | Episode 19 |
+| Shuumatsu Touring | Touring After the Apocalypse | https://anilist.co/anime/186920 | Episode 8 |
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 12 |
 | WanDance | WanDance | https://anilist.co/anime/180436 | Episode 7 |
 | Watari-kun no xx ga Houkai Sunzen | Watari-kun's ****** Is about to Collapse | https://anilist.co/anime/169420 | Episode 21 |
@@ -142,5 +142,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Nukitashi THE ANIMATION OVAs | Nukitashi THE ANIMATION OVAs | https://anilist.co/anime/194712 | November 25 at 15:00 |
-| Shuumatsu Touring | Touring After the Apocalypse | https://anilist.co/anime/186920 | November 22 at 15:30 |
+| Fumetsu no Anata e Season 3 | To Your Eternity Season 3 | https://anilist.co/anime/162669 | November 22 at 15:45 |
 {.dense}
