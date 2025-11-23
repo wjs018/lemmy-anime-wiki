@@ -216,6 +216,7 @@ Episode|Link
 4|[Link](https://ani.social/post/22436126)
 5|[Link](https://ani.social/post/22782502)
 6|[Link](https://ani.social/post/23109540)
+7|[Link](https://ani.social/post/23449099)
 {.dense}
 
 ## SANDA
