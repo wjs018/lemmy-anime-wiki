@@ -378,6 +378,7 @@ Episode|Link
 3|[Link](https://ani.social/post/21714298)
 4|[Link](https://ani.social/post/22417906)
 5|[Link](https://ani.social/post/22767262)
+6|[Link](https://ani.social/post/23435527)
 {.dense}
 
 ## Watashi wo Tabetai, Hitodenashi • This Monster Wants to Eat Me
