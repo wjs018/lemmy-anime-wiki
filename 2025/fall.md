@@ -317,6 +317,7 @@ Episode|Link
 6|[Link](https://ani.social/post/22485735)
 7|[Link](https://ani.social/post/22833253)
 8|[Link](https://ani.social/post/23158017)
+9|[Link](https://ani.social/post/23496775)
 {.dense}
 
 ## Star Wars: Visions Volume 3
