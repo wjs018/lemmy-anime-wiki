@@ -96,7 +96,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ninja to Gokudou | Ninja Vs. Gokudo | https://anilist.co/anime/186914 | Episode 8 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 194 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 34 |
-| Nohara Hiroshi: Hiru Meshi no Ryuugi | Nohara Hiroshi: Hiru Meshi no Ryuugi | https://anilist.co/anime/187860 | Episode 8 |
+| Nohara Hiroshi: Hiru Meshi no Ryuugi | Nohara Hiroshi: Hiru Meshi no Ryuugi | https://anilist.co/anime/187860 | Episode 9 |
 | Nukitashi THE ANIMATION OVAs | Nukitashi THE ANIMATION OVAs | https://anilist.co/anime/194712 | Episode 1 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1150 |
 | Oshiri Tantei 9 Part 2 | Oshiri Tantei 9 Part 2 | https://anilist.co/anime/194832 | Episode 7 |
@@ -127,7 +127,7 @@ These shows have had episodes air already, but no thread was created because the
 | Fumetsu no Anata e Season 3 | To Your Eternity Season 3 | https://anilist.co/anime/162669 | Episode 8 |
 | Toujima Tanzaburou wa Kamen Rider ni Naritai | Tojima Wants to Be a Kamen Rider | https://anilist.co/anime/187464 | Episode 8 |
 | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | https://anilist.co/anime/196229 | Episode 21 |
-| Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | Episode 19 |
+| Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | Episode 20 |
 | Shuumatsu Touring | Touring After the Apocalypse | https://anilist.co/anime/186920 | Episode 8 |
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 12 |
 | WanDance | WanDance | https://anilist.co/anime/180436 | Episode 8 |
