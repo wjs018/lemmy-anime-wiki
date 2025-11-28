@@ -59,7 +59,7 @@ These shows have had episodes air already, but no thread was created because the
 | Dokodemo Makibao: World Tour | Dokodemo Makibao: World Tour | https://anilist.co/anime/199931 | Episode 8 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 890 |
 | Long Zu 2 | Dragon Raja II -The Mourner's Eyes- | https://anilist.co/anime/157692 | Episode 22 |
-| Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 184 |
+| Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 185 |
 | Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | Episode 9 |
 | GIRLS BAND CRY: Naa, Mirai. | GIRLS BAND CRY: Naa, Mirai. | https://anilist.co/anime/199154 | Episode 1 |
 | Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | Episode 20 |
