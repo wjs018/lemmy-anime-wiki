@@ -107,14 +107,13 @@ These shows have had episodes air already, but no thread was created because the
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 116 |
 | SHIBUYA♡HACHI Part 4 | SHIBUYA♡HACHI Part 4 | https://anilist.co/anime/195173 | Episode 9 |
 | SI-VIS: The Sound of Heroes | SI-VIS: The Sound of Heroes | https://anilist.co/anime/196553 | Episode 8 |
-| Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 34 |
+| Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 35 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2807 |
 | Hateshinaki Scarlet | Scarlet | https://anilist.co/anime/185773 | Episode 1 |
 | Shabake | Shabake | https://anilist.co/anime/184997 | Episode 9 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1312 |
 | Futari Solo Camp | Solo Camping for Two | https://anilist.co/anime/185965 | Episode 21 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1726 |
-| Sumikko Gurashi: Koko ga Ochitsukun Desu | Sumikko Gurashi: Koko ga Ochitsukun Desu | https://anilist.co/anime/188884 | Episode 22 |
 | Sylvanian Families: Freya no Wonder Days | Sylvanian Families: Freya no Wonder Days | https://anilist.co/anime/198921 | Episode 9 |
 | THE LENTICULARS | THE LENTICULARS | https://anilist.co/anime/201151 | Episode 5 |
 | TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 5 |
