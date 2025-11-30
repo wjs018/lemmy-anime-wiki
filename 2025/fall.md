@@ -193,6 +193,7 @@ Episode|Link
 6|[Link](https://ani.social/post/22777448)
 7|[Link](https://ani.social/post/23104779)
 8|[Link](https://ani.social/post/23444673)
+9|[Link](https://ani.social/post/23782070)
 {.dense}
 
 ## Kingdom 6th Season • Kingdom Season 6
