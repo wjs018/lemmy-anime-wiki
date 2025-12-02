@@ -85,7 +85,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chanto Suenai Kyuuketsuki-chan | Li'l Miss Vampire Can't Suck Right | https://anilist.co/anime/186524 | Episode 8 |
 | Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 2 | Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 2 | https://anilist.co/anime/183384 | Episode 1 |
 | MUZIK TIGER In the Forest 2 | MUZIK TIGER In the Forest 2 | https://anilist.co/anime/195383 | Episode 9 |
-| Monster Strike: Deadverse Reloaded | Monster Strike: Deadverse Reloaded | https://anilist.co/anime/196230 | Episode 6 |
+| Monster Strike: Deadverse Reloaded | Monster Strike: Deadverse Reloaded | https://anilist.co/anime/196230 | Episode 7 |
 | Bukiyou na Senpai. | My Awkward Senpai | https://anilist.co/anime/185575 | Episode 9 |
 | Tomodachi no Imouto ga Ore ni dake Uzai | My Friend's Little Sister Has It In for Me! | https://anilist.co/anime/129195 | Episode 9 |
 | Boku no Hero Academia FINAL SEASON | My Hero Academia FINAL SEASON | https://anilist.co/anime/182896 | Episode 9 |
