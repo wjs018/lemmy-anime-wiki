@@ -81,7 +81,7 @@ These shows have had episodes air already, but no thread was created because the
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 9 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 35 |
 | Nageki no Bourei wa Intai shitai 2 | Let This Grieving Soul Retire Cour 2 | https://anilist.co/anime/185801 | Episode 9 |
-| Let’s Play: Quest Darake no My Life | Let’s Play | https://anilist.co/anime/193968 | Episode 9 |
+| Let’s Play: Quest Darake no My Life | Let’s Play | https://anilist.co/anime/193968 | Episode 10 |
 | Chanto Suenai Kyuuketsuki-chan | Li'l Miss Vampire Can't Suck Right | https://anilist.co/anime/186524 | Episode 8 |
 | Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 2 | Love Live! Nijigasaki Gakuen School Idol Doukoukai: Kanketsu-hen 2 | https://anilist.co/anime/183384 | Episode 1 |
 | MUZIK TIGER In the Forest 2 | MUZIK TIGER In the Forest 2 | https://anilist.co/anime/195383 | Episode 10 |
