@@ -139,5 +139,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
+| #Kanagawa ni Sunderu Elf | #Kanagawa ni Sunderu Elf | https://anilist.co/anime/199005 | December 11 at 04:00 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | December 05 at 10:25 |
 {.dense}
