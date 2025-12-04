@@ -29,7 +29,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu! | Pass the Monster Meat, Milady! | https://anilist.co/anime/183291 | [Link](https://ani.social/post/23646009) |
 | SANDA | SANDA | https://anilist.co/anime/179302 | [Link](https://ani.social/post/23694219) |
 | SPY×FAMILY Season 3 | SPY x FAMILY Season 3 | https://anilist.co/anime/177937 | [Link](https://ani.social/post/23734842) |
-| Watashi wo Tabetai, Hitodenashi | This Monster Wants to Eat Me | https://anilist.co/anime/183385 | [Link](https://ani.social/post/23637346) |
 | Uma Musume: Cinderella Gray Part 2 | Umamusume: Cinderella Gray 2nd Cour | https://anilist.co/anime/195240 | [Link](https://ani.social/post/23771900) |
 {.dense}
 
@@ -140,4 +139,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | December 05 at 10:25 |
+| Watashi wo Tabetai, Hitodenashi | This Monster Wants to Eat Me | https://anilist.co/anime/183385 | December 04 at 14:30 |
 {.dense}
