@@ -40,7 +40,7 @@ These shows have had episodes air already, but no thread was created because the
 | :-------- | :---------------- | :----------- | :--------------------------: |
 | 2200-nen Neko no Kuni Nippon | 2200-nen Neko no Kuni Nippon | https://anilist.co/anime/199009 | Episode 10 |
 | Egao no Taenai Shokuba desu. | A Mangaka's Weirdly Wonderful Workplace | https://anilist.co/anime/173523 | Episode 9 |
-| Taiyou yori mo Mabushii Hoshi | A Star Brighter Than the Sun | https://anilist.co/anime/186621 | Episode 9 |
+| Taiyou yori mo Mabushii Hoshi | A Star Brighter Than the Sun | https://anilist.co/anime/186621 | Episode 10 |
 | Yasei no Last Boss ga Arawareta! | A Wild Last Boss Appeared! | https://anilist.co/anime/180523 | Episode 10 |
 | Anila to Cocora | Anila to Cocora | https://anilist.co/anime/199794 | Episode 9 |
 | Ao no Orchestra Season 2 | Ao no Orchestra Season 2 | https://anilist.co/anime/170018 | Episode 9 |
@@ -55,7 +55,7 @@ These shows have had episodes air already, but no thread was created because the
 | Disney Twisted-Wonderland: THE ANIMATION - Season 1: EPISODE of HEARTSLABYUL | Disney Twisted-Wonderland: THE ANIMATION - Season 1: EPISODE of HEARTSLABYUL | https://anilist.co/anime/140291 | Episode 6 |
 | Dokodemo Makibao: World Tour | Dokodemo Makibao: World Tour | https://anilist.co/anime/199931 | Episode 9 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 891 |
-| Long Zu 2 | Dragon Raja II -The Mourner's Eyes- | https://anilist.co/anime/157692 | Episode 22 |
+| Long Zu 2 | Dragon Raja II -The Mourner's Eyes- | https://anilist.co/anime/157692 | Episode 23 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 185 |
 | Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | Episode 10 |
 | GIRLS BAND CRY: Naa, Mirai. | GIRLS BAND CRY: Naa, Mirai. | https://anilist.co/anime/199154 | Episode 1 |
