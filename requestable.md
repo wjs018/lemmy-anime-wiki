@@ -51,7 +51,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 299 |
 | Chitose-kun wa Ramune Bin no Naka | Chitose Is in the Ramune Bottle | https://anilist.co/anime/180082 | Episode 6 |
 | Chou Futsuu Mahou Shoujo Asumi Toruverse | Chou Futsuu Mahou Shoujo Asumi Toruverse | https://anilist.co/anime/198926 | Episode 10 |
-| DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | Episode 9 |
+| DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | Episode 10 |
 | Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha. | Dad is a Hero, Mom is a Spirit, I'm a Reincarnator | https://anilist.co/anime/173692 | Episode 9 |
 | Disney Twisted-Wonderland: THE ANIMATION - Season 1: EPISODE of HEARTSLABYUL | Disney Twisted-Wonderland: THE ANIMATION - Season 1: EPISODE of HEARTSLABYUL | https://anilist.co/anime/140291 | Episode 6 |
 | Dokodemo Makibao: World Tour | Dokodemo Makibao: World Tour | https://anilist.co/anime/199931 | Episode 9 |
@@ -99,7 +99,7 @@ These shows have had episodes air already, but no thread was created because the
 | PetitCure: Precure Fairies Season 2 | PetitCure: Precure Fairies Season 2 | https://anilist.co/anime/199635 | Episode 9 |
 | Debu to Love to Ayamachi to! | Plus-sized Misadventures in Love! | https://anilist.co/anime/170936 | Episode 9 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 120 |
-| Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | Episode 33 |
+| Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | Episode 34 |
 | Punirunes Puni 3 | Punirunes Puni 3 | https://anilist.co/anime/188653 | Episode 23 |
 | Ranma 1/2 (2024) 2nd Season | Ranma1/2 (2024) Season 2 | https://anilist.co/anime/185731 | Episode 10 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 117 |
