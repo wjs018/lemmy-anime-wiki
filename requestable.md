@@ -140,5 +140,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | #Kanagawa ni Sunderu Elf | #Kanagawa ni Sunderu Elf | https://anilist.co/anime/199005 | December 11 at 04:00 |
+| Ao no Miburo: Serizawa Ansatsu-hen | Ao no Miburo: Serizawa Ansatsu-hen | https://anilist.co/anime/189258 | December 20 at 08:30 |
 | Atashin'chi NEXT 2 | Atashin'chi NEXT 2 | https://anilist.co/anime/203146 | December 19 at 22:30 |
 {.dense}
