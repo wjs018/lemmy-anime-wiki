@@ -224,6 +224,13 @@ Episode|Link
 4|[Link](https://ani.social/post/21883275)
 {.dense}
 
+## Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga • Hero Without a Class: Who Even Needs Skills?!
+
+Episode|Link
+:-:|:-:
+12|[Link](https://ani.social/post/24307643)
+{.dense}
+
 ## One Punch Man 3 • One-Punch Man Season 3
 
 Episode|Link
