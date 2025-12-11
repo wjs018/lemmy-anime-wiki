@@ -40,6 +40,7 @@ Episode|Link
 8|[Link](https://ani.social/post/23306773)
 9|[Link](https://ani.social/post/23646009)
 10|[Link](https://ani.social/post/23992175)
+11|[Link](https://ani.social/post/24348867)
 {.dense}
 
 ## Alma-chan wa Kazoku ni Naritai • Alma-chan Wants to Be a Family!
