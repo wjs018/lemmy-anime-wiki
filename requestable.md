@@ -70,7 +70,7 @@ These shows have had episodes air already, but no thread was created because the
 | Heika Watashi wo Wasurete Kudasai | Heika Watashi wo Wasurete Kudasai | https://anilist.co/anime/198312 | Episode 10 |
 | Himitsu no AiPri: Ring-hen | Himitsu no AiPri: Ring-hen | https://anilist.co/anime/184470 | Episode 36 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 343 |
-| Potion, Wagami wo Tasukeru | I Saved Myself with a Potion!: Life in Another World | https://anilist.co/anime/198561 | Episode 10 |
+| Potion, Wagami wo Tasukeru | I Saved Myself with a Potion!: Life in Another World | https://anilist.co/anime/198561 | Episode 11 |
 | Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun | Inexpressive Kashiwada and Expressive Oota | https://anilist.co/anime/187940 | Episode 10 |
 | Isekai Quartet 3 | Isekai Quartet 3 | https://anilist.co/anime/194447 | Episode 9 |
 | JOCHUM Season 2 | JOCHUM Season 2 | https://anilist.co/anime/198413 | Episode 10 |
