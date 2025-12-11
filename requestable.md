@@ -113,7 +113,7 @@ These shows have had episodes air already, but no thread was created because the
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1313 |
 | Futari Solo Camp | Solo Camping for Two | https://anilist.co/anime/185965 | Episode 22 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1727 |
-| Sylvanian Families: Freya no Wonder Days | Sylvanian Families: Freya no Wonder Days | https://anilist.co/anime/198921 | Episode 10 |
+| Sylvanian Families: Freya no Wonder Days | Sylvanian Families: Freya no Wonder Days | https://anilist.co/anime/198921 | Episode 11 |
 | THE LENTICULARS | THE LENTICULARS | https://anilist.co/anime/201151 | Episode 6 |
 | TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 5 |
 | Kekkon Yubiwa Monogatari II | Tales of Wedding Rings Season 2 | https://anilist.co/anime/176298 | Episode 10 |
