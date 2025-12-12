@@ -326,6 +326,7 @@ Episode|Link
 8|[Link](https://ani.social/post/23350067)
 9|[Link](https://ani.social/post/23686735)
 10|[Link](https://ani.social/post/24035011)
+11|[Link](https://ani.social/post/24394983)
 {.dense}
 
 ## Shuumatsu Touring • Touring After the Apocalypse
