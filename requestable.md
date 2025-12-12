@@ -112,7 +112,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shabake | Shabake | https://anilist.co/anime/184997 | Episode 10 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1313 |
 | Futari Solo Camp | Solo Camping for Two | https://anilist.co/anime/185965 | Episode 23 |
-| Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1727 |
+| Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1728 |
 | Sylvanian Families: Freya no Wonder Days | Sylvanian Families: Freya no Wonder Days | https://anilist.co/anime/198921 | Episode 11 |
 | THE LENTICULARS | THE LENTICULARS | https://anilist.co/anime/201151 | Episode 6 |
 | TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 5 |
