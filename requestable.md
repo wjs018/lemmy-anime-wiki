@@ -103,6 +103,7 @@ These shows have had episodes air already, but no thread was created because the
 | Punirunes Puni 3 | Punirunes Puni 3 | https://anilist.co/anime/188653 | Episode 23 |
 | Ranma 1/2 (2024) 2nd Season | Ranma1/2 (2024) Season 2 | https://anilist.co/anime/185731 | Episode 10 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 118 |
+| SANDA | SANDA | https://anilist.co/anime/179302 | Episode 11 |
 | SHIBUYA♡HACHI Part 4 | SHIBUYA♡HACHI Part 4 | https://anilist.co/anime/195173 | Episode 10 |
 | SI-VIS: The Sound of Heroes | SI-VIS: The Sound of Heroes | https://anilist.co/anime/196553 | Episode 10 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 36 |
@@ -141,5 +142,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Ao no Miburo: Serizawa Ansatsu-hen | Ao no Miburo: Serizawa Ansatsu-hen | https://anilist.co/anime/189258 | December 20 at 08:30 |
 | Atashin'chi NEXT 2 | Atashin'chi NEXT 2 | https://anilist.co/anime/203146 | December 19 at 22:30 |
-| SANDA | SANDA | https://anilist.co/anime/179302 | December 12 at 17:53 |
 {.dense}
