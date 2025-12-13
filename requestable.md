@@ -21,7 +21,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Towa no Yuugure | Dusk Beyond the End of the World | https://anilist.co/anime/195153 | [Link](https://ani.social/post/24345547) |
 | GANGLION | GANGLION | https://anilist.co/anime/198117 | [Link](https://ani.social/post/24387121) |
 | 3-nen Z-gumi Ginpachi-sensei | GINTAMA - Mr. Ginpachi's Zany Class | https://anilist.co/anime/162890 | [Link](https://ani.social/post/24177767) |
-| Gnosia | Gnosia | https://anilist.co/anime/185116 | [Link](https://ani.social/post/24077760) |
+| Gnosia | Gnosia | https://anilist.co/anime/185116 | [Link](https://ani.social/post/24444385) |
 | Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakattan Daga | Hero Without a Class: Who Even Needs Skills?! | https://anilist.co/anime/169969 | [Link](https://ani.social/post/24307643) |
 | Hyakushou Kizoku 3rd Season | Hyakushou Kizoku 3rd Season | https://anilist.co/anime/185694 | [Link](https://ani.social/post/24390737) |
 | Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka | May I Ask for One Final Thing? | https://anilist.co/anime/181447 | [Link](https://ani.social/post/24397153) |
@@ -29,7 +29,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Shinjiteita Nakamatachi ni Dungeon Okuchi de Korosarekaketa ga Gift "Mugen Gacha" de Level 9999 no Nakamatachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu and "Zamaa!" Shimasu! | My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge! | https://anilist.co/anime/184322 | [Link](https://ani.social/post/24394983) |
 | One Punch Man 3 | One-Punch Man Season 3 | https://anilist.co/anime/153800 | [Link](https://ani.social/post/24128061) |
 | Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu! | Pass the Monster Meat, Milady! | https://anilist.co/anime/183291 | [Link](https://ani.social/post/24348867) |
-| SPY×FAMILY Season 3 | SPY x FAMILY Season 3 | https://anilist.co/anime/177937 | [Link](https://ani.social/post/24077759) |
+| SPY×FAMILY Season 3 | SPY x FAMILY Season 3 | https://anilist.co/anime/177937 | [Link](https://ani.social/post/24444342) |
 | Uma Musume: Cinderella Gray Part 2 | Umamusume: Cinderella Gray 2nd Cour | https://anilist.co/anime/195240 | [Link](https://ani.social/post/24111784) |
 {.dense}
 
@@ -60,7 +60,6 @@ These shows have had episodes air already, but no thread was created because the
 | Long Zu 2 | Dragon Raja II -The Mourner's Eyes- | https://anilist.co/anime/157692 | Episode 24 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 187 |
 | Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | Episode 11 |
-| GIRLS BAND CRY: Naa, Mirai. | GIRLS BAND CRY: Naa, Mirai. | https://anilist.co/anime/199154 | Episode 1 |
 | Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | Episode 22 |
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | Episode 8 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 634 |
