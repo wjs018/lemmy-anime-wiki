@@ -46,7 +46,7 @@ These shows have had episodes air already, but no thread was created because the
 | Anila to Cocora | Anila to Cocora | https://anilist.co/anime/199794 | Episode 11 |
 | Ao no Orchestra Season 2 | Ao no Orchestra Season 2 | https://anilist.co/anime/170018 | Episode 10 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 108 |
-| Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1184 |
+| Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1185 |
 | Ugoku! Neko Mukashi Banashi | Cat Tales | https://anilist.co/anime/188529 | Episode 9 |
 | Chibi Godzilla no Gyakushuu 3 | Chibi Godzilla Raids Again Season 3 | https://anilist.co/anime/193883 | Episode 24 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 301 |
