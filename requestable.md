@@ -110,7 +110,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2809 |
 | Hateshinaki Scarlet | Scarlet | https://anilist.co/anime/185773 | Episode 1 |
 | Shabake | Shabake | https://anilist.co/anime/184997 | Episode 11 |
-| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1313 |
+| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1314 |
 | Futari Solo Camp | Solo Camping for Two | https://anilist.co/anime/185965 | Episode 23 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1728 |
 | Sylvanian Families: Freya no Wonder Days | Sylvanian Families: Freya no Wonder Days | https://anilist.co/anime/198921 | Episode 11 |
