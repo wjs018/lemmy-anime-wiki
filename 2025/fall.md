@@ -250,6 +250,7 @@ Episode|Link
 7|[Link](https://ani.social/post/23449099)
 8|[Link](https://ani.social/post/23787449)
 9|[Link](https://ani.social/post/24128061)
+10|[Link](https://ani.social/post/24492164)
 {.dense}
 
 ## SANDA
