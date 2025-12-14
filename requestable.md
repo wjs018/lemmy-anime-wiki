@@ -122,7 +122,7 @@ These shows have had episodes air already, but no thread was created because the
 | Watashi wo Tabetai, Hitodenashi | This Monster Wants to Eat Me | https://anilist.co/anime/183385 | Episode 11 |
 | Fumetsu no Anata e Season 3 | To Your Eternity Season 3 | https://anilist.co/anime/162669 | Episode 11 |
 | Toujima Tanzaburou wa Kamen Rider ni Naritai | Tojima Wants to Be a Kamen Rider | https://anilist.co/anime/187464 | Episode 11 |
-| Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | https://anilist.co/anime/196229 | Episode 23 |
+| Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | https://anilist.co/anime/196229 | Episode 24 |
 | Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | Episode 22 |
 | Shuumatsu Touring | Touring After the Apocalypse | https://anilist.co/anime/186920 | Episode 11 |
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 12 |
