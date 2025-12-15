@@ -143,4 +143,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Girls und Panzer: Motto Love Love Sakusen desu! | Girls und Panzer: Motto Love Love Sakusen desu! | https://anilist.co/anime/188034 | December 25 at 15:00 |
 | Kono Hon wo Nusumu Mono wa | Kono Hon wo Nusumu Mono wa | https://anilist.co/anime/193923 | December 25 at 16:00 |
 | Xian Wang de Richang Shenghuo 5 | The Daily Life of the Immortal King Season 5 | https://anilist.co/anime/185857 | December 21 at 04:00 |
+| Undead Unluck: Winter-hen | Undead Unluck: Winter-hen | https://anilist.co/anime/179930 | December 25 at 16:10 |
 {.dense}
