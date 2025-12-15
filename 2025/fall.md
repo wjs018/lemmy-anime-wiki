@@ -109,6 +109,7 @@ Episode|Link
 8|[Link](https://ani.social/post/23489690)
 9|[Link](https://ani.social/post/24050772)
 10|[Link](https://ani.social/post/24171603)
+11|[Link](https://ani.social/post/24536441)
 {.dense}
 
 ## Fujimoto Tatsuki 17-26 • Tatsuki Fujimoto 17-26
