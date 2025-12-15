@@ -48,7 +48,7 @@ These shows have had episodes air already, but no thread was created because the
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1185 |
 | Ugoku! Neko Mukashi Banashi | Cat Tales | https://anilist.co/anime/188529 | Episode 9 |
 | Chibi Godzilla no Gyakushuu 3 | Chibi Godzilla Raids Again Season 3 | https://anilist.co/anime/193883 | Episode 24 |
-| Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 301 |
+| Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 302 |
 | Chitose-kun wa Ramune Bin no Naka | Chitose Is in the Ramune Bottle | https://anilist.co/anime/180082 | Episode 7 |
 | Chou Futsuu Mahou Shoujo Asumi Toruverse | Chou Futsuu Mahou Shoujo Asumi Toruverse | https://anilist.co/anime/198926 | Episode 11 |
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | Episode 11 |
