@@ -139,6 +139,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Ao no Miburo: Serizawa Ansatsu-hen | Ao no Miburo: Serizawa Ansatsu-hen | https://anilist.co/anime/189258 | December 20 at 08:30 |
 | Atashin'chi NEXT 2 | Atashin'chi NEXT 2 | https://anilist.co/anime/203146 | December 19 at 22:30 |
+| Cat's♥Eye (2025) | Cat's Eye (2025) | https://anilist.co/anime/184718 | December 26 at 08:00 |
 | Girls und Panzer: Motto Love Love Sakusen desu! | Girls und Panzer: Motto Love Love Sakusen desu! | https://anilist.co/anime/188034 | December 25 at 15:00 |
 | Kono Hon wo Nusumu Mono wa | Kono Hon wo Nusumu Mono wa | https://anilist.co/anime/193923 | December 25 at 16:00 |
 | TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | December 21 at 00:30 |
