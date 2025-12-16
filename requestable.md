@@ -113,7 +113,6 @@ These shows have had episodes air already, but no thread was created because the
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1728 |
 | Sylvanian Families: Freya no Wonder Days | Sylvanian Families: Freya no Wonder Days | https://anilist.co/anime/198921 | Episode 11 |
 | THE LENTICULARS | THE LENTICULARS | https://anilist.co/anime/201151 | Episode 7 |
-| TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 5 |
 | Kekkon Yubiwa Monogatari II | Tales of Wedding Rings Season 2 | https://anilist.co/anime/176298 | Episode 11 |
 | Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu | The Banished Court Magician Aims to Become the Strongest | https://anilist.co/anime/188487 | Episode 11 |
 | Tensei Akujo no Kuro Rekishi | The Dark History of the Reincarnated Villainess | https://anilist.co/anime/174914 | Episode 10 |
@@ -142,6 +141,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Atashin'chi NEXT 2 | Atashin'chi NEXT 2 | https://anilist.co/anime/203146 | December 19 at 22:30 |
 | Girls und Panzer: Motto Love Love Sakusen desu! | Girls und Panzer: Motto Love Love Sakusen desu! | https://anilist.co/anime/188034 | December 25 at 15:00 |
 | Kono Hon wo Nusumu Mono wa | Kono Hon wo Nusumu Mono wa | https://anilist.co/anime/193923 | December 25 at 16:00 |
+| TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | December 21 at 00:30 |
 | Xian Wang de Richang Shenghuo 5 | The Daily Life of the Immortal King Season 5 | https://anilist.co/anime/185857 | December 21 at 04:00 |
 | Undead Unluck: Winter-hen | Undead Unluck: Winter-hen | https://anilist.co/anime/179930 | December 25 at 16:10 |
 {.dense}
