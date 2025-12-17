@@ -74,7 +74,7 @@ These shows have had episodes air already, but no thread was created because the
 | JOCHUM Season 2 | JOCHUM Season 2 | https://anilist.co/anime/198413 | Episode 11 |
 | Kagaku×Bouken Survival! 2nd Season | Kagaku×Bouken Survival! 2nd Season | https://anilist.co/anime/186736 | Episode 11 |
 | Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 37 |
-| Kakuriyo no Yadomeshi 2nd Season | Kakuriyo -Bed and Breakfast for Spirits- 2 | https://anilist.co/anime/177271 | Episode 11 |
+| Kakuriyo no Yadomeshi 2nd Season | Kakuriyo -Bed and Breakfast for Spirits- 2 | https://anilist.co/anime/177271 | Episode 12 |
 | Kikaijikake no Marie Mini Anime | Kikaijikake no Marie Mini Anime | https://anilist.co/anime/200374 | Episode 11 |
 | Kingdom 6th Season | Kingdom Season 6 | https://anilist.co/anime/190840 | Episode 11 |
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 11 |
@@ -115,7 +115,7 @@ These shows have had episodes air already, but no thread was created because the
 | THE LENTICULARS | THE LENTICULARS | https://anilist.co/anime/201151 | Episode 7 |
 | Kekkon Yubiwa Monogatari II | Tales of Wedding Rings Season 2 | https://anilist.co/anime/176298 | Episode 11 |
 | Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu | The Banished Court Magician Aims to Become the Strongest | https://anilist.co/anime/188487 | Episode 11 |
-| Tensei Akujo no Kuro Rekishi | The Dark History of the Reincarnated Villainess | https://anilist.co/anime/174914 | Episode 10 |
+| Tensei Akujo no Kuro Rekishi | The Dark History of the Reincarnated Villainess | https://anilist.co/anime/174914 | Episode 11 |
 | Mofa Gongzhu De Xiao Fannao | The Fated Magical Princess: Who Made Me a Princess | https://anilist.co/anime/165530 | Episode 14 |
 | Watashi wo Tabetai, Hitodenashi | This Monster Wants to Eat Me | https://anilist.co/anime/183385 | Episode 11 |
 | Fumetsu no Anata e Season 3 | To Your Eternity Season 3 | https://anilist.co/anime/162669 | Episode 11 |
