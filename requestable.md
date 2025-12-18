@@ -41,7 +41,7 @@ These shows have had episodes air already, but no thread was created because the
 | #Kanagawa ni Sunderu Elf | #Kanagawa ni Sunderu Elf | https://anilist.co/anime/199005 | Episode 3 |
 | 2200-nen Neko no Kuni Nippon | 2200-nen Neko no Kuni Nippon | https://anilist.co/anime/199009 | Episode 12 |
 | Taiyou yori mo Mabushii Hoshi | A Star Brighter Than the Sun | https://anilist.co/anime/186621 | Episode 12 |
-| Anila to Cocora | Anila to Cocora | https://anilist.co/anime/199794 | Episode 11 |
+| Anila to Cocora | Anila to Cocora | https://anilist.co/anime/199794 | Episode 12 |
 | Ao no Orchestra Season 2 | Ao no Orchestra Season 2 | https://anilist.co/anime/170018 | Episode 11 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 108 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1185 |
