@@ -56,6 +56,7 @@ These shows have had episodes air already, but no thread was created because the
 | Dokodemo Makibao: World Tour | Dokodemo Makibao: World Tour | https://anilist.co/anime/199931 | Episode 11 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 893 |
 | Long Zu 2 | Dragon Raja II -The Mourner's Eyes- | https://anilist.co/anime/157692 | Episode 25 |
+| Towa no Yuugure | Dusk Beyond the End of the World | https://anilist.co/anime/195153 | Episode 13 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 187 |
 | Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | Episode 12 |
 | Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | Episode 23 |
@@ -139,7 +140,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Ao no Miburo: Serizawa Ansatsu-hen | Ao no Miburo: Serizawa Ansatsu-hen | https://anilist.co/anime/189258 | December 20 at 08:30 |
 | Atashin'chi NEXT 2 | Atashin'chi NEXT 2 | https://anilist.co/anime/203146 | December 19 at 22:30 |
 | Cat's♥Eye (2025) | Cat's Eye (2025) | https://anilist.co/anime/184718 | December 26 at 08:00 |
-| Towa no Yuugure | Dusk Beyond the End of the World | https://anilist.co/anime/195153 | December 18 at 16:26 |
 | Girls und Panzer: Motto Love Love Sakusen desu! | Girls und Panzer: Motto Love Love Sakusen desu! | https://anilist.co/anime/188034 | December 25 at 15:00 |
 | Kono Hon wo Nusumu Mono wa | Kono Hon wo Nusumu Mono wa | https://anilist.co/anime/193923 | December 25 at 16:00 |
 | Mu Shen Ji 3 | Mu Shen Ji 3 | https://anilist.co/anime/203953 | December 20 at 16:00 |
