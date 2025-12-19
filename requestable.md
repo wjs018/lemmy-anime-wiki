@@ -110,7 +110,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shabake | Shabake | https://anilist.co/anime/184997 | Episode 11 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1314 |
 | Futari Solo Camp | Solo Camping for Two | https://anilist.co/anime/185965 | Episode 24 |
-| Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1728 |
+| Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1729 |
 | Sylvanian Families: Freya no Wonder Days | Sylvanian Families: Freya no Wonder Days | https://anilist.co/anime/198921 | Episode 12 |
 | THE LENTICULARS | THE LENTICULARS | https://anilist.co/anime/201151 | Episode 7 |
 | Kekkon Yubiwa Monogatari II | Tales of Wedding Rings Season 2 | https://anilist.co/anime/176298 | Episode 11 |
