@@ -190,6 +190,7 @@ Episode|Link
 9|[Link](https://ani.social/post/23683028)
 10|[Link](https://ani.social/post/24032282)
 11|[Link](https://ani.social/post/24390737)
+12|[Link](https://ani.social/post/24735135)
 {.dense}
 
 ## Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun • Inexpressive Kashiwada and Expressive Oota
