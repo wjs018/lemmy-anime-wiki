@@ -72,7 +72,7 @@ Episode|Link
 5|[Link](https://ani.social/post/22488251)
 {.dense}
 
-## Ao no Orchestra Season 2
+## Ao no Orchestra Season 2 • Blue Orchestra Season 2
 
 Episode|Link
 :-:|:-:
