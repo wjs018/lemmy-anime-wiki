@@ -20,7 +20,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | 3-nen Z-gumi Ginpachi-sensei | GINTAMA - Mr. Ginpachi's Zany Class | https://anilist.co/anime/162890 | [Link](https://ani.social/post/24541987) |
 | Gnosia | Gnosia | https://anilist.co/anime/185116 | [Link](https://ani.social/post/24782930) |
 | Kikaijikake no Marie | Mechanical Marie | https://anilist.co/anime/179992 | [Link](https://ani.social/post/24828669) |
-| One Punch Man 3 | One-Punch Man Season 3 | https://anilist.co/anime/153800 | [Link](https://ani.social/post/24492164) |
+| One Punch Man 3 | One-Punch Man Season 3 | https://anilist.co/anime/153800 | [Link](https://ani.social/post/24833896) |
 | SPY×FAMILY Season 3 | SPY x FAMILY Season 3 | https://anilist.co/anime/177937 | [Link](https://ani.social/post/24782929) |
 | Uma Musume: Cinderella Gray Part 2 | Umamusume: Cinderella Gray 2nd Cour | https://anilist.co/anime/195240 | [Link](https://ani.social/post/24817177) |
 {.dense}
@@ -141,5 +141,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Kaguya-sama wa Kokurasetai: Otona e no Kaidan | Kaguya-sama wa Kokurasetai: Otona e no Kaidan | https://anilist.co/anime/194884 | December 31 at 13:00 |
 | Kono Hon wo Nusumu Mono wa | Kono Hon wo Nusumu Mono wa | https://anilist.co/anime/193923 | December 25 at 16:00 |
 | Tamon-kun Ima Docchi!? | Tamon's B-Side | https://anilist.co/anime/178005 | December 31 at 15:00 |
+| Watashi ga Koibito ni Nareru Wake Naijan, Murimuri! (※Muri ja Nakatta!?): Next Shine! | There's No Freaking Way I'll Be Your Lover! Unless… ~Next Shine~ | https://anilist.co/anime/199112 | December 31 at 16:00 |
 | Undead Unluck: Winter-hen | Undead Unluck: Winter-hen | https://anilist.co/anime/179930 | December 25 at 16:10 |
 {.dense}
