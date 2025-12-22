@@ -66,7 +66,7 @@ These shows have had episodes air already, but no thread was created because the
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 345 |
 | Potion, Wagami wo Tasukeru | I Saved Myself with a Potion!: Life in Another World | https://anilist.co/anime/198561 | Episode 12 |
 | Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun | Inexpressive Kashiwada and Expressive Oota | https://anilist.co/anime/187940 | Episode 12 |
-| Isekai Quartet 3 | Isekai Quartet 3 | https://anilist.co/anime/194447 | Episode 10 |
+| Isekai Quartet 3 | Isekai Quartet 3 | https://anilist.co/anime/194447 | Episode 11 |
 | JOCHUM Season 2 | JOCHUM Season 2 | https://anilist.co/anime/198413 | Episode 12 |
 | Kagaku×Bouken Survival! 2nd Season | Kagaku×Bouken Survival! 2nd Season | https://anilist.co/anime/186736 | Episode 11 |
 | Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 38 |
@@ -140,6 +140,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Yuusha Party wo Oidasareta Kiyou Binbou | Jack-of-All-Trades, Party of None | https://anilist.co/anime/187264 | December 31 at 15:00 |
 | Kaguya-sama wa Kokurasetai: Otona e no Kaidan | Kaguya-sama wa Kokurasetai: Otona e no Kaidan | https://anilist.co/anime/194884 | December 31 at 13:00 |
 | Kono Hon wo Nusumu Mono wa | Kono Hon wo Nusumu Mono wa | https://anilist.co/anime/193923 | December 25 at 16:00 |
+| MF Ghost 3rd Season | MF GHOST Season 3 | https://anilist.co/anime/185753 | January 01 at 14:30 |
 | Tamon-kun Ima Docchi!? | Tamon's B-Side | https://anilist.co/anime/178005 | December 31 at 15:00 |
 | Watashi ga Koibito ni Nareru Wake Naijan, Murimuri! (※Muri ja Nakatta!?): Next Shine! | There's No Freaking Way I'll Be Your Lover! Unless… ~Next Shine~ | https://anilist.co/anime/199112 | December 31 at 16:00 |
 | Undead Unluck: Winter-hen | Undead Unluck: Winter-hen | https://anilist.co/anime/179930 | December 25 at 16:10 |
