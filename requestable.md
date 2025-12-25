@@ -75,6 +75,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kikaijikake no Marie Mini Anime | Kikaijikake no Marie Mini Anime | https://anilist.co/anime/200374 | Episode 13 |
 | Kingdom 6th Season | Kingdom Season 6 | https://anilist.co/anime/190840 | Episode 12 |
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 13 |
+| Kono Hon wo Nusumu Mono wa | Kono Hon wo Nusumu Mono wa | https://anilist.co/anime/193923 | Episode 1 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 38 |
 | Nageki no Bourei wa Intai Shitai 2 | Let This Grieving Soul Retire Cour 2 | https://anilist.co/anime/185801 | Episode 11 |
 | Let’s Play: Quest Darake no My Life | Let’s Play | https://anilist.co/anime/193968 | Episode 12 |
@@ -142,7 +143,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Yuusha Party wo Oidasareta Kiyou Binbou | Jack-of-All-Trades, Party of None | https://anilist.co/anime/187264 | December 31 at 15:00 |
 | Ikoku Nikki | Journal with Witch | https://anilist.co/anime/177385 | January 04 at 15:00 |
 | Kaguya-sama wa Kokurasetai: Otona e no Kaidan | Kaguya-sama wa Kokurasetai: Otona e no Kaidan | https://anilist.co/anime/194884 | December 31 at 13:00 |
-| Kono Hon wo Nusumu Mono wa | Kono Hon wo Nusumu Mono wa | https://anilist.co/anime/193923 | December 25 at 16:00 |
 | Majutsushi Kunon wa Mieteiru | Kunon the Sorcerer Can See | https://anilist.co/anime/186333 | January 04 at 13:00 |
 | MF Ghost 3rd Season | MF GHOST Season 3 | https://anilist.co/anime/185753 | January 01 at 14:30 |
 | Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru | Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power | https://anilist.co/anime/185993 | January 04 at 15:00 |
