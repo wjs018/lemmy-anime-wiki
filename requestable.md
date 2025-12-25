@@ -148,6 +148,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru | Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power | https://anilist.co/anime/185993 | January 04 at 15:00 |
 | Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku | Sentenced to Be a Hero | https://anilist.co/anime/167152 | January 03 at 13:00 |
 | Tamon-kun Ima Docchi!? | Tamon's B-Side | https://anilist.co/anime/178005 | December 31 at 15:00 |
+| Goumon Baito-kun no Nichijou | The Daily Life of a Part-time Torturer | https://anilist.co/anime/197731 | January 04 at 15:30 |
 | Watashi ga Koibito ni Nareru Wake Naijan, Murimuri! (※Muri ja Nakatta!?): Next Shine! | There's No Freaking Way I'll Be Your Lover! Unless… ~Next Shine~ | https://anilist.co/anime/199112 | December 31 at 16:00 |
 | Undead Unluck: Winter-hen | Undead Unluck: Winter-hen | https://anilist.co/anime/179930 | December 25 at 16:10 |
 {.dense}
