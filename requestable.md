@@ -107,7 +107,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shabake | Shabake | https://anilist.co/anime/184997 | Episode 12 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1315 |
 | Futari Solo Camp | Solo Camping for Two | https://anilist.co/anime/185965 | Episode 24 |
-| Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1729 |
+| Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1730 |
 | Nohara Hiroshi: Hiru Meshi no Ryuugi | Style of Hiroshi Nohara's Lunch | https://anilist.co/anime/187860 | Episode 12 |
 | Sylvanian Families: Freya no Wonder Days | Sylvanian Families: Freya no Wonder Days | https://anilist.co/anime/198921 | Episode 12 |
 | THE LENTICULARS | THE LENTICULARS | https://anilist.co/anime/201151 | Episode 8 |
