@@ -141,6 +141,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Fate/strange Fake | Fate/strange Fake | https://anilist.co/anime/166617 | January 03 at 15:30 |
 | Hanazakari no Kimitachi e | Hana-Kimi | https://anilist.co/anime/177580 | January 04 at 12:30 |
+| Hokuto no Ken: Ken'ougun Zako-tachi no Banka | Hokuto no Ken: Ken'ougun Zako-tachi no Banka | https://anilist.co/anime/198720 | January 05 at 11:00 |
 | Yuusha Party wo Oidasareta Kiyou Binbou | Jack-of-All-Trades, Party of None | https://anilist.co/anime/187264 | December 31 at 15:00 |
 | Ikoku Nikki | Journal with Witch | https://anilist.co/anime/177385 | January 04 at 15:00 |
 | Kaguya-sama wa Kokurasetai: Otona e no Kaidan | Kaguya-sama wa Kokurasetai: Otona e no Kaidan | https://anilist.co/anime/194884 | December 31 at 13:00 |
