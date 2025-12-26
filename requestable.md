@@ -42,6 +42,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ao no Orchestra Season 2 | Blue Orchestra Season 2 | https://anilist.co/anime/170018 | Episode 12 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1186 |
 | Ugoku! Neko Mukashi Banashi | Cat Tales | https://anilist.co/anime/188529 | Episode 11 |
+| Cat's♥Eye (2025) | Cat's Eye (2025) | https://anilist.co/anime/184718 | Episode 7 |
 | Chibi Godzilla no Gyakushuu 3 | Chibi Godzilla Raids Again Season 3 | https://anilist.co/anime/193883 | Episode 26 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 305 |
 | Chitose-kun wa Ramune Bin no Naka | Chitose Is in the Ramune Bottle | https://anilist.co/anime/180082 | Episode 9 |
@@ -138,7 +139,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
-| Cat's♥Eye (2025) | Cat's Eye (2025) | https://anilist.co/anime/184718 | December 26 at 08:00 |
 | Fate/strange Fake | Fate/strange Fake | https://anilist.co/anime/166617 | January 03 at 15:30 |
 | Hanazakari no Kimitachi e | Hana-Kimi | https://anilist.co/anime/177580 | January 04 at 12:30 |
 | Yuusha Party wo Oidasareta Kiyou Binbou | Jack-of-All-Trades, Party of None | https://anilist.co/anime/187264 | December 31 at 15:00 |
