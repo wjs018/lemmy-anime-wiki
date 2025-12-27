@@ -144,6 +144,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Hanazakari no Kimitachi e | Hana-Kimi | https://anilist.co/anime/177580 | January 04 at 12:30 |
 | Himitsu Kessha Taka no Tsume XX | Himitsu Kessha Taka no Tsume XX | https://anilist.co/anime/203472 | January 05 at 22:00 |
 | Hokuto no Ken: Ken'ougun Zako-tachi no Banka | Hokuto no Ken: Ken'ougun Zako-tachi no Banka | https://anilist.co/anime/198720 | January 05 at 11:00 |
+| Isekai no Sata wa Shachiku Shidai | Isekai Office Worker: The Other World's Books Depend on the Bean Counter | https://anilist.co/anime/183661 | January 06 at 14:00 |
 | Yuusha Party wo Oidasareta Kiyou Binbou | Jack-of-All-Trades, Party of None | https://anilist.co/anime/187264 | December 31 at 15:00 |
 | Ikoku Nikki | Journal with Witch | https://anilist.co/anime/177385 | January 04 at 15:00 |
 | Kaguya-sama wa Kokurasetai: Otona e no Kaidan | Kaguya-sama wa Kokurasetai: Otona e no Kaidan | https://anilist.co/anime/194884 | December 31 at 13:00 |
@@ -155,7 +156,9 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Tamon-kun Ima Docchi!? | Tamon's B-Side | https://anilist.co/anime/178005 | December 31 at 15:00 |
 | Goumon Baito-kun no Nichijou | The Daily Life of a Part-time Torturer | https://anilist.co/anime/197731 | January 04 at 15:30 |
 | Maou no Musume wa Yasashi Sugiru!! | The Demon King's Daughter is Too Kind!! | https://anilist.co/anime/194742 | January 06 at 13:00 |
+| Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita. | There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her | https://anilist.co/anime/195515 | January 06 at 14:00 |
 | Watashi ga Koibito ni Nareru Wake Naijan, Murimuri! (※Muri ja Nakatta!?): Next Shine! | There's No Freaking Way I'll Be Your Lover! Unless… ~Next Shine~ | https://anilist.co/anime/199112 | December 31 at 16:00 |
+| Mayonaka Heart Tune | Tune In to the Midnight Heart | https://anilist.co/anime/187942 | January 06 at 14:00 |
 | Kirei ni Shitemoraemasu ka. | Wash It All Away | https://anilist.co/anime/194028 | January 05 at 13:00 |
 | Osananajimi to wa Love Comedy ni Naranai | You Can't Be In a Rom-Com with Your Childhood Friends! | https://anilist.co/anime/189565 | January 05 at 15:00 |
 {.dense}
