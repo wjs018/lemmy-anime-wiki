@@ -164,4 +164,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Mayonaka Heart Tune | Tune In to the Midnight Heart | https://anilist.co/anime/187942 | January 06 at 14:00 |
 | Kirei ni Shitemoraemasu ka. | Wash It All Away | https://anilist.co/anime/194028 | January 05 at 13:00 |
 | Osananajimi to wa Love Comedy ni Naranai | You Can't Be In a Rom-Com with Your Childhood Friends! | https://anilist.co/anime/189565 | January 05 at 15:00 |
+| mofusand | mofusand | https://anilist.co/anime/204656 | January 07 at 00:00 |
 {.dense}
