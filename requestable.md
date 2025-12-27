@@ -120,7 +120,7 @@ These shows have had episodes air already, but no thread was created because the
 | Mofa Gongzhu De Xiao Fannao | The Fated Magical Princess: Who Made Me a Princess | https://anilist.co/anime/165530 | Episode 15 |
 | Watashi wo Tabetai, Hitodenashi | This Monster Wants to Eat Me | https://anilist.co/anime/183385 | Episode 13 |
 | Fumetsu no Anata e Season 3 | To Your Eternity Season 3 | https://anilist.co/anime/162669 | Episode 13 |
-| Toujima Tanzaburou wa Kamen Rider ni Naritai | Tojima Wants to Be a Kamen Rider | https://anilist.co/anime/187464 | Episode 12 |
+| Toujima Tanzaburou wa Kamen Rider ni Naritai | Tojima Wants to Be a Kamen Rider | https://anilist.co/anime/187464 | Episode 13 |
 | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | https://anilist.co/anime/196229 | Episode 25 |
 | Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | Episode 24 |
 | Shuumatsu Touring | Touring After the Apocalypse | https://anilist.co/anime/186920 | Episode 12 |
@@ -139,6 +139,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
+| Arne no Jikenbo | Arne no Jikenbo | https://anilist.co/anime/183984 | January 06 at 16:29 |
 | Fate/strange Fake | Fate/strange Fake | https://anilist.co/anime/166617 | January 03 at 15:30 |
 | Golden Kamuy: Saishuushou | Golden Kamuy Final Season | https://anilist.co/anime/166521 | January 05 at 14:00 |
 | Hanazakari no Kimitachi e | Hana-Kimi | https://anilist.co/anime/177580 | January 04 at 12:30 |
