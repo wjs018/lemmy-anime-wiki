@@ -99,7 +99,7 @@ These shows have had episodes air already, but no thread was created because the
 | SHIBUYA♡HACHI Part 4 | SHIBUYA♡HACHI Part 4 | https://anilist.co/anime/195173 | Episode 12 |
 | SI-VIS: The Sound of Heroes | SI-VIS: The Sound of Heroes | https://anilist.co/anime/196553 | Episode 13 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 39 |
-| Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2811 |
+| Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2812 |
 | Shabake | Shabake | https://anilist.co/anime/184997 | Episode 13 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1316 |
 | Futari Solo Camp | Solo Camping for Two | https://anilist.co/anime/185965 | Episode 24 |
