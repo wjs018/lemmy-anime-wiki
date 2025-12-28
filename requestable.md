@@ -87,7 +87,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 199 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 38 |
 | Nukitashi THE ANIMATION OVAs | Nukitashi THE ANIMATION OVAs | https://anilist.co/anime/194712 | Episode 3 |
-| ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1154 |
+| ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1155 |
 | PetitCure: Precure Fairies Season 2 | PetitCure: Precure Fairies Season 2 | https://anilist.co/anime/199635 | Episode 12 |
 | Debu to Love to Ayamachi to! | Plus-sized Misadventures in Love! | https://anilist.co/anime/170936 | Episode 12 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 122 |
