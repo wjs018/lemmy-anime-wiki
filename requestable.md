@@ -15,14 +15,9 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
 | Egao no Taenai Shokuba desu. | A Mangaka's Weirdly Wonderful Workplace | https://anilist.co/anime/173523 | [Link](https://ani.social/post/24875762) |
-| Tondemo Skill de Isekai Hourou Meshi 2 | Campfire Cooking in Another World with my Absurd Skill Season 2 | https://anilist.co/anime/170577 | [Link](https://ani.social/post/24930735) |
 | GANGLION | GANGLION | https://anilist.co/anime/198117 | [Link](https://ani.social/post/24731498) |
-| 3-nen Z-gumi Ginpachi-sensei | GINTAMA - Mr. Ginpachi's Zany Class | https://anilist.co/anime/162890 | [Link](https://ani.social/post/24882014) |
 | Gnosia | Gnosia | https://anilist.co/anime/185116 | [Link](https://ani.social/post/25123444) |
-| Kikaijikake no Marie | Mechanical Marie | https://anilist.co/anime/179992 | [Link](https://ani.social/post/24828669) |
 | One Punch Man 3 | One-Punch Man Season 3 | https://anilist.co/anime/153800 | [Link](https://ani.social/post/24833896) |
-| SPY×FAMILY Season 3 | SPY x FAMILY Season 3 | https://anilist.co/anime/177937 | [Link](https://ani.social/post/25123443) |
-| Uma Musume: Cinderella Gray Part 2 | Umamusume: Cinderella Gray 2nd Cour | https://anilist.co/anime/195240 | [Link](https://ani.social/post/24817177) |
 {.dense}
 
 ## Requestable Shows
@@ -125,7 +120,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | Episode 24 |
 | Shuumatsu Touring | Touring After the Apocalypse | https://anilist.co/anime/186920 | Episode 12 |
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 13 |
-| Undead Unluck: Winter-hen | Undead Unluck: Winter-hen | https://anilist.co/anime/179930 | Episode 1 |
+| Undead Unluck: Winter-hen | Undead Unluck: Winter Arc | https://anilist.co/anime/179930 | Episode 1 |
 | WanDance | WanDance | https://anilist.co/anime/180436 | Episode 12 |
 | Watari-kun no xx ga Houkai Sunzen | Watari-kun's ****** Is about to Collapse | https://anilist.co/anime/169420 | Episode 26 |
 | Kimi to Koete Koi ni Naru | With You, Our Love Will Make It Through | https://anilist.co/anime/186161 | Episode 11 |
