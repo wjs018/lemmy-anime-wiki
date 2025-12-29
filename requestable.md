@@ -135,6 +135,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Odayaka Kizoku no Kyuuka no Susume. | A Gentle Noble's Vacation Recommendation | https://anilist.co/anime/182771 | January 07 at 15:00 |
+| ALL YOU NEED IS KILL | ALL YOU NEED IS KILL | https://anilist.co/anime/187892 | January 08 at 16:00 |
 | 29-sai Dokushin Chuuken Boukensha no Nichijou | An Adventurer’s Daily Grind at Age 29 | https://anilist.co/anime/192261 | January 07 at 12:30 |
 | Arne no Jikenbo | Arne no Jikenbo | https://anilist.co/anime/183984 | January 06 at 16:29 |
 | Mato Seihei no Slave 2 | Chained Soldier Season 2 | https://anilist.co/anime/176276 | January 08 at 14:00 |
@@ -160,6 +161,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Goumon Baito-kun no Nichijou | The Daily Life of a Part-time Torturer | https://anilist.co/anime/197731 | January 04 at 15:30 |
 | Darwin Jihen | The Darwin Incident | https://anilist.co/anime/177679 | January 06 at 15:00 |
 | Maou no Musume wa Yasashi Sugiru!! | The Demon King's Daughter is Too Kind!! | https://anilist.co/anime/194742 | January 06 at 13:00 |
+| Eris no Seihai | The Holy Grail of Eris | https://anilist.co/anime/183270 | January 08 at 14:56 |
 | Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari | The Invisible Man and His Soon-to-Be Wife | https://anilist.co/anime/185039 | January 08 at 14:30 |
 | Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita. | There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her | https://anilist.co/anime/195515 | January 06 at 14:00 |
 | Watashi ga Koibito ni Nareru Wake Naijan, Murimuri! (※Muri ja Nakatta!?): Next Shine! | There's No Freaking Way I'll Be Your Lover! Unless… ~Next Shine~ | https://anilist.co/anime/199112 | December 31 at 16:00 |
