@@ -162,6 +162,13 @@ Episode|Link
 12|[Link](https://ani.social/post/24731498)
 {.dense}
 
+## Ganso! Bandori-chan • GANSO! BanG Dream Chan
+
+Episode|Link
+:-:|:-:
+13|[Link](https://ani.social/post/25250355)
+{.dense}
+
 ## Gnosia
 
 Episode|Link
