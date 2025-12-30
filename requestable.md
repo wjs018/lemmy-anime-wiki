@@ -75,7 +75,7 @@ These shows have had episodes air already, but no thread was created because the
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | Episode 12 |
 | Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha. | Dad is a Hero, Mom is a Spirit, I'm a Reincarnator | https://anilist.co/anime/173692 | Episode 12 |
 | Disney Twisted-Wonderland: THE ANIMATION - Season 1: EPISODE of HEARTSLABYUL | Disney Twisted-Wonderland: THE ANIMATION - Season 1: EPISODE of HEARTSLABYUL | https://anilist.co/anime/140291 | Episode 8 |
-| Dokodemo Makibao: World Tour | Dokodemo Makibao: World Tour | https://anilist.co/anime/199931 | Episode 12 |
+| Dokodemo Makibao: World Tour | Dokodemo Makibao: World Tour | https://anilist.co/anime/199931 | Episode 13 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 895 |
 | Long Zu 2 | Dragon Raja II -The Mourner's Eyes- | https://anilist.co/anime/157692 | Episode 25 |
 | Towa no Yuugure | Dusk Beyond the End of the World | https://anilist.co/anime/195153 | Episode 13 |
@@ -167,6 +167,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Android wa Keiken Ninzuu ni Hairimasu ka?? | Android wa Keiken Ninzuu ni Hairimasu ka?? | https://anilist.co/anime/192867 | January 09 at 16:00 |
 | Douse, Koishite Shimaunda. Season 2 | Anyway, I'm Falling in Love with You. Season 2 | https://anilist.co/anime/189137 | January 08 at 16:28 |
 | Arne no Jikenbo | Arne no Jikenbo | https://anilist.co/anime/183984 | January 06 at 16:29 |
+| Cardfight!! Vanguard: Divinez Genma Seisen-hen | Cardfight!! Vanguard: Divinez Genma Seisen-hen | https://anilist.co/anime/203296 | January 09 at 23:00 |
 | Champignon no Majo | Champignon no Majo | https://anilist.co/anime/185514 | January 08 at 16:58 |
 | DARK MOON: Kuro no Tsuki - Tsuki no Saidan | DARK MOON: THE BLOOD ALTAR Animation with ENHYPEN | https://anilist.co/anime/181443 | January 09 at 15:00 |
 | Enen no Shouboutai: San no Shou Part 2 | Fire Force Season 3 Part 2 | https://anilist.co/anime/179062 | January 09 at 16:53 |
