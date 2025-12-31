@@ -104,6 +104,7 @@ These shows have had episodes air already, but no thread was created because the
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 13 |
 | Kono Hon wo Nusumu Mono wa | Kono Hon wo Nusumu Mono wa | https://anilist.co/anime/193923 | Episode 1 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 39 |
+| Meikyuu no Shiori | LABYRINTH | https://anilist.co/anime/195384 | Episode 1 |
 | Nageki no Bourei wa Intai Shitai 2 | Let This Grieving Soul Retire Cour 2 | https://anilist.co/anime/185801 | Episode 11 |
 | Let’s Play: Quest Darake no My Life | Let’s Play | https://anilist.co/anime/193968 | Episode 12 |
 | Chanto Suenai Kyuuketsuki-chan | Li'l Miss Vampire Can't Suck Right | https://anilist.co/anime/186524 | Episode 12 |
@@ -186,7 +187,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Isekai no Sata wa Shachiku Shidai | Isekai Office Worker: The Other World's Books Depend on the Bean Counter | https://anilist.co/anime/183661 | January 06 at 14:00 |
 | Jigoku Sensei Nube (2025) Part 2 | Jigoku Sensei Nube (2025) Part 2 | https://anilist.co/anime/191967 | January 07 at 02:46 |
 | Majutsushi Kunon wa Mieteiru | Kunon the Sorcerer Can See | https://anilist.co/anime/186333 | January 04 at 13:00 |
-| Meikyuu no Shiori | LABYRINTH | https://anilist.co/anime/195384 | December 31 at 16:00 |
 | Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru | Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power | https://anilist.co/anime/185993 | January 04 at 15:00 |
 | Tensei Shitara Dragon no Tamago Datta | Reincarnated as a Dragon Hatchling | https://anilist.co/anime/187941 | January 10 at 12:30 |
 | Shibou Yuugi de Meshi wo Kuu. | SHIBOYUGI: Playing Death Games to Put Food on the Table | https://anilist.co/anime/180746 | January 07 at 14:00 |
@@ -194,5 +194,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari | The Invisible Man and His Soon-to-Be Wife | https://anilist.co/anime/185039 | January 08 at 14:30 |
 | Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita. | There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her | https://anilist.co/anime/195515 | January 06 at 14:00 |
 | Kirei ni Shitemoraemasu ka. | Wash It All Away | https://anilist.co/anime/194028 | January 05 at 13:00 |
+| Yuusha no Kuzu | Yuusha no Kuzu | https://anilist.co/anime/187989 | January 10 at 15:56 |
 | mofusand | mofusand | https://anilist.co/anime/204656 | January 07 at 00:00 |
 {.dense}
