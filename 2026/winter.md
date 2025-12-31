@@ -15,5 +15,6 @@ Below, you can find an index of all the discussion threads for shows from the Wi
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/25321213)
+2|[Link](https://ani.social/post/25322157)
 {.dense}
 
