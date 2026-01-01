@@ -205,6 +205,13 @@ Episode|Link
 12|[Link](https://ani.social/post/24735135)
 {.dense}
 
+## Kaguya-sama wa Kokurasetai: Otona e no Kaidan
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/25352842)
+{.dense}
+
 ## Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun • Inexpressive Kashiwada and Expressive Oota
 
 Episode|Link
