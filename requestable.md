@@ -115,7 +115,7 @@ These shows have had episodes air already, but no thread was created because the
 | Boku no Hero Academia FINAL SEASON | My Hero Academia FINAL SEASON | https://anilist.co/anime/182896 | Episode 11 |
 | Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga | My Status as an Assassin Obviously Exceeds the Hero’s | https://anilist.co/anime/186794 | Episode 12 |
 | Ninja to Gokudou | Ninja Vs. Gokudo | https://anilist.co/anime/186914 | Episode 12 |
-| Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 199 |
+| Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 200 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 39 |
 | Nukitashi THE ANIMATION OVAs | Nukitashi THE ANIMATION OVAs | https://anilist.co/anime/194712 | Episode 3 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1155 |
