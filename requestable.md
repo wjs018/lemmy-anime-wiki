@@ -109,7 +109,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chanto Suenai Kyuuketsuki-chan | Li'l Miss Vampire Can't Suck Right | https://anilist.co/anime/186524 | Episode 12 |
 | MUZIK TIGER In the Forest 2 | MUZIK TIGER In the Forest 2 | https://anilist.co/anime/195383 | Episode 14 |
 | Monster Strike: Deadverse Reloaded | Monster Strike: Deadverse Reloaded | https://anilist.co/anime/196230 | Episode 10 |
-| Mu Shen Ji 3 | Mu Shen Ji 3 | https://anilist.co/anime/203953 | Episode 11 |
+| Mu Shen Ji 3 | Mu Shen Ji 3 | https://anilist.co/anime/203953 | Episode 12 |
 | Bukiyou na Senpai. | My Awkward Senpai | https://anilist.co/anime/185575 | Episode 12 |
 | Tomodachi no Imouto ga Ore ni dake Uzai | My Friend's Little Sister Has It In for Me! | https://anilist.co/anime/129195 | Episode 12 |
 | Boku no Hero Academia FINAL SEASON | My Hero Academia FINAL SEASON | https://anilist.co/anime/182896 | Episode 11 |
