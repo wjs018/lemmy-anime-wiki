@@ -132,7 +132,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 39 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2812 |
 | Shabake | Shabake | https://anilist.co/anime/184997 | Episode 13 |
-| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1316 |
+| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1317 |
 | Futari Solo Camp | Solo Camping for Two | https://anilist.co/anime/185965 | Episode 24 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1730 |
 | Nohara Hiroshi: Hiru Meshi no Ryuugi | Style of Hiroshi Nohara's Lunch | https://anilist.co/anime/187860 | Episode 12 |
