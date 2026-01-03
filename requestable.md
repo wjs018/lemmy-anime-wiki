@@ -77,7 +77,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha. | Dad is a Hero, Mom is a Spirit, I'm a Reincarnator | https://anilist.co/anime/173692 | Episode 12 |
 | Disney Twisted-Wonderland: THE ANIMATION - Season 1: EPISODE of HEARTSLABYUL | Disney Twisted-Wonderland: THE ANIMATION - Season 1: EPISODE of HEARTSLABYUL | https://anilist.co/anime/140291 | Episode 8 |
 | Dokodemo Makibao: World Tour | Dokodemo Makibao: World Tour | https://anilist.co/anime/199931 | Episode 13 |
-| Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 895 |
+| Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 896 |
 | Long Zu 2 | Dragon Raja II -The Mourner's Eyes- | https://anilist.co/anime/157692 | Episode 25 |
 | Towa no Yuugure | Dusk Beyond the End of the World | https://anilist.co/anime/195153 | Episode 13 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 190 |
