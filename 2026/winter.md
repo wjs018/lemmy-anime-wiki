@@ -28,3 +28,10 @@ Episode|Link
 5|[Link](https://ani.social/post/25325824)
 {.dense}
 
+## Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku • Sentenced to Be a Hero
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/25457196)
+{.dense}
+
