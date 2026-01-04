@@ -80,6 +80,7 @@ These shows have had episodes air already, but no thread was created because the
 | Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | Episode 24 |
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | Episode 9 |
 | Girls und Panzer: Motto Love Love Sakusen desu! | Girls und Panzer: Motto Love Love Sakusen desu! | https://anilist.co/anime/188034 | Episode 1 |
+| Hanazakari no Kimitachi e | Hana-Kimi | https://anilist.co/anime/177580 | Episode 1 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 637 |
 | Sawaranaide Kotesashi-kun | Hands off: Sawaranaide Kotesashi-kun! | https://anilist.co/anime/187331 | Episode 12 |
 | Sawaranaide Kotesashi-kun Mini Anime Gekijou | Hands off: Sawaranaide Kotesashi-kun! Mini Anime | https://anilist.co/anime/199812 | Episode 12 |
@@ -145,7 +146,7 @@ These shows have had episodes air already, but no thread was created because the
 | Watashi wo Tabetai, Hitodenashi | This Monster Wants to Eat Me | https://anilist.co/anime/183385 | Episode 13 |
 | Fumetsu no Anata e Season 3 | To Your Eternity Season 3 | https://anilist.co/anime/162669 | Episode 14 |
 | Toujima Tanzaburou wa Kamen Rider ni Naritai | Tojima Wants to Be a Kamen Rider | https://anilist.co/anime/187464 | Episode 13 |
-| Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | https://anilist.co/anime/196229 | Episode 26 |
+| Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | https://anilist.co/anime/196229 | Episode 27 |
 | Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | Episode 24 |
 | Shuumatsu Touring | Touring After the Apocalypse | https://anilist.co/anime/186920 | Episode 12 |
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 13 |
@@ -175,7 +176,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Android wa Keiken Ninzuu ni Hairimasu ka?? | Does it Count if You Lose Your Innocence to an Android? | https://anilist.co/anime/192867 | January 09 at 16:00 |
 | Enen no Shouboutai: San no Shou Part 2 | Fire Force Season 3 Part 2 | https://anilist.co/anime/179062 | January 09 at 16:53 |
 | Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru | HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing | https://anilist.co/anime/185262 | January 09 at 16:35 |
-| Hanazakari no Kimitachi e | Hana-Kimi | https://anilist.co/anime/177580 | January 04 at 12:30 |
 | High School! Kimengumi (2026) | High School! Kimengumi (2026) | https://anilist.co/anime/200556 | January 09 at 02:30 |
 | Himitsu Kessha Taka no Tsume XX | Himitsu Kessha Taka no Tsume XX | https://anilist.co/anime/203472 | January 05 at 22:00 |
 | Hokuto no Ken: Ken'ougun Zako-tachi no Banka | Hokuto no Ken: Ken'ougun Zako-tachi no Banka | https://anilist.co/anime/198720 | January 05 at 11:00 |
