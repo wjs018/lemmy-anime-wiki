@@ -17,6 +17,13 @@ Episode|Link
 1|[Link](https://ani.social/post/25461685)
 {.dense}
 
+## Ikoku Nikki • Journal with Witch
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/25508607)
+{.dense}
+
 ## MF Ghost 3rd Season • MF GHOST Season 3
 
 Episode|Link
