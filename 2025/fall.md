@@ -205,7 +205,7 @@ Episode|Link
 12|[Link](https://ani.social/post/24735135)
 {.dense}
 
-## Kaguya-sama wa Kokurasetai: Otona e no Kaidan
+## Kaguya-sama wa Kokurasetai: Otona e no Kaidan • Kaguya-sama: Love Is War -Stairway to Adulthood-
 
 Episode|Link
 :-:|:-:

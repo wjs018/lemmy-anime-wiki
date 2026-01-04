@@ -470,7 +470,7 @@ Episode|Link
 12|[Link](https://ani.social/post/11463925)
 {.dense}
 
-## Sorairo Utility (TV)
+## Sora-iro Utility (TV) • Sorairo Utility (TV)
 
 Episode|Link
 :-:|:-:
