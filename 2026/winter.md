@@ -45,6 +45,13 @@ Episode|Link
 1|[Link](https://ani.social/post/25363702)
 {.dense}
 
+## Osananajimi to wa Love Comedy ni Naranai • You Can't Be In a Rom-Com with Your Childhood Friends!
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/25559613)
+{.dense}
+
 ## Vigilante: Boku no Hero Academia ILLEGALS 2nd Season • My Hero Academia: Vigilantes Season 2
 
 Episode|Link
