@@ -17,6 +17,13 @@ Episode|Link
 1|[Link](https://ani.social/post/25461685)
 {.dense}
 
+## Golden Kamuy: Saishuushou • Golden Kamuy Final Season
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/25556476)
+{.dense}
+
 ## Goumon Baito-kun no Nichijou • The Daily Life of a Part-time Torturer
 
 Episode|Link
