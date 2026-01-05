@@ -38,6 +38,13 @@ Episode|Link
 1|[Link](https://ani.social/post/25363702)
 {.dense}
 
+## Vigilante: Boku no Hero Academia ILLEGALS 2nd Season • My Hero Academia: Vigilantes Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/25554008)
+{.dense}
+
 ## Watashi ga Koibito ni Nareru Wake Naijan, Murimuri! (※Muri ja Nakatta!?): Next Shine! • There's No Freaking Way I'll Be Your Lover! Unless… ~Next Shine~
 
 Episode|Link
