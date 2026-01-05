@@ -17,6 +17,13 @@ Episode|Link
 1|[Link](https://ani.social/post/25461685)
 {.dense}
 
+## Goumon Baito-kun no Nichijou • The Daily Life of a Part-time Torturer
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/25539099)
+{.dense}
+
 ## Ikoku Nikki • Journal with Witch
 
 Episode|Link
