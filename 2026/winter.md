@@ -53,6 +53,13 @@ Episode|Link
 2|[Link](https://ani.social/post/25605862)
 {.dense}
 
+## Mayonaka Heart Tune • Tune In to the Midnight Heart
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/25607790)
+{.dense}
+
 ## Osananajimi to wa Love Comedy ni Naranai • You Can't Be In a Rom-Com with Your Childhood Friends!
 
 Episode|Link
