@@ -45,6 +45,14 @@ Episode|Link
 1|[Link](https://ani.social/post/25363702)
 {.dense}
 
+## Maou no Musume wa Yasashi Sugiru!! • The Demon King's Daughter is Too Kind!!
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/25605861)
+2|[Link](https://ani.social/post/25605862)
+{.dense}
+
 ## Osananajimi to wa Love Comedy ni Naranai • You Can't Be In a Rom-Com with Your Childhood Friends!
 
 Episode|Link
