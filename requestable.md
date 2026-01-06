@@ -38,7 +38,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku | Sentenced to Be a Hero | https://anilist.co/anime/167152 | [Link](https://ani.social/post/25457196) |
 | TRIGUN STARGAZE | TRIGUN STARGAZE | https://anilist.co/anime/163144 |  |
 | Goumon Baito-kun no Nichijou | The Daily Life of a Part-time Torturer | https://anilist.co/anime/197731 | [Link](https://ani.social/post/25539099) |
-| Darwin Jihen | The Darwin Incident | https://anilist.co/anime/177679 |  |
+| Darwin Jihen | The Darwin Incident | https://anilist.co/anime/177679 | [Link](https://ani.social/post/25611791) |
 | Maou no Musume wa Yasashi Sugiru!! | The Demon King's Daughter is Too Kind!! | https://anilist.co/anime/194742 | [Link](https://ani.social/post/25605862) |
 | Eris no Seihai | The Holy Grail of Eris | https://anilist.co/anime/183270 |  |
 | Mayonaka Heart Tune | Tune In to the Midnight Heart | https://anilist.co/anime/187942 | [Link](https://ani.social/post/25607790) |
