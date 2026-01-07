@@ -67,6 +67,13 @@ Episode|Link
 1|[Link](https://ani.social/post/25607790)
 {.dense}
 
+## Okiraku Ryoushu no Tanoshii Ryouchi Bouei • Easygoing Territory Defense by the Optimistic Lord
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/25660673)
+{.dense}
+
 ## Osananajimi to wa Love Comedy ni Naranai • You Can't Be In a Rom-Com with Your Childhood Friends!
 
 Episode|Link
