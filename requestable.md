@@ -96,6 +96,7 @@ These shows have had episodes air already, but no thread was created because the
 | Isekai Quartet 3 | Isekai Quartet 3 | https://anilist.co/anime/194447 | Episode 11 |
 | JOCHUM Season 2 | JOCHUM Season 2 | https://anilist.co/anime/198413 | Episode 14 |
 | Yuusha Party wo Oidasareta Kiyou Binbou | Jack-of-All-Trades, Party of None | https://anilist.co/anime/187264 | Episode 1 |
+| Jigoku Sensei Nube (2025) Part 2 | Jigoku Sensei Nube (2025) Part 2 | https://anilist.co/anime/191967 | Episode 1 |
 | Kagaku×Bouken Survival! 2nd Season | Kagaku×Bouken Survival! 2nd Season | https://anilist.co/anime/186736 | Episode 11 |
 | Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 39 |
 | Kakuriyo no Yadomeshi 2nd Season | Kakuriyo -Bed and Breakfast for Spirits- 2 | https://anilist.co/anime/177271 | Episode 12 |
@@ -187,7 +188,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | High School! Kimengumi (2026) | High School! Kimengumi (2026) | https://anilist.co/anime/200556 | January 09 at 02:30 |
 | Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu | Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu | https://anilist.co/anime/203148 | January 10 at 08:00 |
 | Saioshi no Gikei Mederu Tame, Nagaikishimasu! | I'll Live a Long Life to Dote on My Favorite Stepbrother! | https://anilist.co/anime/199446 | January 10 at 14:00 |
-| Jigoku Sensei Nube (2025) Part 2 | Jigoku Sensei Nube (2025) Part 2 | https://anilist.co/anime/191967 | January 07 at 02:46 |
 | Prism Rondo | Love Through A Prism | https://anilist.co/anime/202955 | January 15 at 08:00 |
 | Hikuidori | Oedo Fire Slayer -The Legend of Phoenix- | https://anilist.co/anime/187062 | January 11 at 14:30 |
 | Omae wa Mada Gunma wo Shiranai: Reiwa-ban | Omae wa Mada Gunma wo Shiranai: Reiwa-ban | https://anilist.co/anime/202419 | January 10 at 12:30 |
