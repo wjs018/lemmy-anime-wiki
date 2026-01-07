@@ -164,6 +164,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kimi to Koete Koi ni Naru | With You, Our Love Will Make It Through | https://anilist.co/anime/186161 | Episode 12 |
 | Yano-kun no Futsuu no Hibi | Yano-kun's Ordinary Days | https://anilist.co/anime/183965 | Episode 12 |
 | Kimi to Idol Precure♪ | You and Idol Precure ♪ | https://anilist.co/anime/185073 | Episode 46 |
+| mofusand | mofusand | https://anilist.co/anime/204656 | Episode 2 |
 {.dense}
 
 ## Upcoming Shows
@@ -197,5 +198,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru | The Villainess Is Adored by the Prince of the Neighbor Kingdom | https://anilist.co/anime/195518 | January 11 at 14:00 |
 | Yami Shibai 16 | Yami Shibai 16 | https://anilist.co/anime/203939 | January 11 at 17:20 |
 | Yuusha no Kuzu | Yuusha no Kuzu | https://anilist.co/anime/187989 | January 10 at 15:56 |
-| mofusand | mofusand | https://anilist.co/anime/204656 | January 07 at 00:00 |
 {.dense}
