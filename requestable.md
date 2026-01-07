@@ -97,7 +97,7 @@ These shows have had episodes air already, but no thread was created because the
 | Isekai no Sata wa Shachiku Shidai | Isekai Office Worker: The Other World's Books Depend on the Bean Counter | https://anilist.co/anime/183661 | Episode 1 |
 | Isekai Quartet 3 | Isekai Quartet 3 | https://anilist.co/anime/194447 | Episode 11 |
 | JOCHUM Season 2 | JOCHUM Season 2 | https://anilist.co/anime/198413 | Episode 14 |
-| Yuusha Party wo Oidasareta Kiyou Binbou | Jack-of-All-Trades, Party of None | https://anilist.co/anime/187264 | Episode 1 |
+| Yuusha Party wo Oidasareta Kiyou Binbou | Jack-of-All-Trades, Party of None | https://anilist.co/anime/187264 | Episode 2 |
 | Jigoku Sensei Nube (2025) Part 2 | Jigoku Sensei Nube (2025) Part 2 | https://anilist.co/anime/191967 | Episode 1 |
 | Kagaku×Bouken Survival! 2nd Season | Kagaku×Bouken Survival! 2nd Season | https://anilist.co/anime/186736 | Episode 11 |
 | Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 39 |
@@ -148,7 +148,7 @@ These shows have had episodes air already, but no thread was created because the
 | THE LENTICULARS | THE LENTICULARS | https://anilist.co/anime/201151 | Episode 9 |
 | TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 6 |
 | Kekkon Yubiwa Monogatari II | Tales of Wedding Rings Season 2 | https://anilist.co/anime/176298 | Episode 13 |
-| Tamon-kun Ima Docchi!? | Tamon's B-Side | https://anilist.co/anime/178005 | Episode 1 |
+| Tamon-kun Ima Docchi!? | Tamon's B-Side | https://anilist.co/anime/178005 | Episode 2 |
 | Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu | The Banished Court Magician Aims to Become the Strongest | https://anilist.co/anime/188487 | Episode 12 |
 | Xian Wang de Richang Shenghuo 5 | The Daily Life of the Immortal King Season 5 | https://anilist.co/anime/185857 | Episode 5 |
 | Tensei Akujo no Kuro Rekishi | The Dark History of the Reincarnated Villainess | https://anilist.co/anime/174914 | Episode 12 |
