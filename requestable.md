@@ -153,6 +153,7 @@ These shows have had episodes air already, but no thread was created because the
 | Xian Wang de Richang Shenghuo 5 | The Daily Life of the Immortal King Season 5 | https://anilist.co/anime/185857 | Episode 5 |
 | Tensei Akujo no Kuro Rekishi | The Dark History of the Reincarnated Villainess | https://anilist.co/anime/174914 | Episode 12 |
 | Mofa Gongzhu De Xiao Fannao | The Fated Magical Princess: Who Made Me a Princess | https://anilist.co/anime/165530 | Episode 16 |
+| Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari | The Invisible Man and His Soon-to-Be Wife | https://anilist.co/anime/185039 | Episode 1 |
 | Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita. | There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her | https://anilist.co/anime/195515 | Episode 1 |
 | Watashi wo Tabetai, Hitodenashi | This Monster Wants to Eat Me | https://anilist.co/anime/183385 | Episode 13 |
 | Fumetsu no Anata e Season 3 | To Your Eternity Season 3 | https://anilist.co/anime/162669 | Episode 14 |
@@ -195,7 +196,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Omae wa Mada Gunma wo Shiranai: Reiwa-ban | Omae wa Mada Gunma wo Shiranai: Reiwa-ban | https://anilist.co/anime/202419 | January 10 at 12:30 |
 | Tensei Shitara Dragon no Tamago Datta | Reincarnated as a Dragon Hatchling | https://anilist.co/anime/187941 | January 10 at 12:30 |
 | Shen Kong Bian | Shen Kong Bian | https://anilist.co/anime/199436 | January 15 at 15:00 |
-| Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari | The Invisible Man and His Soon-to-Be Wife | https://anilist.co/anime/185039 | January 08 at 14:30 |
 | Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru | The Villainess Is Adored by the Prince of the Neighbor Kingdom | https://anilist.co/anime/195518 | January 11 at 14:00 |
 | Yami Shibai 16 | Yami Shibai 16 | https://anilist.co/anime/203939 | January 11 at 17:20 |
 | Yuusha no Kuzu | Yuusha no Kuzu | https://anilist.co/anime/187989 | January 10 at 15:56 |
