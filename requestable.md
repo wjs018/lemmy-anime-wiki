@@ -187,7 +187,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Android wa Keiken Ninzuu ni Hairimasu ka?? | Does it Count if You Lose Your Innocence to an Android? | https://anilist.co/anime/192867 | January 09 at 16:00 |
 | Enen no Shouboutai: San no Shou Part 2 | Fire Force Season 3 Part 2 | https://anilist.co/anime/179062 | January 09 at 16:53 |
 | Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru | HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing | https://anilist.co/anime/185262 | January 09 at 16:35 |
-| High School! Kimengumi (2026) | High School! Kimengumi (2026) | https://anilist.co/anime/200556 | January 09 at 02:30 |
+| High School! Kimengumi (2026) | High School! Kimengumi (2026) | https://anilist.co/anime/200556 | January 09 at 14:30 |
 | Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu | Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu | https://anilist.co/anime/203148 | January 10 at 08:00 |
 | Saioshi no Gikei Mederu Tame, Nagaikishimasu! | I'll Live a Long Life to Dote on My Favorite Stepbrother! | https://anilist.co/anime/199446 | January 10 at 14:00 |
 | Prism Rondo | Love Through A Prism | https://anilist.co/anime/202955 | January 15 at 08:00 |
