@@ -17,12 +17,11 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Hime-sama, "Goumon" no Jikan desu 2nd Season | 'Tis Time for "Torture," Princess Season 2 | https://anilist.co/anime/176370 |  |
 | ALL YOU NEED IS KILL | ALL YOU NEED IS KILL | https://anilist.co/anime/187892 |  |
 | BEASTARS FINAL SEASON Part 2 | BEASTARS FINAL SEASON Part 2 | https://anilist.co/anime/187267 |  |
-| Mato Seihei no Slave 2 | Chained Soldier Season 2 | https://anilist.co/anime/176276 |  |
+| Mato Seihei no Slave 2 | Chained Soldier Season 2 | https://anilist.co/anime/176276 | [Link](https://ani.social/post/25713107) |
 | Okiraku Ryoushu no Tanoshii Ryouchi Bouei | Easygoing Territory Defense by the Optimistic Lord | https://anilist.co/anime/191205 | [Link](https://ani.social/post/25660673) |
 | Fate/strange Fake | Fate/strange Fake | https://anilist.co/anime/166617 | [Link](https://ani.social/post/25461685) |
 | Sousou no Frieren 2nd Season | Frieren: Beyond Journey’s End Season 2 | https://anilist.co/anime/182255 |  |
 | GANGLION | GANGLION | https://anilist.co/anime/198117 | [Link](https://ani.social/post/24731498) |
-| Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | [Link](https://ani.social/post/25250355) |
 | Gnosia | Gnosia | https://anilist.co/anime/185116 | [Link](https://ani.social/post/25123444) |
 | Golden Kamuy: Saishuushou | Golden Kamuy Final Season | https://anilist.co/anime/166521 | [Link](https://ani.social/post/25556476) |
 | Jigokuraku 2nd Season | Hell’s Paradise Season 2 | https://anilist.co/anime/166613 |  |
@@ -80,6 +79,7 @@ These shows have had episodes air already, but no thread was created because the
 | Long Zu 2 | Dragon Raja II -The Mourner's Eyes- | https://anilist.co/anime/157692 | Episode 25 |
 | Towa no Yuugure | Dusk Beyond the End of the World | https://anilist.co/anime/195153 | Episode 13 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 190 |
+| Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | Episode 12 |
 | Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | Episode 24 |
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | Episode 9 |
 | Girls und Panzer: Motto Love Love Sakusen desu! | Girls und Panzer: Motto Love Love Sakusen desu! | https://anilist.co/anime/188034 | Episode 1 |
