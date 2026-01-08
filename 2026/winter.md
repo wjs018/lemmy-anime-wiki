@@ -10,6 +10,13 @@ dateCreated: 2025-12-29T05:41:43.752Z
 
 Below, you can find an index of all the discussion threads for shows from the Winter 2026 anime season. Not every episode of every show may have a discussion thread. To more easily find the show you are looking for, use the navigation menu for this page or use Ctrl+F.
 
+## "Omae Gotoki ga Maou ni Kateru to Omou na" to Yuusha Party wo Tsuihou Sareta node, Outo de Kimama ni Kurashitai • ROLL OVER AND DIE
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/25717139)
+{.dense}
+
 ## Darwin Jihen • The Darwin Incident
 
 Episode|Link
@@ -52,11 +59,19 @@ Episode|Link
 1|[Link](https://ani.social/post/25508607)
 {.dense}
 
+## Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen • JUJUTSU KAISEN Season 3: The Culling Game Part 1
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/25717137)
+{.dense}
+
 ## MF Ghost 3rd Season • MF GHOST Season 3
 
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/25363702)
+2|[Link](https://ani.social/post/25717138)
 {.dense}
 
 ## Maou no Musume wa Yasashi Sugiru!! • The Demon King's Daughter is Too Kind!!
