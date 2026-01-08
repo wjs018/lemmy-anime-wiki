@@ -17,6 +17,13 @@ Episode|Link
 1|[Link](https://ani.social/post/25611791)
 {.dense}
 
+## Eris no Seihai • The Holy Grail of Eris
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/25715498)
+{.dense}
+
 ## Fate/strange Fake
 
 Episode|Link
