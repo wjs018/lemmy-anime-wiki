@@ -60,6 +60,13 @@ Episode|Link
 2|[Link](https://ani.social/post/25605862)
 {.dense}
 
+## Mato Seihei no Slave 2 • Chained Soldier Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/25713107)
+{.dense}
+
 ## Mayonaka Heart Tune • Tune In to the Midnight Heart
 
 Episode|Link
