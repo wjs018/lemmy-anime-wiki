@@ -70,7 +70,7 @@ These shows have had episodes air already, but no thread was created because the
 | Cat's♥Eye (2025) | Cat's Eye (2025) | https://anilist.co/anime/184718 | Episode 8 |
 | Champignon no Majo | Champignon no Majo | https://anilist.co/anime/185514 | Episode 1 |
 | Chibi Godzilla no Gyakushuu 3 | Chibi Godzilla Raids Again Season 3 | https://anilist.co/anime/193883 | Episode 28 |
-| Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 306 |
+| Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 307 |
 | Chitose-kun wa Ramune Bin no Naka | Chitose Is in the Ramune Bottle | https://anilist.co/anime/180082 | Episode 10 |
 | Chou Futsuu Mahou Shoujo Asumi Toruverse | Chou Futsuu Mahou Shoujo Asumi Toruverse | https://anilist.co/anime/198926 | Episode 13 |
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | Episode 13 |
