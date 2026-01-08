@@ -17,6 +17,13 @@ Episode|Link
 1|[Link](https://ani.social/post/25717139)
 {.dense}
 
+## ALL YOU NEED IS KILL
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/25718589)
+{.dense}
+
 ## Darwin Jihen • The Darwin Incident
 
 Episode|Link
