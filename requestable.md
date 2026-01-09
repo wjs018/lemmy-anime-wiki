@@ -66,6 +66,7 @@ These shows have had episodes air already, but no thread was created because the
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 111 |
 | Ao no Miburo: Serizawa Ansatsu-hen | Blue Miburo Season 2 | https://anilist.co/anime/189258 | Episode 3 |
 | Ao no Orchestra Season 2 | Blue Orchestra Season 2 | https://anilist.co/anime/170018 | Episode 13 |
+| Cardfight!! Vanguard: Divinez Genma Seisen-hen | Cardfight!! Vanguard: Divinez Genma Seisen-hen | https://anilist.co/anime/203296 | Episode 1 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1187 |
 | Ugoku! Neko Mukashi Banashi | Cat Tales | https://anilist.co/anime/188529 | Episode 13 |
 | Cat's♥Eye (2025) | Cat's Eye (2025) | https://anilist.co/anime/184718 | Episode 9 |
@@ -108,7 +109,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yuusha Party wo Oidasareta Kiyou Binbou | Jack-of-All-Trades, Party of None | https://anilist.co/anime/187264 | Episode 2 |
 | Jigoku Sensei Nube (2025) Part 2 | Jigoku Sensei Nube (2025) Part 2 | https://anilist.co/anime/191967 | Episode 1 |
 | Kagaku×Bouken Survival! 2nd Season | Kagaku×Bouken Survival! 2nd Season | https://anilist.co/anime/186736 | Episode 11 |
-| Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 39 |
+| Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 40 |
 | Kakuriyo no Yadomeshi 2nd Season | Kakuriyo -Bed and Breakfast for Spirits- 2 | https://anilist.co/anime/177271 | Episode 12 |
 | Kikaijikake no Marie Mini Anime | Kikaijikake no Marie Mini Anime | https://anilist.co/anime/200374 | Episode 13 |
 | Kingdom 6th Season | Kingdom Season 6 | https://anilist.co/anime/190840 | Episode 13 |
@@ -188,7 +189,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Jingai Kyoushitsu no Ningengirai Kyoushi | A Misanthrope Teaches a Class for Demi-Humans | https://anilist.co/anime/198374 | January 10 at 15:00 |
 | ANI x PARA: Anata no Hero wa Dare desu ka | Animation × Paralympic: Who Is Your Hero? | https://anilist.co/anime/110694 | January 12 at 15:26 |
 | Black Jack Yanen | Black Jack Yanen | https://anilist.co/anime/205676 | January 14 at 23:00 |
-| Cardfight!! Vanguard: Divinez Genma Seisen-hen | Cardfight!! Vanguard: Divinez Genma Seisen-hen | https://anilist.co/anime/203296 | January 09 at 23:00 |
 | Dead Account | Dead Account | https://anilist.co/anime/187901 | January 10 at 14:30 |
 | Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu | Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu | https://anilist.co/anime/203148 | January 10 at 08:00 |
 | Saioshi no Gikei Mederu Tame, Nagaikishimasu! | I'll Live a Long Life to Dote on My Favorite Stepbrother! | https://anilist.co/anime/199446 | January 10 at 14:00 |
