@@ -117,6 +117,13 @@ Episode|Link
 1|[Link](https://ani.social/post/25559613)
 {.dense}
 
+## Tamon-kun Ima Docchi!? • Tamon's B-Side
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/25740021)
+{.dense}
+
 ## Vigilante: Boku no Hero Academia ILLEGALS 2nd Season • My Hero Academia: Vigilantes Season 2
 
 Episode|Link
