@@ -83,6 +83,7 @@ These shows have had episodes air already, but no thread was created because the
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 896 |
 | Long Zu 2 | Dragon Raja II -The Mourner's Eyes- | https://anilist.co/anime/157692 | Episode 25 |
 | Towa no Yuugure | Dusk Beyond the End of the World | https://anilist.co/anime/195153 | Episode 13 |
+| Enen no Shouboutai: San no Shou Part 2 | Fire Force Season 3 Part 2 | https://anilist.co/anime/179062 | Episode 1 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 191 |
 | Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | Episode 14 |
 | Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | Episode 24 |
@@ -189,7 +190,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Black Jack Yanen | Black Jack Yanen | https://anilist.co/anime/205676 | January 14 at 23:00 |
 | Cardfight!! Vanguard: Divinez Genma Seisen-hen | Cardfight!! Vanguard: Divinez Genma Seisen-hen | https://anilist.co/anime/203296 | January 09 at 23:00 |
 | Dead Account | Dead Account | https://anilist.co/anime/187901 | January 10 at 14:30 |
-| Enen no Shouboutai: San no Shou Part 2 | Fire Force Season 3 Part 2 | https://anilist.co/anime/179062 | January 09 at 16:53 |
 | Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu | Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu | https://anilist.co/anime/203148 | January 10 at 08:00 |
 | Saioshi no Gikei Mederu Tame, Nagaikishimasu! | I'll Live a Long Life to Dote on My Favorite Stepbrother! | https://anilist.co/anime/199446 | January 10 at 14:00 |
 | Prism Rondo | Love Through A Prism | https://anilist.co/anime/202955 | January 15 at 08:00 |
