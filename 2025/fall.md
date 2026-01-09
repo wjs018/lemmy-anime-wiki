@@ -160,6 +160,7 @@ Episode|Link
 10|[Link](https://ani.social/post/24029676)
 11|[Link](https://ani.social/post/24387121)
 12|[Link](https://ani.social/post/24731498)
+13|[Link](https://ani.social/post/25763078)
 {.dense}
 
 ## Ganso! Bandori-chan • GANSO! BanG Dream Chan
