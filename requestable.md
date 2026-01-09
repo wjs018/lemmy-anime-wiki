@@ -74,6 +74,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 307 |
 | Chitose-kun wa Ramune Bin no Naka | Chitose Is in the Ramune Bottle | https://anilist.co/anime/180082 | Episode 10 |
 | Chou Futsuu Mahou Shoujo Asumi Toruverse | Chou Futsuu Mahou Shoujo Asumi Toruverse | https://anilist.co/anime/198926 | Episode 13 |
+| DARK MOON: Kuro no Tsuki - Tsuki no Saidan | DARK MOON: THE BLOOD ALTAR Animation with ENHYPEN | https://anilist.co/anime/181443 | Episode 1 |
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | Episode 13 |
 | Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha. | Dad is a Hero, Mom is a Spirit, I'm a Reincarnator | https://anilist.co/anime/173692 | Episode 12 |
 | Disney Twisted-Wonderland: THE ANIMATION - Season 1: EPISODE of HEARTSLABYUL | Disney Twisted-Wonderland: THE ANIMATION - Season 1: EPISODE of HEARTSLABYUL | https://anilist.co/anime/140291 | Episode 8 |
@@ -185,7 +186,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | ANI x PARA: Anata no Hero wa Dare desu ka | Animation × Paralympic: Who Is Your Hero? | https://anilist.co/anime/110694 | January 12 at 15:26 |
 | Black Jack Yanen | Black Jack Yanen | https://anilist.co/anime/205676 | January 14 at 23:00 |
 | Cardfight!! Vanguard: Divinez Genma Seisen-hen | Cardfight!! Vanguard: Divinez Genma Seisen-hen | https://anilist.co/anime/203296 | January 09 at 23:00 |
-| DARK MOON: Kuro no Tsuki - Tsuki no Saidan | DARK MOON: THE BLOOD ALTAR Animation with ENHYPEN | https://anilist.co/anime/181443 | January 09 at 15:00 |
 | Dead Account | Dead Account | https://anilist.co/anime/187901 | January 10 at 14:30 |
 | Android wa Keiken Ninzuu ni Hairimasu ka?? | Does it Count if You Lose Your Innocence to an Android? | https://anilist.co/anime/192867 | January 09 at 16:00 |
 | Enen no Shouboutai: San no Shou Part 2 | Fire Force Season 3 Part 2 | https://anilist.co/anime/179062 | January 09 at 16:53 |
