@@ -22,7 +22,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Fate/strange Fake | Fate/strange Fake | https://anilist.co/anime/166617 | [Link](https://ani.social/post/25816729) |
 | Sousou no Frieren 2nd Season | Frieren: Beyond Journey’s End Season 2 | https://anilist.co/anime/182255 |  |
 | GANGLION | GANGLION | https://anilist.co/anime/198117 | [Link](https://ani.social/post/25763078) |
-| Gnosia | Gnosia | https://anilist.co/anime/185116 | [Link](https://ani.social/post/25123444) |
+| Gnosia | Gnosia | https://anilist.co/anime/185116 | [Link](https://ani.social/post/25818350) |
 | Golden Kamuy: Saishuushou | Golden Kamuy Final Season | https://anilist.co/anime/166521 | [Link](https://ani.social/post/25556476) |
 | Jigokuraku 2nd Season | Hell’s Paradise Season 2 | https://anilist.co/anime/166613 |  |
 | Uruwashi no Yoi no Tsuki | In the Clear Moonlit Dusk | https://anilist.co/anime/192507 |  |
@@ -127,7 +127,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chanto Suenai Kyuuketsuki-chan | Li'l Miss Vampire Can't Suck Right | https://anilist.co/anime/186524 | Episode 12 |
 | MUZIK TIGER In the Forest 2 | MUZIK TIGER In the Forest 2 | https://anilist.co/anime/195383 | Episode 14 |
 | Monster Strike: Deadverse Reloaded | Monster Strike: Deadverse Reloaded | https://anilist.co/anime/196230 | Episode 10 |
-| Mu Shen Ji 3 | Mu Shen Ji 3 | https://anilist.co/anime/203953 | Episode 12 |
+| Mu Shen Ji 3 | Mu Shen Ji 3 | https://anilist.co/anime/203953 | Episode 13 |
 | Bukiyou na Senpai. | My Awkward Senpai | https://anilist.co/anime/185575 | Episode 12 |
 | Tomodachi no Imouto ga Ore ni dake Uzai | My Friend's Little Sister Has It In for Me! | https://anilist.co/anime/129195 | Episode 12 |
 | Boku no Hero Academia FINAL SEASON | My Hero Academia FINAL SEASON | https://anilist.co/anime/182896 | Episode 11 |
@@ -183,6 +183,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kimi to Koete Koi ni Naru | With You, Our Love Will Make It Through | https://anilist.co/anime/186161 | Episode 12 |
 | Yano-kun no Futsuu no Hibi | Yano-kun's Ordinary Days | https://anilist.co/anime/183965 | Episode 12 |
 | Kimi to Idol Precure♪ | You and Idol Precure ♪ | https://anilist.co/anime/185073 | Episode 46 |
+| Yuusha no Kuzu | Yuusha no Kuzu | https://anilist.co/anime/187989 | Episode 1 |
 | mofusand | mofusand | https://anilist.co/anime/204656 | Episode 2 |
 {.dense}
 
@@ -199,5 +200,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Shen Kong Bian | Shen Kong Bian | https://anilist.co/anime/199436 | January 15 at 15:00 |
 | Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru | The Villainess Is Adored by the Prince of the Neighbor Kingdom | https://anilist.co/anime/195518 | January 11 at 14:00 |
 | Yami Shibai 16 | Yami Shibai 16 | https://anilist.co/anime/203939 | January 11 at 17:20 |
-| Yuusha no Kuzu | Yuusha no Kuzu | https://anilist.co/anime/187989 | January 10 at 15:56 |
 {.dense}
