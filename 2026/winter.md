@@ -132,6 +132,13 @@ Episode|Link
 1|[Link](https://ani.social/post/25740021)
 {.dense}
 
+## Uruwashi no Yoi no Tsuki • In the Clear Moonlit Dusk
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/25850455)
+{.dense}
+
 ## Vigilante: Boku no Hero Academia ILLEGALS 2nd Season • My Hero Academia: Vigilantes Season 2
 
 Episode|Link
