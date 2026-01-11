@@ -118,6 +118,13 @@ Episode|Link
 1|[Link](https://ani.social/post/25559613)
 {.dense}
 
+## Seihantai na Kimi to Boku • You and I Are Polar Opposites
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/25851260)
+{.dense}
+
 ## TRIGUN STARGAZE
 
 Episode|Link
