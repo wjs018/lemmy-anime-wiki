@@ -74,6 +74,13 @@ Episode|Link
 1|[Link](https://ani.social/post/25717137)
 {.dense}
 
+## Kaya-chan wa Kowakunai • Kaya-chan Isn't Scary
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/25851873)
+{.dense}
+
 ## MF Ghost 3rd Season • MF GHOST Season 3
 
 Episode|Link
