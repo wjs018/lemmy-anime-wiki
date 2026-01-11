@@ -65,7 +65,7 @@ These shows have had episodes air already, but no thread was created because the
 | Atashin'chi NEXT 2 | Atashin'chi NEXT 2 | https://anilist.co/anime/203146 | Episode 2 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 111 |
 | Ao no Miburo: Serizawa Ansatsu-hen | Blue Miburo Season 2 | https://anilist.co/anime/189258 | Episode 3 |
-| Ao no Orchestra Season 2 | Blue Orchestra Season 2 | https://anilist.co/anime/170018 | Episode 13 |
+| Ao no Orchestra Season 2 | Blue Orchestra Season 2 | https://anilist.co/anime/170018 | Episode 14 |
 | Cardfight!! Vanguard: Divinez Genma Seisen-hen | Cardfight!! Vanguard: Divinez Genma Seisen-hen | https://anilist.co/anime/203296 | Episode 1 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1188 |
 | Ugoku! Neko Mukashi Banashi | Cat Tales | https://anilist.co/anime/188529 | Episode 13 |
