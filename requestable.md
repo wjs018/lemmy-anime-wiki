@@ -119,7 +119,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kingdom 6th Season | Kingdom Season 6 | https://anilist.co/anime/190840 | Episode 13 |
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 15 |
 | Kono Hon wo Nusumu Mono wa | Kono Hon wo Nusumu Mono wa | https://anilist.co/anime/193923 | Episode 1 |
-| Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 40 |
+| Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 41 |
 | Majutsushi Kunon wa Mieteiru | Kunon the Sorcerer Can See | https://anilist.co/anime/186333 | Episode 1 |
 | Meikyuu no Shiori | LABYRINTH | https://anilist.co/anime/195384 | Episode 1 |
 | Nageki no Bourei wa Intai Shitai 2 | Let This Grieving Soul Retire Cour 2 | https://anilist.co/anime/185801 | Episode 11 |
@@ -182,7 +182,7 @@ These shows have had episodes air already, but no thread was created because the
 | Watari-kun no xx ga Houkai Sunzen | Watari-kun's ****** Is about to Collapse | https://anilist.co/anime/169420 | Episode 26 |
 | Kimi to Koete Koi ni Naru | With You, Our Love Will Make It Through | https://anilist.co/anime/186161 | Episode 12 |
 | Yano-kun no Futsuu no Hibi | Yano-kun's Ordinary Days | https://anilist.co/anime/183965 | Episode 12 |
-| Kimi to Idol Precure♪ | You and Idol Precure ♪ | https://anilist.co/anime/185073 | Episode 46 |
+| Kimi to Idol Precure♪ | You and Idol Precure ♪ | https://anilist.co/anime/185073 | Episode 47 |
 | Yuusha no Kuzu | Yuusha no Kuzu | https://anilist.co/anime/187989 | Episode 1 |
 | mofusand | mofusand | https://anilist.co/anime/204656 | Episode 2 |
 {.dense}
