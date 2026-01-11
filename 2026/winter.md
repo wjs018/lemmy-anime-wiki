@@ -89,6 +89,13 @@ Episode|Link
 1|[Link](https://ani.social/post/25851873)
 {.dense}
 
+## Kirei ni Shitemoraemasu ka. • Wash It All Away
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/25867982)
+{.dense}
+
 ## MF Ghost 3rd Season • MF GHOST Season 3
 
 Episode|Link
