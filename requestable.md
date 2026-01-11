@@ -42,6 +42,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Maou no Musume wa Yasashi Sugiru!! | The Demon King's Daughter is Too Kind!! | https://anilist.co/anime/194742 | [Link](https://ani.social/post/25605862) |
 | Eris no Seihai | The Holy Grail of Eris | https://anilist.co/anime/183270 | [Link](https://ani.social/post/25715498) |
 | Mayonaka Heart Tune | Tune In to the Midnight Heart | https://anilist.co/anime/187942 | [Link](https://ani.social/post/25607790) |
+| Kirei ni Shitemoraemasu ka. | Wash It All Away | https://anilist.co/anime/194028 | [Link](https://ani.social/post/25867982) |
 | Yoroi Shinden Samurai Troopers | Yoroi-Shinden Samurai Troopers | https://anilist.co/anime/194318 | [Link](https://ani.social/post/25608979) |
 | Osananajimi to wa Love Comedy ni Naranai | You Can't Be In a Rom-Com with Your Childhood Friends! | https://anilist.co/anime/189565 | [Link](https://ani.social/post/25559613) |
 | Seihantai na Kimi to Boku | You and I Are Polar Opposites | https://anilist.co/anime/184951 | [Link](https://ani.social/post/25851260) |
@@ -180,7 +181,6 @@ These shows have had episodes air already, but no thread was created because the
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 13 |
 | Undead Unluck: Winter-hen | Undead Unluck: Winter Arc | https://anilist.co/anime/179930 | Episode 1 |
 | WanDance | WanDance | https://anilist.co/anime/180436 | Episode 12 |
-| Kirei ni Shitemoraemasu ka. | Wash It All Away | https://anilist.co/anime/194028 | Episode 1 |
 | Watari-kun no xx ga Houkai Sunzen | Watari-kun's ****** Is about to Collapse | https://anilist.co/anime/169420 | Episode 26 |
 | Kimi to Koete Koi ni Naru | With You, Our Love Will Make It Through | https://anilist.co/anime/186161 | Episode 12 |
 | Yano-kun no Futsuu no Hibi | Yano-kun's Ordinary Days | https://anilist.co/anime/183965 | Episode 12 |
