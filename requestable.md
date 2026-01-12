@@ -61,6 +61,7 @@ These shows have had episodes air already, but no thread was created because the
 | Taiyou yori mo Mabushii Hoshi | A Star Brighter Than the Sun | https://anilist.co/anime/186621 | Episode 12 |
 | 29-sai Dokushin Chuuken Boukensha no Nichijou | An Adventurer’s Daily Grind at Age 29 | https://anilist.co/anime/192261 | Episode 1 |
 | Anila to Cocora | Anila to Cocora | https://anilist.co/anime/199794 | Episode 13 |
+| ANI x PARA: Anata no Hero wa Dare desu ka | Animation × Paralympic: Who Is Your Hero? | https://anilist.co/anime/110694 | Episode 20 |
 | Douse, Koishite Shimaunda. Season 2 | Anyway, I'm Falling in Love with You. Season 2 | https://anilist.co/anime/189137 | Episode 1 |
 | Atashin'chi NEXT 2 | Atashin'chi NEXT 2 | https://anilist.co/anime/203146 | Episode 2 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 111 |
@@ -121,7 +122,6 @@ These shows have had episodes air already, but no thread was created because the
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 41 |
 | Majutsushi Kunon wa Mieteiru | Kunon the Sorcerer Can See | https://anilist.co/anime/186333 | Episode 2 |
 | Meikyuu no Shiori | LABYRINTH | https://anilist.co/anime/195384 | Episode 1 |
-| Nageki no Bourei wa Intai Shitai 2 | Let This Grieving Soul Retire Cour 2 | https://anilist.co/anime/185801 | Episode 11 |
 | Let’s Play: Quest Darake no My Life | Let’s Play | https://anilist.co/anime/193968 | Episode 12 |
 | Chanto Suenai Kyuuketsuki-chan | Li'l Miss Vampire Can't Suck Right | https://anilist.co/anime/186524 | Episode 12 |
 | MUZIK TIGER In the Forest 2 | MUZIK TIGER In the Forest 2 | https://anilist.co/anime/195383 | Episode 14 |
@@ -194,7 +194,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
-| ANI x PARA: Anata no Hero wa Dare desu ka | Animation × Paralympic: Who Is Your Hero? | https://anilist.co/anime/110694 | January 12 at 15:26 |
 | Black Jack Yanen | Black Jack Yanen | https://anilist.co/anime/205676 | January 14 at 23:00 |
 | Chou Kaguya-hime! | Cosmic Princess Kaguya! | https://anilist.co/anime/201903 | January 22 at 09:00 |
 | GelPiyo | GelPiyo | https://anilist.co/anime/204698 | January 21 at 01:54 |
