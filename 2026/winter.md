@@ -61,6 +61,13 @@ Episode|Link
 2|[Link](https://ani.social/post/25869146)
 {.dense}
 
+## Hime-sama, "Goumon" no Jikan desu 2nd Season • 'Tis Time for "Torture," Princess Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/25913115)
+{.dense}
+
 ## Ikoku Nikki • Journal with Witch
 
 Episode|Link
