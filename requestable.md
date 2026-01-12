@@ -23,7 +23,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | GANGLION | GANGLION | https://anilist.co/anime/198117 | [Link](https://ani.social/post/25763078) |
 | Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | [Link](https://ani.social/post/25842804) |
 | Gnosia | Gnosia | https://anilist.co/anime/185116 | [Link](https://ani.social/post/25818350) |
-| Golden Kamuy: Saishuushou | Golden Kamuy Final Season | https://anilist.co/anime/166521 | [Link](https://ani.social/post/25556476) |
 | Jigokuraku 2nd Season | Hell’s Paradise Season 2 | https://anilist.co/anime/166613 | [Link](https://ani.social/post/25864151) |
 | Uruwashi no Yoi no Tsuki | In the Clear Moonlit Dusk | https://anilist.co/anime/192507 | [Link](https://ani.social/post/25850455) |
 | Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen | JUJUTSU KAISEN Season 3: The Culling Game Part 1 | https://anilist.co/anime/172463 | [Link](https://ani.social/post/25717137) |
@@ -198,6 +197,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Black Jack Yanen | Black Jack Yanen | https://anilist.co/anime/205676 | January 14 at 23:00 |
 | Chou Kaguya-hime! | Cosmic Princess Kaguya! | https://anilist.co/anime/201903 | January 22 at 09:00 |
 | GelPiyo | GelPiyo | https://anilist.co/anime/204698 | January 21 at 01:54 |
+| Golden Kamuy: Saishuushou | Golden Kamuy Final Season | https://anilist.co/anime/166521 | January 12 at 15:00 |
 | Prism Rondo | Love Through A Prism | https://anilist.co/anime/202955 | January 15 at 08:00 |
 | Shen Kong Bian | Shen Kong Bian | https://anilist.co/anime/199436 | January 15 at 15:00 |
 {.dense}
