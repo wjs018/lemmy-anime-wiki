@@ -147,6 +147,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/25559613)
+2|[Link](https://ani.social/post/25916357)
 {.dense}
 
 ## Seihantai na Kimi to Boku • You and I Are Polar Opposites
