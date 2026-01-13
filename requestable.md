@@ -37,7 +37,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | TRIGUN STARGAZE | TRIGUN STARGAZE | https://anilist.co/anime/163144 | [Link](https://ani.social/post/25812616) |
 | Tamon-kun Ima Docchi!? | Tamon's B-Side | https://anilist.co/anime/178005 | [Link](https://ani.social/post/25740021) |
 | Goumon Baito-kun no Nichijou | The Daily Life of a Part-time Torturer | https://anilist.co/anime/197731 | [Link](https://ani.social/post/25869146) |
-| Darwin Jihen | The Darwin Incident | https://anilist.co/anime/177679 | [Link](https://ani.social/post/25611791) |
 | Eris no Seihai | The Holy Grail of Eris | https://anilist.co/anime/183270 | [Link](https://ani.social/post/25715498) |
 | Mayonaka Heart Tune | Tune In to the Midnight Heart | https://anilist.co/anime/187942 | [Link](https://ani.social/post/25962793) |
 | Kirei ni Shitemoraemasu ka. | Wash It All Away | https://anilist.co/anime/194028 | [Link](https://ani.social/post/25912022) |
@@ -199,4 +198,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | GelPiyo | GelPiyo | https://anilist.co/anime/204698 | January 21 at 01:54 |
 | Prism Rondo | Love Through A Prism | https://anilist.co/anime/202955 | January 15 at 08:00 |
 | Shen Kong Bian | Shen Kong Bian | https://anilist.co/anime/199436 | January 15 at 15:00 |
+| Darwin Jihen | The Darwin Incident | https://anilist.co/anime/177679 | January 13 at 16:00 |
 {.dense}
