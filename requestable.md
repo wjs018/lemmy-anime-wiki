@@ -165,6 +165,7 @@ These shows have had episodes air already, but no thread was created because the
 | Arne no Jikenbo | The Case Book of Arne | https://anilist.co/anime/183984 | Episode 1 |
 | Xian Wang de Richang Shenghuo 5 | The Daily Life of the Immortal King Season 5 | https://anilist.co/anime/185857 | Episode 6 |
 | Tensei Akujo no Kuro Rekishi | The Dark History of the Reincarnated Villainess | https://anilist.co/anime/174914 | Episode 12 |
+| Darwin Jihen | The Darwin Incident | https://anilist.co/anime/177679 | Episode 2 |
 | Maou no Musume wa Yasashi Sugiru!! | The Demon King's Daughter is Too Kind!! | https://anilist.co/anime/194742 | Episode 3 |
 | Mofa Gongzhu De Xiao Fannao | The Fated Magical Princess: Who Made Me a Princess | https://anilist.co/anime/165530 | Episode 16 |
 | Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari | The Invisible Man and His Soon-to-Be Wife | https://anilist.co/anime/185039 | Episode 1 |
@@ -198,5 +199,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | GelPiyo | GelPiyo | https://anilist.co/anime/204698 | January 21 at 01:54 |
 | Prism Rondo | Love Through A Prism | https://anilist.co/anime/202955 | January 15 at 08:00 |
 | Shen Kong Bian | Shen Kong Bian | https://anilist.co/anime/199436 | January 15 at 15:00 |
-| Darwin Jihen | The Darwin Incident | https://anilist.co/anime/177679 | January 13 at 16:00 |
 {.dense}
