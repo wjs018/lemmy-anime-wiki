@@ -2,7 +2,7 @@
 title: Community Rules
 description: Full rules for the anime@ani.social community
 published: true
-date: 2025-05-23T02:41:34.357Z
+date: 2026-01-13T16:18:58.105Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-17T05:17:49.151Z

@@ -2,7 +2,7 @@
 title: Fall 2023 Discussion Thread Index
 description: All the episode discussion threads for Fall 2023 shows
 published: true
-date: 2025-05-23T02:41:37.521Z
+date: 2026-01-13T16:19:02.638Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-21T13:34:13.035Z

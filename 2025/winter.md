@@ -2,7 +2,7 @@
 title: Winter 2025 Discussion Thread Index
 description: All the episode discussion threads for Winter 2025 shows
 published: true
-date: 2025-06-28T17:14:28.968Z
+date: 2026-01-13T16:19:42.870Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-01T19:37:32.145Z

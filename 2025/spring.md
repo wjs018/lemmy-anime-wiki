@@ -2,7 +2,7 @@
 title: Spring 2025 Discussion Thread Index
 description: All the episode discussion threads for Spring 2025 shows
 published: true
-date: 2025-06-24T17:47:12.321Z
+date: 2026-01-13T16:19:31.691Z
 tags: 
 editor: markdown
 dateCreated: 2025-03-31T16:19:02.497Z

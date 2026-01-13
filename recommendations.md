@@ -2,7 +2,7 @@
 title: Recommendations Index
 description: Anime Recommendations from the /c/anime Community
 published: true
-date: 2025-05-23T02:41:22.010Z
+date: 2026-01-13T16:18:42.019Z
 tags: 
 editor: markdown
 dateCreated: 2024-03-05T14:29:01.942Z
