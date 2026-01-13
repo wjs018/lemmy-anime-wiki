@@ -88,6 +88,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/25717137)
+2|[Link](https://ani.social/post/25717137)
 {.dense}
 
 ## Kaya-chan wa Kowakunai • Kaya-chan Isn't Scary
@@ -193,10 +194,10 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/25321213)
-2|[Link](https://ani.social/post/25322157)
-3|[Link](https://ani.social/post/25323484)
-4|[Link](https://ani.social/post/25324592)
-5|[Link](https://ani.social/post/25325824)
+2|[Link](https://ani.social/post/25321213)
+3|[Link](https://ani.social/post/25321213)
+4|[Link](https://ani.social/post/25321213)
+5|[Link](https://ani.social/post/25321213)
 {.dense}
 
 ## Yoroi Shinden Samurai Troopers • Yoroi-Shinden Samurai Troopers
