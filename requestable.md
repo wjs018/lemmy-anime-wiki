@@ -17,7 +17,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Hime-sama, "Goumon" no Jikan desu 2nd Season | 'Tis Time for "Torture," Princess Season 2 | https://anilist.co/anime/176370 | [Link](https://ani.social/post/25913115) |
 | BEASTARS FINAL SEASON Part 2 | BEASTARS FINAL SEASON Part 2 | https://anilist.co/anime/187267 |  |
 | Mato Seihei no Slave 2 | Chained Soldier Season 2 | https://anilist.co/anime/176276 | [Link](https://ani.social/post/25713107) |
-| Okiraku Ryoushu no Tanoshii Ryouchi Bouei | Easygoing Territory Defense by the Optimistic Lord | https://anilist.co/anime/191205 | [Link](https://ani.social/post/25660673) |
+| Okiraku Ryoushu no Tanoshii Ryouchi Bouei | Easygoing Territory Defense by the Optimistic Lord | https://anilist.co/anime/191205 | [Link](https://ani.social/post/26008309) |
 | Fate/strange Fake | Fate/strange Fake | https://anilist.co/anime/166617 | [Link](https://ani.social/post/25816729) |
 | Sousou no Frieren 2nd Season | Frieren: Beyond Journey’s End Season 2 | https://anilist.co/anime/182255 |  |
 | GANGLION | GANGLION | https://anilist.co/anime/198117 | [Link](https://ani.social/post/25763078) |
@@ -43,7 +43,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Yoroi Shinden Samurai Troopers | Yoroi-Shinden Samurai Troopers | https://anilist.co/anime/194318 | [Link](https://ani.social/post/25964144) |
 | Osananajimi to wa Love Comedy ni Naranai | You Can't Be In a Rom-Com with Your Childhood Friends! | https://anilist.co/anime/189565 | [Link](https://ani.social/post/25916357) |
 | Seihantai na Kimi to Boku | You and I Are Polar Opposites | https://anilist.co/anime/184951 | [Link](https://ani.social/post/25851260) |
-| [Oshi no Ko] 3rd Season | 【OSHI NO KO】Season 3 | https://anilist.co/anime/182587 |  |
+| [Oshi no Ko] 3rd Season | 【OSHI NO KO】Season 3 | https://anilist.co/anime/182587 | [Link](https://ani.social/post/26008310) |
 {.dense}
 
 ## Requestable Shows
