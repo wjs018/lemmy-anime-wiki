@@ -143,6 +143,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/25660673)
+2|[Link](https://ani.social/post/26008309)
 {.dense}
 
 ## Osananajimi to wa Love Comedy ni Naranai • You Can't Be In a Rom-Com with Your Childhood Friends!
@@ -213,5 +214,12 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/25457196)
+{.dense}
+
+## [Oshi no Ko] 3rd Season • 【OSHI NO KO】Season 3
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/26008310)
 {.dense}
 
