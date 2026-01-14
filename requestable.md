@@ -35,7 +35,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | JoJo no Kimyou na Bouken: Steel Ball Run | STEEL BALL RUN JoJo's Bizarre Adventure | https://anilist.co/anime/190327 |  |
 | Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku | Sentenced to Be a Hero | https://anilist.co/anime/167152 | [Link](https://ani.social/post/25457196) |
 | TRIGUN STARGAZE | TRIGUN STARGAZE | https://anilist.co/anime/163144 | [Link](https://ani.social/post/25812616) |
-| Tamon-kun Ima Docchi!? | Tamon's B-Side | https://anilist.co/anime/178005 | [Link](https://ani.social/post/25740021) |
+| Tamon-kun Ima Docchi!? | Tamon's B-Side | https://anilist.co/anime/178005 | [Link](https://ani.social/post/26013953) |
 | Goumon Baito-kun no Nichijou | The Daily Life of a Part-time Torturer | https://anilist.co/anime/197731 | [Link](https://ani.social/post/25869146) |
 | Eris no Seihai | The Holy Grail of Eris | https://anilist.co/anime/183270 | [Link](https://ani.social/post/25715498) |
 | Mayonaka Heart Tune | Tune In to the Midnight Heart | https://anilist.co/anime/187942 | [Link](https://ani.social/post/25962793) |
@@ -54,7 +54,7 @@ These shows have had episodes air already, but no thread was created because the
 | :-------- | :---------------- | :----------- | :--------------------------: |
 | #Kanagawa ni Sunderu Elf | #Kanagawa ni Sunderu Elf | https://anilist.co/anime/199005 | Episode 6 |
 | 2200-nen Neko no Kuni Nippon | 2200-nen Neko no Kuni Nippon | https://anilist.co/anime/199009 | Episode 13 |
-| Odayaka Kizoku no Kyuuka no Susume. | A Gentle Noble's Vacation Recommendation | https://anilist.co/anime/182771 | Episode 1 |
+| Odayaka Kizoku no Kyuuka no Susume. | A Gentle Noble's Vacation Recommendation | https://anilist.co/anime/182771 | Episode 2 |
 | Jingai Kyoushitsu no Ningengirai Kyoushi | A Misanthrope Teaches a Class for Demi-Humans | https://anilist.co/anime/198374 | Episode 1 |
 | Taiyou yori mo Mabushii Hoshi | A Star Brighter Than the Sun | https://anilist.co/anime/186621 | Episode 12 |
 | 29-sai Dokushin Chuuken Boukensha no Nichijou | An Adventurer’s Daily Grind at Age 29 | https://anilist.co/anime/192261 | Episode 2 |
@@ -96,7 +96,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sawaranaide Kotesashi-kun | Hands off: Sawaranaide Kotesashi-kun! | https://anilist.co/anime/187331 | Episode 12 |
 | Sawaranaide Kotesashi-kun Mini Anime Gekijou | Hands off: Sawaranaide Kotesashi-kun! Mini Anime | https://anilist.co/anime/199812 | Episode 12 |
 | Heika Watashi wo Wasurete Kudasai | Heika Watashi wo Wasurete Kudasai | https://anilist.co/anime/198312 | Episode 12 |
-| Jigoku Sensei Nube (2025) Part 2 | Hell Teacher: Jigoku Sensei Nube (2025) Part 2 | https://anilist.co/anime/191967 | Episode 1 |
+| Jigoku Sensei Nube (2025) Part 2 | Hell Teacher: Jigoku Sensei Nube (2025) Part 2 | https://anilist.co/anime/191967 | Episode 2 |
 | High School! Kimengumi (2026) | High School! Kimengumi (2026) | https://anilist.co/anime/200556 | Episode 1 |
 | Himitsu Kessha Taka no Tsume XX | Himitsu Kessha Taka no Tsume XX | https://anilist.co/anime/203472 | Episode 2 |
 | Himitsu no AiPri: Ring-hen | Himitsu no AiPri: Ring-hen | https://anilist.co/anime/184470 | Episode 40 |
@@ -109,7 +109,7 @@ These shows have had episodes air already, but no thread was created because the
 | Isekai no Sata wa Shachiku Shidai | Isekai Office Worker: The Other World's Books Depend on the Bean Counter | https://anilist.co/anime/183661 | Episode 2 |
 | Isekai Quartet 3 | Isekai Quartet 3 | https://anilist.co/anime/194447 | Episode 11 |
 | JOCHUM Season 2 | JOCHUM Season 2 | https://anilist.co/anime/198413 | Episode 15 |
-| Yuusha Party wo Oidasareta Kiyou Binbou | Jack-of-All-Trades, Party of None | https://anilist.co/anime/187264 | Episode 2 |
+| Yuusha Party wo Oidasareta Kiyou Binbou | Jack-of-All-Trades, Party of None | https://anilist.co/anime/187264 | Episode 3 |
 | Kagaku×Bouken Survival! 2nd Season | Kagaku×Bouken Survival! 2nd Season | https://anilist.co/anime/186736 | Episode 10 |
 | Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 40 |
 | Kakuriyo no Yadomeshi 2nd Season | Kakuriyo -Bed and Breakfast for Spirits- 2 | https://anilist.co/anime/177271 | Episode 12 |
