@@ -128,6 +128,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/25713107)
+2|[Link](https://ani.social/post/26060820)
 {.dense}
 
 ## Mayonaka Heart Tune • Tune In to the Midnight Heart
