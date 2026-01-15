@@ -36,6 +36,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/25715498)
+2|[Link](https://ani.social/post/26063964)
 {.dense}
 
 ## Fate/strange Fake
