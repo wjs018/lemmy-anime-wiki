@@ -16,7 +16,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | :-------- | :---------------- | :----------- | :--------------------: |
 | Hime-sama, "Goumon" no Jikan desu 2nd Season | 'Tis Time for "Torture," Princess Season 2 | https://anilist.co/anime/176370 | [Link](https://ani.social/post/25913115) |
 | BEASTARS FINAL SEASON Part 2 | BEASTARS FINAL SEASON Part 2 | https://anilist.co/anime/187267 |  |
-| Mato Seihei no Slave 2 | Chained Soldier Season 2 | https://anilist.co/anime/176276 | [Link](https://ani.social/post/25713107) |
+| Mato Seihei no Slave 2 | Chained Soldier Season 2 | https://anilist.co/anime/176276 | [Link](https://ani.social/post/26060820) |
 | Okiraku Ryoushu no Tanoshii Ryouchi Bouei | Easygoing Territory Defense by the Optimistic Lord | https://anilist.co/anime/191205 | [Link](https://ani.social/post/26008309) |
 | Fate/strange Fake | Fate/strange Fake | https://anilist.co/anime/166617 | [Link](https://ani.social/post/25816729) |
 | Sousou no Frieren 2nd Season | Frieren: Beyond Journey’s End Season 2 | https://anilist.co/anime/182255 |  |
@@ -153,6 +153,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2814 |
 | Yuusha no Kuzu | Scum of the Brave | https://anilist.co/anime/187989 | Episode 1 |
 | Shabake | Shabake | https://anilist.co/anime/184997 | Episode 13 |
+| Shen Kong Bian | Shen Kong Bian | https://anilist.co/anime/199436 | Episode 1 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1318 |
 | Shirube | Shirube | https://anilist.co/anime/205307 | Episode 1 |
 | Futari Solo Camp | Solo Camping for Two | https://anilist.co/anime/185965 | Episode 24 |
@@ -198,5 +199,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Chou Kaguya-hime! | Cosmic Princess Kaguya! | https://anilist.co/anime/201903 | January 22 at 09:00 |
 | GelPiyo | GelPiyo | https://anilist.co/anime/204698 | January 21 at 01:54 |
-| Shen Kong Bian | Shen Kong Bian | https://anilist.co/anime/199436 | January 15 at 15:00 |
 {.dense}
