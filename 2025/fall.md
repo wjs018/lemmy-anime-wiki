@@ -146,9 +146,9 @@ Episode|Link
 
 ## GANGLION
 
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/20929934)
+Episode|Link|Episode|Link
+:-:|:-:|:-:|:-:
+1|[Link](https://ani.social/post/20929934)|14|[Link](https://ani.social/post/26109107)
 2|[Link](https://ani.social/post/21269121)
 3|[Link](https://ani.social/post/21618353)
 4|[Link](https://ani.social/post/21970537)
