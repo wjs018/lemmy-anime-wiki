@@ -69,7 +69,7 @@ These shows have had episodes air already, but no thread was created because the
 | Cardfight!! Vanguard: Divinez Genma Seisen-hen | Cardfight!! Vanguard: Divinez Genma Seisen-hen | https://anilist.co/anime/203296 | Episode 1 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1188 |
 | Ugoku! Neko Mukashi Banashi | Cat Tales | https://anilist.co/anime/188529 | Episode 14 |
-| Cat's♥Eye (2025) | Cat's Eye (2025) | https://anilist.co/anime/184718 | Episode 9 |
+| Cat's♥Eye (2025) | Cat's Eye (2025) | https://anilist.co/anime/184718 | Episode 10 |
 | Champignon no Majo | Champignon Witch | https://anilist.co/anime/185514 | Episode 2 |
 | Chibi Godzilla no Gyakushuu 3 | Chibi Godzilla Raids Again Season 3 | https://anilist.co/anime/193883 | Episode 29 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 309 |
