@@ -166,6 +166,13 @@ Episode|Link
 1|[Link](https://ani.social/post/25851260)
 {.dense}
 
+## Sousou no Frieren 2nd Season • Frieren: Beyond Journey’s End Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/26107633)
+{.dense}
+
 ## TRIGUN STARGAZE
 
 Episode|Link
