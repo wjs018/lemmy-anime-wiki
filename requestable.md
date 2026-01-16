@@ -62,7 +62,7 @@ These shows have had episodes air already, but no thread was created because the
 | ANI x PARA: Anata no Hero wa Dare desu ka | Animation × Paralympic: Who Is Your Hero? | https://anilist.co/anime/110694 | Episode 20 |
 | Douse, Koishite Shimaunda. Season 2 | Anyway, I'm Falling in Love with You. Season 2 | https://anilist.co/anime/189137 | Episode 2 |
 | Atashin'chi NEXT 2 | Atashin'chi NEXT 2 | https://anilist.co/anime/203146 | Episode 2 |
-| BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 111 |
+| BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 112 |
 | Black Jack Yanen | Black Jack Yanen | https://anilist.co/anime/205676 | Episode 2 |
 | Ao no Miburo: Serizawa Ansatsu-hen | Blue Miburo Season 2 | https://anilist.co/anime/189258 | Episode 3 |
 | Ao no Orchestra Season 2 | Blue Orchestra Season 2 | https://anilist.co/anime/170018 | Episode 14 |
