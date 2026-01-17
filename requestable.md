@@ -22,7 +22,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Sousou no Frieren 2nd Season | Frieren: Beyond Journey’s End Season 2 | https://anilist.co/anime/182255 | [Link](https://ani.social/post/26107633) |
 | GANGLION | GANGLION | https://anilist.co/anime/198117 | [Link](https://ani.social/post/26109107) |
 | Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | [Link](https://ani.social/post/26058342) |
-| Gnosia | Gnosia | https://anilist.co/anime/185116 | [Link](https://ani.social/post/25818350) |
+| Gnosia | Gnosia | https://anilist.co/anime/185116 | [Link](https://ani.social/post/26162959) |
 | Jigokuraku 2nd Season | Hell’s Paradise Season 2 | https://anilist.co/anime/166613 | [Link](https://ani.social/post/25864151) |
 | Uruwashi no Yoi no Tsuki | In the Clear Moonlit Dusk | https://anilist.co/anime/192507 | [Link](https://ani.social/post/25850455) |
 | Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen | JUJUTSU KAISEN Season 3: The Culling Game Part 1 | https://anilist.co/anime/172463 | [Link](https://ani.social/post/26065734) |
@@ -55,8 +55,7 @@ These shows have had episodes air already, but no thread was created because the
 | #Kanagawa ni Sunderu Elf | #Kanagawa ni Sunderu Elf | https://anilist.co/anime/199005 | Episode 4 |
 | 2200-nen Neko no Kuni Nippon | 2200-nen Neko no Kuni Nippon | https://anilist.co/anime/199009 | Episode 13 |
 | Odayaka Kizoku no Kyuuka no Susume. | A Gentle Noble's Vacation Recommendation | https://anilist.co/anime/182771 | Episode 2 |
-| Jingai Kyoushitsu no Ningengirai Kyoushi | A Misanthrope Teaches a Class for Demi-Humans | https://anilist.co/anime/198374 | Episode 1 |
-| Taiyou yori mo Mabushii Hoshi | A Star Brighter Than the Sun | https://anilist.co/anime/186621 | Episode 12 |
+| Jingai Kyoushitsu no Ningengirai Kyoushi | A Misanthrope Teaches a Class for Demi-Humans | https://anilist.co/anime/198374 | Episode 2 |
 | 29-sai Dokushin Chuuken Boukensha no Nichijou | An Adventurer’s Daily Grind at Age 29 | https://anilist.co/anime/192261 | Episode 2 |
 | Anila to Cocora | Anila to Cocora | https://anilist.co/anime/199794 | Episode 13 |
 | ANI x PARA: Anata no Hero wa Dare desu ka | Animation × Paralympic: Who Is Your Hero? | https://anilist.co/anime/110694 | Episode 20 |
@@ -82,7 +81,6 @@ These shows have had episodes air already, but no thread was created because the
 | Android wa Keiken Ninzuu ni Hairimasu ka?? | Does it Count if You Lose Your Innocence to an Android? | https://anilist.co/anime/192867 | Episode 2 |
 | Dokodemo Makibao: World Tour | Dokodemo Makibao: World Tour | https://anilist.co/anime/199931 | Episode 14 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 898 |
-| Long Zu 2 | Dragon Raja II -The Mourner's Eyes- | https://anilist.co/anime/157692 | Episode 25 |
 | Towa no Yuugure | Dusk Beyond the End of the World | https://anilist.co/anime/195153 | Episode 13 |
 | Enen no Shouboutai: San no Shou Part 2 | Fire Force Season 3 Part 2 | https://anilist.co/anime/179062 | Episode 2 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 191 |
@@ -122,7 +120,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chanto Suenai Kyuuketsuki-chan | Li'l Miss Vampire Can't Suck Right | https://anilist.co/anime/186524 | Episode 12 |
 | Prism Rondo | Love Through A Prism | https://anilist.co/anime/202955 | Episode 1 |
 | MUZIK TIGER In the Forest 2 | MUZIK TIGER In the Forest 2 | https://anilist.co/anime/195383 | Episode 15 |
-| Mu Shen Ji 3 | Mu Shen Ji 3 | https://anilist.co/anime/203953 | Episode 13 |
+| Mu Shen Ji 3 | Mu Shen Ji 3 | https://anilist.co/anime/203953 | Episode 14 |
 | Tomodachi no Imouto ga Ore ni dake Uzai | My Friend's Little Sister Has It In for Me! | https://anilist.co/anime/129195 | Episode 12 |
 | Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga | My Status as an Assassin Obviously Exceeds the Hero’s | https://anilist.co/anime/186794 | Episode 12 |
 | Ninja to Gokudou | Ninja Vs. Gokudo | https://anilist.co/anime/186914 | Episode 12 |
