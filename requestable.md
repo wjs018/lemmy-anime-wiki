@@ -104,7 +104,7 @@ These shows have had episodes air already, but no thread was created because the
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 348 |
 | Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu | Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu | https://anilist.co/anime/203148 | Episode 2 |
 | Potion, Wagami wo Tasukeru | I Saved Myself with a Potion!: Life in Another World | https://anilist.co/anime/198561 | Episode 12 |
-| Saioshi no Gikei Mederu Tame, Nagaikishimasu! | I'll Live a Long Life to Dote on My Favorite Stepbrother! | https://anilist.co/anime/199446 | Episode 2 |
+| Saioshi no Gikei Mederu Tame, Nagaikishimasu! | I'll Live a Long Life to Dote on My Favorite Stepbrother! | https://anilist.co/anime/199446 | Episode 3 |
 | Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun | Inexpressive Kashiwada and Expressive Oota | https://anilist.co/anime/187940 | Episode 12 |
 | Isekai no Sata wa Shachiku Shidai | Isekai Office Worker: The Other World's Books Depend on the Bean Counter | https://anilist.co/anime/183661 | Episode 2 |
 | Isekai Quartet 3 | Isekai Quartet 3 | https://anilist.co/anime/194447 | Episode 11 |
@@ -123,7 +123,6 @@ These shows have had episodes air already, but no thread was created because the
 | Prism Rondo | Love Through A Prism | https://anilist.co/anime/202955 | Episode 1 |
 | MUZIK TIGER In the Forest 2 | MUZIK TIGER In the Forest 2 | https://anilist.co/anime/195383 | Episode 15 |
 | Mu Shen Ji 3 | Mu Shen Ji 3 | https://anilist.co/anime/203953 | Episode 13 |
-| Bukiyou na Senpai. | My Awkward Senpai | https://anilist.co/anime/185575 | Episode 12 |
 | Tomodachi no Imouto ga Ore ni dake Uzai | My Friend's Little Sister Has It In for Me! | https://anilist.co/anime/129195 | Episode 12 |
 | Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga | My Status as an Assassin Obviously Exceeds the Hero’s | https://anilist.co/anime/186794 | Episode 12 |
 | Ninja to Gokudou | Ninja Vs. Gokudo | https://anilist.co/anime/186914 | Episode 12 |
