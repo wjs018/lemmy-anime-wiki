@@ -174,9 +174,9 @@ Episode|Link
 
 ## Gnosia
 
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/21327237)
+Episode|Link|Episode|Link
+:-:|:-:|:-:|:-:
+1|[Link](https://ani.social/post/21327237)|14|[Link](https://ani.social/post/26162959)
 2|[Link](https://ani.social/post/21675850)
 3|[Link](https://ani.social/post/22027301)
 4|[Link](https://ani.social/post/22381100)
