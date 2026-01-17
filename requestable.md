@@ -81,7 +81,7 @@ These shows have had episodes air already, but no thread was created because the
 | Dead Account | Dead Account | https://anilist.co/anime/187901 | Episode 1 |
 | Android wa Keiken Ninzuu ni Hairimasu ka?? | Does it Count if You Lose Your Innocence to an Android? | https://anilist.co/anime/192867 | Episode 2 |
 | Dokodemo Makibao: World Tour | Dokodemo Makibao: World Tour | https://anilist.co/anime/199931 | Episode 14 |
-| Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 897 |
+| Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 898 |
 | Long Zu 2 | Dragon Raja II -The Mourner's Eyes- | https://anilist.co/anime/157692 | Episode 25 |
 | Towa no Yuugure | Dusk Beyond the End of the World | https://anilist.co/anime/195153 | Episode 13 |
 | Enen no Shouboutai: San no Shou Part 2 | Fire Force Season 3 Part 2 | https://anilist.co/anime/179062 | Episode 2 |
