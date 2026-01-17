@@ -81,7 +81,6 @@ These shows have had episodes air already, but no thread was created because the
 | Android wa Keiken Ninzuu ni Hairimasu ka?? | Does it Count if You Lose Your Innocence to an Android? | https://anilist.co/anime/192867 | Episode 2 |
 | Dokodemo Makibao: World Tour | Dokodemo Makibao: World Tour | https://anilist.co/anime/199931 | Episode 14 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 898 |
-| Towa no Yuugure | Dusk Beyond the End of the World | https://anilist.co/anime/195153 | Episode 13 |
 | Enen no Shouboutai: San no Shou Part 2 | Fire Force Season 3 Part 2 | https://anilist.co/anime/179062 | Episode 2 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 191 |
 | Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | Episode 24 |
@@ -150,7 +149,6 @@ These shows have had episodes air already, but no thread was created because the
 | Shen Kong Bian | Shen Kong Bian | https://anilist.co/anime/199436 | Episode 1 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1319 |
 | Shirube | Shirube | https://anilist.co/anime/205307 | Episode 1 |
-| Futari Solo Camp | Solo Camping for Two | https://anilist.co/anime/185965 | Episode 24 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1730 |
 | Monster Strike: Deadverse Reloaded | Strike World: Deadverse Reloaded the Anime | https://anilist.co/anime/196230 | Episode 10 |
 | Nohara Hiroshi: Hiru Meshi no Ryuugi | Style of Hiroshi Nohara's Lunch | https://anilist.co/anime/187860 | Episode 12 |
@@ -170,7 +168,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita. | There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her | https://anilist.co/anime/195515 | Episode 2 |
 | Watashi wo Tabetai, Hitodenashi | This Monster Wants to Eat Me | https://anilist.co/anime/183385 | Episode 13 |
 | Fumetsu no Anata e Season 3 | To Your Eternity Season 3 | https://anilist.co/anime/162669 | Episode 14 |
-| Toujima Tanzaburou wa Kamen Rider ni Naritai | Tojima Wants to Be a Kamen Rider | https://anilist.co/anime/187464 | Episode 14 |
+| Toujima Tanzaburou wa Kamen Rider ni Naritai | Tojima Wants to Be a Kamen Rider | https://anilist.co/anime/187464 | Episode 15 |
 | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | https://anilist.co/anime/196229 | Episode 28 |
 | Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | Episode 24 |
 | Shuumatsu Touring | Touring After the Apocalypse | https://anilist.co/anime/186920 | Episode 12 |
