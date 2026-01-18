@@ -192,4 +192,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | GelPiyo | GelPiyo | https://anilist.co/anime/204698 | January 21 at 01:54 |
 | Princess Principal: Crown Handler - Chapter 4: Fabulous Platypus | Princess Principal: Crown Handler - Chapter 4: Fabulous Platypus | https://anilist.co/anime/203127 | January 27 at 16:00 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | January 21 at 03:00 |
+| Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | January 24 at 03:00 |
 {.dense}
