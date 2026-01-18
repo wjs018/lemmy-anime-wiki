@@ -24,7 +24,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | [Link](https://ani.social/post/26058342) |
 | Gnosia | Gnosia | https://anilist.co/anime/185116 | [Link](https://ani.social/post/26162959) |
 | Jigokuraku 2nd Season | Hell’s Paradise Season 2 | https://anilist.co/anime/166613 | [Link](https://ani.social/post/25864151) |
-| Uruwashi no Yoi no Tsuki | In the Clear Moonlit Dusk | https://anilist.co/anime/192507 | [Link](https://ani.social/post/25850455) |
 | Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen | JUJUTSU KAISEN Season 3: The Culling Game Part 1 | https://anilist.co/anime/172463 | [Link](https://ani.social/post/26065734) |
 | Ikoku Nikki | Journal with Witch | https://anilist.co/anime/177385 | [Link](https://ani.social/post/25867787) |
 | Kaya-chan wa Kowakunai | Kaya-chan Isn't Scary | https://anilist.co/anime/183660 | [Link](https://ani.social/post/25851873) |
@@ -190,6 +189,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Chou Kaguya-hime! | Cosmic Princess Kaguya! | https://anilist.co/anime/201903 | January 22 at 09:00 |
 | Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | January 25 at 03:00 |
 | GelPiyo | GelPiyo | https://anilist.co/anime/204698 | January 21 at 01:54 |
+| Uruwashi no Yoi no Tsuki | In the Clear Moonlit Dusk | https://anilist.co/anime/192507 | January 18 at 08:30 |
 | Princess Principal: Crown Handler - Chapter 4: Fabulous Platypus | Princess Principal: Crown Handler - Chapter 4: Fabulous Platypus | https://anilist.co/anime/203127 | January 27 at 16:00 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | January 21 at 03:00 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | January 24 at 03:00 |
