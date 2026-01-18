@@ -84,6 +84,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/25864151)
+2|[Link](https://ani.social/post/26212414)
 {.dense}
 
 ## Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen • JUJUTSU KAISEN Season 3: The Culling Game Part 1
