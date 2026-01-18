@@ -112,7 +112,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kingdom 6th Season | Kingdom Season 6 | https://anilist.co/anime/190840 | Episode 13 |
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 16 |
 | Kono Hon wo Nusumu Mono wa | Kono Hon wo Nusumu Mono wa | https://anilist.co/anime/193923 | Episode 1 |
-| Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 41 |
+| Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 42 |
 | Majutsushi Kunon wa Mieteiru | Kunon the Sorcerer Can See | https://anilist.co/anime/186333 | Episode 2 |
 | Meikyuu no Shiori | LABYRINTH | https://anilist.co/anime/195384 | Episode 1 |
 | Chanto Suenai Kyuuketsuki-chan | Li'l Miss Vampire Can't Suck Right | https://anilist.co/anime/186524 | Episode 12 |
@@ -152,7 +152,7 @@ These shows have had episodes air already, but no thread was created because the
 | Monster Strike: Deadverse Reloaded | Strike World: Deadverse Reloaded the Anime | https://anilist.co/anime/196230 | Episode 10 |
 | Nohara Hiroshi: Hiru Meshi no Ryuugi | Style of Hiroshi Nohara's Lunch | https://anilist.co/anime/187860 | Episode 12 |
 | THE LENTICULARS | THE LENTICULARS | https://anilist.co/anime/201151 | Episode 9 |
-| TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 6 |
+| TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 7 |
 | Kekkon Yubiwa Monogatari II | Tales of Wedding Rings Season 2 | https://anilist.co/anime/176298 | Episode 13 |
 | Mikata ga Yowa Sugite Hojo Mahou ni Toushite Ita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu | The Banished Court Magician Aims to Become the Strongest | https://anilist.co/anime/188487 | Episode 12 |
 | Arne no Jikenbo | The Case Book of Arne | https://anilist.co/anime/183984 | Episode 2 |
@@ -176,7 +176,7 @@ These shows have had episodes air already, but no thread was created because the
 | WanDance | WanDance | https://anilist.co/anime/180436 | Episode 12 |
 | Watari-kun no xx ga Houkai Sunzen | Watari-kun's ****** Is about to Collapse | https://anilist.co/anime/169420 | Episode 26 |
 | Kimi to Koete Koi ni Naru | With You, Our Love Will Make It Through | https://anilist.co/anime/186161 | Episode 12 |
-| Kimi to Idol Precure♪ | You and Idol Precure ♪ | https://anilist.co/anime/185073 | Episode 47 |
+| Kimi to Idol Precure♪ | You and Idol Precure ♪ | https://anilist.co/anime/185073 | Episode 48 |
 | mofusand | mofusand | https://anilist.co/anime/204656 | Episode 2 |
 {.dense}
 
