@@ -100,6 +100,7 @@ These shows have had episodes air already, but no thread was created because the
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 348 |
 | Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu | Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu | https://anilist.co/anime/203148 | Episode 2 |
 | Saioshi no Gikei Mederu Tame, Nagaikishimasu! | I'll Live a Long Life to Dote on My Favorite Stepbrother! | https://anilist.co/anime/199446 | Episode 3 |
+| Uruwashi no Yoi no Tsuki | In the Clear Moonlit Dusk | https://anilist.co/anime/192507 | Episode 2 |
 | Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun | Inexpressive Kashiwada and Expressive Oota | https://anilist.co/anime/187940 | Episode 12 |
 | Isekai no Sata wa Shachiku Shidai | Isekai Office Worker: The Other World's Books Depend on the Bean Counter | https://anilist.co/anime/183661 | Episode 2 |
 | Isekai Quartet 3 | Isekai Quartet 3 | https://anilist.co/anime/194447 | Episode 11 |
@@ -189,7 +190,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Chou Kaguya-hime! | Cosmic Princess Kaguya! | https://anilist.co/anime/201903 | January 22 at 09:00 |
 | Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | January 25 at 03:00 |
 | GelPiyo | GelPiyo | https://anilist.co/anime/204698 | January 21 at 01:54 |
-| Uruwashi no Yoi no Tsuki | In the Clear Moonlit Dusk | https://anilist.co/anime/192507 | January 18 at 08:30 |
 | Princess Principal: Crown Handler - Chapter 4: Fabulous Platypus | Princess Principal: Crown Handler - Chapter 4: Fabulous Platypus | https://anilist.co/anime/203127 | January 27 at 16:00 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | January 21 at 03:00 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | January 24 at 03:00 |
