@@ -59,7 +59,6 @@ These shows have had episodes air already, but no thread was created because the
 | Anila to Cocora | Anila to Cocora | https://anilist.co/anime/199794 | Episode 13 |
 | ANI x PARA: Anata no Hero wa Dare desu ka | Animation × Paralympic: Who Is Your Hero? | https://anilist.co/anime/110694 | Episode 20 |
 | Douse, Koishite Shimaunda. Season 2 | Anyway, I'm Falling in Love with You. Season 2 | https://anilist.co/anime/189137 | Episode 2 |
-| Atashin'chi NEXT 2 | Atashin'chi NEXT 2 | https://anilist.co/anime/203146 | Episode 2 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 112 |
 | Black Jack Yanen | Black Jack Yanen | https://anilist.co/anime/205676 | Episode 2 |
 | Ao no Miburo: Serizawa Ansatsu-hen | Blue Miburo Season 2 | https://anilist.co/anime/189258 | Episode 4 |
@@ -183,6 +182,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
+| Atashin'chi NEXT 2 | Atashin'chi NEXT 2 | https://anilist.co/anime/203146 | January 19 at 22:30 |
 | Guangyin Zhi Wai | Beyond Time's Gaze | https://anilist.co/anime/205905 | January 25 at 02:00 |
 | Chou Kaguya-hime! | Cosmic Princess Kaguya! | https://anilist.co/anime/201903 | January 22 at 09:00 |
 | Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | January 25 at 03:00 |
