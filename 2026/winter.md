@@ -69,6 +69,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/25913115)
+2|[Link](https://ani.social/post/26260049)
 {.dense}
 
 ## Ikoku Nikki • Journal with Witch
