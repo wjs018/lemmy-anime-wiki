@@ -148,7 +148,7 @@ These shows have had episodes air already, but no thread was created because the
 | Goumon Baito-kun no Nichijou | The Daily Life of a Part-time Torturer | https://anilist.co/anime/197731 | Episode 3 |
 | Xian Wang de Richang Shenghuo 5 | The Daily Life of the Immortal King Season 5 | https://anilist.co/anime/185857 | Episode 7 |
 | Tensei Akujo no Kuro Rekishi | The Dark History of the Reincarnated Villainess | https://anilist.co/anime/174914 | Episode 12 |
-| Darwin Jihen | The Darwin Incident | https://anilist.co/anime/177679 | Episode 2 |
+| Darwin Jihen | The Darwin Incident | https://anilist.co/anime/177679 | Episode 3 |
 | Mofa Gongzhu De Xiao Fannao | The Fated Magical Princess: Who Made Me a Princess | https://anilist.co/anime/165530 | Episode 16 |
 | Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari | The Invisible Man and His Soon-to-Be Wife | https://anilist.co/anime/185039 | Episode 2 |
 | Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru | The Villainess Is Adored by the Prince of the Neighbor Kingdom | https://anilist.co/anime/195518 | Episode 2 |
