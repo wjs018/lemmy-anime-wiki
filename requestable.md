@@ -163,6 +163,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | https://anilist.co/anime/196229 | Episode 29 |
 | Tougen Anki | Tougen Anki: Legend of the Cursed Blood | https://anilist.co/anime/177474 | Episode 24 |
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 14 |
+| Tunshi Xingkong 4 | Tunshi Xingkong 4 | https://anilist.co/anime/166219 | Episode 122 |
 | Undead Unluck: Winter-hen | Undead Unluck: Winter Arc | https://anilist.co/anime/179930 | Episode 1 |
 | WanDance | WanDance | https://anilist.co/anime/180436 | Episode 12 |
 | Watari-kun no xx ga Houkai Sunzen | Watari-kun's ****** Is about to Collapse | https://anilist.co/anime/169420 | Episode 26 |
@@ -187,5 +188,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Princess Principal: Crown Handler - Chapter 4: Fabulous Platypus | Princess Principal: Crown Handler - Chapter 4: Fabulous Platypus | https://anilist.co/anime/203127 | January 27 at 16:00 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | January 21 at 03:00 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | January 24 at 03:00 |
-| Tunshi Xingkong 4 | Tunshi Xingkong 4 | https://anilist.co/anime/166219 | January 20 at 03:00 |
 {.dense}
