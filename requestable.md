@@ -40,7 +40,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Eris no Seihai | The Holy Grail of Eris | https://anilist.co/anime/183270 | [Link](https://ani.social/post/26063964) |
 | Mayonaka Heart Tune | Tune In to the Midnight Heart | https://anilist.co/anime/187942 | [Link](https://ani.social/post/26309351) |
 | Kirei ni Shitemoraemasu ka. | Wash It All Away | https://anilist.co/anime/194028 | [Link](https://ani.social/post/26256208) |
-| Yoroi Shinden Samurai Troopers | Yoroi-Shinden Samurai Troopers | https://anilist.co/anime/194318 | [Link](https://ani.social/post/25964144) |
 | Seihantai na Kimi to Boku | You and I Are Polar Opposites | https://anilist.co/anime/184951 | [Link](https://ani.social/post/26197318) |
 | [Oshi no Ko] 3rd Season | 【OSHI NO KO】Season 3 | https://anilist.co/anime/182587 | [Link](https://ani.social/post/26008310) |
 {.dense}
@@ -75,14 +74,12 @@ These shows have had episodes air already, but no thread was created because the
 | Chou Futsuu Mahou Shoujo Asumi Toruverse | Chou Futsuu Mahou Shoujo Asumi Toruverse | https://anilist.co/anime/198926 | Episode 13 |
 | DARK MOON: Kuro no Tsuki - Tsuki no Saidan | DARK MOON: THE BLOOD ALTAR | https://anilist.co/anime/181443 | Episode 2 |
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | Episode 15 |
-| Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha. | Dad is a Hero, Mom is a Spirit, I'm a Reincarnator | https://anilist.co/anime/173692 | Episode 12 |
 | Dead Account | Dead Account | https://anilist.co/anime/187901 | Episode 2 |
 | Android wa Keiken Ninzuu ni Hairimasu ka?? | Does it Count if You Lose Your Innocence to an Android? | https://anilist.co/anime/192867 | Episode 2 |
 | Dokodemo Makibao: World Tour | Dokodemo Makibao: World Tour | https://anilist.co/anime/199931 | Episode 14 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 898 |
 | Enen no Shouboutai: San no Shou Part 2 | Fire Force Season 3 Part 2 | https://anilist.co/anime/179062 | Episode 2 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 191 |
-| Gachiakuta | Gachiakuta | https://anilist.co/anime/178025 | Episode 24 |
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | Episode 9 |
 | Girls und Panzer: Motto Love Love Sakusen desu! | Girls und Panzer: Motto Love Love Sakusen desu! | https://anilist.co/anime/188034 | Episode 1 |
 | Golden Kamuy: Saishuushou | Golden Kamuy Final Season | https://anilist.co/anime/166521 | Episode 3 |
@@ -188,4 +185,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Princess Principal: Crown Handler - Chapter 4: Fabulous Platypus | Princess Principal: Crown Handler - Chapter 4: Fabulous Platypus | https://anilist.co/anime/203127 | January 27 at 16:00 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | January 21 at 03:00 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | January 24 at 03:00 |
+| Yoroi Shinden Samurai Troopers | Yoroi-Shinden Samurai Troopers | https://anilist.co/anime/194318 | January 20 at 15:30 |
 {.dense}
