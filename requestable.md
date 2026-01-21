@@ -52,7 +52,7 @@ These shows have had episodes air already, but no thread was created because the
 | :-------- | :---------------- | :----------- | :--------------------------: |
 | #Kanagawa ni Sunderu Elf | #Kanagawa ni Sunderu Elf | https://anilist.co/anime/199005 | Episode 4 |
 | 2200-nen Neko no Kuni Nippon | 2200-nen Neko no Kuni Nippon | https://anilist.co/anime/199009 | Episode 13 |
-| Odayaka Kizoku no Kyuuka no Susume. | A Gentle Noble's Vacation Recommendation | https://anilist.co/anime/182771 | Episode 2 |
+| Odayaka Kizoku no Kyuuka no Susume. | A Gentle Noble's Vacation Recommendation | https://anilist.co/anime/182771 | Episode 3 |
 | Jingai Kyoushitsu no Ningengirai Kyoushi | A Misanthrope Teaches a Class for Demi-Humans | https://anilist.co/anime/198374 | Episode 2 |
 | 29-sai Dokushin Chuuken Boukensha no Nichijou | An Adventurer’s Daily Grind at Age 29 | https://anilist.co/anime/192261 | Episode 3 |
 | Anila to Cocora | Anila to Cocora | https://anilist.co/anime/199794 | Episode 13 |
@@ -88,7 +88,7 @@ These shows have had episodes air already, but no thread was created because the
 | Hanazakari no Kimitachi e | Hana-Kimi | https://anilist.co/anime/177580 | Episode 4 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 639 |
 | Heika Watashi wo Wasurete Kudasai | Heika Watashi wo Wasurete Kudasai | https://anilist.co/anime/198312 | Episode 12 |
-| Jigoku Sensei Nube (2025) Part 2 | Hell Teacher: Jigoku Sensei Nube (2025) Part 2 | https://anilist.co/anime/191967 | Episode 2 |
+| Jigoku Sensei Nube (2025) Part 2 | Hell Teacher: Jigoku Sensei Nube (2025) Part 2 | https://anilist.co/anime/191967 | Episode 3 |
 | High School! Kimengumi (2026) | High School! Kimengumi (2026) | https://anilist.co/anime/200556 | Episode 2 |
 | Himitsu Kessha Taka no Tsume XX | Himitsu Kessha Taka no Tsume XX | https://anilist.co/anime/203472 | Episode 3 |
 | Himitsu no AiPri: Ring-hen | Himitsu no AiPri: Ring-hen | https://anilist.co/anime/184470 | Episode 41 |
@@ -98,7 +98,7 @@ These shows have had episodes air already, but no thread was created because the
 | Saioshi no Gikei Mederu Tame, Nagaikishimasu! | I'll Live a Long Life to Dote on My Favorite Stepbrother! | https://anilist.co/anime/199446 | Episode 3 |
 | Isekai no Sata wa Shachiku Shidai | Isekai Office Worker: The Other World's Books Depend on the Bean Counter | https://anilist.co/anime/183661 | Episode 3 |
 | JOCHUM Season 2 | JOCHUM Season 2 | https://anilist.co/anime/198413 | Episode 16 |
-| Yuusha Party wo Oidasareta Kiyou Binbou | Jack-of-All-Trades, Party of None | https://anilist.co/anime/187264 | Episode 3 |
+| Yuusha Party wo Oidasareta Kiyou Binbou | Jack-of-All-Trades, Party of None | https://anilist.co/anime/187264 | Episode 4 |
 | Kagaku×Bouken Survival! 2nd Season | Kagaku×Bouken Survival! 2nd Season | https://anilist.co/anime/186736 | Episode 11 |
 | Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 41 |
 | Kikaijikake no Marie Mini Anime | Kikaijikake no Marie Mini Anime | https://anilist.co/anime/200374 | Episode 13 |
