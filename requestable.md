@@ -16,7 +16,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | :-------- | :---------------- | :----------- | :--------------------: |
 | Hime-sama, "Goumon" no Jikan desu 2nd Season | 'Tis Time for "Torture," Princess Season 2 | https://anilist.co/anime/176370 | [Link](https://ani.social/post/26260049) |
 | BEASTARS FINAL SEASON Part 2 | BEASTARS FINAL SEASON Part 2 | https://anilist.co/anime/187267 |  |
-| Mato Seihei no Slave 2 | Chained Soldier Season 2 | https://anilist.co/anime/176276 | [Link](https://ani.social/post/26060820) |
 | Okiraku Ryoushu no Tanoshii Ryouchi Bouei | Easygoing Territory Defense by the Optimistic Lord | https://anilist.co/anime/191205 | [Link](https://ani.social/post/26356276) |
 | Fate/strange Fake | Fate/strange Fake | https://anilist.co/anime/166617 | [Link](https://ani.social/post/26161270) |
 | Sousou no Frieren 2nd Season | Frieren: Beyond Journey’s End Season 2 | https://anilist.co/anime/182255 | [Link](https://ani.social/post/26107633) |
@@ -115,7 +114,6 @@ These shows have had episodes air already, but no thread was created because the
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 200 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 40 |
 | Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru | Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power | https://anilist.co/anime/185993 | Episode 3 |
-| Nukitashi THE ANIMATION OVAs | Nukitashi THE ANIMATION OVAs | https://anilist.co/anime/194712 | Episode 3 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1156 |
 | Hikuidori | Oedo Fire Slayer -The Legend of Phoenix- | https://anilist.co/anime/187062 | Episode 2 |
 | Omae wa Mada Gunma wo Shiranai: Reiwa-ban | Omae wa Mada Gunma wo Shiranai: Reiwa-ban | https://anilist.co/anime/202419 | Episode 2 |
@@ -136,7 +134,6 @@ These shows have had episodes air already, but no thread was created because the
 | Shirube | Shirube | https://anilist.co/anime/205307 | Episode 1 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 145 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1730 |
-| Monster Strike: Deadverse Reloaded | Strike World: Deadverse Reloaded the Anime | https://anilist.co/anime/196230 | Episode 10 |
 | THE LENTICULARS | THE LENTICULARS | https://anilist.co/anime/201151 | Episode 9 |
 | TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 7 |
 | Kekkon Yubiwa Monogatari II | Tales of Wedding Rings Season 2 | https://anilist.co/anime/176298 | Episode 13 |
@@ -174,6 +171,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Guangyin Zhi Wai | Beyond Time's Gaze | https://anilist.co/anime/205905 | January 25 at 02:00 |
+| Mato Seihei no Slave 2 | Chained Soldier Season 2 | https://anilist.co/anime/176276 | January 22 at 15:00 |
 | Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | January 25 at 03:00 |
 | Kusunoki no Bannin | Kusunoki no Bannin | https://anilist.co/anime/189956 | January 29 at 16:00 |
 | Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo | MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe | https://anilist.co/anime/113971 | January 29 at 15:00 |
