@@ -201,6 +201,13 @@ Episode|Link
 4|[Link](https://ani.social/post/26362809)
 {.dense}
 
+## Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari • The Invisible Man and His Soon-to-Be Wife
+
+Episode|Link
+:-:|:-:
+3|[Link](https://ani.social/post/26414049)
+{.dense}
+
 ## Uruwashi no Yoi no Tsuki • In the Clear Moonlit Dusk
 
 Episode|Link
