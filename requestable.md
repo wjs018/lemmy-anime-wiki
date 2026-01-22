@@ -55,7 +55,7 @@ These shows have had episodes air already, but no thread was created because the
 | 29-sai Dokushin Chuuken Boukensha no Nichijou | An Adventurer’s Daily Grind at Age 29 | https://anilist.co/anime/192261 | Episode 3 |
 | Anila to Cocora | Anila to Cocora | https://anilist.co/anime/199794 | Episode 13 |
 | ANI x PARA: Anata no Hero wa Dare desu ka | Animation × Paralympic: Who Is Your Hero? | https://anilist.co/anime/110694 | Episode 20 |
-| Douse, Koishite Shimaunda. Season 2 | Anyway, I'm Falling in Love with You. Season 2 | https://anilist.co/anime/189137 | Episode 2 |
+| Douse, Koishite Shimaunda. Season 2 | Anyway, I'm Falling in Love with You. Season 2 | https://anilist.co/anime/189137 | Episode 3 |
 | Atashin'chi NEXT 2 | Atashin'chi NEXT 2 | https://anilist.co/anime/203146 | Episode 3 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 112 |
 | Black Jack Yanen | Black Jack Yanen | https://anilist.co/anime/205676 | Episode 3 |
