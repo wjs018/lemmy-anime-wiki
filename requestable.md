@@ -71,6 +71,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 310 |
 | Chitose-kun wa Ramune Bin no Naka | Chitose Is in the Ramune Bottle | https://anilist.co/anime/180082 | Episode 10 |
 | Chou Futsuu Mahou Shoujo Asumi Toruverse | Chou Futsuu Mahou Shoujo Asumi Toruverse | https://anilist.co/anime/198926 | Episode 13 |
+| Chou Kaguya-hime! | Cosmic Princess Kaguya! | https://anilist.co/anime/201903 | Episode 1 |
 | DARK MOON: Kuro no Tsuki - Tsuki no Saidan | DARK MOON: THE BLOOD ALTAR | https://anilist.co/anime/181443 | Episode 2 |
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | Episode 15 |
 | Dead Account | Dead Account | https://anilist.co/anime/187901 | Episode 2 |
@@ -174,7 +175,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Guangyin Zhi Wai | Beyond Time's Gaze | https://anilist.co/anime/205905 | January 25 at 02:00 |
-| Chou Kaguya-hime! | Cosmic Princess Kaguya! | https://anilist.co/anime/201903 | January 22 at 09:00 |
 | Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | January 25 at 03:00 |
 | Kusunoki no Bannin | Kusunoki no Bannin | https://anilist.co/anime/189956 | January 29 at 16:00 |
 | Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo | MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe | https://anilist.co/anime/113971 | January 29 at 15:00 |
