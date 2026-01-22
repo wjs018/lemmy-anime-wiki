@@ -36,6 +36,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | TRIGUN STARGAZE | TRIGUN STARGAZE | https://anilist.co/anime/163144 | [Link](https://ani.social/post/26160186) |
 | Tamon-kun Ima Docchi!? | Tamon's B-Side | https://anilist.co/anime/178005 | [Link](https://ani.social/post/26362809) |
 | Maou no Musume wa Yasashi Sugiru!! | The Demon King's Daughter is Too Kind!! | https://anilist.co/anime/194742 | [Link](https://ani.social/post/26309844) |
+| Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari | The Invisible Man and His Soon-to-Be Wife | https://anilist.co/anime/185039 | [Link](https://ani.social/post/26414049) |
 | Mayonaka Heart Tune | Tune In to the Midnight Heart | https://anilist.co/anime/187942 | [Link](https://ani.social/post/26309351) |
 | Kirei ni Shitemoraemasu ka. | Wash It All Away | https://anilist.co/anime/194028 | [Link](https://ani.social/post/26256208) |
 | Seihantai na Kimi to Boku | You and I Are Polar Opposites | https://anilist.co/anime/184951 | [Link](https://ani.social/post/26197318) |
@@ -144,7 +145,6 @@ These shows have had episodes air already, but no thread was created because the
 | Darwin Jihen | The Darwin Incident | https://anilist.co/anime/177679 | Episode 3 |
 | Mofa Gongzhu De Xiao Fannao | The Fated Magical Princess: Who Made Me a Princess | https://anilist.co/anime/165530 | Episode 16 |
 | Eris no Seihai | The Holy Grail of Eris | https://anilist.co/anime/183270 | Episode 3 |
-| Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari | The Invisible Man and His Soon-to-Be Wife | https://anilist.co/anime/185039 | Episode 3 |
 | Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru | The Villainess Is Adored by the Prince of the Neighbor Kingdom | https://anilist.co/anime/195518 | Episode 2 |
 | Yami Shibai 16 | Theatre of Darkness: Yamishibai 16 | https://anilist.co/anime/203939 | Episode 2 |
 | Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita. | There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her | https://anilist.co/anime/195515 | Episode 3 |
