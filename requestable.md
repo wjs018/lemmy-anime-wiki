@@ -130,7 +130,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yuusha no Kuzu | Scum of the Brave | https://anilist.co/anime/187989 | Episode 2 |
 | Shabake | Shabake | https://anilist.co/anime/184997 | Episode 13 |
 | Shen Kong Bian | Shen Kong Bian | https://anilist.co/anime/199436 | Episode 1 |
-| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1319 |
+| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1320 |
 | Shirube | Shirube | https://anilist.co/anime/205307 | Episode 1 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 145 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1730 |
