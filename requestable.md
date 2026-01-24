@@ -134,6 +134,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shirube | Shirube | https://anilist.co/anime/205307 | Episode 1 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 145 |
 | Sore Ike! Anpanman | Sore Ike! Anpanman | https://anilist.co/anime/1960 | Episode 1730 |
+| Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 137 |
 | THE LENTICULARS | THE LENTICULARS | https://anilist.co/anime/201151 | Episode 9 |
 | TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 7 |
 | Kekkon Yubiwa Monogatari II | Tales of Wedding Rings Season 2 | https://anilist.co/anime/176298 | Episode 13 |
@@ -174,6 +175,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo | MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe | https://anilist.co/anime/113971 | January 29 at 15:00 |
 | Meitantei Precure! | Meitantei Precure! | https://anilist.co/anime/202957 | January 31 at 23:30 |
 | Princess Principal: Crown Handler - Chapter 4: Fabulous Platypus | Princess Principal: Crown Handler - Chapter 4: Fabulous Platypus | https://anilist.co/anime/203127 | January 27 at 16:00 |
-| Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | January 24 at 03:00 |
 | Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | January 25 at 03:00 |
 {.dense}
