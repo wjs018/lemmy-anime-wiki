@@ -155,6 +155,13 @@ Episode|Link
 3|[Link](https://ani.social/post/26309351)
 {.dense}
 
+## Medalist 2nd Season • Medalist Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/26516736)
+{.dense}
+
 ## Okiraku Ryoushu no Tanoshii Ryouchi Bouei • Easygoing Territory Defense by the Optimistic Lord
 
 Episode|Link
