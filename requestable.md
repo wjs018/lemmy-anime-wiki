@@ -33,7 +33,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | "Omae Gotoki ga Maou ni Kateru to Omou na" to Yuusha Party wo Tsuihou Sareta node, Outo de Kimama ni Kurashitai | ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword! | https://anilist.co/anime/191718 | [Link](https://ani.social/post/26414621) |
 | JoJo no Kimyou na Bouken: Steel Ball Run | STEEL BALL RUN JoJo's Bizarre Adventure | https://anilist.co/anime/190327 |  |
 | Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku | Sentenced to Be a Hero | https://anilist.co/anime/167152 | [Link](https://ani.social/post/26408832) |
-| TRIGUN STARGAZE | TRIGUN STARGAZE | https://anilist.co/anime/163144 | [Link](https://ani.social/post/26160186) |
+| TRIGUN STARGAZE | TRIGUN STARGAZE | https://anilist.co/anime/163144 | [Link](https://ani.social/post/26511924) |
 | Tamon-kun Ima Docchi!? | Tamon's B-Side | https://anilist.co/anime/178005 | [Link](https://ani.social/post/26362809) |
 | Maou no Musume wa Yasashi Sugiru!! | The Demon King's Daughter is Too Kind!! | https://anilist.co/anime/194742 | [Link](https://ani.social/post/26309844) |
 | Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari | The Invisible Man and His Soon-to-Be Wife | https://anilist.co/anime/185039 | [Link](https://ani.social/post/26414049) |
@@ -81,7 +81,6 @@ These shows have had episodes air already, but no thread was created because the
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 191 |
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | Episode 9 |
 | GelPiyo | GelPiyo | https://anilist.co/anime/204698 | Episode 1 |
-| Girls und Panzer: Motto Love Love Sakusen desu! | Girls und Panzer: Motto Love Love Sakusen desu! | https://anilist.co/anime/188034 | Episode 1 |
 | Golden Kamuy: Saishuushou | Golden Kamuy Final Season | https://anilist.co/anime/166521 | Episode 3 |
 | Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru | HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing | https://anilist.co/anime/185262 | Episode 3 |
 | Hanazakari no Kimitachi e | Hana-Kimi | https://anilist.co/anime/177580 | Episode 4 |
@@ -168,6 +167,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Guangyin Zhi Wai | Beyond Time's Gaze | https://anilist.co/anime/205905 | January 25 at 02:00 |
 | Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | January 25 at 03:00 |
+| Girls und Panzer: Motto Love Love Sakusen desu! | Girls und Panzer: Motto Love Love Sakusen desu! | https://anilist.co/anime/188034 | January 29 at 15:00 |
 | Kusunoki no Bannin | Kusunoki no Bannin | https://anilist.co/anime/189956 | January 29 at 16:00 |
 | Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo | MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe | https://anilist.co/anime/113971 | January 29 at 15:00 |
 | Meitantei Precure! | Meitantei Precure! | https://anilist.co/anime/202957 | January 31 at 23:30 |
