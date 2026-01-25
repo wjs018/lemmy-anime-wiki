@@ -39,7 +39,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari | The Invisible Man and His Soon-to-Be Wife | https://anilist.co/anime/185039 | [Link](https://ani.social/post/26414049) |
 | Mayonaka Heart Tune | Tune In to the Midnight Heart | https://anilist.co/anime/187942 | [Link](https://ani.social/post/26309351) |
 | Kirei ni Shitemoraemasu ka. | Wash It All Away | https://anilist.co/anime/194028 | [Link](https://ani.social/post/26256208) |
-| Seihantai na Kimi to Boku | You and I Are Polar Opposites | https://anilist.co/anime/184951 | [Link](https://ani.social/post/26197318) |
+| Seihantai na Kimi to Boku | You and I Are Polar Opposites | https://anilist.co/anime/184951 | [Link](https://ani.social/post/26549446) |
 | [Oshi no Ko] 3rd Season | 【OSHI NO KO】Season 3 | https://anilist.co/anime/182587 | [Link](https://ani.social/post/26359933) |
 {.dense}
 
@@ -60,7 +60,7 @@ These shows have had episodes air already, but no thread was created because the
 | Guangyin Zhi Wai | Beyond Time's Gaze | https://anilist.co/anime/205905 | Episode 5 |
 | Black Jack Yanen | Black Jack Yanen | https://anilist.co/anime/205676 | Episode 3 |
 | Ao no Miburo: Serizawa Ansatsu-hen | Blue Miburo Season 2 | https://anilist.co/anime/189258 | Episode 5 |
-| Ao no Orchestra Season 2 | Blue Orchestra Season 2 | https://anilist.co/anime/170018 | Episode 15 |
+| Ao no Orchestra Season 2 | Blue Orchestra Season 2 | https://anilist.co/anime/170018 | Episode 16 |
 | Cardfight!! Vanguard: Divinez Genma Seisen-hen | Cardfight!! Vanguard: Divinez Genma Seisen-hen | https://anilist.co/anime/203296 | Episode 3 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1190 |
 | Ugoku! Neko Mukashi Banashi | Cat Tales | https://anilist.co/anime/188529 | Episode 15 |
