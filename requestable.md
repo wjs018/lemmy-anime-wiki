@@ -146,7 +146,6 @@ These shows have had episodes air already, but no thread was created because the
 | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | https://anilist.co/anime/196229 | Episode 30 |
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 14 |
 | Tunshi Xingkong 4 | Tunshi Xingkong 4 | https://anilist.co/anime/166219 | Episode 122 |
-| Watari-kun no xx ga Houkai Sunzen | Watari-kun's ****** Is about to Collapse | https://anilist.co/anime/169420 | Episode 26 |
 | Kimi to Koete Koi ni Naru | With You, Our Love Will Make It Through | https://anilist.co/anime/186161 | Episode 12 |
 | Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 349 |
 | Yoroi Shinden Samurai Troopers | Yoroi-Shinden Samurai Troopers | https://anilist.co/anime/194318 | Episode 3 |
