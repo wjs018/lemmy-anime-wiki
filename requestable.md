@@ -84,7 +84,7 @@ These shows have had episodes air already, but no thread was created because the
 | GelPiyo | GelPiyo | https://anilist.co/anime/204698 | Episode 1 |
 | Golden Kamuy: Saishuushou | Golden Kamuy Final Season | https://anilist.co/anime/166521 | Episode 3 |
 | Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru | HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing | https://anilist.co/anime/185262 | Episode 3 |
-| Hanazakari no Kimitachi e | Hana-Kimi | https://anilist.co/anime/177580 | Episode 4 |
+| Hanazakari no Kimitachi e | Hana-Kimi | https://anilist.co/anime/177580 | Episode 5 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 640 |
 | Jigoku Sensei Nube (2025) Part 2 | Hell Teacher: Jigoku Sensei Nube (2025) Part 2 | https://anilist.co/anime/191967 | Episode 3 |
 | High School! Kimengumi (2026) | High School! Kimengumi (2026) | https://anilist.co/anime/200556 | Episode 3 |
