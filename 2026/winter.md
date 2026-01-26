@@ -119,6 +119,7 @@ Episode|Link
 1|[Link](https://ani.social/post/25867982)
 2|[Link](https://ani.social/post/25912022)
 3|[Link](https://ani.social/post/26256208)
+4|[Link](https://ani.social/post/26611433)
 {.dense}
 
 ## MF Ghost 3rd Season • MF GHOST Season 3
