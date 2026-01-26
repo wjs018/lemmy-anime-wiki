@@ -87,7 +87,7 @@ These shows have had episodes air already, but no thread was created because the
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 640 |
 | Jigoku Sensei Nube (2025) Part 2 | Hell Teacher: Jigoku Sensei Nube (2025) Part 2 | https://anilist.co/anime/191967 | Episode 3 |
 | High School! Kimengumi (2026) | High School! Kimengumi (2026) | https://anilist.co/anime/200556 | Episode 3 |
-| Himitsu Kessha Taka no Tsume XX | Himitsu Kessha Taka no Tsume XX | https://anilist.co/anime/203472 | Episode 3 |
+| Himitsu Kessha Taka no Tsume XX | Himitsu Kessha Taka no Tsume XX | https://anilist.co/anime/203472 | Episode 4 |
 | Himitsu no AiPri: Ring-hen | Himitsu no AiPri: Ring-hen | https://anilist.co/anime/184470 | Episode 42 |
 | Hokuto no Ken: Kenou-gun Zako-tachi no Banka | Hokuto no Ken: Kenou-gun Zako-tachi no Banka | https://anilist.co/anime/198720 | Episode 4 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 350 |
