@@ -118,7 +118,7 @@ These shows have had episodes air already, but no thread was created because the
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 124 |
 | Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | Episode 39 |
 | Tensei Shitara Dragon no Tamago Datta | Reincarnated as a Dragon Hatchling | https://anilist.co/anime/187941 | Episode 3 |
-| Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 124 |
+| Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 125 |
 | Shibou Yuugi de Meshi wo Kuu. | SHIBOYUGI: Playing Death Games to Put Food on the Table | https://anilist.co/anime/180746 | Episode 3 |
 | SI-VIS: The Sound of Heroes | SI-VIS: The Sound of Heroes | https://anilist.co/anime/196553 | Episode 16 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 42 |
