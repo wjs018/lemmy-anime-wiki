@@ -90,7 +90,7 @@ These shows have had episodes air already, but no thread was created because the
 | High School! Kimengumi (2026) | High School! Kimengumi (2026) | https://anilist.co/anime/200556 | Episode 3 |
 | Himitsu Kessha Taka no Tsume XX | Himitsu Kessha Taka no Tsume XX | https://anilist.co/anime/203472 | Episode 3 |
 | Himitsu no AiPri: Ring-hen | Himitsu no AiPri: Ring-hen | https://anilist.co/anime/184470 | Episode 42 |
-| Hokuto no Ken: Kenou-gun Zako-tachi no Banka | Hokuto no Ken: Kenou-gun Zako-tachi no Banka | https://anilist.co/anime/198720 | Episode 3 |
+| Hokuto no Ken: Kenou-gun Zako-tachi no Banka | Hokuto no Ken: Kenou-gun Zako-tachi no Banka | https://anilist.co/anime/198720 | Episode 4 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 350 |
 | Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu | Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu | https://anilist.co/anime/203148 | Episode 3 |
 | Saioshi no Gikei Mederu Tame, Nagaikishimasu! | I'll Live a Long Life to Dote on My Favorite Stepbrother! | https://anilist.co/anime/199446 | Episode 4 |
