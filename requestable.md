@@ -164,4 +164,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo | MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe | https://anilist.co/anime/113971 | January 29 at 15:00 |
 | Meitantei Precure! | Meitantei Precure! | https://anilist.co/anime/202957 | January 31 at 23:30 |
 | Princess Principal: Crown Handler - Chapter 4: Fabulous Platypus | Princess Principal: Crown Handler - Chapter 4: Fabulous Platypus | https://anilist.co/anime/203127 | January 27 at 16:00 |
+| Wei Miao Rensheng | Reborn as a Cat | https://anilist.co/anime/203710 | January 29 at 12:00 |
 {.dense}
