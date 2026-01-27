@@ -66,7 +66,7 @@ These shows have had episodes air already, but no thread was created because the
 | Cat's♥Eye (2025) | Cat's Eye (2025) | https://anilist.co/anime/184718 | Episode 11 |
 | Mato Seihei no Slave 2 | Chained Soldier Season 2 | https://anilist.co/anime/176276 | Episode 3 |
 | Champignon no Majo | Champignon Witch | https://anilist.co/anime/185514 | Episode 4 |
-| Chibi Godzilla no Gyakushuu 3 | Chibi Godzilla Raids Again Season 3 | https://anilist.co/anime/193883 | Episode 30 |
+| Chibi Godzilla no Gyakushuu 3 | Chibi Godzilla Raids Again Season 3 | https://anilist.co/anime/193883 | Episode 31 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 312 |
 | Chitose-kun wa Ramune Bin no Naka | Chitose Is in the Ramune Bottle | https://anilist.co/anime/180082 | Episode 10 |
 | Chou Kaguya-hime! | Cosmic Princess Kaguya! | https://anilist.co/anime/201903 | Episode 1 |
