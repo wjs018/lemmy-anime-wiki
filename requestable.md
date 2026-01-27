@@ -114,6 +114,7 @@ These shows have had episodes air already, but no thread was created because the
 | Omae wa Mada Gunma wo Shiranai: Reiwa-ban | Omae wa Mada Gunma wo Shiranai: Reiwa-ban | https://anilist.co/anime/202419 | Episode 3 |
 | PetitCure: Precure Fairies Season 2 | PetitCure: Precure Fairies Season 2 | https://anilist.co/anime/199635 | Episode 15 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 124 |
+| Princess Principal: Crown Handler - Chapter 4: Fabulous Platypus | Princess Principal: Crown Handler - Chapter 4: Fabulous Platypus | https://anilist.co/anime/203127 | Episode 1 |
 | Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | Episode 39 |
 | Tensei Shitara Dragon no Tamago Datta | Reincarnated as a Dragon Hatchling | https://anilist.co/anime/187941 | Episode 3 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 125 |
@@ -131,7 +132,7 @@ These shows have had episodes air already, but no thread was created because the
 | Arne no Jikenbo | The Case Book of Arne | https://anilist.co/anime/183984 | Episode 3 |
 | Goumon Baito-kun no Nichijou | The Daily Life of a Part-time Torturer | https://anilist.co/anime/197731 | Episode 4 |
 | Xian Wang de Richang Shenghuo 5 | The Daily Life of the Immortal King Season 5 | https://anilist.co/anime/185857 | Episode 8 |
-| Darwin Jihen | The Darwin Incident | https://anilist.co/anime/177679 | Episode 3 |
+| Darwin Jihen | The Darwin Incident | https://anilist.co/anime/177679 | Episode 4 |
 | Mofa Gongzhu De Xiao Fannao | The Fated Magical Princess: Who Made Me a Princess | https://anilist.co/anime/165530 | Episode 16 |
 | Eris no Seihai | The Holy Grail of Eris | https://anilist.co/anime/183270 | Episode 3 |
 | Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru | The Villainess Is Adored by the Prince of the Neighbor Kingdom | https://anilist.co/anime/195518 | Episode 3 |
@@ -162,6 +163,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Kusunoki no Bannin | Kusunoki no Bannin | https://anilist.co/anime/189956 | January 29 at 16:00 |
 | Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo | MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe | https://anilist.co/anime/113971 | January 29 at 15:00 |
 | Meitantei Precure! | Meitantei Precure! | https://anilist.co/anime/202957 | January 31 at 23:30 |
-| Princess Principal: Crown Handler - Chapter 4: Fabulous Platypus | Princess Principal: Crown Handler - Chapter 4: Fabulous Platypus | https://anilist.co/anime/203127 | January 27 at 16:00 |
 | Wei Miao Rensheng | Reborn as a Cat | https://anilist.co/anime/203710 | January 29 at 12:00 |
 {.dense}
