@@ -147,7 +147,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yoroi Shinden Samurai Troopers | Yoroi-Shinden Samurai Troopers | https://anilist.co/anime/194318 | Episode 4 |
 | Osananajimi to wa Love Comedy ni Naranai | You Can't Be In a Rom-Com with Your Childhood Friends! | https://anilist.co/anime/189565 | Episode 4 |
 | Kimi to Idol Precure♪ | You and Idol Precure ♪ | https://anilist.co/anime/185073 | Episode 49 |
-| mofusand | mofusand | https://anilist.co/anime/204656 | Episode 3 |
+| mofusand | mofusand | https://anilist.co/anime/204656 | Episode 4 |
 {.dense}
 
 ## Upcoming Shows
