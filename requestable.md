@@ -98,7 +98,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yuusha Party wo Oidasareta Kiyou Binbou | Jack-of-All-Trades, Party of None | https://anilist.co/anime/187264 | Episode 5 |
 | Kagaku×Bouken Survival! 2nd Season | Kagaku×Bouken Survival! 2nd Season | https://anilist.co/anime/186736 | Episode 12 |
 | Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 42 |
-| Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 17 |
+| Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 18 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 43 |
 | Majutsushi Kunon wa Mieteiru | Kunon the Sorcerer Can See | https://anilist.co/anime/186333 | Episode 5 |
 | Meikyuu no Shiori | LABYRINTH | https://anilist.co/anime/195384 | Episode 1 |
@@ -116,6 +116,7 @@ These shows have had episodes air already, but no thread was created because the
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 124 |
 | Princess Principal: Crown Handler - Chapter 4: Fabulous Platypus | Princess Principal: Crown Handler - Chapter 4: Fabulous Platypus | https://anilist.co/anime/203127 | Episode 1 |
 | Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | Episode 39 |
+| Wei Miao Rensheng | Reborn as a Cat | https://anilist.co/anime/203710 | Episode 14 |
 | Tensei Shitara Dragon no Tamago Datta | Reincarnated as a Dragon Hatchling | https://anilist.co/anime/187941 | Episode 3 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 125 |
 | SI-VIS: The Sound of Heroes | SI-VIS: The Sound of Heroes | https://anilist.co/anime/196553 | Episode 16 |
@@ -161,5 +162,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Kusunoki no Bannin | Kusunoki no Bannin | https://anilist.co/anime/189956 | January 29 at 16:00 |
 | Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo | MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe | https://anilist.co/anime/113971 | January 29 at 15:00 |
 | Meitantei Precure! | Meitantei Precure! | https://anilist.co/anime/202957 | January 31 at 23:30 |
-| Wei Miao Rensheng | Reborn as a Cat | https://anilist.co/anime/203710 | January 29 at 12:00 |
 {.dense}
