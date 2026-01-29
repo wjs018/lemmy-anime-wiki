@@ -102,6 +102,7 @@ These shows have had episodes air already, but no thread was created because the
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 18 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 43 |
 | Majutsushi Kunon wa Mieteiru | Kunon the Sorcerer Can See | https://anilist.co/anime/186333 | Episode 5 |
+| Kusunoki no Bannin | Kusunoki no Bannin | https://anilist.co/anime/189956 | Episode 1 |
 | Meikyuu no Shiori | LABYRINTH | https://anilist.co/anime/195384 | Episode 1 |
 | Prism Rondo | Love Through A Prism | https://anilist.co/anime/202955 | Episode 1 |
 | Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo | MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe | https://anilist.co/anime/113971 | Episode 1 |
@@ -135,7 +136,7 @@ These shows have had episodes air already, but no thread was created because the
 | Goumon Baito-kun no Nichijou | The Daily Life of a Part-time Torturer | https://anilist.co/anime/197731 | Episode 4 |
 | Xian Wang de Richang Shenghuo 5 | The Daily Life of the Immortal King Season 5 | https://anilist.co/anime/185857 | Episode 8 |
 | Darwin Jihen | The Darwin Incident | https://anilist.co/anime/177679 | Episode 4 |
-| Eris no Seihai | The Holy Grail of Eris | https://anilist.co/anime/183270 | Episode 3 |
+| Eris no Seihai | The Holy Grail of Eris | https://anilist.co/anime/183270 | Episode 4 |
 | Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru | The Villainess Is Adored by the Prince of the Neighbor Kingdom | https://anilist.co/anime/195518 | Episode 3 |
 | Yami Shibai 16 | Theatre of Darkness: Yamishibai 16 | https://anilist.co/anime/203939 | Episode 3 |
 | Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita. | There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her | https://anilist.co/anime/195515 | Episode 4 |
@@ -159,6 +160,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Duel Masters LOST: Boukyaku no Taiyou | Duel Masters LOST: Boukyaku no Taiyou | https://anilist.co/anime/187508 | February 06 at 11:00 |
 | Ginga Tokkyuu Milky☆Subway: Kakueki Teisha Gekijou Iki | Ginga Tokkyuu Milky☆Subway: Kakueki Teisha Gekijou Iki | https://anilist.co/anime/204949 | February 05 at 15:00 |
-| Kusunoki no Bannin | Kusunoki no Bannin | https://anilist.co/anime/189956 | January 29 at 16:00 |
 | Meitantei Precure! | Meitantei Precure! | https://anilist.co/anime/202957 | January 31 at 23:30 |
 {.dense}
