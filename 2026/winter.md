@@ -196,6 +196,13 @@ Episode|Link
 3|[Link](https://ani.social/post/26549446)
 {.dense}
 
+## Shibou Yuugi de Meshi wo Kuu. • SHIBOYUGI: Playing Death Games to Put Food on the Table
+
+Episode|Link
+:-:|:-:
+4|[Link](https://ani.social/post/26750812)
+{.dense}
+
 ## Sousou no Frieren 2nd Season • Frieren: Beyond Journey’s End Season 2
 
 Episode|Link
