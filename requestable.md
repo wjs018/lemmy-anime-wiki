@@ -74,7 +74,7 @@ These shows have had episodes air already, but no thread was created because the
 | Dead Account | Dead Account | https://anilist.co/anime/187901 | Episode 3 |
 | Android wa Keiken Ninzuu ni Hairimasu ka?? | Does it Count if You Lose Your Innocence to an Android? | https://anilist.co/anime/192867 | Episode 4 |
 | Dokodemo Makibao: World Tour | Dokodemo Makibao: World Tour | https://anilist.co/anime/199931 | Episode 16 |
-| Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 899 |
+| Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 900 |
 | Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | Episode 26 |
 | Enen no Shouboutai: San no Shou Part 2 | Fire Force Season 3 Part 2 | https://anilist.co/anime/179062 | Episode 4 |
 | Fushigi Dagashiya: Zenitendou | Fushigi Dagashiya: Zenitendou | https://anilist.co/anime/120325 | Episode 191 |
