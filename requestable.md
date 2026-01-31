@@ -128,7 +128,7 @@ These shows have had episodes air already, but no thread was created because the
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1320 |
 | Shirube | Shirube | https://anilist.co/anime/205307 | Episode 1 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 146 |
-| Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 137 |
+| Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 138 |
 | TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 7 |
 | Arne no Jikenbo | The Case Book of Arne | https://anilist.co/anime/183984 | Episode 4 |
 | Goumon Baito-kun no Nichijou | The Daily Life of a Part-time Torturer | https://anilist.co/anime/197731 | Episode 4 |
