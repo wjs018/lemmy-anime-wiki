@@ -126,7 +126,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2816 |
 | Yuusha no Kuzu | Scum of the Brave | https://anilist.co/anime/187989 | Episode 3 |
 | Shen Kong Bian | Shen Kong Bian | https://anilist.co/anime/199436 | Episode 1 |
-| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1320 |
+| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1321 |
 | Shirube | Shirube | https://anilist.co/anime/205307 | Episode 1 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 146 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 138 |
