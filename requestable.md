@@ -111,7 +111,7 @@ These shows have had episodes air already, but no thread was created because the
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 42 |
 | Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru | Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power | https://anilist.co/anime/185993 | Episode 4 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1156 |
-| Hikuidori | Oedo Fire Slayer -The Legend of Phoenix- | https://anilist.co/anime/187062 | Episode 3 |
+| Hikuidori | Oedo Fire Slayer -The Legend of Phoenix- | https://anilist.co/anime/187062 | Episode 4 |
 | Omae wa Mada Gunma wo Shiranai: Reiwa-ban | Omae wa Mada Gunma wo Shiranai: Reiwa-ban | https://anilist.co/anime/202419 | Episode 4 |
 | PetitCure: Precure Fairies Season 2 | PetitCure: Precure Fairies Season 2 | https://anilist.co/anime/199635 | Episode 16 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 125 |
