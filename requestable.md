@@ -123,7 +123,7 @@ These shows have had episodes air already, but no thread was created because the
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 125 |
 | SI-VIS: The Sound of Heroes | SI-VIS: The Sound of Heroes | https://anilist.co/anime/196553 | Episode 17 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 43 |
-| Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2816 |
+| Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2817 |
 | Yuusha no Kuzu | Scum of the Brave | https://anilist.co/anime/187989 | Episode 4 |
 | Shen Kong Bian | Shen Kong Bian | https://anilist.co/anime/199436 | Episode 1 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1321 |
