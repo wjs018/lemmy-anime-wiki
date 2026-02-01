@@ -99,7 +99,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kagaku×Bouken Survival! 2nd Season | Kagaku×Bouken Survival! 2nd Season | https://anilist.co/anime/186736 | Episode 13 |
 | Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 43 |
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 18 |
-| Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 43 |
+| Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 44 |
 | Majutsushi Kunon wa Mieteiru | Kunon the Sorcerer Can See | https://anilist.co/anime/186333 | Episode 5 |
 | Kusunoki no Bannin | Kusunoki no Bannin | https://anilist.co/anime/189956 | Episode 1 |
 | Prism Rondo | Love Through A Prism | https://anilist.co/anime/202955 | Episode 1 |
