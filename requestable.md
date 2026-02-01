@@ -105,7 +105,6 @@ These shows have had episodes air already, but no thread was created because the
 | Prism Rondo | Love Through A Prism | https://anilist.co/anime/202955 | Episode 1 |
 | Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo | MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe | https://anilist.co/anime/113971 | Episode 1 |
 | MUZIK TIGER In the Forest 2 | MUZIK TIGER In the Forest 2 | https://anilist.co/anime/195383 | Episode 17 |
-| Meitantei Precure! | Meitantei Precure! | https://anilist.co/anime/202957 | Episode 1 |
 | Mu Shen Ji 3 | Mu Shen Ji 3 | https://anilist.co/anime/203953 | Episode 16 |
 | Vigilante: Boku no Hero Academia ILLEGALS 2nd Season | My Hero Academia: Vigilantes Season 2 | https://anilist.co/anime/195322 | Episode 4 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 201 |
@@ -131,6 +130,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shirube | Shirube | https://anilist.co/anime/205307 | Episode 1 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 146 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 138 |
+| Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 1 |
 | TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 7 |
 | Arne no Jikenbo | The Case Book of Arne | https://anilist.co/anime/183984 | Episode 4 |
 | Goumon Baito-kun no Nichijou | The Daily Life of a Part-time Torturer | https://anilist.co/anime/197731 | Episode 4 |
