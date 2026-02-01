@@ -84,6 +84,7 @@ Episode|Link
 2|[Link](https://ani.social/post/25867787)
 3|[Link](https://ani.social/post/26213161)
 4|[Link](https://ani.social/post/26565031)
+5|[Link](https://ani.social/post/26932408)
 {.dense}
 
 ## Jigokuraku 2nd Season • Hell’s Paradise Season 2
