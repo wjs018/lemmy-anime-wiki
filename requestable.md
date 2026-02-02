@@ -146,7 +146,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tunshi Xingkong 4 | Tunshi Xingkong 4 | https://anilist.co/anime/166219 | Episode 123 |
 | Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 351 |
 | Yoroi Shinden Samurai Troopers | Yoroi-Shinden Samurai Troopers | https://anilist.co/anime/194318 | Episode 4 |
-| Osananajimi to wa Love Comedy ni Naranai | You Can't Be In a Rom-Com with Your Childhood Friends! | https://anilist.co/anime/189565 | Episode 4 |
+| Osananajimi to wa Love Comedy ni Naranai | You Can't Be In a Rom-Com with Your Childhood Friends! | https://anilist.co/anime/189565 | Episode 5 |
 | Kimi to Idol Precure♪ | You and Idol Precure ♪ | https://anilist.co/anime/185073 | Episode 49 |
 | mofusand | mofusand | https://anilist.co/anime/204656 | Episode 4 |
 {.dense}
