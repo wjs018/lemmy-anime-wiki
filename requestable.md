@@ -81,7 +81,7 @@ These shows have had episodes air already, but no thread was created because the
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | Episode 10 |
 | GelPiyo | GelPiyo | https://anilist.co/anime/204698 | Episode 2 |
 | Girls und Panzer: Motto Love Love Sakusen desu! | Girls und Panzer: Motto Love Love Sakusen desu! | https://anilist.co/anime/188034 | Episode 2 |
-| Golden Kamuy: Saishuushou | Golden Kamuy Final Season | https://anilist.co/anime/166521 | Episode 4 |
+| Golden Kamuy: Saishuushou | Golden Kamuy Final Season | https://anilist.co/anime/166521 | Episode 5 |
 | Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru | HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing | https://anilist.co/anime/185262 | Episode 4 |
 | Hanazakari no Kimitachi e | Hana-Kimi | https://anilist.co/anime/177580 | Episode 6 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 641 |
@@ -159,4 +159,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Duel Masters LOST: Boukyaku no Taiyou | Duel Masters LOST: Boukyaku no Taiyou | https://anilist.co/anime/187508 | February 06 at 11:00 |
 | Ginga Tokkyuu Milky☆Subway: Kakueki Teisha Gekijou Iki | Ginga Tokkyuu Milky☆Subway: Kakueki Teisha Gekijou Iki | https://anilist.co/anime/204949 | February 05 at 15:00 |
+| Shin Gintama Movie: Yoshiwara Daienjou | Shin Gintama Movie: Yoshiwara Daienjou | https://anilist.co/anime/197474 | February 12 at 15:00 |
+| Boku no Kokoro no Yabai Yatsu Movie | The Dangers in My Heart: The Movie | https://anilist.co/anime/182317 | February 12 at 16:00 |
 {.dense}
