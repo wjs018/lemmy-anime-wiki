@@ -37,7 +37,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Maou no Musume wa Yasashi Sugiru!! | The Demon King's Daughter is Too Kind!! | https://anilist.co/anime/194742 | [Link](https://ani.social/post/26665181) |
 | Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari | The Invisible Man and His Soon-to-Be Wife | https://anilist.co/anime/185039 | [Link](https://ani.social/post/26774680) |
 | Mayonaka Heart Tune | Tune In to the Midnight Heart | https://anilist.co/anime/187942 | [Link](https://ani.social/post/26667753) |
-| Kirei ni Shitemoraemasu ka. | Wash It All Away | https://anilist.co/anime/194028 | [Link](https://ani.social/post/26611433) |
+| Kirei ni Shitemoraemasu ka. | Wash It All Away | https://anilist.co/anime/194028 | [Link](https://ani.social/post/26982564) |
 | Seihantai na Kimi to Boku | You and I Are Polar Opposites | https://anilist.co/anime/184951 | [Link](https://ani.social/post/26918729) |
 | [Oshi no Ko] 3rd Season | 【OSHI NO KO】Season 3 | https://anilist.co/anime/182587 | [Link](https://ani.social/post/26720124) |
 {.dense}
@@ -106,7 +106,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo | MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe | https://anilist.co/anime/113971 | Episode 1 |
 | MUZIK TIGER In the Forest 2 | MUZIK TIGER In the Forest 2 | https://anilist.co/anime/195383 | Episode 17 |
 | Mu Shen Ji 3 | Mu Shen Ji 3 | https://anilist.co/anime/203953 | Episode 16 |
-| Vigilante: Boku no Hero Academia ILLEGALS 2nd Season | My Hero Academia: Vigilantes Season 2 | https://anilist.co/anime/195322 | Episode 4 |
+| Vigilante: Boku no Hero Academia ILLEGALS 2nd Season | My Hero Academia: Vigilantes Season 2 | https://anilist.co/anime/195322 | Episode 5 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 201 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 42 |
 | Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru | Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power | https://anilist.co/anime/185993 | Episode 5 |
