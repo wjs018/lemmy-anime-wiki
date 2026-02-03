@@ -142,6 +142,7 @@ These shows have had episodes air already, but no thread was created because the
 | Toujima Tanzaburou wa Kamen Rider ni Naritai | Tojima Wants to Be a Kamen Rider | https://anilist.co/anime/187464 | Episode 17 |
 | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | Tomica Heroes Jobraver: Tokusou Gattai Robo (TV) | https://anilist.co/anime/196229 | Episode 31 |
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 14 |
+| Mayonaka Heart Tune | Tune In to the Midnight Heart | https://anilist.co/anime/187942 | Episode 5 |
 | Tunshi Xingkong 4 | Tunshi Xingkong 4 | https://anilist.co/anime/166219 | Episode 123 |
 | Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 352 |
 | Yoroi Shinden Samurai Troopers | Yoroi-Shinden Samurai Troopers | https://anilist.co/anime/194318 | Episode 4 |
@@ -160,5 +161,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Ginga Tokkyuu Milky☆Subway: Kakueki Teisha Gekijou Iki | Ginga Tokkyuu Milky☆Subway: Kakueki Teisha Gekijou Iki | https://anilist.co/anime/204949 | February 05 at 15:00 |
 | Shin Gintama Movie: Yoshiwara Daienjou | Shin Gintama Movie: Yoshiwara Daienjou | https://anilist.co/anime/197474 | February 12 at 15:00 |
 | Boku no Kokoro no Yabai Yatsu Movie | The Dangers in My Heart: The Movie | https://anilist.co/anime/182317 | February 12 at 16:00 |
-| Mayonaka Heart Tune | Tune In to the Midnight Heart | https://anilist.co/anime/187942 | February 03 at 15:00 |
 {.dense}
