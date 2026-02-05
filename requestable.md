@@ -158,6 +158,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Duel Masters LOST: Boukyaku no Taiyou | Duel Masters LOST: Boukyaku no Taiyou | https://anilist.co/anime/187508 | February 06 at 11:00 |
 | Ginga Tokkyuu Milky☆Subway: Kakueki Teisha Gekijou Iki | Ginga Tokkyuu Milky☆Subway: Kakueki Teisha Gekijou Iki | https://anilist.co/anime/204949 | February 05 at 15:00 |
+| Tensui no Sakuna-hime: Kokorowa Inasaku Nisshi | Sakuna: Of Rice and Ruin Kokorowa Rice Cultivation Diary | https://anilist.co/anime/184280 | February 15 at 07:45 |
 | Shin Gintama Movie: Yoshiwara Daienjou | Shin Gintama Movie: Yoshiwara Daienjou | https://anilist.co/anime/197474 | February 12 at 15:00 |
 | Boku no Kokoro no Yabai Yatsu Movie | The Dangers in My Heart: The Movie | https://anilist.co/anime/182317 | February 12 at 16:00 |
 {.dense}
