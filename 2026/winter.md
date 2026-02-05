@@ -259,6 +259,7 @@ Episode|Link
 :-:|:-:
 3|[Link](https://ani.social/post/26414049)
 4|[Link](https://ani.social/post/26774680)
+5|[Link](https://ani.social/post/27143350)
 {.dense}
 
 ## Uruwashi no Yoi no Tsuki • In the Clear Moonlit Dusk
