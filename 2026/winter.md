@@ -88,6 +88,13 @@ Episode|Link
 5|[Link](https://ani.social/post/26932408)
 {.dense}
 
+## Isekai no Sata wa Shachiku Shidai • Isekai Office Worker: The Other World's Books Depend on the Bean Counter
+
+Episode|Link
+:-:|:-:
+5|[Link](https://ani.social/post/27139290)
+{.dense}
+
 ## Jigokuraku 2nd Season • Hell’s Paradise Season 2
 
 Episode|Link
