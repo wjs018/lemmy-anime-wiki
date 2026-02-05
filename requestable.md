@@ -67,7 +67,7 @@ These shows have had episodes air already, but no thread was created because the
 | Mato Seihei no Slave 2 | Chained Soldier Season 2 | https://anilist.co/anime/176276 | Episode 5 |
 | Champignon no Majo | Champignon Witch | https://anilist.co/anime/185514 | Episode 6 |
 | Chibi Godzilla no Gyakushuu 3 | Chibi Godzilla Raids Again Season 3 | https://anilist.co/anime/193883 | Episode 32 |
-| Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 314 |
+| Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 315 |
 | Chou Kaguya-hime! | Cosmic Princess Kaguya! | https://anilist.co/anime/201903 | Episode 1 |
 | DARK MOON: Kuro no Tsuki - Tsuki no Saidan | DARK MOON: THE BLOOD ALTAR | https://anilist.co/anime/181443 | Episode 4 |
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | Episode 17 |
