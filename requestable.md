@@ -25,7 +25,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Jigokuraku 2nd Season | Hell’s Paradise Season 2 | https://anilist.co/anime/166613 | [Link](https://ani.social/post/26931895) |
 | Uruwashi no Yoi no Tsuki | In the Clear Moonlit Dusk | https://anilist.co/anime/192507 | [Link](https://ani.social/post/26917807) |
 | Isekai no Sata wa Shachiku Shidai | Isekai Office Worker: The Other World's Books Depend on the Bean Counter | https://anilist.co/anime/183661 | [Link](https://ani.social/post/27139290) |
-| Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen | JUJUTSU KAISEN Season 3: The Culling Game Part 1 | https://anilist.co/anime/172463 | [Link](https://ani.social/post/26777651) |
+| Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen | JUJUTSU KAISEN Season 3: The Culling Game Part 1 | https://anilist.co/anime/172463 | [Link](https://ani.social/post/27146204) |
 | Ikoku Nikki | Journal with Witch | https://anilist.co/anime/177385 | [Link](https://ani.social/post/26932408) |
 | Kaya-chan wa Kowakunai | Kaya-chan Isn't Scary | https://anilist.co/anime/183660 | [Link](https://ani.social/post/26919390) |
 | MF Ghost 3rd Season | MF GHOST Season 3 | https://anilist.co/anime/185753 | [Link](https://ani.social/post/27144262) |
