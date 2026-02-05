@@ -28,7 +28,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen | JUJUTSU KAISEN Season 3: The Culling Game Part 1 | https://anilist.co/anime/172463 | [Link](https://ani.social/post/26777651) |
 | Ikoku Nikki | Journal with Witch | https://anilist.co/anime/177385 | [Link](https://ani.social/post/26932408) |
 | Kaya-chan wa Kowakunai | Kaya-chan Isn't Scary | https://anilist.co/anime/183660 | [Link](https://ani.social/post/26919390) |
-| MF Ghost 3rd Season | MF GHOST Season 3 | https://anilist.co/anime/185753 | [Link](https://ani.social/post/26774681) |
+| MF Ghost 3rd Season | MF GHOST Season 3 | https://anilist.co/anime/185753 | [Link](https://ani.social/post/27144262) |
 | Medalist 2nd Season | Medalist Season 2 | https://anilist.co/anime/189275 | [Link](https://ani.social/post/26884945) |
 | Shibou Yuugi de Meshi wo Kuu. | SHIBOYUGI: Playing Death Games to Put Food on the Table | https://anilist.co/anime/180746 | [Link](https://ani.social/post/27093684) |
 | JoJo no Kimyou na Bouken: Steel Ball Run | STEEL BALL RUN JoJo's Bizarre Adventure | https://anilist.co/anime/190327 |  |
