@@ -18,7 +18,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | BEASTARS FINAL SEASON Part 2 | BEASTARS FINAL SEASON Part 2 | https://anilist.co/anime/187267 |  |
 | Okiraku Ryoushu no Tanoshii Ryouchi Bouei | Easygoing Territory Defense by the Optimistic Lord | https://anilist.co/anime/191205 | [Link](https://ani.social/post/27089226) |
 | Fate/strange Fake | Fate/strange Fake | https://anilist.co/anime/166617 | [Link](https://ani.social/post/26879627) |
-| Sousou no Frieren 2nd Season | Frieren: Beyond Journey’s End Season 2 | https://anilist.co/anime/182255 | [Link](https://ani.social/post/26824525) |
+| Sousou no Frieren 2nd Season | Frieren: Beyond Journey’s End Season 2 | https://anilist.co/anime/182255 | [Link](https://ani.social/post/27195341) |
 | GANGLION | GANGLION | https://anilist.co/anime/198117 | [Link](https://ani.social/post/27193338) |
 | Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | [Link](https://ani.social/post/27138806) |
 | Gnosia | Gnosia | https://anilist.co/anime/185116 | [Link](https://ani.social/post/26881080) |
