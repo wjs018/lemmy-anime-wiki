@@ -232,6 +232,7 @@ Episode|Link
 1|[Link](https://ani.social/post/26107633)
 2|[Link](https://ani.social/post/26461139)
 3|[Link](https://ani.social/post/26824525)
+4|[Link](https://ani.social/post/27195341)
 {.dense}
 
 ## TRIGUN STARGAZE
