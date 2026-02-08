@@ -100,7 +100,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kagaku×Bouken Survival! 2nd Season | Kagaku×Bouken Survival! 2nd Season | https://anilist.co/anime/186736 | Episode 14 |
 | Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 44 |
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 19 |
-| Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 44 |
+| Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 45 |
 | Majutsushi Kunon wa Mieteiru | Kunon the Sorcerer Can See | https://anilist.co/anime/186333 | Episode 6 |
 | Kusunoki no Bannin | Kusunoki no Bannin | https://anilist.co/anime/189956 | Episode 1 |
 | Prism Rondo | Love Through A Prism | https://anilist.co/anime/202955 | Episode 1 |
@@ -129,7 +129,7 @@ These shows have had episodes air already, but no thread was created because the
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1322 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 147 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 139 |
-| Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 1 |
+| Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 2 |
 | TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 7 |
 | Arne no Jikenbo | The Case Book of Arne | https://anilist.co/anime/183984 | Episode 5 |
 | Goumon Baito-kun no Nichijou | The Daily Life of a Part-time Torturer | https://anilist.co/anime/197731 | Episode 5 |
