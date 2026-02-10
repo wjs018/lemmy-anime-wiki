@@ -144,7 +144,7 @@ These shows have had episodes air already, but no thread was created because the
 | Transformers: Wild King | Transformers: Wild King | https://anilist.co/anime/188239 | Episode 14 |
 | Mayonaka Heart Tune | Tune In to the Midnight Heart | https://anilist.co/anime/187942 | Episode 5 |
 | Tunshi Xingkong 4 | Tunshi Xingkong 4 | https://anilist.co/anime/166219 | Episode 123 |
-| Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 353 |
+| Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 354 |
 | Yoroi Shinden Samurai Troopers | Yoroi-Shinden Samurai Troopers | https://anilist.co/anime/194318 | Episode 5 |
 | Osananajimi to wa Love Comedy ni Naranai | You Can't Be In a Rom-Com with Your Childhood Friends! | https://anilist.co/anime/189565 | Episode 6 |
 | Kimi to Idol Precure♪ | You and Idol Precure ♪ | https://anilist.co/anime/185073 | Episode 49 |
