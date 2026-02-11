@@ -126,7 +126,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yuusha no Kuzu | Scum of the Brave | https://anilist.co/anime/187989 | Episode 5 |
 | Shen Kong Bian | Shen Kong Bian | https://anilist.co/anime/199436 | Episode 1 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1322 |
-| Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 147 |
+| Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 148 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 139 |
 | Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 2 |
 | TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 7 |
