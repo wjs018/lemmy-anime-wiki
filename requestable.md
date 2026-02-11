@@ -39,7 +39,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari | The Invisible Man and His Soon-to-Be Wife | https://anilist.co/anime/185039 | [Link](https://ani.social/post/27143350) |
 | Kirei ni Shitemoraemasu ka. | Wash It All Away | https://anilist.co/anime/194028 | [Link](https://ani.social/post/27343167) |
 | Seihantai na Kimi to Boku | You and I Are Polar Opposites | https://anilist.co/anime/184951 | [Link](https://ani.social/post/27284766) |
-| [Oshi no Ko] 3rd Season | 【OSHI NO KO】Season 3 | https://anilist.co/anime/182587 | [Link](https://ani.social/post/27092605) |
+| [Oshi no Ko] 3rd Season | 【OSHI NO KO】Season 3 | https://anilist.co/anime/182587 | [Link](https://ani.social/post/27448958) |
 {.dense}
 
 ## Requestable Shows
