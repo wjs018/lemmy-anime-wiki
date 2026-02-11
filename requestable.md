@@ -30,7 +30,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kaya-chan wa Kowakunai | Kaya-chan Isn't Scary | https://anilist.co/anime/183660 | [Link](https://ani.social/post/27285503) |
 | MF Ghost 3rd Season | MF GHOST Season 3 | https://anilist.co/anime/185753 | [Link](https://ani.social/post/27144262) |
 | Medalist 2nd Season | Medalist Season 2 | https://anilist.co/anime/189275 | [Link](https://ani.social/post/27253923) |
-| Shibou Yuugi de Meshi wo Kuu. | SHIBOYUGI: Playing Death Games to Put Food on the Table | https://anilist.co/anime/180746 | [Link](https://ani.social/post/27093684) |
+| Shibou Yuugi de Meshi wo Kuu. | SHIBOYUGI: Playing Death Games to Put Food on the Table | https://anilist.co/anime/180746 | [Link](https://ani.social/post/27450276) |
 | JoJo no Kimyou na Bouken: Steel Ball Run | STEEL BALL RUN JoJo's Bizarre Adventure | https://anilist.co/anime/190327 |  |
 | Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku | Sentenced to Be a Hero | https://anilist.co/anime/167152 | [Link](https://ani.social/post/27140348) |
 | TRIGUN STARGAZE | TRIGUN STARGAZE | https://anilist.co/anime/163144 | [Link](https://ani.social/post/27246770) |
@@ -52,7 +52,6 @@ These shows have had episodes air already, but no thread was created because the
 | Odayaka Kizoku no Kyuuka no Susume. | A Gentle Noble's Vacation Recommendation | https://anilist.co/anime/182771 | Episode 5 |
 | Jingai Kyoushitsu no Ningengirai Kyoushi | A Misanthrope Teaches a Class for Demi-Humans | https://anilist.co/anime/198374 | Episode 5 |
 | 29-sai Dokushin Chuuken Boukensha no Nichijou | An Adventurer’s Daily Grind at Age 29 | https://anilist.co/anime/192261 | Episode 6 |
-| ANI x PARA: Anata no Hero wa Dare desu ka | Animation × Paralympic: Who Is Your Hero? | https://anilist.co/anime/110694 | Episode 20 |
 | Douse, Koishite Shimaunda. Season 2 | Anyway, I'm Falling in Love with You. Season 2 | https://anilist.co/anime/189137 | Episode 5 |
 | Atashin'chi NEXT 2 | Atashin'chi NEXT 2 | https://anilist.co/anime/203146 | Episode 3 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 115 |
