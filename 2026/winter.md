@@ -120,6 +120,7 @@ Episode|Link
 4|[Link](https://ani.social/post/26414616)
 5|[Link](https://ani.social/post/26777651)
 6|[Link](https://ani.social/post/27146204)
+7|[Link](https://ani.social/post/27498519)
 {.dense}
 
 ## Kaya-chan wa Kowakunai • Kaya-chan Isn't Scary
