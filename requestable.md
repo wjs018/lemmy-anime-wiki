@@ -133,8 +133,9 @@ These shows have had episodes air already, but no thread was created because the
 | Arne no Jikenbo | The Case Book of Arne | https://anilist.co/anime/183984 | Episode 6 |
 | Goumon Baito-kun no Nichijou | The Daily Life of a Part-time Torturer | https://anilist.co/anime/197731 | Episode 6 |
 | Xian Wang de Richang Shenghuo 5 | The Daily Life of the Immortal King Season 5 | https://anilist.co/anime/185857 | Episode 10 |
+| Boku no Kokoro no Yabai Yatsu Movie | The Dangers in My Heart: The Movie | https://anilist.co/anime/182317 | Episode 1 |
 | Darwin Jihen | The Darwin Incident | https://anilist.co/anime/177679 | Episode 6 |
-| Eris no Seihai | The Holy Grail of Eris | https://anilist.co/anime/183270 | Episode 5 |
+| Eris no Seihai | The Holy Grail of Eris | https://anilist.co/anime/183270 | Episode 6 |
 | Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru | The Villainess Is Adored by the Prince of the Neighbor Kingdom | https://anilist.co/anime/195518 | Episode 5 |
 | Yami Shibai 16 | Theatre of Darkness: Yamishibai 16 | https://anilist.co/anime/203939 | Episode 5 |
 | Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita. | There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her | https://anilist.co/anime/195515 | Episode 6 |
@@ -159,5 +160,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Tensui no Sakuna-hime: Kokorowa Inasaku Nisshi | Sakuna: Of Rice and Ruin Kokorowa Rice Cultivation Diary | https://anilist.co/anime/184280 | February 15 at 07:45 |
 | Yamato yo Towa ni: REBEL3199 | Star Blazers: Space Battleship Yamato 3199 | https://anilist.co/anime/144779 | February 19 at 16:00 |
-| Boku no Kokoro no Yabai Yatsu Movie | The Dangers in My Heart: The Movie | https://anilist.co/anime/182317 | February 12 at 16:00 |
 {.dense}
