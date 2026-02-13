@@ -68,7 +68,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chibi Godzilla no Gyakushuu 3 | Chibi Godzilla Raids Again Season 3 | https://anilist.co/anime/193883 | Episode 33 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 317 |
 | Chou Kaguya-hime! | Cosmic Princess Kaguya! | https://anilist.co/anime/201903 | Episode 1 |
-| DARK MOON: Kuro no Tsuki - Tsuki no Saidan | DARK MOON: THE BLOOD ALTAR | https://anilist.co/anime/181443 | Episode 5 |
+| DARK MOON: Kuro no Tsuki - Tsuki no Saidan | DARK MOON: THE BLOOD ALTAR | https://anilist.co/anime/181443 | Episode 6 |
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | Episode 18 |
 | Dead Account | Dead Account | https://anilist.co/anime/187901 | Episode 5 |
 | Android wa Keiken Ninzuu ni Hairimasu ka?? | Does it Count if You Lose Your Innocence to an Android? | https://anilist.co/anime/192867 | Episode 5 |
