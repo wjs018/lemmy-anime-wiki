@@ -157,6 +157,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
+| POKÉTOON (2025) | POKÉTOON (2025) | https://anilist.co/anime/201262 | February 13 at 11:47 |
 | Tensui no Sakuna-hime: Kokorowa Inasaku Nisshi | Sakuna: Of Rice and Ruin Kokorowa Rice Cultivation Diary | https://anilist.co/anime/184280 | February 15 at 07:45 |
 | Yamato yo Towa ni: REBEL3199 | Star Blazers: Space Battleship Yamato 3199 | https://anilist.co/anime/144779 | February 19 at 16:00 |
 {.dense}
