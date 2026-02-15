@@ -436,7 +436,7 @@ Episode|Link
 6|[Link](https://ani.social/post/17679019)
 {.dense}
 
-## Tensei Shitara Dai Nana Ouji Dattanode, Kimamani Majutsu wo Kiwamemasu 2nd Season • I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2
+## Tensei Shitara Dai Nana Ouji Datta node, Kimamani Majutsu wo Kiwamemasu 2nd Season • I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2
 
 Episode|Link
 :-:|:-:
