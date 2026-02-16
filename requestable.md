@@ -157,5 +157,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
+| BAKI-DOU | BAKI-DOU: The Invincible Samurai | https://anilist.co/anime/176509 | February 26 at 08:00 |
 | Yamato yo Towa ni: REBEL3199 | Star Blazers: Space Battleship Yamato 3199 | https://anilist.co/anime/144779 | February 19 at 16:00 |
 {.dense}
