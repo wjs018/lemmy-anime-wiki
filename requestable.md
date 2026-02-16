@@ -81,7 +81,7 @@ These shows have had episodes air already, but no thread was created because the
 | GelPiyo | GelPiyo | https://anilist.co/anime/204698 | Episode 4 |
 | Ginga Tokkyuu Milky☆Subway: Kakueki Teisha Gekijou Iki | Ginga Tokkyuu Milky☆Subway: Kakueki Teisha Gekijou Iki | https://anilist.co/anime/204949 | Episode 1 |
 | Girls und Panzer: Motto Love Love Sakusen desu! | Girls und Panzer: Motto Love Love Sakusen desu! | https://anilist.co/anime/188034 | Episode 2 |
-| Golden Kamuy: Saishuushou | Golden Kamuy Final Season | https://anilist.co/anime/166521 | Episode 6 |
+| Golden Kamuy: Saishuushou | Golden Kamuy Final Season | https://anilist.co/anime/166521 | Episode 7 |
 | Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru | HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing | https://anilist.co/anime/185262 | Episode 6 |
 | Hanazakari no Kimitachi e | Hana-Kimi | https://anilist.co/anime/177580 | Episode 8 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 643 |
@@ -158,5 +158,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | BAKI-DOU | BAKI-DOU: The Invincible Samurai | https://anilist.co/anime/176509 | February 26 at 08:00 |
+| Doraemon: Shin Nobita no Kaitei Kiganjou | Doraemon: Shin Nobita no Kaitei Kiganjou | https://anilist.co/anime/198368 | February 26 at 15:00 |
 | Yamato yo Towa ni: REBEL3199 | Star Blazers: Space Battleship Yamato 3199 | https://anilist.co/anime/144779 | February 19 at 16:00 |
+| Tensei Shitara Slime Datta Ken - Soukai no Namida-hen | That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea | https://anilist.co/anime/182206 | February 26 at 15:00 |
 {.dense}
