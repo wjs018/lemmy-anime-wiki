@@ -284,6 +284,7 @@ Episode|Link
 5|[Link](https://ani.social/post/26722853)
 6|[Link](https://ani.social/post/27094534)
 7|[Link](https://ani.social/post/27451527)
+8|[Link](https://ani.social/post/27764271)
 {.dense}
 
 ## Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari • The Invisible Man and His Soon-to-Be Wife
