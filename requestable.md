@@ -30,6 +30,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kaya-chan wa Kowakunai | Kaya-chan Isn't Scary | https://anilist.co/anime/183660 | [Link](https://ani.social/post/27619901) |
 | MF Ghost 3rd Season | MF GHOST Season 3 | https://anilist.co/anime/185753 | [Link](https://ani.social/post/27807832) |
 | Medalist 2nd Season | Medalist Season 2 | https://anilist.co/anime/189275 | [Link](https://ani.social/post/27592213) |
+| "Omae Gotoki ga Maou ni Kateru to Omou na" to Yuusha Party wo Tsuihou Sareta node, Outo de Kimama ni Kurashitai | ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword! | https://anilist.co/anime/191718 | [Link](https://ani.social/post/27819263) |
 | Shibou Yuugi de Meshi wo Kuu. | SHIBOYUGI: Playing Death Games to Put Food on the Table | https://anilist.co/anime/180746 | [Link](https://ani.social/post/27763118) |
 | JoJo no Kimyou na Bouken: Steel Ball Run | STEEL BALL RUN JoJo's Bizarre Adventure | https://anilist.co/anime/190327 |  |
 | Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku | Sentenced to Be a Hero | https://anilist.co/anime/167152 | [Link](https://ani.social/post/27805738) |
@@ -114,7 +115,6 @@ These shows have had episodes air already, but no thread was created because the
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 127 |
 | Princess Principal: Crown Handler - Chapter 4: Fabulous Platypus | Princess Principal: Crown Handler - Chapter 4: Fabulous Platypus | https://anilist.co/anime/203127 | Episode 1 |
 | Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | Episode 42 |
-| "Omae Gotoki ga Maou ni Kateru to Omou na" to Yuusha Party wo Tsuihou Sareta node, Outo de Kimama ni Kurashitai | ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword! | https://anilist.co/anime/191718 | Episode 7 |
 | Wei Miao Rensheng | Reborn as a Cat | https://anilist.co/anime/203710 | Episode 17 |
 | Tensei Shitara Dragon no Tamago Datta | Reincarnated as a Dragon Hatchling | https://anilist.co/anime/187941 | Episode 6 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 128 |
