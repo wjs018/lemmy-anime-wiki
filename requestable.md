@@ -62,7 +62,7 @@ These shows have had episodes air already, but no thread was created because the
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1191 |
 | Ugoku! Neko Mukashi Banashi | Cat Tales | https://anilist.co/anime/188529 | Episode 19 |
 | Cat's♥Eye (2025) | Cat's Eye (2025) | https://anilist.co/anime/184718 | Episode 12 |
-| Mato Seihei no Slave 2 | Chained Soldier Season 2 | https://anilist.co/anime/176276 | Episode 6 |
+| Mato Seihei no Slave 2 | Chained Soldier Season 2 | https://anilist.co/anime/176276 | Episode 7 |
 | Champignon no Majo | Champignon Witch | https://anilist.co/anime/185514 | Episode 7 |
 | Chibi Godzilla no Gyakushuu 3 | Chibi Godzilla Raids Again Season 3 | https://anilist.co/anime/193883 | Episode 34 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 318 |
