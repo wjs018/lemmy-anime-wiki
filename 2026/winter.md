@@ -17,6 +17,7 @@ Episode|Link
 1|[Link](https://ani.social/post/25717139)
 2|[Link](https://ani.social/post/26065735)
 3|[Link](https://ani.social/post/26414621)
+7|[Link](https://ani.social/post/27819263)
 {.dense}
 
 ## ALL YOU NEED IS KILL
