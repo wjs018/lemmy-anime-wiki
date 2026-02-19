@@ -134,6 +134,7 @@ These shows have had episodes air already, but no thread was created because the
 | Boku no Kokoro no Yabai Yatsu Movie | The Dangers in My Heart: The Movie | https://anilist.co/anime/182317 | Episode 1 |
 | Darwin Jihen | The Darwin Incident | https://anilist.co/anime/177679 | Episode 7 |
 | Eris no Seihai | The Holy Grail of Eris | https://anilist.co/anime/183270 | Episode 6 |
+| Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari | The Invisible Man and His Soon-to-Be Wife | https://anilist.co/anime/185039 | Episode 7 |
 | Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru | The Villainess Is Adored by the Prince of the Neighbor Kingdom | https://anilist.co/anime/195518 | Episode 6 |
 | Yami Shibai 16 | Theatre of Darkness: Yamishibai 16 | https://anilist.co/anime/203939 | Episode 6 |
 | Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita. | There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her | https://anilist.co/anime/195515 | Episode 7 |
@@ -160,5 +161,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Doraemon: Shin Nobita no Kaitei Kiganjou | Doraemon: Shin Nobita no Kaitei Kiganjou | https://anilist.co/anime/198368 | February 26 at 15:00 |
 | Yamato yo Towa ni: REBEL3199 | Star Blazers: Space Battleship Yamato 3199 | https://anilist.co/anime/144779 | February 19 at 16:00 |
 | Tensei Shitara Slime Datta Ken - Soukai no Namida-hen | That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea | https://anilist.co/anime/182206 | February 26 at 15:00 |
-| Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari | The Invisible Man and His Soon-to-Be Wife | https://anilist.co/anime/185039 | February 19 at 15:30 |
 {.dense}
