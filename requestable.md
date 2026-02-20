@@ -72,7 +72,7 @@ These shows have had episodes air already, but no thread was created because the
 | DARK MOON: Kuro no Tsuki - Tsuki no Saidan | DARK MOON: THE BLOOD ALTAR | https://anilist.co/anime/181443 | Episode 7 |
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | Episode 19 |
 | Dead Account | Dead Account | https://anilist.co/anime/187901 | Episode 6 |
-| Android wa Keiken Ninzuu ni Hairimasu ka?? | Does it Count if You Lose Your Innocence to an Android? | https://anilist.co/anime/192867 | Episode 6 |
+| Android wa Keiken Ninzuu ni Hairimasu ka?? | Does it Count if You Lose Your Innocence to an Android? | https://anilist.co/anime/192867 | Episode 7 |
 | Dokodemo Makibao: World Tour | Dokodemo Makibao: World Tour | https://anilist.co/anime/199931 | Episode 19 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 902 |
 | Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | Episode 29 |
