@@ -274,6 +274,7 @@ Episode|Link
 4|[Link](https://ani.social/post/26878633)
 5|[Link](https://ani.social/post/27246770)
 6|[Link](https://ani.social/post/27586286)
+7|[Link](https://ani.social/post/27896314)
 {.dense}
 
 ## Tamon-kun Ima Docchi!? • Tamon's B-Side
