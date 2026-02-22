@@ -94,6 +94,7 @@ Episode|Link
 5|[Link](https://ani.social/post/26932408)
 6|[Link](https://ani.social/post/27299064)
 7|[Link](https://ani.social/post/27632009)
+8|[Link](https://ani.social/post/27942728)
 {.dense}
 
 ## Isekai no Sata wa Shachiku Shidai • Isekai Office Worker: The Other World's Books Depend on the Bean Counter
