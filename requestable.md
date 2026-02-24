@@ -37,7 +37,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku | Sentenced to Be a Hero | https://anilist.co/anime/167152 | [Link](https://ani.social/post/27805738) |
 | TRIGUN STARGAZE | TRIGUN STARGAZE | https://anilist.co/anime/163144 | [Link](https://ani.social/post/27896314) |
 | Tamon-kun Ima Docchi!? | Tamon's B-Side | https://anilist.co/anime/178005 | [Link](https://ani.social/post/27764271) |
-| Maou no Musume wa Yasashi Sugiru!! | The Demon King's Daughter is Too Kind!! | https://anilist.co/anime/194742 | [Link](https://ani.social/post/27715331) |
+| Maou no Musume wa Yasashi Sugiru!! | The Demon King's Daughter is Too Kind!! | https://anilist.co/anime/194742 | [Link](https://ani.social/post/28022301) |
 | Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari | The Invisible Man and His Soon-to-Be Wife | https://anilist.co/anime/185039 | [Link](https://ani.social/post/27818511) |
 | Kirei ni Shitemoraemasu ka. | Wash It All Away | https://anilist.co/anime/194028 | [Link](https://ani.social/post/27979869) |
 | Seihantai na Kimi to Boku | You and I Are Polar Opposites | https://anilist.co/anime/184951 | [Link](https://ani.social/post/27928536) |
