@@ -134,7 +134,7 @@ These shows have had episodes air already, but no thread was created because the
 | Goumon Baito-kun no Nichijou | The Daily Life of a Part-time Torturer | https://anilist.co/anime/197731 | Episode 8 |
 | Xian Wang de Richang Shenghuo 5 | The Daily Life of the Immortal King Season 5 | https://anilist.co/anime/185857 | Episode 12 |
 | Boku no Kokoro no Yabai Yatsu Movie | The Dangers in My Heart: The Movie | https://anilist.co/anime/182317 | Episode 1 |
-| Darwin Jihen | The Darwin Incident | https://anilist.co/anime/177679 | Episode 7 |
+| Darwin Jihen | The Darwin Incident | https://anilist.co/anime/177679 | Episode 8 |
 | Eris no Seihai | The Holy Grail of Eris | https://anilist.co/anime/183270 | Episode 7 |
 | Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru | The Villainess Is Adored by the Prince of the Neighbor Kingdom | https://anilist.co/anime/195518 | Episode 7 |
 | Yami Shibai 16 | Theatre of Darkness: Yamishibai 16 | https://anilist.co/anime/203939 | Episode 7 |
@@ -147,7 +147,7 @@ These shows have had episodes air already, but no thread was created because the
 | Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 358 |
 | Yoroi Shinden Samurai Troopers | Yoroi-Shinden Samurai Troopers | https://anilist.co/anime/194318 | Episode 8 |
 | Osananajimi to wa Love Comedy ni Naranai | You Can't Be In a Rom-Com with Your Childhood Friends! | https://anilist.co/anime/189565 | Episode 8 |
-| mofusand | mofusand | https://anilist.co/anime/204656 | Episode 7 |
+| mofusand | mofusand | https://anilist.co/anime/204656 | Episode 8 |
 {.dense}
 
 ## Upcoming Shows
