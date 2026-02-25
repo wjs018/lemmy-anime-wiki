@@ -206,6 +206,7 @@ Episode|Link
 2|[Link](https://ani.social/post/25962793)
 3|[Link](https://ani.social/post/26309351)
 4|[Link](https://ani.social/post/26667753)
+8|[Link](https://ani.social/post/28082673)
 {.dense}
 
 ## Medalist 2nd Season • Medalist Season 2
