@@ -18,6 +18,7 @@ Episode|Link
 2|[Link](https://ani.social/post/26065735)
 3|[Link](https://ani.social/post/26414621)
 7|[Link](https://ani.social/post/27819263)
+8|[Link](https://ani.social/post/28117230)
 {.dense}
 
 ## ALL YOU NEED IS KILL
@@ -132,6 +133,7 @@ Episode|Link
 5|[Link](https://ani.social/post/26777651)
 6|[Link](https://ani.social/post/27146204)
 7|[Link](https://ani.social/post/27498519)
+8|[Link](https://ani.social/post/28117221)
 {.dense}
 
 ## Kaya-chan wa Kowakunai • Kaya-chan Isn't Scary
