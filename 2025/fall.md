@@ -175,6 +175,7 @@ Episode|Link
 18|[Link](https://ani.social/post/27138806)
 19|[Link](https://ani.social/post/27491298)
 20|[Link](https://ani.social/post/27804283)
+21|[Link](https://ani.social/post/28111788)
 {.dense}
 
 ## Gnosia
