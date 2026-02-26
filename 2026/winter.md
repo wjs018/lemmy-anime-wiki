@@ -173,6 +173,7 @@ Episode|Link
 6|[Link](https://ani.social/post/27144262)
 7|[Link](https://ani.social/post/27495413)
 8|[Link](https://ani.social/post/27807832)
+9|[Link](https://ani.social/post/28114956)
 {.dense}
 
 ## Maou no Musume wa Yasashi Sugiru!! • The Demon King's Daughter is Too Kind!!
@@ -311,6 +312,7 @@ Episode|Link
 5|[Link](https://ani.social/post/27143350)
 6|[Link](https://ani.social/post/27495412)
 7|[Link](https://ani.social/post/27818511)
+8|[Link](https://ani.social/post/28114955)
 {.dense}
 
 ## Uruwashi no Yoi no Tsuki • In the Clear Moonlit Dusk
