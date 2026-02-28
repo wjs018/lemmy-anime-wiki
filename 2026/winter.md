@@ -55,6 +55,7 @@ Episode|Link
 6|[Link](https://ani.social/post/27248511)
 7|[Link](https://ani.social/post/27587479)
 8|[Link](https://ani.social/post/27897359)
+9|[Link](https://ani.social/post/28204227)
 {.dense}
 
 ## Golden Kamuy: Saishuushou • Golden Kamuy Final Season
@@ -291,6 +292,7 @@ Episode|Link
 5|[Link](https://ani.social/post/27246770)
 6|[Link](https://ani.social/post/27586286)
 7|[Link](https://ani.social/post/27896314)
+8|[Link](https://ani.social/post/28204226)
 {.dense}
 
 ## Tamon-kun Ima Docchi!? • Tamon's B-Side
