@@ -28,7 +28,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Ikoku Nikki | Journal with Witch | https://anilist.co/anime/177385 | [Link](https://ani.social/post/27942728) |
 | Kaya-chan wa Kowakunai | Kaya-chan Isn't Scary | https://anilist.co/anime/183660 | [Link](https://ani.social/post/27929780) |
 | MF Ghost 3rd Season | MF GHOST Season 3 | https://anilist.co/anime/185753 | [Link](https://ani.social/post/28114956) |
-| Medalist 2nd Season | Medalist Season 2 | https://anilist.co/anime/189275 | [Link](https://ani.social/post/27901713) |
+| Medalist 2nd Season | Medalist Season 2 | https://anilist.co/anime/189275 | [Link](https://ani.social/post/28209125) |
 | Vigilante: Boku no Hero Academia ILLEGALS 2nd Season | My Hero Academia: Vigilantes Season 2 | https://anilist.co/anime/195322 | [Link](https://ani.social/post/27982246) |
 | "Omae Gotoki ga Maou ni Kateru to Omou na" to Yuusha Party wo Tsuihou Sareta node, Outo de Kimama ni Kurashitai | ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword! | https://anilist.co/anime/191718 | [Link](https://ani.social/post/28117230) |
 | Shibou Yuugi de Meshi wo Kuu. | SHIBOYUGI: Playing Death Games to Put Food on the Table | https://anilist.co/anime/180746 | [Link](https://ani.social/post/28069971) |
