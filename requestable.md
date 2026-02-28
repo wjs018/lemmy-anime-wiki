@@ -85,7 +85,6 @@ These shows have had episodes air already, but no thread was created because the
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | Episode 11 |
 | GelPiyo | GelPiyo | https://anilist.co/anime/204698 | Episode 6 |
 | Ginga Tokkyuu Milky☆Subway: Kakueki Teisha Gekijou Iki | Ginga Tokkyuu Milky☆Subway: Kakueki Teisha Gekijou Iki | https://anilist.co/anime/204949 | Episode 1 |
-| Girls und Panzer: Motto Love Love Sakusen desu! | Girls und Panzer: Motto Love Love Sakusen desu! | https://anilist.co/anime/188034 | Episode 2 |
 | Golden Kamuy: Saishuushou | Golden Kamuy Final Season | https://anilist.co/anime/166521 | Episode 8 |
 | Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru | HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing | https://anilist.co/anime/185262 | Episode 8 |
 | Hanazakari no Kimitachi e | Hana-Kimi | https://anilist.co/anime/177580 | Episode 9 |
@@ -106,7 +105,6 @@ These shows have had episodes air already, but no thread was created because the
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 47 |
 | Majutsushi Kunon wa Mieteiru | Kunon the Sorcerer Can See | https://anilist.co/anime/186333 | Episode 9 |
 | Kusunoki no Bannin | Kusunoki no Bannin | https://anilist.co/anime/189956 | Episode 1 |
-| Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo | MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe | https://anilist.co/anime/113971 | Episode 1 |
 | MUZIK TIGER In the Forest 2 | MUZIK TIGER In the Forest 2 | https://anilist.co/anime/195383 | Episode 20 |
 | Mu Shen Ji 3 | Mu Shen Ji 3 | https://anilist.co/anime/203953 | Episode 19 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 205 |
@@ -159,5 +157,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Fukufuku no Chizu | Fukufuku no Chizu | https://anilist.co/anime/206889 | March 04 at 15:00 |
+| Girls und Panzer: Motto Love Love Sakusen desu! | Girls und Panzer: Motto Love Love Sakusen desu! | https://anilist.co/anime/188034 | March 05 at 16:00 |
 | Hanarokushou ga Akeru Hi ni | Hanarokushou ga Akeru Hi ni | https://anilist.co/anime/177132 | March 05 at 16:00 |
 {.dense}
