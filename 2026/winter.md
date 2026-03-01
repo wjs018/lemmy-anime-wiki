@@ -257,6 +257,7 @@ Episode|Link
 5|[Link](https://ani.social/post/27284766)
 6|[Link](https://ani.social/post/27619101)
 7|[Link](https://ani.social/post/27928536)
+8|[Link](https://ani.social/post/28235000)
 {.dense}
 
 ## Shibou Yuugi de Meshi wo Kuu. • SHIBOYUGI: Playing Death Games to Put Food on the Table
