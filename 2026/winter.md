@@ -333,6 +333,7 @@ Episode|Link
 5|[Link](https://ani.social/post/27283997)
 6|[Link](https://ani.social/post/27618258)
 7|[Link](https://ani.social/post/27927730)
+8|[Link](https://ani.social/post/28234132)
 {.dense}
 
 ## Vigilante: Boku no Hero Academia ILLEGALS 2nd Season • My Hero Academia: Vigilantes Season 2
