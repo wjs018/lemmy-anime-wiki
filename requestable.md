@@ -159,4 +159,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Hanarokushou ga Akeru Hi ni | Hanarokushou ga Akeru Hi ni | https://anilist.co/anime/177132 | March 05 at 16:00 |
 | Himitsu no AiPri: Mankai Buzzrium Live! | Himitsu no AiPri: Mankai Buzzrium Live! | https://anilist.co/anime/203100 | March 12 at 15:00 |
 | Paris ni Saku Étoile | Paris ni Saku Étoile | https://anilist.co/anime/197097 | March 12 at 16:00 |
+| Fangkai Nage Nüwu | Release that Witch | https://anilist.co/anime/137662 | March 09 at 19:00 |
 {.dense}
