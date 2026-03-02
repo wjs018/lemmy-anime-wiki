@@ -84,6 +84,7 @@ Episode|Link
 5|[Link](https://ani.social/post/27429403)
 6|[Link](https://ani.social/post/27673975)
 7|[Link](https://ani.social/post/27983320)
+8|[Link](https://ani.social/post/28292881)
 {.dense}
 
 ## Ikoku Nikki • Journal with Witch
