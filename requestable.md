@@ -160,4 +160,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Himitsu no AiPri: Mankai Buzzrium Live! | Himitsu no AiPri: Mankai Buzzrium Live! | https://anilist.co/anime/203100 | March 12 at 15:00 |
 | Paris ni Saku Étoile | Paris ni Saku Étoile | https://anilist.co/anime/197097 | March 12 at 16:00 |
 | Fangkai Nage Nüwu | Release that Witch | https://anilist.co/anime/137662 | March 09 at 19:00 |
+| Niwatori Fighter | Rooster Fighter | https://anilist.co/anime/179813 | March 13 at 17:00 |
 {.dense}
