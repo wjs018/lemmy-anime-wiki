@@ -82,7 +82,7 @@ These shows have had episodes air already, but no thread was created because the
 | Okiraku Ryoushu no Tanoshii Ryouchi Bouei | Easygoing Territory Defense by the Optimistic Lord | https://anilist.co/anime/191205 | Episode 8 |
 | Enen no Shouboutai: San no Shou Part 2 | Fire Force Season 3 Part 2 | https://anilist.co/anime/179062 | Episode 8 |
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | Episode 11 |
-| GelPiyo | GelPiyo | https://anilist.co/anime/204698 | Episode 6 |
+| GelPiyo | GelPiyo | https://anilist.co/anime/204698 | Episode 7 |
 | Ginga Tokkyuu Milky☆Subway: Kakueki Teisha Gekijou Iki | Ginga Tokkyuu Milky☆Subway: Kakueki Teisha Gekijou Iki | https://anilist.co/anime/204949 | Episode 1 |
 | Golden Kamuy: Saishuushou | Golden Kamuy Final Season | https://anilist.co/anime/166521 | Episode 9 |
 | Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru | HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing | https://anilist.co/anime/185262 | Episode 8 |
