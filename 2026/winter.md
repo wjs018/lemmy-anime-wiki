@@ -277,6 +277,7 @@ Episode|Link
 6|[Link](https://ani.social/post/27450276)
 7|[Link](https://ani.social/post/27763118)
 8|[Link](https://ani.social/post/28069971)
+9|[Link](https://ani.social/post/28382627)
 {.dense}
 
 ## Sousou no Frieren 2nd Season • Frieren: Beyond Journey’s End Season 2
