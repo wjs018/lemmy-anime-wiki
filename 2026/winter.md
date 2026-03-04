@@ -233,6 +233,13 @@ Episode|Link
 6|[Link](https://ani.social/post/28209125)
 {.dense}
 
+## Odayaka Kizoku no Kyuuka no Susume. • A Gentle Noble's Vacation Recommendation
+
+Episode|Link
+:-:|:-:
+9|[Link](https://ani.social/post/28387222)
+{.dense}
+
 ## Okiraku Ryoushu no Tanoshii Ryouchi Bouei • Easygoing Territory Defense by the Optimistic Lord
 
 Episode|Link
