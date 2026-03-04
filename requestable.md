@@ -144,7 +144,7 @@ These shows have had episodes air already, but no thread was created because the
 | Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 360 |
 | Yoroi Shinden Samurai Troopers | Yoroi-Shinden Samurai Troopers | https://anilist.co/anime/194318 | Episode 9 |
 | Osananajimi to wa Love Comedy ni Naranai | You Can't Be In a Rom-Com with Your Childhood Friends! | https://anilist.co/anime/189565 | Episode 9 |
-| mofusand | mofusand | https://anilist.co/anime/204656 | Episode 8 |
+| mofusand | mofusand | https://anilist.co/anime/204656 | Episode 9 |
 {.dense}
 
 ## Upcoming Shows
