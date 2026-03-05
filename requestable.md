@@ -65,7 +65,7 @@ These shows have had episodes air already, but no thread was created because the
 | Cardfight!! Vanguard: Divinez Genma Seisen-hen | Cardfight!! Vanguard: Divinez Genma Seisen-hen | https://anilist.co/anime/203296 | Episode 7 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1192 |
 | Ugoku! Neko Mukashi Banashi | Cat Tales | https://anilist.co/anime/188529 | Episode 21 |
-| Mato Seihei no Slave 2 | Chained Soldier Season 2 | https://anilist.co/anime/176276 | Episode 8 |
+| Mato Seihei no Slave 2 | Chained Soldier Season 2 | https://anilist.co/anime/176276 | Episode 9 |
 | Champignon no Majo | Champignon Witch | https://anilist.co/anime/185514 | Episode 9 |
 | Chatter Chatter | Chatter Chatter | https://anilist.co/anime/208370 | Episode 1 |
 | Chibi Godzilla no Gyakushuu 3 | Chibi Godzilla Raids Again Season 3 | https://anilist.co/anime/193883 | Episode 36 |
