@@ -85,10 +85,12 @@ These shows have had episodes air already, but no thread was created because the
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | Episode 11 |
 | GelPiyo | GelPiyo | https://anilist.co/anime/204698 | Episode 7 |
 | Ginga Tokkyuu Milky☆Subway: Kakueki Teisha Gekijou Iki | Ginga Tokkyuu Milky☆Subway: Kakueki Teisha Gekijou Iki | https://anilist.co/anime/204949 | Episode 1 |
+| Girls und Panzer: Motto Love Love Sakusen desu! | Girls und Panzer: Motto Love Love Sakusen desu! | https://anilist.co/anime/188034 | Episode 3 |
 | Golden Kamuy: Saishuushou | Golden Kamuy Final Season | https://anilist.co/anime/166521 | Episode 9 |
 | Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru | HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing | https://anilist.co/anime/185262 | Episode 8 |
 | Hanazakari no Kimitachi e | Hana-Kimi | https://anilist.co/anime/177580 | Episode 10 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 645 |
+| Hanarokushou ga Akeru Hi ni | Hanarokushou ga Akeru Hi ni | https://anilist.co/anime/177132 | Episode 1 |
 | Jigoku Sensei Nube (2025) Part 2 | Hell Teacher: Jigoku Sensei Nube (2025) Part 2 | https://anilist.co/anime/191967 | Episode 9 |
 | High School! Kimengumi (2026) | High School! Kimengumi (2026) | https://anilist.co/anime/200556 | Episode 8 |
 | Himitsu Kessha Taka no Tsume XX | Himitsu Kessha Taka no Tsume XX | https://anilist.co/anime/203472 | Episode 8 |
@@ -136,7 +138,7 @@ These shows have had episodes air already, but no thread was created because the
 | Xian Wang de Richang Shenghuo 5 | The Daily Life of the Immortal King Season 5 | https://anilist.co/anime/185857 | Episode 12 |
 | Boku no Kokoro no Yabai Yatsu Movie | The Dangers in My Heart: The Movie | https://anilist.co/anime/182317 | Episode 1 |
 | Darwin Jihen | The Darwin Incident | https://anilist.co/anime/177679 | Episode 9 |
-| Eris no Seihai | The Holy Grail of Eris | https://anilist.co/anime/183270 | Episode 8 |
+| Eris no Seihai | The Holy Grail of Eris | https://anilist.co/anime/183270 | Episode 9 |
 | Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari | The Invisible Man and His Soon-to-Be Wife | https://anilist.co/anime/185039 | Episode 9 |
 | Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru | The Villainess Is Adored by the Prince of the Neighbor Kingdom | https://anilist.co/anime/195518 | Episode 8 |
 | Yami Shibai 16 | Theatre of Darkness: Yamishibai 16 | https://anilist.co/anime/203939 | Episode 8 |
@@ -155,8 +157,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
-| Girls und Panzer: Motto Love Love Sakusen desu! | Girls und Panzer: Motto Love Love Sakusen desu! | https://anilist.co/anime/188034 | March 05 at 16:00 |
-| Hanarokushou ga Akeru Hi ni | Hanarokushou ga Akeru Hi ni | https://anilist.co/anime/177132 | March 05 at 16:00 |
 | Himitsu no AiPri: Mankai Buzzrium Live! | Himitsu no AiPri: Mankai Buzzrium Live! | https://anilist.co/anime/203100 | March 12 at 15:00 |
 | Paris ni Saku Étoile | Paris ni Saku Étoile | https://anilist.co/anime/197097 | March 12 at 16:00 |
 | Fangkai Nage Nüwu | Release that Witch | https://anilist.co/anime/137662 | March 09 at 19:00 |
