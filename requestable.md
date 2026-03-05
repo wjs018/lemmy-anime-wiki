@@ -66,7 +66,7 @@ These shows have had episodes air already, but no thread was created because the
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1192 |
 | Ugoku! Neko Mukashi Banashi | Cat Tales | https://anilist.co/anime/188529 | Episode 21 |
 | Mato Seihei no Slave 2 | Chained Soldier Season 2 | https://anilist.co/anime/176276 | Episode 9 |
-| Champignon no Majo | Champignon Witch | https://anilist.co/anime/185514 | Episode 9 |
+| Champignon no Majo | Champignon Witch | https://anilist.co/anime/185514 | Episode 10 |
 | Chatter Chatter | Chatter Chatter | https://anilist.co/anime/208370 | Episode 1 |
 | Chibi Godzilla no Gyakushuu 3 | Chibi Godzilla Raids Again Season 3 | https://anilist.co/anime/193883 | Episode 36 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 322 |
@@ -110,7 +110,7 @@ These shows have had episodes air already, but no thread was created because the
 | MUZIK TIGER In the Forest 2 | MUZIK TIGER In the Forest 2 | https://anilist.co/anime/195383 | Episode 20 |
 | Mu Shen Ji 3 | Mu Shen Ji 3 | https://anilist.co/anime/203953 | Episode 20 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 205 |
-| Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 46 |
+| Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 47 |
 | Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru | Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power | https://anilist.co/anime/185993 | Episode 9 |
 | Hikuidori | Oedo Fire Slayer -The Legend of Phoenix- | https://anilist.co/anime/187062 | Episode 7 |
 | Omae wa Mada Gunma wo Shiranai: Reiwa-ban | Omae wa Mada Gunma wo Shiranai: Reiwa-ban | https://anilist.co/anime/202419 | Episode 8 |
