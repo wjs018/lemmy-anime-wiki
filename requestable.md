@@ -101,7 +101,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yuusha Party wo Oidasareta Kiyou Binbou | Jack-of-All-Trades, Party of None | https://anilist.co/anime/187264 | Episode 10 |
 | Kagaku×Bouken Survival! 2nd Season | Kagaku×Bouken Survival! 2nd Season | https://anilist.co/anime/186736 | Episode 17 |
 | Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 47 |
-| Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 22 |
+| Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 23 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 48 |
 | Majutsushi Kunon wa Mieteiru | Kunon the Sorcerer Can See | https://anilist.co/anime/186333 | Episode 10 |
 | MUZIK TIGER In the Forest 2 | MUZIK TIGER In the Forest 2 | https://anilist.co/anime/195383 | Episode 20 |
@@ -115,7 +115,7 @@ These shows have had episodes air already, but no thread was created because the
 | PetitCure: Precure Fairies Season 2 | PetitCure: Precure Fairies Season 2 | https://anilist.co/anime/199635 | Episode 21 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 129 |
 | Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | Episode 44 |
-| Wei Miao Rensheng | Reborn as a Cat | https://anilist.co/anime/203710 | Episode 18 |
+| Wei Miao Rensheng | Reborn as a Cat | https://anilist.co/anime/203710 | Episode 19 |
 | Tensei Shitara Dragon no Tamago Datta | Reincarnated as a Dragon Hatchling | https://anilist.co/anime/187941 | Episode 8 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 130 |
 | SI-VIS: The Sound of Heroes | SI-VIS: The Sound of Heroes | https://anilist.co/anime/196553 | Episode 21 |
