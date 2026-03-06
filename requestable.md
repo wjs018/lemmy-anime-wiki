@@ -32,6 +32,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Medalist 2nd Season | Medalist Season 2 | https://anilist.co/anime/189275 | [Link](https://ani.social/post/28209125) |
 | Vigilante: Boku no Hero Academia ILLEGALS 2nd Season | My Hero Academia: Vigilantes Season 2 | https://anilist.co/anime/195322 | [Link](https://ani.social/post/28289083) |
 | "Omae Gotoki ga Maou ni Kateru to Omou na" to Yuusha Party wo Tsuihou Sareta node, Outo de Kimama ni Kurashitai | ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword! | https://anilist.co/anime/191718 | [Link](https://ani.social/post/28430186) |
+| Fangkai Nage Nüwu | Release that Witch | https://anilist.co/anime/137662 | [Link](https://ani.social/post/28454691) |
 | Shibou Yuugi de Meshi wo Kuu. | SHIBOYUGI: Playing Death Games to Put Food on the Table | https://anilist.co/anime/180746 | [Link](https://ani.social/post/28382627) |
 | JoJo no Kimyou na Bouken: Steel Ball Run | STEEL BALL RUN JoJo's Bizarre Adventure | https://anilist.co/anime/190327 |  |
 | Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku | Sentenced to Be a Hero | https://anilist.co/anime/167152 | [Link](https://ani.social/post/28425057) |
@@ -159,6 +160,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Himitsu no AiPri: Mankai Buzzrium Live! | Himitsu no AiPri: Mankai Buzzrium Live! | https://anilist.co/anime/203100 | March 12 at 15:00 |
 | Paris ni Saku Étoile | Paris ni Saku Étoile | https://anilist.co/anime/197097 | March 12 at 16:00 |
-| Fangkai Nage Nüwu | Release that Witch | https://anilist.co/anime/137662 | March 09 at 19:00 |
 | Niwatori Fighter | Rooster Fighter | https://anilist.co/anime/179813 | March 13 at 17:00 |
 {.dense}
