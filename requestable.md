@@ -19,7 +19,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | BEASTARS FINAL SEASON Part 2 | BEASTARS FINAL SEASON Part 2 | https://anilist.co/anime/187267 |  |
 | Fate/strange Fake | Fate/strange Fake | https://anilist.co/anime/166617 | [Link](https://ani.social/post/28204227) |
 | Sousou no Frieren 2nd Season | Frieren: Beyond Journey’s End Season 2 | https://anilist.co/anime/182255 | [Link](https://ani.social/post/28159404) |
-| GANGLION | GANGLION | https://anilist.co/anime/198117 | [Link](https://ani.social/post/28157949) |
+| GANGLION | GANGLION | https://anilist.co/anime/198117 | [Link](https://ani.social/post/28469760) |
 | Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | [Link](https://ani.social/post/28423403) |
 | Gnosia | Gnosia | https://anilist.co/anime/185116 | [Link](https://ani.social/post/28225963) |
 | Jigokuraku 2nd Season | Hell’s Paradise Season 2 | https://anilist.co/anime/166613 | [Link](https://ani.social/post/28247659) |
