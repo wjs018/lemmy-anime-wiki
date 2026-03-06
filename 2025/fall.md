@@ -155,7 +155,7 @@ Episode|Link|Episode|Link
 5|[Link](https://ani.social/post/22565167)|18|[Link](https://ani.social/post/27538665)
 6|[Link](https://ani.social/post/22674597)|19|[Link](https://ani.social/post/27851449)
 7|[Link](https://ani.social/post/23014573)|20|[Link](https://ani.social/post/28157949)
-8|[Link](https://ani.social/post/23343404)
+8|[Link](https://ani.social/post/23343404)|21|[Link](https://ani.social/post/28469760)
 9|[Link](https://ani.social/post/23679951)
 10|[Link](https://ani.social/post/24029676)
 11|[Link](https://ani.social/post/24387121)
