@@ -242,6 +242,7 @@ Episode|Link
 4|[Link](https://ani.social/post/27592213)
 5|[Link](https://ani.social/post/27901713)
 6|[Link](https://ani.social/post/28209125)
+7|[Link](https://ani.social/post/28519945)
 {.dense}
 
 ## Odayaka Kizoku no Kyuuka no Susume. • A Gentle Noble's Vacation Recommendation
