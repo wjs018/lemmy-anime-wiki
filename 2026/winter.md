@@ -29,6 +29,13 @@ Episode|Link
 1|[Link](https://ani.social/post/25718589)
 {.dense}
 
+## BEASTARS FINAL SEASON Part 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/28502390)
+{.dense}
+
 ## Darwin Jihen • The Darwin Incident
 
 Episode|Link
