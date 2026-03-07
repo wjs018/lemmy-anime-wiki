@@ -64,6 +64,7 @@ Episode|Link
 7|[Link](https://ani.social/post/27587479)
 8|[Link](https://ani.social/post/27897359)
 9|[Link](https://ani.social/post/28204227)
+10|[Link](https://ani.social/post/28515608)
 {.dense}
 
 ## Golden Kamuy: Saishuushou • Golden Kamuy Final Season
