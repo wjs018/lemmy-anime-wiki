@@ -89,7 +89,7 @@ These shows have had episodes air already, but no thread was created because the
 | Girls und Panzer: Motto Love Love Sakusen desu! | Girls und Panzer: Motto Love Love Sakusen desu! | https://anilist.co/anime/188034 | Episode 3 |
 | Golden Kamuy: Saishuushou | Golden Kamuy Final Season | https://anilist.co/anime/166521 | Episode 9 |
 | Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru | HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing | https://anilist.co/anime/185262 | Episode 9 |
-| Hanazakari no Kimitachi e | Hana-Kimi | https://anilist.co/anime/177580 | Episode 10 |
+| Hanazakari no Kimitachi e | Hana-Kimi | https://anilist.co/anime/177580 | Episode 11 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 646 |
 | Hanarokushou ga Akeru Hi ni | Hanarokushou ga Akeru Hi ni | https://anilist.co/anime/177132 | Episode 1 |
 | Jigoku Sensei Nube (2025) Part 2 | Hell Teacher: Jigoku Sensei Nube (2025) Part 2 | https://anilist.co/anime/191967 | Episode 9 |
