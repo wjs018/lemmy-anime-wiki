@@ -94,7 +94,7 @@ These shows have had episodes air already, but no thread was created because the
 | Hanarokushou ga Akeru Hi ni | Hanarokushou ga Akeru Hi ni | https://anilist.co/anime/177132 | Episode 1 |
 | Jigoku Sensei Nube (2025) Part 2 | Hell Teacher: Jigoku Sensei Nube (2025) Part 2 | https://anilist.co/anime/191967 | Episode 9 |
 | High School! Kimengumi (2026) | High School! Kimengumi (2026) | https://anilist.co/anime/200556 | Episode 9 |
-| Himitsu Kessha Taka no Tsume XX | Himitsu Kessha Taka no Tsume XX | https://anilist.co/anime/203472 | Episode 8 |
+| Himitsu Kessha Taka no Tsume XX | Himitsu Kessha Taka no Tsume XX | https://anilist.co/anime/203472 | Episode 9 |
 | Himitsu no AiPri: Ring-hen | Himitsu no AiPri: Ring-hen | https://anilist.co/anime/184470 | Episode 48 |
 | Hokuto no Ken: Kenou-gun Zako-tachi no Banka | Hokuto no Ken: Kenou-gun Zako-tachi no Banka | https://anilist.co/anime/198720 | Episode 10 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 356 |
