@@ -87,7 +87,7 @@ These shows have had episodes air already, but no thread was created because the
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | Episode 11 |
 | GelPiyo | GelPiyo | https://anilist.co/anime/204698 | Episode 7 |
 | Girls und Panzer: Motto Love Love Sakusen desu! | Girls und Panzer: Motto Love Love Sakusen desu! | https://anilist.co/anime/188034 | Episode 3 |
-| Golden Kamuy: Saishuushou | Golden Kamuy Final Season | https://anilist.co/anime/166521 | Episode 9 |
+| Golden Kamuy: Saishuushou | Golden Kamuy Final Season | https://anilist.co/anime/166521 | Episode 10 |
 | Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru | HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing | https://anilist.co/anime/185262 | Episode 9 |
 | Hanazakari no Kimitachi e | Hana-Kimi | https://anilist.co/anime/177580 | Episode 11 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 646 |
@@ -157,7 +157,9 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
+| Ansatsu Kyoushitsu: Minna no Jikan | Ansatsu Kyoushitsu: Minna no Jikan | https://anilist.co/anime/198373 | March 19 at 15:00 |
 | Himitsu no AiPri: Mankai Buzzrium Live! | Himitsu no AiPri: Mankai Buzzrium Live! | https://anilist.co/anime/203100 | March 12 at 15:00 |
+| Oshirimae Man: Fukkatsu no Oshirimae Teikoku | Oshirimae Man: Fukkatsu no Oshirimae Teikoku | https://anilist.co/anime/206857 | March 19 at 15:00 |
 | Paris ni Saku Étoile | Paris ni Saku Étoile | https://anilist.co/anime/197097 | March 12 at 16:00 |
 | Niwatori Fighter | Rooster Fighter | https://anilist.co/anime/179813 | March 13 at 17:00 |
 {.dense}
