@@ -15,7 +15,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
 | Hime-sama, "Goumon" no Jikan desu 2nd Season | 'Tis Time for "Torture," Princess Season 2 | https://anilist.co/anime/176370 | [Link](https://ani.social/post/28602017) |
-| Odayaka Kizoku no Kyuuka no Susume. | A Gentle Noble's Vacation Recommendation | https://anilist.co/anime/182771 | [Link](https://ani.social/post/28387222) |
+| Odayaka Kizoku no Kyuuka no Susume. | A Gentle Noble's Vacation Recommendation | https://anilist.co/anime/182771 | [Link](https://ani.social/post/28694181) |
 | BEASTARS FINAL SEASON Part 2 | BEASTARS FINAL SEASON Part 2 | https://anilist.co/anime/187267 | [Link](https://ani.social/post/28502390) |
 | Okiraku Ryoushu no Tanoshii Ryouchi Bouei | Easygoing Territory Defense by the Optimistic Lord | https://anilist.co/anime/191205 | [Link](https://ani.social/post/28688952) |
 | Fate/strange Fake | Fate/strange Fake | https://anilist.co/anime/166617 | [Link](https://ani.social/post/28515608) |
@@ -38,7 +38,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | JoJo no Kimyou na Bouken: Steel Ball Run | STEEL BALL RUN JoJo's Bizarre Adventure | https://anilist.co/anime/190327 |  |
 | Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku | Sentenced to Be a Hero | https://anilist.co/anime/167152 | [Link](https://ani.social/post/28425057) |
 | TRIGUN STARGAZE | TRIGUN STARGAZE | https://anilist.co/anime/163144 | [Link](https://ani.social/post/28514570) |
-| Tamon-kun Ima Docchi!? | Tamon's B-Side | https://anilist.co/anime/178005 | [Link](https://ani.social/post/28383937) |
+| Tamon-kun Ima Docchi!? | Tamon's B-Side | https://anilist.co/anime/178005 | [Link](https://ani.social/post/28694182) |
 | Maou no Musume wa Yasashi Sugiru!! | The Demon King's Daughter is Too Kind!! | https://anilist.co/anime/194742 | [Link](https://ani.social/post/28644511) |
 | Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari | The Invisible Man and His Soon-to-Be Wife | https://anilist.co/anime/185039 | [Link](https://ani.social/post/28433964) |
 | Mayonaka Heart Tune | Tune In to the Midnight Heart | https://anilist.co/anime/187942 | [Link](https://ani.social/post/28646516) |
@@ -92,7 +92,7 @@ These shows have had episodes air already, but no thread was created because the
 | Hanazakari no Kimitachi e | Hana-Kimi | https://anilist.co/anime/177580 | Episode 11 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 646 |
 | Hanarokushou ga Akeru Hi ni | Hanarokushou ga Akeru Hi ni | https://anilist.co/anime/177132 | Episode 1 |
-| Jigoku Sensei Nube (2025) Part 2 | Hell Teacher: Jigoku Sensei Nube (2025) Part 2 | https://anilist.co/anime/191967 | Episode 9 |
+| Jigoku Sensei Nube (2025) Part 2 | Hell Teacher: Jigoku Sensei Nube (2025) Part 2 | https://anilist.co/anime/191967 | Episode 10 |
 | High School! Kimengumi (2026) | High School! Kimengumi (2026) | https://anilist.co/anime/200556 | Episode 9 |
 | Himitsu Kessha Taka no Tsume XX | Himitsu Kessha Taka no Tsume XX | https://anilist.co/anime/203472 | Episode 9 |
 | Himitsu no AiPri: Ring-hen | Himitsu no AiPri: Ring-hen | https://anilist.co/anime/184470 | Episode 48 |
@@ -101,7 +101,7 @@ These shows have had episodes air already, but no thread was created because the
 | Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu | Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu | https://anilist.co/anime/203148 | Episode 9 |
 | Saioshi no Gikei Mederu Tame, Nagaikishimasu! | I'll Live a Long Life to Dote on My Favorite Stepbrother! | https://anilist.co/anime/199446 | Episode 10 |
 | JOCHUM Season 2 | JOCHUM Season 2 | https://anilist.co/anime/198413 | Episode 23 |
-| Yuusha Party wo Oidasareta Kiyou Binbou | Jack-of-All-Trades, Party of None | https://anilist.co/anime/187264 | Episode 10 |
+| Yuusha Party wo Oidasareta Kiyou Binbou | Jack-of-All-Trades, Party of None | https://anilist.co/anime/187264 | Episode 11 |
 | Kagaku×Bouken Survival! 2nd Season | Kagaku×Bouken Survival! 2nd Season | https://anilist.co/anime/186736 | Episode 18 |
 | Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 48 |
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 23 |
