@@ -36,7 +36,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Fangkai Nage Nüwu | Release that Witch | https://anilist.co/anime/137662 | [Link](https://ani.social/post/28611351) |
 | Shibou Yuugi de Meshi wo Kuu. | SHIBOYUGI: Playing Death Games to Put Food on the Table | https://anilist.co/anime/180746 | [Link](https://ani.social/post/28693012) |
 | JoJo no Kimyou na Bouken: Steel Ball Run | STEEL BALL RUN JoJo's Bizarre Adventure | https://anilist.co/anime/190327 |  |
-| Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku | Sentenced to Be a Hero | https://anilist.co/anime/167152 | [Link](https://ani.social/post/28425057) |
+| Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku | Sentenced to Be a Hero | https://anilist.co/anime/167152 | [Link](https://ani.social/post/28736686) |
 | TRIGUN STARGAZE | TRIGUN STARGAZE | https://anilist.co/anime/163144 | [Link](https://ani.social/post/28514570) |
 | Tamon-kun Ima Docchi!? | Tamon's B-Side | https://anilist.co/anime/178005 | [Link](https://ani.social/post/28694182) |
 | Maou no Musume wa Yasashi Sugiru!! | The Demon King's Daughter is Too Kind!! | https://anilist.co/anime/194742 | [Link](https://ani.social/post/28644511) |
