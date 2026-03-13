@@ -110,7 +110,7 @@ These shows have had episodes air already, but no thread was created because the
 | Majutsushi Kunon wa Mieteiru | Kunon the Sorcerer Can See | https://anilist.co/anime/186333 | Episode 11 |
 | MUZIK TIGER In the Forest 2 | MUZIK TIGER In the Forest 2 | https://anilist.co/anime/195383 | Episode 20 |
 | Mu Shen Ji 3 | Mu Shen Ji 3 | https://anilist.co/anime/203953 | Episode 21 |
-| Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 206 |
+| Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 207 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 48 |
 | Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru | Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power | https://anilist.co/anime/185993 | Episode 10 |
 | Hikuidori | Oedo Fire Slayer -The Legend of Phoenix- | https://anilist.co/anime/187062 | Episode 8 |
