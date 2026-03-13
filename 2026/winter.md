@@ -326,6 +326,7 @@ Episode|Link
 5|[Link](https://ani.social/post/27540989)
 6|[Link](https://ani.social/post/28159404)
 7|[Link](https://ani.social/post/28470735)
+8|[Link](https://ani.social/post/28781653)
 {.dense}
 
 ## TRIGUN STARGAZE
