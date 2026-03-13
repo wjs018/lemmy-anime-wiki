@@ -123,6 +123,7 @@ These shows have had episodes air already, but no thread was created because the
 | Wei Miao Rensheng | Reborn as a Cat | https://anilist.co/anime/203710 | Episode 20 |
 | Tensei Shitara Dragon no Tamago Datta | Reincarnated as a Dragon Hatchling | https://anilist.co/anime/187941 | Episode 9 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 131 |
+| Niwatori Fighter | Rooster Fighter | https://anilist.co/anime/179813 | Episode 1 |
 | SI-VIS: The Sound of Heroes | SI-VIS: The Sound of Heroes | https://anilist.co/anime/196553 | Episode 21 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 48 |
 | Tensui no Sakuna-hime: Kokorowa Inasaku Nisshi | Sakuna: Of Rice and Ruin Kokorowa Rice Cultivation Diary | https://anilist.co/anime/184280 | Episode 2 |
@@ -161,5 +162,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Ansatsu Kyoushitsu: Minna no Jikan | Ansatsu Kyoushitsu: Minna no Jikan | https://anilist.co/anime/198373 | March 19 at 15:00 |
 | Oshirimae Man: Fukkatsu no Oshirimae Teikoku | Oshirimae Man: Fukkatsu no Oshirimae Teikoku | https://anilist.co/anime/206857 | March 19 at 15:00 |
-| Niwatori Fighter | Rooster Fighter | https://anilist.co/anime/179813 | March 13 at 17:00 |
 {.dense}
