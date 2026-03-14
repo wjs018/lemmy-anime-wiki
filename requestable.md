@@ -65,7 +65,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ao no Miburo: Serizawa Ansatsu-hen | Blue Miburo Season 2 | https://anilist.co/anime/189258 | Episode 12 |
 | Ao no Orchestra Season 2 | Blue Orchestra Season 2 | https://anilist.co/anime/170018 | Episode 21 |
 | Cardfight!! Vanguard: Divinez Genma Seisen-hen | Cardfight!! Vanguard: Divinez Genma Seisen-hen | https://anilist.co/anime/203296 | Episode 8 |
-| Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1192 |
+| Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1193 |
 | Ugoku! Neko Mukashi Banashi | Cat Tales | https://anilist.co/anime/188529 | Episode 22 |
 | Mato Seihei no Slave 2 | Chained Soldier Season 2 | https://anilist.co/anime/176276 | Episode 10 |
 | Champignon no Majo | Champignon Witch | https://anilist.co/anime/185514 | Episode 11 |
