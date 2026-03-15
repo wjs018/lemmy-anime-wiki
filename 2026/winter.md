@@ -171,6 +171,7 @@ Episode|Link
 7|[Link](https://ani.social/post/27929780)
 8|[Link](https://ani.social/post/28236049)
 9|[Link](https://ani.social/post/28546823)
+10|[Link](https://ani.social/post/28863106)
 {.dense}
 
 ## Kirei ni Shitemoraemasu ka. • Wash It All Away
