@@ -105,7 +105,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 49 |
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 24 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 50 |
-| Majutsushi Kunon wa Mieteiru | Kunon the Sorcerer Can See | https://anilist.co/anime/186333 | Episode 11 |
+| Majutsushi Kunon wa Mieteiru | Kunon the Sorcerer Can See | https://anilist.co/anime/186333 | Episode 12 |
 | MUZIK TIGER In the Forest 2 | MUZIK TIGER In the Forest 2 | https://anilist.co/anime/195383 | Episode 20 |
 | Mu Shen Ji 3 | Mu Shen Ji 3 | https://anilist.co/anime/203953 | Episode 22 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 207 |
