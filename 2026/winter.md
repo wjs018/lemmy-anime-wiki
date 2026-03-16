@@ -190,6 +190,7 @@ Episode|Link
 8|[Link](https://ani.social/post/27979869)
 9|[Link](https://ani.social/post/28289080)
 10|[Link](https://ani.social/post/28598644)
+11|[Link](https://ani.social/post/28917345)
 {.dense}
 
 ## MF Ghost 3rd Season • MF GHOST Season 3
@@ -407,6 +408,7 @@ Episode|Link
 8|[Link](https://ani.social/post/27982246)
 9|[Link](https://ani.social/post/28289083)
 10|[Link](https://ani.social/post/28598647)
+11|[Link](https://ani.social/post/28917448)
 {.dense}
 
 ## Watashi ga Koibito ni Nareru Wake Naijan, Murimuri! (※Muri ja Nakatta!?): Next Shine! • There's No Freaking Way I'll Be Your Lover! Unless… ~Next Shine~
