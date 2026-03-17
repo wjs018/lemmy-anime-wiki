@@ -226,6 +226,7 @@ Episode|Link
 9|[Link](https://ani.social/post/28022301)
 10|[Link](https://ani.social/post/28333810)
 11|[Link](https://ani.social/post/28644511)
+12|[Link](https://ani.social/post/28961047)
 {.dense}
 
 ## Mato Seihei no Slave 2 • Chained Soldier Season 2
