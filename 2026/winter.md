@@ -127,6 +127,7 @@ Episode|Link
 8|[Link](https://ani.social/post/28025928)
 9|[Link](https://ani.social/post/28336036)
 10|[Link](https://ani.social/post/28646517)
+11|[Link](https://ani.social/post/28963759)
 {.dense}
 
 ## Jigokuraku 2nd Season • Hell’s Paradise Season 2
@@ -248,6 +249,7 @@ Episode|Link
 8|[Link](https://ani.social/post/28082673)
 9|[Link](https://ani.social/post/28336035)
 10|[Link](https://ani.social/post/28646516)
+11|[Link](https://ani.social/post/28963757)
 {.dense}
 
 ## Medalist 2nd Season • Medalist Season 2
