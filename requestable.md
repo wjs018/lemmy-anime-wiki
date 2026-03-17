@@ -23,7 +23,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | [Link](https://ani.social/post/28735814) |
 | Jigokuraku 2nd Season | Hell’s Paradise Season 2 | https://anilist.co/anime/166613 | [Link](https://ani.social/post/28876286) |
 | Uruwashi no Yoi no Tsuki | In the Clear Moonlit Dusk | https://anilist.co/anime/192507 | [Link](https://ani.social/post/28861470) |
-| Isekai no Sata wa Shachiku Shidai | Isekai Office Worker: The Other World's Books Depend on the Bean Counter | https://anilist.co/anime/183661 | [Link](https://ani.social/post/28646517) |
+| Isekai no Sata wa Shachiku Shidai | Isekai Office Worker: The Other World's Books Depend on the Bean Counter | https://anilist.co/anime/183661 | [Link](https://ani.social/post/28963759) |
 | Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen | JUJUTSU KAISEN Season 3: The Culling Game Part 1 | https://anilist.co/anime/172463 | [Link](https://ani.social/post/28740861) |
 | Ikoku Nikki | Journal with Witch | https://anilist.co/anime/177385 | [Link](https://ani.social/post/28877067) |
 | Kaya-chan wa Kowakunai | Kaya-chan Isn't Scary | https://anilist.co/anime/183660 | [Link](https://ani.social/post/28863106) |
@@ -39,7 +39,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Tamon-kun Ima Docchi!? | Tamon's B-Side | https://anilist.co/anime/178005 | [Link](https://ani.social/post/28694182) |
 | Maou no Musume wa Yasashi Sugiru!! | The Demon King's Daughter is Too Kind!! | https://anilist.co/anime/194742 | [Link](https://ani.social/post/28961047) |
 | Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari | The Invisible Man and His Soon-to-Be Wife | https://anilist.co/anime/185039 | [Link](https://ani.social/post/28738673) |
-| Mayonaka Heart Tune | Tune In to the Midnight Heart | https://anilist.co/anime/187942 | [Link](https://ani.social/post/28646516) |
+| Mayonaka Heart Tune | Tune In to the Midnight Heart | https://anilist.co/anime/187942 | [Link](https://ani.social/post/28963757) |
 | Kirei ni Shitemoraemasu ka. | Wash It All Away | https://anilist.co/anime/194028 | [Link](https://ani.social/post/28917345) |
 | Seihantai na Kimi to Boku | You and I Are Polar Opposites | https://anilist.co/anime/184951 | [Link](https://ani.social/post/28862188) |
 | [Oshi no Ko] 3rd Season | 【OSHI NO KO】Season 3 | https://anilist.co/anime/182587 | [Link](https://ani.social/post/28691343) |
@@ -140,7 +140,7 @@ These shows have had episodes air already, but no thread was created because the
 | Eris no Seihai | The Holy Grail of Eris | https://anilist.co/anime/183270 | Episode 10 |
 | Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru | The Villainess Is Adored by the Prince of the Neighbor Kingdom | https://anilist.co/anime/195518 | Episode 10 |
 | Yami Shibai 16 | Theatre of Darkness: Yamishibai 16 | https://anilist.co/anime/203939 | Episode 10 |
-| Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita. | There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her | https://anilist.co/anime/195515 | Episode 10 |
+| Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita. | There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her | https://anilist.co/anime/195515 | Episode 11 |
 | Fumetsu no Anata e Season 3 | To Your Eternity Season 3 | https://anilist.co/anime/162669 | Episode 19 |
 | Toujima Tanzaburou wa Kamen Rider ni Naritai | Tojima Wants to Be a Kamen Rider | https://anilist.co/anime/187464 | Episode 23 |
 | Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 364 |
