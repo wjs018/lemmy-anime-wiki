@@ -127,7 +127,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2823 |
 | Yuusha no Kuzu | Scum of the Brave | https://anilist.co/anime/187989 | Episode 10 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1326 |
-| Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 152 |
+| Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 153 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 144 |
 | Yamato yo Towa ni: REBEL3199 | Star Blazers: Space Battleship Yamato 3199 | https://anilist.co/anime/144779 | Episode 15 |
 | Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 7 |
