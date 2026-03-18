@@ -272,6 +272,7 @@ Episode|Link
 :-:|:-:
 9|[Link](https://ani.social/post/28387222)
 10|[Link](https://ani.social/post/28694181)
+11|[Link](https://ani.social/post/29015116)
 {.dense}
 
 ## Okiraku Ryoushu no Tanoshii Ryouchi Bouei • Easygoing Territory Defense by the Optimistic Lord
@@ -372,6 +373,7 @@ Episode|Link
 9|[Link](https://ani.social/post/28130246)
 10|[Link](https://ani.social/post/28383937)
 11|[Link](https://ani.social/post/28694182)
+12|[Link](https://ani.social/post/29015117)
 {.dense}
 
 ## Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari • The Invisible Man and His Soon-to-Be Wife
