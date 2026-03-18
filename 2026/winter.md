@@ -287,6 +287,7 @@ Episode|Link
 7|[Link](https://ani.social/post/27759251)
 9|[Link](https://ani.social/post/28510756)
 10|[Link](https://ani.social/post/28688952)
+11|[Link](https://ani.social/post/29010075)
 {.dense}
 
 ## Osananajimi to wa Love Comedy ni Naranai • You Can't Be In a Rom-Com with Your Childhood Friends!
