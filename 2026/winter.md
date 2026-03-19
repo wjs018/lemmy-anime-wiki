@@ -217,6 +217,7 @@ Episode|Link
 9|[Link](https://ani.social/post/28114956)
 10|[Link](https://ani.social/post/28427560)
 11|[Link](https://ani.social/post/28738674)
+12|[Link](https://ani.social/post/29056186)
 {.dense}
 
 ## Maou no Musume wa Yasashi Sugiru!! • The Demon King's Daughter is Too Kind!!
