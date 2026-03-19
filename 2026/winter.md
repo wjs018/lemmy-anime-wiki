@@ -146,6 +146,13 @@ Episode|Link
 10|[Link](https://ani.social/post/28876286)
 {.dense}
 
+## JoJo no Kimyou na Bouken: Steel Ball Run • STEEL BALL RUN JoJo's Bizarre Adventure
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/29040012)
+{.dense}
+
 ## Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen • JUJUTSU KAISEN Season 3: The Culling Game Part 1
 
 Episode|Link
