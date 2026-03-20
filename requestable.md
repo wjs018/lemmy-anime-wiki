@@ -70,7 +70,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chatter Chatter | Chatter Chatter | https://anilist.co/anime/208370 | Episode 1 |
 | Chibi Godzilla no Gyakushuu 3 | Chibi Godzilla Raids Again Season 3 | https://anilist.co/anime/193883 | Episode 38 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 327 |
-| DARK MOON: Kuro no Tsuki - Tsuki no Saidan | DARK MOON: THE BLOOD ALTAR | https://anilist.co/anime/181443 | Episode 10 |
+| DARK MOON: Kuro no Tsuki - Tsuki no Saidan | DARK MOON: THE BLOOD ALTAR | https://anilist.co/anime/181443 | Episode 11 |
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | Episode 22 |
 | Dead Account | Dead Account | https://anilist.co/anime/187901 | Episode 10 |
 | Android wa Keiken Ninzuu ni Hairimasu ka?? | Does it Count if You Lose Your Innocence to an Android? | https://anilist.co/anime/192867 | Episode 8 |
