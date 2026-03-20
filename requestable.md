@@ -18,7 +18,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Odayaka Kizoku no Kyuuka no Susume. | A Gentle Noble's Vacation Recommendation | https://anilist.co/anime/182771 | [Link](https://ani.social/post/29015116) |
 | Okiraku Ryoushu no Tanoshii Ryouchi Bouei | Easygoing Territory Defense by the Optimistic Lord | https://anilist.co/anime/191205 | [Link](https://ani.social/post/29010075) |
 | Fate/strange Fake | Fate/strange Fake | https://anilist.co/anime/166617 | [Link](https://ani.social/post/28829342) |
-| Sousou no Frieren 2nd Season | Frieren: Beyond Journey’s End Season 2 | https://anilist.co/anime/182255 | [Link](https://ani.social/post/28781653) |
+| Sousou no Frieren 2nd Season | Frieren: Beyond Journey’s End Season 2 | https://anilist.co/anime/182255 | [Link](https://ani.social/post/29097523) |
 | Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | [Link](https://ani.social/post/29052223) |
 | Jigokuraku 2nd Season | Hell’s Paradise Season 2 | https://anilist.co/anime/166613 | [Link](https://ani.social/post/28876286) |
 | Uruwashi no Yoi no Tsuki | In the Clear Moonlit Dusk | https://anilist.co/anime/192507 | [Link](https://ani.social/post/28861470) |
