@@ -75,6 +75,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/25556476)
+11|[Link](https://ani.social/post/29161259)
 {.dense}
 
 ## Goumon Baito-kun no Nichijou • The Daily Life of a Part-time Torturer
