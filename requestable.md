@@ -48,7 +48,7 @@ These shows have had episodes air already, but no thread was created because the
 
 | Show Name | English Show Name | AniList Link | Most Recently Episode Number  |
 | :-------- | :---------------- | :----------- | :--------------------------: |
-| Jingai Kyoushitsu no Ningengirai Kyoushi | A Misanthrope Teaches a Class for Demi-Humans | https://anilist.co/anime/198374 | Episode 10 |
+| Jingai Kyoushitsu no Ningengirai Kyoushi | A Misanthrope Teaches a Class for Demi-Humans | https://anilist.co/anime/198374 | Episode 11 |
 | 29-sai Dokushin Chuuken Boukensha no Nichijou | An Adventurer’s Daily Grind at Age 29 | https://anilist.co/anime/192261 | Episode 11 |
 | Ansatsu Kyoushitsu: Minna no Jikan | Ansatsu Kyoushitsu: Minna no Jikan | https://anilist.co/anime/198373 | Episode 1 |
 | Douse, Koishite Shimaunda. Season 2 | Anyway, I'm Falling in Love with You. Season 2 | https://anilist.co/anime/189137 | Episode 11 |
@@ -105,7 +105,7 @@ These shows have had episodes air already, but no thread was created because the
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 25 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 50 |
 | Majutsushi Kunon wa Mieteiru | Kunon the Sorcerer Can See | https://anilist.co/anime/186333 | Episode 12 |
-| Mu Shen Ji 3 | Mu Shen Ji 3 | https://anilist.co/anime/203953 | Episode 22 |
+| Mu Shen Ji 3 | Mu Shen Ji 3 | https://anilist.co/anime/203953 | Episode 23 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 208 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 49 |
 | Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru | Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power | https://anilist.co/anime/185993 | Episode 11 |
@@ -128,7 +128,6 @@ These shows have had episodes air already, but no thread was created because the
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1327 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 153 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 145 |
-| Yamato yo Towa ni: REBEL3199 | Star Blazers: Space Battleship Yamato 3199 | https://anilist.co/anime/144779 | Episode 15 |
 | Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 7 |
 | TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 9 |
 | TRIGUN STARGAZE | TRIGUN STARGAZE | https://anilist.co/anime/163144 | Episode 11 |
