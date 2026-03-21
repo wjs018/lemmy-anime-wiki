@@ -19,6 +19,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Okiraku Ryoushu no Tanoshii Ryouchi Bouei | Easygoing Territory Defense by the Optimistic Lord | https://anilist.co/anime/191205 | [Link](https://ani.social/post/29010075) |
 | Sousou no Frieren 2nd Season | Frieren: Beyond Journey’s End Season 2 | https://anilist.co/anime/182255 | [Link](https://ani.social/post/29097523) |
 | Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | [Link](https://ani.social/post/29052223) |
+| Golden Kamuy: Saishuushou | Golden Kamuy Final Season | https://anilist.co/anime/166521 | [Link](https://ani.social/post/29161259) |
 | Jigokuraku 2nd Season | Hell’s Paradise Season 2 | https://anilist.co/anime/166613 | [Link](https://ani.social/post/28876286) |
 | Uruwashi no Yoi no Tsuki | In the Clear Moonlit Dusk | https://anilist.co/anime/192507 | [Link](https://ani.social/post/28861470) |
 | Isekai no Sata wa Shachiku Shidai | Isekai Office Worker: The Other World's Books Depend on the Bean Counter | https://anilist.co/anime/183661 | [Link](https://ani.social/post/28963759) |
@@ -84,7 +85,6 @@ These shows have had episodes air already, but no thread was created because the
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | Episode 11 |
 | GelPiyo | GelPiyo | https://anilist.co/anime/204698 | Episode 9 |
 | Girls und Panzer: Motto Love Love Sakusen desu! | Girls und Panzer: Motto Love Love Sakusen desu! | https://anilist.co/anime/188034 | Episode 3 |
-| Golden Kamuy: Saishuushou | Golden Kamuy Final Season | https://anilist.co/anime/166521 | Episode 11 |
 | Hell Mode: Yarikomi Suki no Gamer wa Haisettei no Isekai de Musou Suru | HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing | https://anilist.co/anime/185262 | Episode 11 |
 | Hanazakari no Kimitachi e | Hana-Kimi | https://anilist.co/anime/177580 | Episode 12 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 648 |
