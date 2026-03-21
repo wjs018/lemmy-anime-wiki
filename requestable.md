@@ -131,6 +131,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yamato yo Towa ni: REBEL3199 | Star Blazers: Space Battleship Yamato 3199 | https://anilist.co/anime/144779 | Episode 15 |
 | Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 7 |
 | TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 9 |
+| TRIGUN STARGAZE | TRIGUN STARGAZE | https://anilist.co/anime/163144 | Episode 11 |
 | Tensei Shitara Slime Datta Ken - Soukai no Namida-hen | That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea | https://anilist.co/anime/182206 | Episode 1 |
 | Arne no Jikenbo | The Case Book of Arne | https://anilist.co/anime/183984 | Episode 11 |
 | Goumon Baito-kun no Nichijou | The Daily Life of a Part-time Torturer | https://anilist.co/anime/197731 | Episode 11 |
@@ -162,6 +163,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | PetitCure: Precure Fairies Season 3 | PetitCure: Precure Fairies Season 3 | https://anilist.co/anime/209541 | March 25 at 21:30 |
 | Shunkashuutou Daikousha: Haru no Mai | Shunkashuutou Daikousha: Haru no Mai | https://anilist.co/anime/190143 | March 28 at 15:00 |
 | THE IDOLM@STER Million Live!: Itsuka, Mannaka de | THE IDOLM@STER Million Live!: Itsuka, Mannaka de | https://anilist.co/anime/187375 | March 26 at 15:00 |
-| TRIGUN STARGAZE | TRIGUN STARGAZE | https://anilist.co/anime/163144 | March 21 at 15:00 |
 | Uso Tantei Tomanto | Uso Tantei Tomanto | https://anilist.co/anime/199008 | March 22 at 02:00 |
 {.dense}
