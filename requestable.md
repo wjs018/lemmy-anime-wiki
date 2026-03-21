@@ -124,7 +124,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 49 |
 | Tensui no Sakuna-hime: Kokorowa Inasaku Nisshi | Sakuna: Of Rice and Ruin Kokorowa Rice Cultivation Diary | https://anilist.co/anime/184280 | Episode 2 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2823 |
-| Yuusha no Kuzu | Scum of the Brave | https://anilist.co/anime/187989 | Episode 10 |
+| Yuusha no Kuzu | Scum of the Brave | https://anilist.co/anime/187989 | Episode 11 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1327 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 153 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 145 |
