@@ -130,7 +130,7 @@ These shows have had episodes air already, but no thread was created because the
 | TRIGUN STARGAZE | TRIGUN STARGAZE | https://anilist.co/anime/163144 | Episode 11 |
 | Tensei Shitara Slime Datta Ken - Soukai no Namida-hen | That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea | https://anilist.co/anime/182206 | Episode 1 |
 | Arne no Jikenbo | The Case Book of Arne | https://anilist.co/anime/183984 | Episode 11 |
-| Goumon Baito-kun no Nichijou | The Daily Life of a Part-time Torturer | https://anilist.co/anime/197731 | Episode 11 |
+| Goumon Baito-kun no Nichijou | The Daily Life of a Part-time Torturer | https://anilist.co/anime/197731 | Episode 12 |
 | Xian Wang de Richang Shenghuo 5 | The Daily Life of the Immortal King Season 5 | https://anilist.co/anime/185857 | Episode 12 |
 | Darwin Jihen | The Darwin Incident | https://anilist.co/anime/177679 | Episode 11 |
 | Eris no Seihai | The Holy Grail of Eris | https://anilist.co/anime/183270 | Episode 11 |
