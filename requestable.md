@@ -103,7 +103,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kagaku×Bouken Survival! 2nd Season | Kagaku×Bouken Survival! 2nd Season | https://anilist.co/anime/186736 | Episode 20 |
 | Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 50 |
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 25 |
-| Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 50 |
+| Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 51 |
 | Majutsushi Kunon wa Mieteiru | Kunon the Sorcerer Can See | https://anilist.co/anime/186333 | Episode 12 |
 | Mu Shen Ji 3 | Mu Shen Ji 3 | https://anilist.co/anime/203953 | Episode 23 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 208 |
@@ -128,7 +128,7 @@ These shows have had episodes air already, but no thread was created because the
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1327 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 153 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 145 |
-| Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 7 |
+| Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 8 |
 | TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 9 |
 | TRIGUN STARGAZE | TRIGUN STARGAZE | https://anilist.co/anime/163144 | Episode 11 |
 | Tensei Shitara Slime Datta Ken - Soukai no Namida-hen | That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea | https://anilist.co/anime/182206 | Episode 1 |
