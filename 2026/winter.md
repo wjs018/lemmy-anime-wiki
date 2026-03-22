@@ -117,6 +117,7 @@ Episode|Link
 9|[Link](https://ani.social/post/28248457)
 10|[Link](https://ani.social/post/28559003)
 11|[Link](https://ani.social/post/28877067)
+12|[Link](https://ani.social/post/29187361)
 {.dense}
 
 ## Isekai no Sata wa Shachiku Shidai • Isekai Office Worker: The Other World's Books Depend on the Bean Counter
@@ -471,6 +472,13 @@ Episode|Link
 9|[Link](https://ani.social/post/28425057)
 10|[Link](https://ani.social/post/28736686)
 11|[Link](https://ani.social/post/29053525)
+{.dense}
+
+## Yuusha no Kuzu • Scum of the Brave
+
+Episode|Link
+:-:|:-:
+11|[Link](https://ani.social/post/29187364)
 {.dense}
 
 ## [Oshi no Ko] 3rd Season • 【OSHI NO KO】Season 3
