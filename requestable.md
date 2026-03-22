@@ -101,7 +101,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 50 |
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 25 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 51 |
-| Majutsushi Kunon wa Mieteiru | Kunon the Sorcerer Can See | https://anilist.co/anime/186333 | Episode 12 |
+| Majutsushi Kunon wa Mieteiru | Kunon the Sorcerer Can See | https://anilist.co/anime/186333 | Episode 13 |
 | Mu Shen Ji 3 | Mu Shen Ji 3 | https://anilist.co/anime/203953 | Episode 23 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 208 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 49 |
@@ -154,6 +154,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Chitose-kun wa Ramune Bin no Naka | Chitose Is in the Ramune Bottle | https://anilist.co/anime/180082 | March 30 at 15:30 |
 | Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki | Classroom of the Elite 4th Season: Second Year, First Semester | https://anilist.co/anime/180745 | March 31 at 15:00 |
+| Dorohedoro Season 2 | Dorohedoro Season 2 | https://anilist.co/anime/173172 | April 01 at 14:00 |
 | Entotsu-machi no Poupelle: Yakusoku no Tokei-dai | Entotsu-machi no Poupelle: Yakusoku no Tokei-dai | https://anilist.co/anime/190668 | March 26 at 15:00 |
 | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta | https://anilist.co/anime/170110 | March 29 at 15:00 |
 | Maid-san wa Taberu dake | Maid-san wa Taberu dake | https://anilist.co/anime/197868 | March 31 at 15:00 |
