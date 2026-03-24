@@ -171,6 +171,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Soushen Ji | Soushen Ji | https://anilist.co/anime/166437 | March 25 at 01:00 |
 | THE IDOLM@STER Million Live!: Itsuka, Mannaka de | THE IDOLM@STER Million Live!: Itsuka, Mannaka de | https://anilist.co/anime/187375 | March 26 at 15:00 |
 | Tensei Akujo no Kuro Rekishi OVA | Tensei Akujo no Kuro Rekishi OVA | https://anilist.co/anime/205054 | April 02 at 15:00 |
+| Tensei Shitara Slime Datta Ken 4th Season | That Time I Got Reincarnated as a Slime Season 4 | https://anilist.co/anime/182205 | April 03 at 14:00 |
 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season | The Beginning After the End Season 2 | https://anilist.co/anime/194317 | April 01 at 14:30 |
 | Koori no Jouheki | The Ramparts of Ice | https://anilist.co/anime/186497 | April 02 at 14:56 |
 {.dense}
