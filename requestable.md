@@ -178,4 +178,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Tensei Shitara Slime Datta Ken 4th Season | That Time I Got Reincarnated as a Slime Season 4 | https://anilist.co/anime/182205 | April 03 at 14:00 |
 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season | The Beginning After the End Season 2 | https://anilist.co/anime/194317 | April 01 at 14:30 |
 | Koori no Jouheki | The Ramparts of Ice | https://anilist.co/anime/186497 | April 02 at 14:56 |
+| Mairimashita! Iruma-kun 4 | Welcome to Demon School! Iruma-kun Season 4 | https://anilist.co/anime/184492 | April 04 at 09:26 |
 {.dense}
