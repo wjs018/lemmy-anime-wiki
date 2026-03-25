@@ -293,6 +293,7 @@ Episode|Link
 9|[Link](https://ani.social/post/28387222)
 10|[Link](https://ani.social/post/28694181)
 11|[Link](https://ani.social/post/29015116)
+12|[Link](https://ani.social/post/29324803)
 {.dense}
 
 ## Okiraku Ryoushu no Tanoshii Ryouchi Bouei • Easygoing Territory Defense by the Optimistic Lord
