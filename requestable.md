@@ -167,6 +167,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | https://anilist.co/anime/198939 | April 01 at 13:00 |
 | Kirio Fanclub | Kirio Fanclub | https://anilist.co/anime/181284 | April 02 at 15:26 |
 | MAO | MAO | https://anilist.co/anime/196012 | April 04 at 14:46 |
+| Mahou no Shimai Lulutto Lilly | Mahou no Shimai Lulutto Lilly | https://anilist.co/anime/178749 | April 05 at 13:30 |
 | Maid-san wa Taberu dake | Maid-san wa Taberu dake | https://anilist.co/anime/197868 | March 31 at 15:00 |
 | Mata Korosarete Shimatta no desu ne, Tantei-sama | Mata Korosarete Shimatta no desu ne, Tantei-sama | https://anilist.co/anime/202381 | April 02 at 16:58 |
 | Kanan-sama wa Akumade Choroi | Mistress Kanan is Devilishly Easy | https://anilist.co/anime/190704 | April 04 at 16:00 |
