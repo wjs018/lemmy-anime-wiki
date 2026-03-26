@@ -479,6 +479,7 @@ Episode|Link
 9|[Link](https://ani.social/post/28425057)
 10|[Link](https://ani.social/post/28736686)
 11|[Link](https://ani.social/post/29053525)
+12|[Link](https://ani.social/post/29366193)
 {.dense}
 
 ## Yuusha no Kuzu • Scum of the Brave
