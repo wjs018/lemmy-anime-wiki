@@ -79,7 +79,7 @@ These shows have had episodes air already, but no thread was created because the
 | Fate/strange Fake | Fate/strange Fake | https://anilist.co/anime/166617 | Episode 12 |
 | Enen no Shouboutai: San no Shou Part 2 | Fire Force Season 3 Part 2 | https://anilist.co/anime/179062 | Episode 11 |
 | Fukufuku no Chizu | Fukufuku no Chizu | https://anilist.co/anime/206889 | Episode 1 |
-| GANGLION | GANGLION | https://anilist.co/anime/198117 | Episode 23 |
+| GANGLION | GANGLION | https://anilist.co/anime/198117 | Episode 24 |
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | Episode 11 |
 | GelPiyo | GelPiyo | https://anilist.co/anime/204698 | Episode 10 |
 | Girls und Panzer: Motto Love Love Sakusen desu! | Girls und Panzer: Motto Love Love Sakusen desu! | https://anilist.co/anime/188034 | Episode 3 |
@@ -192,6 +192,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Tensei Akujo no Kuro Rekishi OVA | Tensei Akujo no Kuro Rekishi OVA | https://anilist.co/anime/205054 | April 02 at 15:00 |
 | Tensei Shitara Slime Datta Ken 4th Season | That Time I Got Reincarnated as a Slime Season 4 | https://anilist.co/anime/182205 | April 03 at 14:00 |
 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season | The Beginning After the End Season 2 | https://anilist.co/anime/194317 | April 01 at 14:30 |
+| Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi | The Klutzy Class Monitor and the Girl with the Short Skirt | https://anilist.co/anime/189987 | April 06 at 14:24 |
 | Koori no Jouheki | The Ramparts of Ice | https://anilist.co/anime/186497 | April 02 at 14:56 |
 | Mairimashita! Iruma-kun 4 | Welcome to Demon School! Iruma-kun Season 4 | https://anilist.co/anime/184492 | April 04 at 09:26 |
 | Tongari Boushi no Atelier | Witch Hat Atelier | https://anilist.co/anime/147105 | April 06 at 14:00 |
