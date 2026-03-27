@@ -17,7 +17,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Hime-sama, "Goumon" no Jikan desu 2nd Season | 'Tis Time for "Torture," Princess Season 2 | https://anilist.co/anime/176370 | [Link](https://ani.social/post/29229249) |
 | Odayaka Kizoku no Kyuuka no Susume. | A Gentle Noble's Vacation Recommendation | https://anilist.co/anime/182771 | [Link](https://ani.social/post/29324803) |
 | Okiraku Ryoushu no Tanoshii Ryouchi Bouei | Easygoing Territory Defense by the Optimistic Lord | https://anilist.co/anime/191205 | [Link](https://ani.social/post/29319348) |
-| Sousou no Frieren 2nd Season | Frieren: Beyond Journey’s End Season 2 | https://anilist.co/anime/182255 | [Link](https://ani.social/post/29097523) |
+| Sousou no Frieren 2nd Season | Frieren: Beyond Journey’s End Season 2 | https://anilist.co/anime/182255 | [Link](https://ani.social/post/29412262) |
 | Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | [Link](https://ani.social/post/29364725) |
 | Golden Kamuy: Saishuushou | Golden Kamuy Final Season | https://anilist.co/anime/166521 | [Link](https://ani.social/post/29227783) |
 | Jigokuraku 2nd Season | Hell’s Paradise Season 2 | https://anilist.co/anime/166613 | [Link](https://ani.social/post/29186336) |
@@ -171,6 +171,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta | https://anilist.co/anime/170110 | March 29 at 15:00 |
 | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | https://anilist.co/anime/198939 | April 01 at 13:00 |
 | Kirio Fanclub | Kirio Fanclub | https://anilist.co/anime/181284 | April 02 at 15:26 |
+| LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | April 06 at 15:00 |
 | MAO | MAO | https://anilist.co/anime/196012 | April 04 at 14:46 |
 | Mahou no Shimai Lulutto Lilly | Mahou no Shimai Lulutto Lilly | https://anilist.co/anime/178749 | April 05 at 13:30 |
 | Maid-san wa Taberu dake | Maid-san wa Taberu dake | https://anilist.co/anime/197868 | March 31 at 15:00 |
