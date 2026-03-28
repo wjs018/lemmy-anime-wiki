@@ -65,7 +65,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | JoJo no Kimyou na Bouken: Steel Ball Run | STEEL BALL RUN JoJo's Bizarre Adventure | https://anilist.co/anime/190327 | [Link](https://ani.social/post/29040012) |
 | Yuusha no Kuzu | Scum of the Brave | https://anilist.co/anime/187989 | [Link](https://ani.social/post/29187364) |
 | Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku | Sentenced to Be a Hero | https://anilist.co/anime/167152 | [Link](https://ani.social/post/29366193) |
-| Shunkashuutou Daikousha: Haru no Mai | Shunkashuutou Daikousha: Haru no Mai | https://anilist.co/anime/190143 |  |
+| Shunkashuutou Daikousha: Haru no Mai | Shunkashuutou Daikousha: Haru no Mai | https://anilist.co/anime/190143 | [Link](https://ani.social/post/29457731) |
 | Snowball Earth | Snowball Earth | https://anilist.co/anime/196144 |  |
 | Tadaima, Ojamasaremasu! | Tadaima, Ojamasaremasu! | https://anilist.co/anime/202985 |  |
 | Tamon-kun Ima Docchi!? | Tamon's B-Side | https://anilist.co/anime/178005 | [Link](https://ani.social/post/29369973) |
@@ -114,7 +114,6 @@ These shows have had episodes air already, but no thread was created because the
 | Android wa Keiken Ninzuu ni Hairimasu ka?? | Does it Count if You Lose Your Innocence to an Android? | https://anilist.co/anime/192867 | Episode 8 |
 | Dokodemo Makibao: World Tour | Dokodemo Makibao: World Tour | https://anilist.co/anime/199931 | Episode 23 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 908 |
-| Doraemon: Shin Nobita no Kaitei Kiganjou | Doraemon: Shin Nobita no Kaitei Kiganjou | https://anilist.co/anime/198368 | Episode 1 |
 | Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | Episode 34 |
 | Duel Masters LOST: Boukyaku no Taiyou | Duel Masters LOST: Boukyaku no Taiyou | https://anilist.co/anime/187508 | Episode 4 |
 | Entotsu-machi no Poupelle: Yakusoku no Tokei-dai | Entotsu-machi no Poupelle: Yakusoku no Tokei-dai | https://anilist.co/anime/190668 | Episode 1 |
@@ -173,8 +172,7 @@ These shows have had episodes air already, but no thread was created because the
 | Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 8 |
 | THE IDOLM@STER Million Live!: Itsuka, Mannaka de | THE IDOLM@STER Million Live!: Itsuka, Mannaka de | https://anilist.co/anime/187375 | Episode 1 |
 | TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 9 |
-| TRIGUN STARGAZE | TRIGUN STARGAZE | https://anilist.co/anime/163144 | Episode 11 |
-| Tensei Shitara Slime Datta Ken - Soukai no Namida-hen | That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea | https://anilist.co/anime/182206 | Episode 1 |
+| TRIGUN STARGAZE | TRIGUN STARGAZE | https://anilist.co/anime/163144 | Episode 12 |
 | Arne no Jikenbo | The Case Book of Arne | https://anilist.co/anime/183984 | Episode 12 |
 | Goumon Baito-kun no Nichijou | The Daily Life of a Part-time Torturer | https://anilist.co/anime/197731 | Episode 12 |
 | Darwin Jihen | The Darwin Incident | https://anilist.co/anime/177679 | Episode 12 |
