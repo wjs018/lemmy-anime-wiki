@@ -110,7 +110,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 329 |
 | DARK MOON: Kuro no Tsuki - Tsuki no Saidan | DARK MOON: THE BLOOD ALTAR | https://anilist.co/anime/181443 | Episode 12 |
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | Episode 23 |
-| Dead Account | Dead Account | https://anilist.co/anime/187901 | Episode 11 |
+| Dead Account | Dead Account | https://anilist.co/anime/187901 | Episode 12 |
 | Android wa Keiken Ninzuu ni Hairimasu ka?? | Does it Count if You Lose Your Innocence to an Android? | https://anilist.co/anime/192867 | Episode 8 |
 | Dokodemo Makibao: World Tour | Dokodemo Makibao: World Tour | https://anilist.co/anime/199931 | Episode 23 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 908 |
@@ -118,7 +118,7 @@ These shows have had episodes air already, but no thread was created because the
 | Duel Masters LOST: Boukyaku no Taiyou | Duel Masters LOST: Boukyaku no Taiyou | https://anilist.co/anime/187508 | Episode 4 |
 | Entotsu-machi no Poupelle: Yakusoku no Tokei-dai | Entotsu-machi no Poupelle: Yakusoku no Tokei-dai | https://anilist.co/anime/190668 | Episode 1 |
 | Fashion Beat | Fashion Beat | https://anilist.co/anime/208551 | Episode 1 |
-| Fate/strange Fake | Fate/strange Fake | https://anilist.co/anime/166617 | Episode 12 |
+| Fate/strange Fake | Fate/strange Fake | https://anilist.co/anime/166617 | Episode 13 |
 | Enen no Shouboutai: San no Shou Part 2 | Fire Force Season 3 Part 2 | https://anilist.co/anime/179062 | Episode 12 |
 | Fukufuku no Chizu | Fukufuku no Chizu | https://anilist.co/anime/206889 | Episode 1 |
 | GANGLION | GANGLION | https://anilist.co/anime/198117 | Episode 24 |
