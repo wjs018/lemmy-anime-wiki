@@ -16,8 +16,13 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | :-------- | :---------------- | :----------- | :--------------------: |
 | Hime-sama, "Goumon" no Jikan desu 2nd Season | 'Tis Time for "Torture," Princess Season 2 | https://anilist.co/anime/176370 | [Link](https://ani.social/post/29229249) |
 | Odayaka Kizoku no Kyuuka no Susume. | A Gentle Noble's Vacation Recommendation | https://anilist.co/anime/182771 | [Link](https://ani.social/post/29324803) |
+| Akane-banashi | Akane-banashi | https://anilist.co/anime/196935 |  |
+| Honzuki no Gekokujou: Ryoushu no Youjo | Ascendance of a Bookworm: Adopted Daughter of an Archduke | https://anilist.co/anime/171110 |  |
+| Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki | Classroom of the Elite 4th Season: Second Year, First Semester | https://anilist.co/anime/180745 |  |
+| Yomi no Tsugai | Daemons of the Shadow Realm | https://anilist.co/anime/195600 |  |
 | Dr. STONE: SCIENCE FUTURE Part 3 | Dr. STONE SCIENCE FUTURE Cour 3 | https://anilist.co/anime/199221 |  |
 | Okiraku Ryoushu no Tanoshii Ryouchi Bouei | Easygoing Territory Defense by the Optimistic Lord | https://anilist.co/anime/191205 | [Link](https://ani.social/post/29319348) |
+| Isekai Nonbiri Nouka 2 | Farming Life in Another World 2 | https://anilist.co/anime/197824 |  |
 | Sousou no Frieren 2nd Season | Frieren: Beyond Journey’s End Season 2 | https://anilist.co/anime/182255 | [Link](https://ani.social/post/29412262) |
 | Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | [Link](https://ani.social/post/29364725) |
 | Golden Kamuy: Saishuushou | Golden Kamuy Final Season | https://anilist.co/anime/166521 | [Link](https://ani.social/post/29227783) |
@@ -28,18 +33,28 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | https://anilist.co/anime/198939 |  |
 | Ikoku Nikki | Journal with Witch | https://anilist.co/anime/177385 | [Link](https://ani.social/post/29187361) |
 | Kaya-chan wa Kowakunai | Kaya-chan Isn't Scary | https://anilist.co/anime/183660 | [Link](https://ani.social/post/29175333) |
+| Kirio Fanclub | Kirio Fanclub | https://anilist.co/anime/181284 |  |
+| MAO | MAO | https://anilist.co/anime/196012 |  |
 | MF Ghost 3rd Season | MF GHOST Season 3 | https://anilist.co/anime/185753 | [Link](https://ani.social/post/29369000) |
+| NEEDY GIRL OVERDOSE | NEEDY GIRL OVERDOSE | https://anilist.co/anime/202102 |  |
+| Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season | Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season | https://anilist.co/anime/170019 |  |
+| Reincarnation no Kaben | Petals of Reincarnation | https://anilist.co/anime/179950 |  |
 | "Omae Gotoki ga Maou ni Kateru to Omou na" to Yuusha Party wo Tsuihou Sareta node, Outo de Kimama ni Kurashitai | ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword! | https://anilist.co/anime/191718 | [Link](https://ani.social/post/29371328) |
 | Fangkai Nage Nüwu | Release that Witch | https://anilist.co/anime/137662 | [Link](https://ani.social/post/29239432) |
 | JoJo no Kimyou na Bouken: Steel Ball Run | STEEL BALL RUN JoJo's Bizarre Adventure | https://anilist.co/anime/190327 | [Link](https://ani.social/post/29040012) |
 | Yuusha no Kuzu | Scum of the Brave | https://anilist.co/anime/187989 | [Link](https://ani.social/post/29187364) |
 | Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku | Sentenced to Be a Hero | https://anilist.co/anime/167152 | [Link](https://ani.social/post/29366193) |
+| Shunkashuutou Daikousha: Haru no Mai | Shunkashuutou Daikousha: Haru no Mai | https://anilist.co/anime/190143 |  |
+| Snowball Earth | Snowball Earth | https://anilist.co/anime/196144 |  |
 | Tamon-kun Ima Docchi!? | Tamon's B-Side | https://anilist.co/anime/178005 | [Link](https://ani.social/post/29369973) |
+| Tensei Shitara Slime Datta Ken 4th Season | That Time I Got Reincarnated as a Slime Season 4 | https://anilist.co/anime/182205 |  |
 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season | The Beginning After the End Season 2 | https://anilist.co/anime/194317 |  |
 | Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari | The Invisible Man and His Soon-to-Be Wife | https://anilist.co/anime/185039 | [Link](https://ani.social/post/29368998) |
 | Koori no Jouheki | The Ramparts of Ice | https://anilist.co/anime/186497 |  |
 | Mayonaka Heart Tune | Tune In to the Midnight Heart | https://anilist.co/anime/187942 | [Link](https://ani.social/post/29275523) |
 | Kirei ni Shitemoraemasu ka. | Wash It All Away | https://anilist.co/anime/194028 | [Link](https://ani.social/post/29225709) |
+| Mairimashita! Iruma-kun 4 | Welcome to Demon School! Iruma-kun Season 4 | https://anilist.co/anime/184492 |  |
+| Tongari Boushi no Atelier | Witch Hat Atelier | https://anilist.co/anime/147105 |  |
 | Seihantai na Kimi to Boku | You and I Are Polar Opposites | https://anilist.co/anime/184951 | [Link](https://ani.social/post/29174712) |
 | [Oshi no Ko] 3rd Season | 【OSHI NO KO】Season 3 | https://anilist.co/anime/182587 | [Link](https://ani.social/post/29322058) |
 {.dense}
@@ -158,44 +173,29 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
-| Akane-banashi | Akane-banashi | https://anilist.co/anime/196935 | April 04 at 14:30 |
 | Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. | An Observation Log of My Fiancée Who Calls Herself a Villainess | https://anilist.co/anime/192808 | April 06 at 13:00 |
-| Honzuki no Gekokujou: Ryoushu no Youjo | Ascendance of a Bookworm: Adopted Daughter of an Archduke | https://anilist.co/anime/171110 | April 04 at 08:30 |
 | Chitose-kun wa Ramune Bin no Naka | Chitose Is in the Ramune Bottle | https://anilist.co/anime/180082 | March 30 at 15:30 |
-| Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki | Classroom of the Elite 4th Season: Second Year, First Semester | https://anilist.co/anime/180745 | March 31 at 15:00 |
-| Yomi no Tsugai | Daemons of the Shadow Realm | https://anilist.co/anime/195600 | April 04 at 14:30 |
 | Diamond no Ace act II: Second Season | Diamond no Ace act II: Second Season | https://anilist.co/anime/177634 | April 05 at 08:30 |
 | Ookii Onnanoko wa Suki desu ka? | Do You Like Big Girls? | https://anilist.co/anime/204319 | April 05 at 17:05 |
 | Dorohedoro Season 2 | Dorohedoro Season 2 | https://anilist.co/anime/173172 | April 01 at 14:00 |
-| Isekai Nonbiri Nouka 2 | Farming Life in Another World 2 | https://anilist.co/anime/197824 | April 06 at 13:30 |
 | Ghost Concert: missing Songs | GHOST CONCERT : missing Songs | https://anilist.co/anime/201090 | April 05 at 15:30 |
 | Ganbare! Nakamura-kun!! | Go For It, Nakamura-kun!! | https://anilist.co/anime/180228 | April 01 at 15:30 |
 | Haibara-kun no Tsuyokute Seishun New Game | Haibara-kun no Tsuyokute Seishun New Game | https://anilist.co/anime/195333 | April 02 at 16:28 |
 | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta | https://anilist.co/anime/170110 | March 29 at 15:00 |
-| Kirio Fanclub | Kirio Fanclub | https://anilist.co/anime/181284 | April 02 at 15:26 |
 | Komekami! Girls | Komekami! Girls | https://anilist.co/anime/209940 | April 02 at 16:50 |
 | LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | April 06 at 15:00 |
-| MAO | MAO | https://anilist.co/anime/196012 | April 04 at 14:46 |
 | Mahou no Shimai Lulutto Lilly | Mahou no Shimai Lulutto Lilly | https://anilist.co/anime/178749 | April 05 at 13:30 |
 | Maid-san wa Taberu dake | Maid-san wa Taberu dake | https://anilist.co/anime/197868 | March 31 at 15:00 |
 | Marika-chan no Koukando wa Bukkowareteiru | Marika's Love Meter Malfunction | https://anilist.co/anime/202523 | April 05 at 17:00 |
 | Mata Korosarete Shimatta no desu ne, Tantei-sama | Mata Korosarete Shimatta no desu ne, Tantei-sama | https://anilist.co/anime/202381 | April 02 at 16:58 |
 | Kanan-sama wa Akumade Choroi | Mistress Kanan is Devilishly Easy | https://anilist.co/anime/190704 | April 04 at 16:00 |
-| NEEDY GIRL OVERDOSE | NEEDY GIRL OVERDOSE | https://anilist.co/anime/202102 | April 04 at 15:30 |
 | Nippon Sangoku | NIPPON SANGOKU: The Three Nations of the Crimson Sun | https://anilist.co/anime/206914 | April 05 at 12:00 |
 | Nezumi-kun no Chokki (TV) | Nezumi-kun no Chokki (TV) | https://anilist.co/anime/198411 | April 04 at 00:30 |
 | Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | https://anilist.co/anime/201817 | April 01 at 15:00 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | April 05 at 15:16 |
 | Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | April 05 at 00:30 |
-| Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season | Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season | https://anilist.co/anime/170019 | April 03 at 13:30 |
-| Reincarnation no Kaben | Petals of Reincarnation | https://anilist.co/anime/179950 | April 02 at 15:30 |
 | Rilakkuma: Goyururi Yume no Tabi | Rilakkuma: Goyururi Yume no Tabi | https://anilist.co/anime/183231 | April 04 at 00:26 |
 | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | https://anilist.co/anime/200769 | April 01 at 15:00 |
-| Shunkashuutou Daikousha: Haru no Mai | Shunkashuutou Daikousha: Haru no Mai | https://anilist.co/anime/190143 | March 28 at 15:00 |
-| Snowball Earth | Snowball Earth | https://anilist.co/anime/196144 | April 03 at 14:30 |
 | Tensei Akujo no Kuro Rekishi OVA | Tensei Akujo no Kuro Rekishi OVA | https://anilist.co/anime/205054 | April 02 at 15:00 |
-| Tensei Shitara Slime Datta Ken 4th Season | That Time I Got Reincarnated as a Slime Season 4 | https://anilist.co/anime/182205 | April 03 at 14:00 |
 | Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi | The Klutzy Class Monitor and the Girl with the Short Skirt | https://anilist.co/anime/189987 | April 06 at 14:24 |
-| Mairimashita! Iruma-kun 4 | Welcome to Demon School! Iruma-kun Season 4 | https://anilist.co/anime/184492 | April 04 at 09:26 |
-| Tongari Boushi no Atelier | Witch Hat Atelier | https://anilist.co/anime/147105 | April 06 at 14:00 |
 {.dense}
