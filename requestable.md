@@ -96,7 +96,7 @@ These shows have had episodes air already, but no thread was created because the
 | Douse, Koishite Shimaunda. Season 2 | Anyway, I'm Falling in Love with You. Season 2 | https://anilist.co/anime/189137 | Episode 12 |
 | Atashin'chi NEXT 2 | Atashin'chi NEXT 2 | https://anilist.co/anime/203146 | Episode 5 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 122 |
-| Guangyin Zhi Wai | Beyond Time's Gaze | https://anilist.co/anime/205905 | Episode 13 |
+| Guangyin Zhi Wai | Beyond Time's Gaze | https://anilist.co/anime/205905 | Episode 14 |
 | Black Jack Yanen | Black Jack Yanen | https://anilist.co/anime/205676 | Episode 12 |
 | Ao no Miburo: Serizawa Ansatsu-hen | Blue Miburo Season 2 | https://anilist.co/anime/189258 | Episode 14 |
 | Ao no Orchestra Season 2 | Blue Orchestra Season 2 | https://anilist.co/anime/170018 | Episode 21 |
@@ -182,7 +182,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita. | There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her | https://anilist.co/anime/195515 | Episode 12 |
 | Fumetsu no Anata e Season 3 | To Your Eternity Season 3 | https://anilist.co/anime/162669 | Episode 22 |
 | Toujima Tanzaburou wa Kamen Rider ni Naritai | Tojima Wants to Be a Kamen Rider | https://anilist.co/anime/187464 | Episode 24 |
-| Uso Tantei Tomanto | Uso Tantei Tomanto | https://anilist.co/anime/199008 | Episode 24 |
+| Uso Tantei Tomanto | Uso Tantei Tomanto | https://anilist.co/anime/199008 | Episode 25 |
 | Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 366 |
 | Yoroi Shinden Samurai Troopers | Yoroi-Shinden Samurai Troopers | https://anilist.co/anime/194318 | Episode 12 |
 | Osananajimi to wa Love Comedy ni Naranai | You Can't Be In a Rom-Com with Your Childhood Friends! | https://anilist.co/anime/189565 | Episode 12 |
