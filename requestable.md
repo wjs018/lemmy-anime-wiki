@@ -101,7 +101,6 @@ These shows have had episodes air already, but no thread was created because the
 | Dokodemo Makibao: World Tour | Dokodemo Makibao: World Tour | https://anilist.co/anime/199931 | Episode 23 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 908 |
 | Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | Episode 35 |
-| Duel Masters LOST: Boukyaku no Taiyou | Duel Masters LOST: Boukyaku no Taiyou | https://anilist.co/anime/187508 | Episode 4 |
 | Entotsu-machi no Poupelle: Yakusoku no Tokei-dai | Entotsu-machi no Poupelle: Yakusoku no Tokei-dai | https://anilist.co/anime/190668 | Episode 1 |
 | Fashion Beat | Fashion Beat | https://anilist.co/anime/208551 | Episode 1 |
 | Fate/strange Fake | Fate/strange Fake | https://anilist.co/anime/166617 | Episode 13 |
