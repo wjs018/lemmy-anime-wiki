@@ -38,7 +38,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Uruwashi no Yoi no Tsuki | In the Clear Moonlit Dusk | https://anilist.co/anime/192507 | [Link](https://ani.social/post/29488556) |
 | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | https://anilist.co/anime/198939 |  |
 | Ikoku Nikki | Journal with Witch | https://anilist.co/anime/177385 | [Link](https://ani.social/post/29187361) |
-| Kaya-chan wa Kowakunai | Kaya-chan Isn't Scary | https://anilist.co/anime/183660 | [Link](https://ani.social/post/29175333) |
+| Kaya-chan wa Kowakunai | Kaya-chan Isn't Scary | https://anilist.co/anime/183660 | [Link](https://ani.social/post/29489901) |
 | Kill Ao | Kill Ao | https://anilist.co/anime/198113 |  |
 | Kirio Fanclub | Kirio Fanclub | https://anilist.co/anime/181284 |  |
 | Kujima Utaeba Ie Hororo | Kujima: Why Sing, When You Can Warble? | https://anilist.co/anime/177508 |  |
