@@ -150,7 +150,7 @@ These shows have had episodes air already, but no thread was created because the
 | Niwatori Fighter | Rooster Fighter | https://anilist.co/anime/179813 | Episode 3 |
 | SI-VIS: The Sound of Heroes | SI-VIS: The Sound of Heroes | https://anilist.co/anime/196553 | Episode 24 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 50 |
-| Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2824 |
+| Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2825 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1328 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 154 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 146 |
