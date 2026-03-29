@@ -143,7 +143,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kagaku×Bouken Survival! 2nd Season | Kagaku×Bouken Survival! 2nd Season | https://anilist.co/anime/186736 | Episode 20 |
 | Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 51 |
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 26 |
-| Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 51 |
+| Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 52 |
 | Majutsushi Kunon wa Mieteiru | Kunon the Sorcerer Can See | https://anilist.co/anime/186333 | Episode 13 |
 | Mu Shen Ji 3 | Mu Shen Ji 3 | https://anilist.co/anime/203953 | Episode 24 |
 | Vigilante: Boku no Hero Academia ILLEGALS 2nd Season | My Hero Academia: Vigilantes Season 2 | https://anilist.co/anime/195322 | Episode 12 |
@@ -169,7 +169,7 @@ These shows have had episodes air already, but no thread was created because the
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 154 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 146 |
 | Soushen Ji | Soushen Ji | https://anilist.co/anime/166437 | Episode 1 |
-| Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 8 |
+| Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 9 |
 | THE IDOLM@STER Million Live!: Itsuka, Mannaka de | THE IDOLM@STER Million Live!: Itsuka, Mannaka de | https://anilist.co/anime/187375 | Episode 1 |
 | TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 9 |
 | TRIGUN STARGAZE | TRIGUN STARGAZE | https://anilist.co/anime/163144 | Episode 12 |
