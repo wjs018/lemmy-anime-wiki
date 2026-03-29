@@ -147,7 +147,7 @@ These shows have had episodes air already, but no thread was created because the
 | Wei Miao Rensheng | Reborn as a Cat | https://anilist.co/anime/203710 | Episode 22 |
 | Tensei Shitara Dragon no Tamago Datta | Reincarnated as a Dragon Hatchling | https://anilist.co/anime/187941 | Episode 12 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 131 |
-| Niwatori Fighter | Rooster Fighter | https://anilist.co/anime/179813 | Episode 2 |
+| Niwatori Fighter | Rooster Fighter | https://anilist.co/anime/179813 | Episode 3 |
 | SI-VIS: The Sound of Heroes | SI-VIS: The Sound of Heroes | https://anilist.co/anime/196553 | Episode 24 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 50 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2824 |
