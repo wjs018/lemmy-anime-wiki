@@ -123,6 +123,7 @@ These shows have had episodes air already, but no thread was created because the
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 359 |
 | Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu | Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu | https://anilist.co/anime/203148 | Episode 12 |
 | Saioshi no Gikei Mederu Tame, Nagaikishimasu! | I'll Live a Long Life to Dote on My Favorite Stepbrother! | https://anilist.co/anime/199446 | Episode 12 |
+| Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta | https://anilist.co/anime/170110 | Episode 1 |
 | JOCHUM Season 2 | JOCHUM Season 2 | https://anilist.co/anime/198413 | Episode 24 |
 | Yuusha Party wo Oidasareta Kiyou Binbou | Jack-of-All-Trades, Party of None | https://anilist.co/anime/187264 | Episode 12 |
 | Kagaku×Bouken Survival! 2nd Season | Kagaku×Bouken Survival! 2nd Season | https://anilist.co/anime/186736 | Episode 20 |
@@ -162,7 +163,7 @@ These shows have had episodes air already, but no thread was created because the
 | Goumon Baito-kun no Nichijou | The Daily Life of a Part-time Torturer | https://anilist.co/anime/197731 | Episode 12 |
 | Darwin Jihen | The Darwin Incident | https://anilist.co/anime/177679 | Episode 12 |
 | Eris no Seihai | The Holy Grail of Eris | https://anilist.co/anime/183270 | Episode 12 |
-| Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru | The Villainess Is Adored by the Prince of the Neighbor Kingdom | https://anilist.co/anime/195518 | Episode 11 |
+| Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru | The Villainess Is Adored by the Prince of the Neighbor Kingdom | https://anilist.co/anime/195518 | Episode 12 |
 | Yami Shibai 16 | Theatre of Darkness: Yamishibai 16 | https://anilist.co/anime/203939 | Episode 11 |
 | Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita. | There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her | https://anilist.co/anime/195515 | Episode 12 |
 | Fumetsu no Anata e Season 3 | To Your Eternity Season 3 | https://anilist.co/anime/162669 | Episode 22 |
@@ -186,7 +187,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Ghost Concert: missing Songs | GHOST CONCERT : missing Songs | https://anilist.co/anime/201090 | April 05 at 15:30 |
 | Haibara-kun no Tsuyokute Seishun New Game | Haibara-kun no Tsuyokute Seishun New Game | https://anilist.co/anime/195333 | April 02 at 16:28 |
 | Hyakki Yakou Shou | Hyakki Yakou Shou | https://anilist.co/anime/207675 | April 07 at 12:55 |
-| Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta | https://anilist.co/anime/170110 | March 29 at 15:00 |
 | Komekami! Girls | Komekami! Girls | https://anilist.co/anime/209940 | April 02 at 16:50 |
 | Mahou no Shimai Lulutto Lilly | Mahou no Shimai Lulutto Lilly | https://anilist.co/anime/178749 | April 05 at 13:30 |
 | Maid-san wa Taberu dake | Maid-san wa Taberu dake | https://anilist.co/anime/197868 | March 31 at 15:00 |
