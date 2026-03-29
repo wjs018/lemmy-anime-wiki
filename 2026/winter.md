@@ -152,6 +152,7 @@ Episode|Link
 9|[Link](https://ani.social/post/28558396)
 10|[Link](https://ani.social/post/28876286)
 11|[Link](https://ani.social/post/29186336)
+12|[Link](https://ani.social/post/29501162)
 {.dense}
 
 ## JoJo no Kimyou na Bouken: Steel Ball Run • STEEL BALL RUN JoJo's Bizarre Adventure
