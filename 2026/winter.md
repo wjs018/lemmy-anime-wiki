@@ -454,6 +454,7 @@ Episode|Link
 9|[Link](https://ani.social/post/28289083)
 10|[Link](https://ani.social/post/28598647)
 11|[Link](https://ani.social/post/28917448)
+13|[Link](https://ani.social/post/29544380)
 {.dense}
 
 ## Watashi ga Koibito ni Nareru Wake Naijan, Murimuri! (※Muri ja Nakatta!?): Next Shine! • There's No Freaking Way I'll Be Your Lover! Unless… ~Next Shine~
