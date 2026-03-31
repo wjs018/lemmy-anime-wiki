@@ -86,7 +86,6 @@ These shows have had episodes air already, but no thread was created because the
 | Guangyin Zhi Wai | Beyond Time's Gaze | https://anilist.co/anime/205905 | Episode 14 |
 | Black Jack Yanen | Black Jack Yanen | https://anilist.co/anime/205676 | Episode 12 |
 | Ao no Miburo: Serizawa Ansatsu-hen | Blue Miburo Season 2 | https://anilist.co/anime/189258 | Episode 14 |
-| Ao no Orchestra Season 2 | Blue Orchestra Season 2 | https://anilist.co/anime/170018 | Episode 21 |
 | Cardfight!! Vanguard: Divinez Genma Seisen-hen | Cardfight!! Vanguard: Divinez Genma Seisen-hen | https://anilist.co/anime/203296 | Episode 10 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1195 |
 | Ugoku! Neko Mukashi Banashi | Cat Tales | https://anilist.co/anime/188529 | Episode 24 |
