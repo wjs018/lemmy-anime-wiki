@@ -198,5 +198,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Rilakkuma: Goyururi Yume no Tabi | Rilakkuma: Goyururi Yume no Tabi | https://anilist.co/anime/183231 | April 04 at 00:26 |
 | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | https://anilist.co/anime/200769 | April 01 at 15:00 |
 | Tensei Akujo no Kuro Rekishi OVA | Tensei Akujo no Kuro Rekishi OVA | https://anilist.co/anime/205054 | April 02 at 15:00 |
+| Kami no Shizuku | The Drops of God | https://anilist.co/anime/202508 | April 10 at 14:30 |
 | Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi | The Klutzy Class Monitor and the Girl with the Short Skirt | https://anilist.co/anime/189987 | April 06 at 14:24 |
 {.dense}
