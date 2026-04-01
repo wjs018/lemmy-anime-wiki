@@ -19,6 +19,13 @@ Episode|Link
 3|[Link](https://ani.social/post/29635538)
 {.dense}
 
+## Ganbare! Nakamura-kun!! • Go For It, Nakamura-kun!!
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/29638812)
+{.dense}
+
 ## Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season
 
 Episode|Link
