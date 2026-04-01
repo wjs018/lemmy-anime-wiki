@@ -15,6 +15,8 @@ Below, you can find an index of all the discussion threads for shows from the Sp
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/29634783)
+2|[Link](https://ani.social/post/29635531)
+3|[Link](https://ani.social/post/29635538)
 {.dense}
 
 ## Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season
