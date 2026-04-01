@@ -24,3 +24,10 @@ Episode|Link
 1|[Link](https://ani.social/post/29457731)
 {.dense}
 
+## Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki • Classroom of the Elite 4th Season: Second Year, First Semester
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/29633771)
+{.dense}
+
