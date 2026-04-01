@@ -26,6 +26,13 @@ Episode|Link
 1|[Link](https://ani.social/post/29632431)
 {.dense}
 
+## Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season • The Beginning After the End Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/29635979)
+{.dense}
+
 ## Shunkashuutou Daikousha: Haru no Mai
 
 Episode|Link
@@ -39,5 +46,6 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/29633771)
 2|[Link](https://ani.social/post/29634782)
+3|[Link](https://ani.social/post/29635980)
 {.dense}
 
