@@ -201,4 +201,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Tensei Akujo no Kuro Rekishi OVA | Tensei Akujo no Kuro Rekishi OVA | https://anilist.co/anime/205054 | April 02 at 15:00 |
 | Kami no Shizuku | The Drops of God | https://anilist.co/anime/202508 | April 10 at 14:30 |
 | Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi | The Klutzy Class Monitor and the Girl with the Short Skirt | https://anilist.co/anime/189987 | April 06 at 14:24 |
+| Yowa Yowa Sensei | Yowayowa Sensei | https://anilist.co/anime/185211 | April 11 at 12:30 |
 {.dense}
