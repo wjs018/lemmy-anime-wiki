@@ -36,7 +36,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta | I Made Friends with the Second Prettiest Girl in My Class | https://anilist.co/anime/169580 |  |
 | Ichijouma Mankitsu Gurashi! | Ichijyoma Mankitsu Gurashi! | https://anilist.co/anime/195734 |  |
 | Uruwashi no Yoi no Tsuki | In the Clear Moonlit Dusk | https://anilist.co/anime/192507 | [Link](https://ani.social/post/29488556) |
-| Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | https://anilist.co/anime/198939 |  |
+| Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | https://anilist.co/anime/198939 | [Link](https://ani.social/post/29632431) |
 | Ikoku Nikki | Journal with Witch | https://anilist.co/anime/177385 | [Link](https://ani.social/post/29501817) |
 | Kaya-chan wa Kowakunai | Kaya-chan Isn't Scary | https://anilist.co/anime/183660 | [Link](https://ani.social/post/29489901) |
 | Kill Ao | Kill Ao | https://anilist.co/anime/198113 |  |
