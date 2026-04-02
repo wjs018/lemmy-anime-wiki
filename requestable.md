@@ -206,4 +206,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi | The Klutzy Class Monitor and the Girl with the Short Skirt | https://anilist.co/anime/189987 | April 06 at 14:24 |
 | Tsue to Tsurugi no Wistoria Season 2 | Wistoria: Wand and Sword Season 2 | https://anilist.co/anime/182300 | April 12 at 07:30 |
 | Yowa Yowa Sensei | Yowayowa Sensei | https://anilist.co/anime/185211 | April 11 at 12:30 |
+| Yozakura-san Chi no Daisakusen 2nd Season | Yozakura-san Chi no Daisakusen 2nd Season | https://anilist.co/anime/182578 | April 12 at 08:00 |
 {.dense}
