@@ -40,7 +40,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Ikoku Nikki | Journal with Witch | https://anilist.co/anime/177385 | [Link](https://ani.social/post/29501817) |
 | Kaya-chan wa Kowakunai | Kaya-chan Isn't Scary | https://anilist.co/anime/183660 | [Link](https://ani.social/post/29489901) |
 | Kill Ao | Kill Ao | https://anilist.co/anime/198113 |  |
-| Kirio Fanclub | Kirio Fanclub | https://anilist.co/anime/181284 |  |
+| Kirio Fanclub | Kirio Fanclub | https://anilist.co/anime/181284 | [Link](https://ani.social/post/29683993) |
 | Kujima Utaeba Ie Hororo | Kujima: Why Sing, When You Can Warble? | https://anilist.co/anime/177508 |  |
 | LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 |  |
 | MAO | MAO | https://anilist.co/anime/196012 |  |
@@ -52,7 +52,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | NEEDY GIRL OVERDOSE | NEEDY GIRL OVERDOSE | https://anilist.co/anime/202102 |  |
 | Nippon Sangoku | NIPPON SANGOKU: The Three Nations of the Crimson Sun | https://anilist.co/anime/206914 |  |
 | Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season | Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season | https://anilist.co/anime/170019 |  |
-| Reincarnation no Kaben | Petals of Reincarnation | https://anilist.co/anime/179950 |  |
+| Reincarnation no Kaben | Petals of Reincarnation | https://anilist.co/anime/179950 | [Link](https://ani.social/post/29683994) |
 | Re:Zero kara Hajimeru Isekai Seikatsu 4th Season | Re:ZERO -Starting Life in Another World- Season 4 | https://anilist.co/anime/189046 |  |
 | Fangkai Nage Nüwu | Release that Witch | https://anilist.co/anime/137662 | [Link](https://ani.social/post/29555489) |
 | Kanojo, Okarishimasu 5th Season | Rent-a-Girlfriend Season 5 | https://anilist.co/anime/199029 |  |
