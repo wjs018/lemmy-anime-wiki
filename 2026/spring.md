@@ -41,11 +41,25 @@ Episode|Link
 1|[Link](https://ani.social/post/29632431)
 {.dense}
 
+## Kirio Fanclub
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/29683993)
+{.dense}
+
 ## Koori no Jouheki • The Ramparts of Ice
 
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/29682654)
+{.dense}
+
+## Reincarnation no Kaben • Petals of Reincarnation
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/29683994)
 {.dense}
 
 ## Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season • The Beginning After the End Season 2
