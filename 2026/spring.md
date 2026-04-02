@@ -19,6 +19,13 @@ Episode|Link
 3|[Link](https://ani.social/post/29635538)
 {.dense}
 
+## Dr. STONE: SCIENCE FUTURE Part 3 • Dr. STONE SCIENCE FUTURE Cour 3
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/29678252)
+{.dense}
+
 ## Ganbare! Nakamura-kun!! • Go For It, Nakamura-kun!!
 
 Episode|Link
