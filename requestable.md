@@ -195,7 +195,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Ingoku Danchi | Ingoku Danchi | https://anilist.co/anime/206166 | April 10 at 16:10 |
 | Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | April 11 at 22:00 |
 | Mahou no Shimai Lulutto Lilly | Mahou no Shimai Lulutto Lilly | https://anilist.co/anime/178749 | April 05 at 13:30 |
-| Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru | Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru | https://anilist.co/anime/210234 | April 05 at 16:15 |
+| Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru | Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru | https://anilist.co/anime/210234 | April 09 at 16:00 |
 | Meitantei Conan: Highway no Datenshi | Meitantei Conan: Highway no Datenshi | https://anilist.co/anime/198369 | April 09 at 15:00 |
 | Nezumi-kun no Chokki (TV) | Nezumi-kun no Chokki (TV) | https://anilist.co/anime/198411 | April 04 at 00:30 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | April 05 at 15:16 |
