@@ -55,6 +55,13 @@ Episode|Link
 1|[Link](https://ani.social/post/29682654)
 {.dense}
 
+## Niwatori Fighter • Rooster Fighter
+
+Episode|Link
+:-:|:-:
+3|[Link](https://ani.social/post/29710523)
+{.dense}
+
 ## Reincarnation no Kaben • Petals of Reincarnation
 
 Episode|Link
