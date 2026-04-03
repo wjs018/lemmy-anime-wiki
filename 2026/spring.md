@@ -62,6 +62,13 @@ Episode|Link
 3|[Link](https://ani.social/post/29710523)
 {.dense}
 
+## Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/29724934)
+{.dense}
+
 ## Reincarnation no Kaben • Petals of Reincarnation
 
 Episode|Link
