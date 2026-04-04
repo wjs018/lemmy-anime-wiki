@@ -34,6 +34,13 @@ Episode|Link
 2|[Link](https://ani.social/post/29639380)
 {.dense}
 
+## Honzuki no Gekokujou: Ryoushu no Youjo • Ascendance of a Bookworm: Adopted Daughter of an Archduke
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/29761018)
+{.dense}
+
 ## Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season
 
 Episode|Link
