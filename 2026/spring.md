@@ -69,6 +69,13 @@ Episode|Link
 1|[Link](https://ani.social/post/29682654)
 {.dense}
 
+## MAO
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/29770955)
+{.dense}
+
 ## Mairimashita! Iruma-kun 4 • Welcome to Demon School! Iruma-kun Season 4
 
 Episode|Link
