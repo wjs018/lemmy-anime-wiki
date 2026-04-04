@@ -62,6 +62,13 @@ Episode|Link
 1|[Link](https://ani.social/post/29682654)
 {.dense}
 
+## Mairimashita! Iruma-kun 4 • Welcome to Demon School! Iruma-kun Season 4
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/29762066)
+{.dense}
+
 ## Niwatori Fighter • Rooster Fighter
 
 Episode|Link
