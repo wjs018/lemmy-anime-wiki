@@ -83,6 +83,13 @@ Episode|Link
 1|[Link](https://ani.social/post/29762066)
 {.dense}
 
+## NEEDY GIRL OVERDOSE
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/29772129)
+{.dense}
+
 ## Niwatori Fighter • Rooster Fighter
 
 Episode|Link
