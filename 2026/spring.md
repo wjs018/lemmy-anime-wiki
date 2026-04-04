@@ -55,6 +55,13 @@ Episode|Link
 1|[Link](https://ani.social/post/29632431)
 {.dense}
 
+## Kanan-sama wa Akumade Choroi • Mistress Kanan is Devilishly Easy
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/29772849)
+{.dense}
+
 ## Kirio Fanclub
 
 Episode|Link
@@ -123,6 +130,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/29457731)
+2|[Link](https://ani.social/post/29772848)
 {.dense}
 
 ## Snowball Earth
