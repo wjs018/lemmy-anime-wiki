@@ -194,6 +194,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Ghost Concert: missing Songs | GHOST CONCERT : missing Songs | https://anilist.co/anime/201090 | April 05 at 15:30 |
 | Girls und Panzer: Ribbon no Musha Pilot-ban | Girls und Panzer: Ribbon no Musha Pilot-ban | https://anilist.co/anime/209312 | April 09 at 15:00 |
 | Hyakki Yakou Shou | Hyakki Yakou Shou | https://anilist.co/anime/207675 | April 07 at 12:55 |
+| Aishiteru Game wo Owarasetai | I Want to End this Love Game | https://anilist.co/anime/194393 | April 14 at 14:00 |
 | Ingoku Danchi | Ingoku Danchi | https://anilist.co/anime/206166 | April 05 at 16:10 |
 | Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | April 11 at 22:00 |
 | Kami no Niwatsuki Kusunoki-tei  | Kusunoki's Garden of Gods | https://anilist.co/anime/196029 | April 04 at 16:30 |
