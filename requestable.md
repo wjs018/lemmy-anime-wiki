@@ -136,6 +136,7 @@ These shows have had episodes air already, but no thread was created because the
 | Maid-san wa Taberu dake | Maid-san wa Taberu dake | https://anilist.co/anime/197868 | Episode 1 |
 | Mata Korosarete Shimatta no desu ne, Tantei-sama | Mata Korosarete Shimatta no desu ne, Tantei-sama | https://anilist.co/anime/202381 | Episode 1 |
 | Mu Shen Ji 3 | Mu Shen Ji 3 | https://anilist.co/anime/203953 | Episode 24 |
+| Nezumi-kun no Chokki (TV) | Nezumi-kun no Chokki (TV) | https://anilist.co/anime/198411 | Episode 1 |
 | Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | https://anilist.co/anime/201817 | Episode 1 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 210 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 49 |
@@ -151,6 +152,7 @@ These shows have had episodes air already, but no thread was created because the
 | Wei Miao Rensheng | Reborn as a Cat | https://anilist.co/anime/203710 | Episode 23 |
 | Tensei Shitara Dragon no Tamago Datta | Reincarnated as a Dragon Hatchling | https://anilist.co/anime/187941 | Episode 12 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 131 |
+| Rilakkuma: Goyururi Yume no Tabi | Rilakkuma: Goyururi Yume no Tabi | https://anilist.co/anime/183231 | Episode 1 |
 | SI-VIS: The Sound of Heroes | SI-VIS: The Sound of Heroes | https://anilist.co/anime/196553 | Episode 24 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 50 |
 | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | https://anilist.co/anime/200769 | Episode 1 |
@@ -198,11 +200,9 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Mahou no Shimai Lulutto Lilly | Mahou no Shimai Lulutto Lilly | https://anilist.co/anime/178749 | April 05 at 13:30 |
 | Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru | Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru | https://anilist.co/anime/210234 | April 09 at 16:00 |
 | Meitantei Conan: Highway no Datenshi | Meitantei Conan: Highway no Datenshi | https://anilist.co/anime/198369 | April 09 at 15:00 |
-| Nezumi-kun no Chokki (TV) | Nezumi-kun no Chokki (TV) | https://anilist.co/anime/198411 | April 04 at 00:30 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | April 05 at 15:16 |
 | Odekake Kozame Season 2 | Odekake Kozame Season 2 | https://anilist.co/anime/204269 | April 11 at 22:00 |
 | Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | April 05 at 00:30 |
-| Rilakkuma: Goyururi Yume no Tabi | Rilakkuma: Goyururi Yume no Tabi | https://anilist.co/anime/183231 | April 04 at 00:26 |
 | Shou 3 Ashibe QQ Goma-chan | Shou 3 Ashibe QQ Goma-chan | https://anilist.co/anime/202386 | April 11 at 22:00 |
 | Kuroneko to Majo no Kyoushitsu | The Classroom of the Black Cat and a Witch | https://anilist.co/anime/196974 | April 12 at 14:30 |
 | Kami no Shizuku | The Drops of God | https://anilist.co/anime/202508 | April 10 at 14:30 |
