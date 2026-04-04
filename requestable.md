@@ -43,7 +43,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kirio Fanclub | Kirio Fanclub | https://anilist.co/anime/181284 | [Link](https://ani.social/post/29683993) |
 | Kujima Utaeba Ie Hororo | Kujima: Why Sing, When You Can Warble? | https://anilist.co/anime/177508 |  |
 | LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 |  |
-| MAO | MAO | https://anilist.co/anime/196012 |  |
+| MAO | MAO | https://anilist.co/anime/196012 | [Link](https://ani.social/post/29770955) |
 | MARRIAGETOXIN | MARRIAGETOXIN | https://anilist.co/anime/199547 |  |
 | Marika-chan no Koukando wa Bukkowareteiru | Marika's Love Meter Malfunction | https://anilist.co/anime/202523 |  |
 | Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de" | Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de" | https://anilist.co/anime/206951 |  |
