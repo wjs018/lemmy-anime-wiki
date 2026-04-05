@@ -98,6 +98,7 @@ These shows have had episodes air already, but no thread was created because the
 | Enen no Shouboutai: San no Shou Part 2 | Fire Force Season 3 Part 2 | https://anilist.co/anime/179062 | Episode 13 |
 | Fukufuku no Chizu | Fukufuku no Chizu | https://anilist.co/anime/206889 | Episode 1 |
 | GANGLION | GANGLION | https://anilist.co/anime/198117 | Episode 24 |
+| Ghost Concert: missing Songs | GHOST CONCERT : missing Songs | https://anilist.co/anime/201090 | Episode 1 |
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | Episode 12 |
 | GelPiyo | GelPiyo | https://anilist.co/anime/204698 | Episode 11 |
 | Golden Kamuy: Saishuushou | Golden Kamuy Final Season | https://anilist.co/anime/166521 | Episode 10 |
@@ -134,7 +135,8 @@ These shows have had episodes air already, but no thread was created because the
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 210 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 49 |
 | Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru | Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power | https://anilist.co/anime/185993 | Episode 12 |
-| Hikuidori | Oedo Fire Slayer -The Legend of Phoenix- | https://anilist.co/anime/187062 | Episode 11 |
+| ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1156 |
+| Hikuidori | Oedo Fire Slayer -The Legend of Phoenix- | https://anilist.co/anime/187062 | Episode 12 |
 | Omae wa Mada Gunma wo Shiranai: Reiwa-ban | Omae wa Mada Gunma wo Shiranai: Reiwa-ban | https://anilist.co/anime/202419 | Episode 11 |
 | Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 1 |
 | Oshirimae Man: Fukkatsu no Oshirimae Teikoku | Oshirimae Man: Fukkatsu no Oshirimae Teikoku | https://anilist.co/anime/206857 | Episode 1 |
@@ -187,7 +189,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Daikenja Riddle no Jikan Gyakko | Daikenja Riddle no Jikan Gyakko | https://anilist.co/anime/210375 | April 08 at 13:55 |
 | Ookii Onnanoko wa Suki desu ka? | Do You Like Big Girls? | https://anilist.co/anime/204319 | April 05 at 17:05 |
 | Replica Datte, Koi wo Suru. | Even a Replica Can Fall in Love | https://anilist.co/anime/186744 | April 07 at 14:30 |
-| Ghost Concert: missing Songs | GHOST CONCERT : missing Songs | https://anilist.co/anime/201090 | April 05 at 15:30 |
 | Girls und Panzer: Motto Love Love Sakusen desu! | Girls und Panzer: Motto Love Love Sakusen desu! | https://anilist.co/anime/188034 | April 09 at 16:00 |
 | Girls und Panzer: Ribbon no Musha Pilot-ban | Girls und Panzer: Ribbon no Musha Pilot-ban | https://anilist.co/anime/209312 | April 09 at 15:00 |
 | Hyakki Yakou Shou | Hyakki Yakou Shou | https://anilist.co/anime/207675 | April 07 at 12:55 |
@@ -196,7 +197,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | April 11 at 22:00 |
 | Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru | Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru | https://anilist.co/anime/210234 | April 09 at 16:00 |
 | Meitantei Conan: Highway no Datenshi | Meitantei Conan: Highway no Datenshi | https://anilist.co/anime/198369 | April 09 at 15:00 |
-| ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | April 05 at 15:16 |
 | Odekake Kozame Season 2 | Odekake Kozame Season 2 | https://anilist.co/anime/204269 | April 11 at 22:00 |
 | Shou 3 Ashibe QQ Goma-chan | Shou 3 Ashibe QQ Goma-chan | https://anilist.co/anime/202386 | April 11 at 22:00 |
 | Kuroneko to Majo no Kyoushitsu | The Classroom of the Black Cat and a Witch | https://anilist.co/anime/196974 | April 12 at 14:30 |
