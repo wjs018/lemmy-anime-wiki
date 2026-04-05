@@ -97,6 +97,13 @@ Episode|Link
 1|[Link](https://ani.social/post/29762066)
 {.dense}
 
+## Marika-chan no Koukando wa Bukkowareteiru • Marika's Love Meter Malfunction
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/29820303)
+{.dense}
+
 ## NEEDY GIRL OVERDOSE
 
 Episode|Link
