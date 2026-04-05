@@ -141,6 +141,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru | Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power | https://anilist.co/anime/185993 | Episode 12 |
 | Hikuidori | Oedo Fire Slayer -The Legend of Phoenix- | https://anilist.co/anime/187062 | Episode 11 |
 | Omae wa Mada Gunma wo Shiranai: Reiwa-ban | Omae wa Mada Gunma wo Shiranai: Reiwa-ban | https://anilist.co/anime/202419 | Episode 11 |
+| Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 1 |
 | Oshirimae Man: Fukkatsu no Oshirimae Teikoku | Oshirimae Man: Fukkatsu no Oshirimae Teikoku | https://anilist.co/anime/206857 | Episode 1 |
 | Paris ni Saku Étoile | Paris ni Saku Étoile | https://anilist.co/anime/197097 | Episode 1 |
 | PetitCure: Precure Fairies Season 2 | PetitCure: Precure Fairies Season 2 | https://anilist.co/anime/199635 | Episode 24 |
@@ -159,7 +160,7 @@ These shows have had episodes air already, but no thread was created because the
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 155 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 147 |
 | Soushen Ji | Soushen Ji | https://anilist.co/anime/166437 | Episode 1 |
-| Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 9 |
+| Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 10 |
 | THE IDOLM@STER Million Live!: Itsuka, Mannaka de | THE IDOLM@STER Million Live!: Itsuka, Mannaka de | https://anilist.co/anime/187375 | Episode 1 |
 | TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 9 |
 | TRIGUN STARGAZE | TRIGUN STARGAZE | https://anilist.co/anime/163144 | Episode 12 |
@@ -202,7 +203,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Meitantei Conan: Highway no Datenshi | Meitantei Conan: Highway no Datenshi | https://anilist.co/anime/198369 | April 09 at 15:00 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | April 05 at 15:16 |
 | Odekake Kozame Season 2 | Odekake Kozame Season 2 | https://anilist.co/anime/204269 | April 11 at 22:00 |
-| Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | April 05 at 00:30 |
 | Shou 3 Ashibe QQ Goma-chan | Shou 3 Ashibe QQ Goma-chan | https://anilist.co/anime/202386 | April 11 at 22:00 |
 | Kuroneko to Majo no Kyoushitsu | The Classroom of the Black Cat and a Witch | https://anilist.co/anime/196974 | April 12 at 14:30 |
 | Kami no Shizuku | The Drops of God | https://anilist.co/anime/202508 | April 10 at 14:30 |
