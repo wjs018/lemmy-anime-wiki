@@ -125,7 +125,7 @@ These shows have had episodes air already, but no thread was created because the
 | Majutsushi Kunon wa Mieteiru | Kunon the Sorcerer Can See | https://anilist.co/anime/186333 | Episode 13 |
 | Kami no Niwatsuki Kusunoki-tei  | Kusunoki's Garden of Gods | https://anilist.co/anime/196029 | Episode 1 |
 | Mahou no Shimai Lulutto Lilly | Mahou no Shimai Lulutto Lilly | https://anilist.co/anime/178749 | Episode 1 |
-| Maid-san wa Taberu dake | Maid-san wa Taberu dake | https://anilist.co/anime/197868 | Episode 1 |
+| Maid-san wa Taberu dake | Maid-san wa Taberu dake | https://anilist.co/anime/197868 | Episode 2 |
 | Mata Korosarete Shimatta no desu ne, Tantei-sama | Mata Korosarete Shimatta no desu ne, Tantei-sama | https://anilist.co/anime/202381 | Episode 1 |
 | Mu Shen Ji 3 | Mu Shen Ji 3 | https://anilist.co/anime/203953 | Episode 25 |
 | Vigilante: Boku no Hero Academia ILLEGALS 2nd Season | My Hero Academia: Vigilantes Season 2 | https://anilist.co/anime/195322 | Episode 12 |
