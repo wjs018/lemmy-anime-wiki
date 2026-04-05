@@ -104,6 +104,13 @@ Episode|Link
 1|[Link](https://ani.social/post/29772129)
 {.dense}
 
+## Nippon Sangoku • NIPPON SANGOKU: The Three Nations of the Crimson Sun
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/29809617)
+{.dense}
+
 ## Niwatori Fighter • Rooster Fighter
 
 Episode|Link
