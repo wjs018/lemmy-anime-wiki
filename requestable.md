@@ -128,7 +128,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 51 |
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 27 |
 | Komekami! Girls | Komekami! Girls | https://anilist.co/anime/209940 | Episode 1 |
-| Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 52 |
+| Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 53 |
 | Majutsushi Kunon wa Mieteiru | Kunon the Sorcerer Can See | https://anilist.co/anime/186333 | Episode 13 |
 | Kami no Niwatsuki Kusunoki-tei  | Kusunoki's Garden of Gods | https://anilist.co/anime/196029 | Episode 1 |
 | Maid-san wa Taberu dake | Maid-san wa Taberu dake | https://anilist.co/anime/197868 | Episode 1 |
