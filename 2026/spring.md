@@ -17,6 +17,13 @@ Episode|Link
 1|[Link](https://ani.social/post/29769720)
 {.dense}
 
+## Diamond no Ace act II: Second Season
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/29804313)
+{.dense}
+
 ## Dorohedoro Season 2
 
 Episode|Link
