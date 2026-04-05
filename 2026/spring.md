@@ -102,6 +102,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 3|[Link](https://ani.social/post/29710523)
+4|[Link](https://ani.social/post/29798961)
 {.dense}
 
 ## Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season
