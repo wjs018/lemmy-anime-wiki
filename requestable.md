@@ -61,7 +61,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Koori no Jouheki | The Ramparts of Ice | https://anilist.co/anime/186497 | [Link](https://ani.social/post/29682654) |
 | Hime Kishi wa Barbaroi no Yome | The Warrior Princess and the Barbaric King | https://anilist.co/anime/182483 |  |
 | Mairimashita! Iruma-kun 4 | Welcome to Demon School! Iruma-kun Season 4 | https://anilist.co/anime/184492 | [Link](https://ani.social/post/29762066) |
-| Tongari Boushi no Atelier | Witch Hat Atelier | https://anilist.co/anime/147105 |  |
+| Tongari Boushi no Atelier | Witch Hat Atelier | https://anilist.co/anime/147105 | [Link](https://ani.social/post/29856851) |
 {.dense}
 
 ## Requestable Shows
