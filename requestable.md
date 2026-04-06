@@ -47,7 +47,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season | Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season | https://anilist.co/anime/170019 | [Link](https://ani.social/post/29724934) |
 | Reincarnation no Kaben | Petals of Reincarnation | https://anilist.co/anime/179950 | [Link](https://ani.social/post/29683994) |
 | Re:Zero kara Hajimeru Isekai Seikatsu 4th Season | Re:ZERO -Starting Life in Another World- Season 4 | https://anilist.co/anime/189046 |  |
-| Fangkai Nage Nüwu | Release that Witch | https://anilist.co/anime/137662 | [Link](https://ani.social/post/29555489) |
+| Fangkai Nage Nüwu | Release that Witch | https://anilist.co/anime/137662 | [Link](https://ani.social/post/29869307) |
 | Kanojo, Okarishimasu 5th Season | Rent-a-Girlfriend Season 5 | https://anilist.co/anime/199029 |  |
 | Niwatori Fighter | Rooster Fighter | https://anilist.co/anime/179813 | [Link](https://ani.social/post/29798961) |
 | JoJo no Kimyou na Bouken: Steel Ball Run | STEEL BALL RUN JoJo's Bizarre Adventure | https://anilist.co/anime/190327 | [Link](https://ani.social/post/29040012) |
