@@ -55,6 +55,13 @@ Episode|Link
 1|[Link](https://ani.social/post/29761018)
 {.dense}
 
+## Isekai Nonbiri Nouka 2 • Farming Life in Another World 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/29856061)
+{.dense}
+
 ## Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season
 
 Episode|Link
