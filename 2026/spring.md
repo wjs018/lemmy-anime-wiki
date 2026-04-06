@@ -62,6 +62,13 @@ Episode|Link
 1|[Link](https://ani.social/post/29632431)
 {.dense}
 
+## Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. • An Observation Log of My Fiancée Who Calls Herself a Villainess
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/29854842)
+{.dense}
+
 ## Kanan-sama wa Akumade Choroi • Mistress Kanan is Devilishly Easy
 
 Episode|Link
