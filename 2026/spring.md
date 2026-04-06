@@ -97,6 +97,13 @@ Episode|Link
 1|[Link](https://ani.social/post/29682654)
 {.dense}
 
+## LIAR GAME
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/29859258)
+{.dense}
+
 ## MAO
 
 Episode|Link
