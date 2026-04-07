@@ -55,6 +55,13 @@ Episode|Link
 2|[Link](https://ani.social/post/29639380)
 {.dense}
 
+## Hidarikiki no Eren • Eren the Southpaw
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/29903835)
+{.dense}
+
 ## Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2 • The Most Heretical Last Boss Queen: From Villainess to Savior Season 2
 
 Episode|Link
