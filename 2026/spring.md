@@ -36,8 +36,8 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/29634783)
-2|[Link](https://ani.social/post/29635531)
-3|[Link](https://ani.social/post/29635538)
+2|[Link](https://ani.social/post/29634783)
+3|[Link](https://ani.social/post/29634783)
 {.dense}
 
 ## Dr. STONE: SCIENCE FUTURE Part 3 • Dr. STONE SCIENCE FUTURE Cour 3
@@ -52,7 +52,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/29638812)
-2|[Link](https://ani.social/post/29639380)
+2|[Link](https://ani.social/post/29638812)
 {.dense}
 
 ## Hidarikiki no Eren • Eren the Southpaw
@@ -237,7 +237,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/29856851)
-2|[Link](https://ani.social/post/29857616)
+2|[Link](https://ani.social/post/29856851)
 {.dense}
 
 ## Yomi no Tsugai • Daemons of the Shadow Realm
@@ -252,8 +252,8 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/29633771)
-2|[Link](https://ani.social/post/29634782)
-3|[Link](https://ani.social/post/29635980)
-4|[Link](https://ani.social/post/29637593)
+2|[Link](https://ani.social/post/29633771)
+3|[Link](https://ani.social/post/29633771)
+4|[Link](https://ani.social/post/29633771)
 {.dense}
 
