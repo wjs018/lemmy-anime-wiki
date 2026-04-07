@@ -153,6 +153,13 @@ Episode|Link
 1|[Link](https://ani.social/post/29820303)
 {.dense}
 
+## Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de"
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/29909415)
+{.dense}
+
 ## NEEDY GIRL OVERDOSE
 
 Episode|Link
