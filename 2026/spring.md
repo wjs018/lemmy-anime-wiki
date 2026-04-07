@@ -118,6 +118,13 @@ Episode|Link
 1|[Link](https://ani.social/post/29770955)
 {.dense}
 
+## MARRIAGETOXIN
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/29901698)
+{.dense}
+
 ## Mairimashita! Iruma-kun 4 • Welcome to Demon School! Iruma-kun Season 4
 
 Episode|Link
