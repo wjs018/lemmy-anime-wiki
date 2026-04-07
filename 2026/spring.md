@@ -48,6 +48,13 @@ Episode|Link
 2|[Link](https://ani.social/post/29639380)
 {.dense}
 
+## Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2 • The Most Heretical Last Boss Queen: From Villainess to Savior Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/29900110)
+{.dense}
+
 ## Honzuki no Gekokujou: Ryoushu no Youjo • Ascendance of a Bookworm: Adopted Daughter of an Archduke
 
 Episode|Link
