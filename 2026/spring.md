@@ -104,6 +104,13 @@ Episode|Link
 1|[Link](https://ani.social/post/29772849)
 {.dense}
 
+## Kanojo, Okarishimasu 5th Season • Rent-a-Girlfriend Season 5
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/29944514)
+{.dense}
+
 ## Kirio Fanclub
 
 Episode|Link
@@ -187,6 +194,13 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/29724934)
+{.dense}
+
+## Re:Zero kara Hajimeru Isekai Seikatsu 4th Season • Re:ZERO -Starting Life in Another World- Season 4
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/29944513)
 {.dense}
 
 ## Reincarnation no Kaben • Petals of Reincarnation
