@@ -151,14 +151,13 @@ These shows have had episodes air already, but no thread was created because the
 | Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | Episode 48 |
 | Wei Miao Rensheng | Reborn as a Cat | https://anilist.co/anime/203710 | Episode 23 |
 | Tensei Shitara Dragon no Tamago Datta | Reincarnated as a Dragon Hatchling | https://anilist.co/anime/187941 | Episode 12 |
-| Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 131 |
 | Rilakkuma: Goyururi Yume no Tabi | Rilakkuma: Goyururi Yume no Tabi | https://anilist.co/anime/183231 | Episode 1 |
 | SI-VIS: The Sound of Heroes | SI-VIS: The Sound of Heroes | https://anilist.co/anime/196553 | Episode 24 |
 | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 50 |
 | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | https://anilist.co/anime/200769 | Episode 2 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2826 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1329 |
-| Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 155 |
+| Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 156 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 147 |
 | Soushen Ji | Soushen Ji | https://anilist.co/anime/166437 | Episode 1 |
 | Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 10 |
