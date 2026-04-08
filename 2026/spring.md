@@ -191,6 +191,13 @@ Episode|Link
 4|[Link](https://ani.social/post/29798961)
 {.dense}
 
+## Otaku ni Yasashii Gal wa Inai!? • Gals Can't Be Kind to Otaku!?
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/29948478)
+{.dense}
+
 ## Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season
 
 Episode|Link
