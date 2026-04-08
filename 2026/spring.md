@@ -38,6 +38,7 @@ Episode|Link
 1|[Link](https://ani.social/post/29634783)
 2|[Link](https://ani.social/post/29634783)
 3|[Link](https://ani.social/post/29634783)
+4|[Link](https://ani.social/post/29946613)
 {.dense}
 
 ## Dr. STONE: SCIENCE FUTURE Part 3 • Dr. STONE SCIENCE FUTURE Cour 3
@@ -88,6 +89,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/29632431)
+2|[Link](https://ani.social/post/29946612)
 {.dense}
 
 ## Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. • An Observation Log of My Fiancée Who Calls Herself a Villainess
