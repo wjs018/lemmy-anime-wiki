@@ -17,6 +17,13 @@ Episode|Link
 1|[Link](https://ani.social/post/29769720)
 {.dense}
 
+## Awajima Hyakkei • A Hundred Scenes of AWAJIMA
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/30007667)
+{.dense}
+
 ## Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta • I Made Friends with the Second Prettiest Girl in My Class
 
 Episode|Link
