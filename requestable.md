@@ -197,6 +197,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru | Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru | https://anilist.co/anime/210234 | April 09 at 16:00 |
 | Meitantei Conan: Highway no Datenshi | Meitantei Conan: Highway no Datenshi | https://anilist.co/anime/198369 | April 09 at 15:00 |
 | Odekake Kozame Season 2 | Odekake Kozame Season 2 | https://anilist.co/anime/204269 | April 11 at 22:00 |
+| Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | https://anilist.co/anime/210687 | April 15 at 14:30 |
 | Shou 3 Ashibe QQ Goma-chan | Shou 3 Ashibe QQ Goma-chan | https://anilist.co/anime/202386 | April 11 at 22:00 |
 | Kuroneko to Majo no Kyoushitsu | The Classroom of the Black Cat and a Witch | https://anilist.co/anime/196974 | April 12 at 14:30 |
 | Kami no Shizuku | The Drops of God | https://anilist.co/anime/202508 | April 10 at 14:30 |
