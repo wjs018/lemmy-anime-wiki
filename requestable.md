@@ -87,7 +87,7 @@ These shows have had episodes air already, but no thread was created because the
 | Mato Seihei no Slave 2 | Chained Soldier Season 2 | https://anilist.co/anime/176276 | Episode 12 |
 | Champignon no Majo | Champignon Witch | https://anilist.co/anime/185514 | Episode 12 |
 | Chibi Godzilla no Gyakushuu 3 | Chibi Godzilla Raids Again Season 3 | https://anilist.co/anime/193883 | Episode 41 |
-| Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 332 |
+| Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 333 |
 | Chitose-kun wa Ramune Bin no Naka | Chitose Is in the Ramune Bottle | https://anilist.co/anime/180082 | Episode 13 |
 | DARK MOON: Kuro no Tsuki - Tsuki no Saidan | DARK MOON: THE BLOOD ALTAR | https://anilist.co/anime/181443 | Episode 12 |
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | Episode 25 |
