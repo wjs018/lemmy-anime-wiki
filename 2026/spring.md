@@ -136,6 +136,13 @@ Episode|Link
 1|[Link](https://ani.social/post/29682654)
 {.dense}
 
+## Kujima Utaeba Ie Hororo • Kujima: Why Sing, When You Can Warble?
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/29991274)
+{.dense}
+
 ## LIAR GAME
 
 Episode|Link
