@@ -127,6 +127,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/29683993)
+2|[Link](https://ani.social/post/29996257)
 {.dense}
 
 ## Koori no Jouheki • The Ramparts of Ice
@@ -241,6 +242,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/29683994)
+2|[Link](https://ani.social/post/29996258)
 {.dense}
 
 ## Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season • The Beginning After the End Season 2
