@@ -14,6 +14,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
+| Awajima Hyakkei | A Hundred Scenes of AWAJIMA | https://anilist.co/anime/177501 | [Link](https://ani.social/post/30007667) |
 | Akane-banashi | Akane-banashi | https://anilist.co/anime/196935 | [Link](https://ani.social/post/29769720) |
 | Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. | An Observation Log of My Fiancée Who Calls Herself a Villainess | https://anilist.co/anime/192808 | [Link](https://ani.social/post/29854842) |
 | Honzuki no Gekokujou: Ryoushu no Youjo | Ascendance of a Bookworm: Adopted Daughter of an Archduke | https://anilist.co/anime/171110 | [Link](https://ani.social/post/29761018) |
@@ -71,7 +72,6 @@ These shows have had episodes air already, but no thread was created because the
 
 | Show Name | English Show Name | AniList Link | Most Recently Episode Number  |
 | :-------- | :---------------- | :----------- | :--------------------------: |
-| Awajima Hyakkei | A Hundred Scenes of AWAJIMA | https://anilist.co/anime/177501 | Episode 1 |
 | Jingai Kyoushitsu no Ningengirai Kyoushi | A Misanthrope Teaches a Class for Demi-Humans | https://anilist.co/anime/198374 | Episode 13 |
 | 29-sai Dokushin Chuuken Boukensha no Nichijou | An Adventurer’s Daily Grind at Age 29 | https://anilist.co/anime/192261 | Episode 12 |
 | Ansatsu Kyoushitsu: Minna no Jikan | Ansatsu Kyoushitsu: Minna no Jikan | https://anilist.co/anime/198373 | Episode 1 |
