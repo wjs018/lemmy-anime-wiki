@@ -134,6 +134,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/29682654)
+2|[Link](https://ani.social/post/29995073)
 {.dense}
 
 ## Kujima Utaeba Ie Hororo • Kujima: Why Sing, When You Can Warble?
