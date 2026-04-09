@@ -213,6 +213,13 @@ Episode|Link
 1|[Link](https://ani.social/post/29724934)
 {.dense}
 
+## Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi • The Klutzy Class Monitor and the Girl with the Short Skirt
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/29988524)
+{.dense}
+
 ## Re:Zero kara Hajimeru Isekai Seikatsu 4th Season • Re:ZERO -Starting Life in Another World- Season 4
 
 Episode|Link
