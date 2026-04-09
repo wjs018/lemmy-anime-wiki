@@ -71,6 +71,7 @@ These shows have had episodes air already, but no thread was created because the
 
 | Show Name | English Show Name | AniList Link | Most Recently Episode Number  |
 | :-------- | :---------------- | :----------- | :--------------------------: |
+| Awajima Hyakkei | A Hundred Scenes of AWAJIMA | https://anilist.co/anime/177501 | Episode 1 |
 | Jingai Kyoushitsu no Ningengirai Kyoushi | A Misanthrope Teaches a Class for Demi-Humans | https://anilist.co/anime/198374 | Episode 13 |
 | 29-sai Dokushin Chuuken Boukensha no Nichijou | An Adventurer’s Daily Grind at Age 29 | https://anilist.co/anime/192261 | Episode 12 |
 | Ansatsu Kyoushitsu: Minna no Jikan | Ansatsu Kyoushitsu: Minna no Jikan | https://anilist.co/anime/198373 | Episode 1 |
@@ -192,7 +193,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
-| Awajima Hyakkei | A Hundred Scenes of AWAJIMA | https://anilist.co/anime/177501 | April 09 at 16:45 |
 | Candy Caries | Candy Caries | https://anilist.co/anime/205772 | April 15 at 02:56 |
 | Aishiteru Game wo Owarasetai | I Want to End this Love Game | https://anilist.co/anime/194393 | April 14 at 14:00 |
 | Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | April 11 at 22:00 |
