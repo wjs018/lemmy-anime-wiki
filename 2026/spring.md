@@ -71,6 +71,13 @@ Episode|Link
 1|[Link](https://ani.social/post/29900110)
 {.dense}
 
+## Hime Kishi wa Barbaroi no Yome • The Warrior Princess and the Barbaric King
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/29986143)
+{.dense}
+
 ## Honzuki no Gekokujou: Ryoushu no Youjo • Ascendance of a Bookworm: Adopted Daughter of an Archduke
 
 Episode|Link
