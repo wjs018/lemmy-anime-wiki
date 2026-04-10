@@ -142,7 +142,7 @@ These shows have had episodes air already, but no thread was created because the
 | Vigilante: Boku no Hero Academia ILLEGALS 2nd Season | My Hero Academia: Vigilantes Season 2 | https://anilist.co/anime/195322 | Episode 12 |
 | Nezumi-kun no Chokki (TV) | Nezumi-kun no Chokki (TV) | https://anilist.co/anime/198411 | Episode 1 |
 | Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | https://anilist.co/anime/201817 | Episode 2 |
-| Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 210 |
+| Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 211 |
 | Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 49 |
 | Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru | Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power | https://anilist.co/anime/185993 | Episode 12 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1156 |
