@@ -86,6 +86,13 @@ Episode|Link
 1|[Link](https://ani.social/post/29986143)
 {.dense}
 
+## Hokuto no Ken: FIST OF THE NORTH STAR • FIST OF THE NORTH STAR: HOKUTO NO KEN
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/30042742)
+{.dense}
+
 ## Honzuki no Gekokujou: Ryoushu no Youjo • Ascendance of a Bookworm: Adopted Daughter of an Archduke
 
 Episode|Link
