@@ -116,6 +116,13 @@ Episode|Link
 2|[Link](https://ani.social/post/30037254)
 {.dense}
 
+## Kamiina Botan, Yoeru Sugata wa Yuri no Hana • Botan Kamiina Fully Blossoms When Drunk
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/30039988)
+{.dense}
+
 ## Kanan-sama wa Akumade Choroi • Mistress Kanan is Devilishly Easy
 
 Episode|Link
@@ -289,6 +296,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/29726003)
+2|[Link](https://ani.social/post/30039987)
 {.dense}
 
 ## Tongari Boushi no Atelier • Witch Hat Atelier
