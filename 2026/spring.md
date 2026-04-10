@@ -282,6 +282,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/29727258)
+2|[Link](https://ani.social/post/30041431)
 {.dense}
 
 ## Tadaima, Ojamasaremasu!
