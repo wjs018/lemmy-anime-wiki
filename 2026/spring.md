@@ -91,6 +91,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/30042742)
+2|[Link](https://ani.social/post/30043533)
 {.dense}
 
 ## Honzuki no Gekokujou: Ryoushu no Youjo • Ascendance of a Bookworm: Adopted Daughter of an Archduke
