@@ -185,6 +185,7 @@ These shows have had episodes air already, but no thread was created because the
 | Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 370 |
 | Yoroi Shinden Samurai Troopers | Yoroi-Shinden Samurai Troopers | https://anilist.co/anime/194318 | Episode 12 |
 | Osananajimi to wa Love Comedy ni Naranai | You Can't Be In a Rom-Com with Your Childhood Friends! | https://anilist.co/anime/189565 | Episode 12 |
+| Yowa Yowa Sensei | Yowayowa Sensei | https://anilist.co/anime/185211 | Episode 1 |
 | mofusand | mofusand | https://anilist.co/anime/204656 | Episode 14 |
 {.dense}
 
@@ -202,6 +203,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Shou 3 Ashibe QQ Goma-chan | Shou 3 Ashibe QQ Goma-chan | https://anilist.co/anime/202386 | April 11 at 22:00 |
 | Kuroneko to Majo no Kyoushitsu | The Classroom of the Black Cat and a Witch | https://anilist.co/anime/196974 | April 12 at 14:30 |
 | Tsue to Tsurugi no Wistoria Season 2 | Wistoria: Wand and Sword Season 2 | https://anilist.co/anime/182300 | April 12 at 07:30 |
-| Yowa Yowa Sensei | Yowayowa Sensei | https://anilist.co/anime/185211 | April 11 at 12:30 |
 | Yozakura-san Chi no Daisakusen 2nd Season | Yozakura-san Chi no Daisakusen 2nd Season | https://anilist.co/anime/182578 | April 12 at 08:00 |
 {.dense}
