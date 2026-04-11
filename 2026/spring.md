@@ -226,6 +226,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/29772129)
+2|[Link](https://ani.social/post/30089466)
 {.dense}
 
 ## Nippon Sangoku • NIPPON SANGOKU: The Three Nations of the Crimson Sun
