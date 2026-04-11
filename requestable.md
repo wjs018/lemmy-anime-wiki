@@ -162,7 +162,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | Sai-Kyo-Oh! Zukan: The Ultimate Tournament | https://anilist.co/anime/185718 | Episode 50 |
 | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | https://anilist.co/anime/200769 | Episode 2 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2826 |
-| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1329 |
+| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1330 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 156 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 148 |
 | Soushen Ji | Soushen Ji | https://anilist.co/anime/166437 | Episode 1 |
