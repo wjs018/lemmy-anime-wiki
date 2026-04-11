@@ -15,6 +15,7 @@ Below, you can find an index of all the discussion threads for shows from the Sp
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/29769720)
+2|[Link](https://ani.social/post/30087083)
 {.dense}
 
 ## Awajima Hyakkei • A Hundred Scenes of AWAJIMA
@@ -330,6 +331,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/29769686)
+2|[Link](https://ani.social/post/30087084)
 {.dense}
 
 ## Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki • Classroom of the Elite 4th Season: Second Year, First Semester
