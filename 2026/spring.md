@@ -189,6 +189,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/29770955)
+2|[Link](https://ani.social/post/30088650)
 {.dense}
 
 ## MARRIAGETOXIN
@@ -293,6 +294,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/29457731)
 2|[Link](https://ani.social/post/29772848)
+3|[Link](https://ani.social/post/30088651)
 {.dense}
 
 ## Snowball Earth
