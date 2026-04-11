@@ -38,7 +38,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kirio Fanclub | Kirio Fanclub | https://anilist.co/anime/181284 | [Link](https://ani.social/post/29996257) |
 | Kujima Utaeba Ie Hororo | Kujima: Why Sing, When You Can Warble? | https://anilist.co/anime/177508 | [Link](https://ani.social/post/29991274) |
 | LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | [Link](https://ani.social/post/29859258) |
-| MAO | MAO | https://anilist.co/anime/196012 | [Link](https://ani.social/post/29770955) |
+| MAO | MAO | https://anilist.co/anime/196012 | [Link](https://ani.social/post/30088650) |
 | MARRIAGETOXIN | MARRIAGETOXIN | https://anilist.co/anime/199547 | [Link](https://ani.social/post/29901698) |
 | Marika-chan no Koukando wa Bukkowareteiru | Marika's Love Meter Malfunction | https://anilist.co/anime/202523 | [Link](https://ani.social/post/29820303) |
 | Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de" | Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de" | https://anilist.co/anime/206951 | [Link](https://ani.social/post/29909415) |
@@ -53,7 +53,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Niwatori Fighter | Rooster Fighter | https://anilist.co/anime/179813 | [Link](https://ani.social/post/29798961) |
 | JoJo no Kimyou na Bouken: Steel Ball Run | STEEL BALL RUN JoJo's Bizarre Adventure | https://anilist.co/anime/190327 | [Link](https://ani.social/post/29040012) |
 | Yuusha no Kuzu | Scum of the Brave | https://anilist.co/anime/187989 | [Link](https://ani.social/post/29461728) |
-| Shunkashuutou Daikousha: Haru no Mai | Shunkashuutou Daikousha: Haru no Mai | https://anilist.co/anime/190143 | [Link](https://ani.social/post/29772848) |
+| Shunkashuutou Daikousha: Haru no Mai | Shunkashuutou Daikousha: Haru no Mai | https://anilist.co/anime/190143 | [Link](https://ani.social/post/30088651) |
 | Snowball Earth | Snowball Earth | https://anilist.co/anime/196144 | [Link](https://ani.social/post/30041431) |
 | Tadaima, Ojamasaremasu! | Tadaima, Ojamasaremasu! | https://anilist.co/anime/202985 | [Link](https://ani.social/post/29908036) |
 | Tensei Shitara Slime Datta Ken 4th Season | That Time I Got Reincarnated as a Slime Season 4 | https://anilist.co/anime/182205 | [Link](https://ani.social/post/30039987) |
@@ -137,7 +137,7 @@ These shows have had episodes air already, but no thread was created because the
 | Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru | Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru | https://anilist.co/anime/210234 | Episode 2 |
 | Mata Korosarete Shimatta no desu ne, Tantei-sama | Mata Korosarete Shimatta no desu ne, Tantei-sama | https://anilist.co/anime/202381 | Episode 2 |
 | Meitantei Conan: Highway no Datenshi | Meitantei Conan: Highway no Datenshi | https://anilist.co/anime/198369 | Episode 1 |
-| Mu Shen Ji 3 | Mu Shen Ji 3 | https://anilist.co/anime/203953 | Episode 25 |
+| Mu Shen Ji 3 | Mu Shen Ji 3 | https://anilist.co/anime/203953 | Episode 26 |
 | Vigilante: Boku no Hero Academia ILLEGALS 2nd Season | My Hero Academia: Vigilantes Season 2 | https://anilist.co/anime/195322 | Episode 12 |
 | Nezumi-kun no Chokki (TV) | Nezumi-kun no Chokki (TV) | https://anilist.co/anime/198411 | Episode 2 |
 | Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | https://anilist.co/anime/201817 | Episode 2 |
@@ -149,7 +149,6 @@ These shows have had episodes air already, but no thread was created because the
 | Omae wa Mada Gunma wo Shiranai: Reiwa-ban | Omae wa Mada Gunma wo Shiranai: Reiwa-ban | https://anilist.co/anime/202419 | Episode 11 |
 | Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 1 |
 | Oshirimae Man: Fukkatsu no Oshirimae Teikoku | Oshirimae Man: Fukkatsu no Oshirimae Teikoku | https://anilist.co/anime/206857 | Episode 1 |
-| Paris ni Saku Étoile | Paris ni Saku Étoile | https://anilist.co/anime/197097 | Episode 1 |
 | PetitCure: Precure Fairies Season 2 | PetitCure: Precure Fairies Season 2 | https://anilist.co/anime/199635 | Episode 24 |
 | PetitCure: Precure Fairies Season 3 | PetitCure: Precure Fairies Season 3 | https://anilist.co/anime/209541 | Episode 3 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 133 |
