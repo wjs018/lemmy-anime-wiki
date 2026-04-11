@@ -99,6 +99,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/29761018)
+2|[Link](https://ani.social/post/30074892)
 {.dense}
 
 ## Isekai Nonbiri Nouka 2 • Farming Life in Another World 2
