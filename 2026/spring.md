@@ -103,6 +103,13 @@ Episode|Link
 2|[Link](https://ani.social/post/30074892)
 {.dense}
 
+## Ichijouma Mankitsu Gurashi! • Ichijyoma Mankitsu Gurashi!
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/30090543)
+{.dense}
+
 ## Isekai Nonbiri Nouka 2 • Farming Life in Another World 2
 
 Episode|Link
@@ -138,6 +145,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/29772849)
+2|[Link](https://ani.social/post/30090542)
 {.dense}
 
 ## Kanojo, Okarishimasu 5th Season • Rent-a-Girlfriend Season 5
