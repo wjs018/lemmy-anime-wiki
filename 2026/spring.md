@@ -146,6 +146,13 @@ Episode|Link
 1|[Link](https://ani.social/post/29944514)
 {.dense}
 
+## Kill Ao
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/30083541)
+{.dense}
+
 ## Kirio Fanclub
 
 Episode|Link
