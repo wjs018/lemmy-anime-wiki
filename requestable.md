@@ -43,7 +43,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Marika-chan no Koukando wa Bukkowareteiru | Marika's Love Meter Malfunction | https://anilist.co/anime/202523 | [Link](https://ani.social/post/29820303) |
 | Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de" | Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de" | https://anilist.co/anime/206951 | [Link](https://ani.social/post/29909415) |
 | Kanan-sama wa Akumade Choroi | Mistress Kanan is Devilishly Easy | https://anilist.co/anime/190704 | [Link](https://ani.social/post/29772849) |
-| NEEDY GIRL OVERDOSE | NEEDY GIRL OVERDOSE | https://anilist.co/anime/202102 | [Link](https://ani.social/post/29772129) |
+| NEEDY GIRL OVERDOSE | NEEDY GIRL OVERDOSE | https://anilist.co/anime/202102 | [Link](https://ani.social/post/30089466) |
 | Nippon Sangoku | NIPPON SANGOKU: The Three Nations of the Crimson Sun | https://anilist.co/anime/206914 | [Link](https://ani.social/post/29809617) |
 | Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season | Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season | https://anilist.co/anime/170019 | [Link](https://ani.social/post/30038490) |
 | Reincarnation no Kaben | Petals of Reincarnation | https://anilist.co/anime/179950 | [Link](https://ani.social/post/29996258) |
