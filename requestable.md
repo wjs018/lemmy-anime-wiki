@@ -91,6 +91,7 @@ These shows have had episodes air already, but no thread was created because the
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | Episode 26 |
 | Daikenja Riddle no Jikan Gyakko | Daikenja Riddle no Jikan Gyakko | https://anilist.co/anime/210375 | Episode 2 |
 | Dead Account | Dead Account | https://anilist.co/anime/187901 | Episode 12 |
+| Diamond no Ace act II: Second Season | Diamond no Ace act II: Second Season | https://anilist.co/anime/177634 | Episode 2 |
 | Ookii Onnanoko wa Suki desu ka? | Do You Like Big Girls? | https://anilist.co/anime/204319 | Episode 1 |
 | Dokodemo Makibao: World Tour | Dokodemo Makibao: World Tour | https://anilist.co/anime/199931 | Episode 23 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 910 |
@@ -115,7 +116,7 @@ These shows have had episodes air already, but no thread was created because the
 | Himitsu Kessha Taka no Tsume XX | Himitsu Kessha Taka no Tsume XX | https://anilist.co/anime/203472 | Episode 13 |
 | Himitsu no AiPri: Ring-hen | Himitsu no AiPri: Ring-hen | https://anilist.co/anime/184470 | Episode 51 |
 | Hokuto no Ken: Kenou-gun Zako-tachi no Banka | Hokuto no Ken: Kenou-gun Zako-tachi no Banka | https://anilist.co/anime/198720 | Episode 12 |
-| Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 360 |
+| Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 361 |
 | Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu | Hoppe-chan: Sun Oukoku to Kuro Hoppe-dan no Himitsu | https://anilist.co/anime/203148 | Episode 12 |
 | Hyakki Yakou Shou | Hyakki Yakou Shou | https://anilist.co/anime/207675 | Episode 1 |
 | Saioshi no Gikei Mederu Tame, Nagaikishimasu! | I'll Live a Long Life to Dote on My Favorite Stepbrother! | https://anilist.co/anime/199446 | Episode 12 |
@@ -197,7 +198,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Candy Caries | Candy Caries | https://anilist.co/anime/205772 | April 15 at 02:56 |
-| Diamond no Ace act II: Second Season | Diamond no Ace act II: Second Season | https://anilist.co/anime/177634 | April 12 at 09:30 |
 | Aishiteru Game wo Owarasetai | I Want to End this Love Game | https://anilist.co/anime/194393 | April 14 at 14:00 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | https://anilist.co/anime/210687 | April 15 at 14:30 |
 | Kuroneko to Majo no Kyoushitsu | The Classroom of the Black Cat and a Witch | https://anilist.co/anime/196974 | April 12 at 14:30 |
