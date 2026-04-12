@@ -149,7 +149,7 @@ These shows have had episodes air already, but no thread was created because the
 | Odekake Kozame Season 2 | Odekake Kozame Season 2 | https://anilist.co/anime/204269 | Episode 1 |
 | Hikuidori | Oedo Fire Slayer -The Legend of Phoenix- | https://anilist.co/anime/187062 | Episode 12 |
 | Omae wa Mada Gunma wo Shiranai: Reiwa-ban | Omae wa Mada Gunma wo Shiranai: Reiwa-ban | https://anilist.co/anime/202419 | Episode 11 |
-| Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 1 |
+| Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 2 |
 | Oshirimae Man: Fukkatsu no Oshirimae Teikoku | Oshirimae Man: Fukkatsu no Oshirimae Teikoku | https://anilist.co/anime/206857 | Episode 1 |
 | PetitCure: Precure Fairies Season 2 | PetitCure: Precure Fairies Season 2 | https://anilist.co/anime/199635 | Episode 24 |
 | PetitCure: Precure Fairies Season 3 | PetitCure: Precure Fairies Season 3 | https://anilist.co/anime/209541 | Episode 3 |
@@ -167,7 +167,7 @@ These shows have had episodes air already, but no thread was created because the
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 156 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 148 |
 | Soushen Ji | Soushen Ji | https://anilist.co/anime/166437 | Episode 1 |
-| Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 10 |
+| Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 11 |
 | THE IDOLM@STER Million Live!: Itsuka, Mannaka de | THE IDOLM@STER Million Live!: Itsuka, Mannaka de | https://anilist.co/anime/187375 | Episode 1 |
 | TOMICA and TOM | TOMICA and TOM | https://anilist.co/anime/196227 | Episode 9 |
 | TRIGUN STARGAZE | TRIGUN STARGAZE | https://anilist.co/anime/163144 | Episode 12 |
