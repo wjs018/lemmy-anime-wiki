@@ -132,7 +132,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 1 |
 | Majutsushi Kunon wa Mieteiru | Kunon the Sorcerer Can See | https://anilist.co/anime/186333 | Episode 13 |
 | Kami no Niwatsuki Kusunoki-tei  | Kusunoki's Garden of Gods | https://anilist.co/anime/196029 | Episode 2 |
-| Mahou no Shimai Lulutto Lilly | Mahou no Shimai Lulutto Lilly | https://anilist.co/anime/178749 | Episode 1 |
+| Mahou no Shimai Lulutto Lilly | Mahou no Shimai Lulutto Lilly | https://anilist.co/anime/178749 | Episode 2 |
 | Maid-san wa Taberu dake | Maid-san wa Taberu dake | https://anilist.co/anime/197868 | Episode 3 |
 | Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru | Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru | https://anilist.co/anime/210234 | Episode 2 |
 | Mata Korosarete Shimatta no desu ne, Tantei-sama | Mata Korosarete Shimatta no desu ne, Tantei-sama | https://anilist.co/anime/202381 | Episode 2 |
@@ -172,6 +172,7 @@ These shows have had episodes air already, but no thread was created because the
 | TRIGUN STARGAZE | TRIGUN STARGAZE | https://anilist.co/anime/163144 | Episode 12 |
 | Tensei Akujo no Kuro Rekishi OVA | Tensei Akujo no Kuro Rekishi OVA | https://anilist.co/anime/205054 | Episode 1 |
 | Arne no Jikenbo | The Case Book of Arne | https://anilist.co/anime/183984 | Episode 12 |
+| Kuroneko to Majo no Kyoushitsu | The Classroom of the Black Cat and a Witch | https://anilist.co/anime/196974 | Episode 1 |
 | Goumon Baito-kun no Nichijou | The Daily Life of a Part-time Torturer | https://anilist.co/anime/197731 | Episode 12 |
 | Darwin Jihen | The Darwin Incident | https://anilist.co/anime/177679 | Episode 13 |
 | Kami no Shizuku | The Drops of God | https://anilist.co/anime/202508 | Episode 1 |
@@ -200,5 +201,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Candy Caries | Candy Caries | https://anilist.co/anime/205772 | April 15 at 02:56 |
 | Aishiteru Game wo Owarasetai | I Want to End this Love Game | https://anilist.co/anime/194393 | April 14 at 14:00 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | https://anilist.co/anime/210687 | April 15 at 14:30 |
-| Kuroneko to Majo no Kyoushitsu | The Classroom of the Black Cat and a Witch | https://anilist.co/anime/196974 | April 12 at 14:30 |
 {.dense}
