@@ -250,6 +250,7 @@ Episode|Link
 :-:|:-:
 3|[Link](https://ani.social/post/29710523)
 4|[Link](https://ani.social/post/29798961)
+5|[Link](https://ani.social/post/30114649)
 {.dense}
 
 ## Otaku ni Yasashii Gal wa Inai!? • Gals Can't Be Kind to Otaku!?
