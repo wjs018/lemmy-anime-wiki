@@ -35,7 +35,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kill Ao | Kill Ao | https://anilist.co/anime/198113 | [Link](https://ani.social/post/30083541) |
 | Kirio Fanclub | Kirio Fanclub | https://anilist.co/anime/181284 | [Link](https://ani.social/post/29996257) |
 | Kujima Utaeba Ie Hororo | Kujima: Why Sing, When You Can Warble? | https://anilist.co/anime/177508 | [Link](https://ani.social/post/29991274) |
-| LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | [Link](https://ani.social/post/29859258) |
+| LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | [Link](https://ani.social/post/30179103) |
 | MAO | MAO | https://anilist.co/anime/196012 | [Link](https://ani.social/post/30088650) |
 | MARRIAGETOXIN | MARRIAGETOXIN | https://anilist.co/anime/199547 | [Link](https://ani.social/post/29901698) |
 | Marika-chan no Koukando wa Bukkowareteiru | Marika's Love Meter Malfunction | https://anilist.co/anime/202523 | [Link](https://ani.social/post/30135190) |
