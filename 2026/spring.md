@@ -190,6 +190,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/29859258)
+2|[Link](https://ani.social/post/30179103)
 {.dense}
 
 ## MAO
