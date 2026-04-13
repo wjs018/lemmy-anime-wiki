@@ -97,6 +97,7 @@ These shows have had episodes air already, but no thread was created because the
 | Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | Episode 37 |
 | Entotsu-machi no Poupelle: Yakusoku no Tokei-dai | Entotsu-machi no Poupelle: Yakusoku no Tokei-dai | https://anilist.co/anime/190668 | Episode 1 |
 | Replica Datte, Koi wo Suru. | Even a Replica Can Fall in Love | https://anilist.co/anime/186744 | Episode 1 |
+| Isekai Nonbiri Nouka 2 | Farming Life in Another World 2 | https://anilist.co/anime/197824 | Episode 2 |
 | Fate/strange Fake | Fate/strange Fake | https://anilist.co/anime/166617 | Episode 13 |
 | Enen no Shouboutai: San no Shou Part 2 | Fire Force Season 3 Part 2 | https://anilist.co/anime/179062 | Episode 13 |
 | Fukufuku no Chizu | Fukufuku no Chizu | https://anilist.co/anime/206889 | Episode 1 |
@@ -197,7 +198,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Candy Caries | Candy Caries | https://anilist.co/anime/205772 | April 15 at 02:56 |
-| Isekai Nonbiri Nouka 2 | Farming Life in Another World 2 | https://anilist.co/anime/197824 | April 13 at 14:30 |
 | Aishiteru Game wo Owarasetai | I Want to End this Love Game | https://anilist.co/anime/194393 | April 14 at 14:00 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | https://anilist.co/anime/210687 | April 15 at 14:30 |
 {.dense}
