@@ -72,6 +72,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/29903835)
+2|[Link](https://ani.social/post/30224695)
 {.dense}
 
 ## Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2 • The Most Heretical Last Boss Queen: From Villainess to Savior Season 2
