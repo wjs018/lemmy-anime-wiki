@@ -187,7 +187,7 @@ These shows have had episodes air already, but no thread was created because the
 | Osananajimi to wa Love Comedy ni Naranai | You Can't Be In a Rom-Com with Your Childhood Friends! | https://anilist.co/anime/189565 | Episode 12 |
 | Yowa Yowa Sensei | Yowayowa Sensei | https://anilist.co/anime/185211 | Episode 1 |
 | Yozakura-san Chi no Daisakusen 2nd Season | Yozakura-san Chi no Daisakusen 2nd Season | https://anilist.co/anime/182578 | Episode 1 |
-| mofusand | mofusand | https://anilist.co/anime/204656 | Episode 14 |
+| mofusand | mofusand | https://anilist.co/anime/204656 | Episode 15 |
 {.dense}
 
 ## Upcoming Shows
