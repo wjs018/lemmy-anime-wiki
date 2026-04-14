@@ -240,6 +240,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/29909415)
+2|[Link](https://ani.social/post/30227992)
 {.dense}
 
 ## NEEDY GIRL OVERDOSE
