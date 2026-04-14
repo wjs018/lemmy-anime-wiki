@@ -185,6 +185,13 @@ Episode|Link
 1|[Link](https://ani.social/post/29991274)
 {.dense}
 
+## Kuroneko to Majo no Kyoushitsu • The Classroom of the Black Cat and a Witch
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/30216151)
+{.dense}
+
 ## LIAR GAME
 
 Episode|Link
