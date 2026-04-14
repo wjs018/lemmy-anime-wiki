@@ -306,6 +306,13 @@ Episode|Link
 2|[Link](https://ani.social/post/29996258)
 {.dense}
 
+## Replica Datte, Koi wo Suru. • Even a Replica Can Fall in Love
+
+Episode|Link
+:-:|:-:
+2|[Link](https://ani.social/post/30235624)
+{.dense}
+
 ## Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season • The Beginning After the End Season 2
 
 Episode|Link
