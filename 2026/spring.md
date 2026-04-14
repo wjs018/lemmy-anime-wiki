@@ -30,6 +30,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/29902798)
+2|[Link](https://ani.social/post/30222990)
 {.dense}
 
 ## Diamond no Ace act II: Second Season
