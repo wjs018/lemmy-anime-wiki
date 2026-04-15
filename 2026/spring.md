@@ -48,6 +48,7 @@ Episode|Link
 2|[Link](https://ani.social/post/29634783)
 3|[Link](https://ani.social/post/29634783)
 4|[Link](https://ani.social/post/29946613)
+5|[Link](https://ani.social/post/30264412)
 {.dense}
 
 ## Dr. STONE: SCIENCE FUTURE Part 3 • Dr. STONE SCIENCE FUTURE Cour 3
@@ -127,6 +128,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/29632431)
 2|[Link](https://ani.social/post/29946612)
+3|[Link](https://ani.social/post/30264410)
 {.dense}
 
 ## Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. • An Observation Log of My Fiancée Who Calls Herself a Villainess
@@ -157,6 +159,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/29944514)
+2|[Link](https://ani.social/post/30264411)
 {.dense}
 
 ## Kill Ao
@@ -297,6 +300,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/29944513)
+2|[Link](https://ani.social/post/30264409)
 {.dense}
 
 ## Reincarnation no Kaben • Petals of Reincarnation
