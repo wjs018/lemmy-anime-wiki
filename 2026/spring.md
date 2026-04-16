@@ -185,6 +185,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/29683993)
 2|[Link](https://ani.social/post/29996257)
+3|[Link](https://ani.social/post/30317658)
 {.dense}
 
 ## Koori no Jouheki • The Ramparts of Ice
