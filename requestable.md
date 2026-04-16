@@ -14,7 +14,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
-| Awajima Hyakkei | A Hundred Scenes of AWAJIMA | https://anilist.co/anime/177501 | [Link](https://ani.social/post/30007667) |
+| Awajima Hyakkei | A Hundred Scenes of AWAJIMA | https://anilist.co/anime/177501 | [Link](https://ani.social/post/30320577) |
 | Akane-banashi | Akane-banashi | https://anilist.co/anime/196935 | [Link](https://ani.social/post/30087083) |
 | Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. | An Observation Log of My Fiancée Who Calls Herself a Villainess | https://anilist.co/anime/192808 | [Link](https://ani.social/post/30037254) |
 | Honzuki no Gekokujou: Ryoushu no Youjo | Ascendance of a Bookworm: Adopted Daughter of an Archduke | https://anilist.co/anime/171110 | [Link](https://ani.social/post/30074892) |
