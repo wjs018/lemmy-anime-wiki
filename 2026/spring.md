@@ -33,6 +33,13 @@ Episode|Link
 2|[Link](https://ani.social/post/30222990)
 {.dense}
 
+## Dandelion
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/30299154)
+{.dense}
+
 ## Diamond no Ace act II: Second Season
 
 Episode|Link
