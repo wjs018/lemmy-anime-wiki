@@ -23,6 +23,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/30007667)
+2|[Link](https://ani.social/post/30320577)
 {.dense}
 
 ## Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta • I Made Friends with the Second Prettiest Girl in My Class
