@@ -23,12 +23,12 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Yomi no Tsugai | Daemons of the Shadow Realm | https://anilist.co/anime/195600 | [Link](https://ani.social/post/30087084) |
 | Dandelion | Dandelion | https://anilist.co/anime/208352 | [Link](https://ani.social/post/30299154) |
 | Dorohedoro Season 2 | Dorohedoro Season 2 | https://anilist.co/anime/173172 | [Link](https://ani.social/post/30264412) |
-| Dr. STONE: SCIENCE FUTURE Part 3 | Dr. STONE SCIENCE FUTURE Cour 3 | https://anilist.co/anime/199221 | [Link](https://ani.social/post/29989531) |
+| Dr. STONE: SCIENCE FUTURE Part 3 | Dr. STONE SCIENCE FUTURE Cour 3 | https://anilist.co/anime/199221 | [Link](https://ani.social/post/30313162) |
 | Hidarikiki no Eren | Eren the Southpaw | https://anilist.co/anime/158036 | [Link](https://ani.social/post/30224695) |
 | Replica Datte, Koi wo Suru. | Even a Replica Can Fall in Love | https://anilist.co/anime/186744 | [Link](https://ani.social/post/30235624) |
 | Hokuto no Ken: FIST OF THE NORTH STAR | FIST OF THE NORTH STAR: HOKUTO NO KEN | https://anilist.co/anime/169228 | [Link](https://ani.social/post/30043533) |
 | Isekai Nonbiri Nouka 2 | Farming Life in Another World 2 | https://anilist.co/anime/197824 | [Link](https://ani.social/post/30257056) |
-| Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | [Link](https://ani.social/post/29989530) |
+| Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | [Link](https://ani.social/post/30313160) |
 | Otaku ni Yasashii Gal wa Inai!? | Gals Can't Be Kind to Otaku!? | https://anilist.co/anime/199588 | [Link](https://ani.social/post/30267870) |
 | Ganbare! Nakamura-kun!! | Go For It, Nakamura-kun!! | https://anilist.co/anime/180228 | [Link](https://ani.social/post/30269713) |
 | Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta | I Made Friends with the Second Prettiest Girl in My Class | https://anilist.co/anime/169580 | [Link](https://ani.social/post/30222990) |
