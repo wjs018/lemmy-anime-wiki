@@ -127,7 +127,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kagaku×Bouken Survival! 2nd Season | Kagaku×Bouken Survival! 2nd Season | https://anilist.co/anime/186736 | Episode 20 |
 | Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 51 |
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 29 |
-| Komekami! Girls | Komekami! Girls | https://anilist.co/anime/209940 | Episode 2 |
+| Komekami! Girls | Komekami! Girls | https://anilist.co/anime/209940 | Episode 3 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 54 |
 | Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 1 |
 | Majutsushi Kunon wa Mieteiru | Kunon the Sorcerer Can See | https://anilist.co/anime/186333 | Episode 13 |
@@ -135,7 +135,7 @@ These shows have had episodes air already, but no thread was created because the
 | Mahou no Shimai Lulutto Lilly | Mahou no Shimai Lulutto Lilly | https://anilist.co/anime/178749 | Episode 2 |
 | Maid-san wa Taberu dake | Maid-san wa Taberu dake | https://anilist.co/anime/197868 | Episode 3 |
 | Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru | Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru | https://anilist.co/anime/210234 | Episode 3 |
-| Mata Korosarete Shimatta no desu ne, Tantei-sama | Mata Korosarete Shimatta no desu ne, Tantei-sama | https://anilist.co/anime/202381 | Episode 2 |
+| Mata Korosarete Shimatta no desu ne, Tantei-sama | Mata Korosarete Shimatta no desu ne, Tantei-sama | https://anilist.co/anime/202381 | Episode 3 |
 | Meitantei Conan: Highway no Datenshi | Meitantei Conan: Highway no Datenshi | https://anilist.co/anime/198369 | Episode 1 |
 | Mu Shen Ji 3 | Mu Shen Ji 3 | https://anilist.co/anime/203953 | Episode 26 |
 | Vigilante: Boku no Hero Academia ILLEGALS 2nd Season | My Hero Academia: Vigilantes Season 2 | https://anilist.co/anime/195322 | Episode 12 |
