@@ -64,6 +64,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/29678252)
 2|[Link](https://ani.social/post/29989531)
+3|[Link](https://ani.social/post/30313162)
 {.dense}
 
 ## Ganbare! Nakamura-kun!! • Go For It, Nakamura-kun!!
