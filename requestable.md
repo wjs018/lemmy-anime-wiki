@@ -94,7 +94,7 @@ These shows have had episodes air already, but no thread was created because the
 | Dead Account | Dead Account | https://anilist.co/anime/187901 | Episode 12 |
 | Diamond no Ace act II: Second Season | Diamond no Ace act II: Second Season | https://anilist.co/anime/177634 | Episode 2 |
 | Ookii Onnanoko wa Suki desu ka? | Do You Like Big Girls? | https://anilist.co/anime/204319 | Episode 2 |
-| Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 910 |
+| Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 911 |
 | Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | Episode 37 |
 | Entotsu-machi no Poupelle: Yakusoku no Tokei-dai | Entotsu-machi no Poupelle: Yakusoku no Tokei-dai | https://anilist.co/anime/190668 | Episode 1 |
 | Hokuto no Ken: FIST OF THE NORTH STAR | FIST OF THE NORTH STAR: HOKUTO NO KEN | https://anilist.co/anime/169228 | Episode 4 |
