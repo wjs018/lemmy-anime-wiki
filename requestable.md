@@ -31,7 +31,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Otaku ni Yasashii Gal wa Inai!? | Gals Can't Be Kind to Otaku!? | https://anilist.co/anime/199588 | [Link](https://ani.social/post/30267870) |
 | Ganbare! Nakamura-kun!! | Go For It, Nakamura-kun!! | https://anilist.co/anime/180228 | [Link](https://ani.social/post/30269713) |
 | Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta | I Made Friends with the Second Prettiest Girl in My Class | https://anilist.co/anime/169580 | [Link](https://ani.social/post/30222990) |
-| Ichijouma Mankitsu Gurashi! | Ichijyoma Mankitsu Gurashi! | https://anilist.co/anime/195734 | [Link](https://ani.social/post/30090543) |
+| Ichijouma Mankitsu Gurashi! | Ichijyoma Mankitsu Gurashi! | https://anilist.co/anime/195734 | [Link](https://ani.social/post/30412952) |
 | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | https://anilist.co/anime/198939 | [Link](https://ani.social/post/30264410) |
 | Kill Ao | Kill Ao | https://anilist.co/anime/198113 | [Link](https://ani.social/post/30406265) |
 | Kirio Fanclub | Kirio Fanclub | https://anilist.co/anime/181284 | [Link](https://ani.social/post/30317658) |
@@ -82,7 +82,6 @@ These shows have had episodes air already, but no thread was created because the
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1198 |
 | Ugoku! Neko Mukashi Banashi | Cat Tales | https://anilist.co/anime/188529 | Episode 27 |
 | Mato Seihei no Slave 2 | Chained Soldier Season 2 | https://anilist.co/anime/176276 | Episode 12 |
-| Champignon no Majo | Champignon Witch | https://anilist.co/anime/185514 | Episode 12 |
 | Chibi Godzilla no Gyakushuu 3 | Chibi Godzilla Raids Again Season 3 | https://anilist.co/anime/193883 | Episode 42 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 335 |
 | Chitose-kun wa Ramune Bin no Naka | Chitose Is in the Ramune Bottle | https://anilist.co/anime/180082 | Episode 13 |
@@ -139,7 +138,6 @@ These shows have had episodes air already, but no thread was created because the
 | Nezumi-kun no Chokki (TV) | Nezumi-kun no Chokki (TV) | https://anilist.co/anime/198411 | Episode 3 |
 | Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | https://anilist.co/anime/201817 | Episode 3 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 212 |
-| Nmeneko | Nmeneko | https://anilist.co/anime/186313 | Episode 49 |
 | Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru | Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power | https://anilist.co/anime/185993 | Episode 12 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1157 |
 | Odekake Kozame Season 2 | Odekake Kozame Season 2 | https://anilist.co/anime/204269 | Episode 1 |
