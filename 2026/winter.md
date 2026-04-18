@@ -503,6 +503,7 @@ Episode|Link
 11|[Link](https://ani.social/post/29187364)
 12|[Link](https://ani.social/post/29461728)
 13|[Link](https://ani.social/post/30090540)
+14|[Link](https://ani.social/post/30410887)
 {.dense}
 
 ## [Oshi no Ko] 3rd Season • 【OSHI NO KO】Season 3
