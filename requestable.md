@@ -128,6 +128,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 1 |
 | Majutsushi Kunon wa Mieteiru | Kunon the Sorcerer Can See | https://anilist.co/anime/186333 | Episode 13 |
 | Kami no Niwatsuki Kusunoki-tei  | Kusunoki's Garden of Gods | https://anilist.co/anime/196029 | Episode 2 |
+| MAO | MAO | https://anilist.co/anime/196012 | Episode 3 |
 | Mahou no Shimai Lulutto Lilly | Mahou no Shimai Lulutto Lilly | https://anilist.co/anime/178749 | Episode 2 |
 | Maid-san wa Taberu dake | Maid-san wa Taberu dake | https://anilist.co/anime/197868 | Episode 3 |
 | Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru | Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru | https://anilist.co/anime/210234 | Episode 3 |
@@ -194,6 +195,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Hyakushou Kizoku 3rd Season OVA | Hyakushou Kizoku 3rd Season OVA | https://anilist.co/anime/204349 | April 23 at 16:00 |
-| MAO | MAO | https://anilist.co/anime/196012 | April 18 at 15:46 |
 | Saishuu Gakushou Hibike! Euphonium - Zenpen | Saishuu Gakushou Hibike! Euphonium - Zenpen | https://anilist.co/anime/188035 | April 23 at 15:00 |
 {.dense}
