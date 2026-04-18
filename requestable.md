@@ -81,7 +81,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ao no Miburo: Serizawa Ansatsu-hen | Blue Miburo Season 2 | https://anilist.co/anime/189258 | Episode 14 |
 | Candy Caries | Candy Caries | https://anilist.co/anime/205772 | Episode 1 |
 | Cardfight!! Vanguard: Divinez Genma Seisen-hen | Cardfight!! Vanguard: Divinez Genma Seisen-hen | https://anilist.co/anime/203296 | Episode 12 |
-| Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1197 |
+| Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1198 |
 | Ugoku! Neko Mukashi Banashi | Cat Tales | https://anilist.co/anime/188529 | Episode 27 |
 | Mato Seihei no Slave 2 | Chained Soldier Season 2 | https://anilist.co/anime/176276 | Episode 12 |
 | Champignon no Majo | Champignon Witch | https://anilist.co/anime/185514 | Episode 12 |
