@@ -140,7 +140,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 212 |
 | Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru | Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power | https://anilist.co/anime/185993 | Episode 12 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1157 |
-| Odekake Kozame Season 2 | Odekake Kozame Season 2 | https://anilist.co/anime/204269 | Episode 1 |
+| Odekake Kozame Season 2 | Odekake Kozame Season 2 | https://anilist.co/anime/204269 | Episode 2 |
 | Hikuidori | Oedo Fire Slayer -The Legend of Phoenix- | https://anilist.co/anime/187062 | Episode 12 |
 | Omae wa Mada Gunma wo Shiranai: Reiwa-ban | Omae wa Mada Gunma wo Shiranai: Reiwa-ban | https://anilist.co/anime/202419 | Episode 11 |
 | Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 2 |
@@ -157,7 +157,7 @@ These shows have had episodes air already, but no thread was created because the
 | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | https://anilist.co/anime/200769 | Episode 4 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2827 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1331 |
-| Shou 3 Ashibe QQ Goma-chan | Shou 3 Ashibe QQ Goma-chan | https://anilist.co/anime/202386 | Episode 1 |
+| Shou 3 Ashibe QQ Goma-chan | Shou 3 Ashibe QQ Goma-chan | https://anilist.co/anime/202386 | Episode 2 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 158 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 149 |
 | Soushen Ji | Soushen Ji | https://anilist.co/anime/166437 | Episode 1 |
