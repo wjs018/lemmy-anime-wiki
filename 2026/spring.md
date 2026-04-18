@@ -181,6 +181,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/30083541)
+2|[Link](https://ani.social/post/30406265)
 {.dense}
 
 ## Kirio Fanclub
