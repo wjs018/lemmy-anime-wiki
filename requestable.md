@@ -40,7 +40,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | MARRIAGETOXIN | MARRIAGETOXIN | https://anilist.co/anime/199547 | [Link](https://ani.social/post/30221964) |
 | Marika-chan no Koukando wa Bukkowareteiru | Marika's Love Meter Malfunction | https://anilist.co/anime/202523 | [Link](https://ani.social/post/30135190) |
 | Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de" | Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de" | https://anilist.co/anime/206951 | [Link](https://ani.social/post/30227992) |
-| Kanan-sama wa Akumade Choroi | Mistress Kanan is Devilishly Easy | https://anilist.co/anime/190704 | [Link](https://ani.social/post/30090542) |
+| Kanan-sama wa Akumade Choroi | Mistress Kanan is Devilishly Easy | https://anilist.co/anime/190704 | [Link](https://ani.social/post/30410888) |
 | NEEDY GIRL OVERDOSE | NEEDY GIRL OVERDOSE | https://anilist.co/anime/202102 | [Link](https://ani.social/post/30409917) |
 | Nippon Sangoku | NIPPON SANGOKU: The Three Nations of the Crimson Sun | https://anilist.co/anime/206914 | [Link](https://ani.social/post/30124668) |
 | Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season | Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season | https://anilist.co/anime/170019 | [Link](https://ani.social/post/30360193) |
@@ -49,7 +49,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Fangkai Nage Nüwu | Release that Witch | https://anilist.co/anime/137662 | [Link](https://ani.social/post/30185547) |
 | Kanojo, Okarishimasu 5th Season | Rent-a-Girlfriend Season 5 | https://anilist.co/anime/199029 | [Link](https://ani.social/post/30264411) |
 | Niwatori Fighter | Rooster Fighter | https://anilist.co/anime/179813 | [Link](https://ani.social/post/30114649) |
-| Yuusha no Kuzu | Scum of the Brave | https://anilist.co/anime/187989 | [Link](https://ani.social/post/30090540) |
+| Yuusha no Kuzu | Scum of the Brave | https://anilist.co/anime/187989 | [Link](https://ani.social/post/30410887) |
 | Shunkashuutou Daikousha: Haru no Mai | Shunkashuutou Daikousha: Haru no Mai | https://anilist.co/anime/190143 | [Link](https://ani.social/post/30408761) |
 | Snowball Earth | Snowball Earth | https://anilist.co/anime/196144 | [Link](https://ani.social/post/30363678) |
 | Tadaima, Ojamasaremasu! | Tadaima, Ojamasaremasu! | https://anilist.co/anime/202985 | [Link](https://ani.social/post/30226922) |
