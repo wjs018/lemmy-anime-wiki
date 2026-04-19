@@ -21,7 +21,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kamiina Botan, Yoeru Sugata wa Yuri no Hana | Botan Kamiina Fully Blossoms When Drunk | https://anilist.co/anime/187869 | [Link](https://ani.social/post/30363679) |
 | Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki | Classroom of the Elite 4th Season: Second Year, First Semester | https://anilist.co/anime/180745 | [Link](https://ani.social/post/30263489) |
 | Yomi no Tsugai | Daemons of the Shadow Realm | https://anilist.co/anime/195600 | [Link](https://ani.social/post/30407195) |
-| Dandelion | Dandelion | https://anilist.co/anime/208352 | [Link](https://ani.social/post/30299154) |
 | Dorohedoro Season 2 | Dorohedoro Season 2 | https://anilist.co/anime/173172 | [Link](https://ani.social/post/30264412) |
 | Dr. STONE: SCIENCE FUTURE Part 3 | Dr. STONE SCIENCE FUTURE Cour 3 | https://anilist.co/anime/199221 | [Link](https://ani.social/post/30313162) |
 | Hidarikiki no Eren | Eren the Southpaw | https://anilist.co/anime/158036 | [Link](https://ani.social/post/30224695) |
