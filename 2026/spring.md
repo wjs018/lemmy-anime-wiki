@@ -284,6 +284,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/29809617)
 2|[Link](https://ani.social/post/30124668)
+3|[Link](https://ani.social/post/30445360)
 {.dense}
 
 ## Niwatori Fighter • Rooster Fighter
