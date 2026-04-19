@@ -218,6 +218,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/30216151)
+2|[Link](https://ani.social/post/30454955)
 {.dense}
 
 ## LIAR GAME
