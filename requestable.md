@@ -191,6 +191,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Hyakushou Kizoku 3rd Season OVA | Hyakushou Kizoku 3rd Season OVA | https://anilist.co/anime/204349 | April 23 at 16:00 |
+| Mu Shen Ji 4 | Mu Shen Ji 4 | https://anilist.co/anime/211181 | April 25 at 15:00 |
 | Pan Long | Pan Long | https://anilist.co/anime/153466 | April 29 at 15:00 |
 | Saishuu Gakushou Hibike! Euphonium - Zenpen | Saishuu Gakushou Hibike! Euphonium - Zenpen | https://anilist.co/anime/188035 | April 23 at 15:00 |
 {.dense}
