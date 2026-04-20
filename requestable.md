@@ -120,6 +120,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 2 |
 | Majutsushi Kunon wa Mieteiru | Kunon the Sorcerer Can See | https://anilist.co/anime/186333 | Episode 13 |
 | Kami no Niwatsuki Kusunoki-tei  | Kusunoki's Garden of Gods | https://anilist.co/anime/196029 | Episode 3 |
+| LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 3 |
 | MAO | MAO | https://anilist.co/anime/196012 | Episode 3 |
 | Mahou no Shimai Lulutto Lilly | Mahou no Shimai Lulutto Lilly | https://anilist.co/anime/178749 | Episode 3 |
 | Maid-san wa Taberu dake | Maid-san wa Taberu dake | https://anilist.co/anime/197868 | Episode 4 |
@@ -188,7 +189,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Hyakushou Kizoku 3rd Season OVA | Hyakushou Kizoku 3rd Season OVA | https://anilist.co/anime/204349 | April 23 at 16:00 |
 | Iya na Kao sare nagara Opantsu Misete Moraitai Returns | Iya na Kao sare nagara Opantsu Misete Moraitai Returns | https://anilist.co/anime/196840 | April 30 at 13:00 |
-| LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | April 20 at 16:00 |
 | Mu Shen Ji 4 | Mu Shen Ji 4 | https://anilist.co/anime/211181 | April 25 at 15:00 |
 | Pan Long | Pan Long | https://anilist.co/anime/153466 | April 29 at 15:00 |
 | Saishuu Gakushou Hibike! Euphonium - Zenpen | Saishuu Gakushou Hibike! Euphonium - Zenpen | https://anilist.co/anime/188035 | April 23 at 15:00 |
