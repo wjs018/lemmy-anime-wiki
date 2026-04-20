@@ -398,6 +398,7 @@ Episode|Link
 1|[Link](https://ani.social/post/29856851)
 2|[Link](https://ani.social/post/29856851)
 3|[Link](https://ani.social/post/30176726)
+4|[Link](https://ani.social/post/30498786)
 {.dense}
 
 ## Yomi no Tsugai • Daemons of the Shadow Realm
