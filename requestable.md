@@ -24,12 +24,12 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Dorohedoro Season 2 | Dorohedoro Season 2 | https://anilist.co/anime/173172 | [Link](https://ani.social/post/30264412) |
 | Dr. STONE: SCIENCE FUTURE Part 3 | Dr. STONE SCIENCE FUTURE Cour 3 | https://anilist.co/anime/199221 | [Link](https://ani.social/post/30313162) |
 | Hidarikiki no Eren | Eren the Southpaw | https://anilist.co/anime/158036 | [Link](https://ani.social/post/30224695) |
-| Replica Datte, Koi wo Suru. | Even a Replica Can Fall in Love | https://anilist.co/anime/186744 | [Link](https://ani.social/post/30235624) |
+| Replica Datte, Koi wo Suru. | Even a Replica Can Fall in Love | https://anilist.co/anime/186744 | [Link](https://ani.social/post/30545136) |
 | Isekai Nonbiri Nouka 2 | Farming Life in Another World 2 | https://anilist.co/anime/197824 | [Link](https://ani.social/post/30497395) |
 | Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | [Link](https://ani.social/post/30313160) |
 | Otaku ni Yasashii Gal wa Inai!? | Gals Can't Be Kind to Otaku!? | https://anilist.co/anime/199588 | [Link](https://ani.social/post/30267870) |
 | Ganbare! Nakamura-kun!! | Go For It, Nakamura-kun!! | https://anilist.co/anime/180228 | [Link](https://ani.social/post/30269713) |
-| Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta | I Made Friends with the Second Prettiest Girl in My Class | https://anilist.co/anime/169580 | [Link](https://ani.social/post/30222990) |
+| Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta | I Made Friends with the Second Prettiest Girl in My Class | https://anilist.co/anime/169580 | [Link](https://ani.social/post/30545134) |
 | Ichijouma Mankitsu Gurashi! | Ichijyoma Mankitsu Gurashi! | https://anilist.co/anime/195734 | [Link](https://ani.social/post/30412952) |
 | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | https://anilist.co/anime/198939 | [Link](https://ani.social/post/30264410) |
 | Kill Ao | Kill Ao | https://anilist.co/anime/198113 | [Link](https://ani.social/post/30406265) |
