@@ -33,6 +33,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/29902798)
 2|[Link](https://ani.social/post/30222990)
+3|[Link](https://ani.social/post/30545134)
 {.dense}
 
 ## Dandelion
@@ -347,6 +348,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 2|[Link](https://ani.social/post/30235624)
+3|[Link](https://ani.social/post/30545136)
 {.dense}
 
 ## Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season • The Beginning After the End Season 2
