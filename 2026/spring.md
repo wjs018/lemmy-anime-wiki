@@ -405,6 +405,13 @@ Episode|Link
 4|[Link](https://ani.social/post/30498786)
 {.dense}
 
+## Tsue to Tsurugi no Wistoria Season 2 • Wistoria: Wand and Sword Season 2
+
+Episode|Link
+:-:|:-:
+2|[Link](https://ani.social/post/30550304)
+{.dense}
+
 ## Yomi no Tsugai • Daemons of the Shadow Realm
 
 Episode|Link
