@@ -180,6 +180,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/29944514)
 2|[Link](https://ani.social/post/30264411)
+3|[Link](https://ani.social/post/30587682)
 {.dense}
 
 ## Kill Ao
@@ -334,6 +335,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/29944513)
 2|[Link](https://ani.social/post/30264409)
+3|[Link](https://ani.social/post/30587680)
 {.dense}
 
 ## Reincarnation no Kaben • Petals of Reincarnation
