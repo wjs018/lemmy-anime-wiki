@@ -147,6 +147,7 @@ Episode|Link
 1|[Link](https://ani.social/post/29632431)
 2|[Link](https://ani.social/post/29946612)
 3|[Link](https://ani.social/post/30264410)
+4|[Link](https://ani.social/post/30597052)
 {.dense}
 
 ## Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. • An Observation Log of My Fiancée Who Calls Herself a Villainess
