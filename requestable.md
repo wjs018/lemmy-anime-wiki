@@ -91,7 +91,6 @@ These shows have had episodes air already, but no thread was created because the
 | Hokuto no Ken: FIST OF THE NORTH STAR | FIST OF THE NORTH STAR: HOKUTO NO KEN | https://anilist.co/anime/169228 | Episode 4 |
 | Fate/strange Fake | Fate/strange Fake | https://anilist.co/anime/166617 | Episode 13 |
 | Enen no Shouboutai: San no Shou Part 2 | Fire Force Season 3 Part 2 | https://anilist.co/anime/179062 | Episode 13 |
-| Fukufuku no Chizu | Fukufuku no Chizu | https://anilist.co/anime/206889 | Episode 1 |
 | GANGLION | GANGLION | https://anilist.co/anime/198117 | Episode 24 |
 | Ghost Concert: missing Songs | GHOST CONCERT : missing Songs | https://anilist.co/anime/201090 | Episode 3 |
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | Episode 12 |
