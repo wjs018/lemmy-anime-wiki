@@ -114,7 +114,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ingoku Danchi | Ingoku Danchi | https://anilist.co/anime/206166 | Episode 3 |
 | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta | https://anilist.co/anime/170110 | Episode 1 |
 | Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 51 |
-| Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 29 |
+| Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 30 |
 | Komekami! Girls | Komekami! Girls | https://anilist.co/anime/209940 | Episode 3 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 55 |
 | Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 2 |
@@ -139,7 +139,7 @@ These shows have had episodes air already, but no thread was created because the
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 134 |
 | Princess-Session Orchestra | Princess-Session Orchestra | https://anilist.co/anime/178052 | Episode 48 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | https://anilist.co/anime/210687 | Episode 3 |
-| Wei Miao Rensheng | Reborn as a Cat | https://anilist.co/anime/203710 | Episode 25 |
+| Wei Miao Rensheng | Reborn as a Cat | https://anilist.co/anime/203710 | Episode 26 |
 | Tensei Shitara Dragon no Tamago Datta | Reincarnated as a Dragon Hatchling | https://anilist.co/anime/187941 | Episode 12 |
 | Rilakkuma: Goyururi Yume no Tabi | Rilakkuma: Goyururi Yume no Tabi | https://anilist.co/anime/183231 | Episode 3 |
 | Niwatori Fighter | Rooster Fighter | https://anilist.co/anime/179813 | Episode 6 |
