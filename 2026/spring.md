@@ -201,6 +201,7 @@ Episode|Link
 1|[Link](https://ani.social/post/29683993)
 2|[Link](https://ani.social/post/29996257)
 3|[Link](https://ani.social/post/30317658)
+4|[Link](https://ani.social/post/30640678)
 {.dense}
 
 ## Koori no Jouheki • The Ramparts of Ice
@@ -357,6 +358,7 @@ Episode|Link
 1|[Link](https://ani.social/post/29683994)
 2|[Link](https://ani.social/post/29996258)
 3|[Link](https://ani.social/post/30318172)
+4|[Link](https://ani.social/post/30640679)
 {.dense}
 
 ## Replica Datte, Koi wo Suru. • Even a Replica Can Fall in Love
