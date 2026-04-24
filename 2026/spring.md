@@ -274,6 +274,13 @@ Episode|Link
 2|[Link](https://ani.social/post/30135190)
 {.dense}
 
+## Mata Korosarete Shimatta no desu ne, Tantei-sama
+
+Episode|Link
+:-:|:-:
+4|[Link](https://ani.social/post/30680863)
+{.dense}
+
 ## Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de"
 
 Episode|Link
