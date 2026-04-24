@@ -157,6 +157,7 @@ These shows have had episodes air already, but no thread was created because the
 | TRIGUN STARGAZE | TRIGUN STARGAZE | https://anilist.co/anime/163144 | Episode 12 |
 | Tadaima, Ojamasaremasu! | Tadaima, Ojamasaremasu! | https://anilist.co/anime/202985 | Episode 3 |
 | Tensei Akujo no Kuro Rekishi OVA | Tensei Akujo no Kuro Rekishi OVA | https://anilist.co/anime/205054 | Episode 1 |
+| Tensei Shitara Slime Datta Ken 4th Season | That Time I Got Reincarnated as a Slime Season 4 | https://anilist.co/anime/182205 | Episode 4 |
 | Darwin Jihen | The Darwin Incident | https://anilist.co/anime/177679 | Episode 13 |
 | Kami no Shizuku | The Drops of God | https://anilist.co/anime/202508 | Episode 2 |
 | Eris no Seihai | The Holy Grail of Eris | https://anilist.co/anime/183270 | Episode 12 |
@@ -182,5 +183,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Mu Shen Ji 4 | Mu Shen Ji 4 | https://anilist.co/anime/211181 | April 25 at 15:00 |
 | Boku no Hero Academia No. 170+1: More | My Hero Academia More | https://anilist.co/anime/204356 | May 02 at 08:30 |
 | Pan Long | Pan Long | https://anilist.co/anime/153466 | April 29 at 15:00 |
-| Tensei Shitara Slime Datta Ken 4th Season | That Time I Got Reincarnated as a Slime Season 4 | https://anilist.co/anime/182205 | April 24 at 15:00 |
 {.dense}
