@@ -153,7 +153,6 @@ These shows have had episodes air already, but no thread was created because the
 | Shou 3 Ashibe QQ Goma-chan | Shou 3 Ashibe QQ Goma-chan | https://anilist.co/anime/202386 | Episode 2 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 159 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 149 |
-| Soushen Ji | Soushen Ji | https://anilist.co/anime/166437 | Episode 1 |
 | Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 12 |
 | THE IDOLM@STER Million Live!: Itsuka, Mannaka de | THE IDOLM@STER Million Live!: Itsuka, Mannaka de | https://anilist.co/anime/187375 | Episode 1 |
 | TRIGUN STARGAZE | TRIGUN STARGAZE | https://anilist.co/anime/163144 | Episode 12 |
