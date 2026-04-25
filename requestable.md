@@ -33,7 +33,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | MARRIAGETOXIN | MARRIAGETOXIN | https://anilist.co/anime/199547 | [Link](https://ani.social/post/30544183) |
 | Mata Korosarete Shimatta no desu ne, Tantei-sama | Mata Korosarete Shimatta no desu ne, Tantei-sama | https://anilist.co/anime/202381 | [Link](https://ani.social/post/30680863) |
 | Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de" | Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de" | https://anilist.co/anime/206951 | [Link](https://ani.social/post/30551451) |
-| Kanan-sama wa Akumade Choroi | Mistress Kanan is Devilishly Easy | https://anilist.co/anime/190704 | [Link](https://ani.social/post/30410888) |
+| Kanan-sama wa Akumade Choroi | Mistress Kanan is Devilishly Easy | https://anilist.co/anime/190704 | [Link](https://ani.social/post/30727168) |
 | NEEDY GIRL OVERDOSE | NEEDY GIRL OVERDOSE | https://anilist.co/anime/202102 | [Link](https://ani.social/post/30726134) |
 | Nippon Sangoku | NIPPON SANGOKU: The Three Nations of the Crimson Sun | https://anilist.co/anime/206914 | [Link](https://ani.social/post/30445360) |
 | Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | https://anilist.co/anime/201817 | [Link](https://ani.social/post/30597419) |
@@ -42,7 +42,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Re:Zero kara Hajimeru Isekai Seikatsu 4th Season | Re:ZERO -Starting Life in Another World- Season 4 | https://anilist.co/anime/189046 | [Link](https://ani.social/post/30587680) |
 | Fangkai Nage Nüwu | Release that Witch | https://anilist.co/anime/137662 | [Link](https://ani.social/post/30508872) |
 | Kanojo, Okarishimasu 5th Season | Rent-a-Girlfriend Season 5 | https://anilist.co/anime/199029 | [Link](https://ani.social/post/30587682) |
-| Yuusha no Kuzu | Scum of the Brave | https://anilist.co/anime/187989 | [Link](https://ani.social/post/30410887) |
 | Shunkashuutou Daikousha: Haru no Mai | Shunkashuutou Daikousha: Haru no Mai | https://anilist.co/anime/190143 | [Link](https://ani.social/post/30725466) |
 | Tensei Shitara Slime Datta Ken 4th Season | That Time I Got Reincarnated as a Slime Season 4 | https://anilist.co/anime/182205 | [Link](https://ani.social/post/30704699) |
 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season | The Beginning After the End Season 2 | https://anilist.co/anime/194317 | [Link](https://ani.social/post/30597416) |
@@ -179,4 +178,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Kujira wo Yumemu | Kujira wo Yumemu | https://anilist.co/anime/211331 | May 01 at 10:00 |
 | Boku no Hero Academia No. 170+1: More | My Hero Academia More | https://anilist.co/anime/204356 | May 02 at 08:30 |
 | Pan Long | Pan Long | https://anilist.co/anime/153466 | April 29 at 15:00 |
+| Yuusha no Kuzu | Scum of the Brave | https://anilist.co/anime/187989 | April 25 at 16:56 |
 {.dense}
