@@ -114,7 +114,7 @@ These shows have had episodes air already, but no thread was created because the
 | Komekami! Girls | Komekami! Girls | https://anilist.co/anime/209940 | Episode 4 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 55 |
 | Kujima Utaeba Ie Hororo | Kujima: Why Sing, When You Can Warble? | https://anilist.co/anime/177508 | Episode 3 |
-| Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 2 |
+| Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 3 |
 | Kami no Niwatsuki Kusunoki-tei  | Kusunoki's Garden of Gods | https://anilist.co/anime/196029 | Episode 4 |
 | LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 3 |
 | MAO | MAO | https://anilist.co/anime/196012 | Episode 4 |
@@ -128,7 +128,7 @@ These shows have had episodes air already, but no thread was created because the
 | Nezumi-kun no Chokki (TV) | Nezumi-kun no Chokki (TV) | https://anilist.co/anime/198411 | Episode 4 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 213 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1158 |
-| Odekake Kozame Season 2 | Odekake Kozame Season 2 | https://anilist.co/anime/204269 | Episode 2 |
+| Odekake Kozame Season 2 | Odekake Kozame Season 2 | https://anilist.co/anime/204269 | Episode 3 |
 | Hikuidori | Oedo Fire Slayer -The Legend of Phoenix- | https://anilist.co/anime/187062 | Episode 12 |
 | Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 3 |
 | PetitCure: Precure Fairies Season 3 | PetitCure: Precure Fairies Season 3 | https://anilist.co/anime/209541 | Episode 5 |
