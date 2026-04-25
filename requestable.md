@@ -146,7 +146,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2828 |
 | Yuusha no Kuzu | Scum of the Brave | https://anilist.co/anime/187989 | Episode 15 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1332 |
-| Shou 3 Ashibe QQ Goma-chan | Shou 3 Ashibe QQ Goma-chan | https://anilist.co/anime/202386 | Episode 2 |
+| Shou 3 Ashibe QQ Goma-chan | Shou 3 Ashibe QQ Goma-chan | https://anilist.co/anime/202386 | Episode 3 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 159 |
 | Snowball Earth | Snowball Earth | https://anilist.co/anime/196144 | Episode 4 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 150 |
