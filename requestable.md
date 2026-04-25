@@ -166,7 +166,7 @@ These shows have had episodes air already, but no thread was created because the
 | Fumetsu no Anata e Season 3 | To Your Eternity Season 3 | https://anilist.co/anime/162669 | Episode 22 |
 | Uso Tantei Tomanto | Uso Tantei Tomanto | https://anilist.co/anime/199008 | Episode 26 |
 | Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 374 |
-| Yowa Yowa Sensei | Yowayowa Sensei | https://anilist.co/anime/185211 | Episode 2 |
+| Yowa Yowa Sensei | Yowayowa Sensei | https://anilist.co/anime/185211 | Episode 3 |
 | Yozakura-san Chi no Daisakusen 2nd Season | Yozakura-san Chi no Daisakusen 2nd Season | https://anilist.co/anime/182578 | Episode 2 |
 | mofusand | mofusand | https://anilist.co/anime/204656 | Episode 16 |
 {.dense}
