@@ -145,6 +145,7 @@ These shows have had episodes air already, but no thread was created because the
 | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | https://anilist.co/anime/200769 | Episode 5 |
 | Saishuu Gakushou Hibike! Euphonium - Zenpen | Saishuu Gakushou Hibike! Euphonium - Zenpen | https://anilist.co/anime/188035 | Episode 1 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2828 |
+| Yuusha no Kuzu | Scum of the Brave | https://anilist.co/anime/187989 | Episode 15 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1332 |
 | Shou 3 Ashibe QQ Goma-chan | Shou 3 Ashibe QQ Goma-chan | https://anilist.co/anime/202386 | Episode 2 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 159 |
@@ -178,5 +179,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Kujira wo Yumemu | Kujira wo Yumemu | https://anilist.co/anime/211331 | May 01 at 10:00 |
 | Boku no Hero Academia No. 170+1: More | My Hero Academia More | https://anilist.co/anime/204356 | May 02 at 08:30 |
 | Pan Long | Pan Long | https://anilist.co/anime/153466 | April 29 at 15:00 |
-| Yuusha no Kuzu | Scum of the Brave | https://anilist.co/anime/187989 | April 25 at 16:56 |
 {.dense}
