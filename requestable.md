@@ -29,7 +29,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta | I Made Friends with the Second Prettiest Girl in My Class | https://anilist.co/anime/169580 | [Link](https://ani.social/post/30545134) |
 | Ichijouma Mankitsu Gurashi! | Ichijyoma Mankitsu Gurashi! | https://anilist.co/anime/195734 | [Link](https://ani.social/post/30412952) |
 | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | https://anilist.co/anime/198939 | [Link](https://ani.social/post/30597052) |
-| Kill Ao | Kill Ao | https://anilist.co/anime/198113 | [Link](https://ani.social/post/30406265) |
 | Kirio Fanclub | Kirio Fanclub | https://anilist.co/anime/181284 | [Link](https://ani.social/post/30640678) |
 | MARRIAGETOXIN | MARRIAGETOXIN | https://anilist.co/anime/199547 | [Link](https://ani.social/post/30544183) |
 | Mata Korosarete Shimatta no desu ne, Tantei-sama | Mata Korosarete Shimatta no desu ne, Tantei-sama | https://anilist.co/anime/202381 | [Link](https://ani.social/post/30680863) |
@@ -73,7 +72,6 @@ These shows have had episodes air already, but no thread was created because the
 | Cardfight!! Vanguard: Divinez Genma Seisen-hen | Cardfight!! Vanguard: Divinez Genma Seisen-hen | https://anilist.co/anime/203296 | Episode 12 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1199 |
 | Ugoku! Neko Mukashi Banashi | Cat Tales | https://anilist.co/anime/188529 | Episode 28 |
-| Mato Seihei no Slave 2 | Chained Soldier Season 2 | https://anilist.co/anime/176276 | Episode 12 |
 | Chibi Godzilla no Gyakushuu 3 | Chibi Godzilla Raids Again Season 3 | https://anilist.co/anime/193883 | Episode 43 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 337 |
 | Chitose-kun wa Ramune Bin no Naka | Chitose Is in the Ramune Bottle | https://anilist.co/anime/180082 | Episode 13 |
@@ -87,7 +85,6 @@ These shows have had episodes air already, but no thread was created because the
 | Dorohedoro Season 2 | Dorohedoro Season 2 | https://anilist.co/anime/173172 | Episode 6 |
 | Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | Episode 38 |
 | Dr. STONE: SCIENCE FUTURE Part 3 | Dr. STONE SCIENCE FUTURE Cour 3 | https://anilist.co/anime/199221 | Episode 4 |
-| Entotsu-machi no Poupelle: Yakusoku no Tokei-dai | Entotsu-machi no Poupelle: Yakusoku no Tokei-dai | https://anilist.co/anime/190668 | Episode 1 |
 | Hidarikiki no Eren | Eren the Southpaw | https://anilist.co/anime/158036 | Episode 3 |
 | Hokuto no Ken: FIST OF THE NORTH STAR | FIST OF THE NORTH STAR: HOKUTO NO KEN | https://anilist.co/anime/169228 | Episode 5 |
 | Fate/strange Fake | Fate/strange Fake | https://anilist.co/anime/166617 | Episode 13 |
@@ -128,6 +125,7 @@ These shows have had episodes air already, but no thread was created because the
 | Marika-chan no Koukando wa Bukkowareteiru | Marika's Love Meter Malfunction | https://anilist.co/anime/202523 | Episode 3 |
 | Meitantei Conan: Highway no Datenshi | Meitantei Conan: Highway no Datenshi | https://anilist.co/anime/198369 | Episode 1 |
 | Mu Shen Ji 3 | Mu Shen Ji 3 | https://anilist.co/anime/203953 | Episode 26 |
+| Mu Shen Ji 4 | Mu Shen Ji 4 | https://anilist.co/anime/211181 | Episode 2 |
 | Nezumi-kun no Chokki (TV) | Nezumi-kun no Chokki (TV) | https://anilist.co/anime/198411 | Episode 4 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 213 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1158 |
@@ -153,7 +151,6 @@ These shows have had episodes air already, but no thread was created because the
 | Snowball Earth | Snowball Earth | https://anilist.co/anime/196144 | Episode 4 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 150 |
 | Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 12 |
-| THE IDOLM@STER Million Live!: Itsuka, Mannaka de | THE IDOLM@STER Million Live!: Itsuka, Mannaka de | https://anilist.co/anime/187375 | Episode 1 |
 | TRIGUN STARGAZE | TRIGUN STARGAZE | https://anilist.co/anime/163144 | Episode 12 |
 | Tadaima, Ojamasaremasu! | Tadaima, Ojamasaremasu! | https://anilist.co/anime/202985 | Episode 3 |
 | Tensei Akujo no Kuro Rekishi OVA | Tensei Akujo no Kuro Rekishi OVA | https://anilist.co/anime/205054 | Episode 1 |
@@ -179,8 +176,8 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Fei Ren Zai 3 Part 2 | Fei Ren Zai 3 Part 2 | https://anilist.co/anime/211270 | May 05 at 04:00 |
 | Iya na Kao sare nagara Opantsu Misete Moraitai Returns | Iya na Kao sare nagara Opantsu Misete Moraitai Returns | https://anilist.co/anime/196840 | April 30 at 13:00 |
+| Kill Ao | Kill Ao | https://anilist.co/anime/198113 | April 25 at 15:00 |
 | Kujira wo Yumemu | Kujira wo Yumemu | https://anilist.co/anime/211331 | May 01 at 10:00 |
-| Mu Shen Ji 4 | Mu Shen Ji 4 | https://anilist.co/anime/211181 | April 25 at 15:00 |
 | Boku no Hero Academia No. 170+1: More | My Hero Academia More | https://anilist.co/anime/204356 | May 02 at 08:30 |
 | Pan Long | Pan Long | https://anilist.co/anime/153466 | April 29 at 15:00 |
 {.dense}
