@@ -76,7 +76,7 @@ These shows have had episodes air already, but no thread was created because the
 | Daikenja Riddle no Jikan Gyakko | Daikenja Riddle no Jikan Gyakko | https://anilist.co/anime/210375 | Episode 4 |
 | Dead Account | Dead Account | https://anilist.co/anime/187901 | Episode 12 |
 | Diamond no Ace act II: Second Season | Diamond no Ace act II: Second Season | https://anilist.co/anime/177634 | Episode 4 |
-| Ookii Onnanoko wa Suki desu ka? | Do You Like Big Girls? | https://anilist.co/anime/204319 | Episode 3 |
+| Ookii Onnanoko wa Suki desu ka? | Do You Like Big Girls? | https://anilist.co/anime/204319 | Episode 4 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 912 |
 | Dorohedoro Season 2 | Dorohedoro Season 2 | https://anilist.co/anime/173172 | Episode 6 |
 | Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | Episode 39 |
@@ -102,7 +102,7 @@ These shows have had episodes air already, but no thread was created because the
 | Hyakushou Kizoku 3rd Season OVA | Hyakushou Kizoku 3rd Season OVA | https://anilist.co/anime/204349 | Episode 1 |
 | Aishiteru Game wo Owarasetai | I Want to End this Love Game | https://anilist.co/anime/194393 | Episode 2 |
 | Ichijouma Mankitsu Gurashi! | Ichijyoma Mankitsu Gurashi! | https://anilist.co/anime/195734 | Episode 3 |
-| Ingoku Danchi | Ingoku Danchi | https://anilist.co/anime/206166 | Episode 3 |
+| Ingoku Danchi | Ingoku Danchi | https://anilist.co/anime/206166 | Episode 4 |
 | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta | Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta | https://anilist.co/anime/170110 | Episode 1 |
 | Kaijuu Sekai Seifuku | Kaijuu Sekai Seifuku | https://anilist.co/anime/184289 | Episode 51 |
 | Kaze no Anthem | Kaze no Anthem | https://anilist.co/anime/211301 | Episode 1 |
