@@ -64,7 +64,6 @@ These shows have had episodes air already, but no thread was created because the
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 124 |
 | Guangyin Zhi Wai | Beyond Time's Gaze | https://anilist.co/anime/205905 | Episode 18 |
 | Black Jack Yanen | Black Jack Yanen | https://anilist.co/anime/205676 | Episode 14 |
-| Ao no Miburo: Serizawa Ansatsu-hen | Blue Miburo Season 2 | https://anilist.co/anime/189258 | Episode 14 |
 | Candy Caries | Candy Caries | https://anilist.co/anime/205772 | Episode 2 |
 | Cardfight!! Vanguard: Divinez Genma Seisen-hen | Cardfight!! Vanguard: Divinez Genma Seisen-hen | https://anilist.co/anime/203296 | Episode 12 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1199 |
