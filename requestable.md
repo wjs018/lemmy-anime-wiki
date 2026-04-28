@@ -136,7 +136,7 @@ These shows have had episodes air already, but no thread was created because the
 | Snowball Earth | Snowball Earth | https://anilist.co/anime/196144 | Episode 4 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 150 |
 | Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 13 |
-| Tadaima, Ojamasaremasu! | Tadaima, Ojamasaremasu! | https://anilist.co/anime/202985 | Episode 3 |
+| Tadaima, Ojamasaremasu! | Tadaima, Ojamasaremasu! | https://anilist.co/anime/202985 | Episode 4 |
 | Tensei Akujo no Kuro Rekishi OVA | Tensei Akujo no Kuro Rekishi OVA | https://anilist.co/anime/205054 | Episode 1 |
 | Darwin Jihen | The Darwin Incident | https://anilist.co/anime/177679 | Episode 13 |
 | Kami no Shizuku | The Drops of God | https://anilist.co/anime/202508 | Episode 3 |
