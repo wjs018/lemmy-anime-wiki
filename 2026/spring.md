@@ -155,6 +155,7 @@ Episode|Link
 2|[Link](https://ani.social/post/29946612)
 3|[Link](https://ani.social/post/30264410)
 4|[Link](https://ani.social/post/30597052)
+5|[Link](https://ani.social/post/30894256)
 {.dense}
 
 ## Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. • An Observation Log of My Fiancée Who Calls Herself a Villainess
@@ -193,6 +194,7 @@ Episode|Link
 1|[Link](https://ani.social/post/29944514)
 2|[Link](https://ani.social/post/30264411)
 3|[Link](https://ani.social/post/30587682)
+4|[Link](https://ani.social/post/30894257)
 {.dense}
 
 ## Kill Ao
@@ -373,6 +375,7 @@ Episode|Link
 1|[Link](https://ani.social/post/29944513)
 2|[Link](https://ani.social/post/30264409)
 3|[Link](https://ani.social/post/30587680)
+4|[Link](https://ani.social/post/30894255)
 {.dense}
 
 ## Reincarnation no Kaben • Petals of Reincarnation
