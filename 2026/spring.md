@@ -404,6 +404,7 @@ Episode|Link
 1|[Link](https://ani.social/post/29635979)
 2|[Link](https://ani.social/post/29950550)
 4|[Link](https://ani.social/post/30597416)
+5|[Link](https://ani.social/post/30897286)
 {.dense}
 
 ## Shunkashuutou Daikousha: Haru no Mai
