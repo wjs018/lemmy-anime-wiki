@@ -82,6 +82,7 @@ Episode|Link
 3|[Link](https://ani.social/post/29951747)
 4|[Link](https://ani.social/post/30269713)
 5|[Link](https://ani.social/post/30594127)
+6|[Link](https://ani.social/post/30899592)
 {.dense}
 
 ## Hidarikiki no Eren • Eren the Southpaw
