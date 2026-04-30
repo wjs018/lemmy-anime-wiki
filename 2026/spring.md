@@ -294,6 +294,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 4|[Link](https://ani.social/post/30680863)
+5|[Link](https://ani.social/post/30949506)
 {.dense}
 
 ## Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de"
