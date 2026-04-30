@@ -391,6 +391,7 @@ Episode|Link
 2|[Link](https://ani.social/post/29996258)
 3|[Link](https://ani.social/post/30318172)
 4|[Link](https://ani.social/post/30640679)
+5|[Link](https://ani.social/post/30946116)
 {.dense}
 
 ## Replica Datte, Koi wo Suru. • Even a Replica Can Fall in Love
