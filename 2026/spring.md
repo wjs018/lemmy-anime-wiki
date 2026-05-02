@@ -319,6 +319,7 @@ Episode|Link
 2|[Link](https://ani.social/post/30089466)
 3|[Link](https://ani.social/post/30409917)
 4|[Link](https://ani.social/post/30726134)
+5|[Link](https://ani.social/post/31032726)
 {.dense}
 
 ## Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken
