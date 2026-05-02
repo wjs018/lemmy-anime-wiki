@@ -30,7 +30,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | MARRIAGETOXIN | MARRIAGETOXIN | https://anilist.co/anime/199547 | [Link](https://ani.social/post/30851837) |
 | Mata Korosarete Shimatta no desu ne, Tantei-sama | Mata Korosarete Shimatta no desu ne, Tantei-sama | https://anilist.co/anime/202381 | [Link](https://ani.social/post/30949506) |
 | Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de" | Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de" | https://anilist.co/anime/206951 | [Link](https://ani.social/post/30858851) |
-| Kanan-sama wa Akumade Choroi | Mistress Kanan is Devilishly Easy | https://anilist.co/anime/190704 | [Link](https://ani.social/post/30727168) |
+| Kanan-sama wa Akumade Choroi | Mistress Kanan is Devilishly Easy | https://anilist.co/anime/190704 | [Link](https://ani.social/post/31033809) |
 | NEEDY GIRL OVERDOSE | NEEDY GIRL OVERDOSE | https://anilist.co/anime/202102 | [Link](https://ani.social/post/31032726) |
 | Nippon Sangoku | NIPPON SANGOKU: The Three Nations of the Crimson Sun | https://anilist.co/anime/206914 | [Link](https://ani.social/post/30756609) |
 | Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | https://anilist.co/anime/201817 | [Link](https://ani.social/post/30898636) |
@@ -129,7 +129,7 @@ These shows have had episodes air already, but no thread was created because the
 | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | https://anilist.co/anime/200769 | Episode 6 |
 | Saishuu Gakushou Hibike! Euphonium - Zenpen | Saishuu Gakushou Hibike! Euphonium - Zenpen | https://anilist.co/anime/188035 | Episode 1 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2829 |
-| Yuusha no Kuzu | Scum of the Brave | https://anilist.co/anime/187989 | Episode 15 |
+| Yuusha no Kuzu | Scum of the Brave | https://anilist.co/anime/187989 | Episode 16 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1333 |
 | Shou 3 Ashibe QQ Goma-chan | Shou 3 Ashibe QQ Goma-chan | https://anilist.co/anime/202386 | Episode 3 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 160 |
