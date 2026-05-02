@@ -18,6 +18,7 @@ Episode|Link
 2|[Link](https://ani.social/post/30087083)
 3|[Link](https://ani.social/post/30407193)
 4|[Link](https://ani.social/post/30724640)
+5|[Link](https://ani.social/post/31031518)
 {.dense}
 
 ## Awajima Hyakkei • A Hundred Scenes of AWAJIMA
@@ -484,6 +485,7 @@ Episode|Link
 2|[Link](https://ani.social/post/30087084)
 3|[Link](https://ani.social/post/30407195)
 4|[Link](https://ani.social/post/30724641)
+5|[Link](https://ani.social/post/31031519)
 {.dense}
 
 ## Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki • Classroom of the Elite 4th Season: Second Year, First Semester
