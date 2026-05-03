@@ -98,7 +98,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kirio Fanclub | Kirio Fanclub | https://anilist.co/anime/181284 | Episode 5 |
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 31 |
 | Komekami! Girls | Komekami! Girls | https://anilist.co/anime/209940 | Episode 5 |
-| Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 56 |
+| Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 57 |
 | Kujima Utaeba Ie Hororo | Kujima: Why Sing, When You Can Warble? | https://anilist.co/anime/177508 | Episode 4 |
 | Kujira wo Yumemu | Kujira wo Yumemu | https://anilist.co/anime/211331 | Episode 1 |
 | Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 4 |
