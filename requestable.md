@@ -118,7 +118,7 @@ These shows have had episodes air already, but no thread was created because the
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1159 |
 | Odekake Kozame Season 2 | Odekake Kozame Season 2 | https://anilist.co/anime/204269 | Episode 4 |
 | Hikuidori | Oedo Fire Slayer -The Legend of Phoenix- | https://anilist.co/anime/187062 | Episode 12 |
-| Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 4 |
+| Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 5 |
 | Pan Long | Pan Long | https://anilist.co/anime/153466 | Episode 1 |
 | PetitCure: Precure Fairies Season 3 | PetitCure: Precure Fairies Season 3 | https://anilist.co/anime/209541 | Episode 6 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 136 |
@@ -135,7 +135,7 @@ These shows have had episodes air already, but no thread was created because the
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 160 |
 | Snowball Earth | Snowball Earth | https://anilist.co/anime/196144 | Episode 5 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 151 |
-| Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 13 |
+| Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 14 |
 | Tadaima, Ojamasaremasu! | Tadaima, Ojamasaremasu! | https://anilist.co/anime/202985 | Episode 4 |
 | Kami no Shizuku | The Drops of God | https://anilist.co/anime/202508 | Episode 4 |
 | Yami Shibai 16 | Theatre of Darkness: Yamishibai 16 | https://anilist.co/anime/203939 | Episode 13 |
