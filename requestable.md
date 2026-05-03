@@ -78,7 +78,7 @@ These shows have had episodes air already, but no thread was created because the
 | Hidarikiki no Eren | Eren the Southpaw | https://anilist.co/anime/158036 | Episode 4 |
 | Hokuto no Ken: FIST OF THE NORTH STAR | FIST OF THE NORTH STAR: HOKUTO NO KEN | https://anilist.co/anime/169228 | Episode 6 |
 | Enen no Shouboutai: San no Shou Part 2 | Fire Force Season 3 Part 2 | https://anilist.co/anime/179062 | Episode 13 |
-| Ghost Concert: missing Songs | GHOST CONCERT : missing Songs | https://anilist.co/anime/201090 | Episode 4 |
+| Ghost Concert: missing Songs | GHOST CONCERT : missing Songs | https://anilist.co/anime/201090 | Episode 5 |
 | Girls und Panzer: Motto Love Love Sakusen desu! | Girls und Panzer: Motto Love Love Sakusen desu! | https://anilist.co/anime/188034 | Episode 4 |
 | Girls und Panzer: Ribbon no Musha Pilot-ban | Girls und Panzer: Ribbon no Musha Pilot-ban | https://anilist.co/anime/209312 | Episode 1 |
 | Haibara-kun no Tsuyokute Seishun New Game | Haibara-kun no Tsuyokute Seishun New Game | https://anilist.co/anime/195333 | Episode 5 |
