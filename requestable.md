@@ -61,7 +61,7 @@ These shows have had episodes air already, but no thread was created because the
 | Awajima Hyakkei | A Hundred Scenes of AWAJIMA | https://anilist.co/anime/177501 | Episode 4 |
 | Jingai Kyoushitsu no Ningengirai Kyoushi | A Misanthrope Teaches a Class for Demi-Humans | https://anilist.co/anime/198374 | Episode 13 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 125 |
-| Guangyin Zhi Wai | Beyond Time's Gaze | https://anilist.co/anime/205905 | Episode 18 |
+| Guangyin Zhi Wai | Beyond Time's Gaze | https://anilist.co/anime/205905 | Episode 19 |
 | Black Jack Yanen | Black Jack Yanen | https://anilist.co/anime/205676 | Episode 14 |
 | Candy Caries | Candy Caries | https://anilist.co/anime/205772 | Episode 3 |
 | Cardfight!! Vanguard: Divinez Genma Seisen-hen | Cardfight!! Vanguard: Divinez Genma Seisen-hen | https://anilist.co/anime/203296 | Episode 12 |
