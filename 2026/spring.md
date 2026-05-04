@@ -63,6 +63,7 @@ Episode|Link
 3|[Link](https://ani.social/post/29634783)
 4|[Link](https://ani.social/post/29946613)
 5|[Link](https://ani.social/post/30264412)
+7|[Link](https://ani.social/post/31099227)
 {.dense}
 
 ## Dr. STONE: SCIENCE FUTURE Part 3 • Dr. STONE SCIENCE FUTURE Cour 3
