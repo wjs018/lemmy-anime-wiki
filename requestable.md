@@ -58,7 +58,6 @@ These shows have had episodes air already, but no thread was created because the
 | Show Name | English Show Name | AniList Link | Most Recently Episode Number  |
 | :-------- | :---------------- | :----------- | :--------------------------: |
 | Awajima Hyakkei | A Hundred Scenes of AWAJIMA | https://anilist.co/anime/177501 | Episode 4 |
-| Jingai Kyoushitsu no Ningengirai Kyoushi | A Misanthrope Teaches a Class for Demi-Humans | https://anilist.co/anime/198374 | Episode 13 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 125 |
 | Guangyin Zhi Wai | Beyond Time's Gaze | https://anilist.co/anime/205905 | Episode 19 |
 | Black Jack Yanen | Black Jack Yanen | https://anilist.co/anime/205676 | Episode 14 |
@@ -100,7 +99,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kujira wo Yumemu | Kujira wo Yumemu | https://anilist.co/anime/211331 | Episode 1 |
 | Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 4 |
 | Kami no Niwatsuki Kusunoki-tei  | Kusunoki's Garden of Gods | https://anilist.co/anime/196029 | Episode 5 |
-| LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 4 |
+| LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 5 |
 | MAO | MAO | https://anilist.co/anime/196012 | Episode 5 |
 | Mahou no Shimai Lulutto Lilly | Mahou no Shimai Lulutto Lilly | https://anilist.co/anime/178749 | Episode 5 |
 | Maid-san wa Taberu dake | Maid-san wa Taberu dake | https://anilist.co/anime/197868 | Episode 6 |
