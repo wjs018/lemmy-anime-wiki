@@ -103,6 +103,7 @@ Episode|Link
 2|[Link](https://ani.social/post/30218937)
 3|[Link](https://ani.social/post/30559205)
 4|[Link](https://ani.social/post/30849522)
+5|[Link](https://ani.social/post/31163328)
 {.dense}
 
 ## Hime Kishi wa Barbaroi no Yome • The Warrior Princess and the Barbaric King
