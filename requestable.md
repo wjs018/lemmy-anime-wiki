@@ -101,6 +101,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kami no Niwatsuki Kusunoki-tei  | Kusunoki's Garden of Gods | https://anilist.co/anime/196029 | Episode 5 |
 | LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 5 |
 | MAO | MAO | https://anilist.co/anime/196012 | Episode 5 |
+| MARRIAGETOXIN | MARRIAGETOXIN | https://anilist.co/anime/199547 | Episode 5 |
 | Mahou no Shimai Lulutto Lilly | Mahou no Shimai Lulutto Lilly | https://anilist.co/anime/178749 | Episode 5 |
 | Maid-san wa Taberu dake | Maid-san wa Taberu dake | https://anilist.co/anime/197868 | Episode 6 |
 | Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru | Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru | https://anilist.co/anime/210234 | Episode 5 |
@@ -150,6 +151,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Kidou Keisatsu Patlabor EZY | Kidou Keisatsu Patlabor EZY | https://anilist.co/anime/113555 | May 14 at 15:00 |
 | Love Live! Hasunosora Jogakuin School Idol Club: Bloom Garden Party | Love Live! Hasunosora Jogakuin School Idol Club: Bloom Garden Party | https://anilist.co/anime/194167 | May 07 at 15:00 |
-| MARRIAGETOXIN | MARRIAGETOXIN | https://anilist.co/anime/199547 | May 05 at 15:00 |
 | Mahouka Koukou no Rettousei: Yotsuba Keishou-hen | Mahouka Koukou no Rettousei: Yotsuba Keishou-hen | https://anilist.co/anime/178707 | May 07 at 16:00 |
 {.dense}
