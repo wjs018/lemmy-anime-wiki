@@ -21,12 +21,11 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki | Classroom of the Elite 4th Season: Second Year, First Semester | https://anilist.co/anime/180745 | [Link](https://ani.social/post/30892854) |
 | Yomi no Tsugai | Daemons of the Shadow Realm | https://anilist.co/anime/195600 | [Link](https://ani.social/post/31031519) |
 | Dorohedoro Season 2 | Dorohedoro Season 2 | https://anilist.co/anime/173172 | [Link](https://ani.social/post/31099227) |
-| Replica Datte, Koi wo Suru. | Even a Replica Can Fall in Love | https://anilist.co/anime/186744 | [Link](https://ani.social/post/30852965) |
+| Replica Datte, Koi wo Suru. | Even a Replica Can Fall in Love | https://anilist.co/anime/186744 | [Link](https://ani.social/post/31167614) |
 | Isekai Nonbiri Nouka 2 | Farming Life in Another World 2 | https://anilist.co/anime/197824 | [Link](https://ani.social/post/31117194) |
 | Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | [Link](https://ani.social/post/30941559) |
 | Otaku ni Yasashii Gal wa Inai!? | Gals Can't Be Kind to Otaku!? | https://anilist.co/anime/199588 | [Link](https://ani.social/post/30897960) |
 | Ganbare! Nakamura-kun!! | Go For It, Nakamura-kun!! | https://anilist.co/anime/180228 | [Link](https://ani.social/post/30899592) |
-| Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta | I Made Friends with the Second Prettiest Girl in My Class | https://anilist.co/anime/169580 | [Link](https://ani.social/post/30852963) |
 | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | https://anilist.co/anime/198939 | [Link](https://ani.social/post/30894256) |
 | Mata Korosarete Shimatta no desu ne, Tantei-sama | Mata Korosarete Shimatta no desu ne, Tantei-sama | https://anilist.co/anime/202381 | [Link](https://ani.social/post/30949506) |
 | Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de" | Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de" | https://anilist.co/anime/206951 | [Link](https://ani.social/post/30858851) |
@@ -115,7 +114,6 @@ These shows have had episodes air already, but no thread was created because the
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 214 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1160 |
 | Odekake Kozame Season 2 | Odekake Kozame Season 2 | https://anilist.co/anime/204269 | Episode 4 |
-| Hikuidori | Oedo Fire Slayer -The Legend of Phoenix- | https://anilist.co/anime/187062 | Episode 12 |
 | Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 5 |
 | Pan Long | Pan Long | https://anilist.co/anime/153466 | Episode 1 |
 | PetitCure: Precure Fairies Season 3 | PetitCure: Precure Fairies Season 3 | https://anilist.co/anime/209541 | Episode 6 |
@@ -149,6 +147,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
+| Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta | I Made Friends with the Second Prettiest Girl in My Class | https://anilist.co/anime/169580 | May 05 at 15:30 |
 | Kidou Keisatsu Patlabor EZY | Kidou Keisatsu Patlabor EZY | https://anilist.co/anime/113555 | May 14 at 15:00 |
 | Love Live! Hasunosora Jogakuin School Idol Club: Bloom Garden Party | Love Live! Hasunosora Jogakuin School Idol Club: Bloom Garden Party | https://anilist.co/anime/194167 | May 07 at 15:00 |
 | Mahouka Koukou no Rettousei: Yotsuba Keishou-hen | Mahouka Koukou no Rettousei: Yotsuba Keishou-hen | https://anilist.co/anime/178707 | May 07 at 16:00 |
