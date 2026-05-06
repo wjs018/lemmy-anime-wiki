@@ -88,6 +88,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ichijouma Mankitsu Gurashi! | Ichijyoma Mankitsu Gurashi! | https://anilist.co/anime/195734 | Episode 4 |
 | Ingoku Danchi | Ingoku Danchi | https://anilist.co/anime/206166 | Episode 5 |
 | Iya na Kao sare nagara Opantsu Misete Moraitai Returns | Iya na Kao sare nagara Opantsu Misete Moraitai Returns | https://anilist.co/anime/196840 | Episode 1 |
+| Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | https://anilist.co/anime/198939 | Episode 6 |
 | Kaze no Anthem | Kaze no Anthem | https://anilist.co/anime/211301 | Episode 1 |
 | Kill Ao | Kill Ao | https://anilist.co/anime/198113 | Episode 4 |
 | Kirio Fanclub | Kirio Fanclub | https://anilist.co/anime/181284 | Episode 5 |
@@ -146,7 +147,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
-| Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | https://anilist.co/anime/198939 | May 06 at 14:00 |
 | Kidou Keisatsu Patlabor EZY | Kidou Keisatsu Patlabor EZY | https://anilist.co/anime/113555 | May 14 at 15:00 |
 | Love Live! Hasunosora Jogakuin School Idol Club: Bloom Garden Party | Love Live! Hasunosora Jogakuin School Idol Club: Bloom Garden Party | https://anilist.co/anime/194167 | May 07 at 15:00 |
 | Mahouka Koukou no Rettousei: Yotsuba Keishou-hen | Mahouka Koukou no Rettousei: Yotsuba Keishou-hen | https://anilist.co/anime/178707 | May 07 at 16:00 |
