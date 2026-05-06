@@ -64,6 +64,7 @@ Episode|Link
 4|[Link](https://ani.social/post/29946613)
 5|[Link](https://ani.social/post/30264412)
 7|[Link](https://ani.social/post/31099227)
+8|[Link](https://ani.social/post/31212564)
 {.dense}
 
 ## Dr. STONE: SCIENCE FUTURE Part 3 • Dr. STONE SCIENCE FUTURE Cour 3
@@ -204,6 +205,7 @@ Episode|Link
 2|[Link](https://ani.social/post/30264411)
 3|[Link](https://ani.social/post/30587682)
 4|[Link](https://ani.social/post/30894257)
+5|[Link](https://ani.social/post/31212562)
 {.dense}
 
 ## Kill Ao
@@ -395,6 +397,7 @@ Episode|Link
 2|[Link](https://ani.social/post/30264409)
 3|[Link](https://ani.social/post/30587680)
 4|[Link](https://ani.social/post/30893863)
+5|[Link](https://ani.social/post/31212560)
 {.dense}
 
 ## Reincarnation no Kaben • Petals of Reincarnation
