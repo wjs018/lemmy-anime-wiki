@@ -98,6 +98,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 4 |
 | Kami no Niwatsuki Kusunoki-tei  | Kusunoki's Garden of Gods | https://anilist.co/anime/196029 | Episode 5 |
 | LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 5 |
+| Love Live! Hasunosora Jogakuin School Idol Club: Bloom Garden Party | Love Live! Hasunosora Jogakuin School Idol Club: Bloom Garden Party | https://anilist.co/anime/194167 | Episode 1 |
 | MAO | MAO | https://anilist.co/anime/196012 | Episode 5 |
 | MARRIAGETOXIN | MARRIAGETOXIN | https://anilist.co/anime/199547 | Episode 5 |
 | Mahou no Shimai Lulutto Lilly | Mahou no Shimai Lulutto Lilly | https://anilist.co/anime/178749 | Episode 5 |
@@ -148,7 +149,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Kidou Keisatsu Patlabor EZY | Kidou Keisatsu Patlabor EZY | https://anilist.co/anime/113555 | May 14 at 15:00 |
-| Love Live! Hasunosora Jogakuin School Idol Club: Bloom Garden Party | Love Live! Hasunosora Jogakuin School Idol Club: Bloom Garden Party | https://anilist.co/anime/194167 | May 07 at 15:00 |
 | Mahouka Koukou no Rettousei: Yotsuba Keishou-hen | Mahouka Koukou no Rettousei: Yotsuba Keishou-hen | https://anilist.co/anime/178707 | May 07 at 16:00 |
 | Xingchen Bian Final | Xingchen Bian Final | https://anilist.co/anime/206356 | May 14 at 02:00 |
 {.dense}
