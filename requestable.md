@@ -132,6 +132,7 @@ These shows have had episodes air already, but no thread was created because the
 | Snowball Earth | Snowball Earth | https://anilist.co/anime/196144 | Episode 5 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 151 |
 | Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 14 |
+| Jian Lai 2 | Sword of Coming 2nd Season | https://anilist.co/anime/205290 | Episode 22 |
 | Tadaima, Ojamasaremasu! | Tadaima, Ojamasaremasu! | https://anilist.co/anime/202985 | Episode 5 |
 | Kami no Shizuku | The Drops of God | https://anilist.co/anime/202508 | Episode 4 |
 | Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 378 |
@@ -149,6 +150,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Kidou Keisatsu Patlabor EZY | Kidou Keisatsu Patlabor EZY | https://anilist.co/anime/113555 | May 14 at 15:00 |
 | Love Live! Hasunosora Jogakuin School Idol Club: Bloom Garden Party | Love Live! Hasunosora Jogakuin School Idol Club: Bloom Garden Party | https://anilist.co/anime/194167 | May 07 at 15:00 |
 | Mahouka Koukou no Rettousei: Yotsuba Keishou-hen | Mahouka Koukou no Rettousei: Yotsuba Keishou-hen | https://anilist.co/anime/178707 | May 07 at 16:00 |
-| Jian Lai 2 | Sword of Coming 2nd Season | https://anilist.co/anime/205290 | May 07 at 11:00 |
 | Xingchen Bian Final | Xingchen Bian Final | https://anilist.co/anime/206356 | May 14 at 02:00 |
 {.dense}
