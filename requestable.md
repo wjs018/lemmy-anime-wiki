@@ -26,7 +26,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | [Link](https://ani.social/post/31261324) |
 | Otaku ni Yasashii Gal wa Inai!? | Gals Can't Be Kind to Otaku!? | https://anilist.co/anime/199588 | [Link](https://ani.social/post/31217261) |
 | Ganbare! Nakamura-kun!! | Go For It, Nakamura-kun!! | https://anilist.co/anime/180228 | [Link](https://ani.social/post/31218837) |
-| Mata Korosarete Shimatta no desu ne, Tantei-sama | Mata Korosarete Shimatta no desu ne, Tantei-sama | https://anilist.co/anime/202381 | [Link](https://ani.social/post/30949506) |
+| Mata Korosarete Shimatta no desu ne, Tantei-sama | Mata Korosarete Shimatta no desu ne, Tantei-sama | https://anilist.co/anime/202381 | [Link](https://ani.social/post/31271092) |
 | Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de" | Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de" | https://anilist.co/anime/206951 | [Link](https://ani.social/post/31174860) |
 | Kanan-sama wa Akumade Choroi | Mistress Kanan is Devilishly Easy | https://anilist.co/anime/190704 | [Link](https://ani.social/post/31033809) |
 | NEEDY GIRL OVERDOSE | NEEDY GIRL OVERDOSE | https://anilist.co/anime/202102 | [Link](https://ani.social/post/31032726) |
@@ -91,7 +91,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kill Ao | Kill Ao | https://anilist.co/anime/198113 | Episode 4 |
 | Kirio Fanclub | Kirio Fanclub | https://anilist.co/anime/181284 | Episode 6 |
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 31 |
-| Komekami! Girls | Komekami! Girls | https://anilist.co/anime/209940 | Episode 5 |
+| Komekami! Girls | Komekami! Girls | https://anilist.co/anime/209940 | Episode 6 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 57 |
 | Kujima Utaeba Ie Hororo | Kujima: Why Sing, When You Can Warble? | https://anilist.co/anime/177508 | Episode 5 |
 | Kujira wo Yumemu | Kujira wo Yumemu | https://anilist.co/anime/211331 | Episode 1 |
