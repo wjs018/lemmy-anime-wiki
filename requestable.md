@@ -40,7 +40,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kuroneko to Majo no Kyoushitsu | The Classroom of the Black Cat and a Witch | https://anilist.co/anime/196974 | [Link](https://ani.social/post/31073457) |
 | Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi | The Klutzy Class Monitor and the Girl with the Short Skirt | https://anilist.co/anime/189987 | [Link](https://ani.social/post/31120161) |
 | Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2 | The Most Heretical Last Boss Queen: From Villainess to Savior Season 2 | https://anilist.co/anime/195268 | [Link](https://ani.social/post/31163328) |
-| Koori no Jouheki | The Ramparts of Ice | https://anilist.co/anime/186497 | [Link](https://ani.social/post/30945400) |
+| Koori no Jouheki | The Ramparts of Ice | https://anilist.co/anime/186497 | [Link](https://ani.social/post/31266556) |
 | Hime Kishi wa Barbaroi no Yome | The Warrior Princess and the Barbaric King | https://anilist.co/anime/182483 | [Link](https://ani.social/post/31260260) |
 | Mairimashita! Iruma-kun 4 | Welcome to Demon School! Iruma-kun Season 4 | https://anilist.co/anime/184492 | [Link](https://ani.social/post/31021617) |
 | Tsue to Tsurugi no Wistoria Season 2 | Wistoria: Wand and Sword Season 2 | https://anilist.co/anime/182300 | [Link](https://ani.social/post/31061132) |
@@ -102,8 +102,9 @@ These shows have had episodes air already, but no thread was created because the
 | MAO | MAO | https://anilist.co/anime/196012 | Episode 5 |
 | MARRIAGETOXIN | MARRIAGETOXIN | https://anilist.co/anime/199547 | Episode 5 |
 | Mahou no Shimai Lulutto Lilly | Mahou no Shimai Lulutto Lilly | https://anilist.co/anime/178749 | Episode 5 |
+| Mahouka Koukou no Rettousei: Yotsuba Keishou-hen | Mahouka Koukou no Rettousei: Yotsuba Keishou-hen | https://anilist.co/anime/178707 | Episode 1 |
 | Maid-san wa Taberu dake | Maid-san wa Taberu dake | https://anilist.co/anime/197868 | Episode 6 |
-| Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru | Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru | https://anilist.co/anime/210234 | Episode 5 |
+| Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru | Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru | https://anilist.co/anime/210234 | Episode 6 |
 | Marika-chan no Koukando wa Bukkowareteiru | Marika's Love Meter Malfunction | https://anilist.co/anime/202523 | Episode 4 |
 | Meitantei Conan: Highway no Datenshi | Meitantei Conan: Highway no Datenshi | https://anilist.co/anime/198369 | Episode 1 |
 | Mu Shen Ji 3 | Mu Shen Ji 3 | https://anilist.co/anime/203953 | Episode 26 |
@@ -149,6 +150,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Kidou Keisatsu Patlabor EZY | Kidou Keisatsu Patlabor EZY | https://anilist.co/anime/113555 | May 14 at 15:00 |
-| Mahouka Koukou no Rettousei: Yotsuba Keishou-hen | Mahouka Koukou no Rettousei: Yotsuba Keishou-hen | https://anilist.co/anime/178707 | May 07 at 16:00 |
 | Xingchen Bian Final | Xingchen Bian Final | https://anilist.co/anime/206356 | May 14 at 02:00 |
 {.dense}
