@@ -131,12 +131,12 @@ These shows have had episodes air already, but no thread was created because the
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1333 |
 | Shou 3 Ashibe QQ Goma-chan | Shou 3 Ashibe QQ Goma-chan | https://anilist.co/anime/202386 | Episode 4 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 160 |
-| Snowball Earth | Snowball Earth | https://anilist.co/anime/196144 | Episode 5 |
+| Snowball Earth | Snowball Earth | https://anilist.co/anime/196144 | Episode 6 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 151 |
 | Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 14 |
 | Jian Lai 2 | Sword of Coming 2nd Season | https://anilist.co/anime/205290 | Episode 22 |
 | Tadaima, Ojamasaremasu! | Tadaima, Ojamasaremasu! | https://anilist.co/anime/202985 | Episode 5 |
-| Kami no Shizuku | The Drops of God | https://anilist.co/anime/202508 | Episode 4 |
+| Kami no Shizuku | The Drops of God | https://anilist.co/anime/202508 | Episode 5 |
 | Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 378 |
 | Yowa Yowa Sensei | Yowayowa Sensei | https://anilist.co/anime/185211 | Episode 4 |
 | Yozakura-san Chi no Daisakusen 2nd Season | Yozakura-san Chi no Daisakusen 2nd Season | https://anilist.co/anime/182578 | Episode 4 |
