@@ -480,7 +480,7 @@ Episode|Link
 2|[Link](https://ani.social/post/30039987)
 3|[Link](https://ani.social/post/30361713)
 4|[Link](https://ani.social/post/30704699)
-5|[Link](https://ani.social/post/30987857)
+5|[Link](https://ani.social/post/31347446)
 {.dense}
 
 ## Tongari Boushi no Atelier • Witch Hat Atelier
