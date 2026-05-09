@@ -201,6 +201,7 @@ Episode|Link
 3|[Link](https://ani.social/post/30410888)
 4|[Link](https://ani.social/post/30727168)
 5|[Link](https://ani.social/post/31033809)
+6|[Link](https://ani.social/post/31361471)
 {.dense}
 
 ## Kanojo, Okarishimasu 5th Season • Rent-a-Girlfriend Season 5
