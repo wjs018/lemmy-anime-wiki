@@ -34,7 +34,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Reincarnation no Kaben | Petals of Reincarnation | https://anilist.co/anime/179950 | [Link](https://ani.social/post/31268003) |
 | Re:Zero kara Hajimeru Isekai Seikatsu 4th Season | Re:ZERO -Starting Life in Another World- Season 4 | https://anilist.co/anime/189046 | [Link](https://ani.social/post/31212560) |
 | Kanojo, Okarishimasu 5th Season | Rent-a-Girlfriend Season 5 | https://anilist.co/anime/199029 | [Link](https://ani.social/post/31212562) |
-| Shunkashuutou Daikousha: Haru no Mai | Shunkashuutou Daikousha: Haru no Mai | https://anilist.co/anime/190143 | [Link](https://ani.social/post/31032013) |
+| Shunkashuutou Daikousha: Haru no Mai | Shunkashuutou Daikousha: Haru no Mai | https://anilist.co/anime/190143 | [Link](https://ani.social/post/31358232) |
 | Tensei Shitara Slime Datta Ken 4th Season | That Time I Got Reincarnated as a Slime Season 4 | https://anilist.co/anime/182205 | [Link](https://ani.social/post/31347446) |
 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season | The Beginning After the End Season 2 | https://anilist.co/anime/194317 | [Link](https://ani.social/post/31248844) |
 | Kuroneko to Majo no Kyoushitsu | The Classroom of the Black Cat and a Witch | https://anilist.co/anime/196974 | [Link](https://ani.social/post/31073457) |
@@ -73,7 +73,6 @@ These shows have had episodes air already, but no thread was created because the
 | Hokuto no Ken: FIST OF THE NORTH STAR | FIST OF THE NORTH STAR: HOKUTO NO KEN | https://anilist.co/anime/169228 | Episode 7 |
 | Fei Ren Zai 3 Part 2 | Fei Ren Zai 3 Part 2 | https://anilist.co/anime/211270 | Episode 1 |
 | Ghost Concert: missing Songs | GHOST CONCERT : missing Songs | https://anilist.co/anime/201090 | Episode 5 |
-| Girls und Panzer: Motto Love Love Sakusen desu! | Girls und Panzer: Motto Love Love Sakusen desu! | https://anilist.co/anime/188034 | Episode 4 |
 | Haibara-kun no Tsuyokute Seishun New Game | Haibara-kun no Tsuyokute Seishun New Game | https://anilist.co/anime/195333 | Episode 6 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 655 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 364 |
@@ -97,7 +96,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kami no Niwatsuki Kusunoki-tei  | Kusunoki's Garden of Gods | https://anilist.co/anime/196029 | Episode 5 |
 | LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 5 |
 | Love Live! Hasunosora Jogakuin School Idol Club: Bloom Garden Party | Love Live! Hasunosora Jogakuin School Idol Club: Bloom Garden Party | https://anilist.co/anime/194167 | Episode 1 |
-| MAO | MAO | https://anilist.co/anime/196012 | Episode 5 |
+| MAO | MAO | https://anilist.co/anime/196012 | Episode 6 |
 | MARRIAGETOXIN | MARRIAGETOXIN | https://anilist.co/anime/199547 | Episode 5 |
 | Mahou no Shimai Lulutto Lilly | Mahou no Shimai Lulutto Lilly | https://anilist.co/anime/178749 | Episode 5 |
 | Mahouka Koukou no Rettousei: Yotsuba Keishou-hen | Mahouka Koukou no Rettousei: Yotsuba Keishou-hen | https://anilist.co/anime/178707 | Episode 1 |
