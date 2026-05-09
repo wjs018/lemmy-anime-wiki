@@ -454,6 +454,7 @@ Episode|Link
 4|[Link](https://ani.social/post/30408761)
 5|[Link](https://ani.social/post/30725466)
 6|[Link](https://ani.social/post/31032013)
+7|[Link](https://ani.social/post/31358232)
 {.dense}
 
 ## Snowball Earth
