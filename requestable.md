@@ -137,7 +137,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tadaima, Ojamasaremasu! | Tadaima, Ojamasaremasu! | https://anilist.co/anime/202985 | Episode 5 |
 | Kami no Shizuku | The Drops of God | https://anilist.co/anime/202508 | Episode 5 |
 | Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 378 |
-| Yowa Yowa Sensei | Yowayowa Sensei | https://anilist.co/anime/185211 | Episode 4 |
+| Yowa Yowa Sensei | Yowayowa Sensei | https://anilist.co/anime/185211 | Episode 5 |
 | Yozakura-san Chi no Daisakusen 2nd Season | Yozakura-san Chi no Daisakusen 2nd Season | https://anilist.co/anime/182578 | Episode 4 |
 | mofusand | mofusand | https://anilist.co/anime/204656 | Episode 18 |
 {.dense}
