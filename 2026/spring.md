@@ -296,6 +296,7 @@ Episode|Link
 3|[Link](https://ani.social/post/30397163)
 4|[Link](https://ani.social/post/30716170)
 5|[Link](https://ani.social/post/31021617)
+6|[Link](https://ani.social/post/31347206)
 {.dense}
 
 ## Marika-chan no Koukando wa Bukkowareteiru • Marika's Love Meter Malfunction
