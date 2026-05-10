@@ -64,7 +64,7 @@ These shows have had episodes air already, but no thread was created because the
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | Episode 30 |
 | Daikenja Riddle no Jikan Gyakko | Daikenja Riddle no Jikan Gyakko | https://anilist.co/anime/210375 | Episode 6 |
 | Diamond no Ace act II: Second Season | Diamond no Ace act II: Second Season | https://anilist.co/anime/177634 | Episode 6 |
-| Ookii Onnanoko wa Suki desu ka? | Do You Like Big Girls? | https://anilist.co/anime/204319 | Episode 5 |
+| Ookii Onnanoko wa Suki desu ka? | Do You Like Big Girls? | https://anilist.co/anime/204319 | Episode 6 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 914 |
 | Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | Episode 41 |
 | Dr. STONE: SCIENCE FUTURE Part 3 | Dr. STONE SCIENCE FUTURE Cour 3 | https://anilist.co/anime/199221 | Episode 6 |
@@ -80,7 +80,7 @@ These shows have had episodes air already, but no thread was created because the
 | Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta | I Made Friends with the Second Prettiest Girl in My Class | https://anilist.co/anime/169580 | Episode 5 |
 | Aishiteru Game wo Owarasetai | I Want to End this Love Game | https://anilist.co/anime/194393 | Episode 4 |
 | Ichijouma Mankitsu Gurashi! | Ichijyoma Mankitsu Gurashi! | https://anilist.co/anime/195734 | Episode 5 |
-| Ingoku Danchi | Ingoku Danchi | https://anilist.co/anime/206166 | Episode 5 |
+| Ingoku Danchi | Ingoku Danchi | https://anilist.co/anime/206166 | Episode 6 |
 | Iya na Kao sare nagara Opantsu Misete Moraitai Returns | Iya na Kao sare nagara Opantsu Misete Moraitai Returns | https://anilist.co/anime/196840 | Episode 2 |
 | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | https://anilist.co/anime/198939 | Episode 6 |
 | Kaze no Anthem | Kaze no Anthem | https://anilist.co/anime/211301 | Episode 1 |
