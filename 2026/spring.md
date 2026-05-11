@@ -401,6 +401,7 @@ Episode|Link
 3|[Link](https://ani.social/post/30500130)
 4|[Link](https://ani.social/post/30808991)
 5|[Link](https://ani.social/post/31120161)
+6|[Link](https://ani.social/post/31447553)
 {.dense}
 
 ## Re:Zero kara Hajimeru Isekai Seikatsu 4th Season • Re:ZERO -Starting Life in Another World- Season 4
