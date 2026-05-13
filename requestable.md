@@ -112,8 +112,10 @@ These shows have had episodes air already, but no thread was created because the
 | Pan Long | Pan Long | https://anilist.co/anime/153466 | Episode 1 |
 | PetitCure: Precure Fairies Season 3 | PetitCure: Precure Fairies Season 3 | https://anilist.co/anime/209541 | Episode 7 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 137 |
+| Re:Zero kara Hajimeru Isekai Seikatsu 4th Season | Re:ZERO -Starting Life in Another World- Season 4 | https://anilist.co/anime/189046 | Episode 6 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | https://anilist.co/anime/210687 | Episode 5 |
 | Wei Miao Rensheng | Reborn as a Cat | https://anilist.co/anime/203710 | Episode 28 |
+| Kanojo, Okarishimasu 5th Season | Rent-a-Girlfriend Season 5 | https://anilist.co/anime/199029 | Episode 6 |
 | Rilakkuma: Goyururi Yume no Tabi | Rilakkuma: Goyururi Yume no Tabi | https://anilist.co/anime/183231 | Episode 6 |
 | Niwatori Fighter | Rooster Fighter | https://anilist.co/anime/179813 | Episode 9 |
 | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | https://anilist.co/anime/200769 | Episode 7 |
@@ -142,7 +144,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Kidou Keisatsu Patlabor EZY | Kidou Keisatsu Patlabor EZY | https://anilist.co/anime/113555 | May 14 at 15:00 |
-| Re:Zero kara Hajimeru Isekai Seikatsu 4th Season | Re:ZERO -Starting Life in Another World- Season 4 | https://anilist.co/anime/189046 | May 13 at 14:00 |
-| Kanojo, Okarishimasu 5th Season | Rent-a-Girlfriend Season 5 | https://anilist.co/anime/199029 | May 13 at 14:00 |
 | Xingchen Bian Final | Xingchen Bian Final | https://anilist.co/anime/206356 | May 14 at 02:00 |
 {.dense}
