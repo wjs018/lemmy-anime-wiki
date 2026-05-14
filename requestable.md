@@ -132,6 +132,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tadaima, Ojamasaremasu! | Tadaima, Ojamasaremasu! | https://anilist.co/anime/202985 | Episode 6 |
 | Kami no Shizuku | The Drops of God | https://anilist.co/anime/202508 | Episode 5 |
 | Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 380 |
+| Xingchen Bian Final | Xingchen Bian Final | https://anilist.co/anime/206356 | Episode 3 |
 | Yowa Yowa Sensei | Yowayowa Sensei | https://anilist.co/anime/185211 | Episode 5 |
 | Yozakura-san Chi no Daisakusen 2nd Season | Yozakura-san Chi no Daisakusen 2nd Season | https://anilist.co/anime/182578 | Episode 5 |
 | mofusand | mofusand | https://anilist.co/anime/204656 | Episode 19 |
@@ -144,5 +145,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Kidou Keisatsu Patlabor EZY | Kidou Keisatsu Patlabor EZY | https://anilist.co/anime/113555 | May 14 at 15:00 |
-| Xingchen Bian Final | Xingchen Bian Final | https://anilist.co/anime/206356 | May 14 at 02:00 |
 {.dense}
