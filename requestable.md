@@ -128,7 +128,7 @@ These shows have had episodes air already, but no thread was created because the
 | Snowball Earth | Snowball Earth | https://anilist.co/anime/196144 | Episode 6 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 152 |
 | Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 15 |
-| Jian Lai 2 | Sword of Coming 2nd Season | https://anilist.co/anime/205290 | Episode 22 |
+| Jian Lai 2 | Sword of Coming 2nd Season | https://anilist.co/anime/205290 | Episode 23 |
 | Tadaima, Ojamasaremasu! | Tadaima, Ojamasaremasu! | https://anilist.co/anime/202985 | Episode 6 |
 | Kami no Shizuku | The Drops of God | https://anilist.co/anime/202508 | Episode 5 |
 | Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 380 |
