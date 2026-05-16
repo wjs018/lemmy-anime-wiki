@@ -145,4 +145,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
+| Transformers: Wild King W | Transformers: Wild King W | https://anilist.co/anime/212309 | May 20 at 01:00 |
 {.dense}
