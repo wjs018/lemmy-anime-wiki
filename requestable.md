@@ -128,7 +128,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shou 3 Ashibe QQ Goma-chan | Shou 3 Ashibe QQ Goma-chan | https://anilist.co/anime/202386 | Episode 5 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 160 |
 | Snowball Earth | Snowball Earth | https://anilist.co/anime/196144 | Episode 7 |
-| Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 152 |
+| Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 153 |
 | Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 15 |
 | Jian Lai 2 | Sword of Coming 2nd Season | https://anilist.co/anime/205290 | Episode 23 |
 | Kami no Shizuku | The Drops of God | https://anilist.co/anime/202508 | Episode 6 |
