@@ -54,7 +54,7 @@ These shows have had episodes air already, but no thread was created because the
 | :-------- | :---------------- | :----------- | :--------------------------: |
 | Awajima Hyakkei | A Hundred Scenes of AWAJIMA | https://anilist.co/anime/177501 | Episode 6 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 126 |
-| Guangyin Zhi Wai | Beyond Time's Gaze | https://anilist.co/anime/205905 | Episode 20 |
+| Guangyin Zhi Wai | Beyond Time's Gaze | https://anilist.co/anime/205905 | Episode 21 |
 | Candy Caries | Candy Caries | https://anilist.co/anime/205772 | Episode 5 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1202 |
 | Ugoku! Neko Mukashi Banashi | Cat Tales | https://anilist.co/anime/188529 | Episode 31 |
