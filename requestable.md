@@ -110,7 +110,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 216 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1161 |
 | Odekake Kozame Season 2 | Odekake Kozame Season 2 | https://anilist.co/anime/204269 | Episode 6 |
-| Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 6 |
+| Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 7 |
 | Pan Long | Pan Long | https://anilist.co/anime/153466 | Episode 1 |
 | PetitCure: Precure Fairies Season 3 | PetitCure: Precure Fairies Season 3 | https://anilist.co/anime/209541 | Episode 8 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 137 |
@@ -129,7 +129,7 @@ These shows have had episodes air already, but no thread was created because the
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 160 |
 | Snowball Earth | Snowball Earth | https://anilist.co/anime/196144 | Episode 7 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 153 |
-| Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 15 |
+| Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 16 |
 | Jian Lai 2 | Sword of Coming 2nd Season | https://anilist.co/anime/205290 | Episode 23 |
 | Kami no Shizuku | The Drops of God | https://anilist.co/anime/202508 | Episode 6 |
 | Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 380 |
