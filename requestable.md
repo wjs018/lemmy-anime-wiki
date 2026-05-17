@@ -122,7 +122,7 @@ These shows have had episodes air already, but no thread was created because the
 | Niwatori Fighter | Rooster Fighter | https://anilist.co/anime/179813 | Episode 10 |
 | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | https://anilist.co/anime/200769 | Episode 8 |
 | Saishuu Gakushou Hibike! Euphonium - Zenpen | Saishuu Gakushou Hibike! Euphonium - Zenpen | https://anilist.co/anime/188035 | Episode 1 |
-| Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2831 |
+| Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2832 |
 | Yuusha no Kuzu | Scum of the Brave | https://anilist.co/anime/187989 | Episode 18 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1335 |
 | Shou 3 Ashibe QQ Goma-chan | Shou 3 Ashibe QQ Goma-chan | https://anilist.co/anime/202386 | Episode 6 |
