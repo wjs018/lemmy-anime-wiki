@@ -43,7 +43,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Hime Kishi wa Barbaroi no Yome | The Warrior Princess and the Barbaric King | https://anilist.co/anime/182483 | [Link](https://ani.social/post/31583914) |
 | Mairimashita! Iruma-kun 4 | Welcome to Demon School! Iruma-kun Season 4 | https://anilist.co/anime/184492 | [Link](https://ani.social/post/31670544) |
 | Tsue to Tsurugi no Wistoria Season 2 | Wistoria: Wand and Sword Season 2 | https://anilist.co/anime/182300 | [Link](https://ani.social/post/31712124) |
-| Tongari Boushi no Atelier | Witch Hat Atelier | https://anilist.co/anime/147105 | [Link](https://ani.social/post/31446325) |
+| Tongari Boushi no Atelier | Witch Hat Atelier | https://anilist.co/anime/147105 | [Link](https://ani.social/post/31769693) |
 {.dense}
 
 ## Requestable Shows
@@ -145,5 +145,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
+| Mononoke: Hebigami | Mononoke: Hebigami | https://anilist.co/anime/179874 | May 28 at 15:00 |
 | Transformers: Wild King W | Transformers: Wild King W | https://anilist.co/anime/212309 | May 20 at 01:00 |
 {.dense}
