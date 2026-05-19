@@ -463,6 +463,7 @@ Episode|Link
 4|[Link](https://ani.social/post/30852965)
 5|[Link](https://ani.social/post/31167614)
 6|[Link](https://ani.social/post/31494736)
+7|[Link](https://ani.social/post/31821541)
 {.dense}
 
 ## Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season • The Beginning After the End Season 2
