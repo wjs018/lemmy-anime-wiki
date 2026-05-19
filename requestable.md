@@ -38,7 +38,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season | The Beginning After the End Season 2 | https://anilist.co/anime/194317 | [Link](https://ani.social/post/31543186) |
 | Kuroneko to Majo no Kyoushitsu | The Classroom of the Black Cat and a Witch | https://anilist.co/anime/196974 | [Link](https://ani.social/post/31728293) |
 | Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi | The Klutzy Class Monitor and the Girl with the Short Skirt | https://anilist.co/anime/189987 | [Link](https://ani.social/post/31771107) |
-| Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2 | The Most Heretical Last Boss Queen: From Villainess to Savior Season 2 | https://anilist.co/anime/195268 | [Link](https://ani.social/post/31491170) |
 | Koori no Jouheki | The Ramparts of Ice | https://anilist.co/anime/186497 | [Link](https://ani.social/post/31590941) |
 | Hime Kishi wa Barbaroi no Yome | The Warrior Princess and the Barbaric King | https://anilist.co/anime/182483 | [Link](https://ani.social/post/31583914) |
 | Mairimashita! Iruma-kun 4 | Welcome to Demon School! Iruma-kun Season 4 | https://anilist.co/anime/184492 | [Link](https://ani.social/post/31670544) |
@@ -74,7 +73,7 @@ These shows have had episodes air already, but no thread was created because the
 | Haibara-kun no Tsuyokute Seishun New Game | Haibara-kun no Tsuyokute Seishun New Game | https://anilist.co/anime/195333 | Episode 7 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 656 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 366 |
-| Hyakki Yakou Shou | Hyakki Yakou Shou | https://anilist.co/anime/207675 | Episode 6 |
+| Hyakki Yakou Shou | Hyakki Yakou Shou | https://anilist.co/anime/207675 | Episode 7 |
 | Hyakushou Kizoku 3rd Season OVA | Hyakushou Kizoku 3rd Season OVA | https://anilist.co/anime/204349 | Episode 1 |
 | Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta | I Made Friends with the Second Prettiest Girl in My Class | https://anilist.co/anime/169580 | Episode 6 |
 | Ichijouma Mankitsu Gurashi! | Ichijyoma Mankitsu Gurashi! | https://anilist.co/anime/195734 | Episode 6 |
@@ -147,5 +146,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Mononoke: Hebigami | Mononoke: Hebigami | https://anilist.co/anime/179874 | May 28 at 15:00 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | May 25 at 03:00 |
+| Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2 | The Most Heretical Last Boss Queen: From Villainess to Savior Season 2 | https://anilist.co/anime/195268 | May 19 at 14:00 |
 | Transformers: Wild King W | Transformers: Wild King W | https://anilist.co/anime/212309 | May 20 at 01:00 |
 {.dense}
