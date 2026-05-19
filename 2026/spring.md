@@ -15,6 +15,7 @@ Below, you can find an index of all the discussion threads for shows from the Sp
 Episode|Link
 :-:|:-:
 5|[Link](https://ani.social/post/31642305)
+6|[Link](https://ani.social/post/31819863)
 {.dense}
 
 ## Akane-banashi
