@@ -60,7 +60,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chibi Godzilla no Gyakushuu 3 | Chibi Godzilla Raids Again Season 3 | https://anilist.co/anime/193883 | Episode 47 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 344 |
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | Episode 31 |
-| Daikenja Riddle no Jikan Gyakko | Daikenja Riddle no Jikan Gyakko | https://anilist.co/anime/210375 | Episode 7 |
+| Daikenja Riddle no Jikan Gyakko | Daikenja Riddle no Jikan Gyakko | https://anilist.co/anime/210375 | Episode 8 |
 | Diamond no Ace act II: Second Season | Diamond no Ace act II: Second Season | https://anilist.co/anime/177634 | Episode 7 |
 | Ookii Onnanoko wa Suki desu ka? | Do You Like Big Girls? | https://anilist.co/anime/204319 | Episode 7 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 915 |
@@ -79,7 +79,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ichijouma Mankitsu Gurashi! | Ichijyoma Mankitsu Gurashi! | https://anilist.co/anime/195734 | Episode 6 |
 | Ingoku Danchi | Ingoku Danchi | https://anilist.co/anime/206166 | Episode 7 |
 | Iya na Kao sare nagara Opantsu Misete Moraitai Returns | Iya na Kao sare nagara Opantsu Misete Moraitai Returns | https://anilist.co/anime/196840 | Episode 3 |
-| Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | https://anilist.co/anime/198939 | Episode 7 |
+| Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | https://anilist.co/anime/198939 | Episode 8 |
 | Kaze no Anthem | Kaze no Anthem | https://anilist.co/anime/211301 | Episode 1 |
 | Kidou Keisatsu Patlabor EZY | Kidou Keisatsu Patlabor EZY | https://anilist.co/anime/113555 | Episode 1 |
 | Kill Ao | Kill Ao | https://anilist.co/anime/198113 | Episode 6 |
@@ -113,10 +113,10 @@ These shows have had episodes air already, but no thread was created because the
 | Pan Long | Pan Long | https://anilist.co/anime/153466 | Episode 1 |
 | PetitCure: Precure Fairies Season 3 | PetitCure: Precure Fairies Season 3 | https://anilist.co/anime/209541 | Episode 8 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 137 |
-| Re:Zero kara Hajimeru Isekai Seikatsu 4th Season | Re:ZERO -Starting Life in Another World- Season 4 | https://anilist.co/anime/189046 | Episode 6 |
+| Re:Zero kara Hajimeru Isekai Seikatsu 4th Season | Re:ZERO -Starting Life in Another World- Season 4 | https://anilist.co/anime/189046 | Episode 7 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | https://anilist.co/anime/210687 | Episode 6 |
 | Wei Miao Rensheng | Reborn as a Cat | https://anilist.co/anime/203710 | Episode 29 |
-| Kanojo, Okarishimasu 5th Season | Rent-a-Girlfriend Season 5 | https://anilist.co/anime/199029 | Episode 6 |
+| Kanojo, Okarishimasu 5th Season | Rent-a-Girlfriend Season 5 | https://anilist.co/anime/199029 | Episode 7 |
 | Rilakkuma: Goyururi Yume no Tabi | Rilakkuma: Goyururi Yume no Tabi | https://anilist.co/anime/183231 | Episode 7 |
 | Niwatori Fighter | Rooster Fighter | https://anilist.co/anime/179813 | Episode 10 |
 | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | https://anilist.co/anime/200769 | Episode 8 |
