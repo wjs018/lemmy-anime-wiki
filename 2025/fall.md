@@ -174,7 +174,7 @@ Episode|Link|Episode|Link
 17|[Link](https://ani.social/post/26769638)|30|[Link](https://ani.social/post/30941559)
 18|[Link](https://ani.social/post/27138806)|31|[Link](https://ani.social/post/31261324)
 19|[Link](https://ani.social/post/27491298)|32|[Link](https://ani.social/post/31584928)
-20|[Link](https://ani.social/post/27804283)
+20|[Link](https://ani.social/post/27804283)|33|[Link](https://ani.social/post/31912045)
 21|[Link](https://ani.social/post/28111788)
 22|[Link](https://ani.social/post/28423403)
 23|[Link](https://ani.social/post/28735814)
