@@ -83,7 +83,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kaze no Anthem | Kaze no Anthem | https://anilist.co/anime/211301 | Episode 1 |
 | Kidou Keisatsu Patlabor EZY | Kidou Keisatsu Patlabor EZY | https://anilist.co/anime/113555 | Episode 1 |
 | Kill Ao | Kill Ao | https://anilist.co/anime/198113 | Episode 6 |
-| Kirio Fanclub | Kirio Fanclub | https://anilist.co/anime/181284 | Episode 7 |
+| Kirio Fanclub | Kirio Fanclub | https://anilist.co/anime/181284 | Episode 8 |
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 33 |
 | Komekami! Girls | Komekami! Girls | https://anilist.co/anime/209940 | Episode 7 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 59 |
