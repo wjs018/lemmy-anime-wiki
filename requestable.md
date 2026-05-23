@@ -14,12 +14,12 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
-| Akane-banashi | Akane-banashi | https://anilist.co/anime/196935 | [Link](https://ani.social/post/31681188) |
+| Akane-banashi | Akane-banashi | https://anilist.co/anime/196935 | [Link](https://ani.social/post/32008615) |
 | Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. | An Observation Log of My Fiancée Who Calls Herself a Villainess | https://anilist.co/anime/192808 | [Link](https://ani.social/post/31958383) |
 | Honzuki no Gekokujou: Ryoushu no Youjo | Ascendance of a Bookworm: Adopted Daughter of an Archduke | https://anilist.co/anime/171110 | [Link](https://ani.social/post/31996139) |
 | Kamiina Botan, Yoeru Sugata wa Yuri no Hana | Botan Kamiina Fully Blossoms When Drunk | https://anilist.co/anime/187869 | [Link](https://ani.social/post/31963224) |
 | Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki | Classroom of the Elite 4th Season: Second Year, First Semester | https://anilist.co/anime/180745 | [Link](https://ani.social/post/31862662) |
-| Yomi no Tsugai | Daemons of the Shadow Realm | https://anilist.co/anime/195600 | [Link](https://ani.social/post/31681189) |
+| Yomi no Tsugai | Daemons of the Shadow Realm | https://anilist.co/anime/195600 | [Link](https://ani.social/post/32008617) |
 | Dorohedoro Season 2 | Dorohedoro Season 2 | https://anilist.co/anime/173172 | [Link](https://ani.social/post/31866582) |
 | Replica Datte, Koi wo Suru. | Even a Replica Can Fall in Love | https://anilist.co/anime/186744 | [Link](https://ani.social/post/31821541) |
 | Isekai Nonbiri Nouka 2 | Farming Life in Another World 2 | https://anilist.co/anime/197824 | [Link](https://ani.social/post/31768513) |
@@ -118,7 +118,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kanojo, Okarishimasu 5th Season | Rent-a-Girlfriend Season 5 | https://anilist.co/anime/199029 | Episode 7 |
 | Rilakkuma: Goyururi Yume no Tabi | Rilakkuma: Goyururi Yume no Tabi | https://anilist.co/anime/183231 | Episode 8 |
 | Niwatori Fighter | Rooster Fighter | https://anilist.co/anime/179813 | Episode 10 |
-| Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | https://anilist.co/anime/200769 | Episode 8 |
+| Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | https://anilist.co/anime/200769 | Episode 9 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2832 |
 | Yuusha no Kuzu | Scum of the Brave | https://anilist.co/anime/187989 | Episode 18 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1336 |
