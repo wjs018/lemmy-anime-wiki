@@ -88,7 +88,7 @@ These shows have had episodes air already, but no thread was created because the
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 59 |
 | Kujima Utaeba Ie Hororo | Kujima: Why Sing, When You Can Warble? | https://anilist.co/anime/177508 | Episode 7 |
 | Kujira wo Yumemu | Kujira wo Yumemu | https://anilist.co/anime/211331 | Episode 1 |
-| Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 6 |
+| Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 7 |
 | Kami no Niwatsuki Kusunoki-tei  | Kusunoki's Garden of Gods | https://anilist.co/anime/196029 | Episode 8 |
 | LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 7 |
 | Love Live! Hasunosora Jogakuin School Idol Club: Bloom Garden Party | Love Live! Hasunosora Jogakuin School Idol Club: Bloom Garden Party | https://anilist.co/anime/194167 | Episode 1 |
@@ -107,7 +107,7 @@ These shows have had episodes air already, but no thread was created because the
 | Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | https://anilist.co/anime/201817 | Episode 8 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 217 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1162 |
-| Odekake Kozame Season 2 | Odekake Kozame Season 2 | https://anilist.co/anime/204269 | Episode 6 |
+| Odekake Kozame Season 2 | Odekake Kozame Season 2 | https://anilist.co/anime/204269 | Episode 7 |
 | Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 7 |
 | Pan Long | Pan Long | https://anilist.co/anime/153466 | Episode 1 |
 | PetitCure: Precure Fairies Season 3 | PetitCure: Precure Fairies Season 3 | https://anilist.co/anime/209541 | Episode 9 |
