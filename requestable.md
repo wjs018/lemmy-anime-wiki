@@ -122,7 +122,7 @@ These shows have had episodes air already, but no thread was created because the
 | Saishuu Gakushou Hibike! Euphonium - Zenpen | Saishuu Gakushou Hibike! Euphonium - Zenpen | https://anilist.co/anime/188035 | Episode 1 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2832 |
 | Yuusha no Kuzu | Scum of the Brave | https://anilist.co/anime/187989 | Episode 18 |
-| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1335 |
+| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1336 |
 | Shou 3 Ashibe QQ Goma-chan | Shou 3 Ashibe QQ Goma-chan | https://anilist.co/anime/202386 | Episode 6 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 160 |
 | Snowball Earth | Snowball Earth | https://anilist.co/anime/196144 | Episode 8 |
