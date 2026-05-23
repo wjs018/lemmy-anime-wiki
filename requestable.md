@@ -28,7 +28,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Aishiteru Game wo Owarasetai | I Want to End this Love Game | https://anilist.co/anime/194393 | [Link](https://ani.social/post/31819863) |
 | Mata Korosarete Shimatta no desu ne, Tantei-sama | Mata Korosarete Shimatta no desu ne, Tantei-sama | https://anilist.co/anime/202381 | [Link](https://ani.social/post/31922944) |
 | Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de" | Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de" | https://anilist.co/anime/206951 | [Link](https://ani.social/post/31826890) |
-| Kanan-sama wa Akumade Choroi | Mistress Kanan is Devilishly Easy | https://anilist.co/anime/190704 | [Link](https://ani.social/post/31685586) |
+| Kanan-sama wa Akumade Choroi | Mistress Kanan is Devilishly Easy | https://anilist.co/anime/190704 | [Link](https://ani.social/post/32012207) |
 | Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season | Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season | https://anilist.co/anime/170019 | [Link](https://ani.social/post/31959771) |
 | Reincarnation no Kaben | Petals of Reincarnation | https://anilist.co/anime/179950 | [Link](https://ani.social/post/31919272) |
 | Re:Zero kara Hajimeru Isekai Seikatsu 4th Season | Re:ZERO -Starting Life in Another World- Season 4 | https://anilist.co/anime/189046 | [Link](https://ani.social/post/31867994) |
@@ -119,7 +119,7 @@ These shows have had episodes air already, but no thread was created because the
 | Niwatori Fighter | Rooster Fighter | https://anilist.co/anime/179813 | Episode 10 |
 | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | https://anilist.co/anime/200769 | Episode 9 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2832 |
-| Yuusha no Kuzu | Scum of the Brave | https://anilist.co/anime/187989 | Episode 18 |
+| Yuusha no Kuzu | Scum of the Brave | https://anilist.co/anime/187989 | Episode 19 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1336 |
 | Shou 3 Ashibe QQ Goma-chan | Shou 3 Ashibe QQ Goma-chan | https://anilist.co/anime/202386 | Episode 6 |
 | Zhe Tian | Shrouding the Heavens | https://anilist.co/anime/137671 | Episode 160 |
