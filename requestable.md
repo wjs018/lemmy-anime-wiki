@@ -79,7 +79,6 @@ These shows have had episodes air already, but no thread was created because the
 | Ingoku Danchi | Ingoku Danchi | https://anilist.co/anime/206166 | Episode 7 |
 | Iya na Kao sare nagara Opantsu Misete Moraitai Returns | Iya na Kao sare nagara Opantsu Misete Moraitai Returns | https://anilist.co/anime/196840 | Episode 4 |
 | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | https://anilist.co/anime/198939 | Episode 8 |
-| Kaze no Anthem | Kaze no Anthem | https://anilist.co/anime/211301 | Episode 1 |
 | Kidou Keisatsu Patlabor EZY | Kidou Keisatsu Patlabor EZY | https://anilist.co/anime/113555 | Episode 1 |
 | Kill Ao | Kill Ao | https://anilist.co/anime/198113 | Episode 7 |
 | Kirio Fanclub | Kirio Fanclub | https://anilist.co/anime/181284 | Episode 8 |
