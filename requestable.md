@@ -89,7 +89,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kujira wo Yumemu | Kujira wo Yumemu | https://anilist.co/anime/211331 | Episode 1 |
 | Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 7 |
 | Kami no Niwatsuki Kusunoki-tei  | Kusunoki's Garden of Gods | https://anilist.co/anime/196029 | Episode 8 |
-| LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 7 |
+| LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 8 |
 | Love Live! Hasunosora Jogakuin School Idol Club: Bloom Garden Party | Love Live! Hasunosora Jogakuin School Idol Club: Bloom Garden Party | https://anilist.co/anime/194167 | Episode 1 |
 | MAO | MAO | https://anilist.co/anime/196012 | Episode 8 |
 | MARRIAGETOXIN | MARRIAGETOXIN | https://anilist.co/anime/199547 | Episode 7 |
