@@ -113,6 +113,7 @@ These shows have had episodes air already, but no thread was created because the
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 137 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | https://anilist.co/anime/210687 | Episode 7 |
 | Wei Miao Rensheng | Reborn as a Cat | https://anilist.co/anime/203710 | Episode 30 |
+| Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 142 |
 | Kanojo, Okarishimasu 5th Season | Rent-a-Girlfriend Season 5 | https://anilist.co/anime/199029 | Episode 7 |
 | Rilakkuma: Goyururi Yume no Tabi | Rilakkuma: Goyururi Yume no Tabi | https://anilist.co/anime/183231 | Episode 8 |
 | Niwatori Fighter | Rooster Fighter | https://anilist.co/anime/179813 | Episode 11 |
@@ -144,5 +145,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Mononoke: Hebigami | Mononoke: Hebigami | https://anilist.co/anime/179874 | May 28 at 15:00 |
-| Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | May 25 at 03:00 |
 {.dense}
