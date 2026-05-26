@@ -56,7 +56,7 @@ These shows have had episodes air already, but no thread was created because the
 | Candy Caries | Candy Caries | https://anilist.co/anime/205772 | Episode 6 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1203 |
 | Ugoku! Neko Mukashi Banashi | Cat Tales | https://anilist.co/anime/188529 | Episode 32 |
-| Chibi Godzilla no Gyakushuu 3 | Chibi Godzilla Raids Again Season 3 | https://anilist.co/anime/193883 | Episode 47 |
+| Chibi Godzilla no Gyakushuu 3 | Chibi Godzilla Raids Again Season 3 | https://anilist.co/anime/193883 | Episode 48 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 346 |
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | Episode 32 |
 | Daikenja Riddle no Jikan Gyakko | Daikenja Riddle no Jikan Gyakko | https://anilist.co/anime/210375 | Episode 8 |
