@@ -16,6 +16,7 @@ Episode|Link
 :-:|:-:
 5|[Link](https://ani.social/post/31642305)
 6|[Link](https://ani.social/post/31819863)
+7|[Link](https://ani.social/post/32154238)
 {.dense}
 
 ## Akane-banashi
