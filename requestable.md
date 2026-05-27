@@ -24,7 +24,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Replica Datte, Koi wo Suru. | Even a Replica Can Fall in Love | https://anilist.co/anime/186744 | [Link](https://ani.social/post/32155280) |
 | Isekai Nonbiri Nouka 2 | Farming Life in Another World 2 | https://anilist.co/anime/197824 | [Link](https://ani.social/post/32105372) |
 | Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | [Link](https://ani.social/post/31912045) |
-| Otaku ni Yasashii Gal wa Inai!? | Gals Can't Be Kind to Otaku!? | https://anilist.co/anime/199588 | [Link](https://ani.social/post/31869033) |
+| Otaku ni Yasashii Gal wa Inai!? | Gals Can't Be Kind to Otaku!? | https://anilist.co/anime/199588 | [Link](https://ani.social/post/32198863) |
 | Aishiteru Game wo Owarasetai | I Want to End this Love Game | https://anilist.co/anime/194393 | [Link](https://ani.social/post/32154238) |
 | Mata Korosarete Shimatta no desu ne, Tantei-sama | Mata Korosarete Shimatta no desu ne, Tantei-sama | https://anilist.co/anime/202381 | [Link](https://ani.social/post/31922944) |
 | Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de" | Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de" | https://anilist.co/anime/206951 | [Link](https://ani.social/post/32161900) |
