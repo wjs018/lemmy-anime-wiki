@@ -38,7 +38,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Tensei Shitara Slime Datta Ken 4th Season | That Time I Got Reincarnated as a Slime Season 4 | https://anilist.co/anime/182205 | [Link](https://ani.social/post/31960748) |
 | Kuroneko to Majo no Kyoushitsu | The Classroom of the Black Cat and a Witch | https://anilist.co/anime/196974 | [Link](https://ani.social/post/32055905) |
 | Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi | The Klutzy Class Monitor and the Girl with the Short Skirt | https://anilist.co/anime/189987 | [Link](https://ani.social/post/32107728) |
-| Koori no Jouheki | The Ramparts of Ice | https://anilist.co/anime/186497 | [Link](https://ani.social/post/31917359) |
+| Koori no Jouheki | The Ramparts of Ice | https://anilist.co/anime/186497 | [Link](https://ani.social/post/32246341) |
 | Hime Kishi wa Barbaroi no Yome | The Warrior Princess and the Barbaric King | https://anilist.co/anime/182483 | [Link](https://ani.social/post/32240243) |
 | Mairimashita! Iruma-kun 4 | Welcome to Demon School! Iruma-kun Season 4 | https://anilist.co/anime/184492 | [Link](https://ani.social/post/31998044) |
 | Tsue to Tsurugi no Wistoria Season 2 | Wistoria: Wand and Sword Season 2 | https://anilist.co/anime/182300 | [Link](https://ani.social/post/32041298) |
