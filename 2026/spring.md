@@ -438,6 +438,7 @@ Episode|Link
 6|[Link](https://ani.social/post/31308919)
 7|[Link](https://ani.social/post/31634450)
 8|[Link](https://ani.social/post/31959771)
+9|[Link](https://ani.social/post/32290644)
 {.dense}
 
 ## Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi • The Klutzy Class Monitor and the Girl with the Short Skirt
