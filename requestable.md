@@ -103,7 +103,7 @@ These shows have had episodes air already, but no thread was created because the
 | Mu Shen Ji 4 | Mu Shen Ji 4 | https://anilist.co/anime/211181 | Episode 6 |
 | Boku no Hero Academia No. 170+1: More | My Hero Academia More | https://anilist.co/anime/204356 | Episode 1 |
 | NEEDY GIRL OVERDOSE | NEEDY GIRL OVERDOSE | https://anilist.co/anime/202102 | Episode 8 |
-| Nezumi-kun no Chokki (TV) | Nezumi-kun no Chokki (TV) | https://anilist.co/anime/198411 | Episode 8 |
+| Nezumi-kun no Chokki (TV) | Nezumi-kun no Chokki (TV) | https://anilist.co/anime/198411 | Episode 9 |
 | Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | https://anilist.co/anime/201817 | Episode 9 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 218 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1163 |
@@ -115,7 +115,7 @@ These shows have had episodes air already, but no thread was created because the
 | Wei Miao Rensheng | Reborn as a Cat | https://anilist.co/anime/203710 | Episode 31 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 142 |
 | Kanojo, Okarishimasu 5th Season | Rent-a-Girlfriend Season 5 | https://anilist.co/anime/199029 | Episode 8 |
-| Rilakkuma: Goyururi Yume no Tabi | Rilakkuma: Goyururi Yume no Tabi | https://anilist.co/anime/183231 | Episode 8 |
+| Rilakkuma: Goyururi Yume no Tabi | Rilakkuma: Goyururi Yume no Tabi | https://anilist.co/anime/183231 | Episode 9 |
 | Niwatori Fighter | Rooster Fighter | https://anilist.co/anime/179813 | Episode 11 |
 | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | https://anilist.co/anime/200769 | Episode 9 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2833 |
