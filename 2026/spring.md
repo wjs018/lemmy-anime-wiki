@@ -526,6 +526,7 @@ Episode|Link
 7|[Link](https://ani.social/post/31358232)
 8|[Link](https://ani.social/post/31682586)
 9|[Link](https://ani.social/post/32009587)
+10|[Link](https://ani.social/post/32340417)
 {.dense}
 
 ## Snowball Earth
