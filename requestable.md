@@ -108,7 +108,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 218 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1163 |
 | Odekake Kozame Season 2 | Odekake Kozame Season 2 | https://anilist.co/anime/204269 | Episode 8 |
-| Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 8 |
+| Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 9 |
 | PetitCure: Precure Fairies Season 3 | PetitCure: Precure Fairies Season 3 | https://anilist.co/anime/209541 | Episode 10 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 138 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | https://anilist.co/anime/210687 | Episode 8 |
@@ -124,7 +124,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shou 3 Ashibe QQ Goma-chan | Shou 3 Ashibe QQ Goma-chan | https://anilist.co/anime/202386 | Episode 8 |
 | Snowball Earth | Snowball Earth | https://anilist.co/anime/196144 | Episode 9 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 155 |
-| Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 17 |
+| Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 18 |
 | Jian Lai 2 | Sword of Coming 2nd Season | https://anilist.co/anime/205290 | Episode 25 |
 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season | The Beginning After the End Season 2 | https://anilist.co/anime/194317 | Episode 9 |
 | Kami no Shizuku | The Drops of God | https://anilist.co/anime/202508 | Episode 8 |
