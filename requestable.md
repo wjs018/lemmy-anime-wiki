@@ -71,7 +71,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ganbare! Nakamura-kun!! | Go For It, Nakamura-kun!! | https://anilist.co/anime/180228 | Episode 10 |
 | Haibara-kun no Tsuyokute Seishun New Game | Haibara-kun no Tsuyokute Seishun New Game | https://anilist.co/anime/195333 | Episode 9 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 658 |
-| Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 367 |
+| Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 368 |
 | Hyakki Yakou Shou | Hyakki Yakou Shou | https://anilist.co/anime/207675 | Episode 8 |
 | Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta | I Made Friends with the Second Prettiest Girl in My Class | https://anilist.co/anime/169580 | Episode 8 |
 | Ichijouma Mankitsu Gurashi! | Ichijyoma Mankitsu Gurashi! | https://anilist.co/anime/195734 | Episode 8 |
@@ -85,7 +85,6 @@ These shows have had episodes air already, but no thread was created because the
 | Komekami! Girls | Komekami! Girls | https://anilist.co/anime/209940 | Episode 9 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 61 |
 | Kujima Utaeba Ie Hororo | Kujima: Why Sing, When You Can Warble? | https://anilist.co/anime/177508 | Episode 8 |
-| Kujira wo Yumemu | Kujira wo Yumemu | https://anilist.co/anime/211331 | Episode 1 |
 | Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 8 |
 | Kami no Niwatsuki Kusunoki-tei  | Kusunoki's Garden of Gods | https://anilist.co/anime/196029 | Episode 9 |
 | LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 8 |
