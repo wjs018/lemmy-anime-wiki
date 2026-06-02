@@ -20,7 +20,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kamiina Botan, Yoeru Sugata wa Yuri no Hana | Botan Kamiina Fully Blossoms When Drunk | https://anilist.co/anime/187869 | [Link](https://ani.social/post/32294220) |
 | Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki | Classroom of the Elite 4th Season: Second Year, First Semester | https://anilist.co/anime/180745 | [Link](https://ani.social/post/32193302) |
 | Yomi no Tsugai | Daemons of the Shadow Realm | https://anilist.co/anime/195600 | [Link](https://ani.social/post/32339475) |
-| Replica Datte, Koi wo Suru. | Even a Replica Can Fall in Love | https://anilist.co/anime/186744 | [Link](https://ani.social/post/32155280) |
 | Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | [Link](https://ani.social/post/32241661) |
 | Otaku ni Yasashii Gal wa Inai!? | Gals Can't Be Kind to Otaku!? | https://anilist.co/anime/199588 | [Link](https://ani.social/post/32198863) |
 | Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de" | Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de" | https://anilist.co/anime/206951 | [Link](https://ani.social/post/32161900) |
@@ -72,7 +71,7 @@ These shows have had episodes air already, but no thread was created because the
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 658 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 368 |
 | Hyakki Yakou Shou | Hyakki Yakou Shou | https://anilist.co/anime/207675 | Episode 9 |
-| Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta | I Made Friends with the Second Prettiest Girl in My Class | https://anilist.co/anime/169580 | Episode 8 |
+| Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta | I Made Friends with the Second Prettiest Girl in My Class | https://anilist.co/anime/169580 | Episode 9 |
 | Aishiteru Game wo Owarasetai | I Want to End this Love Game | https://anilist.co/anime/194393 | Episode 8 |
 | Ichijouma Mankitsu Gurashi! | Ichijyoma Mankitsu Gurashi! | https://anilist.co/anime/195734 | Episode 8 |
 | Ingoku Danchi | Ingoku Danchi | https://anilist.co/anime/206166 | Episode 9 |
@@ -141,4 +140,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Dorohedoro Season 2 | Dorohedoro Season 2 | https://anilist.co/anime/173172 | June 03 at 15:00 |
+| Replica Datte, Koi wo Suru. | Even a Replica Can Fall in Love | https://anilist.co/anime/186744 | June 02 at 15:30 |
 {.dense}
