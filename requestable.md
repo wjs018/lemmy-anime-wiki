@@ -48,7 +48,7 @@ These shows have had episodes air already, but no thread was created because the
 | Awajima Hyakkei | A Hundred Scenes of AWAJIMA | https://anilist.co/anime/177501 | Episode 8 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 126 |
 | Guangyin Zhi Wai | Beyond Time's Gaze | https://anilist.co/anime/205905 | Episode 23 |
-| Candy Caries | Candy Caries | https://anilist.co/anime/205772 | Episode 7 |
+| Candy Caries | Candy Caries | https://anilist.co/anime/205772 | Episode 8 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1202 |
 | Ugoku! Neko Mukashi Banashi | Cat Tales | https://anilist.co/anime/188529 | Episode 34 |
 | Chibi Godzilla no Gyakushuu 3 | Chibi Godzilla Raids Again Season 3 | https://anilist.co/anime/193883 | Episode 49 |
@@ -67,6 +67,7 @@ These shows have had episodes air already, but no thread was created because the
 | Isekai Nonbiri Nouka 2 | Farming Life in Another World 2 | https://anilist.co/anime/197824 | Episode 9 |
 | Fei Ren Zai 3 Part 2 | Fei Ren Zai 3 Part 2 | https://anilist.co/anime/211270 | Episode 6 |
 | Ghost Concert: missing Songs | GHOST CONCERT : missing Songs | https://anilist.co/anime/201090 | Episode 9 |
+| Otaku ni Yasashii Gal wa Inai!? | Gals Can't Be Kind to Otaku!? | https://anilist.co/anime/199588 | Episode 9 |
 | Ganbare! Nakamura-kun!! | Go For It, Nakamura-kun!! | https://anilist.co/anime/180228 | Episode 10 |
 | Haibara-kun no Tsuyokute Seishun New Game | Haibara-kun no Tsuyokute Seishun New Game | https://anilist.co/anime/195333 | Episode 9 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 658 |
@@ -101,7 +102,7 @@ These shows have had episodes air already, but no thread was created because the
 | Mu Shen Ji 4 | Mu Shen Ji 4 | https://anilist.co/anime/211181 | Episode 7 |
 | NEEDY GIRL OVERDOSE | NEEDY GIRL OVERDOSE | https://anilist.co/anime/202102 | Episode 9 |
 | Nezumi-kun no Chokki (TV) | Nezumi-kun no Chokki (TV) | https://anilist.co/anime/198411 | Episode 9 |
-| Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | https://anilist.co/anime/201817 | Episode 9 |
+| Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | https://anilist.co/anime/201817 | Episode 10 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 218 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1164 |
 | Odekake Kozame Season 2 | Odekake Kozame Season 2 | https://anilist.co/anime/204269 | Episode 8 |
@@ -140,5 +141,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
-| Otaku ni Yasashii Gal wa Inai!? | Gals Can't Be Kind to Otaku!? | https://anilist.co/anime/199588 | June 03 at 15:45 |
 {.dense}
