@@ -107,6 +107,7 @@ These shows have had episodes air already, but no thread was created because the
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1164 |
 | Odekake Kozame Season 2 | Odekake Kozame Season 2 | https://anilist.co/anime/204269 | Episode 8 |
 | Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 9 |
+| Reincarnation no Kaben | Petals of Reincarnation | https://anilist.co/anime/179950 | Episode 10 |
 | PetitCure: Precure Fairies Season 3 | PetitCure: Precure Fairies Season 3 | https://anilist.co/anime/209541 | Episode 11 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 138 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | https://anilist.co/anime/210687 | Episode 9 |
@@ -141,5 +142,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
-| Reincarnation no Kaben | Petals of Reincarnation | https://anilist.co/anime/179950 | June 04 at 16:30 |
 {.dense}
