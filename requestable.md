@@ -83,7 +83,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kill Ao | Kill Ao | https://anilist.co/anime/198113 | Episode 8 |
 | Kirio Fanclub | Kirio Fanclub | https://anilist.co/anime/181284 | Episode 10 |
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 35 |
-| Komekami! Girls | Komekami! Girls | https://anilist.co/anime/209940 | Episode 9 |
+| Komekami! Girls | Komekami! Girls | https://anilist.co/anime/209940 | Episode 10 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 61 |
 | Kujima Utaeba Ie Hororo | Kujima: Why Sing, When You Can Warble? | https://anilist.co/anime/177508 | Episode 9 |
 | Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 8 |
@@ -97,7 +97,7 @@ These shows have had episodes air already, but no thread was created because the
 | Maid-san wa Taberu dake | Maid-san wa Taberu dake | https://anilist.co/anime/197868 | Episode 10 |
 | Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru | Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru | https://anilist.co/anime/210234 | Episode 10 |
 | Marika-chan no Koukando wa Bukkowareteiru | Marika's Love Meter Malfunction | https://anilist.co/anime/202523 | Episode 7 |
-| Mata Korosarete Shimatta no desu ne, Tantei-sama | Mata Korosarete Shimatta no desu ne, Tantei-sama | https://anilist.co/anime/202381 | Episode 9 |
+| Mata Korosarete Shimatta no desu ne, Tantei-sama | Mata Korosarete Shimatta no desu ne, Tantei-sama | https://anilist.co/anime/202381 | Episode 10 |
 | Mononoke: Hebigami | Mononoke: Hebigami | https://anilist.co/anime/179874 | Episode 1 |
 | Mu Shen Ji 4 | Mu Shen Ji 4 | https://anilist.co/anime/211181 | Episode 7 |
 | NEEDY GIRL OVERDOSE | NEEDY GIRL OVERDOSE | https://anilist.co/anime/202102 | Episode 9 |
