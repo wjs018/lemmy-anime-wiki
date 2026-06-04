@@ -25,7 +25,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kanan-sama wa Akumade Choroi | Mistress Kanan is Devilishly Easy | https://anilist.co/anime/190704 | [Link](https://ani.social/post/32342713) |
 | Nippon Sangoku | NIPPON SANGOKU: The Three Nations of the Crimson Sun | https://anilist.co/anime/206914 | [Link](https://ani.social/post/32374421) |
 | Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season | Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season | https://anilist.co/anime/170019 | [Link](https://ani.social/post/32290644) |
-| Reincarnation no Kaben | Petals of Reincarnation | https://anilist.co/anime/179950 | [Link](https://ani.social/post/32247551) |
 | Re:Zero kara Hajimeru Isekai Seikatsu 4th Season | Re:ZERO -Starting Life in Another World- Season 4 | https://anilist.co/anime/189046 | [Link](https://ani.social/post/32522260) |
 | Shunkashuutou Daikousha: Haru no Mai | Shunkashuutou Daikousha: Haru no Mai | https://anilist.co/anime/190143 | [Link](https://ani.social/post/32340417) |
 | Super no Ura de Yani Suu Futari | Smoking Behind the Supermarket with You | https://anilist.co/anime/196187 | [Link](https://ani.social/post/32538111) |
@@ -82,7 +81,7 @@ These shows have had episodes air already, but no thread was created because the
 | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | https://anilist.co/anime/198939 | Episode 10 |
 | Kidou Keisatsu Patlabor EZY | Kidou Keisatsu Patlabor EZY | https://anilist.co/anime/113555 | Episode 1 |
 | Kill Ao | Kill Ao | https://anilist.co/anime/198113 | Episode 8 |
-| Kirio Fanclub | Kirio Fanclub | https://anilist.co/anime/181284 | Episode 9 |
+| Kirio Fanclub | Kirio Fanclub | https://anilist.co/anime/181284 | Episode 10 |
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 35 |
 | Komekami! Girls | Komekami! Girls | https://anilist.co/anime/209940 | Episode 9 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 61 |
@@ -142,4 +141,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
+| Reincarnation no Kaben | Petals of Reincarnation | https://anilist.co/anime/179950 | June 04 at 16:30 |
 {.dense}
