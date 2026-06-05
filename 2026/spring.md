@@ -224,6 +224,7 @@ Episode|Link
 6|[Link](https://ani.social/post/31638483)
 7|[Link](https://ani.social/post/31963224)
 8|[Link](https://ani.social/post/32294220)
+9|[Link](https://ani.social/post/32623529)
 {.dense}
 
 ## Kanan-sama wa Akumade Choroi • Mistress Kanan is Devilishly Easy
