@@ -84,7 +84,7 @@ These shows have had episodes air already, but no thread was created because the
 | Komekami! Girls | Komekami! Girls | https://anilist.co/anime/209940 | Episode 10 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 61 |
 | Kujima Utaeba Ie Hororo | Kujima: Why Sing, When You Can Warble? | https://anilist.co/anime/177508 | Episode 9 |
-| Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 8 |
+| Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 9 |
 | Kami no Niwatsuki Kusunoki-tei  | Kusunoki's Garden of Gods | https://anilist.co/anime/196029 | Episode 10 |
 | LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 9 |
 | MAO | MAO | https://anilist.co/anime/196012 | Episode 10 |
@@ -101,7 +101,7 @@ These shows have had episodes air already, but no thread was created because the
 | Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | https://anilist.co/anime/201817 | Episode 10 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 219 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1164 |
-| Odekake Kozame Season 2 | Odekake Kozame Season 2 | https://anilist.co/anime/204269 | Episode 8 |
+| Odekake Kozame Season 2 | Odekake Kozame Season 2 | https://anilist.co/anime/204269 | Episode 9 |
 | Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 9 |
 | Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season | Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season | https://anilist.co/anime/170019 | Episode 10 |
 | Reincarnation no Kaben | Petals of Reincarnation | https://anilist.co/anime/179950 | Episode 10 |
