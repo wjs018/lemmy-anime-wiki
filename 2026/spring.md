@@ -161,6 +161,7 @@ Episode|Link
 6|[Link](https://ani.social/post/31669217)
 7|[Link](https://ani.social/post/31996139)
 8|[Link](https://ani.social/post/32326851)
+9|[Link](https://ani.social/post/32658041)
 {.dense}
 
 ## Ichijouma Mankitsu Gurashi! • Ichijyoma Mankitsu Gurashi!
