@@ -78,7 +78,7 @@ These shows have had episodes air already, but no thread was created because the
 | Iya na Kao sare nagara Opantsu Misete Moraitai Returns | Iya na Kao sare nagara Opantsu Misete Moraitai Returns | https://anilist.co/anime/196840 | Episode 6 |
 | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | https://anilist.co/anime/198939 | Episode 10 |
 | Kidou Keisatsu Patlabor EZY | Kidou Keisatsu Patlabor EZY | https://anilist.co/anime/113555 | Episode 1 |
-| Kill Ao | Kill Ao | https://anilist.co/anime/198113 | Episode 8 |
+| Kill Ao | Kill Ao | https://anilist.co/anime/198113 | Episode 9 |
 | Kirio Fanclub | Kirio Fanclub | https://anilist.co/anime/181284 | Episode 10 |
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 35 |
 | Komekami! Girls | Komekami! Girls | https://anilist.co/anime/209940 | Episode 10 |
@@ -87,7 +87,6 @@ These shows have had episodes air already, but no thread was created because the
 | Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 8 |
 | Kami no Niwatsuki Kusunoki-tei  | Kusunoki's Garden of Gods | https://anilist.co/anime/196029 | Episode 9 |
 | LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 9 |
-| Love Live! Hasunosora Jogakuin School Idol Club: Bloom Garden Party | Love Live! Hasunosora Jogakuin School Idol Club: Bloom Garden Party | https://anilist.co/anime/194167 | Episode 1 |
 | MAO | MAO | https://anilist.co/anime/196012 | Episode 9 |
 | MARRIAGETOXIN | MARRIAGETOXIN | https://anilist.co/anime/199547 | Episode 9 |
 | Mahou no Shimai Lulutto Lilly | Mahou no Shimai Lulutto Lilly | https://anilist.co/anime/178749 | Episode 9 |
@@ -97,7 +96,7 @@ These shows have had episodes air already, but no thread was created because the
 | Marika-chan no Koukando wa Bukkowareteiru | Marika's Love Meter Malfunction | https://anilist.co/anime/202523 | Episode 7 |
 | Mata Korosarete Shimatta no desu ne, Tantei-sama | Mata Korosarete Shimatta no desu ne, Tantei-sama | https://anilist.co/anime/202381 | Episode 10 |
 | Mononoke: Hebigami | Mononoke: Hebigami | https://anilist.co/anime/179874 | Episode 1 |
-| Mu Shen Ji 4 | Mu Shen Ji 4 | https://anilist.co/anime/211181 | Episode 7 |
+| Mu Shen Ji 4 | Mu Shen Ji 4 | https://anilist.co/anime/211181 | Episode 8 |
 | NEEDY GIRL OVERDOSE | NEEDY GIRL OVERDOSE | https://anilist.co/anime/202102 | Episode 9 |
 | Nezumi-kun no Chokki (TV) | Nezumi-kun no Chokki (TV) | https://anilist.co/anime/198411 | Episode 10 |
 | Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | https://anilist.co/anime/201817 | Episode 10 |
