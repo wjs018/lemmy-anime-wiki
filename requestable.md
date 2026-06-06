@@ -33,7 +33,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi | The Klutzy Class Monitor and the Girl with the Short Skirt | https://anilist.co/anime/189987 | [Link](https://ani.social/post/32429856) |
 | Koori no Jouheki | The Ramparts of Ice | https://anilist.co/anime/186497 | [Link](https://ani.social/post/32576328) |
 | Hime Kishi wa Barbaroi no Yome | The Warrior Princess and the Barbaric King | https://anilist.co/anime/182483 | [Link](https://ani.social/post/32570085) |
-| Mairimashita! Iruma-kun 4 | Welcome to Demon School! Iruma-kun Season 4 | https://anilist.co/anime/184492 | [Link](https://ani.social/post/32328326) |
+| Mairimashita! Iruma-kun 4 | Welcome to Demon School! Iruma-kun Season 4 | https://anilist.co/anime/184492 | [Link](https://ani.social/post/32659273) |
 | Tsue to Tsurugi no Wistoria Season 2 | Wistoria: Wand and Sword Season 2 | https://anilist.co/anime/182300 | [Link](https://ani.social/post/32368462) |
 | Tongari Boushi no Atelier | Witch Hat Atelier | https://anilist.co/anime/147105 | [Link](https://ani.social/post/32428283) |
 {.dense}
