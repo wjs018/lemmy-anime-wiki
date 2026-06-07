@@ -102,7 +102,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 219 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1164 |
 | Odekake Kozame Season 2 | Odekake Kozame Season 2 | https://anilist.co/anime/204269 | Episode 9 |
-| Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 9 |
+| Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 10 |
 | Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season | Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season | https://anilist.co/anime/170019 | Episode 10 |
 | Reincarnation no Kaben | Petals of Reincarnation | https://anilist.co/anime/179950 | Episode 10 |
 | PetitCure: Precure Fairies Season 3 | PetitCure: Precure Fairies Season 3 | https://anilist.co/anime/209541 | Episode 11 |
@@ -120,7 +120,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shou 3 Ashibe QQ Goma-chan | Shou 3 Ashibe QQ Goma-chan | https://anilist.co/anime/202386 | Episode 9 |
 | Snowball Earth | Snowball Earth | https://anilist.co/anime/196144 | Episode 10 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 156 |
-| Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 18 |
+| Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 19 |
 | Jian Lai 2 | Sword of Coming 2nd Season | https://anilist.co/anime/205290 | Episode 26 |
 | Tensei Shitara Slime Datta Ken 4th Season | That Time I Got Reincarnated as a Slime Season 4 | https://anilist.co/anime/182205 | Episode 9 |
 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season | The Beginning After the End Season 2 | https://anilist.co/anime/194317 | Episode 10 |
