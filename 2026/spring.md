@@ -596,6 +596,7 @@ Episode|Link
 8|[Link](https://ani.social/post/31769693)
 9|[Link](https://ani.social/post/32106838)
 10|[Link](https://ani.social/post/32428283)
+11|[Link](https://ani.social/post/32760090)
 {.dense}
 
 ## Tsue to Tsurugi no Wistoria Season 2 • Wistoria: Wand and Sword Season 2
