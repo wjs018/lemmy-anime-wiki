@@ -140,6 +140,7 @@ Episode|Link
 7|[Link](https://ani.social/post/31911283)
 8|[Link](https://ani.social/post/32240243)
 9|[Link](https://ani.social/post/32570085)
+10|[Link](https://ani.social/post/32885800)
 {.dense}
 
 ## Hokuto no Ken: FIST OF THE NORTH STAR • FIST OF THE NORTH STAR: HOKUTO NO KEN
