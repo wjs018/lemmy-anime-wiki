@@ -100,7 +100,7 @@ These shows have had episodes air already, but no thread was created because the
 | NEEDY GIRL OVERDOSE | NEEDY GIRL OVERDOSE | https://anilist.co/anime/202102 | Episode 10 |
 | Nezumi-kun no Chokki (TV) | Nezumi-kun no Chokki (TV) | https://anilist.co/anime/198411 | Episode 10 |
 | Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | https://anilist.co/anime/201817 | Episode 11 |
-| Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 219 |
+| Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 220 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1165 |
 | Odekake Kozame Season 2 | Odekake Kozame Season 2 | https://anilist.co/anime/204269 | Episode 9 |
 | Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 10 |
