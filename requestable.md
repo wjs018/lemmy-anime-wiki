@@ -142,4 +142,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | BAKI-DOU Part 2 | BAKI-DOU: The Invincible Samurai Part 2 | https://anilist.co/anime/210032 | June 18 at 07:00 |
 | Cheng Huang Lu | Cheng Huang Lu | https://anilist.co/anime/137664 | June 16 at 03:00 |
+| Osomatsu-san 4th Season | Mr. Osomatsu 4th season | https://anilist.co/anime/177880 | June 13 at 01:30 |
 {.dense}
