@@ -28,6 +28,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Shunkashuutou Daikousha: Haru no Mai | Shunkashuutou Daikousha: Haru no Mai | https://anilist.co/anime/190143 | [Link](https://ani.social/post/32670187) |
 | Super no Ura de Yani Suu Futari | Smoking Behind the Supermarket with You | https://anilist.co/anime/196187 | [Link](https://ani.social/post/32538111) |
 | Tadaima, Ojamasaremasu! | Tadaima, Ojamasaremasu! | https://anilist.co/anime/202985 | [Link](https://ani.social/post/32811365) |
+| Tensei Shitara Slime Datta Ken 4th Season | That Time I Got Reincarnated as a Slime Season 4 | https://anilist.co/anime/182205 | [Link](https://ani.social/post/32934598) |
 | Kuroneko to Majo no Kyoushitsu | The Classroom of the Black Cat and a Witch | https://anilist.co/anime/196974 | [Link](https://ani.social/post/32716050) |
 | Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi | The Klutzy Class Monitor and the Girl with the Short Skirt | https://anilist.co/anime/189987 | [Link](https://ani.social/post/32761873) |
 | Koori no Jouheki | The Ramparts of Ice | https://anilist.co/anime/186497 | [Link](https://ani.social/post/32892167) |
@@ -122,7 +123,6 @@ These shows have had episodes air already, but no thread was created because the
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 156 |
 | Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 19 |
 | Jian Lai 2 | Sword of Coming 2nd Season | https://anilist.co/anime/205290 | Episode 27 |
-| Tensei Shitara Slime Datta Ken 4th Season | That Time I Got Reincarnated as a Slime Season 4 | https://anilist.co/anime/182205 | Episode 10 |
 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season | The Beginning After the End Season 2 | https://anilist.co/anime/194317 | Episode 11 |
 | Kami no Shizuku | The Drops of God | https://anilist.co/anime/202508 | Episode 10 |
 | Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2 | The Most Heretical Last Boss Queen: From Villainess to Savior Season 2 | https://anilist.co/anime/195268 | Episode 10 |
