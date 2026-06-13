@@ -78,8 +78,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ingoku Danchi | Ingoku Danchi | https://anilist.co/anime/206166 | Episode 10 |
 | Iya na Kao sare nagara Opantsu Misete Moraitai Returns | Iya na Kao sare nagara Opantsu Misete Moraitai Returns | https://anilist.co/anime/196840 | Episode 6 |
 | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | https://anilist.co/anime/198939 | Episode 10 |
-| Kidou Keisatsu Patlabor EZY | Kidou Keisatsu Patlabor EZY | https://anilist.co/anime/113555 | Episode 1 |
-| Kill Ao | Kill Ao | https://anilist.co/anime/198113 | Episode 9 |
+| Kill Ao | Kill Ao | https://anilist.co/anime/198113 | Episode 10 |
 | Kirio Fanclub | Kirio Fanclub | https://anilist.co/anime/181284 | Episode 11 |
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 36 |
 | Komekami! Girls | Komekami! Girls | https://anilist.co/anime/209940 | Episode 11 |
@@ -97,7 +96,7 @@ These shows have had episodes air already, but no thread was created because the
 | Mata Korosarete Shimatta no desu ne, Tantei-sama | Mata Korosarete Shimatta no desu ne, Tantei-sama | https://anilist.co/anime/202381 | Episode 11 |
 | Mononoke: Hebigami | Mononoke: Hebigami | https://anilist.co/anime/179874 | Episode 1 |
 | Osomatsu-san 4th Season | Mr. Osomatsu 4th season | https://anilist.co/anime/177880 | Episode 13 |
-| Mu Shen Ji 4 | Mu Shen Ji 4 | https://anilist.co/anime/211181 | Episode 8 |
+| Mu Shen Ji 4 | Mu Shen Ji 4 | https://anilist.co/anime/211181 | Episode 9 |
 | NEEDY GIRL OVERDOSE | NEEDY GIRL OVERDOSE | https://anilist.co/anime/202102 | Episode 10 |
 | Nezumi-kun no Chokki (TV) | Nezumi-kun no Chokki (TV) | https://anilist.co/anime/198411 | Episode 11 |
 | Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | https://anilist.co/anime/201817 | Episode 11 |
