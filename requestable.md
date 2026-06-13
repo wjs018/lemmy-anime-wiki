@@ -96,9 +96,10 @@ These shows have had episodes air already, but no thread was created because the
 | Marika-chan no Koukando wa Bukkowareteiru | Marika's Love Meter Malfunction | https://anilist.co/anime/202523 | Episode 8 |
 | Mata Korosarete Shimatta no desu ne, Tantei-sama | Mata Korosarete Shimatta no desu ne, Tantei-sama | https://anilist.co/anime/202381 | Episode 11 |
 | Mononoke: Hebigami | Mononoke: Hebigami | https://anilist.co/anime/179874 | Episode 1 |
+| Osomatsu-san 4th Season | Mr. Osomatsu 4th season | https://anilist.co/anime/177880 | Episode 13 |
 | Mu Shen Ji 4 | Mu Shen Ji 4 | https://anilist.co/anime/211181 | Episode 8 |
 | NEEDY GIRL OVERDOSE | NEEDY GIRL OVERDOSE | https://anilist.co/anime/202102 | Episode 10 |
-| Nezumi-kun no Chokki (TV) | Nezumi-kun no Chokki (TV) | https://anilist.co/anime/198411 | Episode 10 |
+| Nezumi-kun no Chokki (TV) | Nezumi-kun no Chokki (TV) | https://anilist.co/anime/198411 | Episode 11 |
 | Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | https://anilist.co/anime/201817 | Episode 11 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 220 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1165 |
@@ -112,7 +113,7 @@ These shows have had episodes air already, but no thread was created because the
 | Wei Miao Rensheng | Reborn as a Cat | https://anilist.co/anime/203710 | Episode 33 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 144 |
 | Kanojo, Okarishimasu 5th Season | Rent-a-Girlfriend Season 5 | https://anilist.co/anime/199029 | Episode 10 |
-| Rilakkuma: Goyururi Yume no Tabi | Rilakkuma: Goyururi Yume no Tabi | https://anilist.co/anime/183231 | Episode 10 |
+| Rilakkuma: Goyururi Yume no Tabi | Rilakkuma: Goyururi Yume no Tabi | https://anilist.co/anime/183231 | Episode 11 |
 | Niwatori Fighter | Rooster Fighter | https://anilist.co/anime/179813 | Episode 12 |
 | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | https://anilist.co/anime/200769 | Episode 11 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2835 |
@@ -142,5 +143,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | BAKI-DOU Part 2 | BAKI-DOU: The Invincible Samurai Part 2 | https://anilist.co/anime/210032 | June 18 at 07:00 |
 | Cheng Huang Lu | Cheng Huang Lu | https://anilist.co/anime/137664 | June 16 at 03:00 |
-| Osomatsu-san 4th Season | Mr. Osomatsu 4th season | https://anilist.co/anime/177880 | June 13 at 01:30 |
 {.dense}
