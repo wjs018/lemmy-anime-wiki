@@ -33,6 +33,7 @@ Episode|Link
 8|[Link](https://ani.social/post/32008615)
 9|[Link](https://ani.social/post/32339472)
 10|[Link](https://ani.social/post/32668622)
+11|[Link](https://ani.social/post/32975757)
 {.dense}
 
 ## Awajima Hyakkei • A Hundred Scenes of AWAJIMA
