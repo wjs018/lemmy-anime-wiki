@@ -130,7 +130,7 @@ These shows have had episodes air already, but no thread was created because the
 | Transformers: Wild King W | Transformers: Wild King W | https://anilist.co/anime/212309 | Episode 1 |
 | Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 388 |
 | Xingchen Bian Final | Xingchen Bian Final | https://anilist.co/anime/206356 | Episode 6 |
-| Yowa Yowa Sensei | Yowayowa Sensei | https://anilist.co/anime/185211 | Episode 9 |
+| Yowa Yowa Sensei | Yowayowa Sensei | https://anilist.co/anime/185211 | Episode 10 |
 | Yozakura-san Chi no Daisakusen 2nd Season | Yozakura-san Chi no Daisakusen 2nd Season | https://anilist.co/anime/182578 | Episode 9 |
 | mofusand | mofusand | https://anilist.co/anime/204656 | Episode 23 |
 {.dense}
