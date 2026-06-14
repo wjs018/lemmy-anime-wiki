@@ -318,6 +318,7 @@ Episode|Link
 7|[Link](https://ani.social/post/32055905)
 8|[Link](https://ani.social/post/32382140)
 9|[Link](https://ani.social/post/32716050)
+10|[Link](https://ani.social/post/33020192)
 {.dense}
 
 ## LIAR GAME
