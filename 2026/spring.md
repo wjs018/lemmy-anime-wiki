@@ -428,6 +428,7 @@ Episode|Link
 8|[Link](https://ani.social/post/32178739)
 9|[Link](https://ani.social/post/32374421)
 10|[Link](https://ani.social/post/32708076)
+11|[Link](https://ani.social/post/33012923)
 {.dense}
 
 ## Niwatori Fighter • Rooster Fighter
