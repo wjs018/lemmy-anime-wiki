@@ -584,6 +584,7 @@ Episode|Link
 8|[Link](https://ani.social/post/32160447)
 9|[Link](https://ani.social/post/32484021)
 10|[Link](https://ani.social/post/32811365)
+11|[Link](https://ani.social/post/33109244)
 {.dense}
 
 ## Tensei Shitara Slime Datta Ken 4th Season • That Time I Got Reincarnated as a Slime Season 4
