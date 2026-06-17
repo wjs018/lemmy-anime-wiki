@@ -68,7 +68,7 @@ These shows have had episodes air already, but no thread was created because the
 | Isekai Nonbiri Nouka 2 | Farming Life in Another World 2 | https://anilist.co/anime/197824 | Episode 11 |
 | Fei Ren Zai 3 Part 2 | Fei Ren Zai 3 Part 2 | https://anilist.co/anime/211270 | Episode 8 |
 | Ghost Concert: missing Songs | GHOST CONCERT : missing Songs | https://anilist.co/anime/201090 | Episode 11 |
-| Otaku ni Yasashii Gal wa Inai!? | Gals Can't Be Kind to Otaku!? | https://anilist.co/anime/199588 | Episode 10 |
+| Otaku ni Yasashii Gal wa Inai!? | Gals Can't Be Kind to Otaku!? | https://anilist.co/anime/199588 | Episode 11 |
 | Ganbare! Nakamura-kun!! | Go For It, Nakamura-kun!! | https://anilist.co/anime/180228 | Episode 12 |
 | Haibara-kun no Tsuyokute Seishun New Game | Haibara-kun no Tsuyokute Seishun New Game | https://anilist.co/anime/195333 | Episode 11 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 660 |
