@@ -23,7 +23,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de" | Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de" | https://anilist.co/anime/206951 | [Link](https://ani.social/post/33110173) |
 | Kanan-sama wa Akumade Choroi | Mistress Kanan is Devilishly Easy | https://anilist.co/anime/190704 | [Link](https://ani.social/post/32979189) |
 | Nippon Sangoku | NIPPON SANGOKU: The Three Nations of the Crimson Sun | https://anilist.co/anime/206914 | [Link](https://ani.social/post/33012923) |
-| Re:Zero kara Hajimeru Isekai Seikatsu 4th Season | Re:ZERO -Starting Life in Another World- Season 4 | https://anilist.co/anime/189046 | [Link](https://ani.social/post/32845467) |
+| Re:Zero kara Hajimeru Isekai Seikatsu 4th Season | Re:ZERO -Starting Life in Another World- Season 4 | https://anilist.co/anime/189046 | [Link](https://ani.social/post/33141669) |
 | Shunkashuutou Daikousha: Haru no Mai | Shunkashuutou Daikousha: Haru no Mai | https://anilist.co/anime/190143 | [Link](https://ani.social/post/32976961) |
 | Super no Ura de Yani Suu Futari | Smoking Behind the Supermarket with You | https://anilist.co/anime/196187 | [Link](https://ani.social/post/32538111) |
 | Tadaima, Ojamasaremasu! | Tadaima, Ojamasaremasu! | https://anilist.co/anime/202985 | [Link](https://ani.social/post/33109244) |
@@ -55,7 +55,7 @@ These shows have had episodes air already, but no thread was created because the
 | Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki | Classroom of the Elite 4th Season: Second Year, First Semester | https://anilist.co/anime/180745 | Episode 15 |
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | Episode 35 |
 | Yomi no Tsugai | Daemons of the Shadow Realm | https://anilist.co/anime/195600 | Episode 11 |
-| Daikenja Riddle no Jikan Gyakko | Daikenja Riddle no Jikan Gyakko | https://anilist.co/anime/210375 | Episode 11 |
+| Daikenja Riddle no Jikan Gyakko | Daikenja Riddle no Jikan Gyakko | https://anilist.co/anime/210375 | Episode 12 |
 | Dao Yao Xing | Dao Yao Xing | https://anilist.co/anime/207534 | Episode 31 |
 | Diamond no Ace act II: Second Season | Diamond no Ace act II: Second Season | https://anilist.co/anime/177634 | Episode 11 |
 | Ookii Onnanoko wa Suki desu ka? | Do You Like Big Girls? | https://anilist.co/anime/204319 | Episode 11 |
