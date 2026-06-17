@@ -46,7 +46,7 @@ These shows have had episodes air already, but no thread was created because the
 | Awajima Hyakkei | A Hundred Scenes of AWAJIMA | https://anilist.co/anime/177501 | Episode 10 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 127 |
 | Guangyin Zhi Wai | Beyond Time's Gaze | https://anilist.co/anime/205905 | Episode 25 |
-| Candy Caries | Candy Caries | https://anilist.co/anime/205772 | Episode 9 |
+| Candy Caries | Candy Caries | https://anilist.co/anime/205772 | Episode 10 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1203 |
 | Ugoku! Neko Mukashi Banashi | Cat Tales | https://anilist.co/anime/188529 | Episode 36 |
 | Cheng Huang Lu | Cheng Huang Lu | https://anilist.co/anime/137664 | Episode 2 |
@@ -102,7 +102,7 @@ These shows have had episodes air already, but no thread was created because the
 | Mu Shen Ji 4 | Mu Shen Ji 4 | https://anilist.co/anime/211181 | Episode 9 |
 | NEEDY GIRL OVERDOSE | NEEDY GIRL OVERDOSE | https://anilist.co/anime/202102 | Episode 11 |
 | Nezumi-kun no Chokki (TV) | Nezumi-kun no Chokki (TV) | https://anilist.co/anime/198411 | Episode 11 |
-| Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | https://anilist.co/anime/201817 | Episode 11 |
+| Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | https://anilist.co/anime/201817 | Episode 12 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 220 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1166 |
 | Odekake Kozame Season 2 | Odekake Kozame Season 2 | https://anilist.co/anime/204269 | Episode 10 |
