@@ -83,7 +83,7 @@ These shows have had episodes air already, but no thread was created because the
 | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | https://anilist.co/anime/198939 | Episode 11 |
 | Jueshi Zhan Hun 2 | Jueshi Zhan Hun 2 | https://anilist.co/anime/213188 | Episode 2 |
 | Kill Ao | Kill Ao | https://anilist.co/anime/198113 | Episode 10 |
-| Kirio Fanclub | Kirio Fanclub | https://anilist.co/anime/181284 | Episode 11 |
+| Kirio Fanclub | Kirio Fanclub | https://anilist.co/anime/181284 | Episode 12 |
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 37 |
 | Komekami! Girls | Komekami! Girls | https://anilist.co/anime/209940 | Episode 11 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 63 |
@@ -109,7 +109,7 @@ These shows have had episodes air already, but no thread was created because the
 | Odekake Kozame Season 2 | Odekake Kozame Season 2 | https://anilist.co/anime/204269 | Episode 10 |
 | Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 11 |
 | Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season | Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season | https://anilist.co/anime/170019 | Episode 11 |
-| Reincarnation no Kaben | Petals of Reincarnation | https://anilist.co/anime/179950 | Episode 11 |
+| Reincarnation no Kaben | Petals of Reincarnation | https://anilist.co/anime/179950 | Episode 12 |
 | PetitCure: Precure Fairies Season 3 | PetitCure: Precure Fairies Season 3 | https://anilist.co/anime/209541 | Episode 13 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 140 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | https://anilist.co/anime/210687 | Episode 11 |
