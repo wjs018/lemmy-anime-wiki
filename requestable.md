@@ -84,7 +84,7 @@ These shows have had episodes air already, but no thread was created because the
 | Jueshi Zhan Hun 2 | Jueshi Zhan Hun 2 | https://anilist.co/anime/213188 | Episode 2 |
 | Kill Ao | Kill Ao | https://anilist.co/anime/198113 | Episode 10 |
 | Kirio Fanclub | Kirio Fanclub | https://anilist.co/anime/181284 | Episode 11 |
-| Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 36 |
+| Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 37 |
 | Komekami! Girls | Komekami! Girls | https://anilist.co/anime/209940 | Episode 11 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 63 |
 | Kujima Utaeba Ie Hororo | Kujima: Why Sing, When You Can Warble? | https://anilist.co/anime/177508 | Episode 10 |
@@ -113,7 +113,7 @@ These shows have had episodes air already, but no thread was created because the
 | PetitCure: Precure Fairies Season 3 | PetitCure: Precure Fairies Season 3 | https://anilist.co/anime/209541 | Episode 13 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 140 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | https://anilist.co/anime/210687 | Episode 11 |
-| Wei Miao Rensheng | Reborn as a Cat | https://anilist.co/anime/203710 | Episode 33 |
+| Wei Miao Rensheng | Reborn as a Cat | https://anilist.co/anime/203710 | Episode 34 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 145 |
 | Kanojo, Okarishimasu 5th Season | Rent-a-Girlfriend Season 5 | https://anilist.co/anime/199029 | Episode 11 |
 | Rilakkuma: Goyururi Yume no Tabi | Rilakkuma: Goyururi Yume no Tabi | https://anilist.co/anime/183231 | Episode 11 |
