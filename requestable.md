@@ -130,7 +130,6 @@ These shows have had episodes air already, but no thread was created because the
 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season | The Beginning After the End Season 2 | https://anilist.co/anime/194317 | Episode 12 |
 | Kami no Shizuku | The Drops of God | https://anilist.co/anime/202508 | Episode 10 |
 | Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2 | The Most Heretical Last Boss Queen: From Villainess to Savior Season 2 | https://anilist.co/anime/195268 | Episode 11 |
-| Transformers: Wild King W | Transformers: Wild King W | https://anilist.co/anime/212309 | Episode 1 |
 | Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 390 |
 | Xingchen Bian Final | Xingchen Bian Final | https://anilist.co/anime/206356 | Episode 6 |
 | Yowa Yowa Sensei | Yowayowa Sensei | https://anilist.co/anime/185211 | Episode 10 |
@@ -150,4 +149,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Shin Keroro Gunsou Movie: Fukkatsushite Sokkou Chikyuu Metsubou no Kiki de Arimasu!  | Shin Keroro Gunsou Movie: Fukkatsushite Sokkou Chikyuu Metsubou no Kiki de Arimasu!  | https://anilist.co/anime/176636 | June 25 at 15:00 |
 | Soreike! Anpanman: Pantan to Yakusoku no Hoshi | Soreike! Anpanman: Pantan to Yakusoku no Hoshi | https://anilist.co/anime/206682 | June 25 at 15:00 |
 | Yamato yo Towa ni: REBEL3199 | Star Blazers: Space Battleship Yamato 3199 | https://anilist.co/anime/144779 | June 25 at 16:00 |
+| Transformers: Wild King W | Transformers: Wild King W | https://anilist.co/anime/212309 | June 24 at 02:00 |
 {.dense}
