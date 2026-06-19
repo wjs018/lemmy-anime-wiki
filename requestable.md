@@ -150,4 +150,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Soreike! Anpanman: Pantan to Yakusoku no Hoshi | Soreike! Anpanman: Pantan to Yakusoku no Hoshi | https://anilist.co/anime/206682 | June 25 at 15:00 |
 | Yamato yo Towa ni: REBEL3199 | Star Blazers: Space Battleship Yamato 3199 | https://anilist.co/anime/144779 | June 25 at 16:00 |
 | Transformers: Wild King W | Transformers: Wild King W | https://anilist.co/anime/212309 | June 24 at 02:00 |
+| World Is Dancing | World Is Dancing | https://anilist.co/anime/206521 | June 29 at 13:00 |
 {.dense}
