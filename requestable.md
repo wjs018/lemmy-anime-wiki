@@ -15,7 +15,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
 | Akane-banashi | Akane-banashi | https://anilist.co/anime/196935 | [Link](https://ani.social/post/32975757) |
-| Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. | An Observation Log of My Fiancée Who Calls Herself a Villainess | https://anilist.co/anime/192808 | [Link](https://ani.social/post/32929854) |
 | Honzuki no Gekokujou: Ryoushu no Youjo | Ascendance of a Bookworm: Adopted Daughter of an Archduke | https://anilist.co/anime/171110 | [Link](https://ani.social/post/32964382) |
 | Kamiina Botan, Yoeru Sugata wa Yuri no Hana | Botan Kamiina Fully Blossoms When Drunk | https://anilist.co/anime/187869 | [Link](https://ani.social/post/32935159) |
 | Replica Datte, Koi wo Suru. | Even a Replica Can Fall in Love | https://anilist.co/anime/186744 | [Link](https://ani.social/post/33105023) |
@@ -143,6 +142,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
+| Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. | An Observation Log of My Fiancée Who Calls Herself a Villainess | https://anilist.co/anime/192808 | June 19 at 14:00 |
 | Yun Shen Buzhi Meng Special: Zhu Ming Zhi Yi | Eclipse of Illusion SP: The Miasma War | https://anilist.co/anime/213297 | June 24 at 03:00 |
 | Heroine? Seijo? Iie, All Works Maid desu (Ko)! | Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)! | https://anilist.co/anime/192800 | June 24 at 13:30 |
 | Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku | Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku | https://anilist.co/anime/208044 | June 25 at 15:00 |
