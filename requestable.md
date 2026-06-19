@@ -108,7 +108,7 @@ These shows have had episodes air already, but no thread was created because the
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1166 |
 | Odekake Kozame Season 2 | Odekake Kozame Season 2 | https://anilist.co/anime/204269 | Episode 10 |
 | Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 11 |
-| Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season | Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season | https://anilist.co/anime/170019 | Episode 11 |
+| Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season | Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season | https://anilist.co/anime/170019 | Episode 12 |
 | Reincarnation no Kaben | Petals of Reincarnation | https://anilist.co/anime/179950 | Episode 12 |
 | PetitCure: Precure Fairies Season 3 | PetitCure: Precure Fairies Season 3 | https://anilist.co/anime/209541 | Episode 13 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 141 |
