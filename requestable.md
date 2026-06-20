@@ -132,7 +132,7 @@ These shows have had episodes air already, but no thread was created because the
 | Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2 | The Most Heretical Last Boss Queen: From Villainess to Savior Season 2 | https://anilist.co/anime/195268 | Episode 11 |
 | Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 390 |
 | Xingchen Bian Final | Xingchen Bian Final | https://anilist.co/anime/206356 | Episode 6 |
-| Yowa Yowa Sensei | Yowayowa Sensei | https://anilist.co/anime/185211 | Episode 10 |
+| Yowa Yowa Sensei | Yowayowa Sensei | https://anilist.co/anime/185211 | Episode 11 |
 | Yozakura-san Chi no Daisakusen 2nd Season | Yozakura-san Chi no Daisakusen 2nd Season | https://anilist.co/anime/182578 | Episode 10 |
 | mofusand | mofusand | https://anilist.co/anime/204656 | Episode 23 |
 {.dense}
