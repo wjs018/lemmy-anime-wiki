@@ -121,7 +121,7 @@ These shows have had episodes air already, but no thread was created because the
 | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | https://anilist.co/anime/200769 | Episode 12 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2836 |
 | Yuusha no Kuzu | Scum of the Brave | https://anilist.co/anime/187989 | Episode 22 |
-| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1339 |
+| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1340 |
 | Shou 3 Ashibe QQ Goma-chan | Shou 3 Ashibe QQ Goma-chan | https://anilist.co/anime/202386 | Episode 10 |
 | Snowball Earth | Snowball Earth | https://anilist.co/anime/196144 | Episode 12 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 158 |
