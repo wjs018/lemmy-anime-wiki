@@ -218,6 +218,7 @@ Episode|Link
 9|[Link](https://ani.social/post/32288539)
 10|[Link](https://ani.social/post/32617914)
 11|[Link](https://ani.social/post/32929854)
+12|[Link](https://ani.social/post/33274290)
 {.dense}
 
 ## Kamiina Botan, Yoeru Sugata wa Yuri no Hana • Botan Kamiina Fully Blossoms When Drunk
