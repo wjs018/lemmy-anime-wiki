@@ -14,7 +14,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
-| Akane-banashi | Akane-banashi | https://anilist.co/anime/196935 | [Link](https://ani.social/post/32975757) |
+| Akane-banashi | Akane-banashi | https://anilist.co/anime/196935 | [Link](https://ani.social/post/33276729) |
 | Honzuki no Gekokujou: Ryoushu no Youjo | Ascendance of a Bookworm: Adopted Daughter of an Archduke | https://anilist.co/anime/171110 | [Link](https://ani.social/post/33265630) |
 | Kamiina Botan, Yoeru Sugata wa Yuri no Hana | Botan Kamiina Fully Blossoms When Drunk | https://anilist.co/anime/187869 | [Link](https://ani.social/post/33234850) |
 | Replica Datte, Koi wo Suru. | Even a Replica Can Fall in Love | https://anilist.co/anime/186744 | [Link](https://ani.social/post/33105023) |
