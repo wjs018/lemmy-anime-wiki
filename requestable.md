@@ -21,7 +21,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | [Link](https://ani.social/post/33185518) |
 | Kirio Fanclub | Kirio Fanclub | https://anilist.co/anime/181284 | [Link](https://ani.social/post/33195347) |
 | Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de" | Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de" | https://anilist.co/anime/206951 | [Link](https://ani.social/post/33110173) |
-| Kanan-sama wa Akumade Choroi | Mistress Kanan is Devilishly Easy | https://anilist.co/anime/190704 | [Link](https://ani.social/post/32979189) |
+| Kanan-sama wa Akumade Choroi | Mistress Kanan is Devilishly Easy | https://anilist.co/anime/190704 | [Link](https://ani.social/post/33279881) |
 | Nippon Sangoku | NIPPON SANGOKU: The Three Nations of the Crimson Sun | https://anilist.co/anime/206914 | [Link](https://ani.social/post/33012923) |
 | Re:Zero kara Hajimeru Isekai Seikatsu 4th Season | Re:ZERO -Starting Life in Another World- Season 4 | https://anilist.co/anime/189046 | [Link](https://ani.social/post/33141669) |
 | Shunkashuutou Daikousha: Haru no Mai | Shunkashuutou Daikousha: Haru no Mai | https://anilist.co/anime/190143 | [Link](https://ani.social/post/33277627) |
@@ -120,7 +120,7 @@ These shows have had episodes air already, but no thread was created because the
 | Niwatori Fighter | Rooster Fighter | https://anilist.co/anime/179813 | Episode 12 |
 | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | https://anilist.co/anime/200769 | Episode 12 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2836 |
-| Yuusha no Kuzu | Scum of the Brave | https://anilist.co/anime/187989 | Episode 22 |
+| Yuusha no Kuzu | Scum of the Brave | https://anilist.co/anime/187989 | Episode 23 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1340 |
 | Shou 3 Ashibe QQ Goma-chan | Shou 3 Ashibe QQ Goma-chan | https://anilist.co/anime/202386 | Episode 10 |
 | Snowball Earth | Snowball Earth | https://anilist.co/anime/196144 | Episode 12 |
