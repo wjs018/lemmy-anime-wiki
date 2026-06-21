@@ -117,7 +117,7 @@ These shows have had episodes air already, but no thread was created because the
 | Rilakkuma: Goyururi Yume no Tabi | Rilakkuma: Goyururi Yume no Tabi | https://anilist.co/anime/183231 | Episode 12 |
 | Niwatori Fighter | Rooster Fighter | https://anilist.co/anime/179813 | Episode 12 |
 | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | https://anilist.co/anime/200769 | Episode 12 |
-| Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2836 |
+| Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2837 |
 | Yuusha no Kuzu | Scum of the Brave | https://anilist.co/anime/187989 | Episode 23 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1340 |
 | Shou 3 Ashibe QQ Goma-chan | Shou 3 Ashibe QQ Goma-chan | https://anilist.co/anime/202386 | Episode 11 |
