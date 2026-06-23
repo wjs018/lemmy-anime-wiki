@@ -72,7 +72,7 @@ These shows have had episodes air already, but no thread was created because the
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 661 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 371 |
 | Hyakki Yakou Shou | Hyakki Yakou Shou | https://anilist.co/anime/207675 | Episode 12 |
-| Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta | I Made Friends with the Second Prettiest Girl in My Class | https://anilist.co/anime/169580 | Episode 11 |
+| Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta | I Made Friends with the Second Prettiest Girl in My Class | https://anilist.co/anime/169580 | Episode 12 |
 | Aishiteru Game wo Owarasetai | I Want to End this Love Game | https://anilist.co/anime/194393 | Episode 11 |
 | Ichijouma Mankitsu Gurashi! | Ichijyoma Mankitsu Gurashi! | https://anilist.co/anime/195734 | Episode 11 |
 | Ingoku Danchi | Ingoku Danchi | https://anilist.co/anime/206166 | Episode 12 |
