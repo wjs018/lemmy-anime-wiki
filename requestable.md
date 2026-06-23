@@ -154,6 +154,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Otome Kaijuu Caramelise | KAIJU GIRL CARAMELISE | https://anilist.co/anime/204466 | July 02 at 16:28 |
 | Kore Kaite Shine | Kore Kaite Shine | https://anilist.co/anime/188525 | July 03 at 14:30 |
 | Guimi Zhi Zhu Specials | Lord of Mysteries Specials | https://anilist.co/anime/199448 | June 27 at 02:00 |
+| Pan no Akachan (TV) | Pan no Akachan (TV) | https://anilist.co/anime/212308 | July 03 at 23:30 |
 | Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku | Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku | https://anilist.co/anime/208044 | June 25 at 15:00 |
 | Ryoumin 0-Nin Start no Henkyou Ryoushu-sama | Ryoumin 0-Nin Start no Henkyou Ryoushu-sama | https://anilist.co/anime/196218 | July 03 at 13:30 |
 | Shin Keroro Gunsou Movie: Fukkatsushite Sokkou Chikyuu Metsubou no Kiki de Arimasu!  | Shin Keroro Gunsou Movie: Fukkatsushite Sokkou Chikyuu Metsubou no Kiki de Arimasu!  | https://anilist.co/anime/176636 | June 25 at 15:00 |
