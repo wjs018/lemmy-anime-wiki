@@ -170,6 +170,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Uchi no Otouto-domo ga Sumimasen | Sorry About My Little Brothers | https://anilist.co/anime/203490 | July 03 at 15:00 |
 | Yamato yo Towa ni: REBEL3199 | Star Blazers: Space Battleship Yamato 3199 | https://anilist.co/anime/144779 | June 25 at 16:00 |
 | Neko to Ryuu | The Cat and the Dragon | https://anilist.co/anime/186863 | June 27 at 12:00 |
+| "Kimi wo Aisuru Ki wa nai" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu | The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration | https://anilist.co/anime/208225 | July 04 at 16:30 |
 | Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru | The Exiled Heavy Knight Knows How to Game the System | https://anilist.co/anime/180136 | July 02 at 15:26 |
 | Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu | The Oblivous Saint Can't Contain Her Power | https://anilist.co/anime/196219 | June 30 at 13:00 |
 | Oni no Hanayome | The Ogre's Bride | https://anilist.co/anime/194219 | July 04 at 15:30 |
