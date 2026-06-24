@@ -170,6 +170,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Neko to Ryuu | The Cat and the Dragon | https://anilist.co/anime/186863 | June 27 at 12:00 |
 | Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru | The Exiled Heavy Knight Knows How to Game the System | https://anilist.co/anime/180136 | July 02 at 15:26 |
 | Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu | The Oblivous Saint Can't Contain Her Power | https://anilist.co/anime/196219 | June 30 at 13:00 |
+| Oni no Hanayome | The Ogre's Bride | https://anilist.co/anime/194219 | July 04 at 15:30 |
 | LV999 no Murabito | The Villager of Level 999 | https://anilist.co/anime/197715 | July 01 at 15:00 |
 | Ushiro no Shoumen Kamui-san | Ushiro no Shoumen Kamui-san | https://anilist.co/anime/207674 | July 03 at 16:30 |
 | World Is Dancing | World Is Dancing | https://anilist.co/anime/206521 | June 29 at 13:00 |
