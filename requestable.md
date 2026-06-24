@@ -128,6 +128,7 @@ These shows have had episodes air already, but no thread was created because the
 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season | The Beginning After the End Season 2 | https://anilist.co/anime/194317 | Episode 12 |
 | Kami no Shizuku | The Drops of God | https://anilist.co/anime/202508 | Episode 11 |
 | Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2 | The Most Heretical Last Boss Queen: From Villainess to Savior Season 2 | https://anilist.co/anime/195268 | Episode 12 |
+| Transformers: Wild King W | Transformers: Wild King W | https://anilist.co/anime/212309 | Episode 3 |
 | Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 392 |
 | Xingchen Bian Final | Xingchen Bian Final | https://anilist.co/anime/206356 | Episode 6 |
 | Yowa Yowa Sensei | Yowayowa Sensei | https://anilist.co/anime/185211 | Episode 11 |
@@ -165,7 +166,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru | The Exiled Heavy Knight Knows How to Game the System | https://anilist.co/anime/180136 | July 02 at 15:26 |
 | Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu | The Oblivous Saint Can't Contain Her Power | https://anilist.co/anime/196219 | June 30 at 13:00 |
 | LV999 no Murabito | The Villager of Level 999 | https://anilist.co/anime/197715 | July 01 at 15:00 |
-| Transformers: Wild King W | Transformers: Wild King W | https://anilist.co/anime/212309 | June 24 at 02:00 |
 | Ushiro no Shoumen Kamui-san | Ushiro no Shoumen Kamui-san | https://anilist.co/anime/207674 | July 03 at 16:30 |
 | World Is Dancing | World Is Dancing | https://anilist.co/anime/206521 | June 29 at 13:00 |
 | Yani Neko | Yani Neko | https://anilist.co/anime/207141 | July 02 at 15:30 |
