@@ -16,15 +16,21 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | :-------- | :---------------- | :----------- | :--------------------: |
 | Honzuki no Gekokujou: Ryoushu no Youjo | Ascendance of a Bookworm: Adopted Daughter of an Archduke | https://anilist.co/anime/171110 | [Link](https://ani.social/post/33265630) |
 | Kamiina Botan, Yoeru Sugata wa Yuri no Hana | Botan Kamiina Fully Blossoms When Drunk | https://anilist.co/anime/187869 | [Link](https://ani.social/post/33234850) |
+| Yani Neko | Chainsmoker Cat | https://anilist.co/anime/207141 |  |
 | Replica Datte, Koi wo Suru. | Even a Replica Can Fall in Love | https://anilist.co/anime/186744 | [Link](https://ani.social/post/33406315) |
 | Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | [Link](https://ani.social/post/33185518) |
+| Grow Up Show: Himawari no Circus-dan | GROW UP SHOW -Sunflower Circus- | https://anilist.co/anime/196017 |  |
 | Sayonara Lara | Goodbye, Lara | https://anilist.co/anime/177637 |  |
+| Kimi ga Shinu made Koi wo Shitai | I Want to Love You Till Your Dying Day | https://anilist.co/anime/187260 |  |
+| Ibitte Konai Gibo to Gishi | Ibitte Konai Gibo to Gishi | https://anilist.co/anime/196356 |  |
 | Tenmaku no Jaadugar | Jaadugar: A Witch in Mongolia | https://anilist.co/anime/190569 |  |
+| Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season | Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season | https://anilist.co/anime/200637 |  |
 | Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de" | Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de" | https://anilist.co/anime/206951 | [Link](https://ani.social/post/33411764) |
 | Nippon Sangoku | NIPPON SANGOKU: The Three Nations of the Crimson Sun | https://anilist.co/anime/206914 | [Link](https://ani.social/post/33429628) |
 | Re:Zero kara Hajimeru Isekai Seikatsu 4th Season | Re:ZERO -Starting Life in Another World- Season 4 | https://anilist.co/anime/189046 | [Link](https://ani.social/post/33141669) |
 | Shunkashuutou Daikousha: Haru no Mai | Shunkashuutou Daikousha: Haru no Mai | https://anilist.co/anime/190143 | [Link](https://ani.social/post/33277627) |
 | Super no Ura de Yani Suu Futari | Smoking Behind the Supermarket with You | https://anilist.co/anime/196187 | [Link](https://ani.social/post/32538111) |
+| Sora wa Akai Kawa no Hotori | Sora wa Akai Kawa no Hotori | https://anilist.co/anime/207809 |  |
 | Nijusseiki Denki Mokuroku: Eureka・Evrika | Sparks of Tomorrow | https://anilist.co/anime/103303 |  |
 | Koukaku Kidoutai: THE GHOST IN THE SHELL | THE GHOST IN THE SHELL | https://anilist.co/anime/177699 |  |
 | Tadaima, Ojamasaremasu! | Tadaima, Ojamasaremasu! | https://anilist.co/anime/202985 | [Link](https://ani.social/post/33410156) |
@@ -157,7 +163,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Bungou Stray Dogs Wan! 2 | Bungo Stray Dogs WAN! 2 | https://anilist.co/anime/201667 | July 02 at 12:40 |
 | Bai Ri Cheng Wang | Crowned in a Hundred Days | https://anilist.co/anime/213484 | July 03 at 04:00 |
 | Reiwa no Dara-san | Dara-san of Reiwa | https://anilist.co/anime/203880 | July 02 at 12:30 |
-| Grow Up Show: Himawari no Circus-dan | GROW UP SHOW -Sunflower Circus- | https://anilist.co/anime/196017 | July 04 at 15:00 |
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | June 30 at 04:00 |
 | Hanazakari no Kimitachi e 2nd Season | Hana-Kimi Season 2 | https://anilist.co/anime/209669 | July 01 at 15:30 |
 | Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season | Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season | https://anilist.co/anime/209983 | July 03 at 16:00 |
@@ -186,5 +191,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Oni no Hanayome | The Ogre's Bride | https://anilist.co/anime/194219 | July 04 at 15:30 |
 | LV999 no Murabito | The Villager of Level 999 | https://anilist.co/anime/197715 | July 01 at 15:00 |
 | Ushiro no Shoumen Kamui-san | Ushiro no Shoumen Kamui-san | https://anilist.co/anime/207674 | July 03 at 16:30 |
-| Yani Neko | Yani Neko | https://anilist.co/anime/207141 | July 02 at 15:30 |
 {.dense}
