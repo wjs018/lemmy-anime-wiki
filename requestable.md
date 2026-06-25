@@ -69,7 +69,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Oni no Hanayome | The Ogre's Bride | https://anilist.co/anime/194219 |  |
 | Koori no Jouheki | The Ramparts of Ice | https://anilist.co/anime/186497 | [Link](https://ani.social/post/33189371) |
 | LV999 no Murabito | The Villager of Level 999 | https://anilist.co/anime/197715 |  |
-| Hime Kishi wa Barbaroi no Yome | The Warrior Princess and the Barbaric King | https://anilist.co/anime/182483 | [Link](https://ani.social/post/33183773) |
+| Hime Kishi wa Barbaroi no Yome | The Warrior Princess and the Barbaric King | https://anilist.co/anime/182483 | [Link](https://ani.social/post/33486959) |
 | Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha | The World's Strongest Rearguard | https://anilist.co/anime/198409 |  |
 | Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den | Though I Am an Inept Villainess | https://anilist.co/anime/188139 |  |
 | Thunder 3 | Thunder 3 | https://anilist.co/anime/207254 |  |
