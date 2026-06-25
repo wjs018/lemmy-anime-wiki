@@ -68,7 +68,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi | The Klutzy Class Monitor and the Girl with the Short Skirt | https://anilist.co/anime/189987 | [Link](https://ani.social/post/33363981) |
 | Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu | The Oblivous Saint Can't Contain Her Power | https://anilist.co/anime/196219 |  |
 | Oni no Hanayome | The Ogre's Bride | https://anilist.co/anime/194219 |  |
-| Koori no Jouheki | The Ramparts of Ice | https://anilist.co/anime/186497 | [Link](https://ani.social/post/33189371) |
+| Koori no Jouheki | The Ramparts of Ice | https://anilist.co/anime/186497 | [Link](https://ani.social/post/33492925) |
 | LV999 no Murabito | The Villager of Level 999 | https://anilist.co/anime/197715 |  |
 | Hime Kishi wa Barbaroi no Yome | The Warrior Princess and the Barbaric King | https://anilist.co/anime/182483 | [Link](https://ani.social/post/33486959) |
 | Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha | The World's Strongest Rearguard | https://anilist.co/anime/198409 |  |
@@ -177,6 +177,7 @@ These shows have had episodes air already, but no thread was created because the
 | Snowball Earth | Snowball Earth | https://anilist.co/anime/196144 | Episode 12 |
 | Soreike! Anpanman: Pantan to Yakusoku no Hoshi | Soreike! Anpanman: Pantan to Yakusoku no Hoshi | https://anilist.co/anime/206682 | Episode 1 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 158 |
+| Yamato yo Towa ni: REBEL3199 | Star Blazers: Space Battleship Yamato 3199 | https://anilist.co/anime/144779 | Episode 19 |
 | Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 21 |
 | Jian Lai 2 | Sword of Coming 2nd Season | https://anilist.co/anime/205290 | Episode 27 |
 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season | The Beginning After the End Season 2 | https://anilist.co/anime/194317 | Episode 12 |
@@ -209,7 +210,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | ONE PIECE HEROINES | ONE PIECE HEROINES | https://anilist.co/anime/197178 | July 05 at 14:15 |
 | Pan no Akachan (TV) | Pan no Akachan (TV) | https://anilist.co/anime/212308 | July 03 at 23:30 |
 | Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita | Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School | https://anilist.co/anime/201514 | July 04 at 17:38 |
-| Yamato yo Towa ni: REBEL3199 | Star Blazers: Space Battleship Yamato 3199 | https://anilist.co/anime/144779 | June 25 at 16:00 |
 | TOMICA and TOM Season 2 | TOMICA and TOM Season 2 | https://anilist.co/anime/213097 | July 04 at 23:30 |
 | Tetsunabe no Jan! | Tetsunabe no Jan! | https://anilist.co/anime/204060 | July 05 at 08:30 |
 {.dense}
