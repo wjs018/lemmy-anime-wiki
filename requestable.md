@@ -23,7 +23,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou | Clevatess Season 2 | https://anilist.co/anime/198946 |  |
 | Replica Datte, Koi wo Suru. | Even a Replica Can Fall in Love | https://anilist.co/anime/186744 | [Link](https://ani.social/post/33406315) |
 | Katainaka no Ossan, Kensei ni Naru II | From Old Country Bumpkin to Master Swordsman Season 2 | https://anilist.co/anime/194829 |  |
-| Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | [Link](https://ani.social/post/33185518) |
+| Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | [Link](https://ani.social/post/33488214) |
 | Grow Up Show: Himawari no Circus-dan | GROW UP SHOW -Sunflower Circus- | https://anilist.co/anime/196017 |  |
 | Sayonara Lara | Goodbye, Lara | https://anilist.co/anime/177637 |  |
 | Grand Blue Season 3 | Grand Blue Season 3 | https://anilist.co/anime/199111 |  |
@@ -111,7 +111,7 @@ These shows have had episodes air already, but no thread was created because the
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 920 |
 | Dorohedoro Season 2 | Dorohedoro Season 2 | https://anilist.co/anime/173172 | Episode 12 |
 | Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | Episode 47 |
-| Dr. STONE: SCIENCE FUTURE Part 3 | Dr. STONE SCIENCE FUTURE Cour 3 | https://anilist.co/anime/199221 | Episode 12 |
+| Dr. STONE: SCIENCE FUTURE Part 3 | Dr. STONE SCIENCE FUTURE Cour 3 | https://anilist.co/anime/199221 | Episode 13 |
 | Yun Shen Buzhi Meng Special: Zhu Ming Zhi Yi | Eclipse of Illusion SP: The Miasma War | https://anilist.co/anime/213297 | Episode 3 |
 | Hidarikiki no Eren | Eren the Southpaw | https://anilist.co/anime/158036 | Episode 12 |
 | Hokuto no Ken: FIST OF THE NORTH STAR | FIST OF THE NORTH STAR: HOKUTO NO KEN | https://anilist.co/anime/169228 | Episode 13 |
