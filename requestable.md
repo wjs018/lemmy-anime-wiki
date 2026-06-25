@@ -39,6 +39,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kabushiki Gaisha Magi Lumiere 2nd Season | Kabushiki Gaisha Magi Lumiere 2nd Season | https://anilist.co/anime/185692 |  |
 | Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season | Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season | https://anilist.co/anime/200637 |  |
 | Kore Kaite Shine | Kore Kaite Shine | https://anilist.co/anime/188525 |  |
+| Kujima Utaeba Ie Hororo | Kujima: Why Sing, When You Can Warble? | https://anilist.co/anime/177508 | [Link](https://ani.social/post/33489644) |
 | Let's Go Kaikigumi | Let's Go Kaikigumi | https://anilist.co/anime/200230 |  |
 | Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita. | Love Unseen Beneath the Clear Night Sky | https://anilist.co/anime/202269 |  |
 | Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de" | Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de" | https://anilist.co/anime/206951 | [Link](https://ani.social/post/33411764) |
@@ -136,7 +137,6 @@ These shows have had episodes air already, but no thread was created because the
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 38 |
 | Komekami! Girls | Komekami! Girls | https://anilist.co/anime/209940 | Episode 12 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 64 |
-| Kujima Utaeba Ie Hororo | Kujima: Why Sing, When You Can Warble? | https://anilist.co/anime/177508 | Episode 12 |
 | Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 11 |
 | Kami no Niwatsuki Kusunoki-tei  | Kusunoki's Garden of Gods | https://anilist.co/anime/196029 | Episode 12 |
 | LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 12 |
