@@ -161,6 +161,7 @@ These shows have had episodes air already, but no thread was created because the
 | Reincarnation no Kaben | Petals of Reincarnation | https://anilist.co/anime/179950 | Episode 12 |
 | PetitCure: Precure Fairies Season 3 | PetitCure: Precure Fairies Season 3 | https://anilist.co/anime/209541 | Episode 14 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 141 |
+| Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku | Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku | https://anilist.co/anime/208044 | Episode 1 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | https://anilist.co/anime/210687 | Episode 12 |
 | Wei Miao Rensheng | Reborn as a Cat | https://anilist.co/anime/203710 | Episode 35 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 146 |
@@ -171,8 +172,10 @@ These shows have had episodes air already, but no thread was created because the
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2837 |
 | Yuusha no Kuzu | Scum of the Brave | https://anilist.co/anime/187989 | Episode 23 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1340 |
+| Shin Keroro Gunsou Movie: Fukkatsushite Sokkou Chikyuu Metsubou no Kiki de Arimasu!  | Shin Keroro Gunsou Movie: Fukkatsushite Sokkou Chikyuu Metsubou no Kiki de Arimasu!  | https://anilist.co/anime/176636 | Episode 1 |
 | Shou 3 Ashibe QQ Goma-chan | Shou 3 Ashibe QQ Goma-chan | https://anilist.co/anime/202386 | Episode 11 |
 | Snowball Earth | Snowball Earth | https://anilist.co/anime/196144 | Episode 12 |
+| Soreike! Anpanman: Pantan to Yakusoku no Hoshi | Soreike! Anpanman: Pantan to Yakusoku no Hoshi | https://anilist.co/anime/206682 | Episode 1 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 158 |
 | Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 21 |
 | Jian Lai 2 | Sword of Coming 2nd Season | https://anilist.co/anime/205290 | Episode 27 |
@@ -203,10 +206,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | https://anilist.co/anime/185875 | July 04 at 16:00 |
 | ONE PIECE HEROINES | ONE PIECE HEROINES | https://anilist.co/anime/197178 | July 05 at 14:15 |
 | Pan no Akachan (TV) | Pan no Akachan (TV) | https://anilist.co/anime/212308 | July 03 at 23:30 |
-| Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku | Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku | https://anilist.co/anime/208044 | June 25 at 15:00 |
 | Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita | Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School | https://anilist.co/anime/201514 | July 04 at 17:38 |
-| Shin Keroro Gunsou Movie: Fukkatsushite Sokkou Chikyuu Metsubou no Kiki de Arimasu!  | Shin Keroro Gunsou Movie: Fukkatsushite Sokkou Chikyuu Metsubou no Kiki de Arimasu!  | https://anilist.co/anime/176636 | June 25 at 15:00 |
-| Soreike! Anpanman: Pantan to Yakusoku no Hoshi | Soreike! Anpanman: Pantan to Yakusoku no Hoshi | https://anilist.co/anime/206682 | June 25 at 15:00 |
 | Yamato yo Towa ni: REBEL3199 | Star Blazers: Space Battleship Yamato 3199 | https://anilist.co/anime/144779 | June 25 at 16:00 |
 | TOMICA and TOM Season 2 | TOMICA and TOM Season 2 | https://anilist.co/anime/213097 | July 04 at 23:30 |
 | Tetsunabe no Jan! | Tetsunabe no Jan! | https://anilist.co/anime/204060 | July 05 at 08:30 |
