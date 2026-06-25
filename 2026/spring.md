@@ -312,6 +312,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/29991274)
 2|[Link](https://ani.social/post/30315562)
+12|[Link](https://ani.social/post/33489644)
 {.dense}
 
 ## Kuroneko to Majo no Kyoushitsu • The Classroom of the Black Cat and a Witch
