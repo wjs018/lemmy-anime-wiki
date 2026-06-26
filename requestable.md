@@ -115,7 +115,7 @@ These shows have had episodes air already, but no thread was created because the
 | Dr. STONE: SCIENCE FUTURE Part 3 | Dr. STONE SCIENCE FUTURE Cour 3 | https://anilist.co/anime/199221 | Episode 13 |
 | Yun Shen Buzhi Meng Special: Zhu Ming Zhi Yi | Eclipse of Illusion SP: The Miasma War | https://anilist.co/anime/213297 | Episode 3 |
 | Hidarikiki no Eren | Eren the Southpaw | https://anilist.co/anime/158036 | Episode 12 |
-| Hokuto no Ken: FIST OF THE NORTH STAR | FIST OF THE NORTH STAR: HOKUTO NO KEN | https://anilist.co/anime/169228 | Episode 13 |
+| Hokuto no Ken: FIST OF THE NORTH STAR | FIST OF THE NORTH STAR: HOKUTO NO KEN | https://anilist.co/anime/169228 | Episode 14 |
 | Isekai Nonbiri Nouka 2 | Farming Life in Another World 2 | https://anilist.co/anime/197824 | Episode 12 |
 | Fei Ren Zai 3 Part 2 | Fei Ren Zai 3 Part 2 | https://anilist.co/anime/211270 | Episode 9 |
 | Ghost Concert: missing Songs | GHOST CONCERT : missing Songs | https://anilist.co/anime/201090 | Episode 12 |
