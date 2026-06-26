@@ -95,6 +95,7 @@ These shows have had episodes air already, but no thread was created because the
 | BAKI-DOU Part 2 | BAKI-DOU: The Invincible Samurai Part 2 | https://anilist.co/anime/210032 | Episode 1 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 128 |
 | Guangyin Zhi Wai | Beyond Time's Gaze | https://anilist.co/anime/205905 | Episode 26 |
+| Kamiina Botan, Yoeru Sugata wa Yuri no Hana | Botan Kamiina Fully Blossoms When Drunk | https://anilist.co/anime/187869 | Episode 12 |
 | Candy Caries | Candy Caries | https://anilist.co/anime/205772 | Episode 11 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1204 |
 | Ugoku! Neko Mukashi Banashi | Cat Tales | https://anilist.co/anime/188529 | Episode 37 |
@@ -199,7 +200,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Azur Lane: Bisoku Zenshin! Ni!! | Anime AzurLane: Slow Ahead! Season 2 | https://anilist.co/anime/169080 | July 05 at 16:00 |
 | Aware! Meisaku-kun (2026) | Aware! Meisaku-kun (2026) | https://anilist.co/anime/205116 | July 05 at 15:45 |
 | Guangyin Zhi Wai 2 | Beyond Time's Gaze 2 | https://anilist.co/anime/213356 | June 27 at 10:00 |
-| Kamiina Botan, Yoeru Sugata wa Yuri no Hana | Botan Kamiina Fully Blossoms When Drunk | https://anilist.co/anime/187869 | June 26 at 16:00 |
 | Bungou Stray Dogs Wan! 2 | Bungo Stray Dogs WAN! 2 | https://anilist.co/anime/201667 | July 02 at 12:40 |
 | Bai Ri Cheng Wang | Crowned in a Hundred Days | https://anilist.co/anime/213484 | July 03 at 04:00 |
 | Reiwa no Dara-san | Dara-san of Reiwa | https://anilist.co/anime/203880 | July 02 at 12:30 |
