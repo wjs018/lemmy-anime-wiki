@@ -192,6 +192,7 @@ Episode|Link
 6|[Link](https://ani.social/post/31444774)
 7|[Link](https://ani.social/post/31768513)
 8|[Link](https://ani.social/post/32105372)
+12|[Link](https://ani.social/post/33551338)
 {.dense}
 
 ## Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season
