@@ -570,9 +570,9 @@ Episode|Link
 
 ## Shunkashuutou Daikousha: Haru no Mai
 
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/29457731)
+Episode|Link|Episode|Link
+:-:|:-:|:-:|:-:
+1|[Link](https://ani.social/post/29457731)|14|[Link](https://ani.social/post/33580266)
 2|[Link](https://ani.social/post/29772848)
 3|[Link](https://ani.social/post/30088651)
 4|[Link](https://ani.social/post/30408761)
