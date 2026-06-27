@@ -140,6 +140,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 11 |
 | Kami no Niwatsuki Kusunoki-tei  | Kusunoki's Garden of Gods | https://anilist.co/anime/196029 | Episode 12 |
 | LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 12 |
+| Guimi Zhi Zhu Specials | Lord of Mysteries Specials | https://anilist.co/anime/199448 | Episode 2 |
 | MAO | MAO | https://anilist.co/anime/196012 | Episode 12 |
 | MARRIAGETOXIN | MARRIAGETOXIN | https://anilist.co/anime/199547 | Episode 12 |
 | Mahou no Shimai Lulutto Lilly | Mahou no Shimai Lulutto Lilly | https://anilist.co/anime/178749 | Episode 12 |
@@ -206,7 +207,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | June 30 at 04:00 |
 | Hanazakari no Kimitachi e 2nd Season | Hana-Kimi Season 2 | https://anilist.co/anime/209669 | July 01 at 15:30 |
 | Honoo no Toukyuujyo Dodge Danko | Honoo no Toukyuujyo Dodge Danko | https://anilist.co/anime/195833 | July 06 at 14:00 |
-| Guimi Zhi Zhu Specials | Lord of Mysteries Specials | https://anilist.co/anime/199448 | June 27 at 02:00 |
 | Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | https://anilist.co/anime/185875 | July 04 at 16:00 |
 | ONE PIECE HEROINES | ONE PIECE HEROINES | https://anilist.co/anime/197178 | July 05 at 14:15 |
 | Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken | Oh Boy, Was I Wrong About Her | https://anilist.co/anime/169583 | July 06 at 14:30 |
