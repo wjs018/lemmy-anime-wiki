@@ -58,7 +58,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | THE RIBBON HERO | THE RIBBON HERO | https://anilist.co/anime/211308 |  |
 | Tadaima, Ojamasaremasu! | Tadaima, Ojamasaremasu! | https://anilist.co/anime/202985 | [Link](https://ani.social/post/33410156) |
 | Tensei Shitara Slime Datta Ken 4th Season | That Time I Got Reincarnated as a Slime Season 4 | https://anilist.co/anime/182205 | [Link](https://ani.social/post/33534746) |
-| Neko to Ryuu | The Cat and the Dragon | https://anilist.co/anime/186863 |  |
+| Neko to Ryuu | The Cat and the Dragon | https://anilist.co/anime/186863 | [Link](https://ani.social/post/33571726) |
 | Kuroneko to Majo no Kyoushitsu | The Classroom of the Black Cat and a Witch | https://anilist.co/anime/196974 | [Link](https://ani.social/post/33319731) |
 | "Kimi wo Aisuru Ki wa nai" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu | The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration | https://anilist.co/anime/208225 |  |
 | Nige Jouzu no Wakagimi 2nd Season | The Elusive Samurai Season 2 | https://anilist.co/anime/182616 |  |
