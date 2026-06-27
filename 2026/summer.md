@@ -17,6 +17,13 @@ Episode|Link
 1|[Link](https://ani.social/post/33470785)
 {.dense}
 
+## Neko to Ryuu • The Cat and the Dragon
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/33571726)
+{.dense}
+
 ## Super no Ura de Yani Suu Futari • Smoking Behind the Supermarket with You
 
 Episode|Link
