@@ -70,7 +70,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Ushiro no Shoumen Kamui-san | Ushiro no Shoumen Kamui-san | https://anilist.co/anime/207674 |  |
 | Tefuda ga Oume no Victoria | Victoria of Many Faces | https://anilist.co/anime/198709 |  |
 | Mairimashita! Iruma-kun 4 | Welcome to Demon School! Iruma-kun Season 4 | https://anilist.co/anime/184492 | [Link](https://ani.social/post/33569329) |
-| Tsue to Tsurugi no Wistoria Season 2 | Wistoria: Wand and Sword Season 2 | https://anilist.co/anime/182300 | [Link](https://ani.social/post/33308789) |
+| Tsue to Tsurugi no Wistoria Season 2 | Wistoria: Wand and Sword Season 2 | https://anilist.co/anime/182300 | [Link](https://ani.social/post/33607830) |
 | World Is Dancing | World Is Dancing | https://anilist.co/anime/206521 |  |
 | Seihantai na Kimi to Boku 2nd Season | You and I Are Polar Opposites Season 2 | https://anilist.co/anime/210031 |  |
 | Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai | Young Ladies Don't Play Fighting Games | https://anilist.co/anime/128757 |  |
