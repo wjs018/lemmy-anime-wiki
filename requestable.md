@@ -137,7 +137,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kirio Fanclub | Kirio Fanclub | https://anilist.co/anime/181284 | Episode 11 |
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 38 |
 | Komekami! Girls | Komekami! Girls | https://anilist.co/anime/209940 | Episode 12 |
-| Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 64 |
+| Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 65 |
 | Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 12 |
 | Kami no Niwatsuki Kusunoki-tei  | Kusunoki's Garden of Gods | https://anilist.co/anime/196029 | Episode 12 |
 | LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 12 |
