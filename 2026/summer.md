@@ -36,3 +36,10 @@ Episode|Link
 6|[Link](https://ani.social/post/32538111)
 {.dense}
 
+## World Is Dancing
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/33655626)
+{.dense}
+
