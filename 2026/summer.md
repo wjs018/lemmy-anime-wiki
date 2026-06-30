@@ -17,6 +17,13 @@ Episode|Link
 1|[Link](https://ani.social/post/33470785)
 {.dense}
 
+## Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu • The Oblivous Saint Can't Contain Her Power
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/33698011)
+{.dense}
+
 ## Neko to Ryuu • The Cat and the Dragon
 
 Episode|Link
