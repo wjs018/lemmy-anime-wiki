@@ -106,6 +106,7 @@ These shows have had episodes air already, but no thread was created because the
 | Dr. STONE: SCIENCE FUTURE Part 3 | Dr. STONE SCIENCE FUTURE Cour 3 | https://anilist.co/anime/199221 | Episode 13 |
 | Yun Shen Buzhi Meng Special: Zhu Ming Zhi Yi | Eclipse of Illusion SP: The Miasma War | https://anilist.co/anime/213297 | Episode 3 |
 | Hidarikiki no Eren | Eren the Southpaw | https://anilist.co/anime/158036 | Episode 12 |
+| Replica Datte, Koi wo Suru. | Even a Replica Can Fall in Love | https://anilist.co/anime/186744 | Episode 13 |
 | Hokuto no Ken: FIST OF THE NORTH STAR | FIST OF THE NORTH STAR: HOKUTO NO KEN | https://anilist.co/anime/169228 | Episode 14 |
 | Isekai Nonbiri Nouka 2 | Farming Life in Another World 2 | https://anilist.co/anime/197824 | Episode 11 |
 | Fei Ren Zai 3 Part 2 | Fei Ren Zai 3 Part 2 | https://anilist.co/anime/211270 | Episode 10 |
@@ -196,7 +197,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Bungou Stray Dogs Wan! 2 | Bungo Stray Dogs WAN! 2 | https://anilist.co/anime/201667 | July 02 at 12:40 |
 | Bai Ri Cheng Wang | Crowned in a Hundred Days | https://anilist.co/anime/213484 | July 03 at 04:00 |
 | Reiwa no Dara-san | Dara-san of Reiwa | https://anilist.co/anime/203880 | July 02 at 12:30 |
-| Replica Datte, Koi wo Suru. | Even a Replica Can Fall in Love | https://anilist.co/anime/186744 | June 30 at 15:30 |
 | Hanazakari no Kimitachi e 2nd Season | Hana-Kimi Season 2 | https://anilist.co/anime/209669 | July 01 at 15:30 |
 | Honoo no Toukyuujyo Dodge Danko | Honoo no Toukyuujyo Dodge Danko | https://anilist.co/anime/195833 | July 06 at 14:00 |
 | Jiaonang Jihua: Qiji | Jiaonang Jihua: Qiji | https://anilist.co/anime/213703 | July 08 at 03:00 |
