@@ -15,6 +15,7 @@ Below, you can find an index of all the discussion threads for shows from the Su
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/33470785)
+2|[Link](https://ani.social/post/33746445)
 {.dense}
 
 ## Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu • The Oblivous Saint Can't Contain Her Power
