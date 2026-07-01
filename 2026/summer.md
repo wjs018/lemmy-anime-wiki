@@ -18,6 +18,13 @@ Episode|Link
 2|[Link](https://ani.social/post/33746445)
 {.dense}
 
+## LV999 no Murabito • The Villager of Level 999
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/33747509)
+{.dense}
+
 ## Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu • The Oblivous Saint Can't Contain Her Power
 
 Episode|Link
