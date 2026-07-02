@@ -48,6 +48,13 @@ Episode|Link
 1|[Link](https://ani.social/post/33571726)
 {.dense}
 
+## Otome Kaijuu Caramelise • KAIJU GIRL CARAMELISE
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/33796475)
+{.dense}
+
 ## Super no Ura de Yani Suu Futari • Smoking Behind the Supermarket with You
 
 Episode|Link
