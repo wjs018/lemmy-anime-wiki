@@ -165,9 +165,9 @@ Episode|Link|Episode|Link
 
 ## Ganso! Bandori-chan • GANSO! BanG Dream Chan
 
-Episode|Link|Episode|Link
-:-:|:-:|:-:|:-:
-13|[Link](https://ani.social/post/25250355)|26|[Link](https://ani.social/post/29680498)
+Episode|Link|Episode|Link|Episode|Link
+:-:|:-:|:-:|:-:|:-:|:-:
+13|[Link](https://ani.social/post/25250355)|26|[Link](https://ani.social/post/29680498)|39|[Link](https://ani.social/post/33788713)
 14|[Link](https://ani.social/post/25842804)|27|[Link](https://ani.social/post/29989530)
 15|[Link](https://ani.social/post/26058342)|28|[Link](https://ani.social/post/30313160)
 16|[Link](https://ani.social/post/26407918)|29|[Link](https://ani.social/post/30633738)
