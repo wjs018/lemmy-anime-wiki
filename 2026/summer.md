@@ -60,6 +60,13 @@ Episode|Link
 6|[Link](https://ani.social/post/32538111)
 {.dense}
 
+## Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru • The Exiled Heavy Knight Knows How to Game the System
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/33795897)
+{.dense}
+
 ## World Is Dancing
 
 Episode|Link
