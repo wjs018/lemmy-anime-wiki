@@ -67,3 +67,10 @@ Episode|Link
 1|[Link](https://ani.social/post/33655626)
 {.dense}
 
+## Yani Neko • Chainsmoker Cat
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/33793250)
+{.dense}
+
