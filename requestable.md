@@ -83,7 +83,7 @@ These shows have had episodes air already, but no thread was created because the
 | Awajima Hyakkei | A Hundred Scenes of AWAJIMA | https://anilist.co/anime/177501 | Episode 12 |
 | Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. | An Observation Log of My Fiancée Who Calls Herself a Villainess | https://anilist.co/anime/192808 | Episode 12 |
 | BAKI-DOU Part 2 | BAKI-DOU: The Invincible Samurai Part 2 | https://anilist.co/anime/210032 | Episode 1 |
-| BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 128 |
+| BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 129 |
 | Guangyin Zhi Wai | Beyond Time's Gaze | https://anilist.co/anime/205905 | Episode 26 |
 | Guangyin Zhi Wai 2 | Beyond Time's Gaze 2 | https://anilist.co/anime/213356 | Episode 2 |
 | Kamiina Botan, Yoeru Sugata wa Yuri no Hana | Botan Kamiina Fully Blossoms When Drunk | https://anilist.co/anime/187869 | Episode 12 |
@@ -158,7 +158,7 @@ These shows have had episodes air already, but no thread was created because the
 | Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season | Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season | https://anilist.co/anime/170019 | Episode 12 |
 | Reincarnation no Kaben | Petals of Reincarnation | https://anilist.co/anime/179950 | Episode 13 |
 | PetitCure: Precure Fairies Season 3 | PetitCure: Precure Fairies Season 3 | https://anilist.co/anime/209541 | Episode 15 |
-| Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 141 |
+| Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 142 |
 | Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku | Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku | https://anilist.co/anime/208044 | Episode 2 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | https://anilist.co/anime/210687 | Episode 12 |
 | Wei Miao Rensheng | Reborn as a Cat | https://anilist.co/anime/203710 | Episode 36 |
