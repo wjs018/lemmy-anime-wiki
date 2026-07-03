@@ -19,6 +19,13 @@ Episode|Link
 3|[Link](https://ani.social/post/33791724)
 {.dense}
 
+## Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/33837718)
+{.dense}
+
 ## Heroine? Seijo? Iie, All Works Maid desu (Ko)! • Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!
 
 Episode|Link
