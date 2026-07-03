@@ -150,11 +150,12 @@ These shows have had episodes air already, but no thread was created because the
 | NEEDY GIRL OVERDOSE | NEEDY GIRL OVERDOSE | https://anilist.co/anime/202102 | Episode 13 |
 | Nezumi-kun no Chokki (TV) | Nezumi-kun no Chokki (TV) | https://anilist.co/anime/198411 | Episode 13 |
 | Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken | https://anilist.co/anime/201817 | Episode 12 |
-| Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 222 |
+| Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 223 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1168 |
 | Odekake Kozame Season 2 | Odekake Kozame Season 2 | https://anilist.co/anime/204269 | Episode 12 |
 | Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 13 |
 | Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season | Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season | https://anilist.co/anime/170019 | Episode 12 |
+| Pan no Akachan (TV) | Pan no Akachan (TV) | https://anilist.co/anime/212308 | Episode 1 |
 | Reincarnation no Kaben | Petals of Reincarnation | https://anilist.co/anime/179950 | Episode 13 |
 | PetitCure: Precure Fairies Season 3 | PetitCure: Precure Fairies Season 3 | https://anilist.co/anime/209541 | Episode 15 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 142 |
@@ -204,7 +205,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Mebius Dust | Mebius Dust | https://anilist.co/anime/108992 | July 09 at 14:30 |
 | ONE PIECE HEROINES | ONE PIECE HEROINES | https://anilist.co/anime/197178 | July 05 at 14:15 |
 | Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken | Oh Boy, Was I Wrong About Her | https://anilist.co/anime/169583 | July 06 at 14:30 |
-| Pan no Akachan (TV) | Pan no Akachan (TV) | https://anilist.co/anime/212308 | July 03 at 23:30 |
 | Plannosaurus Gachi Koseibutsu-bu | Plannosaurus Gachi Koseibutsu-bu | https://anilist.co/anime/208824 | July 11 at 23:00 |
 | Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita | Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School | https://anilist.co/anime/201514 | July 04 at 17:38 |
 | Shibou Yuugi de Meshi wo Kuu. 44:CLOUDY BEACH | Shibou Yuugi de Meshi wo Kuu. 44:CLOUDY BEACH | https://anilist.co/anime/209961 | July 09 at 16:00 |
