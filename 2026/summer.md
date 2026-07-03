@@ -109,6 +109,13 @@ Episode|Link
 1|[Link](https://ani.social/post/33834739)
 {.dense}
 
+## Ushiro no Shoumen Kamui-san
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/33839088)
+{.dense}
+
 ## World Is Dancing
 
 Episode|Link
