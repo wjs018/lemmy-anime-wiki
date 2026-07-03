@@ -34,6 +34,13 @@ Episode|Link
 1|[Link](https://ani.social/post/33830525)
 {.dense}
 
+## Kore Kaite Shine
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/33833253)
+{.dense}
+
 ## LV999 no Murabito • The Villager of Level 999
 
 Episode|Link
