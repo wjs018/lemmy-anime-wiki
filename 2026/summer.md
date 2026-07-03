@@ -95,6 +95,13 @@ Episode|Link
 1|[Link](https://ani.social/post/33795897)
 {.dense}
 
+## Uchi no Otouto-domo ga Sumimasen • Sorry About My Little Brothers
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/33834739)
+{.dense}
+
 ## World Is Dancing
 
 Episode|Link
