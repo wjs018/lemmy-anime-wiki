@@ -27,6 +27,13 @@ Episode|Link
 2|[Link](https://ani.social/post/33746445)
 {.dense}
 
+## Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita. • I Became a Legend After My 10 Year-Long Last Stand
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/33830525)
+{.dense}
+
 ## LV999 no Murabito • The Villager of Level 999
 
 Episode|Link
@@ -53,6 +60,13 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/33796475)
+{.dense}
+
+## Ryoumin 0-Nin Start no Henkyou Ryoushu-sama
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/33830526)
 {.dense}
 
 ## Super no Ura de Yani Suu Futari • Smoking Behind the Supermarket with You
