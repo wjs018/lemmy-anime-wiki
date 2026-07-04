@@ -62,6 +62,13 @@ Episode|Link
 1|[Link](https://ani.social/post/33871848)
 {.dense}
 
+## Kabushiki Gaisha Magi Lumiere 2nd Season
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/33878112)
+{.dense}
+
 ## Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita. • I Became a Legend After My 10 Year-Long Last Stand
 
 Episode|Link
