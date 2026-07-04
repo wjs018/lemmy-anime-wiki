@@ -181,6 +181,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kami no Shizuku | The Drops of God | https://anilist.co/anime/202508 | Episode 13 |
 | Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2 | The Most Heretical Last Boss Queen: From Villainess to Savior Season 2 | https://anilist.co/anime/195268 | Episode 12 |
 | Transformers: Wild King W | Transformers: Wild King W | https://anilist.co/anime/212309 | Episode 3 |
+| Mairimashita! Iruma-kun 4 | Welcome to Demon School! Iruma-kun Season 4 | https://anilist.co/anime/184492 | Episode 14 |
 | Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 394 |
 | Yowa Yowa Sensei | Yowayowa Sensei | https://anilist.co/anime/185211 | Episode 12 |
 | Yozakura-san Chi no Daisakusen 2nd Season | Yozakura-san Chi no Daisakusen 2nd Season | https://anilist.co/anime/182578 | Episode 12 |
@@ -210,6 +211,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | TOMICA and TOM Season 2 | TOMICA and TOM Season 2 | https://anilist.co/anime/213097 | July 04 at 23:30 |
 | Tetsunabe no Jan! | Tetsunabe no Jan! | https://anilist.co/anime/204060 | July 05 at 08:30 |
 | Unanswered//butterfly: Sword Art Online | Unanswered//butterfly: Sword Art Online | https://anilist.co/anime/208754 | July 09 at 16:00 |
-| Mairimashita! Iruma-kun 4 | Welcome to Demon School! Iruma-kun Season 4 | https://anilist.co/anime/184492 | July 04 at 10:26 |
 | Yoroi Shinden Samurai Troopers Part 2 | Yoroi-Shinden Samurai Troopers Cour 2 | https://anilist.co/anime/209800 | July 07 at 14:30 |
 {.dense}
