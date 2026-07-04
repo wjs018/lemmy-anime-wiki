@@ -106,6 +106,13 @@ Episode|Link
 2|[Link](https://ani.social/post/33871479)
 {.dense}
 
+## Oni no Hanayome • The Ogre's Bride
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/33876467)
+{.dense}
+
 ## Otome Kaijuu Caramelise • KAIJU GIRL CARAMELISE
 
 Episode|Link
