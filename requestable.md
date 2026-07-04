@@ -67,7 +67,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Otomege Sekai wa Mob ni Kibishii Sekai desu 2 | Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2 | https://anilist.co/anime/159309 |  |
 | Ushiro no Shoumen Kamui-san | Ushiro no Shoumen Kamui-san | https://anilist.co/anime/207674 | [Link](https://ani.social/post/33839088) |
 | Tefuda ga Oume no Victoria | Victoria of Many Faces | https://anilist.co/anime/198709 |  |
-| Mairimashita! Iruma-kun 4 | Welcome to Demon School! Iruma-kun Season 4 | https://anilist.co/anime/184492 | [Link](https://ani.social/post/33569329) |
 | Tsue to Tsurugi no Wistoria Season 2 | Wistoria: Wand and Sword Season 2 | https://anilist.co/anime/182300 | [Link](https://ani.social/post/33607830) |
 | World Is Dancing | World Is Dancing | https://anilist.co/anime/206521 | [Link](https://ani.social/post/33655626) |
 | Seihantai na Kimi to Boku 2nd Season | You and I Are Polar Opposites Season 2 | https://anilist.co/anime/210031 |  |
@@ -211,5 +210,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | TOMICA and TOM Season 2 | TOMICA and TOM Season 2 | https://anilist.co/anime/213097 | July 04 at 23:30 |
 | Tetsunabe no Jan! | Tetsunabe no Jan! | https://anilist.co/anime/204060 | July 05 at 08:30 |
 | Unanswered//butterfly: Sword Art Online | Unanswered//butterfly: Sword Art Online | https://anilist.co/anime/208754 | July 09 at 16:00 |
+| Mairimashita! Iruma-kun 4 | Welcome to Demon School! Iruma-kun Season 4 | https://anilist.co/anime/184492 | July 04 at 10:26 |
 | Yoroi Shinden Samurai Troopers Part 2 | Yoroi-Shinden Samurai Troopers Cour 2 | https://anilist.co/anime/209800 | July 07 at 14:30 |
 {.dense}
