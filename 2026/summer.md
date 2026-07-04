@@ -10,6 +10,13 @@ dateCreated: 2025-12-29T05:55:42.532Z
 
 Below, you can find an index of all the discussion threads for shows from the Summer 2026 anime season. Not every episode of every show may have a discussion thread. To more easily find the show you are looking for, use the navigation menu for this page or use Ctrl+F.
 
+## "Kimi wo Aisuru Ki wa nai" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu • The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/33878830)
+{.dense}
+
 ## BLACK TORCH
 
 Episode|Link
