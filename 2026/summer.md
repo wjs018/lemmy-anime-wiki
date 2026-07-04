@@ -48,6 +48,13 @@ Episode|Link
 2|[Link](https://ani.social/post/33746445)
 {.dense}
 
+## Iwamoto-senpai no Suisen
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/33871848)
+{.dense}
+
 ## Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita. • I Became a Legend After My 10 Year-Long Last Stand
 
 Episode|Link
