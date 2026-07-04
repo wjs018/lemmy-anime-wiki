@@ -52,7 +52,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | THE RIBBON HERO | THE RIBBON HERO | https://anilist.co/anime/211308 |  |
 | Tensei Shitara Slime Datta Ken 4th Season | That Time I Got Reincarnated as a Slime Season 4 | https://anilist.co/anime/182205 | [Link](https://ani.social/post/33834681) |
 | Neko to Ryuu | The Cat and the Dragon | https://anilist.co/anime/186863 | [Link](https://ani.social/post/33871479) |
-| "Kimi wo Aisuru Ki wa nai" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu | The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration | https://anilist.co/anime/208225 |  |
+| "Kimi wo Aisuru Ki wa nai" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu | The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration | https://anilist.co/anime/208225 | [Link](https://ani.social/post/33878830) |
 | Nige Jouzu no Wakagimi 2nd Season | The Elusive Samurai Season 2 | https://anilist.co/anime/182616 |  |
 | Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru | The Exiled Heavy Knight Knows How to Game the System | https://anilist.co/anime/180136 | [Link](https://ani.social/post/33795897) |
 | Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita | The Forsaken Saintess and Her Foodie Roadtrip in Another World | https://anilist.co/anime/209504 |  |
