@@ -62,6 +62,13 @@ Episode|Link
 1|[Link](https://ani.social/post/33698011)
 {.dense}
 
+## Mushoku Tensei III: Isekai Ittara Honki Dasu • Mushoku Tensei: Jobless Reincarnation Season 3
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/33867627)
+{.dense}
+
 ## Neko to Ryuu • The Cat and the Dragon
 
 Episode|Link
