@@ -97,6 +97,13 @@ Episode|Link
 1|[Link](https://ani.social/post/33747509)
 {.dense}
 
+## Let's Go Kaikigumi
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/33886478)
+{.dense}
+
 ## Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu • The Oblivous Saint Can't Contain Her Power
 
 Episode|Link
