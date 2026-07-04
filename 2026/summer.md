@@ -33,6 +33,13 @@ Episode|Link
 1|[Link](https://ani.social/post/33868309)
 {.dense}
 
+## Grow Up Show: Himawari no Circus-dan • GROW UP SHOW -Sunflower Circus-
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/33875146)
+{.dense}
+
 ## Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season
 
 Episode|Link
