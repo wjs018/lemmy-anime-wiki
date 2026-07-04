@@ -19,6 +19,13 @@ Episode|Link
 3|[Link](https://ani.social/post/33791724)
 {.dense}
 
+## Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II • Skeleton Knight in Another World Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/33868309)
+{.dense}
+
 ## Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season
 
 Episode|Link
@@ -67,6 +74,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/33867627)
+2|[Link](https://ani.social/post/33868310)
 {.dense}
 
 ## Neko to Ryuu • The Cat and the Dragon
