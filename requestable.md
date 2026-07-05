@@ -103,7 +103,7 @@ These shows have had episodes air already, but no thread was created because the
 | Diamond no Ace act II: Second Season | Diamond no Ace act II: Second Season | https://anilist.co/anime/177634 | Episode 13 |
 | Ookii Onnanoko wa Suki desu ka? | Do You Like Big Girls? | https://anilist.co/anime/204319 | Episode 12 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 922 |
-| Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | Episode 48 |
+| Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | Episode 49 |
 | Dr. STONE: SCIENCE FUTURE Part 3 | Dr. STONE SCIENCE FUTURE Cour 3 | https://anilist.co/anime/199221 | Episode 13 |
 | Yun Shen Buzhi Meng Special: Zhu Ming Zhi Yi | Eclipse of Illusion SP: The Miasma War | https://anilist.co/anime/213297 | Episode 4 |
 | Hidarikiki no Eren | Eren the Southpaw | https://anilist.co/anime/158036 | Episode 13 |
@@ -184,7 +184,7 @@ These shows have had episodes air already, but no thread was created because the
 | Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2 | The Most Heretical Last Boss Queen: From Villainess to Savior Season 2 | https://anilist.co/anime/195268 | Episode 12 |
 | Transformers: Wild King W | Transformers: Wild King W | https://anilist.co/anime/212309 | Episode 3 |
 | Mairimashita! Iruma-kun 4 | Welcome to Demon School! Iruma-kun Season 4 | https://anilist.co/anime/184492 | Episode 14 |
-| Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 394 |
+| Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 395 |
 | Yowa Yowa Sensei | Yowayowa Sensei | https://anilist.co/anime/185211 | Episode 12 |
 | Yozakura-san Chi no Daisakusen 2nd Season | Yozakura-san Chi no Daisakusen 2nd Season | https://anilist.co/anime/182578 | Episode 12 |
 | mofusand | mofusand | https://anilist.co/anime/204656 | Episode 26 |
