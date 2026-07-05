@@ -60,7 +60,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu | The Oblivous Saint Can't Contain Her Power | https://anilist.co/anime/196219 | [Link](https://ani.social/post/33698011) |
 | Oni no Hanayome | The Ogre's Bride | https://anilist.co/anime/194219 | [Link](https://ani.social/post/33876467) |
 | LV999 no Murabito | The Villager of Level 999 | https://anilist.co/anime/197715 | [Link](https://ani.social/post/33747509) |
-| Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha | The World's Strongest Rearguard | https://anilist.co/anime/198409 |  |
+| Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha | The World's Strongest Rearguard | https://anilist.co/anime/198409 | [Link](https://ani.social/post/33911727) |
 | Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den | Though I Am an Inept Villainess | https://anilist.co/anime/188139 |  |
 | Thunder 3 | Thunder 3 | https://anilist.co/anime/207254 |  |
 | Otomege Sekai wa Mob ni Kibishii Sekai desu 2 | Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2 | https://anilist.co/anime/159309 |  |
