@@ -148,6 +148,13 @@ Episode|Link
 1|[Link](https://ani.social/post/33830526)
 {.dense}
 
+## Seihantai na Kimi to Boku 2nd Season • You and I Are Polar Opposites Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/33904379)
+{.dense}
+
 ## Super no Ura de Yani Suu Futari • Smoking Behind the Supermarket with You
 
 Episode|Link
