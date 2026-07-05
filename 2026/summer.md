@@ -155,6 +155,13 @@ Episode|Link
 1|[Link](https://ani.social/post/33904379)
 {.dense}
 
+## Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha • The World's Strongest Rearguard
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/33911727)
+{.dense}
+
 ## Super no Ura de Yani Suu Futari • Smoking Behind the Supermarket with You
 
 Episode|Link
