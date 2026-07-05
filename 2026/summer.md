@@ -162,6 +162,13 @@ Episode|Link
 1|[Link](https://ani.social/post/33830526)
 {.dense}
 
+## Sayonara Lara • Goodbye, Lara
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/33917129)
+{.dense}
+
 ## Seihantai na Kimi to Boku 2nd Season • You and I Are Polar Opposites Season 2
 
 Episode|Link
