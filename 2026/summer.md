@@ -76,6 +76,13 @@ Episode|Link
 1|[Link](https://ani.social/post/33878112)
 {.dense}
 
+## Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/33912578)
+{.dense}
+
 ## Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita. • I Became a Legend After My 10 Year-Long Last Stand
 
 Episode|Link
