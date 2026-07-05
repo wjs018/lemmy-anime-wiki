@@ -134,6 +134,13 @@ Episode|Link
 2|[Link](https://ani.social/post/33871479)
 {.dense}
 
+## Nijusseiki Denki Mokuroku: Eureka・Evrika • Sparks of Tomorrow
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/33913872)
+{.dense}
+
 ## Oni no Hanayome • The Ogre's Bride
 
 Episode|Link
