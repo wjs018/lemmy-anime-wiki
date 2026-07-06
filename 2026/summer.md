@@ -33,6 +33,13 @@ Episode|Link
 3|[Link](https://ani.social/post/33791724)
 {.dense}
 
+## Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/33955518)
+{.dense}
+
 ## Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II • Skeleton Knight in Another World Season 2
 
 Episode|Link
