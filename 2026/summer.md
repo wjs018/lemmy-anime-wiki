@@ -209,6 +209,13 @@ Episode|Link
 6|[Link](https://ani.social/post/32538111)
 {.dense}
 
+## Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita • The Forsaken Saintess and Her Foodie Roadtrip in Another World
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/33956754)
+{.dense}
+
 ## Tenmaku no Jaadugar • Jaadugar: A Witch in Mongolia
 
 Episode|Link
@@ -250,6 +257,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/33655626)
+2|[Link](https://ani.social/post/33956753)
 {.dense}
 
 ## Yani Neko • Chainsmoker Cat
