@@ -154,6 +154,7 @@ These shows have had episodes air already, but no thread was created because the
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1168 |
 | ONE PIECE HEROINES | ONE PIECE HEROINES | https://anilist.co/anime/197178 | Episode 1 |
 | Odekake Kozame Season 2 | Odekake Kozame Season 2 | https://anilist.co/anime/204269 | Episode 13 |
+| Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken | Oh Boy, Was I Wrong About Her | https://anilist.co/anime/169583 | Episode 1 |
 | Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 14 |
 | Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season | Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season | https://anilist.co/anime/170019 | Episode 12 |
 | Pan no Akachan (TV) | Pan no Akachan (TV) | https://anilist.co/anime/212308 | Episode 1 |
@@ -203,7 +204,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Jiaonang Jihua: Qiji | Jiaonang Jihua: Qiji | https://anilist.co/anime/213703 | July 08 at 03:00 |
 | Majo no Tani no Yoru | Majo no Tani no Yoru | https://anilist.co/anime/211232 | July 08 at 01:00 |
 | Mebius Dust | Mebius Dust | https://anilist.co/anime/108992 | July 09 at 14:30 |
-| Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken | Oh Boy, Was I Wrong About Her | https://anilist.co/anime/169583 | July 06 at 14:30 |
 | Plannosaurus Gachi Koseibutsu-bu | Plannosaurus Gachi Koseibutsu-bu | https://anilist.co/anime/208824 | July 11 at 23:00 |
 | Shibou Yuugi de Meshi wo Kuu. 44:CLOUDY BEACH | Shibou Yuugi de Meshi wo Kuu. 44:CLOUDY BEACH | https://anilist.co/anime/209961 | July 09 at 16:00 |
 | Snack HAZAMA | Snack HAZAMA | https://anilist.co/anime/213831 | July 10 at 17:42 |
