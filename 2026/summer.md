@@ -162,6 +162,13 @@ Episode|Link
 1|[Link](https://ani.social/post/33830526)
 {.dense}
 
+## Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru • The Insipid Prince's Furtive Grab for the Throne
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/33952081)
+{.dense}
+
 ## Sayonara Lara • Goodbye, Lara
 
 Episode|Link
@@ -201,6 +208,13 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/33873066)
 2|[Link](https://ani.social/post/33874237)
+{.dense}
+
+## Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita. • Love Unseen Beneath the Clear Night Sky
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/33952132)
 {.dense}
 
 ## Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru • The Exiled Heavy Knight Knows How to Game the System
