@@ -47,6 +47,13 @@ Episode|Link
 1|[Link](https://ani.social/post/33868309)
 {.dense}
 
+## Grand Blue Season 3
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/33958907)
+{.dense}
+
 ## Grow Up Show: Himawari no Circus-dan • GROW UP SHOW -Sunflower Circus-
 
 Episode|Link
