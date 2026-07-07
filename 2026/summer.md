@@ -223,6 +223,13 @@ Episode|Link
 1|[Link](https://ani.social/post/33956754)
 {.dense}
 
+## Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai • Young Ladies Don't Play Fighting Games
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/33993868)
+{.dense}
+
 ## Tenmaku no Jaadugar • Jaadugar: A Witch in Mongolia
 
 Episode|Link
