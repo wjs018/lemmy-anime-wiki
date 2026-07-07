@@ -245,6 +245,13 @@ Episode|Link
 1|[Link](https://ani.social/post/33993868)
 {.dense}
 
+## Tefuda ga Oume no Victoria • Victoria of Many Faces
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/34002729)
+{.dense}
+
 ## Tenmaku no Jaadugar • Jaadugar: A Witch in Mongolia
 
 Episode|Link
