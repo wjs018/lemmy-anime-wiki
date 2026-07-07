@@ -90,6 +90,13 @@ Episode|Link
 1|[Link](https://ani.social/post/33877608)
 {.dense}
 
+## Kimi ga Shinu made Koi wo Shitai • I Want to Love You Till Your Dying Day
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/33995946)
+{.dense}
+
 ## Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season
 
 Episode|Link
