@@ -118,6 +118,13 @@ Episode|Link
 1|[Link](https://ani.social/post/33833253)
 {.dense}
 
+## Koukaku Kidoutai: THE GHOST IN THE SHELL • THE GHOST IN THE SHELL
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/33999615)
+{.dense}
+
 ## LV999 no Murabito • The Villager of Level 999
 
 Episode|Link
@@ -137,6 +144,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/33698011)
+2|[Link](https://ani.social/post/33999614)
 {.dense}
 
 ## Mushoku Tensei III: Isekai Ittara Honki Dasu • Mushoku Tensei: Jobless Reincarnation Season 3
