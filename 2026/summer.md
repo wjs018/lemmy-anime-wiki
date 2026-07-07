@@ -219,6 +219,13 @@ Episode|Link
 1|[Link](https://ani.social/post/33911727)
 {.dense}
 
+## Sora wa Akai Kawa no Hotori
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/34006278)
+{.dense}
+
 ## Super no Ura de Yani Suu Futari • Smoking Behind the Supermarket with You
 
 Episode|Link
