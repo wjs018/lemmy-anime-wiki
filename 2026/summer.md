@@ -152,6 +152,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/33747509)
 2|[Link](https://ani.social/post/34046776)
+3|[Link](https://ani.social/post/34049358)
 {.dense}
 
 ## Let's Go Kaikigumi
