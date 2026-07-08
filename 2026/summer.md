@@ -83,6 +83,13 @@ Episode|Link
 2|[Link](https://ani.social/post/33746445)
 {.dense}
 
+## Ibitte Konai Gibo to Gishi
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/34045796)
+{.dense}
+
 ## Iwamoto-senpai no Suisen
 
 Episode|Link
@@ -189,6 +196,13 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/33796475)
+{.dense}
+
+## Otomege Sekai wa Mob ni Kibishii Sekai desu 2 • Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/34045795)
 {.dense}
 
 ## Ryoumin 0-Nin Start no Henkyou Ryoushu-sama
