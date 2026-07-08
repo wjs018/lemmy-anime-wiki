@@ -58,7 +58,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru | The Insipid Prince's Furtive Grab for the Throne | https://anilist.co/anime/169582 | [Link](https://ani.social/post/33952081) |
 | Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu | The Oblivous Saint Can't Contain Her Power | https://anilist.co/anime/196219 | [Link](https://ani.social/post/33999614) |
 | Oni no Hanayome | The Ogre's Bride | https://anilist.co/anime/194219 | [Link](https://ani.social/post/33876467) |
-| LV999 no Murabito | The Villager of Level 999 | https://anilist.co/anime/197715 | [Link](https://ani.social/post/33747509) |
+| LV999 no Murabito | The Villager of Level 999 | https://anilist.co/anime/197715 | [Link](https://ani.social/post/34046776) |
 | Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha | The World's Strongest Rearguard | https://anilist.co/anime/198409 | [Link](https://ani.social/post/33911727) |
 | Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den | Though I Am an Inept Villainess | https://anilist.co/anime/188139 |  |
 | Thunder 3 | Thunder 3 | https://anilist.co/anime/207254 |  |
@@ -203,6 +203,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Bananya At-Home Party | Bananya At-Home Party | https://anilist.co/anime/213750 | July 10 at 00:00 |
+| Cyborg 009: Nemesis | Cyborg 009: Nemesis | https://anilist.co/anime/196223 | July 18 at 16:00 |
 | Kimi to Hanabi to Yakusoku to | Kimi to Hanabi to Yakusoku to | https://anilist.co/anime/206819 | July 16 at 15:00 |
 | Mebius Dust | Mebius Dust | https://anilist.co/anime/108992 | July 09 at 14:30 |
 | Plannosaurus Gachi Koseibutsu-bu | Plannosaurus Gachi Koseibutsu-bu | https://anilist.co/anime/208824 | July 11 at 23:00 |
