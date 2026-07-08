@@ -40,6 +40,13 @@ Episode|Link
 1|[Link](https://ani.social/post/33955518)
 {.dense}
 
+## Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou • Clevatess Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/34042074)
+{.dense}
+
 ## Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II • Skeleton Knight in Another World Season 2
 
 Episode|Link
