@@ -104,6 +104,13 @@ Episode|Link
 1|[Link](https://ani.social/post/33877608)
 {.dense}
 
+## Katainaka no Ossan, Kensei ni Naru II • From Old Country Bumpkin to Master Swordsman Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/34046227)
+{.dense}
+
 ## Kimi ga Shinu made Koi wo Shitai • I Want to Love You Till Your Dying Day
 
 Episode|Link
