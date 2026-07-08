@@ -142,6 +142,7 @@ These shows have had episodes air already, but no thread was created because the
 | Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | https://anilist.co/anime/185875 | Episode 1 |
 | Mahou no Shimai Lulutto Lilly | Mahou no Shimai Lulutto Lilly | https://anilist.co/anime/178749 | Episode 12 |
 | Maid-san wa Taberu dake | Maid-san wa Taberu dake | https://anilist.co/anime/197868 | Episode 12 |
+| Majo no Tani no Yoru | Majo no Tani no Yoru | https://anilist.co/anime/211232 | Episode 1 |
 | Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru | Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru | https://anilist.co/anime/210234 | Episode 12 |
 | Mata Korosarete Shimatta no desu ne, Tantei-sama | Mata Korosarete Shimatta no desu ne, Tantei-sama | https://anilist.co/anime/202381 | Episode 12 |
 | Osomatsu-san 4th Season | Mr. Osomatsu 4th season | https://anilist.co/anime/177880 | Episode 13 |
@@ -203,7 +204,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Bananya At-Home Party | Bananya At-Home Party | https://anilist.co/anime/213750 | July 10 at 00:00 |
 | Jiaonang Jihua: Qiji | Jiaonang Jihua: Qiji | https://anilist.co/anime/213703 | July 08 at 03:00 |
 | Kimi to Hanabi to Yakusoku to | Kimi to Hanabi to Yakusoku to | https://anilist.co/anime/206819 | July 16 at 15:00 |
-| Majo no Tani no Yoru | Majo no Tani no Yoru | https://anilist.co/anime/211232 | July 08 at 01:00 |
 | Mebius Dust | Mebius Dust | https://anilist.co/anime/108992 | July 09 at 14:30 |
 | Plannosaurus Gachi Koseibutsu-bu | Plannosaurus Gachi Koseibutsu-bu | https://anilist.co/anime/208824 | July 11 at 23:00 |
 | Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita | Saved By the Ice Cold Prince's Embrace | https://anilist.co/anime/213665 | July 14 at 12:55 |
