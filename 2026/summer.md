@@ -310,3 +310,10 @@ Episode|Link
 1|[Link](https://ani.social/post/33793250)
 {.dense}
 
+## Youjo Senki II • Saga of Tanya the Evil Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/34041157)
+{.dense}
+
