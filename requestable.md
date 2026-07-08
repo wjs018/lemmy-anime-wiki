@@ -191,7 +191,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yoroi Shinden Samurai Troopers Part 2 | Yoroi-Shinden Samurai Troopers Cour 2 | https://anilist.co/anime/209800 | Episode 1 |
 | Yowa Yowa Sensei | Yowayowa Sensei | https://anilist.co/anime/185211 | Episode 12 |
 | Yozakura-san Chi no Daisakusen 2nd Season | Yozakura-san Chi no Daisakusen 2nd Season | https://anilist.co/anime/182578 | Episode 12 |
-| mofusand | mofusand | https://anilist.co/anime/204656 | Episode 26 |
+| mofusand | mofusand | https://anilist.co/anime/204656 | Episode 27 |
 {.dense}
 
 ## Upcoming Shows
