@@ -163,7 +163,7 @@ These shows have had episodes air already, but no thread was created because the
 | Reincarnation no Kaben | Petals of Reincarnation | https://anilist.co/anime/179950 | Episode 13 |
 | PetitCure: Precure Fairies Season 3 | PetitCure: Precure Fairies Season 3 | https://anilist.co/anime/209541 | Episode 16 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 142 |
-| Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku | Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku | https://anilist.co/anime/208044 | Episode 2 |
+| Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku | Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku | https://anilist.co/anime/208044 | Episode 3 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | https://anilist.co/anime/210687 | Episode 12 |
 | Wei Miao Rensheng | Reborn as a Cat | https://anilist.co/anime/203710 | Episode 37 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 148 |
@@ -173,6 +173,7 @@ These shows have had episodes air already, but no thread was created because the
 | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? | https://anilist.co/anime/200769 | Episode 12 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2839 |
 | Yuusha no Kuzu | Scum of the Brave | https://anilist.co/anime/187989 | Episode 24 |
+| Shibou Yuugi de Meshi wo Kuu. 44:CLOUDY BEACH | Shibou Yuugi de Meshi wo Kuu. 44:CLOUDY BEACH | https://anilist.co/anime/209961 | Episode 1 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1342 |
 | Shin Keroro Gunsou Movie: Fukkatsushite Sokkou Chikyuu Metsubou no Kiki de Arimasu!  | Shin Keroro Gunsou Movie: Fukkatsushite Sokkou Chikyuu Metsubou no Kiki de Arimasu!  | https://anilist.co/anime/176636 | Episode 1 |
 | Shou 3 Ashibe QQ Goma-chan | Shou 3 Ashibe QQ Goma-chan | https://anilist.co/anime/202386 | Episode 13 |
@@ -189,6 +190,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kami no Shizuku | The Drops of God | https://anilist.co/anime/202508 | Episode 13 |
 | Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2 | The Most Heretical Last Boss Queen: From Villainess to Savior Season 2 | https://anilist.co/anime/195268 | Episode 12 |
 | Transformers: Wild King W | Transformers: Wild King W | https://anilist.co/anime/212309 | Episode 3 |
+| Unanswered//butterfly: Sword Art Online | Unanswered//butterfly: Sword Art Online | https://anilist.co/anime/208754 | Episode 1 |
 | Mairimashita! Iruma-kun 4 | Welcome to Demon School! Iruma-kun Season 4 | https://anilist.co/anime/184492 | Episode 14 |
 | Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 396 |
 | Yoroi Shinden Samurai Troopers Part 2 | Yoroi-Shinden Samurai Troopers Cour 2 | https://anilist.co/anime/209800 | Episode 1 |
@@ -208,8 +210,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Kimi to Hanabi to Yakusoku to | Kimi to Hanabi to Yakusoku to | https://anilist.co/anime/206819 | July 16 at 15:00 |
 | Plannosaurus Gachi Koseibutsu-bu | Plannosaurus Gachi Koseibutsu-bu | https://anilist.co/anime/208824 | July 11 at 23:00 |
 | Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita | Saved By the Ice Cold Prince's Embrace | https://anilist.co/anime/213665 | July 14 at 12:55 |
-| Shibou Yuugi de Meshi wo Kuu. 44:CLOUDY BEACH | Shibou Yuugi de Meshi wo Kuu. 44:CLOUDY BEACH | https://anilist.co/anime/209961 | July 09 at 16:00 |
 | Snack HAZAMA | Snack HAZAMA | https://anilist.co/anime/213831 | July 10 at 17:42 |
-| Unanswered//butterfly: Sword Art Online | Unanswered//butterfly: Sword Art Online | https://anilist.co/anime/208754 | July 09 at 16:00 |
 | Youjo Shenki 2 | Youjo Shenki 2 | https://anilist.co/anime/213961 | July 15 at 16:00 |
 {.dense}
