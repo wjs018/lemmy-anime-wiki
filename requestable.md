@@ -98,7 +98,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yomi no Tsugai | Daemons of the Shadow Realm | https://anilist.co/anime/195600 | Episode 13 |
 | Daikenja Riddle no Jikan Gyakko | Daikenja Riddle no Jikan Gyakko | https://anilist.co/anime/210375 | Episode 12 |
 | Dao Yao Xing | Dao Yao Xing | https://anilist.co/anime/207534 | Episode 33 |
-| Reiwa no Dara-san | Dara-san of Reiwa | https://anilist.co/anime/203880 | Episode 1 |
+| Reiwa no Dara-san | Dara-san of Reiwa | https://anilist.co/anime/203880 | Episode 2 |
 | Diamond no Ace act II: Second Season | Diamond no Ace act II: Second Season | https://anilist.co/anime/177634 | Episode 13 |
 | Ookii Onnanoko wa Suki desu ka? | Do You Like Big Girls? | https://anilist.co/anime/204319 | Episode 12 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 922 |
