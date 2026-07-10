@@ -74,6 +74,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/33837718)
+2|[Link](https://ani.social/post/34138548)
 {.dense}
 
 ## Heroine? Seijo? Iie, All Works Maid desu (Ko)! • Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)!
