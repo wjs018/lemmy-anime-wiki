@@ -45,6 +45,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II | Skeleton Knight in Another World Season 2 | https://anilist.co/anime/185542 | [Link](https://ani.social/post/33868309) |
 | Super no Ura de Yani Suu Futari | Smoking Behind the Supermarket with You | https://anilist.co/anime/196187 | [Link](https://ani.social/post/32538111) |
 | Sora wa Akai Kawa no Hotori | Sora wa Akai Kawa no Hotori | https://anilist.co/anime/207809 | [Link](https://ani.social/post/34006278) |
+| Uchi no Otouto-domo ga Sumimasen | Sorry About My Little Brothers | https://anilist.co/anime/203490 | [Link](https://ani.social/post/34143830) |
 | Nijusseiki Denki Mokuroku: Eureka・Evrika | Sparks of Tomorrow | https://anilist.co/anime/103303 | [Link](https://ani.social/post/33913872) |
 | Koukaku Kidoutai: THE GHOST IN THE SHELL | THE GHOST IN THE SHELL | https://anilist.co/anime/177699 | [Link](https://ani.social/post/33999615) |
 | THE RIBBON HERO | THE RIBBON HERO | https://anilist.co/anime/211308 |  |
@@ -180,7 +181,6 @@ These shows have had episodes air already, but no thread was created because the
 | Snack HAZAMA | Snack HAZAMA | https://anilist.co/anime/213831 | Episode 2 |
 | Snowball Earth | Snowball Earth | https://anilist.co/anime/196144 | Episode 13 |
 | Soreike! Anpanman: Pantan to Yakusoku no Hoshi | Soreike! Anpanman: Pantan to Yakusoku no Hoshi | https://anilist.co/anime/206682 | Episode 1 |
-| Uchi no Otouto-domo ga Sumimasen | Sorry About My Little Brothers | https://anilist.co/anime/203490 | Episode 2 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 160 |
 | Yamato yo Towa ni: REBEL3199 | Star Blazers: Space Battleship Yamato 3199 | https://anilist.co/anime/144779 | Episode 19 |
 | Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 23 |
