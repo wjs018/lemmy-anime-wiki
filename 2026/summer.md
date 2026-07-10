@@ -131,6 +131,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/33830525)
+2|[Link](https://ani.social/post/34133226)
 {.dense}
 
 ## Kore Kaite Shine
@@ -221,6 +222,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/33830526)
+2|[Link](https://ani.social/post/34133228)
 {.dense}
 
 ## Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru • The Insipid Prince's Furtive Grab for the Throne
