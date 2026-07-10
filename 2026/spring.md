@@ -627,6 +627,7 @@ Episode|Link
 11|[Link](https://ani.social/post/33232380)
 12|[Link](https://ani.social/post/33534746)
 13|[Link](https://ani.social/post/33834681)
+14|[Link](https://ani.social/post/34134395)
 {.dense}
 
 ## Tongari Boushi no Atelier • Witch Hat Atelier
