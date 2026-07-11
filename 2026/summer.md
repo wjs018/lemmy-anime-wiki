@@ -71,6 +71,13 @@ Episode|Link
 2|[Link](https://ani.social/post/34181377)
 {.dense}
 
+## Hanaori-san wa Tensei Shite mo Kenka ga Shitai • Hanaori-san Still Wants to Fight in the Next Life
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/34183569)
+{.dense}
+
 ## Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season
 
 Episode|Link
