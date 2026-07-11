@@ -187,6 +187,7 @@ These shows have had episodes air already, but no thread was created because the
 | Neko to Ryuu | The Cat and the Dragon | https://anilist.co/anime/186863 | Episode 3 |
 | Kuroneko to Majo no Kyoushitsu | The Classroom of the Black Cat and a Witch | https://anilist.co/anime/196974 | Episode 13 |
 | Kami no Shizuku | The Drops of God | https://anilist.co/anime/202508 | Episode 14 |
+| "Kimi wo Aisuru Ki wa nai" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu | The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration | https://anilist.co/anime/208225 | Episode 2 |
 | Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2 | The Most Heretical Last Boss Queen: From Villainess to Savior Season 2 | https://anilist.co/anime/195268 | Episode 12 |
 | Transformers: Wild King W | Transformers: Wild King W | https://anilist.co/anime/212309 | Episode 3 |
 | Unanswered//butterfly: Sword Art Online | Unanswered//butterfly: Sword Art Online | https://anilist.co/anime/208754 | Episode 1 |
@@ -209,7 +210,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Perfect Addiction | Perfect Addiction | https://anilist.co/anime/213666 | July 15 at 14:00 |
 | Plannosaurus Gachi Koseibutsu-bu | Plannosaurus Gachi Koseibutsu-bu | https://anilist.co/anime/208824 | July 11 at 23:00 |
 | Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita | Saved By the Ice Cold Prince's Embrace | https://anilist.co/anime/213665 | July 14 at 12:55 |
-| "Kimi wo Aisuru Ki wa nai" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu | The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration | https://anilist.co/anime/208225 | July 11 at 17:30 |
 | Yi Nian Yongheng 4 | Yi Nian Yongheng 4 | https://anilist.co/anime/199409 | July 21 at 15:00 |
 | Youjo Shenki 2 | Youjo Shenki 2 | https://anilist.co/anime/213961 | July 15 at 16:00 |
 {.dense}
