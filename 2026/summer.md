@@ -22,6 +22,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/33871480)
+2|[Link](https://ani.social/post/34176944)
 {.dense}
 
 ## BanG Dream! Yume∞Mita
