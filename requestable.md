@@ -50,7 +50,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Koukaku Kidoutai: THE GHOST IN THE SHELL | THE GHOST IN THE SHELL | https://anilist.co/anime/177699 | [Link](https://ani.social/post/33999615) |
 | THE RIBBON HERO | THE RIBBON HERO | https://anilist.co/anime/211308 |  |
 | Tensei Shitara Slime Datta Ken 4th Season | That Time I Got Reincarnated as a Slime Season 4 | https://anilist.co/anime/182205 | [Link](https://ani.social/post/34134395) |
-| Neko to Ryuu | The Cat and the Dragon | https://anilist.co/anime/186863 | [Link](https://ani.social/post/33871479) |
 | "Kimi wo Aisuru Ki wa nai" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu | The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration | https://anilist.co/anime/208225 | [Link](https://ani.social/post/33878830) |
 | Nige Jouzu no Wakagimi 2nd Season | The Elusive Samurai Season 2 | https://anilist.co/anime/182616 |  |
 | Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru | The Exiled Heavy Knight Knows How to Game the System | https://anilist.co/anime/180136 | [Link](https://ani.social/post/34094013) |
@@ -211,5 +210,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Perfect Addiction | Perfect Addiction | https://anilist.co/anime/213666 | July 15 at 14:00 |
 | Plannosaurus Gachi Koseibutsu-bu | Plannosaurus Gachi Koseibutsu-bu | https://anilist.co/anime/208824 | July 11 at 23:00 |
 | Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita | Saved By the Ice Cold Prince's Embrace | https://anilist.co/anime/213665 | July 14 at 12:55 |
+| Neko to Ryuu | The Cat and the Dragon | https://anilist.co/anime/186863 | July 11 at 13:00 |
 | Youjo Shenki 2 | Youjo Shenki 2 | https://anilist.co/anime/213961 | July 15 at 16:00 |
 {.dense}
