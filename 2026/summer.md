@@ -68,6 +68,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/33875146)
+2|[Link](https://ani.social/post/34181377)
 {.dense}
 
 ## Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season
@@ -105,6 +106,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/33877608)
+2|[Link](https://ani.social/post/34181376)
 {.dense}
 
 ## Katainaka no Ossan, Kensei ni Naru II • From Old Country Bumpkin to Master Swordsman Season 2
