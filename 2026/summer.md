@@ -302,6 +302,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/33873066)
 2|[Link](https://ani.social/post/33874237)
+3|[Link](https://ani.social/post/34180305)
 {.dense}
 
 ## Thunder 3
