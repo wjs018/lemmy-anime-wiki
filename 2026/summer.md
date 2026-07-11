@@ -205,6 +205,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/33876467)
+2|[Link](https://ani.social/post/34182327)
 {.dense}
 
 ## Otome Kaijuu Caramelise • KAIJU GIRL CARAMELISE
