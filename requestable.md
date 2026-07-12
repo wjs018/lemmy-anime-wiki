@@ -134,6 +134,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 14 |
 | Kami no Niwatsuki Kusunoki-tei  | Kusunoki's Garden of Gods | https://anilist.co/anime/196029 | Episode 12 |
 | LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 14 |
+| Let's Go Kaikigumi | Let's Go Kaikigumi | https://anilist.co/anime/200230 | Episode 2 |
 | Guimi Zhi Zhu Specials | Lord of Mysteries Specials | https://anilist.co/anime/199448 | Episode 3 |
 | MAO | MAO | https://anilist.co/anime/196012 | Episode 14 |
 | MARRIAGETOXIN | MARRIAGETOXIN | https://anilist.co/anime/199547 | Episode 13 |
@@ -207,7 +208,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Cyborg 009: Nemesis | Cyborg 009: Nemesis | https://anilist.co/anime/196223 | July 18 at 16:00 |
 | Kimi to Hanabi to Yakusoku to | Kimi to Hanabi to Yakusoku to | https://anilist.co/anime/206819 | July 16 at 15:00 |
-| Let's Go Kaikigumi | Let's Go Kaikigumi | https://anilist.co/anime/200230 | July 12 at 08:30 |
 | Perfect Addiction | Perfect Addiction | https://anilist.co/anime/213666 | July 15 at 14:00 |
 | Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita | Saved By the Ice Cold Prince's Embrace | https://anilist.co/anime/213665 | July 14 at 12:55 |
 | Yi Nian Yongheng 4 | Yi Nian Yongheng 4 | https://anilist.co/anime/199409 | July 21 at 15:00 |
