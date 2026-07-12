@@ -44,7 +44,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Super no Ura de Yani Suu Futari | Smoking Behind the Supermarket with You | https://anilist.co/anime/196187 | [Link](https://ani.social/post/32538111) |
 | Sora wa Akai Kawa no Hotori | Sora wa Akai Kawa no Hotori | https://anilist.co/anime/207809 | [Link](https://ani.social/post/34006278) |
 | Uchi no Otouto-domo ga Sumimasen | Sorry About My Little Brothers | https://anilist.co/anime/203490 | [Link](https://ani.social/post/34143830) |
-| Nijusseiki Denki Mokuroku: Eureka・Evrika | Sparks of Tomorrow | https://anilist.co/anime/103303 | [Link](https://ani.social/post/33913872) |
+| Nijusseiki Denki Mokuroku: Eureka・Evrika | Sparks of Tomorrow | https://anilist.co/anime/103303 | [Link](https://ani.social/post/34218931) |
 | Koukaku Kidoutai: THE GHOST IN THE SHELL | THE GHOST IN THE SHELL | https://anilist.co/anime/177699 | [Link](https://ani.social/post/33999615) |
 | THE RIBBON HERO | THE RIBBON HERO | https://anilist.co/anime/211308 |  |
 | Tensei Shitara Slime Datta Ken 4th Season | That Time I Got Reincarnated as a Slime Season 4 | https://anilist.co/anime/182205 | [Link](https://ani.social/post/34134395) |
@@ -56,7 +56,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Oni no Hanayome | The Ogre's Bride | https://anilist.co/anime/194219 | [Link](https://ani.social/post/34182327) |
 | LV999 no Murabito | The Villager of Level 999 | https://anilist.co/anime/197715 | [Link](https://ani.social/post/34049358) |
 | Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha | The World's Strongest Rearguard | https://anilist.co/anime/198409 | [Link](https://ani.social/post/34217048) |
-| Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den | Though I Am an Inept Villainess | https://anilist.co/anime/188139 |  |
+| Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den | Though I Am an Inept Villainess | https://anilist.co/anime/188139 | [Link](https://ani.social/post/34218929) |
 | Thunder 3 | Thunder 3 | https://anilist.co/anime/207254 | [Link](https://ani.social/post/34048668) |
 | Otomege Sekai wa Mob ni Kibishii Sekai desu 2 | Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2 | https://anilist.co/anime/159309 | [Link](https://ani.social/post/34045795) |
 | Ushiro no Shoumen Kamui-san | Ushiro no Shoumen Kamui-san | https://anilist.co/anime/207674 | [Link](https://ani.social/post/34139820) |
