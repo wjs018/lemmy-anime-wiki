@@ -49,6 +49,13 @@ Episode|Link
 1|[Link](https://ani.social/post/34042074)
 {.dense}
 
+## Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den • Though I Am an Inept Villainess
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/34218929)
+{.dense}
+
 ## Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II • Skeleton Knight in Another World Season 2
 
 Episode|Link
@@ -206,6 +213,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/33913872)
+2|[Link](https://ani.social/post/34218931)
 {.dense}
 
 ## Oni no Hanayome • The Ogre's Bride
