@@ -198,6 +198,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/33867627)
 2|[Link](https://ani.social/post/33868310)
+3|[Link](https://ani.social/post/34221592)
 {.dense}
 
 ## Neko to Ryuu • The Cat and the Dragon
