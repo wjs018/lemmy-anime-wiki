@@ -36,7 +36,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season | Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season | https://anilist.co/anime/200637 | [Link](https://ani.social/post/34218163) |
 | Kore Kaite Shine | Kore Kaite Shine | https://anilist.co/anime/188525 | [Link](https://ani.social/post/34135536) |
 | Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita. | Love Unseen Beneath the Clear Night Sky | https://anilist.co/anime/202269 | [Link](https://ani.social/post/33952132) |
-| Mushoku Tensei III: Isekai Ittara Honki Dasu | Mushoku Tensei: Jobless Reincarnation Season 3 | https://anilist.co/anime/178789 | [Link](https://ani.social/post/33868310) |
+| Mushoku Tensei III: Isekai Ittara Honki Dasu | Mushoku Tensei: Jobless Reincarnation Season 3 | https://anilist.co/anime/178789 | [Link](https://ani.social/post/34221592) |
 | Re:Zero kara Hajimeru Isekai Seikatsu 4th Season | Re:ZERO -Starting Life in Another World- Season 4 | https://anilist.co/anime/189046 | [Link](https://ani.social/post/33141669) |
 | Ryoumin 0-Nin Start no Henkyou Ryoushu-sama | Ryoumin 0-Nin Start no Henkyou Ryoushu-sama | https://anilist.co/anime/196218 | [Link](https://ani.social/post/34133228) |
 | Youjo Senki II | Saga of Tanya the Evil Season 2 | https://anilist.co/anime/135865 | [Link](https://ani.social/post/34041157) |
