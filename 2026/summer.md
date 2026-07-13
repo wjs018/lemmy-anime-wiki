@@ -69,6 +69,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/33958907)
+2|[Link](https://ani.social/post/34263742)
 {.dense}
 
 ## Grow Up Show: Himawari no Circus-dan • GROW UP SHOW -Sunflower Circus-
