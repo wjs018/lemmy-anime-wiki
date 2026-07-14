@@ -312,6 +312,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/33993868)
+2|[Link](https://ani.social/post/34298931)
 {.dense}
 
 ## Tefuda ga Oume no Victoria • Victoria of Many Faces
