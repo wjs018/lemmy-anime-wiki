@@ -165,6 +165,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kanojo, Okarishimasu 5th Season | Rent-a-Girlfriend Season 5 | https://anilist.co/anime/199029 | Episode 12 |
 | Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita | Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School | https://anilist.co/anime/201514 | Episode 2 |
 | Rilakkuma: Goyururi Yume no Tabi | Rilakkuma: Goyururi Yume no Tabi | https://anilist.co/anime/183231 | Episode 15 |
+| Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita | Saved By the Ice Cold Prince's Embrace | https://anilist.co/anime/213665 | Episode 2 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2840 |
 | Yuusha no Kuzu | Scum of the Brave | https://anilist.co/anime/187989 | Episode 24 |
 | Shibou Yuugi de Meshi wo Kuu. 44:CLOUDY BEACH | Shibou Yuugi de Meshi wo Kuu. 44:CLOUDY BEACH | https://anilist.co/anime/209961 | Episode 1 |
@@ -209,7 +210,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Cyborg 009: Nemesis | Cyborg 009: Nemesis | https://anilist.co/anime/196223 | July 18 at 16:00 |
 | Kimi to Hanabi to Yakusoku to | Kimi to Hanabi to Yakusoku to | https://anilist.co/anime/206819 | July 16 at 15:00 |
 | Perfect Addiction | Perfect Addiction | https://anilist.co/anime/213666 | July 15 at 14:00 |
-| Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita | Saved By the Ice Cold Prince's Embrace | https://anilist.co/anime/213665 | July 14 at 12:55 |
 | Yi Nian Yongheng 4 | Yi Nian Yongheng 4 | https://anilist.co/anime/199409 | July 21 at 15:00 |
 | Youjo Shenki 2 | Youjo Shenki 2 | https://anilist.co/anime/213961 | July 15 at 16:00 |
 {.dense}
