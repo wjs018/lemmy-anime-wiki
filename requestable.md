@@ -51,7 +51,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Oni no Hanayome | The Ogre's Bride | https://anilist.co/anime/194219 | [Link](https://ani.social/post/34182327) |
 | Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha | The World's Strongest Rearguard | https://anilist.co/anime/198409 | [Link](https://ani.social/post/34217048) |
 | Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den | Though I Am an Inept Villainess | https://anilist.co/anime/188139 | [Link](https://ani.social/post/34218929) |
-| Thunder 3 | Thunder 3 | https://anilist.co/anime/207254 | [Link](https://ani.social/post/34048668) |
+| Thunder 3 | Thunder 3 | https://anilist.co/anime/207254 | [Link](https://ani.social/post/34350215) |
 | Ushiro no Shoumen Kamui-san | Ushiro no Shoumen Kamui-san | https://anilist.co/anime/207674 | [Link](https://ani.social/post/34139820) |
 | Tefuda ga Oume no Victoria | Victoria of Many Faces | https://anilist.co/anime/198709 | [Link](https://ani.social/post/34307036) |
 | World Is Dancing | World Is Dancing | https://anilist.co/anime/206521 | [Link](https://ani.social/post/34259813) |
