@@ -396,5 +396,6 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/34041157)
+2|[Link](https://ani.social/post/34341802)
 {.dense}
 
