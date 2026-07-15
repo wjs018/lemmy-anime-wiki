@@ -210,6 +210,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Cyborg 009: Nemesis | Cyborg 009: Nemesis | https://anilist.co/anime/196223 | July 18 at 16:00 |
 | Sazin no Nakade | Dust of the Simulacrum | https://anilist.co/anime/214070 | July 18 at 20:00 |
 | Moshi, Korekara Umarerunonara | Echo | https://anilist.co/anime/214068 | July 18 at 20:00 |
+| FOXING: Kitsuné-tsuki | FOXING: Kitsuné-tsuki | https://anilist.co/anime/194029 | July 18 at 19:00 |
 | Kimi to Hanabi to Yakusoku to | Kimi to Hanabi to Yakusoku to | https://anilist.co/anime/206819 | July 16 at 15:00 |
 | Perfect Addiction | Perfect Addiction | https://anilist.co/anime/213666 | July 15 at 14:00 |
 | Yi Nian Yongheng 4 | Yi Nian Yongheng 4 | https://anilist.co/anime/199409 | July 21 at 15:00 |
