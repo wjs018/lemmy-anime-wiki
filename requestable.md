@@ -19,7 +19,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | BanG Dream! Yume∞Mita | BanG Dream! Yume∞Mita | https://anilist.co/anime/198376 | [Link](https://ani.social/post/34090727) |
 | Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu | Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu | https://anilist.co/anime/199408 | [Link](https://ani.social/post/34260694) |
 | Yani Neko | Chainsmoker Cat | https://anilist.co/anime/207141 | [Link](https://ani.social/post/34094063) |
-| Katainaka no Ossan, Kensei ni Naru II | From Old Country Bumpkin to Master Swordsman Season 2 | https://anilist.co/anime/194829 | [Link](https://ani.social/post/34046227) |
+| Katainaka no Ossan, Kensei ni Naru II | From Old Country Bumpkin to Master Swordsman Season 2 | https://anilist.co/anime/194829 | [Link](https://ani.social/post/34348491) |
 | Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | [Link](https://ani.social/post/34087991) |
 | Grow Up Show: Himawari no Circus-dan | GROW UP SHOW -Sunflower Circus- | https://anilist.co/anime/196017 | [Link](https://ani.social/post/34181377) |
 | Sayonara Lara | Goodbye, Lara | https://anilist.co/anime/177637 | [Link](https://ani.social/post/34222959) |
@@ -49,7 +49,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru | The Exiled Heavy Knight Knows How to Game the System | https://anilist.co/anime/180136 | [Link](https://ani.social/post/34094013) |
 | Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu | The Oblivous Saint Can't Contain Her Power | https://anilist.co/anime/196219 | [Link](https://ani.social/post/34301805) |
 | Oni no Hanayome | The Ogre's Bride | https://anilist.co/anime/194219 | [Link](https://ani.social/post/34182327) |
-| LV999 no Murabito | The Villager of Level 999 | https://anilist.co/anime/197715 | [Link](https://ani.social/post/34049358) |
 | Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha | The World's Strongest Rearguard | https://anilist.co/anime/198409 | [Link](https://ani.social/post/34217048) |
 | Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den | Though I Am an Inept Villainess | https://anilist.co/anime/188139 | [Link](https://ani.social/post/34218929) |
 | Thunder 3 | Thunder 3 | https://anilist.co/anime/207254 | [Link](https://ani.social/post/34048668) |
@@ -77,7 +76,7 @@ These shows have had episodes air already, but no thread was created because the
 | Guangyin Zhi Wai 2 | Beyond Time's Gaze 2 | https://anilist.co/anime/213356 | Episode 4 |
 | Kamiina Botan, Yoeru Sugata wa Yuri no Hana | Botan Kamiina Fully Blossoms When Drunk | https://anilist.co/anime/187869 | Episode 12 |
 | Bungou Stray Dogs Wan! 2 | Bungo Stray Dogs WAN! 2 | https://anilist.co/anime/201667 | Episode 2 |
-| Candy Caries | Candy Caries | https://anilist.co/anime/205772 | Episode 13 |
+| Candy Caries | Candy Caries | https://anilist.co/anime/205772 | Episode 14 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1206 |
 | Ugoku! Neko Mukashi Banashi | Cat Tales | https://anilist.co/anime/188529 | Episode 40 |
 | Cheng Huang Lu | Cheng Huang Lu | https://anilist.co/anime/137664 | Episode 6 |
@@ -194,6 +193,7 @@ These shows have had episodes air already, but no thread was created because the
 | Mairimashita! Iruma-kun 4 | Welcome to Demon School! Iruma-kun Season 4 | https://anilist.co/anime/184492 | Episode 15 |
 | Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 398 |
 | Yoroi Shinden Samurai Troopers Part 2 | Yoroi-Shinden Samurai Troopers Cour 2 | https://anilist.co/anime/209800 | Episode 2 |
+| Youjo Shenki 2 | Youjo Shenki 2 | https://anilist.co/anime/213961 | Episode 2 |
 | Yowa Yowa Sensei | Yowayowa Sensei | https://anilist.co/anime/185211 | Episode 12 |
 | Yozakura-san Chi no Daisakusen 2nd Season | Yozakura-san Chi no Daisakusen 2nd Season | https://anilist.co/anime/182578 | Episode 12 |
 | mofusand | mofusand | https://anilist.co/anime/204656 | Episode 28 |
@@ -213,6 +213,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Moshi, Korekara Umarerunonara | Echo | https://anilist.co/anime/214068 | July 18 at 20:00 |
 | FOXING: Kitsuné-tsuki | FOXING: Kitsuné-tsuki | https://anilist.co/anime/194029 | July 18 at 19:00 |
 | Kimi to Hanabi to Yakusoku to | Kimi to Hanabi to Yakusoku to | https://anilist.co/anime/206819 | July 16 at 15:00 |
+| LV999 no Murabito | The Villager of Level 999 | https://anilist.co/anime/197715 | July 15 at 16:00 |
 | Yi Nian Yongheng 4 | Yi Nian Yongheng 4 | https://anilist.co/anime/199409 | July 21 at 15:00 |
-| Youjo Shenki 2 | Youjo Shenki 2 | https://anilist.co/anime/213961 | July 15 at 16:00 |
 {.dense}
