@@ -101,7 +101,6 @@ These shows have had episodes air already, but no thread was created because the
 | Hidarikiki no Eren | Eren the Southpaw | https://anilist.co/anime/158036 | Episode 13 |
 | Replica Datte, Koi wo Suru. | Even a Replica Can Fall in Love | https://anilist.co/anime/186744 | Episode 13 |
 | Hokuto no Ken: FIST OF THE NORTH STAR | FIST OF THE NORTH STAR: HOKUTO NO KEN | https://anilist.co/anime/169228 | Episode 14 |
-| Isekai Nonbiri Nouka 2 | Farming Life in Another World 2 | https://anilist.co/anime/197824 | Episode 11 |
 | Fei Ren Zai 3 Part 2 | Fei Ren Zai 3 Part 2 | https://anilist.co/anime/211270 | Episode 12 |
 | Ghost Concert: missing Songs | GHOST CONCERT : missing Songs | https://anilist.co/anime/201090 | Episode 13 |
 | Otaku ni Yasashii Gal wa Inai!? | Gals Can't Be Kind to Otaku!? | https://anilist.co/anime/199588 | Episode 12 |
@@ -110,7 +109,7 @@ These shows have had episodes air already, but no thread was created because the
 | Haibara-kun no Tsuyokute Seishun New Game | Haibara-kun no Tsuyokute Seishun New Game | https://anilist.co/anime/195333 | Episode 12 |
 | Hanazakari no Kimitachi e 2nd Season | Hana-Kimi Season 2 | https://anilist.co/anime/209669 | Episode 3 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 664 |
-| Heroine? Seijo? Iie, All Works Maid desu (Ko)! | Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)! | https://anilist.co/anime/192800 | Episode 3 |
+| Heroine? Seijo? Iie, All Works Maid desu (Ko)! | Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)! | https://anilist.co/anime/192800 | Episode 4 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 374 |
 | Honoo no Toukyuujyo Dodge Danko | Honoo no Toukyuujyo Dodge Danko | https://anilist.co/anime/195833 | Episode 2 |
 | Hyakki Yakou Shou | Hyakki Yakou Shou | https://anilist.co/anime/207675 | Episode 12 |
