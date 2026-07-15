@@ -131,6 +131,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/34046227)
+2|[Link](https://ani.social/post/34348491)
 {.dense}
 
 ## Kimi ga Shinu made Koi wo Shitai • I Want to Love You Till Your Dying Day
