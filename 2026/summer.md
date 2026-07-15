@@ -343,6 +343,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/34048668)
+2|[Link](https://ani.social/post/34350215)
 {.dense}
 
 ## Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita. • Love Unseen Beneath the Clear Night Sky
