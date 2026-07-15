@@ -108,6 +108,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/34045796)
+2|[Link](https://ani.social/post/34346924)
 {.dense}
 
 ## Iwamoto-senpai no Suisen
