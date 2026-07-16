@@ -33,6 +33,7 @@ Episode|Link
 2|[Link](https://ani.social/post/33789892)
 3|[Link](https://ani.social/post/33791724)
 4|[Link](https://ani.social/post/34090727)
+5|[Link](https://ani.social/post/34388231)
 {.dense}
 
 ## Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu
