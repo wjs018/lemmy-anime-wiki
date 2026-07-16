@@ -120,7 +120,7 @@ These shows have had episodes air already, but no thread was created because the
 | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | https://anilist.co/anime/198939 | Episode 12 |
 | Jueshi Zhan Hun 2 | Jueshi Zhan Hun 2 | https://anilist.co/anime/213188 | Episode 6 |
 | Kill Ao | Kill Ao | https://anilist.co/anime/198113 | Episode 12 |
-| Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 40 |
+| Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 41 |
 | Komekami! Girls | Komekami! Girls | https://anilist.co/anime/209940 | Episode 12 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 67 |
 | Kujima Utaeba Ie Hororo | Kujima: Why Sing, When You Can Warble? | https://anilist.co/anime/177508 | Episode 11 |
