@@ -16,7 +16,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | :-------- | :---------------- | :----------- | :--------------------: |
 | Honzuki no Gekokujou: Ryoushu no Youjo | Ascendance of a Bookworm: Adopted Daughter of an Archduke | https://anilist.co/anime/171110 | [Link](https://ani.social/post/34169817) |
 | BLACK TORCH | BLACK TORCH | https://anilist.co/anime/187538 | [Link](https://ani.social/post/34176944) |
-| BanG Dream! Yume∞Mita | BanG Dream! Yume∞Mita | https://anilist.co/anime/198376 | [Link](https://ani.social/post/34090727) |
+| BanG Dream! Yume∞Mita | BanG Dream! Yume∞Mita | https://anilist.co/anime/198376 | [Link](https://ani.social/post/34388231) |
 | Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu | Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu | https://anilist.co/anime/199408 | [Link](https://ani.social/post/34260694) |
 | Yani Neko | Chainsmoker Cat | https://anilist.co/anime/207141 | [Link](https://ani.social/post/34094063) |
 | Katainaka no Ossan, Kensei ni Naru II | From Old Country Bumpkin to Master Swordsman Season 2 | https://anilist.co/anime/194829 | [Link](https://ani.social/post/34348491) |
@@ -120,6 +120,7 @@ These shows have had episodes air already, but no thread was created because the
 | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | https://anilist.co/anime/198939 | Episode 12 |
 | Jueshi Zhan Hun 2 | Jueshi Zhan Hun 2 | https://anilist.co/anime/213188 | Episode 6 |
 | Kill Ao | Kill Ao | https://anilist.co/anime/198113 | Episode 12 |
+| Kimi to Hanabi to Yakusoku to | Kimi to Hanabi to Yakusoku to | https://anilist.co/anime/206819 | Episode 1 |
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 41 |
 | Komekami! Girls | Komekami! Girls | https://anilist.co/anime/209940 | Episode 12 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 67 |
@@ -213,6 +214,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Sazin no Nakade | Dust of the Simulacrum | https://anilist.co/anime/214070 | July 18 at 20:00 |
 | Moshi, Korekara Umarerunonara | Echo | https://anilist.co/anime/214068 | July 18 at 20:00 |
 | FOXING: Kitsuné-tsuki | FOXING: Kitsuné-tsuki | https://anilist.co/anime/194029 | July 18 at 19:00 |
-| Kimi to Hanabi to Yakusoku to | Kimi to Hanabi to Yakusoku to | https://anilist.co/anime/206819 | July 16 at 15:00 |
 | Yi Nian Yongheng 4 | Yi Nian Yongheng 4 | https://anilist.co/anime/199409 | July 21 at 15:00 |
 {.dense}
