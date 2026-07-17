@@ -378,6 +378,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/33834739)
 2|[Link](https://ani.social/post/34143830)
+3|[Link](https://ani.social/post/34433463)
 {.dense}
 
 ## Ushiro no Shoumen Kamui-san
