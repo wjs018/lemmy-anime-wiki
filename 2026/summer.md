@@ -387,6 +387,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/33839088)
 2|[Link](https://ani.social/post/34139820)
+3|[Link](https://ani.social/post/34437379)
 {.dense}
 
 ## World Is Dancing
