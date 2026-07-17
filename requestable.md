@@ -32,7 +32,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Otome Kaijuu Caramelise | KAIJU GIRL CARAMELISE | https://anilist.co/anime/204466 | [Link](https://ani.social/post/34394364) |
 | Kabushiki Gaisha Magi Lumiere 2nd Season | Kabushiki Gaisha Magi Lumiere 2nd Season | https://anilist.co/anime/185692 | [Link](https://ani.social/post/34181376) |
 | Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season | Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season | https://anilist.co/anime/200637 | [Link](https://ani.social/post/34218163) |
-| Kore Kaite Shine | Kore Kaite Shine | https://anilist.co/anime/188525 | [Link](https://ani.social/post/34135536) |
+| Kore Kaite Shine | Kore Kaite Shine | https://anilist.co/anime/188525 | [Link](https://ani.social/post/34432261) |
 | Mushoku Tensei III: Isekai Ittara Honki Dasu | Mushoku Tensei: Jobless Reincarnation Season 3 | https://anilist.co/anime/178789 | [Link](https://ani.social/post/34221592) |
 | Re:Zero kara Hajimeru Isekai Seikatsu 4th Season | Re:ZERO -Starting Life in Another World- Season 4 | https://anilist.co/anime/189046 | [Link](https://ani.social/post/33141669) |
 | Youjo Senki II | Saga of Tanya the Evil Season 2 | https://anilist.co/anime/135865 | [Link](https://ani.social/post/34341802) |
@@ -181,7 +181,7 @@ These shows have had episodes air already, but no thread was created because the
 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season | The Beginning After the End Season 2 | https://anilist.co/anime/194317 | Episode 12 |
 | Neko to Ryuu | The Cat and the Dragon | https://anilist.co/anime/186863 | Episode 3 |
 | Kuroneko to Majo no Kyoushitsu | The Classroom of the Black Cat and a Witch | https://anilist.co/anime/196974 | Episode 14 |
-| Kami no Shizuku | The Drops of God | https://anilist.co/anime/202508 | Episode 14 |
+| Kami no Shizuku | The Drops of God | https://anilist.co/anime/202508 | Episode 15 |
 | "Kimi wo Aisuru Ki wa nai" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu | The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration | https://anilist.co/anime/208225 | Episode 2 |
 | Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita | The Forsaken Saintess and Her Foodie Roadtrip in Another World | https://anilist.co/anime/209504 | Episode 2 |
 | Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru | The Insipid Prince's Furtive Grab for the Throne | https://anilist.co/anime/169582 | Episode 2 |
