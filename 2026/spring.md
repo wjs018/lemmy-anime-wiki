@@ -614,9 +614,9 @@ Episode|Link
 
 ## Tensei Shitara Slime Datta Ken 4th Season • That Time I Got Reincarnated as a Slime Season 4
 
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/29726003)
+Episode|Link|Episode|Link
+:-:|:-:|:-:|:-:
+1|[Link](https://ani.social/post/29726003)|15|[Link](https://ani.social/post/34430935)
 2|[Link](https://ani.social/post/30039987)
 3|[Link](https://ani.social/post/30361713)
 4|[Link](https://ani.social/post/30704699)
