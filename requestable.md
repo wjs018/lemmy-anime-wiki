@@ -108,6 +108,7 @@ These shows have had episodes air already, but no thread was created because the
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 374 |
 | Honoo no Toukyuujyo Dodge Danko | Honoo no Toukyuujyo Dodge Danko | https://anilist.co/anime/195833 | Episode 2 |
 | Hyakki Yakou Shou | Hyakki Yakou Shou | https://anilist.co/anime/207675 | Episode 12 |
+| Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita. | I Became a Legend After My 10 Year-Long Last Stand | https://anilist.co/anime/199748 | Episode 3 |
 | Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta | I Made Friends with the Second Prettiest Girl in My Class | https://anilist.co/anime/169580 | Episode 12 |
 | Aishiteru Game wo Owarasetai | I Want to End this Love Game | https://anilist.co/anime/194393 | Episode 12 |
 | Ichijouma Mankitsu Gurashi! | Ichijyoma Mankitsu Gurashi! | https://anilist.co/anime/195734 | Episode 11 |
@@ -160,6 +161,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kanojo, Okarishimasu 5th Season | Rent-a-Girlfriend Season 5 | https://anilist.co/anime/199029 | Episode 12 |
 | Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita | Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School | https://anilist.co/anime/201514 | Episode 2 |
 | Rilakkuma: Goyururi Yume no Tabi | Rilakkuma: Goyururi Yume no Tabi | https://anilist.co/anime/183231 | Episode 15 |
+| Ryoumin 0-Nin Start no Henkyou Ryoushu-sama | Ryoumin 0-Nin Start no Henkyou Ryoushu-sama | https://anilist.co/anime/196218 | Episode 3 |
 | Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita | Saved By the Ice Cold Prince's Embrace | https://anilist.co/anime/213665 | Episode 2 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2840 |
 | Yuusha no Kuzu | Scum of the Brave | https://anilist.co/anime/187989 | Episode 24 |
@@ -211,7 +213,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Sazin no Nakade | Dust of the Simulacrum | https://anilist.co/anime/214070 | July 18 at 20:00 |
 | Moshi, Korekara Umarerunonara | Echo | https://anilist.co/anime/214068 | July 18 at 20:00 |
 | FOXING: Kitsuné-tsuki | FOXING: Kitsuné-tsuki | https://anilist.co/anime/194029 | July 18 at 19:00 |
-| Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita. | I Became a Legend After My 10 Year-Long Last Stand | https://anilist.co/anime/199748 | July 17 at 14:30 |
-| Ryoumin 0-Nin Start no Henkyou Ryoushu-sama | Ryoumin 0-Nin Start no Henkyou Ryoushu-sama | https://anilist.co/anime/196218 | July 17 at 14:30 |
 | Yi Nian Yongheng 4 | Yi Nian Yongheng 4 | https://anilist.co/anime/199409 | July 21 at 15:00 |
 {.dense}
