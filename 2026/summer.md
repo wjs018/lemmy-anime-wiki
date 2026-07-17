@@ -217,6 +217,13 @@ Episode|Link
 2|[Link](https://ani.social/post/33871479)
 {.dense}
 
+## Nige Jouzu no Wakagimi 2nd Season • The Elusive Samurai Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/34429629)
+{.dense}
+
 ## Nijusseiki Denki Mokuroku: Eureka・Evrika • Sparks of Tomorrow
 
 Episode|Link
