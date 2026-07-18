@@ -20,7 +20,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Yani Neko | Chainsmoker Cat | https://anilist.co/anime/207141 | [Link](https://ani.social/post/34392060) |
 | Katainaka no Ossan, Kensei ni Naru II | From Old Country Bumpkin to Master Swordsman Season 2 | https://anilist.co/anime/194829 | [Link](https://ani.social/post/34348491) |
 | Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | [Link](https://ani.social/post/34386264) |
-| Grow Up Show: Himawari no Circus-dan | GROW UP SHOW -Sunflower Circus- | https://anilist.co/anime/196017 | [Link](https://ani.social/post/34181377) |
+| Grow Up Show: Himawari no Circus-dan | GROW UP SHOW -Sunflower Circus- | https://anilist.co/anime/196017 | [Link](https://ani.social/post/34472220) |
 | Sayonara Lara | Goodbye, Lara | https://anilist.co/anime/177637 | [Link](https://ani.social/post/34222959) |
 | Grand Blue Season 3 | Grand Blue Season 3 | https://anilist.co/anime/199111 | [Link](https://ani.social/post/34263742) |
 | Hanaori-san wa Tensei Shite mo Kenka ga Shitai | Hanaori-san Still Wants to Fight in the Next Life | https://anilist.co/anime/199066 | [Link](https://ani.social/post/34183569) |
@@ -28,7 +28,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Ibitte Konai Gibo to Gishi | Ibitte Konai Gibo to Gishi | https://anilist.co/anime/196356 | [Link](https://ani.social/post/34346924) |
 | Tenmaku no Jaadugar | Jaadugar: A Witch in Mongolia | https://anilist.co/anime/190569 | [Link](https://ani.social/post/34470913) |
 | Otome Kaijuu Caramelise | KAIJU GIRL CARAMELISE | https://anilist.co/anime/204466 | [Link](https://ani.social/post/34394364) |
-| Kabushiki Gaisha Magi Lumiere 2nd Season | Kabushiki Gaisha Magi Lumiere 2nd Season | https://anilist.co/anime/185692 | [Link](https://ani.social/post/34181376) |
+| Kabushiki Gaisha Magi Lumiere 2nd Season | Kabushiki Gaisha Magi Lumiere 2nd Season | https://anilist.co/anime/185692 | [Link](https://ani.social/post/34472219) |
 | Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season | Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season | https://anilist.co/anime/200637 | [Link](https://ani.social/post/34218163) |
 | Kore Kaite Shine | Kore Kaite Shine | https://anilist.co/anime/188525 | [Link](https://ani.social/post/34432261) |
 | Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita. | Love Unseen Beneath the Clear Night Sky | https://anilist.co/anime/202269 | [Link](https://ani.social/post/34454240) |
@@ -82,6 +82,7 @@ These shows have had episodes air already, but no thread was created because the
 | Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki | Classroom of the Elite 4th Season: Second Year, First Semester | https://anilist.co/anime/180745 | Episode 16 |
 | Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou | Clevatess Season 2 | https://anilist.co/anime/198946 | Episode 2 |
 | Bai Ri Cheng Wang | Crowned in a Hundred Days | https://anilist.co/anime/213484 | Episode 8 |
+| Cyborg 009: Nemesis | Cyborg 009: Nemesis | https://anilist.co/anime/196223 | Episode 1 |
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | Episode 38 |
 | Yomi no Tsugai | Daemons of the Shadow Realm | https://anilist.co/anime/195600 | Episode 15 |
 | Dao Yao Xing | Dao Yao Xing | https://anilist.co/anime/207534 | Episode 33 |
@@ -126,12 +127,11 @@ These shows have had episodes air already, but no thread was created because the
 | LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 15 |
 | Let's Go Kaikigumi | Let's Go Kaikigumi | https://anilist.co/anime/200230 | Episode 2 |
 | Guimi Zhi Zhu Specials | Lord of Mysteries Specials | https://anilist.co/anime/199448 | Episode 3 |
-| MAO | MAO | https://anilist.co/anime/196012 | Episode 14 |
+| MAO | MAO | https://anilist.co/anime/196012 | Episode 15 |
 | MARRIAGETOXIN | MARRIAGETOXIN | https://anilist.co/anime/199547 | Episode 13 |
-| Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | https://anilist.co/anime/185875 | Episode 2 |
+| Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | https://anilist.co/anime/185875 | Episode 3 |
 | Mahou no Shimai Lulutto Lilly | Mahou no Shimai Lulutto Lilly | https://anilist.co/anime/178749 | Episode 12 |
 | Majo no Tani no Yoru | Majo no Tani no Yoru | https://anilist.co/anime/211232 | Episode 1 |
-| Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru | Mamonogurai no Boukensha: Ore Dake Mamono wo Kuratte Tsuyoku Naru | https://anilist.co/anime/210234 | Episode 12 |
 | Mata Korosarete Shimatta no desu ne, Tantei-sama | Mata Korosarete Shimatta no desu ne, Tantei-sama | https://anilist.co/anime/202381 | Episode 12 |
 | Mebius Dust | Mebius Dust | https://anilist.co/anime/108992 | Episode 2 |
 | Mu Shen Ji 4 | Mu Shen Ji 4 | https://anilist.co/anime/211181 | Episode 14 |
@@ -205,7 +205,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | 20001-nen Chikyuu no Tabi | 20001 An Earth Odyssey | https://anilist.co/anime/214067 | July 18 at 20:00 |
 | BLEACH: Sennen Kessen-hen - Kashin-tan | BLEACH: Thousand-Year Blood War - The Calamity | https://anilist.co/anime/185874 | July 25 at 14:00 |
 | Chiikawa: Ningyo no Shima no Himitsu | Chiikawa: Ningyo no Shima no Himitsu | https://anilist.co/anime/202717 | July 23 at 15:00 |
-| Cyborg 009: Nemesis | Cyborg 009: Nemesis | https://anilist.co/anime/196223 | July 18 at 16:00 |
 | Sazin no Nakade | Dust of the Simulacrum | https://anilist.co/anime/214070 | July 18 at 20:00 |
 | Moshi, Korekara Umarerunonara | Echo | https://anilist.co/anime/214068 | July 18 at 20:00 |
 | FOXING: Kitsuné-tsuki | FOXING: Kitsuné-tsuki | https://anilist.co/anime/194029 | July 18 at 19:00 |
