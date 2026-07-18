@@ -87,6 +87,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/34183569)
+2|[Link](https://ani.social/post/34475208)
 {.dense}
 
 ## Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season
