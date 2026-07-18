@@ -157,9 +157,9 @@ Episode|Link
 
 ## Honzuki no Gekokujou: Ryoushu no Youjo • Ascendance of a Bookworm: Adopted Daughter of an Archduke
 
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/29761018)
+Episode|Link|Episode|Link
+:-:|:-:|:-:|:-:
+1|[Link](https://ani.social/post/29761018)|14|[Link](https://ani.social/post/34461408)
 2|[Link](https://ani.social/post/30074892)
 3|[Link](https://ani.social/post/30395460)
 4|[Link](https://ani.social/post/30714930)
