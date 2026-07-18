@@ -164,7 +164,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shibou Yuugi de Meshi wo Kuu. 44:CLOUDY BEACH | Shibou Yuugi de Meshi wo Kuu. 44:CLOUDY BEACH | https://anilist.co/anime/209961 | Episode 1 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1344 |
 | Shin Keroro Gunsou Movie: Fukkatsushite Sokkou Chikyuu Metsubou no Kiki de Arimasu!  | Shin Keroro Gunsou Movie: Fukkatsushite Sokkou Chikyuu Metsubou no Kiki de Arimasu!  | https://anilist.co/anime/176636 | Episode 1 |
-| Shou 3 Ashibe QQ Goma-chan | Shou 3 Ashibe QQ Goma-chan | https://anilist.co/anime/202386 | Episode 14 |
+| Shou 3 Ashibe QQ Goma-chan | Shou 3 Ashibe QQ Goma-chan | https://anilist.co/anime/202386 | Episode 15 |
 | Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II | Skeleton Knight in Another World Season 2 | https://anilist.co/anime/185542 | Episode 2 |
 | Snack HAZAMA | Snack HAZAMA | https://anilist.co/anime/213831 | Episode 3 |
 | Snowball Earth | Snowball Earth | https://anilist.co/anime/196144 | Episode 13 |
