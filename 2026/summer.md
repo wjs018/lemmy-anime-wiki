@@ -79,6 +79,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/33875146)
 2|[Link](https://ani.social/post/34181377)
+3|[Link](https://ani.social/post/34472220)
 {.dense}
 
 ## Hanaori-san wa Tensei Shite mo Kenka ga Shitai • Hanaori-san Still Wants to Fight in the Next Life
@@ -125,6 +126,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/33877608)
 2|[Link](https://ani.social/post/34181376)
+3|[Link](https://ani.social/post/34472219)
 {.dense}
 
 ## Katainaka no Ossan, Kensei ni Naru II • From Old Country Bumpkin to Master Swordsman Season 2
