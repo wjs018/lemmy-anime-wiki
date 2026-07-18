@@ -176,7 +176,7 @@ These shows have had episodes air already, but no thread was created because the
 | TOMICA and TOM Season 2 | TOMICA and TOM Season 2 | https://anilist.co/anime/213097 | Episode 1 |
 | Tetsunabe no Jan! | Tetsunabe no Jan! | https://anilist.co/anime/204060 | Episode 2 |
 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season | The Beginning After the End Season 2 | https://anilist.co/anime/194317 | Episode 12 |
-| Neko to Ryuu | The Cat and the Dragon | https://anilist.co/anime/186863 | Episode 3 |
+| Neko to Ryuu | The Cat and the Dragon | https://anilist.co/anime/186863 | Episode 4 |
 | Kuroneko to Majo no Kyoushitsu | The Classroom of the Black Cat and a Witch | https://anilist.co/anime/196974 | Episode 14 |
 | Kami no Shizuku | The Drops of God | https://anilist.co/anime/202508 | Episode 15 |
 | "Kimi wo Aisuru Ki wa nai" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu | The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration | https://anilist.co/anime/208225 | Episode 2 |
