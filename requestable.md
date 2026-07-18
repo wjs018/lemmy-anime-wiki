@@ -26,7 +26,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Hanaori-san wa Tensei Shite mo Kenka ga Shitai | Hanaori-san Still Wants to Fight in the Next Life | https://anilist.co/anime/199066 | [Link](https://ani.social/post/34183569) |
 | Kimi ga Shinu made Koi wo Shitai | I Want to Love You Till Your Dying Day | https://anilist.co/anime/187260 | [Link](https://ani.social/post/34300931) |
 | Ibitte Konai Gibo to Gishi | Ibitte Konai Gibo to Gishi | https://anilist.co/anime/196356 | [Link](https://ani.social/post/34346924) |
-| Tenmaku no Jaadugar | Jaadugar: A Witch in Mongolia | https://anilist.co/anime/190569 | [Link](https://ani.social/post/34180305) |
+| Tenmaku no Jaadugar | Jaadugar: A Witch in Mongolia | https://anilist.co/anime/190569 | [Link](https://ani.social/post/34470913) |
 | Otome Kaijuu Caramelise | KAIJU GIRL CARAMELISE | https://anilist.co/anime/204466 | [Link](https://ani.social/post/34394364) |
 | Kabushiki Gaisha Magi Lumiere 2nd Season | Kabushiki Gaisha Magi Lumiere 2nd Season | https://anilist.co/anime/185692 | [Link](https://ani.social/post/34181376) |
 | Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season | Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season | https://anilist.co/anime/200637 | [Link](https://ani.social/post/34218163) |
@@ -83,7 +83,7 @@ These shows have had episodes air already, but no thread was created because the
 | Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou | Clevatess Season 2 | https://anilist.co/anime/198946 | Episode 2 |
 | Bai Ri Cheng Wang | Crowned in a Hundred Days | https://anilist.co/anime/213484 | Episode 8 |
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | Episode 38 |
-| Yomi no Tsugai | Daemons of the Shadow Realm | https://anilist.co/anime/195600 | Episode 14 |
+| Yomi no Tsugai | Daemons of the Shadow Realm | https://anilist.co/anime/195600 | Episode 15 |
 | Dao Yao Xing | Dao Yao Xing | https://anilist.co/anime/207534 | Episode 33 |
 | Reiwa no Dara-san | Dara-san of Reiwa | https://anilist.co/anime/203880 | Episode 3 |
 | Diamond no Ace act II: Second Season | Diamond no Ace act II: Second Season | https://anilist.co/anime/177634 | Episode 13 |
