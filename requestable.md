@@ -118,7 +118,6 @@ These shows have had episodes air already, but no thread was created because the
 | Kill Ao | Kill Ao | https://anilist.co/anime/198113 | Episode 12 |
 | Kimi to Hanabi to Yakusoku to | Kimi to Hanabi to Yakusoku to | https://anilist.co/anime/206819 | Episode 1 |
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 41 |
-| Komekami! Girls | Komekami! Girls | https://anilist.co/anime/209940 | Episode 12 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 67 |
 | Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 14 |
 | Kami no Niwatsuki Kusunoki-tei  | Kusunoki's Garden of Gods | https://anilist.co/anime/196029 | Episode 12 |
@@ -130,7 +129,6 @@ These shows have had episodes air already, but no thread was created because the
 | Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | https://anilist.co/anime/185875 | Episode 3 |
 | Mahou no Shimai Lulutto Lilly | Mahou no Shimai Lulutto Lilly | https://anilist.co/anime/178749 | Episode 12 |
 | Majo no Tani no Yoru | Majo no Tani no Yoru | https://anilist.co/anime/211232 | Episode 1 |
-| Mata Korosarete Shimatta no desu ne, Tantei-sama | Mata Korosarete Shimatta no desu ne, Tantei-sama | https://anilist.co/anime/202381 | Episode 12 |
 | Mebius Dust | Mebius Dust | https://anilist.co/anime/108992 | Episode 2 |
 | Mu Shen Ji 4 | Mu Shen Ji 4 | https://anilist.co/anime/211181 | Episode 14 |
 | NEEDY GIRL OVERDOSE | NEEDY GIRL OVERDOSE | https://anilist.co/anime/202102 | Episode 13 |
