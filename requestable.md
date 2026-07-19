@@ -142,7 +142,7 @@ These shows have had episodes air already, but no thread was created because the
 | ONE PIECE HEROINES | ONE PIECE HEROINES | https://anilist.co/anime/197178 | Episode 1 |
 | Odekake Kozame Season 2 | Odekake Kozame Season 2 | https://anilist.co/anime/204269 | Episode 15 |
 | Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken | Oh Boy, Was I Wrong About Her | https://anilist.co/anime/169583 | Episode 2 |
-| Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 15 |
+| Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 16 |
 | Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season | Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season | https://anilist.co/anime/170019 | Episode 12 |
 | Pan no Akachan (TV) | Pan no Akachan (TV) | https://anilist.co/anime/212308 | Episode 3 |
 | Perfect Addiction | Perfect Addiction | https://anilist.co/anime/213666 | Episode 2 |
@@ -171,7 +171,7 @@ These shows have had episodes air already, but no thread was created because the
 | Soreike! Anpanman: Pantan to Yakusoku no Hoshi | Soreike! Anpanman: Pantan to Yakusoku no Hoshi | https://anilist.co/anime/206682 | Episode 1 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 162 |
 | Yamato yo Towa ni: REBEL3199 | Star Blazers: Space Battleship Yamato 3199 | https://anilist.co/anime/144779 | Episode 19 |
-| Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 24 |
+| Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 25 |
 | TOMICA and TOM Season 2 | TOMICA and TOM Season 2 | https://anilist.co/anime/213097 | Episode 1 |
 | Tetsunabe no Jan! | Tetsunabe no Jan! | https://anilist.co/anime/204060 | Episode 2 |
 | Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season | The Beginning After the End Season 2 | https://anilist.co/anime/194317 | Episode 12 |
