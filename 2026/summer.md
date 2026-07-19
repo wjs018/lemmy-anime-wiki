@@ -298,6 +298,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/33911727)
 2|[Link](https://ani.social/post/34217048)
+3|[Link](https://ani.social/post/34507188)
 {.dense}
 
 ## Sora wa Akai Kawa no Hotori
