@@ -63,7 +63,7 @@ These shows have had episodes air already, but no thread was created because the
 | 20001-nen Chikyuu no Tabi | 20001 An Earth Odyssey | https://anilist.co/anime/214067 | Episode 1 |
 | Awajima Hyakkei | A Hundred Scenes of AWAJIMA | https://anilist.co/anime/177501 | Episode 12 |
 | Azur Lane: Bisoku Zenshin! Ni!! | Anime AzurLane: Slow Ahead! Season 2 | https://anilist.co/anime/169080 | Episode 2 |
-| Aware! Meisaku-kun (2026) | Aware! Meisaku-kun (2026) | https://anilist.co/anime/205116 | Episode 2 |
+| Aware! Meisaku-kun (2026) | Aware! Meisaku-kun (2026) | https://anilist.co/anime/205116 | Episode 3 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 130 |
 | BLACK TORCH | BLACK TORCH | https://anilist.co/anime/187538 | Episode 3 |
 | Bananya At-Home Party | Bananya At-Home Party | https://anilist.co/anime/213750 | Episode 2 |
