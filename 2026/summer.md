@@ -289,6 +289,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/33904379)
 2|[Link](https://ani.social/post/34209517)
+3|[Link](https://ani.social/post/34499972)
 {.dense}
 
 ## Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha • The World's Strongest Rearguard
