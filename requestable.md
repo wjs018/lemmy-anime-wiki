@@ -126,7 +126,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 15 |
 | Kami no Niwatsuki Kusunoki-tei  | Kusunoki's Garden of Gods | https://anilist.co/anime/196029 | Episode 12 |
 | LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 15 |
-| Let's Go Kaikigumi | Let's Go Kaikigumi | https://anilist.co/anime/200230 | Episode 2 |
+| Let's Go Kaikigumi | Let's Go Kaikigumi | https://anilist.co/anime/200230 | Episode 3 |
 | Guimi Zhi Zhu Specials | Lord of Mysteries Specials | https://anilist.co/anime/199448 | Episode 3 |
 | MAO | MAO | https://anilist.co/anime/196012 | Episode 15 |
 | MARRIAGETOXIN | MARRIAGETOXIN | https://anilist.co/anime/199547 | Episode 13 |
