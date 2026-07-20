@@ -101,6 +101,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ghost Concert: missing Songs | GHOST CONCERT : missing Songs | https://anilist.co/anime/201090 | Episode 13 |
 | Otaku ni Yasashii Gal wa Inai!? | Gals Can't Be Kind to Otaku!? | https://anilist.co/anime/199588 | Episode 12 |
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | Episode 15 |
+| Grand Blue Season 3 | Grand Blue Season 3 | https://anilist.co/anime/199111 | Episode 3 |
 | Hanazakari no Kimitachi e 2nd Season | Hana-Kimi Season 2 | https://anilist.co/anime/209669 | Episode 4 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 665 |
 | Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season | Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season | https://anilist.co/anime/209983 | Episode 3 |
@@ -204,7 +205,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | BLEACH: Sennen Kessen-hen - Kashin-tan | BLEACH: Thousand-Year Blood War - The Calamity | https://anilist.co/anime/185874 | July 25 at 14:00 |
 | Chiikawa: Ningyo no Shima no Himitsu | Chiikawa: Ningyo no Shima no Himitsu | https://anilist.co/anime/202717 | July 23 at 15:00 |
 | Crayon Shin-chan: Kikikaikai! Ora no Youkai Vacation | Crayon Shin-chan: Kikikaikai! Ora no Youkai Vacation | https://anilist.co/anime/208829 | July 30 at 15:00 |
-| Grand Blue Season 3 | Grand Blue Season 3 | https://anilist.co/anime/199111 | July 20 at 16:00 |
 | Li Xiongmao | Li Xiongmao | https://anilist.co/anime/211220 | July 29 at 01:00 |
 | Yi Nian Yongheng 4 | Yi Nian Yongheng 4 | https://anilist.co/anime/199409 | July 21 at 15:00 |
 {.dense}
