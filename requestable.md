@@ -107,7 +107,7 @@ These shows have had episodes air already, but no thread was created because the
 | Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season | Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season | https://anilist.co/anime/209983 | Episode 3 |
 | Heroine? Seijo? Iie, All Works Maid desu (Ko)! | Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)! | https://anilist.co/anime/192800 | Episode 4 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 375 |
-| Honoo no Toukyuujyo Dodge Danko | Honoo no Toukyuujyo Dodge Danko | https://anilist.co/anime/195833 | Episode 2 |
+| Honoo no Toukyuujyo Dodge Danko | Honoo no Toukyuujyo Dodge Danko | https://anilist.co/anime/195833 | Episode 3 |
 | Hyakki Yakou Shou | Hyakki Yakou Shou | https://anilist.co/anime/207675 | Episode 12 |
 | Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita. | I Became a Legend After My 10 Year-Long Last Stand | https://anilist.co/anime/199748 | Episode 3 |
 | Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta | I Made Friends with the Second Prettiest Girl in My Class | https://anilist.co/anime/169580 | Episode 12 |
@@ -177,7 +177,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kuroneko to Majo no Kyoushitsu | The Classroom of the Black Cat and a Witch | https://anilist.co/anime/196974 | Episode 15 |
 | Kami no Shizuku | The Drops of God | https://anilist.co/anime/202508 | Episode 15 |
 | "Kimi wo Aisuru Ki wa nai" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu | The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration | https://anilist.co/anime/208225 | Episode 3 |
-| Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita | The Forsaken Saintess and Her Foodie Roadtrip in Another World | https://anilist.co/anime/209504 | Episode 2 |
+| Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita | The Forsaken Saintess and Her Foodie Roadtrip in Another World | https://anilist.co/anime/209504 | Episode 3 |
 | Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru | The Insipid Prince's Furtive Grab for the Throne | https://anilist.co/anime/169582 | Episode 3 |
 | Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2 | The Most Heretical Last Boss Queen: From Villainess to Savior Season 2 | https://anilist.co/anime/195268 | Episode 12 |
 | Oni no Hanayome | The Ogre's Bride | https://anilist.co/anime/194219 | Episode 3 |
@@ -204,5 +204,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Zeri Feisheng | A Good Day to Ascend | https://anilist.co/anime/214260 | July 25 at 02:00 |
 | BLEACH: Sennen Kessen-hen - Kashin-tan | BLEACH: Thousand-Year Blood War - The Calamity | https://anilist.co/anime/185874 | July 25 at 14:00 |
 | Chiikawa: Ningyo no Shima no Himitsu | Chiikawa: Ningyo no Shima no Himitsu | https://anilist.co/anime/202717 | July 23 at 15:00 |
+| Crayon Shin-chan: Kikikaikai! Ora no Youkai Vacation | Crayon Shin-chan: Kikikaikai! Ora no Youkai Vacation | https://anilist.co/anime/208829 | July 30 at 15:00 |
 | Yi Nian Yongheng 4 | Yi Nian Yongheng 4 | https://anilist.co/anime/199409 | July 21 at 15:00 |
 {.dense}
