@@ -56,6 +56,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/34218929)
+2|[Link](https://ani.social/post/34544225)
 {.dense}
 
 ## Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II • Skeleton Knight in Another World Season 2
