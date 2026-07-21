@@ -67,7 +67,6 @@ These shows have had episodes air already, but no thread was created because the
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 130 |
 | BLACK TORCH | BLACK TORCH | https://anilist.co/anime/187538 | Episode 3 |
 | Bananya At-Home Party | Bananya At-Home Party | https://anilist.co/anime/213750 | Episode 2 |
-| Guangyin Zhi Wai | Beyond Time's Gaze | https://anilist.co/anime/205905 | Episode 26 |
 | Guangyin Zhi Wai 2 | Beyond Time's Gaze 2 | https://anilist.co/anime/213356 | Episode 5 |
 | Kamiina Botan, Yoeru Sugata wa Yuri no Hana | Botan Kamiina Fully Blossoms When Drunk | https://anilist.co/anime/187869 | Episode 12 |
 | Bungou Stray Dogs Wan! 2 | Bungo Stray Dogs WAN! 2 | https://anilist.co/anime/201667 | Episode 3 |
