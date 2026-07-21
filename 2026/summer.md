@@ -146,6 +146,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/33995946)
 2|[Link](https://ani.social/post/34300931)
+3|[Link](https://ani.social/post/34593060)
 {.dense}
 
 ## Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season
