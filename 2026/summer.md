@@ -352,6 +352,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/34002729)
 2|[Link](https://ani.social/post/34307036)
+3|[Link](https://ani.social/post/34598829)
 {.dense}
 
 ## Tenmaku no Jaadugar • Jaadugar: A Witch in Mongolia
