@@ -115,7 +115,7 @@ These shows have had episodes air already, but no thread was created because the
 | Iwamoto-senpai no Suisen | Iwamoto-senpai no Suisen | https://anilist.co/anime/206249 | Episode 3 |
 | Jiaonang Jihua: Qiji | Jiaonang Jihua: Qiji | https://anilist.co/anime/213703 | Episode 2 |
 | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season | https://anilist.co/anime/198939 | Episode 12 |
-| Jueshi Zhan Hun 2 | Jueshi Zhan Hun 2 | https://anilist.co/anime/213188 | Episode 6 |
+| Jueshi Zhan Hun 2 | Jueshi Zhan Hun 2 | https://anilist.co/anime/213188 | Episode 7 |
 | Kill Ao | Kill Ao | https://anilist.co/anime/198113 | Episode 12 |
 | Kimi to Hanabi to Yakusoku to | Kimi to Hanabi to Yakusoku to | https://anilist.co/anime/206819 | Episode 1 |
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 41 |
@@ -184,7 +184,7 @@ These shows have had episodes air already, but no thread was created because the
 | Otomege Sekai wa Mob ni Kibishii Sekai desu 2 | Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2 | https://anilist.co/anime/159309 | Episode 2 |
 | Unanswered//butterfly: Sword Art Online | Unanswered//butterfly: Sword Art Online | https://anilist.co/anime/208754 | Episode 1 |
 | Mairimashita! Iruma-kun 4 | Welcome to Demon School! Iruma-kun Season 4 | https://anilist.co/anime/184492 | Episode 16 |
-| Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 399 |
+| Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 400 |
 | Yoroi Shinden Samurai Troopers Part 2 | Yoroi-Shinden Samurai Troopers Cour 2 | https://anilist.co/anime/209800 | Episode 2 |
 | Youjo Shenki 2 | Youjo Shenki 2 | https://anilist.co/anime/213961 | Episode 2 |
 | Yowa Yowa Sensei | Yowayowa Sensei | https://anilist.co/anime/185211 | Episode 12 |
