@@ -187,7 +187,7 @@ These shows have had episodes air already, but no thread was created because the
 | Youjo Shenki 2 | Youjo Shenki 2 | https://anilist.co/anime/213961 | Episode 2 |
 | Yowa Yowa Sensei | Yowayowa Sensei | https://anilist.co/anime/185211 | Episode 12 |
 | Yozakura-san Chi no Daisakusen 2nd Season | Yozakura-san Chi no Daisakusen 2nd Season | https://anilist.co/anime/182578 | Episode 12 |
-| mofusand | mofusand | https://anilist.co/anime/204656 | Episode 28 |
+| mofusand | mofusand | https://anilist.co/anime/204656 | Episode 29 |
 {.dense}
 
 ## Upcoming Shows
