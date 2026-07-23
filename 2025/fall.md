@@ -170,7 +170,7 @@ Episode|Link|Episode|Link|Episode|Link
 13|[Link](https://ani.social/post/25250355)|26|[Link](https://ani.social/post/29680498)|39|[Link](https://ani.social/post/33788713)
 14|[Link](https://ani.social/post/25842804)|27|[Link](https://ani.social/post/29989530)|40|[Link](https://ani.social/post/34087991)
 15|[Link](https://ani.social/post/26058342)|28|[Link](https://ani.social/post/30313160)|41|[Link](https://ani.social/post/34386264)
-16|[Link](https://ani.social/post/26407918)|29|[Link](https://ani.social/post/30633738)
+16|[Link](https://ani.social/post/26407918)|29|[Link](https://ani.social/post/30633738)|42|[Link](https://ani.social/post/34684544)
 17|[Link](https://ani.social/post/26769638)|30|[Link](https://ani.social/post/30941559)
 18|[Link](https://ani.social/post/27138806)|31|[Link](https://ani.social/post/31261324)
 19|[Link](https://ani.social/post/27491298)|32|[Link](https://ani.social/post/31584928)
