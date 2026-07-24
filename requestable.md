@@ -46,7 +46,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha | The World's Strongest Rearguard | https://anilist.co/anime/198409 | [Link](https://ani.social/post/34507188) |
 | Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den | Though I Am an Inept Villainess | https://anilist.co/anime/188139 | [Link](https://ani.social/post/34544225) |
 | Thunder 3 | Thunder 3 | https://anilist.co/anime/207254 | [Link](https://ani.social/post/34645431) |
-| Ushiro no Shoumen Kamui-san | Ushiro no Shoumen Kamui-san | https://anilist.co/anime/207674 | [Link](https://ani.social/post/34437379) |
 | Tefuda ga Oume no Victoria | Victoria of Many Faces | https://anilist.co/anime/198709 | [Link](https://ani.social/post/34598829) |
 | World Is Dancing | World Is Dancing | https://anilist.co/anime/206521 | [Link](https://ani.social/post/34550066) |
 | Seihantai na Kimi to Boku 2nd Season | You and I Are Polar Opposites Season 2 | https://anilist.co/anime/210031 | [Link](https://ani.social/post/34499972) |
@@ -194,4 +193,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Jiyi Guanli Ju | False Memory | https://anilist.co/anime/141953 | August 02 at 04:00 |
 | Li Xiongmao | Li Xiongmao | https://anilist.co/anime/211220 | July 29 at 01:00 |
 | Rusuban | Rusuban | https://anilist.co/anime/213908 | July 31 at 15:00 |
+| Ushiro no Shoumen Kamui-san | Ushiro no Shoumen Kamui-san | https://anilist.co/anime/207674 | July 24 at 17:30 |
 {.dense}
