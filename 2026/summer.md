@@ -235,6 +235,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/34429629)
+2|[Link](https://ani.social/post/34732744)
 {.dense}
 
 ## Nijusseiki Denki Mokuroku: Eureka・Evrika • Sparks of Tomorrow
