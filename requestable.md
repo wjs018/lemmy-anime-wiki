@@ -23,7 +23,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Sayonara Lara | Goodbye, Lara | https://anilist.co/anime/177637 | [Link](https://ani.social/post/34513982) |
 | Hanaori-san wa Tensei Shite mo Kenka ga Shitai | Hanaori-san Still Wants to Fight in the Next Life | https://anilist.co/anime/199066 | [Link](https://ani.social/post/34475208) |
 | Kimi ga Shinu made Koi wo Shitai | I Want to Love You Till Your Dying Day | https://anilist.co/anime/187260 | [Link](https://ani.social/post/34593060) |
-| Tenmaku no Jaadugar | Jaadugar: A Witch in Mongolia | https://anilist.co/anime/190569 | [Link](https://ani.social/post/34470913) |
 | Otome Kaijuu Caramelise | KAIJU GIRL CARAMELISE | https://anilist.co/anime/204466 | [Link](https://ani.social/post/34692612) |
 | Kabushiki Gaisha Magi Lumiere 2nd Season | Kabushiki Gaisha Magi Lumiere 2nd Season | https://anilist.co/anime/185692 | [Link](https://ani.social/post/34472219) |
 | Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season | Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season | https://anilist.co/anime/200637 | [Link](https://ani.social/post/34508841) |
@@ -81,7 +80,7 @@ These shows have had episodes air already, but no thread was created because the
 | Bai Ri Cheng Wang | Crowned in a Hundred Days | https://anilist.co/anime/213484 | Episode 10 |
 | Cyborg 009: Nemesis | Cyborg 009: Nemesis | https://anilist.co/anime/196223 | Episode 3 |
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | Episode 39 |
-| Yomi no Tsugai | Daemons of the Shadow Realm | https://anilist.co/anime/195600 | Episode 15 |
+| Yomi no Tsugai | Daemons of the Shadow Realm | https://anilist.co/anime/195600 | Episode 16 |
 | Reiwa no Dara-san | Dara-san of Reiwa | https://anilist.co/anime/203880 | Episode 4 |
 | Diamond no Ace act II: Second Season | Diamond no Ace act II: Second Season | https://anilist.co/anime/177634 | Episode 13 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 925 |
@@ -189,6 +188,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Boku no Hero Academia: I am a hero too | Boku no Hero Academia: I am a hero too | https://anilist.co/anime/211711 | August 02 at 15:00 |
 | Crayon Shin-chan: Kikikaikai! Ora no Youkai Vacation | Crayon Shin-chan: Kikikaikai! Ora no Youkai Vacation | https://anilist.co/anime/208829 | July 30 at 15:00 |
 | Jiyi Guanli Ju | False Memory | https://anilist.co/anime/141953 | August 02 at 04:00 |
+| Tenmaku no Jaadugar | Jaadugar: A Witch in Mongolia | https://anilist.co/anime/190569 | July 25 at 15:30 |
 | Li Xiongmao | Li Xiongmao | https://anilist.co/anime/211220 | July 29 at 01:00 |
 | Rusuban | Rusuban | https://anilist.co/anime/213908 | July 31 at 15:00 |
 | Star Wars: Visions - Kyuuninme no Jedi | Star Wars: Visions Presents - The Ninth Jedi | https://anilist.co/anime/213847 | August 04 at 15:00 |
