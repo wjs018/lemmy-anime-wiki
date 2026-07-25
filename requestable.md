@@ -134,7 +134,6 @@ These shows have had episodes air already, but no thread was created because the
 | Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 16 |
 | Pan no Akachan (TV) | Pan no Akachan (TV) | https://anilist.co/anime/212308 | Episode 4 |
 | Perfect Addiction | Perfect Addiction | https://anilist.co/anime/213666 | Episode 3 |
-| Reincarnation no Kaben | Petals of Reincarnation | https://anilist.co/anime/179950 | Episode 13 |
 | PetitCure: Precure Fairies Season 3 | PetitCure: Precure Fairies Season 3 | https://anilist.co/anime/209541 | Episode 18 |
 | Plannosaurus Gachi Koseibutsu-bu | Plannosaurus Gachi Koseibutsu-bu | https://anilist.co/anime/208824 | Episode 2 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 143 |
@@ -162,7 +161,7 @@ These shows have had episodes air already, but no thread was created because the
 | "Kimi wo Aisuru Ki wa nai" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu | The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration | https://anilist.co/anime/208225 | Episode 3 |
 | Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita | The Forsaken Saintess and Her Foodie Roadtrip in Another World | https://anilist.co/anime/209504 | Episode 3 |
 | Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru | The Insipid Prince's Furtive Grab for the Throne | https://anilist.co/anime/169582 | Episode 3 |
-| Oni no Hanayome | The Ogre's Bride | https://anilist.co/anime/194219 | Episode 3 |
+| Oni no Hanayome | The Ogre's Bride | https://anilist.co/anime/194219 | Episode 4 |
 | LV999 no Murabito | The Villager of Level 999 | https://anilist.co/anime/197715 | Episode 5 |
 | Yami Shibai 17 | Theatre of Darkness: Yamishibai 17 | https://anilist.co/anime/213359 | Episode 2 |
 | Transformers: Wild King W | Transformers: Wild King W | https://anilist.co/anime/212309 | Episode 5 |
