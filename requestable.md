@@ -97,6 +97,7 @@ These shows have had episodes air already, but no thread was created because the
 | Grand Blue Season 3 | Grand Blue Season 3 | https://anilist.co/anime/199111 | Episode 3 |
 | Hanazakari no Kimitachi e 2nd Season | Hana-Kimi Season 2 | https://anilist.co/anime/209669 | Episode 5 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 666 |
+| Hanaori-san wa Tensei Shite mo Kenka ga Shitai | Hanaori-san Still Wants to Fight in the Next Life | https://anilist.co/anime/199066 | Episode 3 |
 | Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season | Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season | https://anilist.co/anime/209983 | Episode 4 |
 | Heroine? Seijo? Iie, All Works Maid desu (Ko)! | Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)! | https://anilist.co/anime/192800 | Episode 5 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 375 |
@@ -186,7 +187,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Boku no Hero Academia: I am a hero too | Boku no Hero Academia: I am a hero too | https://anilist.co/anime/211711 | August 02 at 15:00 |
 | Crayon Shin-chan: Kikikaikai! Ora no Youkai Vacation | Crayon Shin-chan: Kikikaikai! Ora no Youkai Vacation | https://anilist.co/anime/208829 | July 30 at 15:00 |
 | Jiyi Guanli Ju | False Memory | https://anilist.co/anime/141953 | August 02 at 04:00 |
-| Hanaori-san wa Tensei Shite mo Kenka ga Shitai | Hanaori-san Still Wants to Fight in the Next Life | https://anilist.co/anime/199066 | July 25 at 17:00 |
 | Li Xiongmao | Li Xiongmao | https://anilist.co/anime/211220 | July 29 at 01:00 |
 | Rusuban | Rusuban | https://anilist.co/anime/213908 | July 31 at 15:00 |
 | Star Wars: Visions - Kyuuninme no Jedi | Star Wars: Visions Presents - The Ninth Jedi | https://anilist.co/anime/213847 | August 04 at 15:00 |
