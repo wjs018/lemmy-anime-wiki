@@ -81,7 +81,7 @@ These shows have had episodes air already, but no thread was created because the
 | Reiwa no Dara-san | Dara-san of Reiwa | https://anilist.co/anime/203880 | Episode 4 |
 | Diamond no Ace act II: Second Season | Diamond no Ace act II: Second Season | https://anilist.co/anime/177634 | Episode 13 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 925 |
-| Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | Episode 51 |
+| Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | Episode 52 |
 | Sazin no Nakade | Dust of the Simulacrum | https://anilist.co/anime/214070 | Episode 1 |
 | Moshi, Korekara Umarerunonara | Echo | https://anilist.co/anime/214068 | Episode 1 |
 | Yun Shen Buzhi Meng Special: Zhu Ming Zhi Yi | Eclipse of Illusion SP: The Miasma War | https://anilist.co/anime/213297 | Episode 6 |
@@ -168,7 +168,7 @@ These shows have had episodes air already, but no thread was created because the
 | Unanswered//butterfly: Sword Art Online | Unanswered//butterfly: Sword Art Online | https://anilist.co/anime/208754 | Episode 1 |
 | Ushiro no Shoumen Kamui-san | Ushiro no Shoumen Kamui-san | https://anilist.co/anime/207674 | Episode 4 |
 | Mairimashita! Iruma-kun 4 | Welcome to Demon School! Iruma-kun Season 4 | https://anilist.co/anime/184492 | Episode 17 |
-| Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 400 |
+| Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 401 |
 | Yi Nian Yongheng 4 | Yi Nian Yongheng 4 | https://anilist.co/anime/199409 | Episode 1 |
 | Yoroi Shinden Samurai Troopers Part 2 | Yoroi-Shinden Samurai Troopers Cour 2 | https://anilist.co/anime/209800 | Episode 3 |
 | Youjo Shenki 2 | Youjo Shenki 2 | https://anilist.co/anime/213961 | Episode 3 |
