@@ -126,7 +126,7 @@ These shows have had episodes air already, but no thread was created because the
 | NEEDY GIRL OVERDOSE | NEEDY GIRL OVERDOSE | https://anilist.co/anime/202102 | Episode 13 |
 | Nezumi-kun no Chokki (TV) | Nezumi-kun no Chokki (TV) | https://anilist.co/anime/198411 | Episode 13 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 226 |
-| ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1170 |
+| ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1171 |
 | ONE PIECE HEROINES | ONE PIECE HEROINES | https://anilist.co/anime/197178 | Episode 1 |
 | Odekake Kozame Season 2 | Odekake Kozame Season 2 | https://anilist.co/anime/204269 | Episode 16 |
 | Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken | Oh Boy, Was I Wrong About Her | https://anilist.co/anime/169583 | Episode 3 |
@@ -150,12 +150,11 @@ These shows have had episodes air already, but no thread was created because the
 | Shou 3 Ashibe QQ Goma-chan | Shou 3 Ashibe QQ Goma-chan | https://anilist.co/anime/202386 | Episode 16 |
 | Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II | Skeleton Knight in Another World Season 2 | https://anilist.co/anime/185542 | Episode 3 |
 | Snack HAZAMA | Snack HAZAMA | https://anilist.co/anime/213831 | Episode 4 |
-| Snowball Earth | Snowball Earth | https://anilist.co/anime/196144 | Episode 13 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 163 |
 | Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 26 |
 | TOMICA and TOM Season 2 | TOMICA and TOM Season 2 | https://anilist.co/anime/213097 | Episode 1 |
 | Tetsunabe no Jan! | Tetsunabe no Jan! | https://anilist.co/anime/204060 | Episode 4 |
-| Kuroneko to Majo no Kyoushitsu | The Classroom of the Black Cat and a Witch | https://anilist.co/anime/196974 | Episode 15 |
+| Kuroneko to Majo no Kyoushitsu | The Classroom of the Black Cat and a Witch | https://anilist.co/anime/196974 | Episode 16 |
 | Kami no Shizuku | The Drops of God | https://anilist.co/anime/202508 | Episode 16 |
 | "Kimi wo Aisuru Ki wa nai" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu | The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration | https://anilist.co/anime/208225 | Episode 4 |
 | Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita | The Forsaken Saintess and Her Foodie Roadtrip in Another World | https://anilist.co/anime/209504 | Episode 3 |
