@@ -44,6 +44,7 @@ Episode|Link
 1|[Link](https://ani.social/post/33955518)
 2|[Link](https://ani.social/post/34260694)
 3|[Link](https://ani.social/post/34551225)
+4|[Link](https://ani.social/post/34856205)
 {.dense}
 
 ## Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou • Clevatess Season 2
