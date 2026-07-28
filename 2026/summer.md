@@ -333,6 +333,7 @@ Episode|Link
 1|[Link](https://ani.social/post/34006278)
 2|[Link](https://ani.social/post/34310507)
 3|[Link](https://ani.social/post/34603140)
+4|[Link](https://ani.social/post/34909927)
 {.dense}
 
 ## Super no Ura de Yani Suu Futari • Smoking Behind the Supermarket with You
