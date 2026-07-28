@@ -162,6 +162,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yi Nian Yongheng 4 | Yi Nian Yongheng 4 | https://anilist.co/anime/199409 | Episode 1 |
 | Yoroi Shinden Samurai Troopers Part 2 | Yoroi-Shinden Samurai Troopers Cour 2 | https://anilist.co/anime/209800 | Episode 3 |
 | Youjo Shenki 2 | Youjo Shenki 2 | https://anilist.co/anime/213961 | Episode 3 |
+| Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai | Young Ladies Don't Play Fighting Games | https://anilist.co/anime/128757 | Episode 4 |
 | mofusand | mofusand | https://anilist.co/anime/204656 | Episode 29 |
 {.dense}
 
@@ -178,5 +179,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Li Xiongmao | Li Xiongmao | https://anilist.co/anime/211220 | July 29 at 01:00 |
 | Rusuban | Rusuban | https://anilist.co/anime/213908 | July 31 at 15:00 |
 | Star Wars: Visions - Kyuuninme no Jedi | Star Wars: Visions Presents - The Ninth Jedi | https://anilist.co/anime/213847 | August 04 at 15:00 |
-| Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai | Young Ladies Don't Play Fighting Games | https://anilist.co/anime/128757 | July 28 at 12:30 |
 {.dense}
