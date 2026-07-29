@@ -38,7 +38,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru | The Exiled Heavy Knight Knows How to Game the System | https://anilist.co/anime/180136 | [Link](https://ani.social/post/34690282) |
 | Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha | The World's Strongest Rearguard | https://anilist.co/anime/198409 | [Link](https://ani.social/post/34813852) |
 | Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den | Though I Am an Inept Villainess | https://anilist.co/anime/188139 | [Link](https://ani.social/post/34818047) |
-| Thunder 3 | Thunder 3 | https://anilist.co/anime/207254 | [Link](https://ani.social/post/34645431) |
 | Tefuda ga Oume no Victoria | Victoria of Many Faces | https://anilist.co/anime/198709 | [Link](https://ani.social/post/34906061) |
 | World Is Dancing | World Is Dancing | https://anilist.co/anime/206521 | [Link](https://ani.social/post/34855346) |
 | Seihantai na Kimi to Boku 2nd Season | You and I Are Polar Opposites Season 2 | https://anilist.co/anime/210031 | [Link](https://ani.social/post/34805510) |
@@ -178,4 +177,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Jiyi Guanli Ju | False Memory | https://anilist.co/anime/141953 | August 02 at 04:00 |
 | Rusuban | Rusuban | https://anilist.co/anime/213908 | July 31 at 15:00 |
 | Star Wars: Visions - Kyuuninme no Jedi | Star Wars: Visions Presents - The Ninth Jedi | https://anilist.co/anime/213847 | August 04 at 15:00 |
+| Thunder 3 | Thunder 3 | https://anilist.co/anime/207254 | July 29 at 16:44 |
 {.dense}
