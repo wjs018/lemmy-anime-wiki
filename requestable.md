@@ -162,7 +162,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yoroi Shinden Samurai Troopers Part 2 | Yoroi-Shinden Samurai Troopers Cour 2 | https://anilist.co/anime/209800 | Episode 4 |
 | Youjo Shenki 2 | Youjo Shenki 2 | https://anilist.co/anime/213961 | Episode 3 |
 | Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai | Young Ladies Don't Play Fighting Games | https://anilist.co/anime/128757 | Episode 4 |
-| mofusand | mofusand | https://anilist.co/anime/204656 | Episode 29 |
+| mofusand | mofusand | https://anilist.co/anime/204656 | Episode 30 |
 {.dense}
 
 ## Upcoming Shows
