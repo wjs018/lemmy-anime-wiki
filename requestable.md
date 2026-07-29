@@ -60,7 +60,7 @@ These shows have had episodes air already, but no thread was created because the
 | Bananya At-Home Party | Bananya At-Home Party | https://anilist.co/anime/213750 | Episode 2 |
 | Guangyin Zhi Wai 2 | Beyond Time's Gaze 2 | https://anilist.co/anime/213356 | Episode 6 |
 | Bungou Stray Dogs Wan! 2 | Bungo Stray Dogs WAN! 2 | https://anilist.co/anime/201667 | Episode 4 |
-| Candy Caries | Candy Caries | https://anilist.co/anime/205772 | Episode 15 |
+| Candy Caries | Candy Caries | https://anilist.co/anime/205772 | Episode 16 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1208 |
 | Ugoku! Neko Mukashi Banashi | Cat Tales | https://anilist.co/anime/188529 | Episode 42 |
 | Cheng Huang Lu | Cheng Huang Lu | https://anilist.co/anime/137664 | Episode 6 |
@@ -82,7 +82,7 @@ These shows have had episodes air already, but no thread was created because the
 | Replica Datte, Koi wo Suru. | Even a Replica Can Fall in Love | https://anilist.co/anime/186744 | Episode 13 |
 | FOXING: Kitsuné-tsuki | FOXING: Kitsuné-tsuki | https://anilist.co/anime/194029 | Episode 1 |
 | Fei Ren Zai 3 Part 2 | Fei Ren Zai 3 Part 2 | https://anilist.co/anime/211270 | Episode 12 |
-| Katainaka no Ossan, Kensei ni Naru II | From Old Country Bumpkin to Master Swordsman Season 2 | https://anilist.co/anime/194829 | Episode 3 |
+| Katainaka no Ossan, Kensei ni Naru II | From Old Country Bumpkin to Master Swordsman Season 2 | https://anilist.co/anime/194829 | Episode 4 |
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | Episode 15 |
 | Grand Blue Season 3 | Grand Blue Season 3 | https://anilist.co/anime/199111 | Episode 4 |
 | Hanazakari no Kimitachi e 2nd Season | Hana-Kimi Season 2 | https://anilist.co/anime/209669 | Episode 5 |
@@ -151,7 +151,7 @@ These shows have had episodes air already, but no thread was created because the
 | Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru | The Insipid Prince's Furtive Grab for the Throne | https://anilist.co/anime/169582 | Episode 4 |
 | Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu | The Oblivous Saint Can't Contain Her Power | https://anilist.co/anime/196219 | Episode 5 |
 | Oni no Hanayome | The Ogre's Bride | https://anilist.co/anime/194219 | Episode 4 |
-| LV999 no Murabito | The Villager of Level 999 | https://anilist.co/anime/197715 | Episode 5 |
+| LV999 no Murabito | The Villager of Level 999 | https://anilist.co/anime/197715 | Episode 6 |
 | Yami Shibai 17 | Theatre of Darkness: Yamishibai 17 | https://anilist.co/anime/213359 | Episode 3 |
 | Transformers: Wild King W | Transformers: Wild King W | https://anilist.co/anime/212309 | Episode 5 |
 | Otomege Sekai wa Mob ni Kibishii Sekai desu 2 | Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2 | https://anilist.co/anime/159309 | Episode 4 |
@@ -161,7 +161,7 @@ These shows have had episodes air already, but no thread was created because the
 | Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 402 |
 | Yi Nian Yongheng 4 | Yi Nian Yongheng 4 | https://anilist.co/anime/199409 | Episode 1 |
 | Yoroi Shinden Samurai Troopers Part 2 | Yoroi-Shinden Samurai Troopers Cour 2 | https://anilist.co/anime/209800 | Episode 4 |
-| Youjo Shenki 2 | Youjo Shenki 2 | https://anilist.co/anime/213961 | Episode 3 |
+| Youjo Shenki 2 | Youjo Shenki 2 | https://anilist.co/anime/213961 | Episode 4 |
 | Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai | Young Ladies Don't Play Fighting Games | https://anilist.co/anime/128757 | Episode 4 |
 | mofusand | mofusand | https://anilist.co/anime/204656 | Episode 30 |
 {.dense}
