@@ -15,7 +15,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
 | Honzuki no Gekokujou: Ryoushu no Youjo | Ascendance of a Bookworm: Adopted Daughter of an Archduke | https://anilist.co/anime/171110 | [Link](https://ani.social/post/34763504) |
-| BanG Dream! Yume∞Mita | BanG Dream! Yume∞Mita | https://anilist.co/anime/198376 | [Link](https://ani.social/post/34687002) |
+| BanG Dream! Yume∞Mita | BanG Dream! Yume∞Mita | https://anilist.co/anime/198376 | [Link](https://ani.social/post/34990343) |
 | Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu | Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu | https://anilist.co/anime/199408 | [Link](https://ani.social/post/34856205) |
 | Yani Neko | Chainsmoker Cat | https://anilist.co/anime/207141 | [Link](https://ani.social/post/34690284) |
 | Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | [Link](https://ani.social/post/34988055) |
@@ -67,6 +67,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 364 |
 | Chiikawa: Ningyo no Shima no Himitsu | Chiikawa: Ningyo no Shima no Himitsu | https://anilist.co/anime/202717 | Episode 1 |
 | Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou | Clevatess Season 2 | https://anilist.co/anime/198946 | Episode 4 |
+| Crayon Shin-chan: Kikikaikai! Ora no Youkai Vacation | Crayon Shin-chan: Kikikaikai! Ora no Youkai Vacation | https://anilist.co/anime/208829 | Episode 1 |
 | Bai Ri Cheng Wang | Crowned in a Hundred Days | https://anilist.co/anime/213484 | Episode 11 |
 | Cyborg 009: Nemesis | Cyborg 009: Nemesis | https://anilist.co/anime/196223 | Episode 3 |
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | Episode 40 |
@@ -91,7 +92,6 @@ These shows have had episodes air already, but no thread was created because the
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 376 |
 | Honoo no Toukyuujyo Dodge Danko | Honoo no Toukyuujyo Dodge Danko | https://anilist.co/anime/195833 | Episode 4 |
 | Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita. | I Became a Legend After My 10 Year-Long Last Stand | https://anilist.co/anime/199748 | Episode 4 |
-| Aishiteru Game wo Owarasetai | I Want to End this Love Game | https://anilist.co/anime/194393 | Episode 12 |
 | Kimi ga Shinu made Koi wo Shitai | I Want to Love You Till Your Dying Day | https://anilist.co/anime/187260 | Episode 4 |
 | Ibitte Konai Gibo to Gishi | Ibitte Konai Gibo to Gishi | https://anilist.co/anime/196356 | Episode 4 |
 | Iwamoto-senpai no Suisen | Iwamoto-senpai no Suisen | https://anilist.co/anime/206249 | Episode 4 |
@@ -108,7 +108,6 @@ These shows have had episodes air already, but no thread was created because the
 | Li Xiongmao | Li Xiongmao | https://anilist.co/anime/211220 | Episode 1 |
 | Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita. | Love Unseen Beneath the Clear Night Sky | https://anilist.co/anime/202269 | Episode 4 |
 | MAO | MAO | https://anilist.co/anime/196012 | Episode 17 |
-| MARRIAGETOXIN | MARRIAGETOXIN | https://anilist.co/anime/199547 | Episode 13 |
 | Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | https://anilist.co/anime/185875 | Episode 4 |
 | Majo no Tani no Yoru | Majo no Tani no Yoru | https://anilist.co/anime/211232 | Episode 1 |
 | Mebius Dust | Mebius Dust | https://anilist.co/anime/108992 | Episode 4 |
@@ -172,7 +171,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Boku no Hero Academia: I am a hero too | Boku no Hero Academia: I am a hero too | https://anilist.co/anime/211711 | August 02 at 15:00 |
-| Crayon Shin-chan: Kikikaikai! Ora no Youkai Vacation | Crayon Shin-chan: Kikikaikai! Ora no Youkai Vacation | https://anilist.co/anime/208829 | July 30 at 15:00 |
 | You Shou Yan 6th Season | Fabulous Beasts 6 | https://anilist.co/anime/213486 | August 05 at 02:00 |
 | Jiyi Guanli Ju | False Memory | https://anilist.co/anime/141953 | August 02 at 04:00 |
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | July 31 at 04:00 |
