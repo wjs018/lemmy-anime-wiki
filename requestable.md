@@ -121,7 +121,7 @@ These shows have had episodes air already, but no thread was created because the
 | Perfect Addiction | Perfect Addiction | https://anilist.co/anime/213666 | Episode 4 |
 | PetitCure: Precure Fairies Season 3 | PetitCure: Precure Fairies Season 3 | https://anilist.co/anime/209541 | Episode 19 |
 | Plannosaurus Gachi Koseibutsu-bu | Plannosaurus Gachi Koseibutsu-bu | https://anilist.co/anime/208824 | Episode 3 |
-| Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 143 |
+| Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 144 |
 | Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku | Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku | https://anilist.co/anime/208044 | Episode 6 |
 | Wei Miao Rensheng | Reborn as a Cat | https://anilist.co/anime/203710 | Episode 37 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 151 |
