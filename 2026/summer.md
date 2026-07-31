@@ -180,6 +180,7 @@ Episode|Link
 2|[Link](https://ani.social/post/34135536)
 3|[Link](https://ani.social/post/34432261)
 4|[Link](https://ani.social/post/34733854)
+5|[Link](https://ani.social/post/35033366)
 {.dense}
 
 ## Koukaku Kidoutai: THE GHOST IN THE SHELL • THE GHOST IN THE SHELL
@@ -245,6 +246,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/34429629)
 2|[Link](https://ani.social/post/34732744)
+3|[Link](https://ani.social/post/35033367)
 {.dense}
 
 ## Nijusseiki Denki Mokuroku: Eureka・Evrika • Sparks of Tomorrow
