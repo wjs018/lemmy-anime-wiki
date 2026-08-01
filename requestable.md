@@ -147,7 +147,7 @@ These shows have had episodes air already, but no thread was created because the
 | Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita | The Forsaken Saintess and Her Foodie Roadtrip in Another World | https://anilist.co/anime/209504 | Episode 4 |
 | Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru | The Insipid Prince's Furtive Grab for the Throne | https://anilist.co/anime/169582 | Episode 4 |
 | Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu | The Oblivous Saint Can't Contain Her Power | https://anilist.co/anime/196219 | Episode 5 |
-| Oni no Hanayome | The Ogre's Bride | https://anilist.co/anime/194219 | Episode 4 |
+| Oni no Hanayome | The Ogre's Bride | https://anilist.co/anime/194219 | Episode 5 |
 | LV999 no Murabito | The Villager of Level 999 | https://anilist.co/anime/197715 | Episode 6 |
 | Yami Shibai 17 | Theatre of Darkness: Yamishibai 17 | https://anilist.co/anime/213359 | Episode 3 |
 | Thunder 3 | Thunder 3 | https://anilist.co/anime/207254 | Episode 4 |
