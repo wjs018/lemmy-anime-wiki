@@ -133,7 +133,7 @@ These shows have had episodes air already, but no thread was created because the
 | Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita | Saved By the Ice Cold Prince's Embrace | https://anilist.co/anime/213665 | Episode 4 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2842 |
 | Shibou Yuugi de Meshi wo Kuu. 44:CLOUDY BEACH | Shibou Yuugi de Meshi wo Kuu. 44:CLOUDY BEACH | https://anilist.co/anime/209961 | Episode 1 |
-| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1345 |
+| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1346 |
 | Shou 3 Ashibe QQ Goma-chan | Shou 3 Ashibe QQ Goma-chan | https://anilist.co/anime/202386 | Episode 16 |
 | Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II | Skeleton Knight in Another World Season 2 | https://anilist.co/anime/185542 | Episode 4 |
 | Snack HAZAMA | Snack HAZAMA | https://anilist.co/anime/213831 | Episode 5 |
