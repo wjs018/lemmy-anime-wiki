@@ -87,6 +87,7 @@ Episode|Link
 2|[Link](https://ani.social/post/34181377)
 3|[Link](https://ani.social/post/34472220)
 4|[Link](https://ani.social/post/34776089)
+5|[Link](https://ani.social/post/35077102)
 {.dense}
 
 ## Hanaori-san wa Tensei Shite mo Kenka ga Shitai • Hanaori-san Still Wants to Fight in the Next Life
