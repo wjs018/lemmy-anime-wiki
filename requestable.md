@@ -173,5 +173,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Boku no Hero Academia: I am a hero too | Boku no Hero Academia: I am a hero too | https://anilist.co/anime/211711 | August 02 at 15:00 |
 | You Shou Yan 6th Season | Fabulous Beasts 6 | https://anilist.co/anime/213486 | August 05 at 02:00 |
+| Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | https://anilist.co/anime/210687 | August 12 at 14:30 |
 | Star Wars: Visions - Kyuuninme no Jedi | Star Wars: Visions Presents - The Ninth Jedi | https://anilist.co/anime/213847 | August 04 at 15:00 |
 {.dense}
