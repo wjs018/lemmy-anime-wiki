@@ -104,7 +104,7 @@ These shows have had episodes air already, but no thread was created because the
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 70 |
 | Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 17 |
 | LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 17 |
-| Let's Go Kaikigumi | Let's Go Kaikigumi | https://anilist.co/anime/200230 | Episode 4 |
+| Let's Go Kaikigumi | Let's Go Kaikigumi | https://anilist.co/anime/200230 | Episode 5 |
 | Li Xiongmao | Li Xiongmao | https://anilist.co/anime/211220 | Episode 1 |
 | Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita. | Love Unseen Beneath the Clear Night Sky | https://anilist.co/anime/202269 | Episode 4 |
 | MAO | MAO | https://anilist.co/anime/196012 | Episode 18 |
