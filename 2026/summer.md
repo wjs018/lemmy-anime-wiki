@@ -454,6 +454,7 @@ Episode|Link
 3|[Link](https://ani.social/post/34259813)
 4|[Link](https://ani.social/post/34550066)
 5|[Link](https://ani.social/post/34855346)
+6|[Link](https://ani.social/post/35154119)
 {.dense}
 
 ## Yani Neko • Chainsmoker Cat
