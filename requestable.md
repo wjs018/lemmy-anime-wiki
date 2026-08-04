@@ -36,7 +36,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Nige Jouzu no Wakagimi 2nd Season | The Elusive Samurai Season 2 | https://anilist.co/anime/182616 | [Link](https://ani.social/post/35033367) |
 | Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru | The Exiled Heavy Knight Knows How to Game the System | https://anilist.co/anime/180136 | [Link](https://ani.social/post/34993736) |
 | Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den | Though I Am an Inept Villainess | https://anilist.co/anime/188139 | [Link](https://ani.social/post/35117095) |
-| Tefuda ga Oume no Victoria | Victoria of Many Faces | https://anilist.co/anime/198709 | [Link](https://ani.social/post/35200341) |
+| Tefuda ga Oume no Victoria | Victoria of Many Faces | https://anilist.co/anime/198709 | [Link](https://ani.social/post/35199610) |
 | World Is Dancing | World Is Dancing | https://anilist.co/anime/206521 | [Link](https://ani.social/post/35154119) |
 | Seihantai na Kimi to Boku 2nd Season | You and I Are Polar Opposites Season 2 | https://anilist.co/anime/210031 | [Link](https://ani.social/post/35104222) |
 {.dense}
