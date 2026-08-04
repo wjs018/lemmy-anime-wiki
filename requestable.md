@@ -136,6 +136,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shou 3 Ashibe QQ Goma-chan | Shou 3 Ashibe QQ Goma-chan | https://anilist.co/anime/202386 | Episode 17 |
 | Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II | Skeleton Knight in Another World Season 2 | https://anilist.co/anime/185542 | Episode 5 |
 | Snack HAZAMA | Snack HAZAMA | https://anilist.co/anime/213831 | Episode 5 |
+| Sora wa Akai Kawa no Hotori | Sora wa Akai Kawa no Hotori | https://anilist.co/anime/207809 | Episode 5 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 164 |
 | Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 27 |
 | Star Wars: Visions - Kyuuninme no Jedi | Star Wars: Visions Presents - The Ninth Jedi | https://anilist.co/anime/213847 | Episode 1 |
@@ -173,5 +174,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | You Shou Yan 6th Season | Fabulous Beasts 6 | https://anilist.co/anime/213486 | August 05 at 02:00 |
 | Shiguang Dailiren III | Link Click Season 3 | https://anilist.co/anime/191832 | August 14 at 03:00 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | https://anilist.co/anime/210687 | August 12 at 14:30 |
-| Sora wa Akai Kawa no Hotori | Sora wa Akai Kawa no Hotori | https://anilist.co/anime/207809 | August 04 at 17:35 |
 {.dense}
