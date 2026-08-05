@@ -152,7 +152,7 @@ These shows have had episodes air already, but no thread was created because the
 | LV999 no Murabito | The Villager of Level 999 | https://anilist.co/anime/197715 | Episode 7 |
 | Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha | The World's Strongest Rearguard | https://anilist.co/anime/198409 | Episode 5 |
 | Yami Shibai 17 | Theatre of Darkness: Yamishibai 17 | https://anilist.co/anime/213359 | Episode 4 |
-| Thunder 3 | Thunder 3 | https://anilist.co/anime/207254 | Episode 4 |
+| Thunder 3 | Thunder 3 | https://anilist.co/anime/207254 | Episode 5 |
 | Transformers: Wild King W | Transformers: Wild King W | https://anilist.co/anime/212309 | Episode 5 |
 | Otomege Sekai wa Mob ni Kibishii Sekai desu 2 | Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2 | https://anilist.co/anime/159309 | Episode 5 |
 | Unanswered//butterfly: Sword Art Online | Unanswered//butterfly: Sword Art Online | https://anilist.co/anime/208754 | Episode 1 |
