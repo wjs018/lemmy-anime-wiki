@@ -427,6 +427,7 @@ Episode|Link
 3|[Link](https://ani.social/post/34392059)
 4|[Link](https://ani.social/post/34690282)
 5|[Link](https://ani.social/post/34993736)
+6|[Link](https://ani.social/post/35281830)
 {.dense}
 
 ## Uchi no Otouto-domo ga Sumimasen • Sorry About My Little Brothers
@@ -470,6 +471,7 @@ Episode|Link
 3|[Link](https://ani.social/post/34392060)
 4|[Link](https://ani.social/post/34690284)
 5|[Link](https://ani.social/post/34993737)
+6|[Link](https://ani.social/post/35281831)
 {.dense}
 
 ## Youjo Senki II • Saga of Tanya the Evil Season 2
