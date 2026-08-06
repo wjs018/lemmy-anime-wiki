@@ -21,7 +21,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | [Link](https://ani.social/post/35276501) |
 | Grow Up Show: Himawari no Circus-dan | GROW UP SHOW -Sunflower Circus- | https://anilist.co/anime/196017 | [Link](https://ani.social/post/35077102) |
 | Sayonara Lara | Goodbye, Lara | https://anilist.co/anime/177637 | [Link](https://ani.social/post/35118294) |
-| Otome Kaijuu Caramelise | KAIJU GIRL CARAMELISE | https://anilist.co/anime/204466 | [Link](https://ani.social/post/34995865) |
+| Otome Kaijuu Caramelise | KAIJU GIRL CARAMELISE | https://anilist.co/anime/204466 | [Link](https://ani.social/post/35283807) |
 | Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season | Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season | https://anilist.co/anime/200637 | [Link](https://ani.social/post/35112918) |
 | Kore Kaite Shine | Kore Kaite Shine | https://anilist.co/anime/188525 | [Link](https://ani.social/post/35033366) |
 | Mushoku Tensei III: Isekai Ittara Honki Dasu | Mushoku Tensei: Jobless Reincarnation Season 3 | https://anilist.co/anime/178789 | [Link](https://ani.social/post/35117145) |
