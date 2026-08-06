@@ -57,7 +57,7 @@ These shows have had episodes air already, but no thread was created because the
 | Bananya At-Home Party | Bananya At-Home Party | https://anilist.co/anime/213750 | Episode 2 |
 | Guangyin Zhi Wai 2 | Beyond Time's Gaze 2 | https://anilist.co/anime/213356 | Episode 7 |
 | Boku no Hero Academia: I am a hero too | Boku no Hero Academia: I am a hero too | https://anilist.co/anime/211711 | Episode 1 |
-| Bungou Stray Dogs Wan! 2 | Bungo Stray Dogs WAN! 2 | https://anilist.co/anime/201667 | Episode 5 |
+| Bungou Stray Dogs Wan! 2 | Bungo Stray Dogs WAN! 2 | https://anilist.co/anime/201667 | Episode 6 |
 | Candy Caries | Candy Caries | https://anilist.co/anime/205772 | Episode 17 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1209 |
 | Ugoku! Neko Mukashi Banashi | Cat Tales | https://anilist.co/anime/188529 | Episode 43 |
