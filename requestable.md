@@ -140,6 +140,7 @@ These shows have had episodes air already, but no thread was created because the
 | Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 27 |
 | Star Wars: Visions - Kyuuninme no Jedi | Star Wars: Visions Presents - The Ninth Jedi | https://anilist.co/anime/213847 | Episode 1 |
 | Tetsunabe no Jan! | Tetsunabe no Jan! | https://anilist.co/anime/204060 | Episode 5 |
+| Tensei Shitara Slime Datta Ken 4th Season | That Time I Got Reincarnated as a Slime Season 4 | https://anilist.co/anime/182205 | Episode 17 |
 | Kuroneko to Majo no Kyoushitsu | The Classroom of the Black Cat and a Witch | https://anilist.co/anime/196974 | Episode 17 |
 | Kami no Shizuku | The Drops of God | https://anilist.co/anime/202508 | Episode 17 |
 | "Kimi wo Aisuru Ki wa nai" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu | The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration | https://anilist.co/anime/208225 | Episode 5 |
@@ -172,5 +173,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Shiguang Dailiren III | Link Click Season 3 | https://anilist.co/anime/191832 | August 14 at 03:00 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | https://anilist.co/anime/210687 | August 12 at 14:30 |
-| Tensei Shitara Slime Datta Ken 4th Season | That Time I Got Reincarnated as a Slime Season 4 | https://anilist.co/anime/182205 | August 07 at 15:00 |
 {.dense}
