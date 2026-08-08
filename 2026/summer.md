@@ -372,6 +372,13 @@ Episode|Link
 1|[Link](https://ani.social/post/33956754)
 {.dense}
 
+## THE RIBBON HERO
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/35353394)
+{.dense}
+
 ## Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai • Young Ladies Don't Play Fighting Games
 
 Episode|Link
