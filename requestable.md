@@ -136,7 +136,7 @@ These shows have had episodes air already, but no thread was created because the
 | Snack HAZAMA | Snack HAZAMA | https://anilist.co/anime/213831 | Episode 6 |
 | Sora wa Akai Kawa no Hotori | Sora wa Akai Kawa no Hotori | https://anilist.co/anime/207809 | Episode 5 |
 | Uchi no Otouto-domo ga Sumimasen | Sorry About My Little Brothers | https://anilist.co/anime/203490 | Episode 6 |
-| Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 164 |
+| Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 165 |
 | Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 27 |
 | Star Wars: Visions - Kyuuninme no Jedi | Star Wars: Visions Presents - The Ninth Jedi | https://anilist.co/anime/213847 | Episode 1 |
 | Tetsunabe no Jan! | Tetsunabe no Jan! | https://anilist.co/anime/204060 | Episode 5 |
