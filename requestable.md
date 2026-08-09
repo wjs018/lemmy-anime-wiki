@@ -167,6 +167,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
+| Kyapi | Kyapi | https://anilist.co/anime/214893 | August 11 at 14:00 |
 | Shiguang Dailiren III | Link Click Season 3 | https://anilist.co/anime/191832 | August 14 at 03:00 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | https://anilist.co/anime/210687 | August 12 at 14:30 |
 {.dense}
