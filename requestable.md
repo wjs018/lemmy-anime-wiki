@@ -113,7 +113,7 @@ These shows have had episodes air already, but no thread was created because the
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1172 |
 | Odekake Kozame Season 2 | Odekake Kozame Season 2 | https://anilist.co/anime/204269 | Episode 18 |
 | Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken | Oh Boy, Was I Wrong About Her | https://anilist.co/anime/169583 | Episode 5 |
-| Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 18 |
+| Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 19 |
 | Pan no Akachan (TV) | Pan no Akachan (TV) | https://anilist.co/anime/212308 | Episode 6 |
 | Perfect Addiction | Perfect Addiction | https://anilist.co/anime/213666 | Episode 5 |
 | PetitCure: Precure Fairies Season 3 | PetitCure: Precure Fairies Season 3 | https://anilist.co/anime/209541 | Episode 20 |
@@ -135,7 +135,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sora wa Akai Kawa no Hotori | Sora wa Akai Kawa no Hotori | https://anilist.co/anime/207809 | Episode 5 |
 | Uchi no Otouto-domo ga Sumimasen | Sorry About My Little Brothers | https://anilist.co/anime/203490 | Episode 6 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 165 |
-| Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 27 |
+| Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 28 |
 | Star Wars: Visions - Kyuuninme no Jedi | Star Wars: Visions Presents - The Ninth Jedi | https://anilist.co/anime/213847 | Episode 1 |
 | Tetsunabe no Jan! | Tetsunabe no Jan! | https://anilist.co/anime/204060 | Episode 5 |
 | Kuroneko to Majo no Kyoushitsu | The Classroom of the Black Cat and a Witch | https://anilist.co/anime/196974 | Episode 17 |
