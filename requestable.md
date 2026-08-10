@@ -34,7 +34,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru | The Exiled Heavy Knight Knows How to Game the System | https://anilist.co/anime/180136 | [Link](https://ani.social/post/35281830) |
 | Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den | Though I Am an Inept Villainess | https://anilist.co/anime/188139 | [Link](https://ani.social/post/35402444) |
 | Tefuda ga Oume no Victoria | Victoria of Many Faces | https://anilist.co/anime/198709 | [Link](https://ani.social/post/35199610) |
-| World Is Dancing | World Is Dancing | https://anilist.co/anime/206521 | [Link](https://ani.social/post/35154119) |
 | Seihantai na Kimi to Boku 2nd Season | You and I Are Polar Opposites Season 2 | https://anilist.co/anime/210031 | [Link](https://ani.social/post/35390310) |
 {.dense}
 
@@ -129,7 +128,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2844 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1347 |
 | Shou 3 Ashibe QQ Goma-chan | Shou 3 Ashibe QQ Goma-chan | https://anilist.co/anime/202386 | Episode 18 |
-| Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II | Skeleton Knight in Another World Season 2 | https://anilist.co/anime/185542 | Episode 5 |
+| Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II | Skeleton Knight in Another World Season 2 | https://anilist.co/anime/185542 | Episode 6 |
 | Snack HAZAMA | Snack HAZAMA | https://anilist.co/anime/213831 | Episode 6 |
 | Sora wa Akai Kawa no Hotori | Sora wa Akai Kawa no Hotori | https://anilist.co/anime/207809 | Episode 5 |
 | Uchi no Otouto-domo ga Sumimasen | Sorry About My Little Brothers | https://anilist.co/anime/203490 | Episode 6 |
@@ -170,4 +169,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Kyapi | Kyapi | https://anilist.co/anime/214893 | August 11 at 14:00 |
 | Shiguang Dailiren III | Link Click Season 3 | https://anilist.co/anime/191832 | August 14 at 03:00 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | https://anilist.co/anime/210687 | August 12 at 14:30 |
+| World Is Dancing | World Is Dancing | https://anilist.co/anime/206521 | August 10 at 14:00 |
 {.dense}
