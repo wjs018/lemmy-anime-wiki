@@ -201,6 +201,7 @@ Episode|Link
 3|[Link](https://ani.social/post/34596495)
 4|[Link](https://ani.social/post/34903611)
 5|[Link](https://ani.social/post/35198047)
+6|[Link](https://ani.social/post/35480744)
 {.dense}
 
 ## LV999 no Murabito • The Villager of Level 999
