@@ -523,6 +523,7 @@ Episode|Link
 9|[Link](https://ani.social/post/32522260)
 10|[Link](https://ani.social/post/32845467)
 11|[Link](https://ani.social/post/33141669)
+12|[Link](https://ani.social/post/35517478)
 {.dense}
 
 ## Reincarnation no Kaben • Petals of Reincarnation
