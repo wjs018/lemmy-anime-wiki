@@ -102,7 +102,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kyapi | Kyapi | https://anilist.co/anime/214893 | Episode 1 |
 | LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 19 |
 | Let's Go Kaikigumi | Let's Go Kaikigumi | https://anilist.co/anime/200230 | Episode 6 |
-| Li Xiongmao | Li Xiongmao | https://anilist.co/anime/211220 | Episode 4 |
+| Li Xiongmao | Li Xiongmao | https://anilist.co/anime/211220 | Episode 5 |
 | Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita. | Love Unseen Beneath the Clear Night Sky | https://anilist.co/anime/202269 | Episode 6 |
 | MAO | MAO | https://anilist.co/anime/196012 | Episode 19 |
 | Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | https://anilist.co/anime/185875 | Episode 6 |
