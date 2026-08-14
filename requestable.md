@@ -28,7 +28,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Super no Ura de Yani Suu Futari | Smoking Behind the Supermarket with You | https://anilist.co/anime/196187 | [Link](https://ani.social/post/32538111) |
 | Nijusseiki Denki Mokuroku: Eureka・Evrika | Sparks of Tomorrow | https://anilist.co/anime/103303 | [Link](https://ani.social/post/35400637) |
 | Koukaku Kidoutai: THE GHOST IN THE SHELL | THE GHOST IN THE SHELL | https://anilist.co/anime/177699 | [Link](https://ani.social/post/35480744) |
-| Tensei Shitara Slime Datta Ken 4th Season | That Time I Got Reincarnated as a Slime Season 4 | https://anilist.co/anime/182205 | [Link](https://ani.social/post/35337617) |
+| Tensei Shitara Slime Datta Ken 4th Season | That Time I Got Reincarnated as a Slime Season 4 | https://anilist.co/anime/182205 | [Link](https://ani.social/post/35599594) |
 | Neko to Ryuu | The Cat and the Dragon | https://anilist.co/anime/186863 | [Link](https://ani.social/post/35357100) |
 | Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru | The Exiled Heavy Knight Knows How to Game the System | https://anilist.co/anime/180136 | [Link](https://ani.social/post/35563973) |
 | Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den | Though I Am an Inept Villainess | https://anilist.co/anime/188139 | [Link](https://ani.social/post/35402444) |
