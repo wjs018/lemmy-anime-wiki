@@ -71,7 +71,6 @@ These shows have had episodes air already, but no thread was created because the
 | Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | Episode 52 |
 | Sazin no Nakade | Dust of the Simulacrum | https://anilist.co/anime/214070 | Episode 1 |
 | Moshi, Korekara Umarerunonara | Echo | https://anilist.co/anime/214068 | Episode 1 |
-| Yun Shen Buzhi Meng Special: Zhu Ming Zhi Yi | Eclipse of Illusion SP: The Miasma War | https://anilist.co/anime/213297 | Episode 6 |
 | FOXING: Kitsuné-tsuki | FOXING: Kitsuné-tsuki | https://anilist.co/anime/194029 | Episode 1 |
 | You Shou Yan 6th Season | Fabulous Beasts 6 | https://anilist.co/anime/213486 | Episode 2 |
 | Jiyi Guanli Ju | False Memory | https://anilist.co/anime/141953 | Episode 4 |
@@ -101,6 +100,7 @@ These shows have had episodes air already, but no thread was created because the
 | LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 19 |
 | Let's Go Kaikigumi | Let's Go Kaikigumi | https://anilist.co/anime/200230 | Episode 6 |
 | Li Xiongmao | Li Xiongmao | https://anilist.co/anime/211220 | Episode 5 |
+| Shiguang Dailiren III | Link Click Season 3 | https://anilist.co/anime/191832 | Episode 1 |
 | Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita. | Love Unseen Beneath the Clear Night Sky | https://anilist.co/anime/202269 | Episode 6 |
 | MAO | MAO | https://anilist.co/anime/196012 | Episode 19 |
 | Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | https://anilist.co/anime/185875 | Episode 6 |
@@ -168,6 +168,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Kidou Keisatsu Patlabor EZY File 2 | Kidou Keisatsu Patlabor EZY File 2 | https://anilist.co/anime/212652 | August 20 at 16:00 |
-| Shiguang Dailiren III | Link Click Season 3 | https://anilist.co/anime/191832 | August 14 at 03:00 |
 | Shiranuhi | Shiranuhi | https://anilist.co/anime/176373 | August 20 at 15:00 |
 {.dense}
