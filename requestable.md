@@ -49,7 +49,6 @@ These shows have had episodes air already, but no thread was created because the
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 131 |
 | BLACK TORCH | BLACK TORCH | https://anilist.co/anime/187538 | Episode 7 |
 | BLEACH: Sennen Kessen-hen - Kashin-tan | BLEACH: Thousand-Year Blood War - The Calamity | https://anilist.co/anime/185874 | Episode 4 |
-| Bananya At-Home Party | Bananya At-Home Party | https://anilist.co/anime/213750 | Episode 2 |
 | Guangyin Zhi Wai 2 | Beyond Time's Gaze 2 | https://anilist.co/anime/213356 | Episode 9 |
 | Boku no Hero Academia: I am a hero too | Boku no Hero Academia: I am a hero too | https://anilist.co/anime/211711 | Episode 1 |
 | Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu | Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu | https://anilist.co/anime/199408 | Episode 6 |
@@ -93,7 +92,7 @@ These shows have had episodes air already, but no thread was created because the
 | Jueshi Zhan Hun 2 | Jueshi Zhan Hun 2 | https://anilist.co/anime/213188 | Episode 10 |
 | Kabushiki Gaisha Magi Lumiere 2nd Season | Kabushiki Gaisha Magi Lumiere 2nd Season | https://anilist.co/anime/185692 | Episode 7 |
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 45 |
-| Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 71 |
+| Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 72 |
 | Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 19 |
 | Kyapi | Kyapi | https://anilist.co/anime/214893 | Episode 1 |
 | LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 19 |
