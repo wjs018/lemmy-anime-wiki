@@ -75,7 +75,7 @@ These shows have had episodes air already, but no thread was created because the
 | Jiyi Guanli Ju | False Memory | https://anilist.co/anime/141953 | Episode 5 |
 | Katainaka no Ossan, Kensei ni Naru II | From Old Country Bumpkin to Master Swordsman Season 2 | https://anilist.co/anime/194829 | Episode 6 |
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | Episode 16 |
-| Grand Blue Season 3 | Grand Blue Season 3 | https://anilist.co/anime/199111 | Episode 6 |
+| Grand Blue Season 3 | Grand Blue Season 3 | https://anilist.co/anime/199111 | Episode 7 |
 | Hanazakari no Kimitachi e 2nd Season | Hana-Kimi Season 2 | https://anilist.co/anime/209669 | Episode 8 |
 | Hanakappa | Hanakappa | https://anilist.co/anime/8336 | Episode 668 |
 | Hanaori-san wa Tensei Shite mo Kenka ga Shitai | Hanaori-san Still Wants to Fight in the Next Life | https://anilist.co/anime/199066 | Episode 6 |
@@ -95,7 +95,7 @@ These shows have had episodes air already, but no thread was created because the
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 72 |
 | Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 19 |
 | Kyapi | Kyapi | https://anilist.co/anime/214893 | Episode 1 |
-| LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 19 |
+| LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 20 |
 | Let's Go Kaikigumi | Let's Go Kaikigumi | https://anilist.co/anime/200230 | Episode 7 |
 | Li Xiongmao | Li Xiongmao | https://anilist.co/anime/211220 | Episode 5 |
 | Shiguang Dailiren III | Link Click Season 3 | https://anilist.co/anime/191832 | Episode 1 |
