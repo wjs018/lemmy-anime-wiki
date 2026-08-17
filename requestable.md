@@ -82,7 +82,7 @@ These shows have had episodes air already, but no thread was created because the
 | Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season | Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season | https://anilist.co/anime/209983 | Episode 7 |
 | Heroine? Seijo? Iie, All Works Maid desu (Ko)! | Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)! | https://anilist.co/anime/192800 | Episode 8 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 379 |
-| Honoo no Toukyuujyo Dodge Danko | Honoo no Toukyuujyo Dodge Danko | https://anilist.co/anime/195833 | Episode 6 |
+| Honoo no Toukyuujyo Dodge Danko | Honoo no Toukyuujyo Dodge Danko | https://anilist.co/anime/195833 | Episode 7 |
 | Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita. | I Became a Legend After My 10 Year-Long Last Stand | https://anilist.co/anime/199748 | Episode 7 |
 | Kimi ga Shinu made Koi wo Shitai | I Want to Love You Till Your Dying Day | https://anilist.co/anime/187260 | Episode 6 |
 | Ibitte Konai Gibo to Gishi | Ibitte Konai Gibo to Gishi | https://anilist.co/anime/196356 | Episode 6 |
@@ -138,7 +138,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kami no Shizuku | The Drops of God | https://anilist.co/anime/202508 | Episode 19 |
 | "Kimi wo Aisuru Ki wa nai" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu | The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration | https://anilist.co/anime/208225 | Episode 7 |
 | Nige Jouzu no Wakagimi 2nd Season | The Elusive Samurai Season 2 | https://anilist.co/anime/182616 | Episode 5 |
-| Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita | The Forsaken Saintess and Her Foodie Roadtrip in Another World | https://anilist.co/anime/209504 | Episode 6 |
+| Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita | The Forsaken Saintess and Her Foodie Roadtrip in Another World | https://anilist.co/anime/209504 | Episode 7 |
 | Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru | The Insipid Prince's Furtive Grab for the Throne | https://anilist.co/anime/169582 | Episode 7 |
 | Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu | The Oblivous Saint Can't Contain Her Power | https://anilist.co/anime/196219 | Episode 7 |
 | Oni no Hanayome | The Ogre's Bride | https://anilist.co/anime/194219 | Episode 7 |
@@ -166,5 +166,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Kidou Keisatsu Patlabor EZY File 2 | Kidou Keisatsu Patlabor EZY File 2 | https://anilist.co/anime/212652 | August 20 at 16:00 |
+| Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten | Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising- | https://anilist.co/anime/133007 | August 27 at 15:00 |
 | Shiranuhi | Shiranuhi | https://anilist.co/anime/176373 | August 20 at 15:00 |
 {.dense}
