@@ -83,7 +83,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ibitte Konai Gibo to Gishi | Ibitte Konai Gibo to Gishi | https://anilist.co/anime/196356 | Episode 6 |
 | Iwamoto-senpai no Suisen | Iwamoto-senpai no Suisen | https://anilist.co/anime/206249 | Episode 7 |
 | Tenmaku no Jaadugar | Jaadugar: A Witch in Mongolia | https://anilist.co/anime/190569 | Episode 8 |
-| Jiaonang Jihua: Qiji | Jiaonang Jihua: Qiji | https://anilist.co/anime/213703 | Episode 6 |
+| Jiaonang Jihua: Qiji | Jiaonang Jihua: Qiji | https://anilist.co/anime/213703 | Episode 7 |
 | Jueshi Zhan Hun 2 | Jueshi Zhan Hun 2 | https://anilist.co/anime/213188 | Episode 11 |
 | Kabushiki Gaisha Magi Lumiere 2nd Season | Kabushiki Gaisha Magi Lumiere 2nd Season | https://anilist.co/anime/185692 | Episode 7 |
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 45 |
