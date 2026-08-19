@@ -54,7 +54,7 @@ These shows have had episodes air already, but no thread was created because the
 | Bungou Stray Dogs Wan! 2 | Bungo Stray Dogs WAN! 2 | https://anilist.co/anime/201667 | Episode 7 |
 | Candy Caries | Candy Caries | https://anilist.co/anime/205772 | Episode 18 |
 | Meitantei Conan | Case Closed | https://anilist.co/anime/235 | Episode 1210 |
-| Ugoku! Neko Mukashi Banashi | Cat Tales | https://anilist.co/anime/188529 | Episode 44 |
+| Ugoku! Neko Mukashi Banashi | Cat Tales | https://anilist.co/anime/188529 | Episode 45 |
 | Chibi Godzilla no Gyakushuu 3 | Chibi Godzilla Raids Again Season 3 | https://anilist.co/anime/193883 | Episode 50 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 370 |
 | Chiikawa: Ningyo no Shima no Himitsu | Chiikawa: Ningyo no Shima no Himitsu | https://anilist.co/anime/202717 | Episode 1 |
