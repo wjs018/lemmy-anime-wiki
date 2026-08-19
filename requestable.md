@@ -92,7 +92,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kyapi | Kyapi | https://anilist.co/anime/214893 | Episode 1 |
 | LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 20 |
 | Let's Go Kaikigumi | Let's Go Kaikigumi | https://anilist.co/anime/200230 | Episode 7 |
-| Li Xiongmao | Li Xiongmao | https://anilist.co/anime/211220 | Episode 5 |
+| Li Xiongmao | Li Xiongmao | https://anilist.co/anime/211220 | Episode 6 |
 | Shiguang Dailiren III | Link Click Season 3 | https://anilist.co/anime/191832 | Episode 1 |
 | Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita. | Love Unseen Beneath the Clear Night Sky | https://anilist.co/anime/202269 | Episode 7 |
 | MAO | MAO | https://anilist.co/anime/196012 | Episode 20 |
