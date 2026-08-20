@@ -26,7 +26,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Mushoku Tensei III: Isekai Ittara Honki Dasu | Mushoku Tensei: Jobless Reincarnation Season 3 | https://anilist.co/anime/178789 | [Link](https://ani.social/post/35683422) |
 | Re:Zero kara Hajimeru Isekai Seikatsu 4th Season | Re:ZERO -Starting Life in Another World- Season 4 | https://anilist.co/anime/189046 | [Link](https://ani.social/post/35804046) |
 | Youjo Senki II | Saga of Tanya the Evil Season 2 | https://anilist.co/anime/135865 | [Link](https://ani.social/post/35805065) |
-| Super no Ura de Yani Suu Futari | Smoking Behind the Supermarket with You | https://anilist.co/anime/196187 | [Link](https://ani.social/post/32538111) |
+| Super no Ura de Yani Suu Futari | Smoking Behind the Supermarket with You | https://anilist.co/anime/196187 | [Link](https://ani.social/post/35849334) |
 | Nijusseiki Denki Mokuroku: Eureka・Evrika | Sparks of Tomorrow | https://anilist.co/anime/103303 | [Link](https://ani.social/post/35681385) |
 | Koukaku Kidoutai: THE GHOST IN THE SHELL | THE GHOST IN THE SHELL | https://anilist.co/anime/177699 | [Link](https://ani.social/post/35764315) |
 | Tensei Shitara Slime Datta Ken 4th Season | That Time I Got Reincarnated as a Slime Season 4 | https://anilist.co/anime/182205 | [Link](https://ani.social/post/35599594) |
@@ -87,6 +87,7 @@ These shows have had episodes air already, but no thread was created because the
 | Jiaonang Jihua: Qiji | Jiaonang Jihua: Qiji | https://anilist.co/anime/213703 | Episode 7 |
 | Jueshi Zhan Hun 2 | Jueshi Zhan Hun 2 | https://anilist.co/anime/213188 | Episode 11 |
 | Kabushiki Gaisha Magi Lumiere 2nd Season | Kabushiki Gaisha Magi Lumiere 2nd Season | https://anilist.co/anime/185692 | Episode 7 |
+| Kidou Keisatsu Patlabor EZY File 2 | Kidou Keisatsu Patlabor EZY File 2 | https://anilist.co/anime/212652 | Episode 1 |
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 46 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 72 |
 | Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 19 |
@@ -110,7 +111,7 @@ These shows have had episodes air already, but no thread was created because the
 | PetitCure: Precure Fairies Season 3 | PetitCure: Precure Fairies Season 3 | https://anilist.co/anime/209541 | Episode 22 |
 | Plannosaurus Gachi Koseibutsu-bu | Plannosaurus Gachi Koseibutsu-bu | https://anilist.co/anime/208824 | Episode 6 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 145 |
-| Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku | Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku | https://anilist.co/anime/208044 | Episode 8 |
+| Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku | Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku | https://anilist.co/anime/208044 | Episode 9 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | https://anilist.co/anime/210687 | Episode 13 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 154 |
 | Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita | Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School | https://anilist.co/anime/201514 | Episode 7 |
@@ -161,6 +162,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
-| Kidou Keisatsu Patlabor EZY File 2 | Kidou Keisatsu Patlabor EZY File 2 | https://anilist.co/anime/212652 | August 20 at 16:00 |
 | Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten | Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising- | https://anilist.co/anime/133007 | August 27 at 15:00 |
 {.dense}
