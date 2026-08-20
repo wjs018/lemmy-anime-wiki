@@ -15,7 +15,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
 | Honzuki no Gekokujou: Ryoushu no Youjo | Ascendance of a Bookworm: Adopted Daughter of an Archduke | https://anilist.co/anime/171110 | [Link](https://ani.social/post/35630888) |
-| BanG Dream! Yume∞Mita | BanG Dream! Yume∞Mita | https://anilist.co/anime/198376 | [Link](https://ani.social/post/35560263) |
+| BanG Dream! Yume∞Mita | BanG Dream! Yume∞Mita | https://anilist.co/anime/198376 | [Link](https://ani.social/post/35847060) |
 | Yani Neko | Chainsmoker Cat | https://anilist.co/anime/207141 | [Link](https://ani.social/post/35563974) |
 | Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | [Link](https://ani.social/post/35844629) |
 | Grow Up Show: Himawari no Circus-dan | GROW UP SHOW -Sunflower Circus- | https://anilist.co/anime/196017 | [Link](https://ani.social/post/35641387) |
@@ -120,6 +120,7 @@ These shows have had episodes air already, but no thread was created because the
 | Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita | Saved By the Ice Cold Prince's Embrace | https://anilist.co/anime/213665 | Episode 7 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2845 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1348 |
+| Shiranuhi | Shiranuhi | https://anilist.co/anime/176373 | Episode 1 |
 | Shou 3 Ashibe QQ Goma-chan | Shou 3 Ashibe QQ Goma-chan | https://anilist.co/anime/202386 | Episode 19 |
 | Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II | Skeleton Knight in Another World Season 2 | https://anilist.co/anime/185542 | Episode 7 |
 | Snack HAZAMA | Snack HAZAMA | https://anilist.co/anime/213831 | Episode 7 |
@@ -162,5 +163,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Kidou Keisatsu Patlabor EZY File 2 | Kidou Keisatsu Patlabor EZY File 2 | https://anilist.co/anime/212652 | August 20 at 16:00 |
 | Mahou Shoujo Madoka☆Magica: Walpurgis no Kaiten | Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising- | https://anilist.co/anime/133007 | August 27 at 15:00 |
-| Shiranuhi | Shiranuhi | https://anilist.co/anime/176373 | August 20 at 15:00 |
 {.dense}
