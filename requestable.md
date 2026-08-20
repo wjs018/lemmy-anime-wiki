@@ -87,7 +87,7 @@ These shows have had episodes air already, but no thread was created because the
 | Jiaonang Jihua: Qiji | Jiaonang Jihua: Qiji | https://anilist.co/anime/213703 | Episode 7 |
 | Jueshi Zhan Hun 2 | Jueshi Zhan Hun 2 | https://anilist.co/anime/213188 | Episode 11 |
 | Kabushiki Gaisha Magi Lumiere 2nd Season | Kabushiki Gaisha Magi Lumiere 2nd Season | https://anilist.co/anime/185692 | Episode 7 |
-| Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 45 |
+| Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 46 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 72 |
 | Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 19 |
 | Kyapi | Kyapi | https://anilist.co/anime/214893 | Episode 1 |
