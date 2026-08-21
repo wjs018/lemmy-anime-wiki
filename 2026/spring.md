@@ -622,7 +622,7 @@ Episode|Link|Episode|Link
 2|[Link](https://ani.social/post/30039987)|16|[Link](https://ani.social/post/34731137)
 3|[Link](https://ani.social/post/30361713)|17|[Link](https://ani.social/post/35337617)
 4|[Link](https://ani.social/post/30704699)|18|[Link](https://ani.social/post/35599594)
-5|[Link](https://ani.social/post/31347446)
+5|[Link](https://ani.social/post/31347446)|19|[Link](https://ani.social/post/35888778)
 6|[Link](https://ani.social/post/31636074)
 7|[Link](https://ani.social/post/31960748)
 8|[Link](https://ani.social/post/32291727)
