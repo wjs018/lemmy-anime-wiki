@@ -97,7 +97,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shiguang Dailiren III | Link Click Season 3 | https://anilist.co/anime/191832 | Episode 3 |
 | Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita. | Love Unseen Beneath the Clear Night Sky | https://anilist.co/anime/202269 | Episode 7 |
 | MAO | MAO | https://anilist.co/anime/196012 | Episode 21 |
-| Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | https://anilist.co/anime/185875 | Episode 7 |
+| Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | https://anilist.co/anime/185875 | Episode 8 |
 | Mebius Dust | Mebius Dust | https://anilist.co/anime/108992 | Episode 7 |
 | Mu Shen Ji 4 | Mu Shen Ji 4 | https://anilist.co/anime/211181 | Episode 19 |
 | Ninjala | Ninjala the Animation | https://anilist.co/anime/142274 | Episode 226 |
