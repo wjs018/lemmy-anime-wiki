@@ -176,6 +176,7 @@ Episode|Link
 5|[Link](https://ani.social/post/35112918)
 6|[Link](https://ani.social/post/35399451)
 7|[Link](https://ani.social/post/35679378)
+8|[Link](https://ani.social/post/35968481)
 {.dense}
 
 ## Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita. • I Became a Legend After My 10 Year-Long Last Stand
