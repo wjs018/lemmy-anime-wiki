@@ -17,7 +17,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Honzuki no Gekokujou: Ryoushu no Youjo | Ascendance of a Bookworm: Adopted Daughter of an Archduke | https://anilist.co/anime/171110 | [Link](https://ani.social/post/35920518) |
 | BanG Dream! Yume∞Mita | BanG Dream! Yume∞Mita | https://anilist.co/anime/198376 | [Link](https://ani.social/post/35847060) |
 | Yani Neko | Chainsmoker Cat | https://anilist.co/anime/207141 | [Link](https://ani.social/post/35850877) |
-| Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | [Link](https://ani.social/post/35844629) |
+| Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | [Link](https://ani.social/post/36135371) |
 | Grow Up Show: Himawari no Circus-dan | GROW UP SHOW -Sunflower Circus- | https://anilist.co/anime/196017 | [Link](https://ani.social/post/35933035) |
 | Sayonara Lara | Goodbye, Lara | https://anilist.co/anime/177637 | [Link](https://ani.social/post/35973815) |
 | Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season | Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season | https://anilist.co/anime/200637 | [Link](https://ani.social/post/35968481) |
