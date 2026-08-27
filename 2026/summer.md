@@ -477,6 +477,7 @@ Episode|Link
 6|[Link](https://ani.social/post/35281830)
 7|[Link](https://ani.social/post/35563973)
 8|[Link](https://ani.social/post/35850283)
+9|[Link](https://ani.social/post/36140352)
 {.dense}
 
 ## Uchi no Otouto-domo ga Sumimasen • Sorry About My Little Brothers
