@@ -59,7 +59,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 373 |
 | Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou | Clevatess Season 2 | https://anilist.co/anime/198946 | Episode 8 |
 | Crayon Shin-chan: Kikikaikai! Ora no Youkai Vacation | Crayon Shin-chan: Kikikaikai! Ora no Youkai Vacation | https://anilist.co/anime/208829 | Episode 1 |
-| Bai Ri Cheng Wang | Crowned in a Hundred Days | https://anilist.co/anime/213484 | Episode 19 |
+| Bai Ri Cheng Wang | Crowned in a Hundred Days | https://anilist.co/anime/213484 | Episode 20 |
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | Episode 44 |
 | Yomi no Tsugai | Daemons of the Shadow Realm | https://anilist.co/anime/195600 | Episode 20 |
 | Reiwa no Dara-san | Dara-san of Reiwa | https://anilist.co/anime/203880 | Episode 9 |
@@ -93,7 +93,7 @@ These shows have had episodes air already, but no thread was created because the
 | LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 21 |
 | Let's Go Kaikigumi | Let's Go Kaikigumi | https://anilist.co/anime/200230 | Episode 8 |
 | Li Xiongmao | Li Xiongmao | https://anilist.co/anime/211220 | Episode 6 |
-| Shiguang Dailiren III | Link Click Season 3 | https://anilist.co/anime/191832 | Episode 3 |
+| Shiguang Dailiren III | Link Click Season 3 | https://anilist.co/anime/191832 | Episode 4 |
 | Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita. | Love Unseen Beneath the Clear Night Sky | https://anilist.co/anime/202269 | Episode 8 |
 | MAO | MAO | https://anilist.co/anime/196012 | Episode 21 |
 | Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | https://anilist.co/anime/185875 | Episode 8 |
