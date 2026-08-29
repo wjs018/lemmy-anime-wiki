@@ -42,7 +42,7 @@ These shows have had episodes air already, but no thread was created because the
 
 | Show Name | English Show Name | AniList Link | Most Recently Episode Number  |
 | :-------- | :---------------- | :----------- | :--------------------------: |
-| Zeri Feisheng | A Good Day to Ascend | https://anilist.co/anime/214260 | Episode 8 |
+| Zeri Feisheng | A Good Day to Ascend | https://anilist.co/anime/214260 | Episode 9 |
 | Azur Lane: Bisoku Zenshin! Ni!! | Anime AzurLane: Slow Ahead! Season 2 | https://anilist.co/anime/169080 | Episode 8 |
 | Aware! Meisaku-kun (2026) | Aware! Meisaku-kun (2026) | https://anilist.co/anime/205116 | Episode 8 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 132 |
