@@ -18,7 +18,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | BanG Dream! Yume∞Mita | BanG Dream! Yume∞Mita | https://anilist.co/anime/198376 | [Link](https://ani.social/post/36136997) |
 | Yani Neko | Chainsmoker Cat | https://anilist.co/anime/207141 | [Link](https://ani.social/post/35850877) |
 | Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | [Link](https://ani.social/post/36135371) |
-| Grow Up Show: Himawari no Circus-dan | GROW UP SHOW -Sunflower Circus- | https://anilist.co/anime/196017 | [Link](https://ani.social/post/35933035) |
+| Grow Up Show: Himawari no Circus-dan | GROW UP SHOW -Sunflower Circus- | https://anilist.co/anime/196017 | [Link](https://ani.social/post/36225132) |
 | Sayonara Lara | Goodbye, Lara | https://anilist.co/anime/177637 | [Link](https://ani.social/post/35973815) |
 | Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season | Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season | https://anilist.co/anime/200637 | [Link](https://ani.social/post/35968481) |
 | Kore Kaite Shine | Kore Kaite Shine | https://anilist.co/anime/188525 | [Link](https://ani.social/post/36181902) |
@@ -94,7 +94,7 @@ These shows have had episodes air already, but no thread was created because the
 | Li Xiongmao | Li Xiongmao | https://anilist.co/anime/211220 | Episode 6 |
 | Shiguang Dailiren III | Link Click Season 3 | https://anilist.co/anime/191832 | Episode 4 |
 | Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita. | Love Unseen Beneath the Clear Night Sky | https://anilist.co/anime/202269 | Episode 8 |
-| MAO | MAO | https://anilist.co/anime/196012 | Episode 21 |
+| MAO | MAO | https://anilist.co/anime/196012 | Episode 22 |
 | Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | https://anilist.co/anime/185875 | Episode 8 |
 | Mebius Dust | Mebius Dust | https://anilist.co/anime/108992 | Episode 8 |
 | Mu Shen Ji 4 | Mu Shen Ji 4 | https://anilist.co/anime/211181 | Episode 20 |
