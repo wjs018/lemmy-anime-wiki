@@ -270,6 +270,7 @@ Episode|Link
 7|[Link](https://ani.social/post/35357100)
 8|[Link](https://ani.social/post/35635328)
 9|[Link](https://ani.social/post/35926085)
+10|[Link](https://ani.social/post/36218711)
 {.dense}
 
 ## Nige Jouzu no Wakagimi 2nd Season • The Elusive Samurai Season 2
