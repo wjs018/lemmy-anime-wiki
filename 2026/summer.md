@@ -296,6 +296,7 @@ Episode|Link
 6|[Link](https://ani.social/post/35400637)
 7|[Link](https://ani.social/post/35681385)
 8|[Link](https://ani.social/post/35969424)
+9|[Link](https://ani.social/post/36263396)
 {.dense}
 
 ## Oni no Hanayome • The Ogre's Bride
