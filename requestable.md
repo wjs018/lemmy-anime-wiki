@@ -61,7 +61,7 @@ These shows have had episodes air already, but no thread was created because the
 | Bai Ri Cheng Wang | Crowned in a Hundred Days | https://anilist.co/anime/213484 | Episode 21 |
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | Episode 45 |
 | Yomi no Tsugai | Daemons of the Shadow Realm | https://anilist.co/anime/195600 | Episode 21 |
-| Reiwa no Dara-san | Dara-san of Reiwa | https://anilist.co/anime/203880 | Episode 9 |
+| Reiwa no Dara-san | Dara-san of Reiwa | https://anilist.co/anime/203880 | Episode 10 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 930 |
 | You Shou Yan 6th Season | Fabulous Beasts 6 | https://anilist.co/anime/213486 | Episode 6 |
 | Jiyi Guanli Ju | False Memory | https://anilist.co/anime/141953 | Episode 7 |
