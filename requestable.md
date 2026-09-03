@@ -84,7 +84,7 @@ These shows have had episodes air already, but no thread was created because the
 | Otome Kaijuu Caramelise | KAIJU GIRL CARAMELISE | https://anilist.co/anime/204466 | Episode 9 |
 | Kabushiki Gaisha Magi Lumiere 2nd Season | Kabushiki Gaisha Magi Lumiere 2nd Season | https://anilist.co/anime/185692 | Episode 8 |
 | Kidou Keisatsu Patlabor EZY File 2 | Kidou Keisatsu Patlabor EZY File 2 | https://anilist.co/anime/212652 | Episode 1 |
-| Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 47 |
+| Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 48 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 74 |
 | Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 21 |
 | Kyapi | Kyapi | https://anilist.co/anime/214893 | Episode 1 |
