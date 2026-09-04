@@ -205,6 +205,7 @@ Episode|Link
 6|[Link](https://ani.social/post/35320793)
 7|[Link](https://ani.social/post/35694375)
 8|[Link](https://ani.social/post/36181902)
+9|[Link](https://ani.social/post/36472097)
 {.dense}
 
 ## Koukaku Kidoutai: THE GHOST IN THE SHELL • THE GHOST IN THE SHELL
