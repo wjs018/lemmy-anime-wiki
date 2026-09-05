@@ -96,7 +96,7 @@ These shows have had episodes air already, but no thread was created because the
 | MAO | MAO | https://anilist.co/anime/196012 | Episode 22 |
 | Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | https://anilist.co/anime/185875 | Episode 9 |
 | Mebius Dust | Mebius Dust | https://anilist.co/anime/108992 | Episode 9 |
-| Mu Shen Ji 4 | Mu Shen Ji 4 | https://anilist.co/anime/211181 | Episode 20 |
+| Mu Shen Ji 4 | Mu Shen Ji 4 | https://anilist.co/anime/211181 | Episode 21 |
 | Kaijuu 8-gou: Narumi no Heijitsu | Narumi's Week at Work | https://anilist.co/anime/204431 | Episode 1 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1176 |
 | Odekake Kozame Season 2 | Odekake Kozame Season 2 | https://anilist.co/anime/204269 | Episode 21 |
