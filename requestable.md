@@ -111,7 +111,7 @@ These shows have had episodes air already, but no thread was created because the
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | https://anilist.co/anime/210687 | Episode 15 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 156 |
 | Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita | Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School | https://anilist.co/anime/201514 | Episode 9 |
-| Rilakkuma: Goyururi Yume no Tabi | Rilakkuma: Goyururi Yume no Tabi | https://anilist.co/anime/183231 | Episode 22 |
+| Rilakkuma: Goyururi Yume no Tabi | Rilakkuma: Goyururi Yume no Tabi | https://anilist.co/anime/183231 | Episode 23 |
 | Ryoumin 0-Nin Start no Henkyou Ryoushu-sama | Ryoumin 0-Nin Start no Henkyou Ryoushu-sama | https://anilist.co/anime/196218 | Episode 10 |
 | Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita | Saved By the Ice Cold Prince's Embrace | https://anilist.co/anime/213665 | Episode 9 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2847 |
