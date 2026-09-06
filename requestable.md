@@ -45,7 +45,7 @@ These shows have had episodes air already, but no thread was created because the
 | :-------- | :---------------- | :----------- | :--------------------------: |
 | Zeri Feisheng | A Good Day to Ascend | https://anilist.co/anime/214260 | Episode 10 |
 | Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu | A Livid Lady’s Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires | https://anilist.co/anime/199408 | Episode 9 |
-| Azur Lane: Bisoku Zenshin! Ni!! | Anime AzurLane: Slow Ahead! Season 2 | https://anilist.co/anime/169080 | Episode 9 |
+| Azur Lane: Bisoku Zenshin! Ni!! | Anime AzurLane: Slow Ahead! Season 2 | https://anilist.co/anime/169080 | Episode 10 |
 | Aware! Meisaku-kun (2026) | Aware! Meisaku-kun (2026) | https://anilist.co/anime/205116 | Episode 10 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 133 |
 | BLACK TORCH | BLACK TORCH | https://anilist.co/anime/187538 | Episode 10 |
