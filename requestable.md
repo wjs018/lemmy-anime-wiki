@@ -157,4 +157,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Saishuu Gakushou Hibike! Euphonium - Kouhen | Saishuu Gakushou Hibike! Euphonium - Kouhen | https://anilist.co/anime/194116 | September 10 at 15:00 |
 | Tefuda ga Oome no Victoria | Victoria of Many Faces | https://anilist.co/anime/198709 | September 08 at 16:00 |
+| Yani Neko Mini | Yani Neko Mini | https://anilist.co/anime/208105 | September 13 at 03:00 |
 {.dense}
