@@ -88,7 +88,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 22 |
 | Kyapi | Kyapi | https://anilist.co/anime/214893 | Episode 1 |
 | LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 22 |
-| Let's Go Kaikigumi | Let's Go Kaikigumi | https://anilist.co/anime/200230 | Episode 9 |
+| Let's Go Kaikigumi | Let's Go Kaikigumi | https://anilist.co/anime/200230 | Episode 10 |
 | Shiguang Dailiren III | Link Click Season 3 | https://anilist.co/anime/191832 | Episode 5 |
 | Odekake Kozame Season 2 | Little Shark's Day Out Season 2 | https://anilist.co/anime/204269 | Episode 22 |
 | Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita. | Love Unseen Beneath the Clear Night Sky | https://anilist.co/anime/202269 | Episode 9 |
