@@ -78,7 +78,7 @@ These shows have had episodes air already, but no thread was created because the
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 381 |
 | Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita. | I Became a Legend After My 10 Year-Long Last Stand | https://anilist.co/anime/199748 | Episode 10 |
 | Kimi ga Shinu made Koi wo Shitai | I Want to Love You Till Your Dying Day | https://anilist.co/anime/187260 | Episode 9 |
-| Tetsunabe no Jan! | Iron Wok Jan! | https://anilist.co/anime/204060 | Episode 9 |
+| Tetsunabe no Jan! | Iron Wok Jan! | https://anilist.co/anime/204060 | Episode 10 |
 | Jiaonang Jihua: Qiji | Jiaonang Jihua: Qiji | https://anilist.co/anime/213703 | Episode 8 |
 | Jueshi Zhan Hun 2 | Jueshi Zhan Hun 2 | https://anilist.co/anime/213188 | Episode 13 |
 | Ushiro no Shoumen Kamui-san | KAMUI ---He's behind you | https://anilist.co/anime/207674 | Episode 10 |
