@@ -125,7 +125,7 @@ These shows have had episodes air already, but no thread was created because the
 | Snack HAZAMA | Snack HAZAMA | https://anilist.co/anime/213831 | Episode 10 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 169 |
 | Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 32 |
-| Kuroneko to Majo no Kyoushitsu | The Classroom of the Black Cat and a Witch | https://anilist.co/anime/196974 | Episode 21 |
+| Kuroneko to Majo no Kyoushitsu | The Classroom of the Black Cat and a Witch | https://anilist.co/anime/196974 | Episode 22 |
 | Kami no Shizuku | The Drops of God | https://anilist.co/anime/202508 | Episode 22 |
 | "Kimi wo Aisuru Ki wa nai" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu | The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration | https://anilist.co/anime/208225 | Episode 10 |
 | Nige Jouzu no Wakagimi 2nd Season | The Elusive Samurai Season 2 | https://anilist.co/anime/182616 | Episode 8 |
