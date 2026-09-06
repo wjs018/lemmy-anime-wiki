@@ -269,7 +269,7 @@ Episode|Link
 13|[Link](https://ani.social/post/20627111)
 {.dense}
 
-## Koujo Denka no Katei Kyoushi • Private Tutor to the Duke's Daughter
+## Koujo Denka no Kateikyoushi • Private Tutor to the Duke's Daughter
 
 Episode|Link
 :-:|:-:
@@ -502,7 +502,7 @@ Episode|Link
 2|[Link](https://ani.social/post/17244441)
 {.dense}
 
-## Watashi ga Koibito ni Nareru Wake Naijan, Murimuri! (※Muri ja Nakatta!?) • There's No Freaking Way I'll Be Your Lover! Unless…
+## Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?) • There's No Freaking Way I'll Be Your Lover! Unless…
 
 Episode|Link
 :-:|:-:

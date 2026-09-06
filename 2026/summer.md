@@ -43,7 +43,7 @@ Episode|Link
 12|[Link](https://ani.social/post/36429018)
 {.dense}
 
-## Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu
+## Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu • A Livid Lady’s Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires
 
 Episode|Link
 :-:|:-:
@@ -82,7 +82,7 @@ Episode|Link
 1|[Link](https://ani.social/post/33868309)
 {.dense}
 
-## Grand Blue Season 3
+## Grand Blue Season 3 • Grand Blue Dreaming Season 3
 
 Episode|Link
 :-:|:-:
@@ -90,7 +90,7 @@ Episode|Link
 2|[Link](https://ani.social/post/34263742)
 {.dense}
 
-## Grow Up Show: Himawari no Circus-dan • GROW UP SHOW -Sunflower Circus-
+## Grow Up Show: Himawari no Circus-dan • Grow Up Show
 
 Episode|Link
 :-:|:-:
@@ -114,7 +114,7 @@ Episode|Link
 2|[Link](https://ani.social/post/34475208)
 {.dense}
 
-## Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season
+## Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season • HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2
 
 Episode|Link
 :-:|:-:
@@ -130,7 +130,7 @@ Episode|Link
 2|[Link](https://ani.social/post/33746445)
 {.dense}
 
-## Ibitte Konai Gibo to Gishi
+## Ibitte Konai Gibo to Gishi • My Stepmother and Stepsisters Aren’t Wicked
 
 Episode|Link
 :-:|:-:
@@ -138,14 +138,14 @@ Episode|Link
 2|[Link](https://ani.social/post/34346924)
 {.dense}
 
-## Iwamoto-senpai no Suisen
+## Iwamoto-senpai no Suisen • Recommendations from Iwamoto-Senpai
 
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/33871848)
 {.dense}
 
-## Kabushiki Gaisha Magi Lumiere 2nd Season
+## Kabushiki Gaisha Magi Lumiere 2nd Season • Magilumiere Magical Girls Inc. Season 2
 
 Episode|Link
 :-:|:-:
@@ -154,7 +154,7 @@ Episode|Link
 3|[Link](https://ani.social/post/34472219)
 {.dense}
 
-## Katainaka no Ossan, Kensei ni Naru II • From Old Country Bumpkin to Master Swordsman Season 2
+## Katainaka no Ossan, Kensei ni Naru II • From Old Country Bumpkin to Master Swordsman II
 
 Episode|Link
 :-:|:-:
@@ -171,7 +171,7 @@ Episode|Link
 3|[Link](https://ani.social/post/34593060)
 {.dense}
 
-## Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season
+## Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season • The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3
 
 Episode|Link
 :-:|:-:
@@ -194,7 +194,7 @@ Episode|Link
 2|[Link](https://ani.social/post/34133226)
 {.dense}
 
-## Kore Kaite Shine
+## Kore Kaite Shine • Draw This, Then Die!
 
 Episode|Link
 :-:|:-:
@@ -240,7 +240,7 @@ Episode|Link
 1|[Link](https://ani.social/post/33886478)
 {.dense}
 
-## Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu • The Oblivous Saint Can't Contain Her Power
+## Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu • The Oblivious Saint Can't Contain Her Power
 
 Episode|Link
 :-:|:-:
@@ -291,7 +291,7 @@ Episode|Link
 3|[Link](https://ani.social/post/35033367)
 {.dense}
 
-## Nijusseiki Denki Mokuroku: Eureka・Evrika • Sparks of Tomorrow
+## Nijusseiki Denki Mokuroku: Eureka Evrika • Sparks of Tomorrow
 
 Episode|Link
 :-:|:-:
@@ -314,7 +314,7 @@ Episode|Link
 2|[Link](https://ani.social/post/34182327)
 {.dense}
 
-## Otome Kaijuu Caramelise • KAIJU GIRL CARAMELISE
+## Otome Kaijuu Caraméliser • KAIJU GIRL CARAMELISE
 
 Episode|Link
 :-:|:-:
@@ -336,7 +336,7 @@ Episode|Link
 1|[Link](https://ani.social/post/34045795)
 {.dense}
 
-## Ryoumin 0-Nin Start no Henkyou Ryoushu-sama
+## Ryoumin 0-Nin Start no Henkyou Ryoushu-sama • The Frontier Lord Begins with Zero Subjects
 
 Episode|Link
 :-:|:-:
@@ -391,7 +391,7 @@ Episode|Link
 4|[Link](https://ani.social/post/34813852)
 {.dense}
 
-## Sora wa Akai Kawa no Hotori
+## Sora wa Akai Kawa no Hotori • Red River
 
 Episode|Link
 :-:|:-:
@@ -439,7 +439,7 @@ Episode|Link
 3|[Link](https://ani.social/post/34591652)
 {.dense}
 
-## Tefuda ga Oume no Victoria • Victoria of Many Faces
+## Tefuda ga Oome no Victoria • Victoria of Many Faces
 
 Episode|Link
 :-:|:-:
@@ -500,7 +500,7 @@ Episode|Link
 10|[Link](https://ani.social/post/36432402)
 {.dense}
 
-## Uchi no Otouto-domo ga Sumimasen • Sorry About My Little Brothers
+## Uchi no Otouto-domo ga Sumimasen • Please Excuse My Younger Brothers
 
 Episode|Link
 :-:|:-:
@@ -511,7 +511,7 @@ Episode|Link
 5|[Link](https://ani.social/post/35034350)
 {.dense}
 
-## Ushiro no Shoumen Kamui-san
+## Ushiro no Shoumen Kamui-san • KAMUI ---He's behind you
 
 Episode|Link
 :-:|:-:
@@ -520,7 +520,7 @@ Episode|Link
 3|[Link](https://ani.social/post/34437379)
 {.dense}
 
-## World Is Dancing
+## World Is Dancing • The World Is Dancing
 
 Episode|Link
 :-:|:-:

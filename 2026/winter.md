@@ -158,7 +158,7 @@ Episode|Link
 12|[Link](https://ani.social/post/29501162)
 {.dense}
 
-## JoJo no Kimyou na Bouken: Steel Ball Run • STEEL BALL RUN JoJo's Bizarre Adventure
+## JoJo no Kimyou na Bouken: Steel Ball Run - 1st STAGE • STEEL BALL RUN JoJo's Bizarre Adventure 1st STAGE
 
 Episode|Link
 :-:|:-:
@@ -304,7 +304,7 @@ Episode|Link
 12|[Link](https://ani.social/post/29324803)
 {.dense}
 
-## Okiraku Ryoushu no Tanoshii Ryouchi Bouei • Easygoing Territory Defense by the Optimistic Lord
+## Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisan-kei Majutsu de Na mo na Kimura wo Saikyou no Jousai Toshi ni • Easygoing Territory Defense by the Optimistic Lord
 
 Episode|Link
 :-:|:-:
@@ -459,7 +459,7 @@ Episode|Link
 13|[Link](https://ani.social/post/29544380)
 {.dense}
 
-## Watashi ga Koibito ni Nareru Wake Naijan, Murimuri! (※Muri ja Nakatta!?): Next Shine! • There's No Freaking Way I'll Be Your Lover! Unless… ~Next Shine~
+## Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?): Next Shine! • There's No Freaking Way I'll Be Your Lover! Unless… ~Next Shine~
 
 Episode|Link
 :-:|:-:
@@ -506,7 +506,7 @@ Episode|Link
 14|[Link](https://ani.social/post/30410887)
 {.dense}
 
-## [Oshi no Ko] 3rd Season • 【OSHI NO KO】Season 3
+## [Oshi no Ko] 3rd Season • OSHI NO KO Season 3
 
 Episode|Link
 :-:|:-:

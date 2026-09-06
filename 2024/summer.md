@@ -505,7 +505,7 @@ Episode|Link
 1|[Link](https://ani.social/post/5618877)
 {.dense}
 
-## Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san • Alya Sometimes Hides Her Feelings in Russian
+## Tokidoki Bosotto Rossiya-go de Dereru Tonari no Alya-san • Alya Sometimes Hides Her Feelings in Russian
 
 Episode|Link
 :-:|:-:
@@ -550,7 +550,7 @@ Episode|Link
 3|[Link](https://ani.social/post/6769666)
 {.dense}
 
-## [Oshi no Ko] 2nd Season • Oshi no Ko Season 2
+## [Oshi no Ko] 2nd Season • OSHI NO KO Season 2
 
 Episode|Link
 :-:|:-:

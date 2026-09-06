@@ -63,7 +63,7 @@ Episode|Link
 1|[Link](https://ani.social/post/30299154)
 {.dense}
 
-## Diamond no Ace act II: Second Season
+## Diamond no Ace act II: Second Season • Ace of the Diamond act II -Second Season-
 
 Episode|Link
 :-:|:-:
@@ -174,7 +174,7 @@ Episode|Link|Episode|Link
 13|[Link](https://ani.social/post/34169817)
 {.dense}
 
-## Ichijouma Mankitsu Gurashi! • Ichijyoma Mankitsu Gurashi!
+## Ichijouma Mankitsu-gurashi! • Ichijyoma Mankitsu Gurashi!
 
 Episode|Link
 :-:|:-:
@@ -197,7 +197,7 @@ Episode|Link
 12|[Link](https://ani.social/post/33551338)
 {.dense}
 
-## Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season
+## Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season • Reborn as a Vending Machine, I Now Wander the Dungeon Season 3
 
 Episode|Link
 :-:|:-:
@@ -272,7 +272,7 @@ Episode|Link
 5|[Link](https://ani.social/post/31212562)
 {.dense}
 
-## Kill Ao
+## Kill Ao • KILL BLUE
 
 Episode|Link
 :-:|:-:
@@ -280,7 +280,7 @@ Episode|Link
 2|[Link](https://ani.social/post/30406265)
 {.dense}
 
-## Kirio Fanclub
+## Kirio Fanclub • Kirio Fan Club
 
 Episode|Link
 :-:|:-:
@@ -389,7 +389,7 @@ Episode|Link
 2|[Link](https://ani.social/post/30135190)
 {.dense}
 
-## Mata Korosarete Shimatta no desu ne, Tantei-sama
+## Mata Korosarete Shimatta no desu ne, Tantei-sama • Killed again, Mr. Detective.
 
 Episode|Link
 :-:|:-:
@@ -400,7 +400,7 @@ Episode|Link
 8|[Link](https://ani.social/post/31922944)
 {.dense}
 
-## Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de"
+## Megami "Isekai Tensei Nani ni Naritai Desu ka" Ore "Yuusha no Rokkotsu de" • My Ribdiculous Reincarnation
 
 Episode|Link
 :-:|:-:
@@ -429,7 +429,7 @@ Episode|Link
 5|[Link](https://ani.social/post/31032726)
 {.dense}
 
-## Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken
+## Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken • Always a Catch!
 
 Episode|Link
 :-:|:-:
@@ -475,7 +475,7 @@ Episode|Link
 8|[Link](https://ani.social/post/32198863)
 {.dense}
 
-## Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season
+## Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2nd Season • The Angel Next Door Spoils Me Rotten2
 
 Episode|Link
 :-:|:-:
@@ -571,7 +571,7 @@ Episode|Link
 7|[Link](https://ani.social/post/31543186)
 {.dense}
 
-## Shunkashuutou Daikousha: Haru no Mai
+## Shunkashuutou Daikousha: Haru no Mai • Agents of the Four Seasons: Dance of Spring
 
 Episode|Link|Episode|Link
 :-:|:-:|:-:|:-:
@@ -599,7 +599,7 @@ Episode|Link
 3|[Link](https://ani.social/post/30363678)
 {.dense}
 
-## Tadaima, Ojamasaremasu!
+## Tadaima, Ojamasaremasu! • Pardon the Intrusion, I'm Home!
 
 Episode|Link
 :-:|:-:
