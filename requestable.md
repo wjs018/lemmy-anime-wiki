@@ -70,7 +70,7 @@ These shows have had episodes air already, but no thread was created because the
 | Katainaka no Ossan, Kensei ni Naru II | From Old Country Bumpkin to Master Swordsman II | https://anilist.co/anime/194829 | Episode 9 |
 | Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Bouken-roku | From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage | https://anilist.co/anime/208044 | Episode 11 |
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | Episode 17 |
-| Grand Blue Season 3 | Grand Blue Dreaming Season 3 | https://anilist.co/anime/199111 | Episode 9 |
+| Grand Blue Season 3 | Grand Blue Dreaming Season 3 | https://anilist.co/anime/199111 | Episode 10 |
 | Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season | HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2 | https://anilist.co/anime/209983 | Episode 10 |
 | Hanazakari no Kimitachi e 2nd Season | Hana-Kimi Season 2 | https://anilist.co/anime/209669 | Episode 11 |
 | Hanaori-san wa Tensei Shite mo Kenka ga Shitai | Hanaori-san Still Wants to Fight in the Next Life | https://anilist.co/anime/199066 | Episode 9 |
@@ -87,7 +87,7 @@ These shows have had episodes air already, but no thread was created because the
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 75 |
 | Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 22 |
 | Kyapi | Kyapi | https://anilist.co/anime/214893 | Episode 1 |
-| LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 22 |
+| LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 23 |
 | Let's Go Kaikigumi | Let's Go Kaikigumi | https://anilist.co/anime/200230 | Episode 10 |
 | Shiguang Dailiren III | Link Click Season 3 | https://anilist.co/anime/191832 | Episode 5 |
 | Odekake Kozame Season 2 | Little Shark's Day Out Season 2 | https://anilist.co/anime/204269 | Episode 22 |
