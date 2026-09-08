@@ -132,7 +132,7 @@ These shows have had episodes air already, but no thread was created because the
 | Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita | The Forsaken Saintess and Her Foodie Roadtrip in Another World | https://anilist.co/anime/209504 | Episode 10 |
 | Ryoumin 0-Nin Start no Henkyou Ryoushu-sama | The Frontier Lord Begins with Zero Subjects | https://anilist.co/anime/196218 | Episode 10 |
 | Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru | The Insipid Prince's Furtive Grab for the Throne | https://anilist.co/anime/169582 | Episode 10 |
-| Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu | The Oblivious Saint Can't Contain Her Power | https://anilist.co/anime/196219 | Episode 10 |
+| Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu | The Oblivious Saint Can't Contain Her Power | https://anilist.co/anime/196219 | Episode 11 |
 | Oni no Hanayome | The Ogre's Bride | https://anilist.co/anime/194219 | Episode 10 |
 | LV999 no Murabito | The Villager of Level 999 | https://anilist.co/anime/197715 | Episode 11 |
 | World Is Dancing | The World Is Dancing | https://anilist.co/anime/206521 | Episode 11 |
