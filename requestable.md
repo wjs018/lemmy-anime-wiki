@@ -52,7 +52,7 @@ These shows have had episodes air already, but no thread was created because the
 | BLEACH: Sennen Kessen-hen - Kashin-tan | BLEACH: Thousand-Year Blood War - The Calamity | https://anilist.co/anime/185874 | Episode 7 |
 | Guangyin Zhi Wai 2 | Beyond Time's Gaze 2 | https://anilist.co/anime/213356 | Episode 12 |
 | Bungou Stray Dogs Wan! 2 | Bungo Stray Dogs WAN! 2 | https://anilist.co/anime/201667 | Episode 10 |
-| Candy Caries | Candy Caries | https://anilist.co/anime/205772 | Episode 21 |
+| Candy Caries | Candy Caries | https://anilist.co/anime/205772 | Episode 22 |
 | Ugoku! Neko Mukashi Banashi | Cat Tales | https://anilist.co/anime/188529 | Episode 48 |
 | Chibi Godzilla no Gyakushuu 3 | Chibi Godzilla Raids Again Season 3 | https://anilist.co/anime/193883 | Episode 50 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 376 |
@@ -67,7 +67,7 @@ These shows have had episodes air already, but no thread was created because the
 | You Shou Yan 6th Season | Fabulous Beasts 6 | https://anilist.co/anime/213486 | Episode 7 |
 | Jiyi Guanli Ju (2026) | False Memory (2026) | https://anilist.co/anime/141953 | Episode 7 |
 | Honoo no Toukyuujyo Dodge Danko | Flaming Dodgeball Girl Danko | https://anilist.co/anime/195833 | Episode 10 |
-| Katainaka no Ossan, Kensei ni Naru II | From Old Country Bumpkin to Master Swordsman II | https://anilist.co/anime/194829 | Episode 9 |
+| Katainaka no Ossan, Kensei ni Naru II | From Old Country Bumpkin to Master Swordsman II | https://anilist.co/anime/194829 | Episode 10 |
 | Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Bouken-roku | From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage | https://anilist.co/anime/208044 | Episode 11 |
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | Episode 17 |
 | Grand Blue Season 3 | Grand Blue Dreaming Season 3 | https://anilist.co/anime/199111 | Episode 10 |
@@ -134,7 +134,7 @@ These shows have had episodes air already, but no thread was created because the
 | Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru | The Insipid Prince's Furtive Grab for the Throne | https://anilist.co/anime/169582 | Episode 10 |
 | Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu | The Oblivious Saint Can't Contain Her Power | https://anilist.co/anime/196219 | Episode 11 |
 | Oni no Hanayome | The Ogre's Bride | https://anilist.co/anime/194219 | Episode 10 |
-| LV999 no Murabito | The Villager of Level 999 | https://anilist.co/anime/197715 | Episode 11 |
+| LV999 no Murabito | The Villager of Level 999 | https://anilist.co/anime/197715 | Episode 12 |
 | World Is Dancing | The World Is Dancing | https://anilist.co/anime/206521 | Episode 11 |
 | Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha | The World's Strongest Rearguard | https://anilist.co/anime/198409 | Episode 10 |
 | Yami Shibai 17 | Theatre of Darkness: Yamishibai 17 | https://anilist.co/anime/213359 | Episode 9 |
@@ -145,7 +145,7 @@ These shows have had episodes air already, but no thread was created because the
 | Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 414 |
 | Yi Nian Yongheng 4 | Yi Nian Yongheng 4 | https://anilist.co/anime/199409 | Episode 10 |
 | Yoroi Shinden Samurai Troopers Part 2 | Yoroi-Shinden Samurai Troopers Cour 2 | https://anilist.co/anime/209800 | Episode 10 |
-| Youjo Shenki 2 | Youjo Shenki 2 | https://anilist.co/anime/213961 | Episode 9 |
+| Youjo Shenki 2 | Youjo Shenki 2 | https://anilist.co/anime/213961 | Episode 10 |
 | Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai | Young Ladies Don't Play Fighting Games | https://anilist.co/anime/128757 | Episode 10 |
 | mofusand | mofusand | https://anilist.co/anime/204656 | Episode 36 |
 {.dense}
