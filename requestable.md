@@ -138,7 +138,7 @@ These shows have had episodes air already, but no thread was created because the
 | World Is Dancing | The World Is Dancing | https://anilist.co/anime/206521 | Episode 11 |
 | Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha | The World's Strongest Rearguard | https://anilist.co/anime/198409 | Episode 10 |
 | Yami Shibai 17 | Theatre of Darkness: Yamishibai 17 | https://anilist.co/anime/213359 | Episode 9 |
-| Thunder 3 | Thunder 3 | https://anilist.co/anime/207254 | Episode 9 |
+| Thunder 3 | Thunder 3 | https://anilist.co/anime/207254 | Episode 10 |
 | Otomege Sekai wa Mob ni Kibishii Sekai desu 2 | Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2 | https://anilist.co/anime/159309 | Episode 10 |
 | Tefuda ga Oome no Victoria | Victoria of Many Faces | https://anilist.co/anime/198709 | Episode 10 |
 | Mairimashita! Iruma-kun 4 | Welcome to Demon School! Iruma-kun Season 4 | https://anilist.co/anime/184492 | Episode 21 |
