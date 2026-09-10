@@ -41,6 +41,7 @@ Episode|Link
 10|[Link](https://ani.social/post/35847060)
 11|[Link](https://ani.social/post/36136997)
 12|[Link](https://ani.social/post/36429018)
+13|[Link](https://ani.social/post/36713650)
 {.dense}
 
 ## Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu • A Livid Lady’s Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires
