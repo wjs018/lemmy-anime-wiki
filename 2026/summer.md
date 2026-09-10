@@ -422,6 +422,7 @@ Episode|Link
 7|[Link](https://ani.social/post/35849334)
 8|[Link](https://ani.social/post/36139253)
 9|[Link](https://ani.social/post/36431303)
+10|[Link](https://ani.social/post/36715647)
 {.dense}
 
 ## Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita • The Forsaken Saintess and Her Foodie Roadtrip in Another World
