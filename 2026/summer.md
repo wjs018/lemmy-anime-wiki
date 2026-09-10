@@ -507,6 +507,7 @@ Episode|Link
 8|[Link](https://ani.social/post/35850283)
 9|[Link](https://ani.social/post/36140352)
 10|[Link](https://ani.social/post/36432402)
+11|[Link](https://ani.social/post/36716624)
 {.dense}
 
 ## Uchi no Otouto-domo ga Sumimasen • Please Excuse My Younger Brothers
@@ -554,6 +555,7 @@ Episode|Link
 7|[Link](https://ani.social/post/35563974)
 8|[Link](https://ani.social/post/35850877)
 9|[Link](https://ani.social/post/36432406)
+10|[Link](https://ani.social/post/36716625)
 {.dense}
 
 ## Youjo Senki II • Saga of Tanya the Evil Season 2
