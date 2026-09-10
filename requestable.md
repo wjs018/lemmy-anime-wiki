@@ -18,7 +18,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | BanG Dream! Yume∞Mita | BanG Dream! Yume∞Mita | https://anilist.co/anime/198376 | [Link](https://ani.social/post/36429018) |
 | Yani Neko | Chainsmoker Cat | https://anilist.co/anime/207141 | [Link](https://ani.social/post/36432406) |
 | Kore Kaite Shine | Draw This, Then Die! | https://anilist.co/anime/188525 | [Link](https://ani.social/post/36472097) |
-| Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | [Link](https://ani.social/post/36426683) |
+| Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | [Link](https://ani.social/post/36711341) |
 | Sayonara Lara | Goodbye, Lara | https://anilist.co/anime/177637 | [Link](https://ani.social/post/36555354) |
 | Grow Up Show: Himawari no Circus-dan | Grow Up Show | https://anilist.co/anime/196017 | [Link](https://ani.social/post/36514503) |
 | Tenmaku no Jaadugar | Jaadugar: A Witch in Mongolia | https://anilist.co/anime/190569 | [Link](https://ani.social/post/36513300) |
@@ -86,7 +86,6 @@ These shows have had episodes air already, but no thread was created because the
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 49 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 75 |
 | Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 22 |
-| Kyapi | Kyapi | https://anilist.co/anime/214893 | Episode 1 |
 | LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 23 |
 | Let's Go Kaikigumi | Let's Go Kaikigumi | https://anilist.co/anime/200230 | Episode 10 |
 | Shiguang Dailiren III | Link Click Season 3 | https://anilist.co/anime/191832 | Episode 5 |
