@@ -15,7 +15,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
 | Honzuki no Gekokujou: Ryoushu no Youjo | Ascendance of a Bookworm: Adopted Daughter of an Archduke | https://anilist.co/anime/171110 | [Link](https://ani.social/post/36502347) |
-| BanG Dream! Yume∞Mita | BanG Dream! Yume∞Mita | https://anilist.co/anime/198376 | [Link](https://ani.social/post/36429018) |
+| BanG Dream! Yume∞Mita | BanG Dream! Yume∞Mita | https://anilist.co/anime/198376 | [Link](https://ani.social/post/36713650) |
 | Yani Neko | Chainsmoker Cat | https://anilist.co/anime/207141 | [Link](https://ani.social/post/36432406) |
 | Kore Kaite Shine | Draw This, Then Die! | https://anilist.co/anime/188525 | [Link](https://ani.social/post/36472097) |
 | Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | [Link](https://ani.social/post/36711341) |
@@ -115,6 +115,7 @@ These shows have had episodes air already, but no thread was created because the
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 157 |
 | Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita | Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School | https://anilist.co/anime/201514 | Episode 10 |
 | Rilakkuma | Rilakkuma | https://anilist.co/anime/183231 | Episode 23 |
+| Saishuu Gakushou Hibike! Euphonium - Kouhen | Saishuu Gakushou Hibike! Euphonium - Kouhen | https://anilist.co/anime/194116 | Episode 1 |
 | Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita | Saved By the Ice Cold Prince's Embrace | https://anilist.co/anime/213665 | Episode 10 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2848 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1351 |
@@ -155,6 +156,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
-| Saishuu Gakushou Hibike! Euphonium - Kouhen | Saishuu Gakushou Hibike! Euphonium - Kouhen | https://anilist.co/anime/194116 | September 10 at 15:00 |
 | Yani Neko Mini | Yani Neko Mini | https://anilist.co/anime/208105 | September 13 at 03:00 |
 {.dense}
