@@ -76,7 +76,7 @@ These shows have had episodes air already, but no thread was created because the
 | Hanaori-san wa Tensei Shite mo Kenka ga Shitai | Hanaori-san Still Wants to Fight in the Next Life | https://anilist.co/anime/199066 | Episode 9 |
 | Heroine? Seijo? Iie, All Works Maid desu (Ko)! | Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)! | https://anilist.co/anime/192800 | Episode 12 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 382 |
-| Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita. | I Became a Legend After My 10 Year-Long Last Stand | https://anilist.co/anime/199748 | Episode 10 |
+| Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita. | I Became a Legend After My 10 Year-Long Last Stand | https://anilist.co/anime/199748 | Episode 11 |
 | Kimi ga Shinu made Koi wo Shitai | I Want to Love You Till Your Dying Day | https://anilist.co/anime/187260 | Episode 10 |
 | Tetsunabe no Jan! | Iron Wok Jan! | https://anilist.co/anime/204060 | Episode 10 |
 | Jiaonang Jihua: Qiji | Jiaonang Jihua: Qiji | https://anilist.co/anime/213703 | Episode 8 |
@@ -130,7 +130,7 @@ These shows have had episodes air already, but no thread was created because the
 | "Kimi wo Aisuru Ki wa nai" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu | The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration | https://anilist.co/anime/208225 | Episode 10 |
 | Nige Jouzu no Wakagimi 2nd Season | The Elusive Samurai Season 2 | https://anilist.co/anime/182616 | Episode 8 |
 | Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita | The Forsaken Saintess and Her Foodie Roadtrip in Another World | https://anilist.co/anime/209504 | Episode 10 |
-| Ryoumin 0-Nin Start no Henkyou Ryoushu-sama | The Frontier Lord Begins with Zero Subjects | https://anilist.co/anime/196218 | Episode 10 |
+| Ryoumin 0-Nin Start no Henkyou Ryoushu-sama | The Frontier Lord Begins with Zero Subjects | https://anilist.co/anime/196218 | Episode 11 |
 | Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru | The Insipid Prince's Furtive Grab for the Throne | https://anilist.co/anime/169582 | Episode 10 |
 | Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu | The Oblivious Saint Can't Contain Her Power | https://anilist.co/anime/196219 | Episode 11 |
 | Oni no Hanayome | The Ogre's Bride | https://anilist.co/anime/194219 | Episode 10 |
