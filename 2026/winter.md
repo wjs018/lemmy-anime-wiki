@@ -321,7 +321,7 @@ Episode|Link
 12|[Link](https://ani.social/post/29319348)
 {.dense}
 
-## Osananajimi to wa Love Comedy ni Naranai • You Can't Be In a Rom-Com with Your Childhood Friends!
+## Osananajimi to wa Love Kome ni Naranai • You Can't Be In a Rom-Com with Your Childhood Friends!
 
 Episode|Link
 :-:|:-:
