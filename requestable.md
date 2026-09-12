@@ -133,7 +133,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ryoumin 0-Nin Start no Henkyou Ryoushu-sama | The Frontier Lord Begins with Zero Subjects | https://anilist.co/anime/196218 | Episode 11 |
 | Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru | The Insipid Prince's Furtive Grab for the Throne | https://anilist.co/anime/169582 | Episode 10 |
 | Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu | The Oblivious Saint Can't Contain Her Power | https://anilist.co/anime/196219 | Episode 11 |
-| Oni no Hanayome | The Ogre's Bride | https://anilist.co/anime/194219 | Episode 10 |
+| Oni no Hanayome | The Ogre's Bride | https://anilist.co/anime/194219 | Episode 11 |
 | LV999 no Murabito | The Villager of Level 999 | https://anilist.co/anime/197715 | Episode 12 |
 | World Is Dancing | The World Is Dancing | https://anilist.co/anime/206521 | Episode 11 |
 | Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha | The World's Strongest Rearguard | https://anilist.co/anime/198409 | Episode 10 |
