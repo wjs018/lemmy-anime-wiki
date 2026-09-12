@@ -118,7 +118,7 @@ These shows have had episodes air already, but no thread was created because the
 | Saishuu Gakushou Hibike! Euphonium - Kouhen | Saishuu Gakushou Hibike! Euphonium - Kouhen | https://anilist.co/anime/194116 | Episode 1 |
 | Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita | Saved By the Ice Cold Prince's Embrace | https://anilist.co/anime/213665 | Episode 10 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2848 |
-| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1351 |
+| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1352 |
 | Shiranuhi | Shiranuhi | https://anilist.co/anime/176373 | Episode 1 |
 | Shou 3 Ashibe QQ Goma-chan | Shou 3 Ashibe QQ Goma-chan | https://anilist.co/anime/202386 | Episode 22 |
 | Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II | Skeleton Knight in Another World Season 2 | https://anilist.co/anime/185542 | Episode 10 |
@@ -156,5 +156,9 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
+| Ghost Meets Gal! | Ghost Meets Gal! | https://anilist.co/anime/214703 | September 19 at 00:00 |
+| Meitantei Precure! Fushigi na Niwa to Futari no Himitsu | Meitantei Precure! Fushigi na Niwa to Futari no Himitsu | https://anilist.co/anime/198654 | September 17 at 15:00 |
+| PokéOki SEASON 2 | PokéOki SEASON 2 | https://anilist.co/anime/216625 | September 13 at 23:00 |
+| Wishing Umbrella | Wishing Umbrella | https://anilist.co/anime/216559 | September 12 at 12:00 |
 | Yani Neko Mini | Yani Neko Mini | https://anilist.co/anime/208105 | September 13 at 03:00 |
 {.dense}
