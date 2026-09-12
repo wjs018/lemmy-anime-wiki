@@ -69,6 +69,7 @@ These shows have had episodes air already, but no thread was created because the
 | Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Bouken-roku | From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage | https://anilist.co/anime/208044 | Episode 12 |
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | Episode 17 |
 | Grand Blue Season 3 | Grand Blue Dreaming Season 3 | https://anilist.co/anime/199111 | Episode 10 |
+| Grow Up Show: Himawari no Circus-dan | Grow Up Show | https://anilist.co/anime/196017 | Episode 11 |
 | Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season | HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2 | https://anilist.co/anime/209983 | Episode 11 |
 | Hanazakari no Kimitachi e 2nd Season | Hana-Kimi Season 2 | https://anilist.co/anime/209669 | Episode 12 |
 | Hanaori-san wa Tensei Shite mo Kenka ga Shitai | Hanaori-san Still Wants to Fight in the Next Life | https://anilist.co/anime/199066 | Episode 9 |
@@ -157,7 +158,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Ghost Meets Gal! | Ghost Meets Gal! | https://anilist.co/anime/214703 | September 19 at 00:00 |
-| Grow Up Show: Himawari no Circus-dan | Grow Up Show | https://anilist.co/anime/196017 | September 12 at 16:00 |
 | Meitantei Precure! Fushigi na Niwa to Futari no Himitsu | Meitantei Precure! Fushigi na Niwa to Futari no Himitsu | https://anilist.co/anime/198654 | September 17 at 15:00 |
 | PokéOki SEASON 2 | PokéOki SEASON 2 | https://anilist.co/anime/216625 | September 13 at 23:00 |
 | Yani Neko Mini | Yani Neko Mini | https://anilist.co/anime/208105 | September 13 at 03:00 |
