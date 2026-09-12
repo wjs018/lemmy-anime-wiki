@@ -43,7 +43,7 @@ These shows have had episodes air already, but no thread was created because the
 
 | Show Name | English Show Name | AniList Link | Most Recently Episode Number  |
 | :-------- | :---------------- | :----------- | :--------------------------: |
-| Zeri Feisheng | A Good Day to Ascend | https://anilist.co/anime/214260 | Episode 10 |
+| Zeri Feisheng | A Good Day to Ascend | https://anilist.co/anime/214260 | Episode 11 |
 | Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu | A Livid Lady’s Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires | https://anilist.co/anime/199408 | Episode 10 |
 | Azur Lane: Bisoku Zenshin! Ni!! | Anime AzurLane: Slow Ahead! Season 2 | https://anilist.co/anime/169080 | Episode 10 |
 | Aware! Meisaku-kun (2026) | Aware! Meisaku-kun (2026) | https://anilist.co/anime/205116 | Episode 10 |
