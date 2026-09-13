@@ -81,7 +81,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ushiro no Shoumen Kamui-san | KAMUI ---He's behind you | https://anilist.co/anime/207674 | Episode 11 |
 | Kidou Keisatsu Patlabor EZY File 2 | Kidou Keisatsu Patlabor EZY File 2 | https://anilist.co/anime/212652 | Episode 1 |
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 49 |
-| Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 75 |
+| Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 76 |
 | Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 23 |
 | LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 23 |
 | Let's Go Kaikigumi | Let's Go Kaikigumi | https://anilist.co/anime/200230 | Episode 10 |
