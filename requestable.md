@@ -58,7 +58,7 @@ These shows have had episodes air already, but no thread was created because the
 | Reiwa no Dara-san | Dara-san of the Reiwa Era | https://anilist.co/anime/203880 | Episode 11 |
 | Meitantei Conan | Detective Conan | https://anilist.co/anime/235 | Episode 1212 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 932 |
-| Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | Episode 51 |
+| Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | Episode 52 |
 | You Shou Yan 6th Season | Fabulous Beasts 6 | https://anilist.co/anime/213486 | Episode 7 |
 | Jiyi Guanli Ju (2026) | False Memory (2026) | https://anilist.co/anime/141953 | Episode 7 |
 | Honoo no Toukyuujyo Dodge Danko | Flaming Dodgeball Girl Danko | https://anilist.co/anime/195833 | Episode 10 |
@@ -140,7 +140,8 @@ These shows have had episodes air already, but no thread was created because the
 | Tefuda ga Oome no Victoria | Victoria of Many Faces | https://anilist.co/anime/198709 | Episode 10 |
 | Mairimashita! Iruma-kun 4 | Welcome to Demon School! Iruma-kun Season 4 | https://anilist.co/anime/184492 | Episode 22 |
 | Wishing Umbrella | Wishing Umbrella | https://anilist.co/anime/216559 | Episode 1 |
-| Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 414 |
+| Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 415 |
+| Yani Neko Mini | Yani Neko Mini | https://anilist.co/anime/208105 | Episode 19 |
 | Yi Nian Yongheng 4 | Yi Nian Yongheng 4 | https://anilist.co/anime/199409 | Episode 10 |
 | Yoroi Shinden Samurai Troopers Part 2 | Yoroi-Shinden Samurai Troopers Cour 2 | https://anilist.co/anime/209800 | Episode 10 |
 | Youjo Shenki 2 | Youjo Shenki 2 | https://anilist.co/anime/213961 | Episode 10 |
@@ -157,5 +158,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Ghost Meets Gal! | Ghost Meets Gal! | https://anilist.co/anime/214703 | September 19 at 00:00 |
 | Meitantei Precure! Fushigi na Niwa to Futari no Himitsu | Meitantei Precure! Fushigi na Niwa to Futari no Himitsu | https://anilist.co/anime/198654 | September 17 at 15:00 |
 | PokéOki SEASON 2 | PokéOki SEASON 2 | https://anilist.co/anime/216625 | September 13 at 23:00 |
-| Yani Neko Mini | Yani Neko Mini | https://anilist.co/anime/208105 | September 13 at 03:00 |
 {.dense}
