@@ -133,7 +133,7 @@ These shows have had episodes air already, but no thread was created because the
 | Oni no Hanayome | The Ogre's Bride | https://anilist.co/anime/194219 | Episode 11 |
 | LV999 no Murabito | The Villager of Level 999 | https://anilist.co/anime/197715 | Episode 12 |
 | World Is Dancing | The World Is Dancing | https://anilist.co/anime/206521 | Episode 11 |
-| Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha | The World's Strongest Rearguard | https://anilist.co/anime/198409 | Episode 10 |
+| Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha | The World's Strongest Rearguard | https://anilist.co/anime/198409 | Episode 11 |
 | Yami Shibai 17 | Theatre of Darkness: Yamishibai 17 | https://anilist.co/anime/213359 | Episode 9 |
 | Thunder 3 | Thunder 3 | https://anilist.co/anime/207254 | Episode 10 |
 | Otomege Sekai wa Mob ni Kibishii Sekai desu 2 | Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2 | https://anilist.co/anime/159309 | Episode 10 |
