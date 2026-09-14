@@ -96,7 +96,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ibitte Konai Gibo to Gishi | My Stepmother and Stepsisters Aren’t Wicked | https://anilist.co/anime/196356 | Episode 10 |
 | Kaijuu 8-gou: Narumi no Heijitsu | Narumi's Week at Work | https://anilist.co/anime/204431 | Episode 2 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1178 |
-| Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken | Oh Boy, Was I Wrong About Her | https://anilist.co/anime/169583 | Episode 10 |
+| Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken | Oh Boy, Was I Wrong About Her | https://anilist.co/anime/169583 | Episode 11 |
 | Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 24 |
 | Pan no Akachan (TV) | Pan no Akachan (TV) | https://anilist.co/anime/212308 | Episode 11 |
 | Perfect Addiction | Perfect Addiction | https://anilist.co/anime/213666 | Episode 10 |
@@ -157,6 +157,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Ghost Meets Gal! | Ghost Meets Gal! | https://anilist.co/anime/214703 | September 19 at 00:00 |
+| Let's Roll, Cinnamoroll! 2 | Let's Roll, Cinnamoroll! 2 | https://anilist.co/anime/213861 | September 16 at 04:00 |
 | Meitantei Precure! Fushigi na Niwa to Futari no Himitsu | Meitantei Precure! Fushigi na Niwa to Futari no Himitsu | https://anilist.co/anime/198654 | September 17 at 15:00 |
 | JoJo no Kimyou na Bouken: Steel Ball Run - 2nd - 3rd STAGE | STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE | https://anilist.co/anime/210482 | September 24 at 15:00 |
 | Wareware wa Uchuujin | Wareware wa Uchuujin | https://anilist.co/anime/202429 | September 24 at 15:00 |
