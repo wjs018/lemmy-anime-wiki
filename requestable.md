@@ -114,7 +114,7 @@ These shows have had episodes air already, but no thread was created because the
 | Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita | Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School | https://anilist.co/anime/201514 | Episode 11 |
 | Rilakkuma | Rilakkuma | https://anilist.co/anime/183231 | Episode 24 |
 | Saishuu Gakushou Hibike! Euphonium - Kouhen | Saishuu Gakushou Hibike! Euphonium - Kouhen | https://anilist.co/anime/194116 | Episode 1 |
-| Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita | Saved By the Ice Cold Prince's Embrace | https://anilist.co/anime/213665 | Episode 10 |
+| Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita | Saved By the Ice Cold Prince's Embrace | https://anilist.co/anime/213665 | Episode 11 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2849 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1352 |
 | Shiranuhi | Shiranuhi | https://anilist.co/anime/176373 | Episode 1 |
@@ -130,7 +130,7 @@ These shows have had episodes air already, but no thread was created because the
 | Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita | The Forsaken Saintess and Her Foodie Roadtrip in Another World | https://anilist.co/anime/209504 | Episode 11 |
 | Ryoumin 0-Nin Start no Henkyou Ryoushu-sama | The Frontier Lord Begins with Zero Subjects | https://anilist.co/anime/196218 | Episode 11 |
 | Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru | The Insipid Prince's Furtive Grab for the Throne | https://anilist.co/anime/169582 | Episode 11 |
-| Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu | The Oblivious Saint Can't Contain Her Power | https://anilist.co/anime/196219 | Episode 11 |
+| Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu | The Oblivious Saint Can't Contain Her Power | https://anilist.co/anime/196219 | Episode 12 |
 | Oni no Hanayome | The Ogre's Bride | https://anilist.co/anime/194219 | Episode 11 |
 | LV999 no Murabito | The Villager of Level 999 | https://anilist.co/anime/197715 | Episode 12 |
 | World Is Dancing | The World Is Dancing | https://anilist.co/anime/206521 | Episode 12 |
