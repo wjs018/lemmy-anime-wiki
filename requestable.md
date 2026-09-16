@@ -59,7 +59,7 @@ These shows have had episodes air already, but no thread was created because the
 | Meitantei Conan | Detective Conan | https://anilist.co/anime/235 | Episode 1212 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 932 |
 | Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | Episode 52 |
-| You Shou Yan 6th Season | Fabulous Beasts 6 | https://anilist.co/anime/213486 | Episode 7 |
+| You Shou Yan 6th Season | Fabulous Beasts 6 | https://anilist.co/anime/213486 | Episode 8 |
 | Jiyi Guanli Ju (2026) | False Memory (2026) | https://anilist.co/anime/141953 | Episode 7 |
 | Honoo no Toukyuujyo Dodge Danko | Flaming Dodgeball Girl Danko | https://anilist.co/anime/195833 | Episode 11 |
 | Katainaka no Ossan, Kensei ni Naru II | From Old Country Bumpkin to Master Swordsman II | https://anilist.co/anime/194829 | Episode 10 |
@@ -143,7 +143,7 @@ These shows have had episodes air already, but no thread was created because the
 | Wishing Umbrella | Wishing Umbrella | https://anilist.co/anime/216559 | Episode 1 |
 | Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 416 |
 | Yani Neko Mini | Yani Neko Mini | https://anilist.co/anime/208105 | Episode 19 |
-| Yi Nian Yongheng 4 | Yi Nian Yongheng 4 | https://anilist.co/anime/199409 | Episode 10 |
+| Yi Nian Yongheng 4 | Yi Nian Yongheng 4 | https://anilist.co/anime/199409 | Episode 11 |
 | Yoroi Shinden Samurai Troopers Part 2 | Yoroi-Shinden Samurai Troopers Cour 2 | https://anilist.co/anime/209800 | Episode 11 |
 | Youjo Shenki 2 | Youjo Shenki 2 | https://anilist.co/anime/213961 | Episode 10 |
 | Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai | Young Ladies Don't Play Fighting Games | https://anilist.co/anime/128757 | Episode 11 |
