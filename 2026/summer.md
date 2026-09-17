@@ -519,6 +519,7 @@ Episode|Link
 9|[Link](https://ani.social/post/36140352)
 10|[Link](https://ani.social/post/36432402)
 11|[Link](https://ani.social/post/36716624)
+12|[Link](https://ani.social/post/37016424)
 {.dense}
 
 ## Uchi no Otouto-domo ga Sumimasen • Please Excuse My Younger Brothers
