@@ -340,6 +340,7 @@ Episode|Link
 8|[Link](https://ani.social/post/35886837)
 9|[Link](https://ani.social/post/36440910)
 11|[Link](https://ani.social/post/36719444)
+12|[Link](https://ani.social/post/37018513)
 {.dense}
 
 ## Otomege Sekai wa Mob ni Kibishii Sekai desu 2 • Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2
