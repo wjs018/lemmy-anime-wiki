@@ -92,7 +92,7 @@ These shows have had episodes air already, but no thread was created because the
 | MAO | MAO | https://anilist.co/anime/196012 | Episode 24 |
 | Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | https://anilist.co/anime/185875 | Episode 11 |
 | Kabushiki Gaisha Magi Lumiere 2nd Season | Magilumiere Magical Girls Inc. Season 2 | https://anilist.co/anime/185692 | Episode 10 |
-| Mebius Dust | Mebius Dust | https://anilist.co/anime/108992 | Episode 10 |
+| Mebius Dust | Mebius Dust | https://anilist.co/anime/108992 | Episode 11 |
 | Mu Shen Ji 4 | Mu Shen Ji 4 | https://anilist.co/anime/211181 | Episode 22 |
 | Ibitte Konai Gibo to Gishi | My Stepmother and Stepsisters Aren’t Wicked | https://anilist.co/anime/196356 | Episode 11 |
 | Kaijuu 8-gou: Narumi no Heijitsu | Narumi's Week at Work | https://anilist.co/anime/204431 | Episode 2 |
@@ -161,6 +161,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Ghost Meets Gal! | Ghost Meets Gal! | https://anilist.co/anime/214703 | September 19 at 00:00 |
 | Hokuto no Ken: Kenou-gun Zako-tachi no Banka Part 2 | Hokuto no Ken: Kenou-gun Zako-tachi no Banka Part 2 | https://anilist.co/anime/213506 | September 20 at 16:00 |
 | Meitantei Precure! Fushigi na Niwa to Futari no Himitsu | Meitantei Precure! Fushigi na Niwa to Futari no Himitsu | https://anilist.co/anime/198654 | September 17 at 15:00 |
+| Temppal: Item no Chikara | Overgeared | https://anilist.co/anime/212888 | September 27 at 14:30 |
 | JoJo no Kimyou na Bouken: Steel Ball Run - 2nd - 3rd STAGE | STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE | https://anilist.co/anime/210482 | September 24 at 15:00 |
 | Wareware wa Uchuujin | Wareware wa Uchuujin | https://anilist.co/anime/202429 | September 24 at 15:00 |
 {.dense}
