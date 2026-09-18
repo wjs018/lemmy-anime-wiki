@@ -122,6 +122,7 @@ These shows have had episodes air already, but no thread was created because the
 | Snack HAZAMA | Snack HAZAMA | https://anilist.co/anime/213831 | Episode 11 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 170 |
 | Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 33 |
+| Tensei Shitara Slime Datta Ken 4th Season | That Time I Got Reincarnated as a Slime Season 4 | https://anilist.co/anime/182205 | Episode 23 |
 | Kuroneko to Majo no Kyoushitsu | The Classroom of the Black Cat and a Witch | https://anilist.co/anime/196974 | Episode 23 |
 | Kami no Shizuku | The Drops of God | https://anilist.co/anime/202508 | Episode 23 |
 | "Kimi wo Aisuru Ki wa nai" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu | The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration | https://anilist.co/anime/208225 | Episode 11 |
@@ -161,6 +162,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Hokuto no Ken: Kenou-gun Zako-tachi no Banka Part 2 | Hokuto no Ken: Kenou-gun Zako-tachi no Banka Part 2 | https://anilist.co/anime/213506 | September 20 at 16:00 |
 | Temppal: Item no Chikara | Overgeared | https://anilist.co/anime/212888 | September 27 at 14:30 |
 | JoJo no Kimyou na Bouken: Steel Ball Run - 2nd - 3rd STAGE | STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE | https://anilist.co/anime/210482 | September 24 at 15:00 |
-| Tensei Shitara Slime Datta Ken 4th Season | That Time I Got Reincarnated as a Slime Season 4 | https://anilist.co/anime/182205 | September 18 at 15:00 |
 | Wareware wa Uchuujin | Wareware wa Uchuujin | https://anilist.co/anime/202429 | September 24 at 15:00 |
 {.dense}
