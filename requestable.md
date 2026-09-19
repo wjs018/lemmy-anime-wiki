@@ -89,8 +89,8 @@ These shows have had episodes air already, but no thread was created because the
 | Odekake Kozame Season 2 | Little Shark's Day Out Season 2 | https://anilist.co/anime/204269 | Episode 23 |
 | Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita. | Love Unseen Beneath the Clear Night Sky | https://anilist.co/anime/202269 | Episode 11 |
 | MAO | MAO | https://anilist.co/anime/196012 | Episode 25 |
-| Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | https://anilist.co/anime/185875 | Episode 11 |
-| Kabushiki Gaisha Magi Lumiere 2nd Season | Magilumiere Magical Girls Inc. Season 2 | https://anilist.co/anime/185692 | Episode 10 |
+| Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | https://anilist.co/anime/185875 | Episode 12 |
+| Kabushiki Gaisha Magi Lumiere 2nd Season | Magilumiere Magical Girls Inc. Season 2 | https://anilist.co/anime/185692 | Episode 11 |
 | Mebius Dust | Mebius Dust | https://anilist.co/anime/108992 | Episode 11 |
 | Meitantei Precure! Fushigi na Niwa to Futari no Himitsu | Meitantei Precure! Fushigi na Niwa to Futari no Himitsu | https://anilist.co/anime/198654 | Episode 1 |
 | Mu Shen Ji 4 | Mu Shen Ji 4 | https://anilist.co/anime/211181 | Episode 23 |
