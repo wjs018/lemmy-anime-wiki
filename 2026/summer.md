@@ -76,6 +76,7 @@ Episode|Link
 8|[Link](https://ani.social/post/36265315)
 9|[Link](https://ani.social/post/36554464)
 10|[Link](https://ani.social/post/36834255)
+11|[Link](https://ani.social/post/37141378)
 {.dense}
 
 ## Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II • Skeleton Knight in Another World Season 2
@@ -275,6 +276,7 @@ Episode|Link
 10|[Link](https://ani.social/post/36265316)
 11|[Link](https://ani.social/post/36554469)
 12|[Link](https://ani.social/post/36834256)
+13|[Link](https://ani.social/post/37141380)
 {.dense}
 
 ## Neko to Ryuu • The Cat and the Dragon
