@@ -120,6 +120,7 @@ These shows have had episodes air already, but no thread was created because the
 | Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II | Skeleton Knight in Another World Season 2 | https://anilist.co/anime/185542 | Episode 11 |
 | Snack HAZAMA | Snack HAZAMA | https://anilist.co/anime/213831 | Episode 12 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 171 |
+| Nijusseiki Denki Mokuroku: Eureka Evrika | Sparks of Tomorrow | https://anilist.co/anime/103303 | Episode 12 |
 | Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 34 |
 | Kuroneko to Majo no Kyoushitsu | The Classroom of the Black Cat and a Witch | https://anilist.co/anime/196974 | Episode 23 |
 | Kami no Shizuku | The Drops of God | https://anilist.co/anime/202508 | Episode 24 |
@@ -159,7 +160,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Hokuto no Ken: Kenou-gun Zako-tachi no Banka Part 2 | Hokuto no Ken: Kenou-gun Zako-tachi no Banka Part 2 | https://anilist.co/anime/213506 | September 20 at 16:00 |
 | Temppal: Item no Chikara | Overgeared | https://anilist.co/anime/212888 | September 27 at 14:30 |
 | JoJo no Kimyou na Bouken: Steel Ball Run - 2nd - 3rd STAGE | STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE | https://anilist.co/anime/210482 | September 24 at 15:00 |
-| Nijusseiki Denki Mokuroku: Eureka Evrika | Sparks of Tomorrow | https://anilist.co/anime/103303 | September 20 at 15:00 |
 | Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen | The Prince of Tennis II U-17 WORLD CUP: Final Member Selection Match | https://anilist.co/anime/199068 | September 30 at 15:00 |
 | Wareware wa Uchuujin | Wareware wa Uchuujin | https://anilist.co/anime/202429 | September 24 at 15:00 |
 {.dense}
