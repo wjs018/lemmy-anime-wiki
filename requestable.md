@@ -18,14 +18,14 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kore Kaite Shine | Draw This, Then Die! | https://anilist.co/anime/188525 | [Link](https://ani.social/post/37054828) |
 | Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | [Link](https://ani.social/post/37010695) |
 | Sayonara Lara | Goodbye, Lara | https://anilist.co/anime/177637 | [Link](https://ani.social/post/36835424) |
-| Mushoku Tensei III: Isekai Ittara Honki Dasu | Mushoku Tensei: Jobless Reincarnation Season 3 | https://anilist.co/anime/178789 | [Link](https://ani.social/post/36834256) |
+| Mushoku Tensei III: Isekai Ittara Honki Dasu | Mushoku Tensei: Jobless Reincarnation Season 3 | https://anilist.co/anime/178789 | [Link](https://ani.social/post/37141380) |
 | Re:Zero kara Hajimeru Isekai Seikatsu 4th Season | Re:ZERO -Starting Life in Another World- Season 4 | https://anilist.co/anime/189046 | [Link](https://ani.social/post/36963830) |
 | Youjo Senki II | Saga of Tanya the Evil Season 2 | https://anilist.co/anime/135865 | [Link](https://ani.social/post/36960825) |
 | Super no Ura de Yani Suu Futari | Smoking Behind the Supermarket with You | https://anilist.co/anime/196187 | [Link](https://ani.social/post/37014771) |
 | Tensei Shitara Slime Datta Ken 4th Season | That Time I Got Reincarnated as a Slime Season 4 | https://anilist.co/anime/182205 | [Link](https://ani.social/post/37066197) |
 | Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season | The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3 | https://anilist.co/anime/200637 | [Link](https://ani.social/post/37137904) |
 | Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru | The Exiled Heavy Knight Knows How to Game the System | https://anilist.co/anime/180136 | [Link](https://ani.social/post/37016424) |
-| Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den | Though I Am an Inept Villainess | https://anilist.co/anime/188139 | [Link](https://ani.social/post/36834255) |
+| Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den | Though I Am an Inept Villainess | https://anilist.co/anime/188139 | [Link](https://ani.social/post/37141378) |
 | Seihantai na Kimi to Boku 2nd Season | You and I Are Polar Opposites Season 2 | https://anilist.co/anime/210031 | [Link](https://ani.social/post/36822186) |
 {.dense}
 
@@ -69,6 +69,7 @@ These shows have had episodes air already, but no thread was created because the
 | Hanazakari no Kimitachi e 2nd Season | Hana-Kimi Season 2 | https://anilist.co/anime/209669 | Episode 13 |
 | Hanaori-san wa Tensei Shite mo Kenka ga Shitai | Hanaori-san Still Wants to Fight in the Next Life | https://anilist.co/anime/199066 | Episode 11 |
 | Heroine? Seijo? Iie, All Works Maid desu (Ko)! | Heroine? Saint? No, I’m an All-Works Maid (And Proud of It)! | https://anilist.co/anime/192800 | Episode 12 |
+| Hokuto no Ken: Kenou-gun Zako-tachi no Banka Part 2 | Hokuto no Ken: Kenou-gun Zako-tachi no Banka Part 2 | https://anilist.co/anime/213506 | Episode 12 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 384 |
 | Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita. | I Became a Legend After My 10 Year-Long Last Stand | https://anilist.co/anime/199748 | Episode 12 |
 | Kimi ga Shinu made Koi wo Shitai | I Want to Love You Till Your Dying Day | https://anilist.co/anime/187260 | Episode 11 |
@@ -157,7 +158,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Yasei no Last Boss ga Arawareta! 2nd Season | A Wild Last Boss Appeared! Season 2 | https://anilist.co/anime/204389 | September 26 at 13:30 |
 | Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season | As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3 | https://anilist.co/anime/185756 | September 27 at 15:00 |
-| Hokuto no Ken: Kenou-gun Zako-tachi no Banka Part 2 | Hokuto no Ken: Kenou-gun Zako-tachi no Banka Part 2 | https://anilist.co/anime/213506 | September 20 at 16:00 |
 | Temppal: Item no Chikara | Overgeared | https://anilist.co/anime/212888 | September 27 at 14:30 |
 | Tensei Shitara Ken Deshita 2nd Season | Reincarnated as a Sword Season 2 | https://anilist.co/anime/159042 | September 30 at 15:30 |
 | JoJo no Kimyou na Bouken: Steel Ball Run - 2nd - 3rd STAGE | STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE | https://anilist.co/anime/210482 | September 24 at 15:00 |
