@@ -384,6 +384,7 @@ Episode|Link
 9|[Link](https://ani.social/post/36266294)
 10|[Link](https://ani.social/post/36555354)
 11|[Link](https://ani.social/post/36835424)
+12|[Link](https://ani.social/post/37142860)
 {.dense}
 
 ## Seihantai na Kimi to Boku 2nd Season • You and I Are Polar Opposites Season 2
