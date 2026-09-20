@@ -115,7 +115,7 @@ These shows have had episodes air already, but no thread was created because the
 | Rilakkuma | Rilakkuma | https://anilist.co/anime/183231 | Episode 25 |
 | Saishuu Gakushou Hibike! Euphonium - Kouhen | Saishuu Gakushou Hibike! Euphonium - Kouhen | https://anilist.co/anime/194116 | Episode 1 |
 | Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita | Saved By the Ice Cold Prince's Embrace | https://anilist.co/anime/213665 | Episode 11 |
-| Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2849 |
+| Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2850 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1353 |
 | Shou 3 Ashibe QQ Goma-chan | Shou 3 Ashibe QQ Goma-chan | https://anilist.co/anime/202386 | Episode 24 |
 | Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II | Skeleton Knight in Another World Season 2 | https://anilist.co/anime/185542 | Episode 11 |
