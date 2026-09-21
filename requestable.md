@@ -119,7 +119,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2850 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1353 |
 | Shou 3 Ashibe QQ Goma-chan | Shou 3 Ashibe QQ Goma-chan | https://anilist.co/anime/202386 | Episode 24 |
-| Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II | Skeleton Knight in Another World Season 2 | https://anilist.co/anime/185542 | Episode 11 |
+| Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II | Skeleton Knight in Another World Season 2 | https://anilist.co/anime/185542 | Episode 12 |
 | Snack HAZAMA | Snack HAZAMA | https://anilist.co/anime/213831 | Episode 12 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 171 |
 | Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 34 |
@@ -133,7 +133,7 @@ These shows have had episodes air already, but no thread was created because the
 | Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu | The Oblivious Saint Can't Contain Her Power | https://anilist.co/anime/196219 | Episode 12 |
 | Oni no Hanayome | The Ogre's Bride | https://anilist.co/anime/194219 | Episode 12 |
 | LV999 no Murabito | The Villager of Level 999 | https://anilist.co/anime/197715 | Episode 13 |
-| World Is Dancing | The World Is Dancing | https://anilist.co/anime/206521 | Episode 12 |
+| World Is Dancing | The World Is Dancing | https://anilist.co/anime/206521 | Episode 13 |
 | Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha | The World's Strongest Rearguard | https://anilist.co/anime/198409 | Episode 12 |
 | Yami Shibai 17 | Theatre of Darkness: Yamishibai 17 | https://anilist.co/anime/213359 | Episode 11 |
 | Thunder 3 | Thunder 3 | https://anilist.co/anime/207254 | Episode 11 |
