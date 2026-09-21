@@ -64,7 +64,7 @@ These shows have had episodes air already, but no thread was created because the
 | Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Bouken-roku | From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage | https://anilist.co/anime/208044 | Episode 12 |
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | Episode 17 |
 | Ghost Meets Gal! | Ghost Meets Gal! | https://anilist.co/anime/214703 | Episode 3 |
-| Grand Blue Season 3 | Grand Blue Dreaming Season 3 | https://anilist.co/anime/199111 | Episode 11 |
+| Grand Blue Season 3 | Grand Blue Dreaming Season 3 | https://anilist.co/anime/199111 | Episode 12 |
 | Grow Up Show: Himawari no Circus-dan | Grow Up Show | https://anilist.co/anime/196017 | Episode 12 |
 | Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season | HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2 | https://anilist.co/anime/209983 | Episode 12 |
 | Hanazakari no Kimitachi e 2nd Season | Hana-Kimi Season 2 | https://anilist.co/anime/209669 | Episode 13 |
@@ -82,7 +82,7 @@ These shows have had episodes air already, but no thread was created because the
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 49 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 77 |
 | Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 24 |
-| LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 24 |
+| LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 25 |
 | Let's Go Kaikigumi | Let's Go Kaikigumi | https://anilist.co/anime/200230 | Episode 12 |
 | Let's Roll, Cinnamoroll! 2 | Let's Roll, Cinnamoroll! 2 | https://anilist.co/anime/213861 | Episode 12 |
 | Shiguang Dailiren III | Link Click Season 3 | https://anilist.co/anime/191832 | Episode 7 |
