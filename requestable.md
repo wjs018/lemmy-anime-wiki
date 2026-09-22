@@ -76,7 +76,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kimi ga Shinu made Koi wo Shitai | I Want to Love You Till Your Dying Day | https://anilist.co/anime/187260 | Episode 11 |
 | Tetsunabe no Jan! | Iron Wok Jan! | https://anilist.co/anime/204060 | Episode 12 |
 | Jiaonang Jihua: Qiji | Jiaonang Jihua: Qiji | https://anilist.co/anime/213703 | Episode 8 |
-| Jueshi Zhan Hun 2 | Jueshi Zhan Hun 2 | https://anilist.co/anime/213188 | Episode 15 |
+| Jueshi Zhan Hun 2 | Jueshi Zhan Hun 2 | https://anilist.co/anime/213188 | Episode 16 |
 | Otome Kaijuu Caraméliser | KAIJU GIRL CARAMELISE | https://anilist.co/anime/204466 | Episode 10 |
 | Ushiro no Shoumen Kamui-san | KAMUI ---He's behind you | https://anilist.co/anime/207674 | Episode 12 |
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 49 |
@@ -140,7 +140,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tefuda ga Oome no Victoria | Victoria of Many Faces | https://anilist.co/anime/198709 | Episode 10 |
 | Mairimashita! Iruma-kun 4 | Welcome to Demon School! Iruma-kun Season 4 | https://anilist.co/anime/184492 | Episode 23 |
 | Wishing Umbrella | Wishing Umbrella | https://anilist.co/anime/216559 | Episode 1 |
-| Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 417 |
+| Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 418 |
 | Yani Neko Mini | Yani Neko Mini | https://anilist.co/anime/208105 | Episode 19 |
 | Yi Nian Yongheng 4 | Yi Nian Yongheng 4 | https://anilist.co/anime/199409 | Episode 11 |
 | Yoroi Shinden Samurai Troopers Part 2 | Yoroi-Shinden Samurai Troopers Cour 2 | https://anilist.co/anime/209800 | Episode 11 |
