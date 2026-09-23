@@ -164,6 +164,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | FX Senshi Kurumi-chan | FX Fighter Kurumi-chan | https://anilist.co/anime/206401 | October 01 at 12:30 |
 | Gensou Suikoden | Gensou Suikoden | https://anilist.co/anime/187316 | October 03 at 11:00 |
 | Keroro Gunsou☆ | Keroro Gunsou☆ | https://anilist.co/anime/216557 | October 03 at 00:30 |
+| Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru | Magical Explorer | https://anilist.co/anime/169581 | October 03 at 15:00 |
 | Meitantei Conan: 30-Gou Satsujin Jiken | Meitantei Conan: 30-Gou Satsujin Jiken | https://anilist.co/anime/217126 | September 25 at 13:00 |
 | Nezumi-kun no Chokki (TV) 2nd Season | Nezumi-kun no Chokki (TV) 2nd Season | https://anilist.co/anime/214968 | October 03 at 00:30 |
 | Temppal: Item no Chikara | Overgeared | https://anilist.co/anime/212888 | September 27 at 14:30 |
