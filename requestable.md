@@ -136,7 +136,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha | The World's Strongest Rearguard | https://anilist.co/anime/198409 | Episode 12 |
 | Yami Shibai 17 | Theatre of Darkness: Yamishibai 17 | https://anilist.co/anime/213359 | Episode 11 |
 | Thunder 3 | Thunder 3 | https://anilist.co/anime/207254 | Episode 11 |
-| Otomege Sekai wa Mob ni Kibishii Sekai desu 2 | Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2 | https://anilist.co/anime/159309 | Episode 11 |
+| Otomege Sekai wa Mob ni Kibishii Sekai desu 2 | Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2 | https://anilist.co/anime/159309 | Episode 12 |
 | Tefuda ga Oome no Victoria | Victoria of Many Faces | https://anilist.co/anime/198709 | Episode 10 |
 | Mairimashita! Iruma-kun 4 | Welcome to Demon School! Iruma-kun Season 4 | https://anilist.co/anime/184492 | Episode 23 |
 | Wishing Umbrella | Wishing Umbrella | https://anilist.co/anime/216559 | Episode 1 |
@@ -172,6 +172,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Tensei Shitara Ken Deshita 2nd Season | Reincarnated as a Sword Season 2 | https://anilist.co/anime/159042 | September 30 at 15:30 |
 | Romeria Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita | Romelia War Chronicle | https://anilist.co/anime/180894 | October 03 at 12:00 |
 | JoJo no Kimyou na Bouken: Steel Ball Run - 2nd - 3rd STAGE | STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE | https://anilist.co/anime/210482 | September 25 at 07:00 |
+| Seitokai ni mo Ana wa Aru! | Seitokai ni mo Ana wa Aru! | https://anilist.co/anime/191656 | October 03 at 15:30 |
 | Tougen Anki: Nikko・Kegon no Taki-hen | TOUGEN ANKI: Nikko Kegon Falls Arc | https://anilist.co/anime/204650 | October 02 at 14:30 |
 | Kusuriya no Hitorigoto 3rd Season | The Apothecary Diaries Season 3 | https://anilist.co/anime/195516 | October 02 at 14:00 |
 | Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen | The Prince of Tennis II U-17 WORLD CUP: Final Member Selection Match | https://anilist.co/anime/199068 | September 30 at 15:00 |
