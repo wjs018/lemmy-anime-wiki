@@ -91,7 +91,7 @@ These shows have had episodes air already, but no thread was created because the
 | MAO | MAO | https://anilist.co/anime/196012 | Episode 25 |
 | Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | https://anilist.co/anime/185875 | Episode 12 |
 | Kabushiki Gaisha Magi Lumiere 2nd Season | Magilumiere Magical Girls Inc. Season 2 | https://anilist.co/anime/185692 | Episode 11 |
-| Mebius Dust | Mebius Dust | https://anilist.co/anime/108992 | Episode 11 |
+| Mebius Dust | Mebius Dust | https://anilist.co/anime/108992 | Episode 12 |
 | Meitantei Precure! Fushigi na Niwa to Futari no Himitsu | Meitantei Precure! Fushigi na Niwa to Futari no Himitsu | https://anilist.co/anime/198654 | Episode 1 |
 | Mu Shen Ji 4 | Mu Shen Ji 4 | https://anilist.co/anime/211181 | Episode 23 |
 | Ibitte Konai Gibo to Gishi | My Stepmother and Stepsisters Aren’t Wicked | https://anilist.co/anime/196356 | Episode 11 |
@@ -163,6 +163,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season | As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3 | https://anilist.co/anime/185756 | September 27 at 15:00 |
 | Black Clover 2nd Season | Black Clover Season 2 | https://anilist.co/anime/195604 | October 03 at 14:00 |
 | Ao no Hako Season 2 | Blue Box Season 2 | https://anilist.co/anime/189123 | October 04 at 07:30 |
+| Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta | Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé | https://anilist.co/anime/200455 | October 04 at 14:30 |
 | FX Senshi Kurumi-chan | FX Fighter Kurumi-chan | https://anilist.co/anime/206401 | October 01 at 12:30 |
 | Gensou Suikoden | Gensou Suikoden | https://anilist.co/anime/187316 | October 03 at 11:00 |
 | Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu | Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu | https://anilist.co/anime/202250 | October 03 at 16:30 |
