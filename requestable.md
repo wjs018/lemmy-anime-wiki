@@ -24,7 +24,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Nijusseiki Denki Mokuroku: Eureka Evrika | Sparks of Tomorrow | https://anilist.co/anime/103303 | [Link](https://ani.social/post/37150404) |
 | Tensei Shitara Slime Datta Ken 4th Season | That Time I Got Reincarnated as a Slime Season 4 | https://anilist.co/anime/182205 | [Link](https://ani.social/post/37066197) |
 | Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season | The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3 | https://anilist.co/anime/200637 | [Link](https://ani.social/post/37137904) |
-| Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru | The Exiled Heavy Knight Knows How to Game the System | https://anilist.co/anime/180136 | [Link](https://ani.social/post/37016424) |
+| Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru | The Exiled Heavy Knight Knows How to Game the System | https://anilist.co/anime/180136 | [Link](https://ani.social/post/37307097) |
 | Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den | Though I Am an Inept Villainess | https://anilist.co/anime/188139 | [Link](https://ani.social/post/37141378) |
 | Seihantai na Kimi to Boku 2nd Season | You and I Are Polar Opposites Season 2 | https://anilist.co/anime/210031 | [Link](https://ani.social/post/36822186) |
 {.dense}
@@ -46,7 +46,7 @@ These shows have had episodes air already, but no thread was created because the
 | Bungou Stray Dogs Wan! 2 | Bungo Stray Dogs WAN! 2 | https://anilist.co/anime/201667 | Episode 12 |
 | Candy Caries | Candy Caries | https://anilist.co/anime/205772 | Episode 24 |
 | Ugoku! Neko Mukashi Banashi | Cat Tales | https://anilist.co/anime/188529 | Episode 50 |
-| Yani Neko | Chainsmoker Cat | https://anilist.co/anime/207141 | Episode 11 |
+| Yani Neko | Chainsmoker Cat | https://anilist.co/anime/207141 | Episode 12 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 380 |
 | Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou | Clevatess Season 2 | https://anilist.co/anime/198946 | Episode 12 |
 | Bai Ri Cheng Wang | Crowned in a Hundred Days | https://anilist.co/anime/213484 | Episode 25 |
@@ -168,6 +168,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | FX Senshi Kurumi-chan | FX Fighter Kurumi-chan | https://anilist.co/anime/206401 | October 01 at 12:30 |
 | Gensou Suikoden | Gensou Suikoden | https://anilist.co/anime/187316 | October 03 at 11:00 |
 | Hotel Inhumans 2nd Season | HOTEL INHUMANS Season 2 | https://anilist.co/anime/199426 | October 04 at 14:45 |
+| Dark Summoner to Dekiteiru | I'm Dating a Dark Summoner | https://anilist.co/anime/208025 | October 04 at 16:20 |
 | Kanata Kara | Kanata Kara | https://anilist.co/anime/209463 | October 04 at 15:00 |
 | Kanojo no Tomodachi | Kanojo no Tomodachi | https://anilist.co/anime/211877 | October 04 at 16:05 |
 | Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu | Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu | https://anilist.co/anime/202250 | October 03 at 16:30 |
