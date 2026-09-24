@@ -47,7 +47,7 @@ These shows have had episodes air already, but no thread was created because the
 | Candy Caries | Candy Caries | https://anilist.co/anime/205772 | Episode 24 |
 | Ugoku! Neko Mukashi Banashi | Cat Tales | https://anilist.co/anime/188529 | Episode 50 |
 | Yani Neko | Chainsmoker Cat | https://anilist.co/anime/207141 | Episode 12 |
-| Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 380 |
+| Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 381 |
 | Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou | Clevatess Season 2 | https://anilist.co/anime/198946 | Episode 12 |
 | Bai Ri Cheng Wang | Crowned in a Hundred Days | https://anilist.co/anime/213484 | Episode 25 |
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | Episode 48 |
