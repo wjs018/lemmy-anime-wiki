@@ -53,7 +53,7 @@ These shows have had episodes air already, but no thread was created because the
 | Bai Ri Cheng Wang | Crowned in a Hundred Days | https://anilist.co/anime/213484 | Episode 25 |
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | Episode 48 |
 | Yomi no Tsugai | Daemons of the Shadow Realm | https://anilist.co/anime/195600 | Episode 24 |
-| Reiwa no Dara-san | Dara-san of the Reiwa Era | https://anilist.co/anime/203880 | Episode 12 |
+| Reiwa no Dara-san | Dara-san of the Reiwa Era | https://anilist.co/anime/203880 | Episode 13 |
 | Meitantei Conan | Detective Conan | https://anilist.co/anime/235 | Episode 1213 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 933 |
 | Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | Episode 53 |
@@ -167,6 +167,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu | Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu | https://anilist.co/anime/202250 | October 03 at 16:30 |
 | Keroro Gunsou☆ | Keroro Gunsou☆ | https://anilist.co/anime/216557 | October 03 at 00:30 |
 | Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru | Magical Explorer | https://anilist.co/anime/169581 | October 03 at 15:00 |
+| Mahou no Shimai LuluttoLilly Part 2 | Mahou no Shimai LuluttoLilly Part 2 | https://anilist.co/anime/209032 | October 04 at 13:30 |
 | Meitantei Conan: 30-Gou Satsujin Jiken | Meitantei Conan: 30-Gou Satsujin Jiken | https://anilist.co/anime/217126 | September 25 at 13:00 |
 | Nezumi-kun no Chokki (TV) 2nd Season | Nezumi-kun no Chokki (TV) 2nd Season | https://anilist.co/anime/214968 | October 03 at 00:30 |
 | Temppal: Item no Chikara | Overgeared | https://anilist.co/anime/212888 | September 27 at 14:30 |
