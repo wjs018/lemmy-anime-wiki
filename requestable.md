@@ -161,6 +161,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Aoki Denshou: Welsh and Shedar | Aoki Denshou: Welsh and Shedar | https://anilist.co/anime/216895 | October 02 at 12:26 |
 | Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season | As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3 | https://anilist.co/anime/185756 | September 27 at 15:00 |
 | Black Clover 2nd Season | Black Clover Season 2 | https://anilist.co/anime/195604 | October 03 at 14:00 |
+| Ao no Hako Season 2 | Blue Box Season 2 | https://anilist.co/anime/189123 | October 04 at 07:30 |
 | FX Senshi Kurumi-chan | FX Fighter Kurumi-chan | https://anilist.co/anime/206401 | October 01 at 12:30 |
 | Gensou Suikoden | Gensou Suikoden | https://anilist.co/anime/187316 | October 03 at 11:00 |
 | Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu | Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu | https://anilist.co/anime/202250 | October 03 at 16:30 |
