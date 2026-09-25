@@ -14,17 +14,24 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
+| Yasei no Last Boss ga Arawareta! 2nd Season | A Wild Last Boss Appeared! Season 2 | https://anilist.co/anime/204389 |  |
+| Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season | As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3 | https://anilist.co/anime/185756 |  |
 | Honzuki no Gekokujou: Ryoushu no Youjo | Ascendance of a Bookworm: Adopted Daughter of an Archduke | https://anilist.co/anime/171110 | [Link](https://ani.social/post/37087360) |
+| Cyberpunk: Edgerunners 2 | Cyberpunk: Edgerunners 2 | https://anilist.co/anime/195539 |  |
 | Kore Kaite Shine | Draw This, Then Die! | https://anilist.co/anime/188525 | [Link](https://ani.social/post/37054828) |
 | Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | [Link](https://ani.social/post/37301245) |
 | Sayonara Lara | Goodbye, Lara | https://anilist.co/anime/177637 | [Link](https://ani.social/post/37142860) |
 | Mushoku Tensei III: Isekai Ittara Honki Dasu | Mushoku Tensei: Jobless Reincarnation Season 3 | https://anilist.co/anime/178789 | [Link](https://ani.social/post/37141380) |
 | Re:Zero kara Hajimeru Isekai Seikatsu 4th Season | Re:ZERO -Starting Life in Another World- Season 4 | https://anilist.co/anime/189046 | [Link](https://ani.social/post/37262142) |
+| Tensei Shitara Ken Deshita 2nd Season | Reincarnated as a Sword Season 2 | https://anilist.co/anime/159042 |  |
+| Romeria Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita | Romelia War Chronicle | https://anilist.co/anime/180894 |  |
+| JoJo no Kimyou na Bouken: Steel Ball Run - 2nd - 3rd STAGE | STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE | https://anilist.co/anime/210482 |  |
 | Youjo Senki II | Saga of Tanya the Evil Season 2 | https://anilist.co/anime/135865 | [Link](https://ani.social/post/37260783) |
 | Nijusseiki Denki Mokuroku: Eureka Evrika | Sparks of Tomorrow | https://anilist.co/anime/103303 | [Link](https://ani.social/post/37150404) |
 | Tensei Shitara Slime Datta Ken 4th Season | That Time I Got Reincarnated as a Slime Season 4 | https://anilist.co/anime/182205 | [Link](https://ani.social/post/37066197) |
 | Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season | The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3 | https://anilist.co/anime/200637 | [Link](https://ani.social/post/37137904) |
 | Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru | The Exiled Heavy Knight Knows How to Game the System | https://anilist.co/anime/180136 | [Link](https://ani.social/post/37307097) |
+| Koori no Jouheki 2nd Season | The Ramparts of Ice Season 2 | https://anilist.co/anime/213805 |  |
 | Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den | Though I Am an Inept Villainess | https://anilist.co/anime/188139 | [Link](https://ani.social/post/37141378) |
 | Seihantai na Kimi to Boku 2nd Season | You and I Are Polar Opposites Season 2 | https://anilist.co/anime/210031 | [Link](https://ani.social/post/36822186) |
 {.dense}
@@ -158,10 +165,8 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | #Zombie Sagashitemasu | #I'm Looking For a Zombie | https://anilist.co/anime/199007 | October 03 at 14:30 |
 | Tensei shita Dai Seijo wa, Seijo de Aru Koto wo Hita Kakusu | A Tale of the Secret Saint | https://anilist.co/anime/187402 | October 03 at 13:00 |
-| Yasei no Last Boss ga Arawareta! 2nd Season | A Wild Last Boss Appeared! Season 2 | https://anilist.co/anime/204389 | September 26 at 13:30 |
 | Aoashi 2nd Season | Aoashi Season 2 | https://anilist.co/anime/191788 | October 04 at 14:00 |
 | Aoki Denshou: Welsh and Shedar | Aoki Denshou: Welsh and Shedar | https://anilist.co/anime/216895 | October 02 at 12:26 |
-| Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season | As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3 | https://anilist.co/anime/185756 | September 27 at 15:00 |
 | Black Clover 2nd Season | Black Clover Season 2 | https://anilist.co/anime/195604 | October 03 at 14:00 |
 | Ao no Hako Season 2 | Blue Box Season 2 | https://anilist.co/anime/189123 | October 04 at 07:30 |
 | Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta | Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé | https://anilist.co/anime/200455 | October 04 at 14:30 |
@@ -183,14 +188,10 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Punirunes Puni 4 | Punirunes Puni 4 | https://anilist.co/anime/216860 | October 04 at 00:16 |
 | Ranma 1/2 (2024) 3rd Season | Ranma1/2 (2024) Season 3 | https://anilist.co/anime/209872 | October 03 at 15:56 |
 | Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai | Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! | https://anilist.co/anime/186541 | October 04 at 12:30 |
-| Tensei Shitara Ken Deshita 2nd Season | Reincarnated as a Sword Season 2 | https://anilist.co/anime/159042 | September 30 at 15:30 |
-| Romeria Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita | Romelia War Chronicle | https://anilist.co/anime/180894 | October 03 at 12:00 |
-| JoJo no Kimyou na Bouken: Steel Ball Run - 2nd - 3rd STAGE | STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE | https://anilist.co/anime/210482 | September 25 at 07:00 |
 | Seitokai ni mo Ana wa Aru! | Seitokai ni mo Ana wa Aru! | https://anilist.co/anime/191656 | October 03 at 15:30 |
 | Tougen Anki: Nikko・Kegon no Taki-hen | TOUGEN ANKI: Nikko Kegon Falls Arc | https://anilist.co/anime/204650 | October 02 at 14:30 |
 | Kusuriya no Hitorigoto 3rd Season | The Apothecary Diaries Season 3 | https://anilist.co/anime/195516 | October 02 at 14:00 |
 | Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen | The Prince of Tennis II U-17 WORLD CUP: Final Member Selection Match | https://anilist.co/anime/199068 | September 30 at 15:00 |
-| Koori no Jouheki 2nd Season | The Ramparts of Ice Season 2 | https://anilist.co/anime/213805 | October 01 at 02:56 |
 | Tokyo Revengers: Santen Sensou-hen | Tokyo Revengers: Santen Sensou-hen | https://anilist.co/anime/178083 | October 02 at 16:53 |
 | Oji-san wa Kawaii Mono ga Osuki. | Uncle's Obsession with Cute Things | https://anilist.co/anime/202079 | October 04 at 13:00 |
 | Vertex Force | Vertex Force | https://anilist.co/anime/209562 | October 03 at 14:30 |
