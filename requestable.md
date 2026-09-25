@@ -42,7 +42,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Sasaki to Pii-chan Season 2 | Sasaki and Peeps Season 2 | https://anilist.co/anime/176314 |  |
 | Seitokai ni mo Ana wa Aru! | Seitokai ni mo Ana wa Aru! | https://anilist.co/anime/191656 |  |
 | Nijusseiki Denki Mokuroku: Eureka Evrika | Sparks of Tomorrow | https://anilist.co/anime/103303 | [Link](https://ani.social/post/37150404) |
-| Tensei Shitara Slime Datta Ken 4th Season | That Time I Got Reincarnated as a Slime Season 4 | https://anilist.co/anime/182205 | [Link](https://ani.social/post/37066197) |
+| Tensei Shitara Slime Datta Ken 4th Season | That Time I Got Reincarnated as a Slime Season 4 | https://anilist.co/anime/182205 | [Link](https://ani.social/post/37344809) |
 | Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 3rd Season | The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 3 | https://anilist.co/anime/200637 | [Link](https://ani.social/post/37137904) |
 | Kusuriya no Hitorigoto 3rd Season | The Apothecary Diaries Season 3 | https://anilist.co/anime/195516 |  |
 | Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru | The Exiled Heavy Knight Knows How to Game the System | https://anilist.co/anime/180136 | [Link](https://ani.social/post/37307097) |
