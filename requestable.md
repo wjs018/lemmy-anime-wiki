@@ -37,7 +37,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai | Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! | https://anilist.co/anime/186541 |  |
 | Tensei Shitara Ken Deshita 2nd Season | Reincarnated as a Sword Season 2 | https://anilist.co/anime/159042 |  |
 | Romeria Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita | Romelia War Chronicle | https://anilist.co/anime/180894 |  |
-| JoJo no Kimyou na Bouken: Steel Ball Run - 2nd - 3rd STAGE | STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE | https://anilist.co/anime/210482 |  |
+| JoJo no Kimyou na Bouken: Steel Ball Run - 2nd - 3rd STAGE | STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE | https://anilist.co/anime/210482 | [Link](https://ani.social/post/37332001) |
 | Youjo Senki II | Saga of Tanya the Evil Season 2 | https://anilist.co/anime/135865 | [Link](https://ani.social/post/37260783) |
 | Sasaki to Pii-chan Season 2 | Sasaki and Peeps Season 2 | https://anilist.co/anime/176314 |  |
 | Seitokai ni mo Ana wa Aru! | Seitokai ni mo Ana wa Aru! | https://anilist.co/anime/191656 |  |
