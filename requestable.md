@@ -190,7 +190,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Kanojo no Tomodachi | Kanojo no Tomodachi | https://anilist.co/anime/211877 | October 04 at 16:05 |
 | Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu | Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu | https://anilist.co/anime/202250 | October 03 at 16:30 |
 | Keroro Gunsou☆ | Keroro Gunsou☆ | https://anilist.co/anime/216557 | October 03 at 00:30 |
-| Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru | Magical Explorer | https://anilist.co/anime/169581 | October 03 at 15:00 |
+| Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru | Magical Explorer | https://anilist.co/anime/169581 | September 25 at 22:16 |
 | Mahou Shoujo Ikusei Keikaku: restart | Mahou Shoujo Ikusei Keikaku: restart | https://anilist.co/anime/160803 | October 05 at 17:00 |
 | Mahou no Shimai LuluttoLilly Part 2 | Mahou no Shimai LuluttoLilly Part 2 | https://anilist.co/anime/209032 | October 04 at 13:30 |
 | Nezumi-kun no Chokki (TV) 2nd Season | Nezumi-kun no Chokki (TV) 2nd Season | https://anilist.co/anime/214968 | October 03 at 00:30 |
