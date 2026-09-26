@@ -199,6 +199,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Pan Dorobou | Pan Dorobou | https://anilist.co/anime/194207 | October 02 at 09:40 |
 | Punirunes Puni 4 | Punirunes Puni 4 | https://anilist.co/anime/216860 | October 04 at 00:16 |
 | Ranma 1/2 (2024) 3rd Season | Ranma1/2 (2024) Season 3 | https://anilist.co/anime/209872 | October 03 at 15:56 |
+| Shiotaiou no Satou-san ga Ore ni dake Amai | Shiotaiou no Satou-san ga Ore ni dake Amai | https://anilist.co/anime/209502 | October 06 at 13:00 |
 | Tougen Anki: Nikko・Kegon no Taki-hen | TOUGEN ANKI: Nikko Kegon Falls Arc | https://anilist.co/anime/204650 | October 02 at 14:30 |
 | Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen | The Prince of Tennis II U-17 WORLD CUP: Final Member Selection Match | https://anilist.co/anime/199068 | September 30 at 15:00 |
 | Tokyo Revengers: Santen Sensou-hen | Tokyo Revengers: Santen Sensou-hen | https://anilist.co/anime/178083 | October 02 at 16:53 |
