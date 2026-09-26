@@ -102,12 +102,12 @@ These shows have had episodes air already, but no thread was created because the
 | Ushiro no Shoumen Kamui-san | KAMUI ---He's behind you | https://anilist.co/anime/207674 | Episode 12 |
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 49 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 77 |
-| Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 24 |
+| Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 25 |
 | LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 25 |
 | Let's Go Kaikigumi | Let's Go Kaikigumi | https://anilist.co/anime/200230 | Episode 12 |
 | Let's Roll, Cinnamoroll! 2 | Let's Roll, Cinnamoroll! 2 | https://anilist.co/anime/213861 | Episode 12 |
 | Shiguang Dailiren III | Link Click Season 3 | https://anilist.co/anime/191832 | Episode 8 |
-| Odekake Kozame Season 2 | Little Shark's Day Out Season 2 | https://anilist.co/anime/204269 | Episode 24 |
+| Odekake Kozame Season 2 | Little Shark's Day Out Season 2 | https://anilist.co/anime/204269 | Episode 25 |
 | Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita. | Love Unseen Beneath the Clear Night Sky | https://anilist.co/anime/202269 | Episode 12 |
 | MAO | MAO | https://anilist.co/anime/196012 | Episode 26 |
 | Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru | Magical Explorer | https://anilist.co/anime/169581 | Episode 1 |
@@ -125,7 +125,7 @@ These shows have had episodes air already, but no thread was created because the
 | Pan no Akachan (TV) | Pan no Akachan (TV) | https://anilist.co/anime/212308 | Episode 13 |
 | Perfect Addiction | Perfect Addiction | https://anilist.co/anime/213666 | Episode 12 |
 | PetitCure: Precure Fairies Season 3 | PetitCure: Precure Fairies Season 3 | https://anilist.co/anime/209541 | Episode 27 |
-| Plannosaurus Gachi Koseibutsu-bu | Plannosaurus Gachi Koseibutsu-bu | https://anilist.co/anime/208824 | Episode 11 |
+| Plannosaurus Gachi Koseibutsu-bu | Plannosaurus Gachi Koseibutsu-bu | https://anilist.co/anime/208824 | Episode 12 |
 | Uchi no Otouto-domo ga Sumimasen | Please Excuse My Younger Brothers | https://anilist.co/anime/203490 | Episode 13 |
 | PokéOki SEASON 2 | PokéOki SEASON 2 | https://anilist.co/anime/216625 | Episode 3 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 151 |
