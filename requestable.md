@@ -77,7 +77,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yomi no Tsugai | Daemons of the Shadow Realm | https://anilist.co/anime/195600 | Episode 24 |
 | Reiwa no Dara-san | Dara-san of the Reiwa Era | https://anilist.co/anime/203880 | Episode 13 |
 | Meitantei Conan | Detective Conan | https://anilist.co/anime/235 | Episode 1213 |
-| Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 933 |
+| Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 934 |
 | Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | Episode 53 |
 | You Shou Yan 6th Season | Fabulous Beasts 6 | https://anilist.co/anime/213486 | Episode 9 |
 | Jiyi Guanli Ju (2026) | False Memory (2026) | https://anilist.co/anime/141953 | Episode 7 |
