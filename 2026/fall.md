@@ -17,3 +17,10 @@ Episode|Link
 1|[Link](https://ani.social/post/37332001)
 {.dense}
 
+## Yasei no Last Boss ga Arawareta! 2nd Season • A Wild Last Boss Appeared! Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/37380918)
+{.dense}
+
