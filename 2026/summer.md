@@ -263,9 +263,9 @@ Episode|Link
 
 ## Mushoku Tensei III: Isekai Ittara Honki Dasu • Mushoku Tensei: Jobless Reincarnation Season 3
 
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/33867627)
+Episode|Link|Episode|Link
+:-:|:-:|:-:|:-:
+1|[Link](https://ani.social/post/33867627)|14|[Link](https://ani.social/post/37423674)
 2|[Link](https://ani.social/post/33868310)
 3|[Link](https://ani.social/post/34221592)
 4|[Link](https://ani.social/post/34512467)
