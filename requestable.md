@@ -17,7 +17,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | #Zombie Sagashitemasu | #I'm Looking For a Zombie | https://anilist.co/anime/199007 |  |
 | Yasei no Last Boss ga Arawareta! 2nd Season | A Wild Last Boss Appeared! Season 2 | https://anilist.co/anime/204389 | [Link](https://ani.social/post/37380918) |
 | Aoashi 2nd Season | Aoashi Season 2 | https://anilist.co/anime/191788 |  |
-| Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season | As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3 | https://anilist.co/anime/185756 |  |
+| Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season | As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3 | https://anilist.co/anime/185756 | [Link](https://ani.social/post/37421341) |
 | Honzuki no Gekokujou: Ryoushu no Youjo | Ascendance of a Bookworm: Adopted Daughter of an Archduke | https://anilist.co/anime/171110 | [Link](https://ani.social/post/37375230) |
 | Ao no Hako Season 2 | Blue Box Season 2 | https://anilist.co/anime/189123 |  |
 | Cyberpunk: Edgerunners 2 | Cyberpunk: Edgerunners 2 | https://anilist.co/anime/195539 |  |
@@ -38,7 +38,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | JoJo no Kimyou na Bouken: Steel Ball Run - 2nd and 3rd STAGE | STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE | https://anilist.co/anime/210482 | [Link](https://ani.social/post/37332001) |
 | Sasaki to Pii-chan Season 2 | Sasaki and Peeps Season 2 | https://anilist.co/anime/176314 |  |
 | Seitokai ni mo Ana wa Aru! | Seitokai ni mo Ana wa Aru! | https://anilist.co/anime/191656 |  |
-| Nijusseiki Denki Mokuroku: Eureka Evrika | Sparks of Tomorrow | https://anilist.co/anime/103303 | [Link](https://ani.social/post/37150404) |
+| Nijusseiki Denki Mokuroku: Eureka Evrika | Sparks of Tomorrow | https://anilist.co/anime/103303 | [Link](https://ani.social/post/37421340) |
 | Kusuriya no Hitorigoto 3rd Season | The Apothecary Diaries Season 3 | https://anilist.co/anime/195516 |  |
 | Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru | The Exiled Heavy Knight Knows How to Game the System | https://anilist.co/anime/180136 | [Link](https://ani.social/post/37307097) |
 | Koori no Jouheki 2nd Season | The Ramparts of Ice Season 2 | https://anilist.co/anime/213805 |  |
