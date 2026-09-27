@@ -17,6 +17,13 @@ Episode|Link
 1|[Link](https://ani.social/post/37332001)
 {.dense}
 
+## Temppal: Item no Chikara • Overgeared
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/37420282)
+{.dense}
+
 ## Yasei no Last Boss ga Arawareta! 2nd Season • A Wild Last Boss Appeared! Season 2
 
 Episode|Link
