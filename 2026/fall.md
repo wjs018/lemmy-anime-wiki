@@ -24,6 +24,13 @@ Episode|Link
 1|[Link](https://ani.social/post/37420282)
 {.dense}
 
+## Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season • As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/37421341)
+{.dense}
+
 ## Yasei no Last Boss ga Arawareta! 2nd Season • A Wild Last Boss Appeared! Season 2
 
 Episode|Link
