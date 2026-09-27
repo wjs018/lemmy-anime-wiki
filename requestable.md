@@ -121,7 +121,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kaijuu 8-gou: Narumi no Heijitsu | Narumi's Week at Work | https://anilist.co/anime/204431 | Episode 4 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1179 |
 | Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken | Oh Boy, Was I Wrong About Her | https://anilist.co/anime/169583 | Episode 12 |
-| Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 25 |
+| Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 26 |
 | Pan no Akachan (TV) | Pan no Akachan (TV) | https://anilist.co/anime/212308 | Episode 13 |
 | Perfect Addiction | Perfect Addiction | https://anilist.co/anime/213666 | Episode 12 |
 | PetitCure: Precure Fairies Season 3 | PetitCure: Precure Fairies Season 3 | https://anilist.co/anime/209541 | Episode 27 |
@@ -144,7 +144,7 @@ These shows have had episodes air already, but no thread was created because the
 | Super no Ura de Yani Suu Futari | Smoking Behind the Supermarket with You | https://anilist.co/anime/196187 | Episode 12 |
 | Snack HAZAMA | Snack HAZAMA | https://anilist.co/anime/213831 | Episode 12 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 172 |
-| Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 34 |
+| Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 35 |
 | Kuroneko to Majo no Kyoushitsu | The Classroom of the Black Cat and a Witch | https://anilist.co/anime/196974 | Episode 24 |
 | Kami no Shizuku | The Drops of God | https://anilist.co/anime/202508 | Episode 24 |
 | "Kimi wo Aisuru Ki wa nai" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu | The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration | https://anilist.co/anime/208225 | Episode 12 |
