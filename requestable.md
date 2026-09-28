@@ -183,6 +183,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Choujun! Choujou Senpai | Choujun! Choujou Senpai | https://anilist.co/anime/200294 | October 06 at 14:00 |
 | Dawang Raoming 3 | Dawang Raoming 3 | https://anilist.co/anime/199353 | October 03 at 02:00 |
 | Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta | Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé | https://anilist.co/anime/200455 | October 04 at 14:30 |
+| Girls und Panzer: Saishuushou 5 | Girls und Panzer: Saishuushou 5 | https://anilist.co/anime/202390 | October 08 at 15:00 |
 | Hotel Inhumans 2nd Season | HOTEL INHUMANS Season 2 | https://anilist.co/anime/199426 | October 04 at 14:45 |
 | Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu. | Hello, I am a Witch and my Crush Wants me to Make a Love Potion! | https://anilist.co/anime/207191 | October 05 at 12:30 |
 | Dark Summoner to Dekiteiru | I'm Dating a Dark Summoner | https://anilist.co/anime/208025 | October 04 at 16:20 |
@@ -200,10 +201,12 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Punirunes Puni 4 | Punirunes Puni 4 | https://anilist.co/anime/216860 | October 04 at 00:16 |
 | Ranma 1/2 (2024) 3rd Season | Ranma1/2 (2024) Season 3 | https://anilist.co/anime/209872 | October 03 at 15:56 |
 | Shiotaiou no Satou-san ga Ore ni dake Amai | Shiotaiou no Satou-san ga Ore ni dake Amai | https://anilist.co/anime/209502 | October 06 at 13:00 |
+| Tetsuryou! meet with Tetsudou Musume | TETSURYO! Meet With Tetsudou Musume | https://anilist.co/anime/199594 | October 08 at 15:00 |
 | Tougen Anki: Nikko・Kegon no Taki-hen | TOUGEN ANKI: Nikko Kegon Falls Arc | https://anilist.co/anime/204650 | October 02 at 14:30 |
 | Tantei wa mou, Shindeiru. Season 2 | The Detective Is Already Dead Season 2 | https://anilist.co/anime/152677 | October 07 at 12:30 |
 | Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni "Kyouka Point" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu? | The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life | https://anilist.co/anime/207329 | October 06 at 15:00 |
 | Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen | The Prince of Tennis II U-17 WORLD CUP: Final Member Selection Match | https://anilist.co/anime/199068 | September 30 at 15:00 |
+| Doko yori mo Tooi Basho ni Iru Kimi e | To You in the Beyond | https://anilist.co/anime/207327 | October 08 at 15:00 |
 | Tokyo Revengers: Santen Sensou-hen | Tokyo Revengers: Santen Sensou-hen | https://anilist.co/anime/178083 | October 02 at 16:53 |
 | Oji-san wa Kawaii Mono ga Osuki. | Uncle's Obsession with Cute Things | https://anilist.co/anime/202079 | October 04 at 13:00 |
 | Vertex Force | Vertex Force | https://anilist.co/anime/209562 | October 03 at 14:30 |
