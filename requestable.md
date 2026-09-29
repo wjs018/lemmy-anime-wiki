@@ -89,7 +89,7 @@ These shows have had episodes air already, but no thread was created because the
 | Hokuto no Ken: Kenou-gun Zako-tachi no Banka Part 2 | Hokuto no Ken: Kenou-gun Zako-tachi no Banka Part 2 | https://anilist.co/anime/213506 | Episode 12 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 385 |
 | Koko wa Ore ni Makasete Saki ni Ike to Ittekara 10-nen ga Tattara Densetsu ni Natteita. | I Became a Legend After My 10 Year-Long Last Stand | https://anilist.co/anime/199748 | Episode 12 |
-| Kimi ga Shinu made Koi wo Shitai | I Want to Love You Till Your Dying Day | https://anilist.co/anime/187260 | Episode 12 |
+| Kimi ga Shinu made Koi wo Shitai | I Want to Love You Till Your Dying Day | https://anilist.co/anime/187260 | Episode 13 |
 | Tetsunabe no Jan! | Iron Wok Jan! | https://anilist.co/anime/204060 | Episode 12 |
 | Jueshi Zhan Hun 2 | Jueshi Zhan Hun 2 | https://anilist.co/anime/213188 | Episode 17 |
 | Otome Kaijuu Caraméliser | KAIJU GIRL CARAMELISE | https://anilist.co/anime/204466 | Episode 10 |
@@ -208,6 +208,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni "Kyouka Point" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu? | The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life | https://anilist.co/anime/207329 | October 06 at 15:00 |
 | Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen | The Prince of Tennis II U-17 WORLD CUP: Final Member Selection Match | https://anilist.co/anime/199068 | September 30 at 15:00 |
 | Doko yori mo Tooi Basho ni Iru Kimi e | To You in the Beyond | https://anilist.co/anime/207327 | October 08 at 15:00 |
+| Toaru Anbu no ITEM | Toaru Anbu no ITEM | https://anilist.co/anime/186742 | October 09 at 13:30 |
 | Tokyo Revengers: Santen Sensou-hen | Tokyo Revengers: Santen Sensou-hen | https://anilist.co/anime/178083 | October 02 at 16:53 |
 | Oji-san wa Kawaii Mono ga Osuki. | Uncle's Obsession with Cute Things | https://anilist.co/anime/202079 | October 04 at 13:00 |
 | Vertex Force | Vertex Force | https://anilist.co/anime/209562 | October 03 at 14:30 |
