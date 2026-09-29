@@ -181,6 +181,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Black Clover 2nd Season | Black Clover Season 2 | https://anilist.co/anime/195604 | October 03 at 14:00 |
 | Choujun! Choujou Senpai | Choujun! Choujou Senpai | https://anilist.co/anime/200294 | October 06 at 14:00 |
 | Dawang Raoming 3 | Dawang Raoming 3 | https://anilist.co/anime/199353 | October 03 at 02:00 |
+| Duel Masters LOST: Danzai no Shounen | Duel Masters LOST: Danzai no Shounen | https://anilist.co/anime/208367 | October 09 at 12:00 |
 | Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta | Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé | https://anilist.co/anime/200455 | October 04 at 14:30 |
 | Girls und Panzer: Saishuushou 5 | Girls und Panzer: Saishuushou 5 | https://anilist.co/anime/202390 | October 08 at 15:00 |
 | Hotel Inhumans 2nd Season | HOTEL INHUMANS Season 2 | https://anilist.co/anime/199426 | October 04 at 14:45 |
