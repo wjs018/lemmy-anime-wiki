@@ -75,7 +75,6 @@ These shows have had episodes air already, but no thread was created because the
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 934 |
 | Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | Episode 54 |
 | You Shou Yan 6th Season | Fabulous Beasts 6 | https://anilist.co/anime/213486 | Episode 9 |
-| Jiyi Guanli Ju (2026) | False Memory (2026) | https://anilist.co/anime/141953 | Episode 7 |
 | Honoo no Toukyuujyo Dodge Danko | Flaming Dodgeball Girl Danko | https://anilist.co/anime/195833 | Episode 12 |
 | Katainaka no Ossan, Kensei ni Naru II | From Old Country Bumpkin to Master Swordsman II | https://anilist.co/anime/194829 | Episode 12 |
 | Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Bouken-roku | From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage | https://anilist.co/anime/208044 | Episode 12 |
