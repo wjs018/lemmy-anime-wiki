@@ -180,6 +180,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Battle Spirits [Re] Zekkai No Ku | Battle Spirits [Re] Zekkai No Ku | https://anilist.co/anime/187990 | October 06 at 14:00 |
 | Black Clover 2nd Season | Black Clover Season 2 | https://anilist.co/anime/195604 | October 03 at 14:00 |
 | Choujun! Choujou Senpai | Choujun! Choujou Senpai | https://anilist.co/anime/200294 | October 06 at 14:00 |
+| Da Xia Shou Mu Ren | Da Xia Shou Mu Ren | https://anilist.co/anime/214974 | October 07 at 02:00 |
 | Dawang Raoming 3 | Dawang Raoming 3 | https://anilist.co/anime/199353 | October 03 at 02:00 |
 | Duel Masters LOST: Danzai no Shounen | Duel Masters LOST: Danzai no Shounen | https://anilist.co/anime/208367 | October 09 at 12:00 |
 | Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta | Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé | https://anilist.co/anime/200455 | October 04 at 14:30 |
