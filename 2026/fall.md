@@ -31,6 +31,13 @@ Episode|Link
 1|[Link](https://ani.social/post/37421341)
 {.dense}
 
+## Tensei Shitara Ken Deshita 2nd Season • Reincarnated as a Sword Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/37545008)
+{.dense}
+
 ## Yasei no Last Boss ga Arawareta! 2nd Season • A Wild Last Boss Appeared! Season 2
 
 Episode|Link
