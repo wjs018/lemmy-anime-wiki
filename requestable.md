@@ -177,6 +177,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Kikansha no Mahou wa Tokubetsu desu 2nd Season | A Returner's Magic Should be Special Season 2 | https://anilist.co/anime/172192 | October 07 at 15:45 |
 | Tensei shita Dai Seijo wa, Seijo de Aru Koto wo Hita Kakusu | A Tale of the Secret Saint | https://anilist.co/anime/187402 | October 03 at 13:00 |
+| Diamond no Ace act II: Second Season Part 2 | Ace of the Diamond act II -Second Season- | https://anilist.co/anime/213658 | October 11 at 08:30 |
 | Aoki Denshou: Welsh and Shedar | Aoki Denshou: Welsh and Shedar | https://anilist.co/anime/216895 | October 02 at 12:26 |
 | Battle Spirits [Re] Zekkai No Ku | Battle Spirits [Re] Zekkai No Ku | https://anilist.co/anime/187990 | October 06 at 14:00 |
 | Black Clover 2nd Season | Black Clover Season 2 | https://anilist.co/anime/195604 | October 03 at 14:00 |
