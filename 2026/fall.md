@@ -17,6 +17,13 @@ Episode|Link
 1|[Link](https://ani.social/post/37332001)
 {.dense}
 
+## Koori no Jouheki 2nd Season • The Ramparts of Ice Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/37566915)
+{.dense}
+
 ## Temppal: Item no Chikara • Overgeared
 
 Episode|Link
