@@ -516,9 +516,9 @@ Episode|Link
 
 ## Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru • The Exiled Heavy Knight Knows How to Game the System
 
-Episode|Link
-:-:|:-:
-1|[Link](https://ani.social/post/33795897)
+Episode|Link|Episode|Link
+:-:|:-:|:-:|:-:
+1|[Link](https://ani.social/post/33795897)|14|[Link](https://ani.social/post/37588815)
 2|[Link](https://ani.social/post/34094013)
 3|[Link](https://ani.social/post/34392059)
 4|[Link](https://ani.social/post/34690282)
