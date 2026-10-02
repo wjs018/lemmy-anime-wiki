@@ -32,6 +32,13 @@ Episode|Link
 1|[Link](https://ani.social/post/37566915)
 {.dense}
 
+## Kusuriya no Hitorigoto 3rd Season • The Apothecary Diaries Season 3
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/37624146)
+{.dense}
+
 ## Temppal: Item no Chikara • Overgeared
 
 Episode|Link
