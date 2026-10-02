@@ -56,7 +56,7 @@ These shows have had episodes air already, but no thread was created because the
 | Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu | A Livid Lady’s Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires | https://anilist.co/anime/199408 | Episode 12 |
 | Azur Lane: Bisoku Zenshin! Ni!! | Anime AzurLane: Slow Ahead! Season 2 | https://anilist.co/anime/169080 | Episode 12 |
 | Aware! Meisaku-kun (2026) | Aware! Meisaku-kun (2026) | https://anilist.co/anime/205116 | Episode 12 |
-| BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 134 |
+| BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 135 |
 | BLACK TORCH | BLACK TORCH | https://anilist.co/anime/187538 | Episode 12 |
 | BLEACH: Sennen Kessen-hen - Kashin-tan | BLEACH: Thousand-Year Blood War - The Calamity | https://anilist.co/anime/185874 | Episode 9 |
 | Guangyin Zhi Wai 2 | Beyond Time's Gaze 2 | https://anilist.co/anime/213356 | Episode 15 |
