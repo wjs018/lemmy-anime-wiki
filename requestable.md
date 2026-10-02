@@ -158,6 +158,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha | The World's Strongest Rearguard | https://anilist.co/anime/198409 | Episode 12 |
 | Yami Shibai 17 | Theatre of Darkness: Yamishibai 17 | https://anilist.co/anime/213359 | Episode 12 |
 | Thunder 3 | Thunder 3 | https://anilist.co/anime/207254 | Episode 12 |
+| Tokyo Revengers: Santen Sensou-hen | Tokyo Revengers: Santen Sensou-hen | https://anilist.co/anime/178083 | Episode 1 |
 | Otomege Sekai wa Mob ni Kibishii Sekai desu 2 | Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2 | https://anilist.co/anime/159309 | Episode 12 |
 | Umayuru: Full Gate! | Umayuru: Full Gate! | https://anilist.co/anime/215835 | Episode 1 |
 | Tefuda ga Oome no Victoria | Victoria of Many Faces | https://anilist.co/anime/198709 | Episode 10 |
@@ -217,7 +218,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Marronnier Oukoku no Shichinin no Kishi | The Seven Knights of the Marronnier Kingdom | https://anilist.co/anime/212799 | October 03 at 09:25 |
 | Doko yori mo Tooi Basho ni Iru Kimi e | To You in the Beyond | https://anilist.co/anime/207327 | October 08 at 15:00 |
 | Toaru Anbu no ITEM | Toaru Anbu no ITEM | https://anilist.co/anime/186742 | October 09 at 13:30 |
-| Tokyo Revengers: Santen Sensou-hen | Tokyo Revengers: Santen Sensou-hen | https://anilist.co/anime/178083 | October 02 at 16:53 |
 | Oji-san wa Kawaii Mono ga Osuki. | Uncle's Obsession with Cute Things | https://anilist.co/anime/202079 | October 04 at 13:00 |
 | Vertex Force | Vertex Force | https://anilist.co/anime/209562 | October 03 at 14:30 |
 | Kizu darake Seijo yori Houfuku wo Komete Season2 | With Vengeance, Sincerely, Your Broken Saintess Season 2 | https://anilist.co/anime/212144 | October 08 at 16:00 |
