@@ -53,6 +53,13 @@ Episode|Link
 1|[Link](https://ani.social/post/37624146)
 {.dense}
 
+## Marronnier Oukoku no Shichinin no Kishi • The Seven Knights of the Marronnier Kingdom
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/37675638)
+{.dense}
+
 ## Romeria Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita • Romelia War Chronicle
 
 Episode|Link
