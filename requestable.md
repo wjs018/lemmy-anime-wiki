@@ -108,7 +108,7 @@ These shows have had episodes air already, but no thread was created because the
 | Let's Go Kaikigumi | Let's Go Kaikigumi | https://anilist.co/anime/200230 | Episode 12 |
 | Let's Roll, Cinnamoroll! 2 | Let's Roll, Cinnamoroll! 2 | https://anilist.co/anime/213861 | Episode 12 |
 | Shiguang Dailiren III | Link Click Season 3 | https://anilist.co/anime/191832 | Episode 9 |
-| Odekake Kozame Season 2 | Little Shark's Day Out Season 2 | https://anilist.co/anime/204269 | Episode 25 |
+| Odekake Kozame Season 2 | Little Shark's Day Out Season 2 | https://anilist.co/anime/204269 | Episode 26 |
 | Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita. | Love Unseen Beneath the Clear Night Sky | https://anilist.co/anime/202269 | Episode 12 |
 | MAO | MAO | https://anilist.co/anime/196012 | Episode 26 |
 | Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru | Magical Explorer | https://anilist.co/anime/169581 | Episode 2 |
