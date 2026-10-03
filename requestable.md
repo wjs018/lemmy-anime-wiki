@@ -131,6 +131,7 @@ These shows have had episodes air already, but no thread was created because the
 | Plannosaurus Gachi Koseibutsu-bu | Plannosaurus Gachi Koseibutsu-bu | https://anilist.co/anime/208824 | Episode 12 |
 | PokéOki SEASON 2 | PokéOki SEASON 2 | https://anilist.co/anime/216625 | Episode 4 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 151 |
+| Ranma 1/2 (2024) 3rd Season | Ranma1/2 (2024) Season 3 | https://anilist.co/anime/209872 | Episode 1 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | https://anilist.co/anime/210687 | Episode 19 |
 | Iwamoto-senpai no Suisen | Recommendations from Iwamoto-Senpai | https://anilist.co/anime/206249 | Episode 12 |
 | Sora wa Akai Kawa no Hotori | Red River | https://anilist.co/anime/207809 | Episode 13 |
@@ -212,7 +213,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | PSYЯEN | PSYREN | https://anilist.co/anime/204011 | October 05 at 14:00 |
 | PetitCure: Precure Fairies Season 4 | PetitCure: Precure Fairies Season 4 | https://anilist.co/anime/217624 | October 08 at 10:30 |
 | Punirunes Puni 4 | Punirunes Puni 4 | https://anilist.co/anime/216860 | October 04 at 00:16 |
-| Ranma 1/2 (2024) 3rd Season | Ranma1/2 (2024) Season 3 | https://anilist.co/anime/209872 | October 03 at 15:56 |
 | Shiotaiou no Satou-san ga Ore ni dake Amai | Shiotaiou no Satou-san ga Ore ni dake Amai | https://anilist.co/anime/209502 | October 06 at 13:00 |
 | Tetsuryou! meet with Tetsudou Musume | TETSURYO! Meet With Tetsudou Musume | https://anilist.co/anime/199594 | October 08 at 15:00 |
 | Tantei wa mou, Shindeiru. Season 2 | The Detective Is Already Dead Season 2 | https://anilist.co/anime/152677 | October 07 at 12:30 |
