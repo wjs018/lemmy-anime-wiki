@@ -117,7 +117,7 @@ These shows have had episodes air already, but no thread was created because the
 | Mebius Dust | Mebius Dust | https://anilist.co/anime/108992 | Episode 12 |
 | Meitantei Conan: 30-Gou Satsujin Jiken | Meitantei Conan: 30-Gou Satsujin Jiken | https://anilist.co/anime/217126 | Episode 1 |
 | Meitantei Precure! Fushigi na Niwa to Futari no Himitsu | Meitantei Precure! Fushigi na Niwa to Futari no Himitsu | https://anilist.co/anime/198654 | Episode 1 |
-| Mu Shen Ji 4 | Mu Shen Ji 4 | https://anilist.co/anime/211181 | Episode 24 |
+| Mu Shen Ji 4 | Mu Shen Ji 4 | https://anilist.co/anime/211181 | Episode 25 |
 | Ibitte Konai Gibo to Gishi | My Stepmother and Stepsisters Aren’t Wicked | https://anilist.co/anime/196356 | Episode 12 |
 | Kaijuu 8-gou: Narumi no Heijitsu | Narumi's Week at Work | https://anilist.co/anime/204431 | Episode 4 |
 | Nezumi-kun no Chokki (TV) 2nd Season | Nezumi-kun no Chokki (TV) 2nd Season | https://anilist.co/anime/214968 | Episode 1 |
