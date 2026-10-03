@@ -169,7 +169,7 @@ Episode|Link|Episode|Link
 8|[Link](https://ani.social/post/32326851)|21|[Link](https://ani.social/post/36783907)
 9|[Link](https://ani.social/post/32658041)|22|[Link](https://ani.social/post/37087360)
 10|[Link](https://ani.social/post/32964382)|23|[Link](https://ani.social/post/37375230)
-11|[Link](https://ani.social/post/33265630)
+11|[Link](https://ani.social/post/33265630)|24|[Link](https://ani.social/post/37660084)
 12|[Link](https://ani.social/post/33568042)
 13|[Link](https://ani.social/post/34169817)
 {.dense}
