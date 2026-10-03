@@ -63,6 +63,7 @@ These shows have had episodes air already, but no thread was created because the
 | BLACK TORCH | BLACK TORCH | https://anilist.co/anime/187538 | Episode 12 |
 | BLEACH: Sennen Kessen-hen - Kashin-tan | BLEACH: Thousand-Year Blood War - The Calamity | https://anilist.co/anime/185874 | Episode 9 |
 | Guangyin Zhi Wai 2 | Beyond Time's Gaze 2 | https://anilist.co/anime/213356 | Episode 16 |
+| Black Clover 2nd Season | Black Clover Season 2 | https://anilist.co/anime/195604 | Episode 1 |
 | Bungou Stray Dogs Wan! 2 | Bungo Stray Dogs WAN! 2 | https://anilist.co/anime/201667 | Episode 12 |
 | Candy Caries | Candy Caries | https://anilist.co/anime/205772 | Episode 24 |
 | Ugoku! Neko Mukashi Banashi | Cat Tales | https://anilist.co/anime/188529 | Episode 50 |
@@ -189,7 +190,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Kikansha no Mahou wa Tokubetsu desu 2nd Season | A Returner's Magic Should be Special Season 2 | https://anilist.co/anime/172192 | October 07 at 15:45 |
 | Diamond no Ace act II: Second Season Part 2 | Ace of the Diamond act II -Second Season- | https://anilist.co/anime/213658 | October 11 at 08:30 |
 | Battle Spirits [Re] Zekkai No Ku | Battle Spirits [Re] Zekkai No Ku | https://anilist.co/anime/187990 | October 06 at 14:00 |
-| Black Clover 2nd Season | Black Clover Season 2 | https://anilist.co/anime/195604 | October 03 at 14:00 |
 | Choujun! Choujou Senpai | Choujun! Choujou Senpai | https://anilist.co/anime/200294 | October 06 at 14:00 |
 | Da Xia Shou Mu Ren | Da Xia Shou Mu Ren | https://anilist.co/anime/214974 | October 07 at 02:00 |
 | Duel Masters LOST: Danzai no Shounen | Duel Masters LOST: Danzai no Shounen | https://anilist.co/anime/208367 | October 09 at 12:00 |
