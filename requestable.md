@@ -96,6 +96,7 @@ These shows have had episodes air already, but no thread was created because the
 | Jueshi Zhan Hun 2 | Jueshi Zhan Hun 2 | https://anilist.co/anime/213188 | Episode 17 |
 | Otome Kaijuu Caraméliser | KAIJU GIRL CARAMELISE | https://anilist.co/anime/204466 | Episode 10 |
 | Ushiro no Shoumen Kamui-san | KAMUI ---He's behind you | https://anilist.co/anime/207674 | Episode 12 |
+| Keroro Gunsou☆ | Keroro Gunsou☆ | https://anilist.co/anime/216557 | Episode 1 |
 | Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 49 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 78 |
 | Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 25 |
@@ -116,11 +117,12 @@ These shows have had episodes air already, but no thread was created because the
 | Mu Shen Ji 4 | Mu Shen Ji 4 | https://anilist.co/anime/211181 | Episode 24 |
 | Ibitte Konai Gibo to Gishi | My Stepmother and Stepsisters Aren’t Wicked | https://anilist.co/anime/196356 | Episode 12 |
 | Kaijuu 8-gou: Narumi no Heijitsu | Narumi's Week at Work | https://anilist.co/anime/204431 | Episode 4 |
+| Nezumi-kun no Chokki (TV) 2nd Season | Nezumi-kun no Chokki (TV) 2nd Season | https://anilist.co/anime/214968 | Episode 1 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1180 |
 | Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken | Oh Boy, Was I Wrong About Her | https://anilist.co/anime/169583 | Episode 12 |
 | Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 26 |
 | Pan Dorobou | Pan Dorobou | https://anilist.co/anime/194207 | Episode 1 |
-| Pan no Akachan (TV) | Pan no Akachan (TV) | https://anilist.co/anime/212308 | Episode 13 |
+| Pan no Akachan (TV) | Pan no Akachan (TV) | https://anilist.co/anime/212308 | Episode 14 |
 | Perfect Addiction | Perfect Addiction | https://anilist.co/anime/213666 | Episode 12 |
 | PetitCure: Precure Fairies Season 3 | PetitCure: Precure Fairies Season 3 | https://anilist.co/anime/209541 | Episode 28 |
 | Plannosaurus Gachi Koseibutsu-bu | Plannosaurus Gachi Koseibutsu-bu | https://anilist.co/anime/208824 | Episode 12 |
@@ -199,11 +201,9 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Kanata Kara | Kanata Kara | https://anilist.co/anime/209463 | October 04 at 15:00 |
 | Kanojo no Tomodachi | Kanojo no Tomodachi | https://anilist.co/anime/211877 | October 04 at 16:05 |
 | Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu | Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu | https://anilist.co/anime/202250 | October 03 at 16:30 |
-| Keroro Gunsou☆ | Keroro Gunsou☆ | https://anilist.co/anime/216557 | October 03 at 00:30 |
 | Kyoufu Collector | Kyoufu Collector | https://anilist.co/anime/203473 | October 10 at 14:45 |
 | Mahou Shoujo Ikusei Keikaku: restart | Mahou Shoujo Ikusei Keikaku: restart | https://anilist.co/anime/160803 | October 05 at 17:00 |
 | Mahou no Shimai LuluttoLilly Part 2 | Mahou no Shimai LuluttoLilly Part 2 | https://anilist.co/anime/209032 | October 04 at 13:30 |
-| Nezumi-kun no Chokki (TV) 2nd Season | Nezumi-kun no Chokki (TV) 2nd Season | https://anilist.co/anime/214968 | October 03 at 00:30 |
 | Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onnanoko wo Ippai Click Shimasu | Now That I Can Control Reality With A Mouse Cursor, I'm Gonna Click Away On The Girls! | https://anilist.co/anime/206774 | October 04 at 16:00 |
 | PSYЯEN | PSYREN | https://anilist.co/anime/204011 | October 05 at 14:00 |
 | PetitCure: Precure Fairies Season 4 | PetitCure: Precure Fairies Season 4 | https://anilist.co/anime/217624 | October 08 at 10:30 |
