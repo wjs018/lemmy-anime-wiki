@@ -46,6 +46,13 @@ Episode|Link
 1|[Link](https://ani.social/post/37624146)
 {.dense}
 
+## Romeria Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita • Romelia War Chronicle
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/37663565)
+{.dense}
+
 ## Temppal: Item no Chikara • Overgeared
 
 Episode|Link
