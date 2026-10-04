@@ -107,6 +107,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/37421341)
+2|[Link](https://ani.social/post/37710242)
 {.dense}
 
 ## Tensei Shitara Ken Deshita 2nd Season • Reincarnated as a Sword Season 2
