@@ -24,6 +24,13 @@ Episode|Link
 1|[Link](https://ani.social/post/37700744)
 {.dense}
 
+## Aoashi 2nd Season • Aoashi Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/37709083)
+{.dense}
+
 ## FX Senshi Kurumi-chan • FX Fighter Kurumi-chan
 
 Episode|Link
