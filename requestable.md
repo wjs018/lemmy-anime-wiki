@@ -79,7 +79,7 @@ These shows have had episodes air already, but no thread was created because the
 | Koneko no Haitatsuin Uunyan | Delivery Kitten Unyan | https://anilist.co/anime/207217 | Episode 1 |
 | Meitantei Conan | Detective Conan | https://anilist.co/anime/235 | Episode 1215 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 935 |
-| Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | Episode 54 |
+| Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | Episode 55 |
 | You Shou Yan 6th Season | Fabulous Beasts 6 | https://anilist.co/anime/213486 | Episode 10 |
 | Honoo no Toukyuujyo Dodge Danko | Flaming Dodgeball Girl Danko | https://anilist.co/anime/195833 | Episode 12 |
 | Katainaka no Ossan, Kensei ni Naru II | From Old Country Bumpkin to Master Swordsman II | https://anilist.co/anime/194829 | Episode 12 |
@@ -175,7 +175,7 @@ These shows have had episodes air already, but no thread was created because the
 | Wareware wa Uchuujin | Wareware wa Uchuujin | https://anilist.co/anime/202429 | Episode 1 |
 | Mairimashita! Iruma-kun 4 | Welcome to Demon School! Iruma-kun Season 4 | https://anilist.co/anime/184492 | Episode 24 |
 | Wishing Umbrella | Wishing Umbrella | https://anilist.co/anime/216559 | Episode 1 |
-| Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 420 |
+| Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 421 |
 | Yani Neko Mini | Yani Neko Mini | https://anilist.co/anime/208105 | Episode 19 |
 | Yi Nian Yongheng 4 | Yi Nian Yongheng 4 | https://anilist.co/anime/199409 | Episode 13 |
 | Yoroi Shinden Samurai Troopers Part 2 | Yoroi-Shinden Samurai Troopers Cour 2 | https://anilist.co/anime/209800 | Episode 12 |
