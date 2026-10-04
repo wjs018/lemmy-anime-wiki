@@ -17,6 +17,13 @@ Episode|Link
 1|[Link](https://ani.social/post/37667804)
 {.dense}
 
+## Ao no Hako Season 2 • Blue Box Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/37700744)
+{.dense}
+
 ## FX Senshi Kurumi-chan • FX Fighter Kurumi-chan
 
 Episode|Link
