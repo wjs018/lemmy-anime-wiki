@@ -108,6 +108,7 @@ These shows have had episodes air already, but no thread was created because the
 | Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru | Magical Explorer | https://anilist.co/anime/169581 | Episode 2 |
 | Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | https://anilist.co/anime/185875 | Episode 13 |
 | Kabushiki Gaisha Magi Lumiere 2nd Season | Magilumiere Magical Girls Inc. Season 2 | https://anilist.co/anime/185692 | Episode 12 |
+| Mahou no Shimai LuluttoLilly Part 2 | Mahou no Shimai LuluttoLilly Part 2 | https://anilist.co/anime/209032 | Episode 1 |
 | Mazenchu | Mazenchu | https://anilist.co/anime/217577 | Episode 1 |
 | Mebius Dust | Mebius Dust | https://anilist.co/anime/108992 | Episode 12 |
 | Meitantei Conan: 30-Gou Satsujin Jiken | Meitantei Conan: 30-Gou Satsujin Jiken | https://anilist.co/anime/217126 | Episode 1 |
@@ -204,7 +205,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu. | Hello, I am a Witch and my Crush Wants me to Make a Love Potion! | https://anilist.co/anime/207191 | October 05 at 12:30 |
 | Dark Summoner to Dekiteiru | I'm Dating a Dark Summoner | https://anilist.co/anime/208025 | October 04 at 16:20 |
 | Mahou Shoujo Ikusei Keikaku: restart | Mahou Shoujo Ikusei Keikaku: restart | https://anilist.co/anime/160803 | October 05 at 17:00 |
-| Mahou no Shimai LuluttoLilly Part 2 | Mahou no Shimai LuluttoLilly Part 2 | https://anilist.co/anime/209032 | October 04 at 13:30 |
 | Kanojo no Tomodachi | My Girlfriend's Friend | https://anilist.co/anime/211877 | October 04 at 16:05 |
 | Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onnanoko wo Ippai Click Shimasu | Now That I Can Control Reality With A Mouse Cursor, I'm Gonna Click Away On The Girls! | https://anilist.co/anime/206774 | October 04 at 16:00 |
 | PSYЯEN | PSYREN | https://anilist.co/anime/204011 | October 05 at 14:00 |
