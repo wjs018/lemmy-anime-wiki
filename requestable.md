@@ -16,7 +16,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | :-------- | :---------------- | :----------- | :--------------------: |
 | #Zombie Sagashitemasu | #I'm Looking For a Zombie | https://anilist.co/anime/199007 | [Link](https://ani.social/post/37667804) |
 | Yasei no Last Boss ga Arawareta! 2nd Season | A Wild Last Boss Appeared! Season 2 | https://anilist.co/anime/204389 | [Link](https://ani.social/post/37667803) |
-| Aoashi 2nd Season | Aoashi Season 2 | https://anilist.co/anime/191788 |  |
+| Aoashi 2nd Season | Aoashi Season 2 | https://anilist.co/anime/191788 | [Link](https://ani.social/post/37709083) |
 | Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season | As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3 | https://anilist.co/anime/185756 | [Link](https://ani.social/post/37421341) |
 | Ao no Hako Season 2 | Blue Box Season 2 | https://anilist.co/anime/189123 | [Link](https://ani.social/post/37700744) |
 | Cyberpunk: Edgerunners 2 | Cyberpunk: Edgerunners 2 | https://anilist.co/anime/195539 |  |
@@ -210,6 +210,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | PSYЯEN | PSYREN | https://anilist.co/anime/204011 | October 05 at 14:00 |
 | PetitCure: Precure Fairies Season 4 | PetitCure: Precure Fairies Season 4 | https://anilist.co/anime/217624 | October 08 at 10:30 |
 | Choujun! Choujou Senpai | Super Psychic Policeman Chojo | https://anilist.co/anime/200294 | October 06 at 14:00 |
+| TANK CHAIR: Sensha Isu | TANK CHAIR: Sensha Isu | https://anilist.co/anime/209499 | October 11 at 14:00 |
 | Tetsuryou! meet with Tetsudou Musume | TETSURYO! Meet With Tetsudou Musume | https://anilist.co/anime/199594 | October 08 at 15:00 |
 | Shiotaiou no Satou-san ga Ore ni dake Amai | The Cold Sato-san is Only Sweet to Me | https://anilist.co/anime/209502 | October 06 at 13:00 |
 | Tantei wa mou, Shindeiru. Season 2 | The Detective Is Already Dead Season 2 | https://anilist.co/anime/152677 | October 07 at 12:30 |
