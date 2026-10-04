@@ -67,6 +67,13 @@ Episode|Link
 1|[Link](https://ani.social/post/37675638)
 {.dense}
 
+## Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai • Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/37706424)
+{.dense}
+
 ## Romeria Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita • Romelia War Chronicle
 
 Episode|Link
