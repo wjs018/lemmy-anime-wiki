@@ -124,7 +124,7 @@ These shows have had episodes air already, but no thread was created because the
 | Nezumi-kun no Chokki (TV) 2nd Season | Nezumi-kun no Chokki (TV) 2nd Season | https://anilist.co/anime/214968 | Episode 1 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1180 |
 | Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken | Oh Boy, Was I Wrong About Her | https://anilist.co/anime/169583 | Episode 12 |
-| Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 26 |
+| Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 27 |
 | Pan Dorobou | Pan Dorobou | https://anilist.co/anime/194207 | Episode 1 |
 | Pan no Akachan (TV) | Pan no Akachan (TV) | https://anilist.co/anime/212308 | Episode 14 |
 | Perfect Addiction | Perfect Addiction | https://anilist.co/anime/213666 | Episode 12 |
@@ -132,6 +132,7 @@ These shows have had episodes air already, but no thread was created because the
 | Plannosaurus Gachi Koseibutsu-bu | Plannosaurus Gachi Koseibutsu-bu | https://anilist.co/anime/208824 | Episode 12 |
 | PokéOki SEASON 2 | PokéOki SEASON 2 | https://anilist.co/anime/216625 | Episode 4 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 151 |
+| Punirunes Puni 4 | Punirunes Puni 4 | https://anilist.co/anime/216860 | Episode 1 |
 | Ranma 1/2 (2024) 3rd Season | Ranma1/2 (2024) Season 3 | https://anilist.co/anime/209872 | Episode 1 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | https://anilist.co/anime/210687 | Episode 19 |
 | Iwamoto-senpai no Suisen | Recommendations from Iwamoto-Senpai | https://anilist.co/anime/206249 | Episode 12 |
@@ -149,7 +150,7 @@ These shows have had episodes air already, but no thread was created because the
 | Super no Ura de Yani Suu Futari | Smoking Behind the Supermarket with You | https://anilist.co/anime/196187 | Episode 12 |
 | Snack HAZAMA | Snack HAZAMA | https://anilist.co/anime/213831 | Episode 12 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 173 |
-| Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 35 |
+| Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 36 |
 | Tougen Anki: Nikko・Kegon no Taki-hen | TOUGEN ANKI: Nikko Kegon Falls Arc | https://anilist.co/anime/204650 | Episode 1 |
 | Kuroneko to Majo no Kyoushitsu | The Classroom of the Black Cat and a Witch | https://anilist.co/anime/196974 | Episode 24 |
 | Kami no Shizuku | The Drops of God | https://anilist.co/anime/202508 | Episode 24 |
@@ -212,7 +213,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onnanoko wo Ippai Click Shimasu | Now That I Can Control Reality With A Mouse Cursor, I'm Gonna Click Away On The Girls! | https://anilist.co/anime/206774 | October 04 at 16:00 |
 | PSYЯEN | PSYREN | https://anilist.co/anime/204011 | October 05 at 14:00 |
 | PetitCure: Precure Fairies Season 4 | PetitCure: Precure Fairies Season 4 | https://anilist.co/anime/217624 | October 08 at 10:30 |
-| Punirunes Puni 4 | Punirunes Puni 4 | https://anilist.co/anime/216860 | October 04 at 00:16 |
 | Shiotaiou no Satou-san ga Ore ni dake Amai | Shiotaiou no Satou-san ga Ore ni dake Amai | https://anilist.co/anime/209502 | October 06 at 13:00 |
 | Tetsuryou! meet with Tetsudou Musume | TETSURYO! Meet With Tetsudou Musume | https://anilist.co/anime/199594 | October 08 at 15:00 |
 | Tantei wa mou, Shindeiru. Season 2 | The Detective Is Already Dead Season 2 | https://anilist.co/anime/152677 | October 07 at 12:30 |
