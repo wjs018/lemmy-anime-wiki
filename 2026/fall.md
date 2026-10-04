@@ -67,14 +67,14 @@ Episode|Link
 1|[Link](https://ani.social/post/37663565)
 {.dense}
 
-## Seitokai ni mo Ana wa Aru!
+## Seitokai ni mo Ana wa Aru! • Even the Student Council Has Its Holes!
 
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/37669718)
 {.dense}
 
-## Temppal: Item no Chikara • Overgeared
+## Tempal: Item no Chikara • Overgeared
 
 Episode|Link
 :-:|:-:
