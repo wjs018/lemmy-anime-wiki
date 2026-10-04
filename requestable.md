@@ -18,7 +18,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Yasei no Last Boss ga Arawareta! 2nd Season | A Wild Last Boss Appeared! Season 2 | https://anilist.co/anime/204389 | [Link](https://ani.social/post/37667803) |
 | Aoashi 2nd Season | Aoashi Season 2 | https://anilist.co/anime/191788 |  |
 | Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season | As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3 | https://anilist.co/anime/185756 | [Link](https://ani.social/post/37421341) |
-| Honzuki no Gekokujou: Ryoushu no Youjo | Ascendance of a Bookworm: Adopted Daughter of an Archduke | https://anilist.co/anime/171110 | [Link](https://ani.social/post/37660084) |
 | Ao no Hako Season 2 | Blue Box Season 2 | https://anilist.co/anime/189123 |  |
 | Cyberpunk: Edgerunners 2 | Cyberpunk: Edgerunners 2 | https://anilist.co/anime/195539 |  |
 | Dragon Ball Super: Beerus | Dragon Ball Super: Beerus | https://anilist.co/anime/206814 |  |
@@ -26,20 +25,16 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | FX Senshi Kurumi-chan | FX Fighter Kurumi-chan | https://anilist.co/anime/206401 | [Link](https://ani.social/post/37580248) |
 | Hotaru no Yomeiri | Firefly Wedding | https://anilist.co/anime/205909 |  |
 | Fool Night | Fool Night | https://anilist.co/anime/213457 |  |
-| Ganso! Bandori-chan | GANSO! BanG Dream Chan | https://anilist.co/anime/187166 | [Link](https://ani.social/post/37583174) |
 | Gensou Suikoden | Gensou Suikoden | https://anilist.co/anime/187316 | [Link](https://ani.social/post/37662187) |
 | Magic Knight Rayearth (2026) | Magic Knight Rayearth (2026) | https://anilist.co/anime/178868 |  |
-| Mushoku Tensei III: Isekai Ittara Honki Dasu | Mushoku Tensei: Jobless Reincarnation Season 3 | https://anilist.co/anime/178789 | [Link](https://ani.social/post/37423674) |
 | Kyouran Reijou Nia Liston | Nia Liston: The Merciless Maiden | https://anilist.co/anime/206949 |  |
-| Temppal: Item no Chikara | Overgeared | https://anilist.co/anime/212888 | [Link](https://ani.social/post/37420282) |
+| Tempal: Item no Chikara | Overgeared | https://anilist.co/anime/212888 | [Link](https://ani.social/post/37420282) |
 | Uchi no Otouto-domo ga Sumimasen | Please Excuse My Younger Brothers | https://anilist.co/anime/203490 | [Link](https://ani.social/post/37631242) |
-| Re:Zero kara Hajimeru Isekai Seikatsu 4th Season | Re:ZERO -Starting Life in Another World- Season 4 | https://anilist.co/anime/189046 | [Link](https://ani.social/post/37541994) |
 | Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai | Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! | https://anilist.co/anime/186541 |  |
 | Tensei Shitara Ken Deshita 2nd Season | Reincarnated as a Sword Season 2 | https://anilist.co/anime/159042 | [Link](https://ani.social/post/37545008) |
 | Romeria Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita | Romelia War Chronicle | https://anilist.co/anime/180894 | [Link](https://ani.social/post/37663565) |
 | JoJo no Kimyou na Bouken: Steel Ball Run - 2nd and 3rd STAGE | STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE | https://anilist.co/anime/210482 | [Link](https://ani.social/post/37615848) |
 | Sasaki to Pii-chan Season 2 | Sasaki and Peeps Season 2 | https://anilist.co/anime/176314 |  |
-| Nijusseiki Denki Mokuroku: Eureka Evrika | Sparks of Tomorrow | https://anilist.co/anime/103303 | [Link](https://ani.social/post/37421340) |
 | Kusuriya no Hitorigoto 3rd Season | The Apothecary Diaries Season 3 | https://anilist.co/anime/195516 | [Link](https://ani.social/post/37624146) |
 | Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru | The Exiled Heavy Knight Knows How to Game the System | https://anilist.co/anime/180136 | [Link](https://ani.social/post/37588815) |
 | Koori no Jouheki 2nd Season | The Ramparts of Ice Season 2 | https://anilist.co/anime/213805 | [Link](https://ani.social/post/37566915) |
