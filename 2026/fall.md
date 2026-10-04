@@ -100,6 +100,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/37420282)
+2|[Link](https://ani.social/post/37711998)
 {.dense}
 
 ## Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season • As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3
