@@ -199,6 +199,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Toaru Anbu no ITEM | A Certain Dark Item | https://anilist.co/anime/186742 | October 09 at 13:30 |
 | Kikansha no Mahou wa Tokubetsu desu 2nd Season | A Returner's Magic Should be Special Season 2 | https://anilist.co/anime/172192 | October 07 at 15:45 |
 | Diamond no Ace act II: Second Season Part 2 | Ace of the Diamond act II -Second Season- | https://anilist.co/anime/213658 | October 11 at 08:30 |
+| BanG Dream! Ave Mujica: prima aurora | BanG Dream! Ave Mujica: prima aurora | https://anilist.co/anime/197543 | October 15 at 15:00 |
 | Battle Spirits [Re] Zekkai No Ku | Battle Spirits [Re] Zekkai No Ku | https://anilist.co/anime/187990 | October 06 at 14:00 |
 | Chitose-kun wa Ramune Bin no Naka Part 2 | Chitose Is in the Ramune Bottle 2nd Cour | https://anilist.co/anime/198727 | October 13 at 14:00 |
 | DARK MACHINE: The Animation | DARK MACHINE THE ANIMATION | https://anilist.co/anime/179876 | October 13 at 16:45 |
@@ -213,6 +214,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Kanojo no Tomodachi Mini Anime | My Girlfriend's Friend Mini Anime | https://anilist.co/anime/217782 | October 11 at 17:17 |
 | PetitCure: Precure Fairies Season 4 | PetitCure: Precure Fairies Season 4 | https://anilist.co/anime/217624 | October 08 at 10:30 |
 | Pop Pap Polters | Pop Pap Polters | https://anilist.co/anime/217787 | October 11 at 02:00 |
+| Seishun Buta Yarou wa Dear Friend no Yume wo Minai | Rascal Does Not Dream of a Dear Friend | https://anilist.co/anime/199340 | October 15 at 15:00 |
 | Tensei Goblin Dakedo Shitsumon Aru? | So What's Wrong with Getting Reborn as a Goblin? | https://anilist.co/anime/209219 | October 12 at 13:00 |
 | Choujun! Choujou Senpai | Super Psychic Policeman Chojo | https://anilist.co/anime/200294 | October 06 at 14:00 |
 | TANK CHAIR: Sensha Isu | TANK CHAIR: Sensha Isu | https://anilist.co/anime/209499 | October 11 at 14:00 |
