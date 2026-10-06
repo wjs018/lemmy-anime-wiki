@@ -27,7 +27,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Fool Night | Fool Night | https://anilist.co/anime/213457 |  |
 | Gensou Suikoden | Gensou Suikoden | https://anilist.co/anime/187316 | [Link](https://ani.social/post/37662187) |
 | Magic Knight Rayearth (2026) | Magic Knight Rayearth (2026) | https://anilist.co/anime/178868 |  |
-| Kyouran Reijou Nia Liston | Nia Liston: The Merciless Maiden | https://anilist.co/anime/206949 |  |
+| Kyouran Reijou Nia Liston | Nia Liston: The Merciless Maiden | https://anilist.co/anime/206949 | [Link](https://ani.social/post/37789093) |
 | Tempal: Item no Chikara | Overgeared | https://anilist.co/anime/212888 | [Link](https://ani.social/post/37711998) |
 | Uchi no Otouto-domo ga Sumimasen | Please Excuse My Younger Brothers | https://anilist.co/anime/203490 | [Link](https://ani.social/post/37631242) |
 | Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai | Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! | https://anilist.co/anime/186541 | [Link](https://ani.social/post/37706424) |
