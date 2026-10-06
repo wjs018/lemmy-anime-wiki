@@ -31,6 +31,13 @@ Episode|Link
 1|[Link](https://ani.social/post/37709083)
 {.dense}
 
+## Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu. • Hello, I am a Witch and my Crush Wants me to Make a Love Potion!
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/37808469)
+{.dense}
+
 ## FX Senshi Kurumi-chan • FX Fighter Kurumi-chan
 
 Episode|Link
