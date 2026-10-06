@@ -67,6 +67,13 @@ Episode|Link
 1|[Link](https://ani.social/post/37624146)
 {.dense}
 
+## Kyouran Reijou Nia Liston • Nia Liston: The Merciless Maiden
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/37789093)
+{.dense}
+
 ## Marronnier Oukoku no Shichinin no Kishi • The Seven Knights of the Marronnier Kingdom
 
 Episode|Link
