@@ -125,6 +125,13 @@ Episode|Link
 1|[Link](https://ani.social/post/37545008)
 {.dense}
 
+## Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni "Kyouka Point" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu? • The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/37800500)
+{.dense}
+
 ## Yasei no Last Boss ga Arawareta! 2nd Season • A Wild Last Boss Appeared! Season 2
 
 Episode|Link
