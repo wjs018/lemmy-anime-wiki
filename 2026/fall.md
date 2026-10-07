@@ -81,6 +81,13 @@ Episode|Link
 1|[Link](https://ani.social/post/37789093)
 {.dense}
 
+## Magic Knight Rayearth (2026)
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/37835864)
+{.dense}
+
 ## Marronnier Oukoku no Shichinin no Kishi • The Seven Knights of the Marronnier Kingdom
 
 Episode|Link
@@ -100,6 +107,13 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/37663565)
+{.dense}
+
+## Sasaki to Pii-chan Season 2 • Sasaki and Peeps Season 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/37835866)
 {.dense}
 
 ## Seitokai ni mo Ana wa Aru! • Even the Student Council Has Its Holes!
