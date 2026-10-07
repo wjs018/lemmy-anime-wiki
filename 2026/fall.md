@@ -109,6 +109,13 @@ Episode|Link
 1|[Link](https://ani.social/post/37669718)
 {.dense}
 
+## Sekai Saikyou no Majo, Hajimemashita • The World's Strongest Witch
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/37831630)
+{.dense}
+
 ## Tempal: Item no Chikara • Overgeared
 
 Episode|Link
