@@ -72,6 +72,7 @@ These shows have had episodes air already, but no thread was created because the
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | Episode 49 |
 | Da Xia Shou Mu Ren | Da Xia Shou Mu Ren | https://anilist.co/anime/214974 | Episode 4 |
 | Yomi no Tsugai | Daemons of the Shadow Realm | https://anilist.co/anime/195600 | Episode 24 |
+| Jyuоu Mujin Dandivine | Dandivine | https://anilist.co/anime/213068 | Episode 1 |
 | Reiwa no Dara-san | Dara-san of the Reiwa Era | https://anilist.co/anime/203880 | Episode 13 |
 | Dawang Raoming 3 | Dawang Raoming 3 | https://anilist.co/anime/199353 | Episode 1 |
 | Koneko no Haitatsuin Uunyan | Delivery Kitten Unyan | https://anilist.co/anime/207217 | Episode 1 |
@@ -210,7 +211,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Chitose-kun wa Ramune Bin no Naka Part 2 | Chitose Is in the Ramune Bottle 2nd Cour | https://anilist.co/anime/198727 | October 13 at 14:00 |
 | DARK MACHINE: The Animation | DARK MACHINE THE ANIMATION | https://anilist.co/anime/179876 | October 13 at 16:45 |
 | Dali Si Rizhi 3 | Dali Si Rizhi 3 | https://anilist.co/anime/168085 | October 14 at 15:00 |
-| Jyuоu Mujin Dandivine | Dandivine | https://anilist.co/anime/213068 | October 07 at 15:30 |
 | Duel Masters LOST: Danzai no Shounen | Duel Masters LOST: Danzai no Shounen | https://anilist.co/anime/208367 | October 09 at 12:00 |
 | Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku | Full Clearing Another World under a Goddess with Zero Believers | https://anilist.co/anime/205896 | October 11 at 14:30 |
 | Girls und Panzer: Saishuushou 5 | Girls und Panzer: Saishuushou 5 | https://anilist.co/anime/202390 | October 08 at 15:00 |
