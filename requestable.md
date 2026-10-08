@@ -39,7 +39,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kusuriya no Hitorigoto 3rd Season | The Apothecary Diaries Season 3 | https://anilist.co/anime/195516 | [Link](https://ani.social/post/37624146) |
 | Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru | The Exiled Heavy Knight Knows How to Game the System | https://anilist.co/anime/180136 | [Link](https://ani.social/post/37588815) |
 | Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni "Kyouka Point" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu? | The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life | https://anilist.co/anime/207329 | [Link](https://ani.social/post/37800500) |
-| Koori no Jouheki 2nd Season | The Ramparts of Ice Season 2 | https://anilist.co/anime/213805 | [Link](https://ani.social/post/37566915) |
+| Koori no Jouheki 2nd Season | The Ramparts of Ice Season 2 | https://anilist.co/anime/213805 | [Link](https://ani.social/post/37879648) |
 | Marronnier Oukoku no Shichinin no Kishi | The Seven Knights of the Marronnier Kingdom | https://anilist.co/anime/212799 | [Link](https://ani.social/post/37675638) |
 | Sekai Saikyou no Majo, Hajimemashita | The World's Strongest Witch | https://anilist.co/anime/211778 | [Link](https://ani.social/post/37831630) |
 | Seihantai na Kimi to Boku 2nd Season | You and I Are Polar Opposites Season 2 | https://anilist.co/anime/210031 | [Link](https://ani.social/post/37702364) |
@@ -188,18 +188,18 @@ These shows have had episodes air already, but no thread was created because the
 | Umayuru: Full Gate! | Umayuru: Full Gate! | https://anilist.co/anime/215835 | Episode 2 |
 | Oji-san wa Kawaii Mono ga Osuki. | Uncle's Obsession with Cute Things | https://anilist.co/anime/202079 | Episode 1 |
 | Vertex Force | Vertex Force | https://anilist.co/anime/209562 | Episode 1 |
-| Tefuda ga Oome no Victoria | Victoria of Many Faces | https://anilist.co/anime/198709 | Episode 10 |
 | Wareware wa Uchuujin | Wareware wa Uchuujin | https://anilist.co/anime/202429 | Episode 1 |
 | Mairimashita! Iruma-kun 4 | Welcome to Demon School! Iruma-kun Season 4 | https://anilist.co/anime/184492 | Episode 24 |
 | Aoki Denshou: Welsh and Shedar | Welsh and Shedar | https://anilist.co/anime/216895 | Episode 1 |
 | Wishing Umbrella | Wishing Umbrella | https://anilist.co/anime/216559 | Episode 1 |
+| Kizu darake Seijo yori Houfuku wo Komete Season2 | With Vengeance, Sincerely, Your Broken Saintess Season 2 | https://anilist.co/anime/212144 | Episode 2 |
 | Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 422 |
 | Yani Neko Mini | Yani Neko Mini | https://anilist.co/anime/208105 | Episode 19 |
 | Yi Nian Yongheng 4 | Yi Nian Yongheng 4 | https://anilist.co/anime/199409 | Episode 14 |
 | Yoroi Shinden Samurai Troopers Part 2 | Yoroi-Shinden Samurai Troopers Cour 2 | https://anilist.co/anime/209800 | Episode 12 |
 | Youjo Shenki 2 | Youjo Shenki 2 | https://anilist.co/anime/213961 | Episode 12 |
 | Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai | Young Ladies Don't Play Fighting Games | https://anilist.co/anime/128757 | Episode 12 |
-| Yuusanchi! from Yuuhachi | Yuusanchi! from Yuuhachi | https://anilist.co/anime/214593 | Episode 1 |
+| Yuusanchi! from Yuuhachi | Yuusanchi! from Yuuhachi | https://anilist.co/anime/214593 | Episode 2 |
 | mofusand | mofusand | https://anilist.co/anime/204656 | Episode 40 |
 {.dense}
 
@@ -227,6 +227,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Tensei Goblin Dakedo Shitsumon Aru? | So What's Wrong with Getting Reborn as a Goblin? | https://anilist.co/anime/209219 | October 12 at 14:00 |
 | TANK CHAIR: Sensha Isu | TANK CHAIR: Sensha Isu | https://anilist.co/anime/209499 | October 11 at 15:00 |
 | Hyouken no Majutsushi ga Sekai wo Suberu II | The Iceblade Sorcerer Shall Rule the World II | https://anilist.co/anime/212503 | October 08 at 16:28 |
-| Kizu darake Seijo yori Houfuku wo Komete Season2 | With Vengeance, Sincerely, Your Broken Saintess Season 2 | https://anilist.co/anime/212144 | October 08 at 16:00 |
 | Yuruyuru Zukan | Yuruyuru Zukan | https://anilist.co/anime/213298 | October 10 at 23:00 |
 {.dense}
