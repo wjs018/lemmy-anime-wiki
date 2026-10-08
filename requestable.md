@@ -208,6 +208,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Toaru Anbu no ITEM | A Certain Dark Item | https://anilist.co/anime/186742 | October 09 at 13:30 |
 | Diamond no Ace act II: Second Season Part 2 | Ace of the Diamond act II -Second Season- | https://anilist.co/anime/213658 | October 11 at 08:30 |
 | BanG Dream! Ave Mujica: prima aurora | BanG Dream! Ave Mujica: prima aurora | https://anilist.co/anime/197543 | October 15 at 15:00 |
+| Chibi Godzilla no Gyakushuu Season 4 | Chibi Godzilla no Gyakushuu Season 4 | https://anilist.co/anime/218008 | October 13 at 23:05 |
 | Chitose-kun wa Ramune Bin no Naka Part 2 | Chitose Is in the Ramune Bottle 2nd Cour | https://anilist.co/anime/198727 | October 13 at 14:00 |
 | DARK MACHINE: The Animation | DARK MACHINE THE ANIMATION | https://anilist.co/anime/179876 | October 13 at 16:45 |
 | Dali Si Rizhi 3 | Dali Si Rizhi 3 | https://anilist.co/anime/168085 | October 14 at 15:00 |
