@@ -37,7 +37,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | JoJo no Kimyou na Bouken: Steel Ball Run - 2nd and 3rd STAGE | STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE | https://anilist.co/anime/210482 | [Link](https://ani.social/post/37615848) |
 | Sasaki to Pii-chan Season 2 | Sasaki and Peeps Season 2 | https://anilist.co/anime/176314 | [Link](https://ani.social/post/37835866) |
 | Kusuriya no Hitorigoto 3rd Season | The Apothecary Diaries Season 3 | https://anilist.co/anime/195516 | [Link](https://ani.social/post/37624146) |
-| Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru | The Exiled Heavy Knight Knows How to Game the System | https://anilist.co/anime/180136 | [Link](https://ani.social/post/37588815) |
+| Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru | The Exiled Heavy Knight Knows How to Game the System | https://anilist.co/anime/180136 | [Link](https://ani.social/post/37880370) |
 | Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni "Kyouka Point" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu? | The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life | https://anilist.co/anime/207329 | [Link](https://ani.social/post/37800500) |
 | Koori no Jouheki 2nd Season | The Ramparts of Ice Season 2 | https://anilist.co/anime/213805 | [Link](https://ani.social/post/37879648) |
 | Marronnier Oukoku no Shichinin no Kishi | The Seven Knights of the Marronnier Kingdom | https://anilist.co/anime/212799 | [Link](https://ani.social/post/37675638) |
@@ -173,6 +173,7 @@ These shows have had episodes air already, but no thread was created because the
 | Nige Jouzu no Wakagimi 2nd Season | The Elusive Samurai Season 2 | https://anilist.co/anime/182616 | Episode 12 |
 | Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita | The Forsaken Saintess and Her Foodie Roadtrip in Another World | https://anilist.co/anime/209504 | Episode 12 |
 | Ryoumin 0-Nin Start no Henkyou Ryoushu-sama | The Frontier Lord Begins with Zero Subjects | https://anilist.co/anime/196218 | Episode 12 |
+| Hyouken no Majutsushi ga Sekai wo Suberu II | The Iceblade Sorcerer Shall Rule the World II | https://anilist.co/anime/212503 | Episode 1 |
 | Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru | The Insipid Prince's Furtive Grab for the Throne | https://anilist.co/anime/169582 | Episode 12 |
 | Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu | The Oblivious Saint Can't Contain Her Power | https://anilist.co/anime/196219 | Episode 12 |
 | Oni no Hanayome | The Ogre's Bride | https://anilist.co/anime/194219 | Episode 12 |
@@ -226,6 +227,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Seishun Buta Yarou wa Dear Friend no Yume wo Minai | Rascal Does Not Dream of a Dear Friend | https://anilist.co/anime/199340 | October 15 at 15:00 |
 | Tensei Goblin Dakedo Shitsumon Aru? | So What's Wrong with Getting Reborn as a Goblin? | https://anilist.co/anime/209219 | October 12 at 14:00 |
 | TANK CHAIR: Sensha Isu | TANK CHAIR: Sensha Isu | https://anilist.co/anime/209499 | October 11 at 15:00 |
-| Hyouken no Majutsushi ga Sekai wo Suberu II | The Iceblade Sorcerer Shall Rule the World II | https://anilist.co/anime/212503 | October 08 at 16:28 |
 | Yuruyuru Zukan | Yuruyuru Zukan | https://anilist.co/anime/213298 | October 10 at 23:00 |
 {.dense}
