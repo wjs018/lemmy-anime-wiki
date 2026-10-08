@@ -88,6 +88,7 @@ These shows have had episodes air already, but no thread was created because the
 | Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Bouken-roku | From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage | https://anilist.co/anime/208044 | Episode 12 |
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | Episode 18 |
 | Ghost Meets Gal! | Ghost Meets Gal! | https://anilist.co/anime/214703 | Episode 5 |
+| Girls und Panzer: Saishuushou 5 | Girls und Panzer: Saishuushou 5 | https://anilist.co/anime/202390 | Episode 1 |
 | Grand Blue Season 3 | Grand Blue Dreaming Season 3 | https://anilist.co/anime/199111 | Episode 12 |
 | Grow Up Show: Himawari no Circus-dan | Grow Up Show | https://anilist.co/anime/196017 | Episode 13 |
 | Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season | HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2 | https://anilist.co/anime/209983 | Episode 13 |
@@ -162,6 +163,7 @@ These shows have had episodes air already, but no thread was created because the
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 173 |
 | Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 36 |
 | Choujun! Choujou Senpai | Super Psychic Policeman Chojo | https://anilist.co/anime/200294 | Episode 1 |
+| Tetsuryou! meet with Tetsudou Musume | TETSURYO! Meet With Tetsudou Musume | https://anilist.co/anime/199594 | Episode 1 |
 | Tougen Anki: Nikko・Kegon no Taki-hen | TOUGEN ANKI: Nikko Kegon Falls Arc | https://anilist.co/anime/204650 | Episode 1 |
 | Kuroneko to Majo no Kyoushitsu | The Classroom of the Black Cat and a Witch | https://anilist.co/anime/196974 | Episode 24 |
 | Shiotaiou no Satou-san ga Ore ni dake Amai | The Cold Sato-san is Only Sweet to Me | https://anilist.co/anime/209502 | Episode 1 |
@@ -180,6 +182,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha | The World's Strongest Rearguard | https://anilist.co/anime/198409 | Episode 12 |
 | Yami Shibai 17 | Theatre of Darkness: Yamishibai 17 | https://anilist.co/anime/213359 | Episode 13 |
 | Thunder 3 | Thunder 3 | https://anilist.co/anime/207254 | Episode 12 |
+| Doko yori mo Tooi Basho ni Iru Kimi e | To You in the Beyond | https://anilist.co/anime/207327 | Episode 1 |
 | Tokyo Revengers: Santen Sensou-hen | Tokyo Revengers: Santen Sensou-hen | https://anilist.co/anime/178083 | Episode 1 |
 | Otomege Sekai wa Mob ni Kibishii Sekai desu 2 | Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2 | https://anilist.co/anime/159309 | Episode 12 |
 | Umayuru: Full Gate! | Umayuru: Full Gate! | https://anilist.co/anime/215835 | Episode 2 |
@@ -215,7 +218,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Dali Si Rizhi 3 | Dali Si Rizhi 3 | https://anilist.co/anime/168085 | October 14 at 15:00 |
 | Duel Masters LOST: Danzai no Shounen | Duel Masters LOST: Danzai no Shounen | https://anilist.co/anime/208367 | October 09 at 12:00 |
 | Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku | Full Clearing Another World under a Goddess with Zero Believers | https://anilist.co/anime/205896 | October 11 at 14:30 |
-| Girls und Panzer: Saishuushou 5 | Girls und Panzer: Saishuushou 5 | https://anilist.co/anime/202390 | October 08 at 15:00 |
 | Kyoufu Collector | HORROR COLLECTOR | https://anilist.co/anime/203473 | October 10 at 14:45 |
 | Yozakura-san Chi no Daisakusen 2nd Season Part 2 | Mission: Yozakura Family Season 2 Part 2 | https://anilist.co/anime/213657 | October 11 at 08:00 |
 | Kanojo no Tomodachi Mini Anime | My Girlfriend's Friend Mini Anime | https://anilist.co/anime/217782 | October 11 at 17:17 |
@@ -224,9 +226,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Seishun Buta Yarou wa Dear Friend no Yume wo Minai | Rascal Does Not Dream of a Dear Friend | https://anilist.co/anime/199340 | October 15 at 15:00 |
 | Tensei Goblin Dakedo Shitsumon Aru? | So What's Wrong with Getting Reborn as a Goblin? | https://anilist.co/anime/209219 | October 12 at 14:00 |
 | TANK CHAIR: Sensha Isu | TANK CHAIR: Sensha Isu | https://anilist.co/anime/209499 | October 11 at 15:00 |
-| Tetsuryou! meet with Tetsudou Musume | TETSURYO! Meet With Tetsudou Musume | https://anilist.co/anime/199594 | October 08 at 15:00 |
 | Hyouken no Majutsushi ga Sekai wo Suberu II | The Iceblade Sorcerer Shall Rule the World II | https://anilist.co/anime/212503 | October 08 at 16:28 |
-| Doko yori mo Tooi Basho ni Iru Kimi e | To You in the Beyond | https://anilist.co/anime/207327 | October 08 at 15:00 |
 | Kizu darake Seijo yori Houfuku wo Komete Season2 | With Vengeance, Sincerely, Your Broken Saintess Season 2 | https://anilist.co/anime/212144 | October 08 at 16:00 |
 | Yuruyuru Zukan | Yuruyuru Zukan | https://anilist.co/anime/213298 | October 10 at 23:00 |
 {.dense}
