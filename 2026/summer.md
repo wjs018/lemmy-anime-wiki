@@ -520,7 +520,7 @@ Episode|Link
 Episode|Link|Episode|Link
 :-:|:-:|:-:|:-:
 1|[Link](https://ani.social/post/33795897)|14|[Link](https://ani.social/post/37588815)
-2|[Link](https://ani.social/post/34094013)
+2|[Link](https://ani.social/post/34094013)|15|[Link](https://ani.social/post/37880370)
 3|[Link](https://ani.social/post/34392059)
 4|[Link](https://ani.social/post/34690282)
 5|[Link](https://ani.social/post/34993736)
