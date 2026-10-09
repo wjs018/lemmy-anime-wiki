@@ -135,7 +135,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken | Oh Boy, Was I Wrong About Her | https://anilist.co/anime/169583 | Episode 12 |
 | Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 27 |
 | PSYЯEN | PSYREN | https://anilist.co/anime/204011 | Episode 1 |
-| Pan Dorobou | Pan Dorobou | https://anilist.co/anime/194207 | Episode 1 |
+| Pan Dorobou | Pan Dorobou | https://anilist.co/anime/194207 | Episode 2 |
 | Pan no Akachan (TV) | Pan no Akachan (TV) | https://anilist.co/anime/212308 | Episode 14 |
 | Perfect Addiction | Perfect Addiction | https://anilist.co/anime/213666 | Episode 12 |
 | PetitCure: Precure Fairies Season 3 | PetitCure: Precure Fairies Season 3 | https://anilist.co/anime/209541 | Episode 29 |
