@@ -121,7 +121,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kabushiki Gaisha Magi Lumiere 2nd Season | Magilumiere Magical Girls Inc. Season 2 | https://anilist.co/anime/185692 | Episode 12 |
 | Mahou Shoujo Ikusei Keikaku: restart | Mahou Shoujo Ikusei Keikaku: restart | https://anilist.co/anime/160803 | Episode 1 |
 | Mahou no Shimai LuluttoLilly Part 2 | Mahou no Shimai LuluttoLilly Part 2 | https://anilist.co/anime/209032 | Episode 1 |
-| Mazenchu | Mazenchu | https://anilist.co/anime/217577 | Episode 1 |
+| Mazenchu | Mazenchu | https://anilist.co/anime/217577 | Episode 2 |
 | Mebius Dust | Mebius Dust | https://anilist.co/anime/108992 | Episode 12 |
 | Meitantei Conan: 30-Gou Satsujin Jiken | Meitantei Conan: 30-Gou Satsujin Jiken | https://anilist.co/anime/217126 | Episode 1 |
 | Meitantei Precure! Fushigi na Niwa to Futari no Himitsu | Meitantei Precure! Fushigi na Niwa to Futari no Himitsu | https://anilist.co/anime/198654 | Episode 1 |
