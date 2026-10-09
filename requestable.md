@@ -185,7 +185,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yami Shibai 17 | Theatre of Darkness: Yamishibai 17 | https://anilist.co/anime/213359 | Episode 13 |
 | Thunder 3 | Thunder 3 | https://anilist.co/anime/207254 | Episode 12 |
 | Doko yori mo Tooi Basho ni Iru Kimi e | To You in the Beyond | https://anilist.co/anime/207327 | Episode 1 |
-| Tokyo Revengers: Santen Sensou-hen | Tokyo Revengers: Santen Sensou-hen | https://anilist.co/anime/178083 | Episode 1 |
+| Tokyo Revengers: Santen Sensou-hen | Tokyo Revengers: Santen Sensou-hen | https://anilist.co/anime/178083 | Episode 2 |
 | Otomege Sekai wa Mob ni Kibishii Sekai desu 2 | Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2 | https://anilist.co/anime/159309 | Episode 12 |
 | Umayuru: Full Gate! | Umayuru: Full Gate! | https://anilist.co/anime/215835 | Episode 2 |
 | Oji-san wa Kawaii Mono ga Osuki. | Uncle's Obsession with Cute Things | https://anilist.co/anime/202079 | Episode 1 |
