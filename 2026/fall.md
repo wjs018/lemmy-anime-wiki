@@ -53,6 +53,13 @@ Episode|Link
 1|[Link](https://ani.social/post/37662187)
 {.dense}
 
+## Hotaru no Yomeiri • Firefly Wedding
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/37918769)
+{.dense}
+
 ## JoJo no Kimyou na Bouken: Steel Ball Run - 2nd and 3rd STAGE • STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE
 
 Episode|Link
