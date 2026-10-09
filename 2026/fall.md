@@ -59,6 +59,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/37332001)
 2|[Link](https://ani.social/post/37615848)
+3|[Link](https://ani.social/post/37907711)
 {.dense}
 
 ## Koori no Jouheki 2nd Season • The Ramparts of Ice Season 2
