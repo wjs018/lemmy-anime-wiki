@@ -21,7 +21,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Ao no Hako Season 2 | Blue Box Season 2 | https://anilist.co/anime/189123 | [Link](https://ani.social/post/37700744) |
 | Cyberpunk: Edgerunners 2 | Cyberpunk: Edgerunners 2 | https://anilist.co/anime/195539 |  |
 | Dragon Ball Super: Beerus | Dragon Ball Super: Beerus | https://anilist.co/anime/206814 |  |
-| Seitokai ni mo Ana wa Aru! | Even the Student Council Has Its Holes! | https://anilist.co/anime/191656 | [Link](https://ani.social/post/37669718) |
+| Seitokai ni mo Ana wa Aru! | Even the Student Council Has Its Holes! | https://anilist.co/anime/191656 | [Link](https://ani.social/post/37965289) |
 | FX Senshi Kurumi-chan | FX Fighter Kurumi-chan | https://anilist.co/anime/206401 | [Link](https://ani.social/post/37874712) |
 | Hotaru no Yomeiri | Firefly Wedding | https://anilist.co/anime/205909 | [Link](https://ani.social/post/37918769) |
 | Fool Night | Fool Night | https://anilist.co/anime/213457 |  |
