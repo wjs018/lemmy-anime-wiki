@@ -52,7 +52,7 @@ These shows have had episodes air already, but no thread was created because the
 | Show Name | English Show Name | AniList Link | Most Recently Episode Number  |
 | :-------- | :---------------- | :----------- | :--------------------------: |
 | Toaru Anbu no ITEM | A Certain Dark Item | https://anilist.co/anime/186742 | Episode 1 |
-| Zeri Feisheng | A Good Day to Ascend | https://anilist.co/anime/214260 | Episode 14 |
+| Zeri Feisheng | A Good Day to Ascend | https://anilist.co/anime/214260 | Episode 15 |
 | Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu | A Livid Lady’s Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires | https://anilist.co/anime/199408 | Episode 12 |
 | Kikansha no Mahou wa Tokubetsu desu 2nd Season | A Returner's Magic Should be Special Season 2 | https://anilist.co/anime/172192 | Episode 1 |
 | Tensei shita Dai Seijo wa, Seijo de Aru Koto wo Hita Kakusu | A Tale of the Secret Saint | https://anilist.co/anime/187402 | Episode 1 |
@@ -76,7 +76,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yomi no Tsugai | Daemons of the Shadow Realm | https://anilist.co/anime/195600 | Episode 24 |
 | Jyuоu Mujin Dandivine | Dandivine | https://anilist.co/anime/213068 | Episode 1 |
 | Reiwa no Dara-san | Dara-san of the Reiwa Era | https://anilist.co/anime/203880 | Episode 13 |
-| Dawang Raoming 3 | Dawang Raoming 3 | https://anilist.co/anime/199353 | Episode 1 |
+| Dawang Raoming 3 | Dawang Raoming 3 | https://anilist.co/anime/199353 | Episode 2 |
 | Koneko no Haitatsuin Uunyan | Delivery Kitten Unyan | https://anilist.co/anime/207217 | Episode 1 |
 | Meitantei Conan | Detective Conan | https://anilist.co/anime/235 | Episode 1215 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 935 |
