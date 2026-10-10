@@ -106,7 +106,6 @@ These shows have had episodes air already, but no thread was created because the
 | Jueshi Zhan Hun 2 | Jueshi Zhan Hun 2 | https://anilist.co/anime/213188 | Episode 18 |
 | Ushiro no Shoumen Kamui-san | KAMUI ---He's behind you | https://anilist.co/anime/207674 | Episode 12 |
 | Keroro Gunsou☆ | KERORO☆ | https://anilist.co/anime/216557 | Episode 2 |
-| Koala Enikki | Koala's Diary | https://anilist.co/anime/194389 | Episode 49 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 79 |
 | Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 25 |
 | LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 26 |
