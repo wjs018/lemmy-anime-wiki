@@ -15,7 +15,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
 | #Zombie Sagashitemasu | #I'm Looking For a Zombie | https://anilist.co/anime/199007 | [Link](https://ani.social/post/37667804) |
-| Yasei no Last Boss ga Arawareta! 2nd Season | A Wild Last Boss Appeared! Season 2 | https://anilist.co/anime/204389 | [Link](https://ani.social/post/37667803) |
+| Yasei no Last Boss ga Arawareta! 2nd Season | A Wild Last Boss Appeared! Season 2 | https://anilist.co/anime/204389 | [Link](https://ani.social/post/37960642) |
 | Aoashi 2nd Season | Aoashi Season 2 | https://anilist.co/anime/191788 | [Link](https://ani.social/post/37709083) |
 | Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season | As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3 | https://anilist.co/anime/185756 | [Link](https://ani.social/post/37710242) |
 | Ao no Hako Season 2 | Blue Box Season 2 | https://anilist.co/anime/189123 | [Link](https://ani.social/post/37700744) |
@@ -226,5 +226,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Seishun Buta Yarou wa Dear Friend no Yume wo Minai | Rascal Does Not Dream of a Dear Friend | https://anilist.co/anime/199340 | October 15 at 16:00 |
 | Tensei Goblin Dakedo Shitsumon Aru? | So What's Wrong with Getting Reborn as a Goblin? | https://anilist.co/anime/209219 | October 12 at 14:00 |
 | TANK CHAIR: Sensha Isu | TANK CHAIR: Sensha Isu | https://anilist.co/anime/209499 | October 11 at 15:00 |
+| Shuiro no Kamen | The Vermilion Mask | https://anilist.co/anime/195571 | October 17 at 08:30 |
 | Yuruyuru Zukan | Yuruyuru Zukan | https://anilist.co/anime/213298 | October 10 at 23:00 |
 {.dense}
