@@ -51,6 +51,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/37662187)
+2|[Link](https://ani.social/post/37954190)
 {.dense}
 
 ## Hotaru no Yomeiri • Firefly Wedding
