@@ -133,7 +133,7 @@ These shows have had episodes air already, but no thread was created because the
 | Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onnanoko wo Ippai Click Shimasu | Now That I Can Control Reality With A Mouse Cursor, I'm Gonna Click Away On The Girls! | https://anilist.co/anime/206774 | Episode 1 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1181 |
 | Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken | Oh Boy, Was I Wrong About Her | https://anilist.co/anime/169583 | Episode 12 |
-| Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 27 |
+| Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 28 |
 | PSYЯEN | PSYREN | https://anilist.co/anime/204011 | Episode 1 |
 | Pan Dorobou | Pan Dorobou | https://anilist.co/anime/194207 | Episode 2 |
 | Pan no Akachan (TV) | Pan no Akachan (TV) | https://anilist.co/anime/212308 | Episode 15 |
@@ -161,7 +161,7 @@ These shows have had episodes air already, but no thread was created because the
 | Super no Ura de Yani Suu Futari | Smoking Behind the Supermarket with You | https://anilist.co/anime/196187 | Episode 12 |
 | Snack HAZAMA | Snack HAZAMA | https://anilist.co/anime/213831 | Episode 12 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 174 |
-| Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 36 |
+| Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 37 |
 | Choujun! Choujou Senpai | Super Psychic Policeman Chojo | https://anilist.co/anime/200294 | Episode 1 |
 | Tetsuryou! meet with Tetsudou Musume | TETSURYO! Meet With Tetsudou Musume | https://anilist.co/anime/199594 | Episode 1 |
 | Tougen Anki: Nikko・Kegon no Taki-hen | TOUGEN ANKI: Nikko Kegon Falls Arc | https://anilist.co/anime/204650 | Episode 2 |
