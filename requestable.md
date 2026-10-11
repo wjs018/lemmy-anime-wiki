@@ -155,7 +155,7 @@ These shows have had episodes air already, but no thread was created because the
 | Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita | Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School | https://anilist.co/anime/201514 | Episode 12 |
 | Rilakkuma | Rilakkuma | https://anilist.co/anime/183231 | Episode 27 |
 | Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita | Saved By the Ice Cold Prince's Embrace | https://anilist.co/anime/213665 | Episode 12 |
-| Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2852 |
+| Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2853 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1356 |
 | Shou 3 Ashibe QQ Goma-chan | Shou 3 Ashibe QQ Goma-chan | https://anilist.co/anime/202386 | Episode 24 |
 | Sirotan | Sirotan | https://anilist.co/anime/209709 | Episode 2 |
