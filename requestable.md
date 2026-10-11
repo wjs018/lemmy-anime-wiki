@@ -42,7 +42,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Koori no Jouheki 2nd Season | The Ramparts of Ice Season 2 | https://anilist.co/anime/213805 | [Link](https://ani.social/post/37879648) |
 | Marronnier Oukoku no Shichinin no Kishi | The Seven Knights of the Marronnier Kingdom | https://anilist.co/anime/212799 | [Link](https://ani.social/post/37953632) |
 | Sekai Saikyou no Majo, Hajimemashita | The World's Strongest Witch | https://anilist.co/anime/211778 | [Link](https://ani.social/post/37831630) |
-| Seihantai na Kimi to Boku 2nd Season | You and I Are Polar Opposites Season 2 | https://anilist.co/anime/210031 | [Link](https://ani.social/post/37702364) |
 {.dense}
 
 ## Requestable Shows
@@ -74,10 +73,10 @@ These shows have had episodes air already, but no thread was created because the
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | Episode 49 |
 | Da Xia Shou Mu Ren | Da Xia Shou Mu Ren | https://anilist.co/anime/214974 | Episode 4 |
 | Yomi no Tsugai | Daemons of the Shadow Realm | https://anilist.co/anime/195600 | Episode 24 |
-| Jyuоu Mujin Dandivine | Dandivine | https://anilist.co/anime/213068 | Episode 1 |
+| Juuоu Mujin Dandivine | Dandivine | https://anilist.co/anime/213068 | Episode 1 |
 | Reiwa no Dara-san | Dara-san of the Reiwa Era | https://anilist.co/anime/203880 | Episode 13 |
 | Dawang Raoming 3 | Dawang Raoming 3 | https://anilist.co/anime/199353 | Episode 2 |
-| Koneko no Haitatsuin Uunyan | Delivery Kitten Unyan | https://anilist.co/anime/207217 | Episode 1 |
+| Koneko no Haitatsuin Uunyan (2026) | Delivery Kitten Unyan (2026) | https://anilist.co/anime/207217 | Episode 1 |
 | Meitantei Conan | Detective Conan | https://anilist.co/anime/235 | Episode 1216 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 936 |
 | Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | Episode 56 |
