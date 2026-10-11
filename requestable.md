@@ -219,6 +219,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | DARK MACHINE: The Animation | DARK MACHINE THE ANIMATION | https://anilist.co/anime/179876 | October 13 at 16:45 |
 | Dali Si Rizhi 3 | Dali Si Rizhi 3 | https://anilist.co/anime/168085 | October 14 at 15:00 |
 | Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku | Full Clearing Another World under a Goddess with Zero Believers | https://anilist.co/anime/205896 | October 11 at 14:30 |
+| GelPiyo 2 | GelPiyo 2 | https://anilist.co/anime/217282 | October 21 at 13:54 |
 | Girls und Panzer: Motto Love Love Sakusen desu! | Girls und Panzer: Motto Love Love Sakusen desu! | https://anilist.co/anime/188034 | October 15 at 15:30 |
 | Kanojo no Tomodachi Mini Anime | My Girlfriend's Friend Mini Anime | https://anilist.co/anime/217782 | October 11 at 17:17 |
 | Seishun Buta Yarou wa Dear Friend no Yume wo Minai | Rascal Does Not Dream of a Dear Friend | https://anilist.co/anime/199340 | October 15 at 16:00 |
