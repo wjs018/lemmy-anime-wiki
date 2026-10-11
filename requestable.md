@@ -128,7 +128,7 @@ These shows have had episodes air already, but no thread was created because the
 | Meitantei Precure! Fushigi na Niwa to Futari no Himitsu | Meitantei Precure! Fushigi na Niwa to Futari no Himitsu | https://anilist.co/anime/198654 | Episode 1 |
 | Yozakura-san Chi no Daisakusen 2nd Season Part 2 | Mission: Yozakura Family Season 2 Part 2 | https://anilist.co/anime/213657 | Episode 1 |
 | Mu Shen Ji 4 | Mu Shen Ji 4 | https://anilist.co/anime/211181 | Episode 26 |
-| Kanojo no Tomodachi | My Girlfriend's Friend | https://anilist.co/anime/211877 | Episode 1 |
+| Kanojo no Tomodachi | My Girlfriend's Friend | https://anilist.co/anime/211877 | Episode 2 |
 | Ibitte Konai Gibo to Gishi | My Stepmother and Stepsisters Aren’t Wicked | https://anilist.co/anime/196356 | Episode 12 |
 | Kaijuu 8-gou: Narumi no Heijitsu | Narumi's Week at Work | https://anilist.co/anime/204431 | Episode 4 |
 | Nezumi-kun no Chokki (TV) 2nd Season | Nezumi-kun no Chokki (TV) 2nd Season | https://anilist.co/anime/214968 | Episode 2 |
