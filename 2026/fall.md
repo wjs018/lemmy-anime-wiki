@@ -116,7 +116,7 @@ Episode|Link
 1|[Link](https://ani.social/post/37706424)
 {.dense}
 
-## Romeria Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita • Romelia War Chronicle
+## Romelia Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita • Romelia War Chronicle
 
 Episode|Link
 :-:|:-:
