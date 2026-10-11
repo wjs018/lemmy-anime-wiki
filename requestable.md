@@ -80,7 +80,7 @@ These shows have had episodes air already, but no thread was created because the
 | Koneko no Haitatsuin Uunyan | Delivery Kitten Unyan | https://anilist.co/anime/207217 | Episode 1 |
 | Meitantei Conan | Detective Conan | https://anilist.co/anime/235 | Episode 1216 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 936 |
-| Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | Episode 55 |
+| Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | Episode 56 |
 | Duel Masters LOST: Danzai no Shounen | Duel Masters LOST: Danzai no Shounen | https://anilist.co/anime/208367 | Episode 1 |
 | Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta | Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé | https://anilist.co/anime/200455 | Episode 1 |
 | You Shou Yan 6th Season | Fabulous Beasts 6 | https://anilist.co/anime/213486 | Episode 11 |
@@ -195,7 +195,7 @@ These shows have had episodes air already, but no thread was created because the
 | Aoki Denshou: Welsh and Shedar | Welsh and Shedar | https://anilist.co/anime/216895 | Episode 2 |
 | Wishing Umbrella | Wishing Umbrella | https://anilist.co/anime/216559 | Episode 1 |
 | Kizu darake Seijo yori Houfuku wo Komete Season2 | With Vengeance, Sincerely, Your Broken Saintess Season 2 | https://anilist.co/anime/212144 | Episode 2 |
-| Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 422 |
+| Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 423 |
 | Yani Neko Mini | Yani Neko Mini | https://anilist.co/anime/208105 | Episode 19 |
 | Yi Nian Yongheng 4 | Yi Nian Yongheng 4 | https://anilist.co/anime/199409 | Episode 14 |
 | Yoroi Shinden Samurai Troopers Part 2 | Yoroi-Shinden Samurai Troopers Cour 2 | https://anilist.co/anime/209800 | Episode 12 |
