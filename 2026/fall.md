@@ -37,6 +37,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/37808469)
+2|[Link](https://ani.social/post/38040156)
 {.dense}
 
 ## Dragon Ball Super: Beerus
