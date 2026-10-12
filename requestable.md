@@ -153,7 +153,7 @@ These shows have had episodes air already, but no thread was created because the
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | https://anilist.co/anime/210687 | Episode 19 |
 | Iwamoto-senpai no Suisen | Recommendations from Iwamoto-Senpai | https://anilist.co/anime/206249 | Episode 12 |
 | Sora wa Akai Kawa no Hotori | Red River | https://anilist.co/anime/207809 | Episode 14 |
-| Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 161 |
+| Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 162 |
 | Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita | Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School | https://anilist.co/anime/201514 | Episode 12 |
 | Rilakkuma | Rilakkuma | https://anilist.co/anime/183231 | Episode 27 |
 | Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita | Saved By the Ice Cold Prince's Embrace | https://anilist.co/anime/213665 | Episode 12 |
@@ -206,7 +206,7 @@ These shows have had episodes air already, but no thread was created because the
 | Youjo Shenki 2 | Youjo Shenki 2 | https://anilist.co/anime/213961 | Episode 12 |
 | Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai | Young Ladies Don't Play Fighting Games | https://anilist.co/anime/128757 | Episode 12 |
 | Yuruyuru Zukan | Yuruyuru Zukan | https://anilist.co/anime/213298 | Episode 2 |
-| Yuusanchi! from Yuuhachi | Yuusanchi! from Yuuhachi | https://anilist.co/anime/214593 | Episode 2 |
+| Yuusanchi! from Yuuhachi | Yuusanchi! from Yuuhachi | https://anilist.co/anime/214593 | Episode 3 |
 | mofusand | mofusand | https://anilist.co/anime/204656 | Episode 40 |
 {.dense}
 
