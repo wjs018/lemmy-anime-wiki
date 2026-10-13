@@ -69,6 +69,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ugoku! Neko Mukashi Banashi | Cat Tales | https://anilist.co/anime/188529 | Episode 50 |
 | Yani Neko | Chainsmoker Cat | https://anilist.co/anime/207141 | Episode 12 |
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 382 |
+| Chitose-kun wa Ramune Bin no Naka Part 2 | Chitose Is in the Ramune Bottle 2nd Cour | https://anilist.co/anime/198727 | Episode 1 |
 | Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou | Clevatess Season 2 | https://anilist.co/anime/198946 | Episode 13 |
 | Bai Ri Cheng Wang | Crowned in a Hundred Days | https://anilist.co/anime/213484 | Episode 25 |
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | Episode 49 |
@@ -167,12 +168,12 @@ These shows have had episodes air already, but no thread was created because the
 | Tensei Goblin Dakedo Shitsumon Aru? | So What's Wrong with Getting Reborn as a Goblin? | https://anilist.co/anime/209219 | Episode 3 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 174 |
 | Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 37 |
-| Choujun! Choujou Senpai | Super Psychic Policeman Chojo | https://anilist.co/anime/200294 | Episode 1 |
+| Choujun! Choujou Senpai | Super Psychic Policeman Chojo | https://anilist.co/anime/200294 | Episode 2 |
 | TANK CHAIR: Sensha Isu | TANK CHAIR | https://anilist.co/anime/209499 | Episode 2 |
 | Tetsuryou! meet with Tetsudou Musume | TETSURYO! Meet With Tetsudou Musume | https://anilist.co/anime/199594 | Episode 1 |
 | Tougen Anki: Nikko・Kegon no Taki-hen | TOUGEN ANKI: Nikko Kegon Falls Arc | https://anilist.co/anime/204650 | Episode 2 |
 | Kuroneko to Majo no Kyoushitsu | The Classroom of the Black Cat and a Witch | https://anilist.co/anime/196974 | Episode 24 |
-| Shiotaiou no Satou-san ga Ore ni dake Amai | The Cold Sato-san is Only Sweet to Me | https://anilist.co/anime/209502 | Episode 1 |
+| Shiotaiou no Satou-san ga Ore ni dake Amai | The Cold Sato-san is Only Sweet to Me | https://anilist.co/anime/209502 | Episode 2 |
 | Tantei wa mou, Shindeiru. Season 2 | The Detective Is Already Dead Season 2 | https://anilist.co/anime/152677 | Episode 1 |
 | Kami no Shizuku | The Drops of God | https://anilist.co/anime/202508 | Episode 24 |
 | "Kimi wo Aisuru Ki wa nai" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu | The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration | https://anilist.co/anime/208225 | Episode 12 |
@@ -217,7 +218,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | BanG Dream! Ave Mujica: prima aurora | BanG Dream! Ave Mujica: prima aurora | https://anilist.co/anime/197543 | October 15 at 15:00 |
 | Chibi Godzilla no Gyakushuu Season 4 | Chibi Godzilla Raids Again Season 4 | https://anilist.co/anime/218008 | October 13 at 23:06 |
-| Chitose-kun wa Ramune Bin no Naka Part 2 | Chitose Is in the Ramune Bottle 2nd Cour | https://anilist.co/anime/198727 | October 13 at 14:00 |
 | DARK MACHINE: The Animation | DARK MACHINE THE ANIMATION | https://anilist.co/anime/179876 | October 13 at 16:45 |
 | Dali Si Rizhi 3 | Dali Si Rizhi 3 | https://anilist.co/anime/168085 | October 14 at 15:00 |
 | Dark Summoner to Dekiteiru Mini Anime Gekijou | Dark Summoner to Dekiteiru Mini Anime Gekijou | https://anilist.co/anime/218217 | October 18 at 19:00 |
