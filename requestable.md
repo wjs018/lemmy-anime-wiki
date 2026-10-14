@@ -32,6 +32,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Tensei Shitara Ken Deshita 2nd Season | Reincarnated as a Sword Season 2 | https://anilist.co/anime/159042 | [Link](https://ani.social/post/38140183) |
 | Romelia Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita | Romelia War Chronicle | https://anilist.co/anime/180894 | [Link](https://ani.social/post/37957871) |
 | JoJo no Kimyou na Bouken: Steel Ball Run - 2nd and 3rd STAGE | STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE | https://anilist.co/anime/210482 | [Link](https://ani.social/post/37907711) |
+| Sasaki to Pii-chan Season 2 | Sasaki and Peeps Season 2 | https://anilist.co/anime/176314 | [Link](https://ani.social/post/38146768) |
 | Kusuriya no Hitorigoto 3rd Season | The Apothecary Diaries Season 3 | https://anilist.co/anime/195516 | [Link](https://ani.social/post/37919708) |
 | Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru | The Exiled Heavy Knight Knows How to Game the System | https://anilist.co/anime/180136 | [Link](https://ani.social/post/37880370) |
 | Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni "Kyouka Point" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu? | The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life | https://anilist.co/anime/207329 | [Link](https://ani.social/post/38095249) |
@@ -159,7 +160,6 @@ These shows have had episodes air already, but no thread was created because the
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 162 |
 | Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita | Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School | https://anilist.co/anime/201514 | Episode 12 |
 | Rilakkuma | Rilakkuma | https://anilist.co/anime/183231 | Episode 27 |
-| Sasaki to Pii-chan Season 2 | Sasaki and Peeps Season 2 | https://anilist.co/anime/176314 | Episode 2 |
 | Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita | Saved By the Ice Cold Prince's Embrace | https://anilist.co/anime/213665 | Episode 12 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2853 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1356 |
