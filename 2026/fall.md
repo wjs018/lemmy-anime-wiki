@@ -154,6 +154,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/37831630)
+2|[Link](https://ani.social/post/38135148)
 {.dense}
 
 ## Tempal: Item no Chikara • Overgeared
