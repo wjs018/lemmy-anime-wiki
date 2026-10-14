@@ -209,7 +209,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai | Young Ladies Don't Play Fighting Games | https://anilist.co/anime/128757 | Episode 12 |
 | Yuruyuru Zukan | Yuruyuru Zukan | https://anilist.co/anime/213298 | Episode 2 |
 | Yuusanchi! from Yuuhachi | Yuusanchi! from Yuuhachi | https://anilist.co/anime/214593 | Episode 3 |
-| mofusand | mofusand | https://anilist.co/anime/204656 | Episode 40 |
+| mofusand | mofusand | https://anilist.co/anime/204656 | Episode 41 |
 {.dense}
 
 ## Upcoming Shows
