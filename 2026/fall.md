@@ -140,6 +140,7 @@ Episode|Link
 Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/37835866)
+2|[Link](https://ani.social/post/38146768)
 {.dense}
 
 ## Seitokai ni mo Ana wa Aru! • Even the Student Council Has Its Holes!
