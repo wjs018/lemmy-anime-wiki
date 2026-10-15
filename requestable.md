@@ -72,7 +72,6 @@ These shows have had episodes air already, but no thread was created because the
 | Chiikawa | Chiikawa | https://anilist.co/anime/140842 | Episode 382 |
 | Chitose-kun wa Ramune Bin no Naka Part 2 | Chitose Is in the Ramune Bottle 2nd Cour | https://anilist.co/anime/198727 | Episode 1 |
 | Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou | Clevatess Season 2 | https://anilist.co/anime/198946 | Episode 13 |
-| Bai Ri Cheng Wang | Crowned in a Hundred Days | https://anilist.co/anime/213484 | Episode 25 |
 | DARK MACHINE: The Animation | DARK MACHINE THE ANIMATION | https://anilist.co/anime/179876 | Episode 1 |
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | Episode 49 |
 | Da Xia Shou Mu Ren | Da Xia Shou Mu Ren | https://anilist.co/anime/214974 | Episode 5 |
