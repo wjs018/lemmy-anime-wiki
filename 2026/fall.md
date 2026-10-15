@@ -53,6 +53,7 @@ Episode|Link
 :-:|:-:
 1|[Link](https://ani.social/post/37580248)
 2|[Link](https://ani.social/post/37874712)
+3|[Link](https://ani.social/post/38178945)
 {.dense}
 
 ## Gensou Suikoden
