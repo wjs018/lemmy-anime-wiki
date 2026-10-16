@@ -100,7 +100,6 @@ These shows have had episodes air already, but no thread was created because the
 | Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season | HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2 | https://anilist.co/anime/209983 | Episode 13 |
 | Kyoufu Collector | HORROR COLLECTOR | https://anilist.co/anime/203473 | Episode 1 |
 | Hotel Inhumans 2nd Season | HOTEL INHUMANS Season 2 | https://anilist.co/anime/199426 | Episode 2 |
-| Hanazakari no Kimitachi e 2nd Season | Hana-Kimi Season 2 | https://anilist.co/anime/209669 | Episode 13 |
 | Hanaori-san wa Tensei Shite mo Kenka ga Shitai | Hanaori-san Still Wants to Fight in the Next Life | https://anilist.co/anime/199066 | Episode 12 |
 | Hokuto no Ken: Kenou-gun Zako-tachi no Banka Part 2 | Hokuto no Ken: Kenou-gun Zako-tachi no Banka Part 2 | https://anilist.co/anime/213506 | Episode 12 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 387 |
@@ -194,7 +193,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yami Shibai 17 | Theatre of Darkness: Yamishibai 17 | https://anilist.co/anime/213359 | Episode 13 |
 | Thunder 3 | Thunder 3 | https://anilist.co/anime/207254 | Episode 12 |
 | Doko yori mo Tooi Basho ni Iru Kimi e | To You in the Beyond | https://anilist.co/anime/207327 | Episode 1 |
-| Tokyo Revengers: Santen Sensou-hen | Tokyo Revengers: War of the Three Titans Arc | https://anilist.co/anime/178083 | Episode 2 |
+| Tokyo Revengers: Santen Sensou-hen | Tokyo Revengers: War of the Three Titans Arc | https://anilist.co/anime/178083 | Episode 3 |
 | Otomege Sekai wa Mob ni Kibishii Sekai desu 2 | Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2 | https://anilist.co/anime/159309 | Episode 12 |
 | Umayuru: Full Gate! | Umayuru: Full Gate! | https://anilist.co/anime/215835 | Episode 3 |
 | Oji-san wa Kawaii Mono ga Osuki. | Uncle's Obsession with Cute Things | https://anilist.co/anime/202079 | Episode 2 |
