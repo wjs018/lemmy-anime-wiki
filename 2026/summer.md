@@ -545,6 +545,7 @@ Episode|Link
 5|[Link](https://ani.social/post/35034350)
 13|[Link](https://ani.social/post/37631242)
 14|[Link](https://ani.social/post/37921999)
+15|[Link](https://ani.social/post/38227952)
 {.dense}
 
 ## Ushiro no Shoumen Kamui-san • KAMUI ---He's behind you
