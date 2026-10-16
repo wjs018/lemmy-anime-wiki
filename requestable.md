@@ -20,7 +20,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Dragon Ball Super: Beerus | Dragon Ball Super: Beerus | https://anilist.co/anime/206814 | [Link](https://ani.social/post/38001427) |
 | Seitokai ni mo Ana wa Aru! | Even the Student Council Has Its Holes! | https://anilist.co/anime/191656 | [Link](https://ani.social/post/37965289) |
 | FX Senshi Kurumi-chan | FX Fighter Kurumi-chan | https://anilist.co/anime/206401 | [Link](https://ani.social/post/38178945) |
-| Hotaru no Yomeiri | Firefly Wedding | https://anilist.co/anime/205909 | [Link](https://ani.social/post/37918769) |
+| Hotaru no Yomeiri | Firefly Wedding | https://anilist.co/anime/205909 | [Link](https://ani.social/post/38226936) |
 | Fool Night | Fool Night | https://anilist.co/anime/213457 |  |
 | Gensou Suikoden | Gensou Suikoden | https://anilist.co/anime/187316 | [Link](https://ani.social/post/37954190) |
 | Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu. | Hello, I am a Witch and my Crush Wants me to Make a Love Potion! | https://anilist.co/anime/207191 | [Link](https://ani.social/post/38040156) |
@@ -176,7 +176,7 @@ These shows have had episodes air already, but no thread was created because the
 | Choujun! Choujou Senpai | Super Psychic Policeman Chojo | https://anilist.co/anime/200294 | Episode 2 |
 | TANK CHAIR: Sensha Isu | TANK CHAIR | https://anilist.co/anime/209499 | Episode 2 |
 | Tetsuryou! meet with Tetsudou Musume | TETSURYO! Meet With Tetsudou Musume | https://anilist.co/anime/199594 | Episode 2 |
-| Tougen Anki: Nikko・Kegon no Taki-hen | TOUGEN ANKI: Nikko Kegon Falls Arc | https://anilist.co/anime/204650 | Episode 2 |
+| Tougen Anki: Nikko・Kegon no Taki-hen | TOUGEN ANKI: Nikko Kegon Falls Arc | https://anilist.co/anime/204650 | Episode 3 |
 | Kuroneko to Majo no Kyoushitsu | The Classroom of the Black Cat and a Witch | https://anilist.co/anime/196974 | Episode 24 |
 | Shiotaiou no Satou-san ga Ore ni dake Amai | The Cold Sato-san is Only Sweet to Me | https://anilist.co/anime/209502 | Episode 2 |
 | Tantei wa mou, Shindeiru. Season 2 | The Detective Is Already Dead Season 2 | https://anilist.co/anime/152677 | Episode 2 |
