@@ -151,7 +151,7 @@ These shows have had episodes air already, but no thread was created because the
 | Pop Pap Polters | Pop Pap Polters | https://anilist.co/anime/217787 | Episode 2 |
 | Punirunes Puni 4 | Punirunes Puni 4 | https://anilist.co/anime/216860 | Episode 2 |
 | Tanuki to Kitsune (TV) | Raccoon Dog and Fox | https://anilist.co/anime/218011 | Episode 2 |
-| Ranma 1/2 (2024) 3rd Season | Ranma1/2 (2024) Season 3 | https://anilist.co/anime/209872 | Episode 2 |
+| Ranma 1/2 (2024) 3rd Season | Ranma1/2 (2024) Season 3 | https://anilist.co/anime/209872 | Episode 3 |
 | Seishun Buta Yarou wa Dear Friend no Yume wo Minai | Rascal Does Not Dream of a Dear Friend | https://anilist.co/anime/199340 | Episode 1 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | https://anilist.co/anime/210687 | Episode 19 |
 | Iwamoto-senpai no Suisen | Recommendations from Iwamoto-Senpai | https://anilist.co/anime/206249 | Episode 12 |
