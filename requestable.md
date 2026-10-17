@@ -15,7 +15,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
 | #Zombie Sagashitemasu | #I'm Looking For a Zombie | https://anilist.co/anime/199007 | [Link](https://ani.social/post/37963136) |
-| Yasei no Last Boss ga Arawareta! 2nd Season | A Wild Last Boss Appeared! Season 2 | https://anilist.co/anime/204389 | [Link](https://ani.social/post/37960642) |
+| Yasei no Last Boss ga Arawareta! 2nd Season | A Wild Last Boss Appeared! Season 2 | https://anilist.co/anime/204389 | [Link](https://ani.social/post/38265073) |
 | Cyberpunk: Edgerunners 2 | Cyberpunk: Edgerunners 2 | https://anilist.co/anime/195539 |  |
 | Dragon Ball Super: Beerus | Dragon Ball Super: Beerus | https://anilist.co/anime/206814 | [Link](https://ani.social/post/38001427) |
 | Seitokai ni mo Ana wa Aru! | Even the Student Council Has Its Holes! | https://anilist.co/anime/191656 | [Link](https://ani.social/post/37965289) |
