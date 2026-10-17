@@ -63,7 +63,7 @@ These shows have had episodes air already, but no thread was created because the
 | BanG Dream! Ave Mujica: prima aurora | BanG Dream! Ave Mujica: prima aurora | https://anilist.co/anime/197543 | Episode 1 |
 | Battle Spirits [Re] Zekkai No Ku | Battle Spirits [Re] Zekkai No Ku | https://anilist.co/anime/187990 | Episode 2 |
 | Guangyin Zhi Wai 2 | Beyond Time's Gaze 2 | https://anilist.co/anime/213356 | Episode 18 |
-| Black Clover 2nd Season | Black Clover Season 2 | https://anilist.co/anime/195604 | Episode 2 |
+| Black Clover 2nd Season | Black Clover Season 2 | https://anilist.co/anime/195604 | Episode 3 |
 | Ao no Hako Season 2 | Blue Box Season 2 | https://anilist.co/anime/189123 | Episode 2 |
 | Candy Caries | Candy Caries | https://anilist.co/anime/205772 | Episode 24 |
 | Ugoku! Neko Mukashi Banashi | Cat Tales | https://anilist.co/anime/188529 | Episode 50 |
@@ -127,7 +127,6 @@ These shows have had episodes air already, but no thread was created because the
 | Mazenchu | Mazenchu | https://anilist.co/anime/217577 | Episode 3 |
 | Mebius Dust | Mebius Dust | https://anilist.co/anime/108992 | Episode 12 |
 | Meitantei Conan: 30-Gou Satsujin Jiken | Meitantei Conan: 30-Gou Satsujin Jiken | https://anilist.co/anime/217126 | Episode 1 |
-| Meitantei Precure! Fushigi na Niwa to Futari no Himitsu | Meitantei Precure! Fushigi na Niwa to Futari no Himitsu | https://anilist.co/anime/198654 | Episode 1 |
 | Yozakura-san Chi no Daisakusen 2nd Season Part 2 | Mission: Yozakura Family Season 2 Part 2 | https://anilist.co/anime/213657 | Episode 1 |
 | Mu Shen Ji 4 | Mu Shen Ji 4 | https://anilist.co/anime/211181 | Episode 26 |
 | Kanojo no Tomodachi | My Girlfriend's Friend | https://anilist.co/anime/211877 | Episode 2 |
