@@ -122,15 +122,15 @@ These shows have had episodes air already, but no thread was created because the
 | Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu | Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest! | https://anilist.co/anime/202250 | Episode 3 |
 | Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru | Magical Explorer | https://anilist.co/anime/169581 | Episode 4 |
 | Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | https://anilist.co/anime/185875 | Episode 13 |
+| Mahou no Shimai LuluttoLilly Part 2 | Magical Sisters LuluttoLilly Part 2 | https://anilist.co/anime/209032 | Episode 2 |
 | Kabushiki Gaisha Magi Lumiere 2nd Season | Magilumiere Magical Girls Inc. Season 2 | https://anilist.co/anime/185692 | Episode 12 |
-| Mahou no Shimai LuluttoLilly Part 2 | Mahou no Shimai LuluttoLilly Part 2 | https://anilist.co/anime/209032 | Episode 2 |
 | Mazenchu | Mazenchu | https://anilist.co/anime/217577 | Episode 3 |
 | Mebius Dust | Mebius Dust | https://anilist.co/anime/108992 | Episode 12 |
 | Meitantei Conan: 30-Gou Satsujin Jiken | Meitantei Conan: 30-Gou Satsujin Jiken | https://anilist.co/anime/217126 | Episode 1 |
 | Yozakura-san Chi no Daisakusen 2nd Season Part 2 | Mission: Yozakura Family Season 2 Part 2 | https://anilist.co/anime/213657 | Episode 1 |
 | Mu Shen Ji 4 | Mu Shen Ji 4 | https://anilist.co/anime/211181 | Episode 26 |
 | Kanojo no Tomodachi | My Girlfriend's Friend | https://anilist.co/anime/211877 | Episode 2 |
-| Kanojo no Tomodachi Mini Anime | My Girlfriend's Friend Mini Anime | https://anilist.co/anime/217782 | Episode 2 |
+| Kanojo no Tomodachi Mini Anime Gekijou | My Girlfriend's Friend Mini Anime | https://anilist.co/anime/217782 | Episode 2 |
 | Ibitte Konai Gibo to Gishi | My Stepmother and Stepsisters Aren’t Wicked | https://anilist.co/anime/196356 | Episode 12 |
 | Kaijuu 8-gou: Narumi no Heijitsu | Narumi's Week at Work | https://anilist.co/anime/204431 | Episode 4 |
 | Nezumi-kun no Chokki (TV) 2nd Season | Nezumi-kun no Chokki (TV) 2nd Season | https://anilist.co/anime/214968 | Episode 3 |
@@ -217,8 +217,8 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
-| Dark Summoner to Dekiteiru Mini Anime Gekijou | Dark Summoner to Dekiteiru Mini Anime Gekijou | https://anilist.co/anime/218217 | October 18 at 19:00 |
 | GelPiyo 2 | GelPiyo 2 | https://anilist.co/anime/217282 | October 21 at 13:54 |
+| JK Dark Summoner to Deki......Dei Nai!? | JK Dark Summoner to Deki......Dei Nai!? | https://anilist.co/anime/218217 | October 18 at 19:00 |
 | Made in Abyss: Mezameru Shinpi | Made in Abyss: Mezameru Shinpi | https://anilist.co/anime/160275 | October 22 at 16:00 |
 | Watashi no Shiawase na Kekkon Tokubetsu-hen | My Happy Marriage Special Episodes | https://anilist.co/anime/190054 | October 25 at 10:00 |
 | Girigiri Warukunai Watame | Watame Did Borderline Nothing Wrong | https://anilist.co/anime/146004 | October 23 at 11:00 |
