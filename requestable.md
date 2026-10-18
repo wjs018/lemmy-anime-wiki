@@ -61,7 +61,7 @@ These shows have had episodes air already, but no thread was created because the
 | BLACK TORCH | BLACK TORCH | https://anilist.co/anime/187538 | Episode 12 |
 | BLEACH: Sennen Kessen-hen - Kashin-tan | BLEACH: Thousand-Year Blood War - The Calamity | https://anilist.co/anime/185874 | Episode 9 |
 | BanG Dream! Ave Mujica: prima aurora | BanG Dream! Ave Mujica: prima aurora | https://anilist.co/anime/197543 | Episode 1 |
-| Battle Spirits [Re] Zekkai No Ku | Battle Spirits [Re] Zekkai No Ku | https://anilist.co/anime/187990 | Episode 2 |
+| Battle Spirits [Re] Zekkai no Kuu | Battle Spirits [Re] Zekkai No Ku | https://anilist.co/anime/187990 | Episode 2 |
 | Guangyin Zhi Wai 2 | Beyond Time's Gaze 2 | https://anilist.co/anime/213356 | Episode 18 |
 | Black Clover 2nd Season | Black Clover Season 2 | https://anilist.co/anime/195604 | Episode 3 |
 | Ao no Hako Season 2 | Blue Box Season 2 | https://anilist.co/anime/189123 | Episode 2 |
