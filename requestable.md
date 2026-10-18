@@ -149,7 +149,7 @@ These shows have had episodes air already, but no thread was created because the
 | PokéOki SEASON 2 | PokéOki SEASON 2 | https://anilist.co/anime/216625 | Episode 4 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 153 |
 | Pop Pap Polters | Pop Pap Polters | https://anilist.co/anime/217787 | Episode 2 |
-| Punirunes Puni 4 | Punirunes Puni 4 | https://anilist.co/anime/216860 | Episode 2 |
+| Punirunes Puni 4 | Punirunes Puni 4 | https://anilist.co/anime/216860 | Episode 3 |
 | Tanuki to Kitsune (TV) | Raccoon Dog and Fox | https://anilist.co/anime/218011 | Episode 3 |
 | Ranma 1/2 (2024) 3rd Season | Ranma1/2 (2024) Season 3 | https://anilist.co/anime/209872 | Episode 3 |
 | Seishun Buta Yarou wa Dear Friend no Yume wo Minai | Rascal Does Not Dream of a Dear Friend | https://anilist.co/anime/199340 | Episode 1 |
