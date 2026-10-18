@@ -195,7 +195,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tokyo Revengers: Santen Sensou-hen | Tokyo Revengers: War of the Three Titans Arc | https://anilist.co/anime/178083 | Episode 3 |
 | Otomege Sekai wa Mob ni Kibishii Sekai desu 2 | Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2 | https://anilist.co/anime/159309 | Episode 12 |
 | Umayuru: Full Gate! | Umayuru: Full Gate! | https://anilist.co/anime/215835 | Episode 4 |
-| Oji-san wa Kawaii Mono ga Osuki. | Uncle's Obsession with Cute Things | https://anilist.co/anime/202079 | Episode 2 |
+| Oji-san wa Kawaii Mono ga Osuki. | Uncle's Obsession with Cute Things | https://anilist.co/anime/202079 | Episode 3 |
 | Vertex Force | Vertex Force | https://anilist.co/anime/209562 | Episode 3 |
 | Wareware wa Uchuujin | Wareware wa Uchuujin | https://anilist.co/anime/202429 | Episode 1 |
 | Mairimashita! Iruma-kun 4 | Welcome to Demon School! Iruma-kun Season 4 | https://anilist.co/anime/184492 | Episode 24 |
