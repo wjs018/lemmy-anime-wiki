@@ -137,7 +137,7 @@ These shows have had episodes air already, but no thread was created because the
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1181 |
 | Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken | Oh Boy, Was I Wrong About Her | https://anilist.co/anime/169583 | Episode 12 |
 | Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 29 |
-| PSYЯEN | PSYREN | https://anilist.co/anime/204011 | Episode 2 |
+| PSYЯEN | PSYREN | https://anilist.co/anime/204011 | Episode 3 |
 | Pan Dorobou | Pan Dorobou | https://anilist.co/anime/194207 | Episode 3 |
 | Pan no Akachan (TV) | Pan no Akachan (TV) | https://anilist.co/anime/212308 | Episode 16 |
 | Perfect Addiction | Perfect Addiction | https://anilist.co/anime/213666 | Episode 12 |
