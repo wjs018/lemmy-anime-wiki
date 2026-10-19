@@ -153,7 +153,6 @@ These shows have had episodes air already, but no thread was created because the
 | Ranma 1/2 (2024) 3rd Season | Ranma1/2 (2024) Season 3 | https://anilist.co/anime/209872 | Episode 3 |
 | Seishun Buta Yarou wa Dear Friend no Yume wo Minai | Rascal Does Not Dream of a Dear Friend | https://anilist.co/anime/199340 | Episode 1 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | https://anilist.co/anime/210687 | Episode 19 |
-| Iwamoto-senpai no Suisen | Recommendations from Iwamoto-Senpai | https://anilist.co/anime/206249 | Episode 12 |
 | Sora wa Akai Kawa no Hotori | Red River | https://anilist.co/anime/207809 | Episode 15 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 163 |
 | Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita | Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School | https://anilist.co/anime/201514 | Episode 12 |
