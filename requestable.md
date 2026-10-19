@@ -58,7 +58,6 @@ These shows have had episodes air already, but no thread was created because the
 | Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season | As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3 | https://anilist.co/anime/185756 | Episode 4 |
 | Aware! Meisaku-kun (2026) | Aware! Meisaku-kun (2026) | https://anilist.co/anime/205116 | Episode 12 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 135 |
-| BLACK TORCH | BLACK TORCH | https://anilist.co/anime/187538 | Episode 12 |
 | BLEACH: Sennen Kessen-hen - Kashin-tan | BLEACH: Thousand-Year Blood War - The Calamity | https://anilist.co/anime/185874 | Episode 9 |
 | BanG Dream! Ave Mujica: prima aurora | BanG Dream! Ave Mujica: prima aurora | https://anilist.co/anime/197543 | Episode 1 |
 | Battle Spirits [Re] Zekkai no Kuu | Battle Spirits [Re] Zekkai No Ku | https://anilist.co/anime/187990 | Episode 2 |
@@ -166,7 +165,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sirotan | Sirotan | https://anilist.co/anime/209709 | Episode 3 |
 | Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II | Skeleton Knight in Another World Season 2 | https://anilist.co/anime/185542 | Episode 12 |
 | Super no Ura de Yani Suu Futari | Smoking Behind the Supermarket with You | https://anilist.co/anime/196187 | Episode 12 |
-| Tensei Goblin Dakedo Shitsumon Aru? | So What's Wrong with Getting Reborn as a Goblin? | https://anilist.co/anime/209219 | Episode 3 |
+| Tensei Goblin Dakedo Shitsumon Aru? | So What's Wrong with Getting Reborn as a Goblin? | https://anilist.co/anime/209219 | Episode 4 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 175 |
 | Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 38 |
 | Choujun! Choujou Senpai | Super Psychic Policeman Chojo | https://anilist.co/anime/200294 | Episode 2 |
