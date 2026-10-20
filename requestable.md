@@ -168,7 +168,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tetsuryou! meet with Tetsudou Musume | TETSURYO! Meet With Tetsudou Musume | https://anilist.co/anime/199594 | Episode 2 |
 | Tougen Anki: Nikko・Kegon no Taki-hen | TOUGEN ANKI: Nikko Kegon Falls Arc | https://anilist.co/anime/204650 | Episode 3 |
 | Kuroneko to Majo no Kyoushitsu | The Classroom of the Black Cat and a Witch | https://anilist.co/anime/196974 | Episode 24 |
-| Shiotaiou no Satou-san ga Ore ni dake Amai | The Cold Sato-san is Only Sweet to Me | https://anilist.co/anime/209502 | Episode 2 |
+| Shiotaiou no Satou-san ga Ore ni dake Amai | The Cold Sato-san is Only Sweet to Me | https://anilist.co/anime/209502 | Episode 3 |
 | Tantei wa mou, Shindeiru. Season 2 | The Detective Is Already Dead Season 2 | https://anilist.co/anime/152677 | Episode 2 |
 | Nige Jouzu no Wakagimi 2nd Season | The Elusive Samurai Season 2 | https://anilist.co/anime/182616 | Episode 12 |
 | Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita | The Forsaken Saintess and Her Foodie Roadtrip in Another World | https://anilist.co/anime/209504 | Episode 12 |
@@ -177,7 +177,6 @@ These shows have had episodes air already, but no thread was created because the
 | Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen | The Prince of Tennis II U-17 WORLD CUP: Final Member Selection Match | https://anilist.co/anime/199068 | Episode 3 |
 | Shuiro no Kamen | The Vermilion Mask | https://anilist.co/anime/195571 | Episode 2 |
 | World Is Dancing | The World Is Dancing | https://anilist.co/anime/206521 | Episode 13 |
-| Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha | The World's Strongest Rearguard | https://anilist.co/anime/198409 | Episode 12 |
 | Yami Shibai 17 | Theatre of Darkness: Yamishibai 17 | https://anilist.co/anime/213359 | Episode 13 |
 | Thunder 3 | Thunder 3 | https://anilist.co/anime/207254 | Episode 12 |
 | Doko yori mo Tooi Basho ni Iru Kimi e | To You in the Beyond | https://anilist.co/anime/207327 | Episode 1 |
