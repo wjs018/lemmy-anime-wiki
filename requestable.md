@@ -148,7 +148,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ranma 1/2 (2024) 3rd Season | Ranma1/2 (2024) Season 3 | https://anilist.co/anime/209872 | Episode 3 |
 | Seishun Buta Yarou wa Dear Friend no Yume wo Minai | Rascal Does Not Dream of a Dear Friend | https://anilist.co/anime/199340 | Episode 1 |
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | https://anilist.co/anime/210687 | Episode 19 |
-| Sora wa Akai Kawa no Hotori | Red River | https://anilist.co/anime/207809 | Episode 15 |
+| Sora wa Akai Kawa no Hotori | Red River | https://anilist.co/anime/207809 | Episode 16 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 163 |
 | Rilakkuma | Rilakkuma | https://anilist.co/anime/183231 | Episode 28 |
 | Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita | Saved By the Ice Cold Prince's Embrace | https://anilist.co/anime/213665 | Episode 12 |
