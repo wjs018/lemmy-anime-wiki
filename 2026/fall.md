@@ -33,6 +33,22 @@ Episode|Link
 1|[Link](https://ani.social/post/37709083)
 {.dense}
 
+## Cyberpunk: Edgerunners 2
+
+Episode|Link
+:-:|:-:
+1|[Link](https://ani.social/post/38381199)
+2|[Link](https://ani.social/post/38381200)
+3|[Link](https://ani.social/post/38381237)
+4|[Link](https://ani.social/post/38381238)
+5|[Link](https://ani.social/post/38381239)
+6|[Link](https://ani.social/post/38381241)
+7|[Link](https://ani.social/post/38381242)
+8|[Link](https://ani.social/post/38381258)
+9|[Link](https://ani.social/post/38381310)
+10|[Link](https://ani.social/post/38381352)
+{.dense}
+
 ## Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu. • Hello, I am a Witch and my Crush Wants me to Make a Love Potion!
 
 Episode|Link
