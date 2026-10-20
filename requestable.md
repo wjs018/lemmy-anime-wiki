@@ -16,7 +16,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | :-------- | :---------------- | :----------- | :--------------------: |
 | #Zombie Sagashitemasu | #I'm Looking For a Zombie | https://anilist.co/anime/199007 | [Link](https://ani.social/post/38267080) |
 | Yasei no Last Boss ga Arawareta! 2nd Season | A Wild Last Boss Appeared! Season 2 | https://anilist.co/anime/204389 | [Link](https://ani.social/post/38265073) |
-| Cyberpunk: Edgerunners 2 | Cyberpunk: Edgerunners 2 | https://anilist.co/anime/195539 |  |
+| Cyberpunk: Edgerunners 2 | Cyberpunk: Edgerunners 2 | https://anilist.co/anime/195539 | [Link](https://ani.social/post/38381352) |
 | Dragon Ball Super: Beerus | Dragon Ball Super: Beerus | https://anilist.co/anime/206814 | [Link](https://ani.social/post/38308394) |
 | Seitokai ni mo Ana wa Aru! | Even the Student Council Has Its Holes! | https://anilist.co/anime/191656 | [Link](https://ani.social/post/38268883) |
 | FX Senshi Kurumi-chan | FX Fighter Kurumi-chan | https://anilist.co/anime/206401 | [Link](https://ani.social/post/38178945) |
@@ -103,7 +103,6 @@ These shows have had episodes air already, but no thread was created because the
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 388 |
 | Kimi ga Shinu made Koi wo Shitai | I Want to Love You Till Your Dying Day | https://anilist.co/anime/187260 | Episode 13 |
 | Dark Summoner to Dekiteiru | I'm Dating a Dark Summoner | https://anilist.co/anime/208025 | Episode 3 |
-| Tetsunabe no Jan! | Iron Wok Jan! | https://anilist.co/anime/204060 | Episode 12 |
 | JK Dark Summoner to Deki......Dei Nai!? | JK Dark Summoner to Deki......Dei Nai!? | https://anilist.co/anime/218217 | Episode 3 |
 | Jueshi Zhan Hun 2 | Jueshi Zhan Hun 2 | https://anilist.co/anime/213188 | Episode 20 |
 | Keroro Gunsou☆ | KERORO☆ | https://anilist.co/anime/216557 | Episode 3 |
