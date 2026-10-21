@@ -71,7 +71,7 @@ These shows have had episodes air already, but no thread was created because the
 | Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou | Clevatess Season 2 | https://anilist.co/anime/198946 | Episode 13 |
 | DARK MACHINE: The Animation | DARK MACHINE THE ANIMATION | https://anilist.co/anime/179876 | Episode 2 |
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | Episode 49 |
-| Da Xia Shou Mu Ren | Da Xia Shou Mu Ren | https://anilist.co/anime/214974 | Episode 5 |
+| Da Xia Shou Mu Ren | Da Xia Shou Mu Ren | https://anilist.co/anime/214974 | Episode 6 |
 | Dali Si Rizhi 3 | Dali Si Rizhi 3 | https://anilist.co/anime/168085 | Episode 1 |
 | Juuоu Mujin Dandivine | Dandivine | https://anilist.co/anime/213068 | Episode 2 |
 | Reiwa no Dara-san | Dara-san of the Reiwa Era | https://anilist.co/anime/203880 | Episode 13 |
@@ -186,7 +186,7 @@ These shows have had episodes air already, but no thread was created because the
 | Aoki Denshou: Welsh and Shedar | Welsh and Shedar | https://anilist.co/anime/216895 | Episode 3 |
 | Kizu darake Seijo yori Houfuku wo Komete Season2 | With Vengeance, Sincerely, Your Broken Saintess Season 2 | https://anilist.co/anime/212144 | Episode 3 |
 | Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 426 |
-| Yi Nian Yongheng 4 | Yi Nian Yongheng 4 | https://anilist.co/anime/199409 | Episode 15 |
+| Yi Nian Yongheng 4 | Yi Nian Yongheng 4 | https://anilist.co/anime/199409 | Episode 16 |
 | Yoroi Shinden Samurai Troopers Part 2 | Yoroi-Shinden Samurai Troopers Cour 2 | https://anilist.co/anime/209800 | Episode 12 |
 | Youjo Shenki 2 | Youjo Shenki 2 | https://anilist.co/anime/213961 | Episode 12 |
 | Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai | Young Ladies Don't Play Fighting Games | https://anilist.co/anime/128757 | Episode 12 |
@@ -205,5 +205,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Luo Xiaohei Zhan Ji: Xue Qian Pian | Luo Xiaohei Zhan Ji: Xue Qian Pian | https://anilist.co/anime/206244 | October 30 at 04:00 |
 | Made in Abyss: Mezameru Shinpi | Made in Abyss: Mezameru Shinpi | https://anilist.co/anime/160275 | October 22 at 16:00 |
 | Watashi no Shiawase na Kekkon Tokubetsu-hen | My Happy Marriage Special Episodes | https://anilist.co/anime/190054 | October 25 at 10:00 |
+| Wan Sheng Jie: Gubao de Mimi | Wan Sheng Jie: Gubao de Mimi | https://anilist.co/anime/218493 | October 31 at 02:00 |
 | Girigiri Warukunai Watame | Watame Did Borderline Nothing Wrong | https://anilist.co/anime/146004 | October 23 at 11:00 |
 {.dense}
