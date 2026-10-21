@@ -24,7 +24,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Fool Night | Fool Night | https://anilist.co/anime/213457 |  |
 | Gensou Suikoden | Gensou Suikoden | https://anilist.co/anime/187316 | [Link](https://ani.social/post/38394571) |
 | Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu. | Hello, I am a Witch and my Crush Wants me to Make a Love Potion! | https://anilist.co/anime/207191 | [Link](https://ani.social/post/38348525) |
-| Magic Knight Rayearth (2026) | Magic Knight Rayearth (2026) | https://anilist.co/anime/178868 | [Link](https://ani.social/post/38137301) |
+| Magic Knight Rayearth (2026) | Magic Knight Rayearth (2026) | https://anilist.co/anime/178868 | [Link](https://ani.social/post/38440084) |
 | Kyouran Reijou Nia Liston | Nia Liston: The Merciless Maiden | https://anilist.co/anime/206949 | [Link](https://ani.social/post/38392588) |
 | Tempal: Item no Chikara | Overgeared | https://anilist.co/anime/212888 | [Link](https://ani.social/post/38309895) |
 | Uchi no Otouto-domo ga Sumimasen | Please Excuse My Younger Brothers | https://anilist.co/anime/203490 | [Link](https://ani.social/post/38227952) |
@@ -71,7 +71,7 @@ These shows have had episodes air already, but no thread was created because the
 | DARK MACHINE: The Animation | DARK MACHINE THE ANIMATION | https://anilist.co/anime/179876 | Episode 2 |
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | Episode 49 |
 | Da Xia Shou Mu Ren | Da Xia Shou Mu Ren | https://anilist.co/anime/214974 | Episode 6 |
-| Dali Si Rizhi 3 | Dali Si Rizhi 3 | https://anilist.co/anime/168085 | Episode 1 |
+| Dali Si Rizhi 3 | Dali Si Rizhi 3 | https://anilist.co/anime/168085 | Episode 2 |
 | Juuоu Mujin Dandivine | Dandivine | https://anilist.co/anime/213068 | Episode 2 |
 | Reiwa no Dara-san | Dara-san of the Reiwa Era | https://anilist.co/anime/203880 | Episode 13 |
 | Dawang Raoming 3 | Dawang Raoming 3 | https://anilist.co/anime/199353 | Episode 5 |
@@ -82,7 +82,6 @@ These shows have had episodes air already, but no thread was created because the
 | Duel Masters LOST: Danzai no Shounen | Duel Masters LOST: Danzai no Shounen | https://anilist.co/anime/208367 | Episode 2 |
 | Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta | Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé | https://anilist.co/anime/200455 | Episode 3 |
 | You Shou Yan 6th Season | Fabulous Beasts 6 | https://anilist.co/anime/213486 | Episode 12 |
-| Honoo no Toukyuujyo Dodge Danko | Flaming Dodgeball Girl Danko | https://anilist.co/anime/195833 | Episode 12 |
 | Kanata Kara | From Far Away | https://anilist.co/anime/209463 | Episode 3 |
 | Katainaka no Ossan, Kensei ni Naru II | From Old Country Bumpkin to Master Swordsman II | https://anilist.co/anime/194829 | Episode 12 |
 | Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku | Full Clearing Another World under a Goddess with Zero Believers | https://anilist.co/anime/205896 | Episode 2 |
@@ -165,7 +164,6 @@ These shows have had episodes air already, but no thread was created because the
 | Shiotaiou no Satou-san ga Ore ni dake Amai | The Cold Sato-san is Only Sweet to Me | https://anilist.co/anime/209502 | Episode 3 |
 | Tantei wa mou, Shindeiru. Season 2 | The Detective Is Already Dead Season 2 | https://anilist.co/anime/152677 | Episode 3 |
 | Nige Jouzu no Wakagimi 2nd Season | The Elusive Samurai Season 2 | https://anilist.co/anime/182616 | Episode 12 |
-| Suterare Seijo no Isekai Gohantabi: Kakure Skill de Camping Car wo Shoukan Shimashita | The Forsaken Saintess and Her Foodie Roadtrip in Another World | https://anilist.co/anime/209504 | Episode 12 |
 | Hyouken no Majutsushi ga Sekai wo Suberu II | The Iceblade Sorcerer Shall Rule the World II | https://anilist.co/anime/212503 | Episode 2 |
 | Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen | The Prince of Tennis II U-17 WORLD CUP: Final Member Selection Match | https://anilist.co/anime/199068 | Episode 3 |
 | Shuiro no Kamen | The Vermilion Mask | https://anilist.co/anime/195571 | Episode 2 |
