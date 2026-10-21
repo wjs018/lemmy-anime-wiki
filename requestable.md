@@ -49,7 +49,6 @@ These shows have had episodes air already, but no thread was created because the
 | :-------- | :---------------- | :----------- | :--------------------------: |
 | Toaru Anbu no ITEM | A Certain Dark Item | https://anilist.co/anime/186742 | Episode 2 |
 | Zeri Feisheng | A Good Day to Ascend | https://anilist.co/anime/214260 | Episode 16 |
-| Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu | A Livid Lady’s Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires | https://anilist.co/anime/199408 | Episode 12 |
 | Kikansha no Mahou wa Tokubetsu desu 2nd Season | A Returner's Magic Should be Special Season 2 | https://anilist.co/anime/172192 | Episode 2 |
 | Tensei shita Dai Seijo wa, Seijo de Aru Koto wo Hita Kakusu | A Tale of the Secret Saint | https://anilist.co/anime/187402 | Episode 4 |
 | Diamond no Ace act II: Second Season Part 2 | Ace of the Diamond act II -Second Season- | https://anilist.co/anime/213658 | Episode 2 |
