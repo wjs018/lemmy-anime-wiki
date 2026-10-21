@@ -72,7 +72,7 @@ These shows have had episodes air already, but no thread was created because the
 | DIGIMON BEATBREAK | DIGIMON BEATBREAK | https://anilist.co/anime/188388 | Episode 49 |
 | Da Xia Shou Mu Ren | Da Xia Shou Mu Ren | https://anilist.co/anime/214974 | Episode 6 |
 | Dali Si Rizhi 3 | Dali Si Rizhi 3 | https://anilist.co/anime/168085 | Episode 2 |
-| Juuоu Mujin Dandivine | Dandivine | https://anilist.co/anime/213068 | Episode 2 |
+| Juuоu Mujin Dandivine | Dandivine | https://anilist.co/anime/213068 | Episode 3 |
 | Reiwa no Dara-san | Dara-san of the Reiwa Era | https://anilist.co/anime/203880 | Episode 13 |
 | Dawang Raoming 3 | Dawang Raoming 3 | https://anilist.co/anime/199353 | Episode 5 |
 | Koneko no Haitatsuin Uunyan (2026) | Delivery Kitten Unyan (2026) | https://anilist.co/anime/207217 | Episode 1 |
@@ -128,7 +128,6 @@ These shows have had episodes air already, but no thread was created because the
 | Nezumi-kun no Chokki (TV) 2nd Season | Nezumi-kun no Chokki (TV) 2nd Season | https://anilist.co/anime/214968 | Episode 3 |
 | Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onnanoko wo Ippai Click Shimasu | Now That I Can Control Reality With A Mouse Cursor, I'm Gonna Click Away On The Girls! | https://anilist.co/anime/206774 | Episode 3 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1181 |
-| Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken | Oh Boy, Was I Wrong About Her | https://anilist.co/anime/169583 | Episode 12 |
 | Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 29 |
 | PSYЯEN | PSYREN | https://anilist.co/anime/204011 | Episode 3 |
 | Pan Dorobou | Pan Dorobou | https://anilist.co/anime/194207 | Episode 3 |
