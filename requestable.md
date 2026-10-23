@@ -131,7 +131,6 @@ These shows have had episodes air already, but no thread was created because the
 | PSYЯEN | PSYREN | https://anilist.co/anime/204011 | Episode 3 |
 | Pan Dorobou | Pan Dorobou | https://anilist.co/anime/194207 | Episode 4 |
 | Pan no Akachan (TV) | Pan no Akachan (TV) | https://anilist.co/anime/212308 | Episode 16 |
-| Perfect Addiction | Perfect Addiction | https://anilist.co/anime/213666 | Episode 12 |
 | PetitCure: Precure Fairies Season 3 | PetitCure: Precure Fairies Season 3 | https://anilist.co/anime/209541 | Episode 29 |
 | PetitCure: Precure Fairies Season 4 | PetitCure: Precure Fairies Season 4 | https://anilist.co/anime/217624 | Episode 4 |
 | Plannosaurus Gachi Koseibutsu-bu | Plannosaurus Gachi Koseibutsu-bu | https://anilist.co/anime/208824 | Episode 12 |
