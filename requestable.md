@@ -121,13 +121,13 @@ These shows have had episodes air already, but no thread was created because the
 | Kanojo no Tomodachi Mini Anime Gekijou | My Girlfriend's Friend Mini Anime | https://anilist.co/anime/217782 | Episode 3 |
 | Ibitte Konai Gibo to Gishi | My Stepmother and Stepsisters Aren’t Wicked | https://anilist.co/anime/196356 | Episode 12 |
 | Kaijuu 8-gou: Narumi no Heijitsu | Narumi's Week at Work | https://anilist.co/anime/204431 | Episode 4 |
-| Nezumi-kun no Chokki (TV) 2nd Season | Nezumi-kun no Chokki (TV) 2nd Season | https://anilist.co/anime/214968 | Episode 3 |
+| Nezumi-kun no Chokki (TV) 2nd Season | Nezumi-kun no Chokki (TV) 2nd Season | https://anilist.co/anime/214968 | Episode 4 |
 | Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onnanoko wo Ippai Click Shimasu | Now That I Can Control Reality With A Mouse Cursor, I'm Gonna Click Away On The Girls! | https://anilist.co/anime/206774 | Episode 3 |
 | ONE PIECE | ONE PIECE | https://anilist.co/anime/21 | Episode 1181 |
 | Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 29 |
 | PSYЯEN | PSYREN | https://anilist.co/anime/204011 | Episode 3 |
 | Pan Dorobou | Pan Dorobou | https://anilist.co/anime/194207 | Episode 4 |
-| Pan no Akachan (TV) | Pan no Akachan (TV) | https://anilist.co/anime/212308 | Episode 16 |
+| Pan no Akachan (TV) | Pan no Akachan (TV) | https://anilist.co/anime/212308 | Episode 17 |
 | PetitCure: Precure Fairies Season 3 | PetitCure: Precure Fairies Season 3 | https://anilist.co/anime/209541 | Episode 29 |
 | PetitCure: Precure Fairies Season 4 | PetitCure: Precure Fairies Season 4 | https://anilist.co/anime/217624 | Episode 4 |
 | Plannosaurus Gachi Koseibutsu-bu | Plannosaurus Gachi Koseibutsu-bu | https://anilist.co/anime/208824 | Episode 12 |
