@@ -159,6 +159,7 @@ These shows have had episodes air already, but no thread was created because the
 | Nige Jouzu no Wakagimi 2nd Season | The Elusive Samurai Season 2 | https://anilist.co/anime/182616 | Episode 12 |
 | Hyouken no Majutsushi ga Sekai wo Suberu II | The Iceblade Sorcerer Shall Rule the World II | https://anilist.co/anime/212503 | Episode 3 |
 | Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen | The Prince of Tennis II U-17 WORLD CUP: Final Member Selection Match | https://anilist.co/anime/199068 | Episode 4 |
+| Marronnier Oukoku no Shichinin no Kishi | The Seven Knights of the Marronnier Kingdom | https://anilist.co/anime/212799 | Episode 4 |
 | Shuiro no Kamen | The Vermilion Mask | https://anilist.co/anime/195571 | Episode 3 |
 | Yami Shibai 17 | Theatre of Darkness: Yamishibai 17 | https://anilist.co/anime/213359 | Episode 13 |
 | Thunder 3 | Thunder 3 | https://anilist.co/anime/207254 | Episode 12 |
@@ -187,6 +188,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Luo Xiaohei Zhan Ji: Xue Qian Pian | Luo Xiaohei Zhan Ji: Xue Qian Pian | https://anilist.co/anime/206244 | October 30 at 04:00 |
 | Watashi no Shiawase na Kekkon Tokubetsu-hen | My Happy Marriage Special Episodes | https://anilist.co/anime/190054 | October 25 at 10:00 |
-| Marronnier Oukoku no Shichinin no Kishi | The Seven Knights of the Marronnier Kingdom | https://anilist.co/anime/212799 | October 24 at 10:25 |
 | Wan Sheng Jie: Gubao de Mimi | Wan Sheng Jie: Gubao de Mimi | https://anilist.co/anime/218493 | October 31 at 02:00 |
 {.dense}
