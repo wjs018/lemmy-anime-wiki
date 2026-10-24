@@ -105,7 +105,7 @@ These shows have had episodes air already, but no thread was created because the
 | MAO | MAO | https://anilist.co/anime/196012 | Episode 26 |
 | Made in Abyss: Mezameru Shinpi | Made in Abyss: Mezameru Shinpi | https://anilist.co/anime/160275 | Episode 1 |
 | Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu | Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest! | https://anilist.co/anime/202250 | Episode 3 |
-| Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru | Magical Explorer | https://anilist.co/anime/169581 | Episode 4 |
+| Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru | Magical Explorer | https://anilist.co/anime/169581 | Episode 5 |
 | Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | https://anilist.co/anime/185875 | Episode 13 |
 | Mahou no Shimai LuluttoLilly Part 2 | Magical Sisters LuluttoLilly Part 2 | https://anilist.co/anime/209032 | Episode 3 |
 | Kabushiki Gaisha Magi Lumiere 2nd Season | Magilumiere Magical Girls Inc. Season 2 | https://anilist.co/anime/185692 | Episode 12 |
@@ -144,7 +144,6 @@ These shows have had episodes air already, but no thread was created because the
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2854 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1358 |
 | Sirotan | Sirotan | https://anilist.co/anime/209709 | Episode 4 |
-| Super no Ura de Yani Suu Futari | Smoking Behind the Supermarket with You | https://anilist.co/anime/196187 | Episode 12 |
 | Tensei Goblin Dakedo Shitsumon Aru? | So What's Wrong with Getting Reborn as a Goblin? | https://anilist.co/anime/209219 | Episode 4 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 176 |
 | Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 38 |
