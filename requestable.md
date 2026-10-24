@@ -57,7 +57,7 @@ These shows have had episodes air already, but no thread was created because the
 | BLEACH: Sennen Kessen-hen - Kashin-tan | BLEACH: Thousand-Year Blood War - The Calamity | https://anilist.co/anime/185874 | Episode 9 |
 | BanG Dream! Ave Mujica: prima aurora | BanG Dream! Ave Mujica: prima aurora | https://anilist.co/anime/197543 | Episode 1 |
 | Battle Spirits [Re] Zekkai no Kuu | Battle Spirits [Re] Zekkai No Ku | https://anilist.co/anime/187990 | Episode 3 |
-| Guangyin Zhi Wai 2 | Beyond Time's Gaze 2 | https://anilist.co/anime/213356 | Episode 18 |
+| Guangyin Zhi Wai 2 | Beyond Time's Gaze 2 | https://anilist.co/anime/213356 | Episode 19 |
 | Black Clover 2nd Season | Black Clover Season 2 | https://anilist.co/anime/195604 | Episode 3 |
 | Ao no Hako Season 2 | Blue Box Season 2 | https://anilist.co/anime/189123 | Episode 3 |
 | Yani Neko | Chainsmoker Cat | https://anilist.co/anime/207141 | Episode 12 |
@@ -73,7 +73,7 @@ These shows have had episodes air already, but no thread was created because the
 | Reiwa no Dara-san | Dara-san of the Reiwa Era | https://anilist.co/anime/203880 | Episode 13 |
 | Dawang Raoming 3 | Dawang Raoming 3 | https://anilist.co/anime/199353 | Episode 6 |
 | Koneko no Haitatsuin Uunyan (2026) | Delivery Kitten Unyan (2026) | https://anilist.co/anime/207217 | Episode 1 |
-| Meitantei Conan | Detective Conan | https://anilist.co/anime/235 | Episode 1217 |
+| Meitantei Conan | Detective Conan | https://anilist.co/anime/235 | Episode 1218 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 938 |
 | Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | Episode 57 |
 | Duel Masters LOST: Danzai no Shounen | Duel Masters LOST: Danzai no Shounen | https://anilist.co/anime/208367 | Episode 3 |
