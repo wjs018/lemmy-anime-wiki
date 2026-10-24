@@ -96,7 +96,7 @@ These shows have had episodes air already, but no thread was created because the
 | Dark Summoner to Dekiteiru | I'm Dating a Dark Summoner | https://anilist.co/anime/208025 | Episode 3 |
 | JK Dark Summoner to Deki......Dei Nai!? | JK Dark Summoner to Deki......Dei Nai!? | https://anilist.co/anime/218217 | Episode 3 |
 | Jueshi Zhan Hun 2 | Jueshi Zhan Hun 2 | https://anilist.co/anime/213188 | Episode 20 |
-| Keroro Gunsou☆ | KERORO☆ | https://anilist.co/anime/216557 | Episode 3 |
+| Keroro Gunsou☆ | KERORO☆ | https://anilist.co/anime/216557 | Episode 4 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 81 |
 | Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 25 |
 | LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 26 |
@@ -143,7 +143,7 @@ These shows have had episodes air already, but no thread was created because the
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | https://anilist.co/anime/210687 | Episode 19 |
 | Sora wa Akai Kawa no Hotori | Red River | https://anilist.co/anime/207809 | Episode 16 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 163 |
-| Rilakkuma | Rilakkuma | https://anilist.co/anime/183231 | Episode 28 |
+| Rilakkuma | Rilakkuma | https://anilist.co/anime/183231 | Episode 29 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2854 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1357 |
 | Sirotan | Sirotan | https://anilist.co/anime/209709 | Episode 3 |
