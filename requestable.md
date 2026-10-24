@@ -48,7 +48,7 @@ These shows have had episodes air already, but no thread was created because the
 | Show Name | English Show Name | AniList Link | Most Recently Episode Number  |
 | :-------- | :---------------- | :----------- | :--------------------------: |
 | Toaru Anbu no ITEM | A Certain Dark Item | https://anilist.co/anime/186742 | Episode 3 |
-| Zeri Feisheng | A Good Day to Ascend | https://anilist.co/anime/214260 | Episode 16 |
+| Zeri Feisheng | A Good Day to Ascend | https://anilist.co/anime/214260 | Episode 17 |
 | Kikansha no Mahou wa Tokubetsu desu 2nd Season | A Returner's Magic Should be Special Season 2 | https://anilist.co/anime/172192 | Episode 3 |
 | Tensei shita Dai Seijo wa, Seijo de Aru Koto wo Hita Kakusu | A Tale of the Secret Saint | https://anilist.co/anime/187402 | Episode 4 |
 | Diamond no Ace act II: Second Season Part 2 | Ace of the Diamond act II -Second Season- | https://anilist.co/anime/213658 | Episode 2 |
@@ -71,7 +71,7 @@ These shows have had episodes air already, but no thread was created because the
 | Dali Si Rizhi 3 | Dali Si Rizhi 3 | https://anilist.co/anime/168085 | Episode 2 |
 | Juuоu Mujin Dandivine | Dandivine | https://anilist.co/anime/213068 | Episode 3 |
 | Reiwa no Dara-san | Dara-san of the Reiwa Era | https://anilist.co/anime/203880 | Episode 13 |
-| Dawang Raoming 3 | Dawang Raoming 3 | https://anilist.co/anime/199353 | Episode 5 |
+| Dawang Raoming 3 | Dawang Raoming 3 | https://anilist.co/anime/199353 | Episode 6 |
 | Koneko no Haitatsuin Uunyan (2026) | Delivery Kitten Unyan (2026) | https://anilist.co/anime/207217 | Episode 1 |
 | Meitantei Conan | Detective Conan | https://anilist.co/anime/235 | Episode 1217 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 937 |
