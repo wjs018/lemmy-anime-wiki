@@ -14,7 +14,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
-| #Zombie Sagashitemasu | #I'm Looking For a Zombie | https://anilist.co/anime/199007 | [Link](https://ani.social/post/38267080) |
+| #Zombie Sagashitemasu | #I'm Looking For a Zombie | https://anilist.co/anime/199007 | [Link](https://ani.social/post/38567515) |
 | Yasei no Last Boss ga Arawareta! 2nd Season | A Wild Last Boss Appeared! Season 2 | https://anilist.co/anime/204389 | [Link](https://ani.social/post/38565621) |
 | Aoashi 2nd Season | Aoashi Season 2 | https://anilist.co/anime/191788 | [Link](https://ani.social/post/38510436) |
 | Cyberpunk: Edgerunners 2 | Cyberpunk: Edgerunners 2 | https://anilist.co/anime/195539 | [Link](https://ani.social/post/38381352) |
@@ -165,7 +165,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tokyo Revengers: Santen Sensou-hen | Tokyo Revengers: War of the Three Titans Arc | https://anilist.co/anime/178083 | Episode 4 |
 | Umayuru: Full Gate! | Umayuru: Full Gate! | https://anilist.co/anime/215835 | Episode 4 |
 | Oji-san wa Kawaii Mono ga Osuki. | Uncle's Obsession with Cute Things | https://anilist.co/anime/202079 | Episode 3 |
-| Vertex Force | Vertex Force | https://anilist.co/anime/209562 | Episode 3 |
+| Vertex Force | Vertex Force | https://anilist.co/anime/209562 | Episode 4 |
 | Girigiri Warukunai Watame | Watame Did Borderline Nothing Wrong | https://anilist.co/anime/146004 | Episode 85 |
 | Mairimashita! Iruma-kun 4 | Welcome to Demon School! Iruma-kun Season 4 | https://anilist.co/anime/184492 | Episode 24 |
 | Aoki Denshou: Welsh and Shedar | Welsh and Shedar | https://anilist.co/anime/216895 | Episode 4 |
