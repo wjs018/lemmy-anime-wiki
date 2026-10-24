@@ -145,7 +145,7 @@ These shows have had episodes air already, but no thread was created because the
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 163 |
 | Rilakkuma | Rilakkuma | https://anilist.co/anime/183231 | Episode 29 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2854 |
-| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1357 |
+| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1358 |
 | Sirotan | Sirotan | https://anilist.co/anime/209709 | Episode 4 |
 | Super no Ura de Yani Suu Futari | Smoking Behind the Supermarket with You | https://anilist.co/anime/196187 | Episode 12 |
 | Tensei Goblin Dakedo Shitsumon Aru? | So What's Wrong with Getting Reborn as a Goblin? | https://anilist.co/anime/209219 | Episode 4 |
