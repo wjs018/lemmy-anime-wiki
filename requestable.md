@@ -83,7 +83,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku | Full Clearing Another World under a Goddess with Zero Believers | https://anilist.co/anime/205896 | Episode 2 |
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | Episode 18 |
 | GelPiyo 2 | GelPiyo 2 | https://anilist.co/anime/217282 | Episode 1 |
-| Ghost Meets Gal! | Ghost Meets Gal! | https://anilist.co/anime/214703 | Episode 7 |
+| Ghost Meets Gal! | Ghost Meets Gal! | https://anilist.co/anime/214703 | Episode 8 |
 | Girls und Panzer: Motto Love Love Sakusen desu! | Girls und Panzer: Motto Love Love Sakusen desu! | https://anilist.co/anime/188034 | Episode 3 |
 | Girls und Panzer: Saishuushou 5 | Girls und Panzer: Saishuushou 5 | https://anilist.co/anime/202390 | Episode 1 |
 | Grow Up Show: Himawari no Circus-dan | Grow Up Show | https://anilist.co/anime/196017 | Episode 13 |
