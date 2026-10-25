@@ -114,7 +114,7 @@ These shows have had episodes air already, but no thread was created because the
 | Mu Shen Ji 4 | Mu Shen Ji 4 | https://anilist.co/anime/211181 | Episode 26 |
 | Kanojo no Tomodachi | My Girlfriend's Friend | https://anilist.co/anime/211877 | Episode 3 |
 | Kanojo no Tomodachi Mini Anime Gekijou | My Girlfriend's Friend Mini Anime | https://anilist.co/anime/217782 | Episode 3 |
-| Watashi no Shiawase na Kekkon Tokubetsu-hen | My Happy Marriage Special Episodes | https://anilist.co/anime/190054 | Episode 2 |
+| Watashi no Shiawase na Kekkon Tokubetsu-hen | My Happy Marriage Special Episodes | https://anilist.co/anime/190054 | Episode 3 |
 | Ibitte Konai Gibo to Gishi | My Stepmother and Stepsisters Aren’t Wicked | https://anilist.co/anime/196356 | Episode 12 |
 | Kaijuu 8-gou: Narumi no Heijitsu | Narumi's Week at Work | https://anilist.co/anime/204431 | Episode 4 |
 | Nezumi-kun no Chokki (TV) 2nd Season | Nezumi-kun no Chokki (TV) 2nd Season | https://anilist.co/anime/214968 | Episode 4 |
