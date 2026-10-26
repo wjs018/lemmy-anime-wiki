@@ -104,7 +104,7 @@ These shows have had episodes air already, but no thread was created because the
 | Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance | https://anilist.co/anime/185875 | Episode 13 |
 | Mahou no Shimai LuluttoLilly Part 2 | Magical Sisters LuluttoLilly Part 2 | https://anilist.co/anime/209032 | Episode 4 |
 | Kabushiki Gaisha Magi Lumiere 2nd Season | Magilumiere Magical Girls Inc. Season 2 | https://anilist.co/anime/185692 | Episode 12 |
-| Maomao no Hitorigoto 3rd Season | Maomao no Hitorigoto 3rd Season | https://anilist.co/anime/218532 | Episode 3 |
+| Maomao no Hitorigoto 3rd Season | Maomao no Hitorigoto 3rd Season | https://anilist.co/anime/218532 | Episode 4 |
 | Mazenchu | Mazenchu | https://anilist.co/anime/217577 | Episode 4 |
 | Yozakura-san Chi no Daisakusen 2nd Season Part 2 | Mission: Yozakura Family Season 2 Part 2 | https://anilist.co/anime/213657 | Episode 3 |
 | Mu Shen Ji 4 | Mu Shen Ji 4 | https://anilist.co/anime/211181 | Episode 26 |
