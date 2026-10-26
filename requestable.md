@@ -135,7 +135,7 @@ These shows have had episodes air already, but no thread was created because the
 | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | Re:Zero kara Hajimeru Kyuukei Jikan (Break Time) 4th Season | https://anilist.co/anime/210687 | Episode 19 |
 | Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai | Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! | https://anilist.co/anime/186541 | Episode 4 |
 | Sora wa Akai Kawa no Hotori | Red River | https://anilist.co/anime/207809 | Episode 16 |
-| Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 163 |
+| Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 164 |
 | Rilakkuma | Rilakkuma | https://anilist.co/anime/183231 | Episode 29 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2855 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1358 |
@@ -168,7 +168,7 @@ These shows have had episodes air already, but no thread was created because the
 | Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 427 |
 | Yi Nian Yongheng 4 | Yi Nian Yongheng 4 | https://anilist.co/anime/199409 | Episode 16 |
 | Yuruyuru Zukan | Yuruyuru Zukan | https://anilist.co/anime/213298 | Episode 4 |
-| Yuusanchi! from Yuuhachi | Yuusanchi! from Yuuhachi | https://anilist.co/anime/214593 | Episode 6 |
+| Yuusanchi! from Yuuhachi | Yuusanchi! from Yuuhachi | https://anilist.co/anime/214593 | Episode 7 |
 | mofusand | mofusand | https://anilist.co/anime/204656 | Episode 42 |
 {.dense}
 
