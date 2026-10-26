@@ -89,7 +89,6 @@ These shows have had episodes air already, but no thread was created because the
 | Jueshi Zhan Hun 2 | Jueshi Zhan Hun 2 | https://anilist.co/anime/213188 | Episode 20 |
 | Keroro Gunsou☆ | KERORO☆ | https://anilist.co/anime/216557 | Episode 4 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 82 |
-| Kumarba Season 3 | Kumarba Season 3 | https://anilist.co/anime/206950 | Episode 25 |
 | LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 26 |
 | Let's Go Kaikigumi | Let's Go Kaikigumi | https://anilist.co/anime/200230 | Episode 12 |
 | Shiguang Dailiren III Part 1 | Link Click Season 3 Part 1 | https://anilist.co/anime/191832 | Episode 12 |
@@ -116,7 +115,6 @@ These shows have had episodes air already, but no thread was created because the
 | Pan no Akachan (TV) | Pan no Akachan (TV) | https://anilist.co/anime/212308 | Episode 17 |
 | PetitCure: Precure Fairies Season 3 | PetitCure: Precure Fairies Season 3 | https://anilist.co/anime/209541 | Episode 29 |
 | PetitCure: Precure Fairies Season 4 | PetitCure: Precure Fairies Season 4 | https://anilist.co/anime/217624 | Episode 4 |
-| Plannosaurus Gachi Koseibutsu-bu | Plannosaurus Gachi Koseibutsu-bu | https://anilist.co/anime/208824 | Episode 12 |
 | Onee-chan Gokko | Playing Sister | https://anilist.co/anime/207084 | Episode 2 |
 | Uchi no Otouto-domo ga Sumimasen | Please Excuse My Younger Brothers | https://anilist.co/anime/203490 | Episode 16 |
 | PokéOki SEASON 2 | PokéOki SEASON 2 | https://anilist.co/anime/216625 | Episode 4 |
