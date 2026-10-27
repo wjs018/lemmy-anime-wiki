@@ -89,7 +89,6 @@ These shows have had episodes air already, but no thread was created because the
 | Keroro Gunsou☆ | KERORO☆ | https://anilist.co/anime/216557 | Episode 4 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 82 |
 | LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 26 |
-| Let's Go Kaikigumi | Let's Go Kaikigumi | https://anilist.co/anime/200230 | Episode 12 |
 | Shiguang Dailiren III Part 1 | Link Click Season 3 Part 1 | https://anilist.co/anime/191832 | Episode 12 |
 | Odekake Kozame Season 2 | Little Shark's Day Out Season 2 | https://anilist.co/anime/204269 | Episode 29 |
 | Mahou Shoujo Ikusei Keikaku: restart | MAGICAL GIRL RAISING PROJECT restart | https://anilist.co/anime/160803 | Episode 4 |
