@@ -63,7 +63,6 @@ These shows have had episodes air already, but no thread was created because the
 | Dali Si Rizhi 3 | Dali Si Rizhi 3 | https://anilist.co/anime/168085 | Episode 2 |
 | Juuоu Mujin Dandivine | Dandivine | https://anilist.co/anime/213068 | Episode 3 |
 | Dawang Raoming 3 | Dawang Raoming 3 | https://anilist.co/anime/199353 | Episode 6 |
-| Koneko no Haitatsuin Uunyan (2026) | Delivery Kitten Unyan (2026) | https://anilist.co/anime/207217 | Episode 1 |
 | Meitantei Conan | Detective Conan | https://anilist.co/anime/235 | Episode 1218 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 938 |
 | Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | Episode 58 |
