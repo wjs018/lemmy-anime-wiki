@@ -22,7 +22,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | FX Senshi Kurumi-chan | FX Fighter Kurumi-chan | https://anilist.co/anime/206401 | [Link](https://ani.social/post/38477887) |
 | Hotaru no Yomeiri | Firefly Wedding | https://anilist.co/anime/205909 | [Link](https://ani.social/post/38525534) |
 | Fool Night | Fool Night | https://anilist.co/anime/213457 |  |
-| Gensou Suikoden | Gensou Suikoden | https://anilist.co/anime/187316 | [Link](https://ani.social/post/38394571) |
 | Magic Knight Rayearth (2026) | Magic Knight Rayearth (2026) | https://anilist.co/anime/178868 | [Link](https://ani.social/post/38440084) |
 | Kyouran Reijou Nia Liston | Nia Liston: The Merciless Maiden | https://anilist.co/anime/206949 | [Link](https://ani.social/post/38695600) |
 | Tensei Shitara Ken Deshita 2nd Season | Reincarnated as a Sword Season 2 | https://anilist.co/anime/159042 | [Link](https://ani.social/post/38443403) |
@@ -169,6 +168,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Demons' Crest | Devils' Crest | https://anilist.co/anime/203275 | November 06 at 02:00 |
 | GROTESQQQUE | GROTESQQQUE | https://anilist.co/anime/178972 | November 05 at 15:00 |
+| Gensou Suikoden | Gensou Suikoden | https://anilist.co/anime/187316 | October 27 at 14:30 |
 | Luo Xiaohei Zhan Ji: Xue Qian Pian | Luo Xiaohei Zhan Ji: Xue Qian Pian | https://anilist.co/anime/206244 | October 30 at 04:00 |
 | Sylvanian Families: Freya no Colorful Everyday | Sylvanian Families: Freya no Colorful Everyday | https://anilist.co/anime/218942 | October 29 at 11:19 |
 | Wan Sheng Jie: Gubao de Mimi | Wan Sheng Jie: Gubao de Mimi | https://anilist.co/anime/218493 | October 31 at 02:00 |
