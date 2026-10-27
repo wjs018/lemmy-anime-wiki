@@ -114,7 +114,6 @@ These shows have had episodes air already, but no thread was created because the
 | PetitCure: Precure Fairies Season 4 | PetitCure: Precure Fairies Season 4 | https://anilist.co/anime/217624 | Episode 4 |
 | Onee-chan Gokko | Playing Sister | https://anilist.co/anime/207084 | Episode 2 |
 | Uchi no Otouto-domo ga Sumimasen | Please Excuse My Younger Brothers | https://anilist.co/anime/203490 | Episode 16 |
-| PokéOki SEASON 2 | PokéOki SEASON 2 | https://anilist.co/anime/216625 | Episode 4 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 154 |
 | Pop Pap Polters | Pop Pap Polters | https://anilist.co/anime/217787 | Episode 4 |
 | Punirunes Puni 4 | Punirunes Puni 4 | https://anilist.co/anime/216860 | Episode 4 |
