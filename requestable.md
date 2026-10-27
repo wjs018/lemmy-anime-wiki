@@ -85,7 +85,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kimi ga Shinu made Koi wo Shitai | I Want to Love You Till Your Dying Day | https://anilist.co/anime/187260 | Episode 13 |
 | Dark Summoner to Dekiteiru | I'm Dating a Dark Summoner | https://anilist.co/anime/208025 | Episode 4 |
 | JK Dark Summoner to Deki......Dei Nai!? | JK Dark Summoner to Deki......Dei Nai!? | https://anilist.co/anime/218217 | Episode 4 |
-| Jueshi Zhan Hun 2 | Jueshi Zhan Hun 2 | https://anilist.co/anime/213188 | Episode 20 |
+| Jueshi Zhan Hun 2 | Jueshi Zhan Hun 2 | https://anilist.co/anime/213188 | Episode 21 |
 | Keroro Gunsou☆ | KERORO☆ | https://anilist.co/anime/216557 | Episode 4 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 82 |
 | LIAR GAME | LIAR GAME | https://anilist.co/anime/197754 | Episode 26 |
@@ -155,7 +155,7 @@ These shows have had episodes air already, but no thread was created because the
 | Girigiri Warukunai Watame | Watame Did Borderline Nothing Wrong | https://anilist.co/anime/146004 | Episode 85 |
 | Aoki Denshou: Welsh and Shedar | Welsh and Shedar | https://anilist.co/anime/216895 | Episode 4 |
 | Kizu darake Seijo yori Houfuku wo Komete Season2 | With Vengeance, Sincerely, Your Broken Saintess Season 2 | https://anilist.co/anime/212144 | Episode 4 |
-| Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 427 |
+| Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 428 |
 | Yi Nian Yongheng 4 | Yi Nian Yongheng 4 | https://anilist.co/anime/199409 | Episode 16 |
 | Yuruyuru Zukan | Yuruyuru Zukan | https://anilist.co/anime/213298 | Episode 4 |
 | Yuusanchi! from Yuuhachi | Yuusanchi! from Yuuhachi | https://anilist.co/anime/214593 | Episode 7 |
