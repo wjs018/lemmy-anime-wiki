@@ -168,6 +168,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
+| Demons' Crest | Devils' Crest | https://anilist.co/anime/203275 | November 06 at 02:00 |
 | GROTESQQQUE | GROTESQQQUE | https://anilist.co/anime/178972 | November 05 at 15:00 |
 | Luo Xiaohei Zhan Ji: Xue Qian Pian | Luo Xiaohei Zhan Ji: Xue Qian Pian | https://anilist.co/anime/206244 | October 30 at 04:00 |
 | Sylvanian Families: Freya no Colorful Everyday | Sylvanian Families: Freya no Colorful Everyday | https://anilist.co/anime/218942 | October 29 at 11:19 |
