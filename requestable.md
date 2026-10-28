@@ -24,7 +24,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Fool Night | Fool Night | https://anilist.co/anime/213457 |  |
 | Magic Knight Rayearth (2026) | Magic Knight Rayearth (2026) | https://anilist.co/anime/178868 | [Link](https://ani.social/post/38739264) |
 | Kyouran Reijou Nia Liston | Nia Liston: The Merciless Maiden | https://anilist.co/anime/206949 | [Link](https://ani.social/post/38695600) |
-| Tensei Shitara Ken Deshita 2nd Season | Reincarnated as a Sword Season 2 | https://anilist.co/anime/159042 | [Link](https://ani.social/post/38443403) |
+| Tensei Shitara Ken Deshita 2nd Season | Reincarnated as a Sword Season 2 | https://anilist.co/anime/159042 | [Link](https://ani.social/post/38742928) |
 | Romelia Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita | Romelia War Chronicle | https://anilist.co/anime/180894 | [Link](https://ani.social/post/38562555) |
 | JoJo no Kimyou na Bouken: Steel Ball Run - 2nd and 3rd STAGE | STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE | https://anilist.co/anime/210482 | [Link](https://ani.social/post/38513255) |
 | Sasaki to Pii-chan Season 2 | Sasaki and Peeps Season 2 | https://anilist.co/anime/176314 | [Link](https://ani.social/post/38736991) |
