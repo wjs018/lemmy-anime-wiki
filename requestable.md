@@ -156,7 +156,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yi Nian Yongheng 4 | Yi Nian Yongheng 4 | https://anilist.co/anime/199409 | Episode 16 |
 | Yuruyuru Zukan | Yuruyuru Zukan | https://anilist.co/anime/213298 | Episode 4 |
 | Yuusanchi! from Yuuhachi | Yuusanchi! from Yuuhachi | https://anilist.co/anime/214593 | Episode 7 |
-| mofusand | mofusand | https://anilist.co/anime/204656 | Episode 42 |
+| mofusand | mofusand | https://anilist.co/anime/204656 | Episode 43 |
 {.dense}
 
 ## Upcoming Shows
