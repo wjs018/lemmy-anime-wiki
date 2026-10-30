@@ -70,7 +70,6 @@ These shows have had episodes air already, but no thread was created because the
 | You Shou Yan 6th Season | Fabulous Beasts 6 | https://anilist.co/anime/213486 | Episode 12 |
 | Kanata Kara | From Far Away | https://anilist.co/anime/209463 | Episode 4 |
 | Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku | Full Clearing Another World under a Goddess with Zero Believers | https://anilist.co/anime/205896 | Episode 3 |
-| Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | Episode 18 |
 | GelPiyo 2 | GelPiyo 2 | https://anilist.co/anime/217282 | Episode 2 |
 | Gensou Suikoden | Gensou Suikoden | https://anilist.co/anime/187316 | Episode 4 |
 | Ghost Meets Gal! | Ghost Meets Gal! | https://anilist.co/anime/214703 | Episode 8 |
@@ -87,6 +86,7 @@ These shows have had episodes air already, but no thread was created because the
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 82 |
 | Shiguang Dailiren III Part 1 | Link Click Season 3 Part 1 | https://anilist.co/anime/191832 | Episode 12 |
 | Odekake Kozame Season 2 | Little Shark's Day Out Season 2 | https://anilist.co/anime/204269 | Episode 29 |
+| Luo Xiaohei Zhan Ji: Xue Qian Pian | Luo Xiaohei Zhan Ji: Xue Qian Pian | https://anilist.co/anime/206244 | Episode 1 |
 | Mahou Shoujo Ikusei Keikaku: restart | MAGICAL GIRL RAISING PROJECT restart | https://anilist.co/anime/160803 | Episode 4 |
 | Made in Abyss: Mezameru Shinpi | Made in Abyss: Mezameru Shinpi | https://anilist.co/anime/160275 | Episode 1 |
 | Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu | Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest! | https://anilist.co/anime/202250 | Episode 4 |
@@ -166,6 +166,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Cardfight!! Vanguard Divinez Unmei Seisen-hen | CARDFIGHT!! VANGUARD Divinez: Parallactic Fate | https://anilist.co/anime/214536 | November 07 at 14:30 |
 | Demons' Crest | Devils' Crest | https://anilist.co/anime/203275 | November 06 at 02:00 |
 | GROTESQQQUE | GROTESQQQUE | https://anilist.co/anime/178972 | November 05 at 15:00 |
-| Luo Xiaohei Zhan Ji: Xue Qian Pian | Luo Xiaohei Zhan Ji: Xue Qian Pian | https://anilist.co/anime/206244 | October 30 at 04:00 |
+| Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | October 31 at 04:00 |
 | Wan Sheng Jie: Gubao de Mimi | Wan Sheng Jie: Gubao de Mimi | https://anilist.co/anime/218493 | October 31 at 02:00 |
 {.dense}
