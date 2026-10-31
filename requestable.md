@@ -85,7 +85,7 @@ These shows have had episodes air already, but no thread was created because the
 | Keroro Gunsou☆ | KERORO☆ | https://anilist.co/anime/216557 | Episode 5 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 82 |
 | Shiguang Dailiren III Part 1 | Link Click Season 3 Part 1 | https://anilist.co/anime/191832 | Episode 12 |
-| Odekake Kozame Season 2 | Little Shark's Day Out Season 2 | https://anilist.co/anime/204269 | Episode 29 |
+| Odekake Kozame Season 2 | Little Shark's Day Out Season 2 | https://anilist.co/anime/204269 | Episode 30 |
 | Luo Xiaohei Zhan Ji: Xue Qian Pian | Luo Xiaohei Zhan Ji: Xue Qian Pian | https://anilist.co/anime/206244 | Episode 1 |
 | Mahou Shoujo Ikusei Keikaku: restart | MAGICAL GIRL RAISING PROJECT restart | https://anilist.co/anime/160803 | Episode 4 |
 | Made in Abyss: Mezameru Shinpi | Made in Abyss: Mezameru Shinpi | https://anilist.co/anime/160275 | Episode 1 |
@@ -114,7 +114,7 @@ These shows have had episodes air already, but no thread was created because the
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 155 |
 | Pop Pap Polters | Pop Pap Polters | https://anilist.co/anime/217787 | Episode 4 |
 | Punirunes Puni 4 | Punirunes Puni 4 | https://anilist.co/anime/216860 | Episode 4 |
-| Tanuki to Kitsune (TV) | Raccoon Dog and Fox | https://anilist.co/anime/218011 | Episode 4 |
+| Tanuki to Kitsune (TV) | Raccoon Dog and Fox | https://anilist.co/anime/218011 | Episode 5 |
 | Ranma 1/2 (2024) 3rd Season | Ranma1/2 (2024) Season 3 | https://anilist.co/anime/209872 | Episode 5 |
 | Seishun Buta Yarou wa Dear Friend no Yume wo Minai | Rascal Does Not Dream of a Dear Friend | https://anilist.co/anime/199340 | Episode 1 |
 | Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai | Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! | https://anilist.co/anime/186541 | Episode 4 |
@@ -151,7 +151,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kizu darake Seijo yori Houfuku wo Komete Season2 | With Vengeance, Sincerely, Your Broken Saintess Season 2 | https://anilist.co/anime/212144 | Episode 5 |
 | Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 428 |
 | Yi Nian Yongheng 4 | Yi Nian Yongheng 4 | https://anilist.co/anime/199409 | Episode 17 |
-| Yuruyuru Zukan | Yuruyuru Zukan | https://anilist.co/anime/213298 | Episode 4 |
+| Yuruyuru Zukan | Yuruyuru Zukan | https://anilist.co/anime/213298 | Episode 5 |
 | Yuusanchi! from Yuuhachi | Yuusanchi! from Yuuhachi | https://anilist.co/anime/214593 | Episode 8 |
 | mofusand | mofusand | https://anilist.co/anime/204656 | Episode 43 |
 {.dense}
