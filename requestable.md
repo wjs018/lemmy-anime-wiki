@@ -89,7 +89,7 @@ These shows have had episodes air already, but no thread was created because the
 | Luo Xiaohei Zhan Ji: Xue Qian Pian | Luo Xiaohei Zhan Ji: Xue Qian Pian | https://anilist.co/anime/206244 | Episode 1 |
 | Mahou Shoujo Ikusei Keikaku: restart | MAGICAL GIRL RAISING PROJECT restart | https://anilist.co/anime/160803 | Episode 4 |
 | Made in Abyss: Mezameru Shinpi | Made in Abyss: Mezameru Shinpi | https://anilist.co/anime/160275 | Episode 1 |
-| Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu | Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest! | https://anilist.co/anime/202250 | Episode 4 |
+| Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu | Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest! | https://anilist.co/anime/202250 | Episode 5 |
 | Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru | Magical Explorer | https://anilist.co/anime/169581 | Episode 6 |
 | Mahou no Shimai LuluttoLilly Part 2 | Magical Sisters LuluttoLilly Part 2 | https://anilist.co/anime/209032 | Episode 4 |
 | Maomao no Hitorigoto 3rd Season | Maomao no Hitorigoto 3rd Season | https://anilist.co/anime/218532 | Episode 4 |
