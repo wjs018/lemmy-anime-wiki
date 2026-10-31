@@ -24,6 +24,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Magic Knight Rayearth (2026) | Magic Knight Rayearth (2026) | https://anilist.co/anime/178868 | [Link](https://ani.social/post/38739264) |
 | Kyouran Reijou Nia Liston | Nia Liston: The Merciless Maiden | https://anilist.co/anime/206949 | [Link](https://ani.social/post/38695600) |
 | Tensei Shitara Ken Deshita 2nd Season | Reincarnated as a Sword Season 2 | https://anilist.co/anime/159042 | [Link](https://ani.social/post/38742928) |
+| Romelia Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita | Romelia War Chronicle | https://anilist.co/anime/180894 | [Link](https://ani.social/post/38866747) |
 | JoJo no Kimyou na Bouken: Steel Ball Run - 2nd and 3rd STAGE | STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE | https://anilist.co/anime/210482 | [Link](https://ani.social/post/38814237) |
 | Sasaki to Pii-chan Season 2 | Sasaki and Peeps Season 2 | https://anilist.co/anime/176314 | [Link](https://ani.social/post/38736991) |
 | Kusuriya no Hitorigoto 3rd Season | The Apothecary Diaries Season 3 | https://anilist.co/anime/195516 | [Link](https://ani.social/post/38824919) |
@@ -120,7 +121,6 @@ These shows have had episodes air already, but no thread was created because the
 | Sora wa Akai Kawa no Hotori | Red River | https://anilist.co/anime/207809 | Episode 17 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 164 |
 | Rilakkuma | Rilakkuma | https://anilist.co/anime/183231 | Episode 30 |
-| Romelia Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita | Romelia War Chronicle | https://anilist.co/anime/180894 | Episode 5 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2855 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1359 |
 | Sirotan | Sirotan | https://anilist.co/anime/209709 | Episode 5 |
