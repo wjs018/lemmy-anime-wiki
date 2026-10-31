@@ -202,6 +202,7 @@ Episode|Link
 2|[Link](https://ani.social/post/37965289)
 3|[Link](https://ani.social/post/38268883)
 4|[Link](https://ani.social/post/38569945)
+5|[Link](https://ani.social/post/38871132)
 {.dense}
 
 ## Sekai Saikyou no Majo, Hajimemashita • The World's Strongest Witch
