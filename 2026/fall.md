@@ -18,6 +18,7 @@ Episode|Link
 2|[Link](https://ani.social/post/37963136)
 3|[Link](https://ani.social/post/38267080)
 4|[Link](https://ani.social/post/38567515)
+5|[Link](https://ani.social/post/38868718)
 {.dense}
 
 ## Ao no Hako Season 2 • Blue Box Season 2
