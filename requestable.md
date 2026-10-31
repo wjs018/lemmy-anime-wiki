@@ -42,7 +42,7 @@ These shows have had episodes air already, but no thread was created because the
 | Show Name | English Show Name | AniList Link | Most Recently Episode Number  |
 | :-------- | :---------------- | :----------- | :--------------------------: |
 | Toaru Anbu no ITEM | A Certain Dark Item | https://anilist.co/anime/186742 | Episode 4 |
-| Zeri Feisheng | A Good Day to Ascend | https://anilist.co/anime/214260 | Episode 17 |
+| Zeri Feisheng | A Good Day to Ascend | https://anilist.co/anime/214260 | Episode 18 |
 | Kikansha no Mahou wa Tokubetsu desu 2nd Season | A Returner's Magic Should be Special Season 2 | https://anilist.co/anime/172192 | Episode 4 |
 | Tensei shita Dai Seijo wa, Seijo de Aru Koto wo Hita Kakusu | A Tale of the Secret Saint | https://anilist.co/anime/187402 | Episode 5 |
 | Diamond no Ace act II: Second Season Part 2 | Ace of the Diamond act II -Second Season- | https://anilist.co/anime/213658 | Episode 3 |
@@ -60,7 +60,7 @@ These shows have had episodes air already, but no thread was created because the
 | Da Xia Shou Mu Ren | Da Xia Shou Mu Ren | https://anilist.co/anime/214974 | Episode 7 |
 | Dali Si Rizhi 3 | Dali Si Rizhi 3 | https://anilist.co/anime/168085 | Episode 3 |
 | Juuоu Mujin Dandivine | Dandivine | https://anilist.co/anime/213068 | Episode 4 |
-| Dawang Raoming 3 | Dawang Raoming 3 | https://anilist.co/anime/199353 | Episode 6 |
+| Dawang Raoming 3 | Dawang Raoming 3 | https://anilist.co/anime/199353 | Episode 7 |
 | Meitantei Conan | Detective Conan | https://anilist.co/anime/235 | Episode 1218 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 938 |
 | Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | Episode 58 |
@@ -144,6 +144,7 @@ These shows have had episodes air already, but no thread was created because the
 | Umayuru: Full Gate! | Umayuru: Full Gate! | https://anilist.co/anime/215835 | Episode 5 |
 | Oji-san wa Kawaii Mono ga Osuki. | Uncle's Obsession with Cute Things | https://anilist.co/anime/202079 | Episode 4 |
 | Vertex Force | Vertex Force | https://anilist.co/anime/209562 | Episode 4 |
+| Wan Sheng Jie: Gubao de Mimi | Wan Sheng Jie: Gubao de Mimi | https://anilist.co/anime/218493 | Episode 1 |
 | Girigiri Warukunai Watame | Watame Did Borderline Nothing Wrong | https://anilist.co/anime/146004 | Episode 86 |
 | Aoki Denshou: Welsh and Shedar | Welsh and Shedar | https://anilist.co/anime/216895 | Episode 5 |
 | Kizu darake Seijo yori Houfuku wo Komete Season2 | With Vengeance, Sincerely, Your Broken Saintess Season 2 | https://anilist.co/anime/212144 | Episode 5 |
@@ -164,5 +165,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Demons' Crest | Devils' Crest | https://anilist.co/anime/203275 | November 06 at 02:00 |
 | GROTESQQQUE | GROTESQQQUE | https://anilist.co/anime/178972 | November 05 at 15:00 |
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | October 31 at 04:00 |
-| Wan Sheng Jie: Gubao de Mimi | Wan Sheng Jie: Gubao de Mimi | https://anilist.co/anime/218493 | October 31 at 02:00 |
 {.dense}
