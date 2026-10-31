@@ -120,6 +120,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sora wa Akai Kawa no Hotori | Red River | https://anilist.co/anime/207809 | Episode 17 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 164 |
 | Rilakkuma | Rilakkuma | https://anilist.co/anime/183231 | Episode 30 |
+| Romelia Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita | Romelia War Chronicle | https://anilist.co/anime/180894 | Episode 5 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2855 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1359 |
 | Sirotan | Sirotan | https://anilist.co/anime/209709 | Episode 5 |
@@ -164,5 +165,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Cardfight!! Vanguard Divinez Unmei Seisen-hen | CARDFIGHT!! VANGUARD Divinez: Parallactic Fate | https://anilist.co/anime/214536 | November 07 at 14:30 |
 | Demons' Crest | Devils' Crest | https://anilist.co/anime/203275 | November 06 at 02:00 |
 | GROTESQQQUE | GROTESQQQUE | https://anilist.co/anime/178972 | November 05 at 15:00 |
-| Romelia Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita | Romelia War Chronicle | https://anilist.co/anime/180894 | October 31 at 13:00 |
 {.dense}
