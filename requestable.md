@@ -78,7 +78,7 @@ These shows have had episodes air already, but no thread was created because the
 | Kyoufu Collector | HORROR COLLECTOR | https://anilist.co/anime/203473 | Episode 4 |
 | Hotel Inhumans 2nd Season | HOTEL INHUMANS Season 2 | https://anilist.co/anime/199426 | Episode 4 |
 | Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu. | Hello, I am a Witch and my Crush Wants me to Make a Love Potion! | https://anilist.co/anime/207191 | Episode 4 |
-| Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 389 |
+| Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 390 |
 | Dark Summoner to Dekiteiru | I'm Dating a Dark Summoner | https://anilist.co/anime/208025 | Episode 4 |
 | JK Dark Summoner to Deki......Dei Nai!? | JK Dark Summoner to Deki......Dei Nai!? | https://anilist.co/anime/218217 | Episode 4 |
 | Jueshi Zhan Hun 2 | Jueshi Zhan Hun 2 | https://anilist.co/anime/213188 | Episode 21 |
