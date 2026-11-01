@@ -24,6 +24,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Fool Night | Fool Night | https://anilist.co/anime/213457 |  |
 | Magic Knight Rayearth (2026) | Magic Knight Rayearth (2026) | https://anilist.co/anime/178868 | [Link](https://ani.social/post/38739264) |
 | Kyouran Reijou Nia Liston | Nia Liston: The Merciless Maiden | https://anilist.co/anime/206949 | [Link](https://ani.social/post/38695600) |
+| Ranma 1/2 (2024) 3rd Season | Ranma1/2 (2024) Season 3 | https://anilist.co/anime/209872 | [Link](https://ani.social/post/38907248) |
 | Tensei Shitara Ken Deshita 2nd Season | Reincarnated as a Sword Season 2 | https://anilist.co/anime/159042 | [Link](https://ani.social/post/38742928) |
 | Romelia Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita | Romelia War Chronicle | https://anilist.co/anime/180894 | [Link](https://ani.social/post/38866747) |
 | JoJo no Kimyou na Bouken: Steel Ball Run - 2nd and 3rd STAGE | STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE | https://anilist.co/anime/210482 | [Link](https://ani.social/post/38814237) |
@@ -115,7 +116,6 @@ These shows have had episodes air already, but no thread was created because the
 | Pop Pap Polters | Pop Pap Polters | https://anilist.co/anime/217787 | Episode 5 |
 | Punirunes Puni 4 | Punirunes Puni 4 | https://anilist.co/anime/216860 | Episode 5 |
 | Tanuki to Kitsune (TV) | Raccoon Dog and Fox | https://anilist.co/anime/218011 | Episode 5 |
-| Ranma 1/2 (2024) 3rd Season | Ranma1/2 (2024) Season 3 | https://anilist.co/anime/209872 | Episode 5 |
 | Seishun Buta Yarou wa Dear Friend no Yume wo Minai | Rascal Does Not Dream of a Dear Friend | https://anilist.co/anime/199340 | Episode 1 |
 | Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai | Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! | https://anilist.co/anime/186541 | Episode 5 |
 | Sora wa Akai Kawa no Hotori | Red River | https://anilist.co/anime/207809 | Episode 17 |
