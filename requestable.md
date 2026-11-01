@@ -112,7 +112,7 @@ These shows have had episodes air already, but no thread was created because the
 | Onee-chan Gokko | Playing Sister | https://anilist.co/anime/207084 | Episode 2 |
 | Uchi no Otouto-domo ga Sumimasen | Please Excuse My Younger Brothers | https://anilist.co/anime/203490 | Episode 17 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 155 |
-| Pop Pap Polters | Pop Pap Polters | https://anilist.co/anime/217787 | Episode 4 |
+| Pop Pap Polters | Pop Pap Polters | https://anilist.co/anime/217787 | Episode 5 |
 | Punirunes Puni 4 | Punirunes Puni 4 | https://anilist.co/anime/216860 | Episode 5 |
 | Tanuki to Kitsune (TV) | Raccoon Dog and Fox | https://anilist.co/anime/218011 | Episode 5 |
 | Ranma 1/2 (2024) 3rd Season | Ranma1/2 (2024) Season 3 | https://anilist.co/anime/209872 | Episode 5 |
@@ -145,7 +145,7 @@ These shows have had episodes air already, but no thread was created because the
 | Umayuru: Full Gate! | Umayuru: Full Gate! | https://anilist.co/anime/215835 | Episode 5 |
 | Oji-san wa Kawaii Mono ga Osuki. | Uncle's Obsession with Cute Things | https://anilist.co/anime/202079 | Episode 4 |
 | Vertex Force | Vertex Force | https://anilist.co/anime/209562 | Episode 5 |
-| Wan Sheng Jie: Gubao de Mimi | Wan Sheng Jie: Gubao de Mimi | https://anilist.co/anime/218493 | Episode 1 |
+| Wan Sheng Jie: Gubao de Mimi | Wan Sheng Jie: Gubao de Mimi | https://anilist.co/anime/218493 | Episode 2 |
 | Girigiri Warukunai Watame | Watame Did Borderline Nothing Wrong | https://anilist.co/anime/146004 | Episode 86 |
 | Aoki Denshou: Welsh and Shedar | Welsh and Shedar | https://anilist.co/anime/216895 | Episode 5 |
 | Kizu darake Seijo yori Houfuku wo Komete Season2 | With Vengeance, Sincerely, Your Broken Saintess Season 2 | https://anilist.co/anime/212144 | Episode 5 |
