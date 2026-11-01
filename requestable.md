@@ -77,7 +77,7 @@ These shows have had episodes air already, but no thread was created because the
 | Girls und Panzer: Motto Love Love Sakusen desu! | Girls und Panzer: Motto Love Love Sakusen desu! | https://anilist.co/anime/188034 | Episode 4 |
 | Girls und Panzer: Saishuushou 5 | Girls und Panzer: Saishuushou 5 | https://anilist.co/anime/202390 | Episode 1 |
 | Kyoufu Collector | HORROR COLLECTOR | https://anilist.co/anime/203473 | Episode 4 |
-| Hotel Inhumans 2nd Season | HOTEL INHUMANS Season 2 | https://anilist.co/anime/199426 | Episode 4 |
+| Hotel Inhumans 2nd Season | HOTEL INHUMANS Season 2 | https://anilist.co/anime/199426 | Episode 5 |
 | Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu. | Hello, I am a Witch and my Crush Wants me to Make a Love Potion! | https://anilist.co/anime/207191 | Episode 4 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 390 |
 | Dark Summoner to Dekiteiru | I'm Dating a Dark Summoner | https://anilist.co/anime/208025 | Episode 4 |
@@ -164,4 +164,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Cardfight!! Vanguard Divinez Unmei Seisen-hen | CARDFIGHT!! VANGUARD Divinez: Parallactic Fate | https://anilist.co/anime/214536 | November 07 at 14:30 |
 | Demons' Crest | Devils' Crest | https://anilist.co/anime/203275 | November 06 at 02:00 |
 | GROTESQQQUE | GROTESQQQUE | https://anilist.co/anime/178972 | November 05 at 15:00 |
+| Hotaru no Yomeiri: Choitashi | Hotaru no Yomeiri: Choitashi | https://anilist.co/anime/218938 | November 02 at 10:00 |
 {.dense}
