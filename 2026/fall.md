@@ -174,6 +174,13 @@ Episode|Link
 3|[Link](https://ani.social/post/38306516)
 {.dense}
 
+## Ranma 1/2 (2024) 3rd Season • Ranma1/2 (2024) Season 3
+
+Episode|Link
+:-:|:-:
+5|[Link](https://ani.social/post/38907248)
+{.dense}
+
 ## Romelia Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita • Romelia War Chronicle
 
 Episode|Link
