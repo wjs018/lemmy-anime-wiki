@@ -125,7 +125,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2856 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1359 |
 | Sirotan | Sirotan | https://anilist.co/anime/209709 | Episode 5 |
-| Tensei Goblin Dakedo Shitsumon Aru? | So What's Wrong with Getting Reborn as a Goblin? | https://anilist.co/anime/209219 | Episode 5 |
+| Tensei Goblin Dakedo Shitsumon Aru? | So What's Wrong with Getting Reborn as a Goblin? | https://anilist.co/anime/209219 | Episode 6 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 177 |
 | Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 39 |
 | Choujun! Choujou Senpai | Super Psychic Policeman Chojo | https://anilist.co/anime/200294 | Episode 4 |
