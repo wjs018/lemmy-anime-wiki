@@ -262,6 +262,7 @@ Episode|Link
 2|[Link](https://ani.social/post/38095249)
 3|[Link](https://ani.social/post/38397793)
 4|[Link](https://ani.social/post/38700075)
+5|[Link](https://ani.social/post/38996539)
 {.dense}
 
 ## Yasei no Last Boss ga Arawareta! 2nd Season • A Wild Last Boss Appeared! Season 2
