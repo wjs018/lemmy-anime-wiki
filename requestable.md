@@ -83,7 +83,7 @@ These shows have had episodes air already, but no thread was created because the
 | Hotaru no Yomeiri: Choitashi | Hotaru no Yomeiri: Choitashi | https://anilist.co/anime/218938 | Episode 4 |
 | Dark Summoner to Dekiteiru | I'm Dating a Dark Summoner | https://anilist.co/anime/208025 | Episode 5 |
 | JK Dark Summoner to Deki......Dei Nai!? | JK Dark Summoner to Deki......Dei Nai!? | https://anilist.co/anime/218217 | Episode 5 |
-| Jueshi Zhan Hun 2 | Jueshi Zhan Hun 2 | https://anilist.co/anime/213188 | Episode 21 |
+| Jueshi Zhan Hun 2 | Jueshi Zhan Hun 2 | https://anilist.co/anime/213188 | Episode 22 |
 | Keroro Gunsou☆ | KERORO☆ | https://anilist.co/anime/216557 | Episode 5 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 83 |
 | Shiguang Dailiren III Part 1 | Link Click Season 3 Part 1 | https://anilist.co/anime/191832 | Episode 12 |
