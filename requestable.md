@@ -22,7 +22,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | FX Senshi Kurumi-chan | FX Fighter Kurumi-chan | https://anilist.co/anime/206401 | [Link](https://ani.social/post/38778409) |
 | Hotaru no Yomeiri | Firefly Wedding | https://anilist.co/anime/205909 | [Link](https://ani.social/post/38826274) |
 | Fool Night | Fool Night | https://anilist.co/anime/213457 |  |
-| Magic Knight Rayearth (2026) | Magic Knight Rayearth (2026) | https://anilist.co/anime/178868 | [Link](https://ani.social/post/38739264) |
+| Magic Knight Rayearth (2026) | Magic Knight Rayearth (2026) | https://anilist.co/anime/178868 | [Link](https://ani.social/post/39037707) |
 | Kyouran Reijou Nia Liston | Nia Liston: The Merciless Maiden | https://anilist.co/anime/206949 | [Link](https://ani.social/post/38991222) |
 | Ranma 1/2 (2024) 3rd Season | Ranma1/2 (2024) Season 3 | https://anilist.co/anime/209872 | [Link](https://ani.social/post/38907248) |
 | Tensei Shitara Ken Deshita 2nd Season | Reincarnated as a Sword Season 2 | https://anilist.co/anime/159042 | [Link](https://ani.social/post/38742928) |
@@ -59,7 +59,7 @@ These shows have had episodes air already, but no thread was created because the
 | Chitose-kun wa Ramune Bin no Naka Part 2 | Chitose Is in the Ramune Bottle 2nd Cour | https://anilist.co/anime/198727 | Episode 4 |
 | DARK MACHINE: The Animation | DARK MACHINE THE ANIMATION | https://anilist.co/anime/179876 | Episode 4 |
 | Da Xia Shou Mu Ren | Da Xia Shou Mu Ren | https://anilist.co/anime/214974 | Episode 8 |
-| Dali Si Rizhi 3 | Dali Si Rizhi 3 | https://anilist.co/anime/168085 | Episode 3 |
+| Dali Si Rizhi 3 | Dali Si Rizhi 3 | https://anilist.co/anime/168085 | Episode 4 |
 | Juuоu Mujin Dandivine | Dandivine | https://anilist.co/anime/213068 | Episode 4 |
 | Dawang Raoming 3 | Dawang Raoming 3 | https://anilist.co/anime/199353 | Episode 7 |
 | Meitantei Conan | Detective Conan | https://anilist.co/anime/235 | Episode 1218 |
