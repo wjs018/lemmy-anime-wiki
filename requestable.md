@@ -32,7 +32,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kusuriya no Hitorigoto 3rd Season | The Apothecary Diaries Season 3 | https://anilist.co/anime/195516 | [Link](https://ani.social/post/38824919) |
 | Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru | The Exiled Heavy Knight Knows How to Game the System | https://anilist.co/anime/180136 | [Link](https://ani.social/post/38786242) |
 | Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni "Kyouka Point" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu? | The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life | https://anilist.co/anime/207329 | [Link](https://ani.social/post/38996539) |
-| Koori no Jouheki 2nd Season | The Ramparts of Ice Season 2 | https://anilist.co/anime/213805 | [Link](https://ani.social/post/38784741) |
+| Koori no Jouheki 2nd Season | The Ramparts of Ice Season 2 | https://anilist.co/anime/213805 | [Link](https://ani.social/post/39082283) |
 | Sekai Saikyou no Majo, Hajimemashita | The World's Strongest Witch | https://anilist.co/anime/211778 | [Link](https://ani.social/post/39035920) |
 {.dense}
 
@@ -147,9 +147,9 @@ These shows have had episodes air already, but no thread was created because the
 | Wan Sheng Jie Specials: Gubao de Mimi | Wan Sheng Jie Specials: Gubao de Mimi | https://anilist.co/anime/218493 | Episode 2 |
 | Girigiri Warukunai Watame | Watame Did Borderline Nothing Wrong | https://anilist.co/anime/146004 | Episode 86 |
 | Aoki Denshou: Welsh and Shedar | Welsh and Shedar | https://anilist.co/anime/216895 | Episode 5 |
-| Kizu darake Seijo yori Houfuku wo Komete Season2 | With Vengeance, Sincerely, Your Broken Saintess Season 2 | https://anilist.co/anime/212144 | Episode 5 |
+| Kizu darake Seijo yori Houfuku wo Komete Season2 | With Vengeance, Sincerely, Your Broken Saintess Season 2 | https://anilist.co/anime/212144 | Episode 6 |
 | Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 429 |
-| Yuusanchi! from Yuuhachi | YU-SANCHi! from YU-HACHi | https://anilist.co/anime/214593 | Episode 9 |
+| Yuusanchi! from Yuuhachi | YU-SANCHi! from YU-HACHi | https://anilist.co/anime/214593 | Episode 10 |
 | Yi Nian Yongheng 4 | Yi Nian Yongheng 4 | https://anilist.co/anime/199409 | Episode 18 |
 | Yuruyuru Zukan | Yuruyuru Zukan | https://anilist.co/anime/213298 | Episode 5 |
 | mofusand | mofusand | https://anilist.co/anime/204656 | Episode 44 |
