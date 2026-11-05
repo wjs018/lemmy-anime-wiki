@@ -163,5 +163,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Cardfight!! Vanguard Divinez Unmei Seisen-hen | CARDFIGHT!! VANGUARD Divinez: Parallactic Fate | https://anilist.co/anime/214536 | November 07 at 14:30 |
 | Demons' Crest | Devils' Crest | https://anilist.co/anime/203275 | November 06 at 02:00 |
+| NINJA SKOOLER Pilot Film | NINJA SKOOLER Pilot Film | https://anilist.co/anime/177636 | November 06 at 02:00 |
 | Rakuen Tsuihou: Kokoro no Resonance | Rakuen Tsuihou: Kokoro no Resonance | https://anilist.co/anime/157330 | November 12 at 15:00 |
 {.dense}
