@@ -524,7 +524,7 @@ Episode|Link|Episode|Link
 3|[Link](https://ani.social/post/34392059)|16|[Link](https://ani.social/post/38185379)
 4|[Link](https://ani.social/post/34690282)|17|[Link](https://ani.social/post/38484546)
 5|[Link](https://ani.social/post/34993736)|18|[Link](https://ani.social/post/38786242)
-6|[Link](https://ani.social/post/35281830)
+6|[Link](https://ani.social/post/35281830)|19|[Link](https://ani.social/post/39083382)
 7|[Link](https://ani.social/post/35563973)
 8|[Link](https://ani.social/post/35850283)
 9|[Link](https://ani.social/post/36140352)
