@@ -96,7 +96,7 @@ These shows have had episodes air already, but no thread was created because the
 | Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru | Magical Explorer | https://anilist.co/anime/169581 | Episode 6 |
 | Mahou no Shimai LuluttoLilly Part 2 | Magical Sisters LuluttoLilly Part 2 | https://anilist.co/anime/209032 | Episode 5 |
 | Maomao no Hitorigoto 3rd Season | Maomao no Hitorigoto 3rd Season | https://anilist.co/anime/218532 | Episode 5 |
-| Mazenchu | Mazenchu | https://anilist.co/anime/217577 | Episode 5 |
+| Mazenchu | Mazenchu | https://anilist.co/anime/217577 | Episode 6 |
 | Yozakura-san Chi no Daisakusen 2nd Season Part 2 | Mission: Yozakura Family Season 2 Part 2 | https://anilist.co/anime/213657 | Episode 4 |
 | Mu Shen Ji 4 | Mu Shen Ji 4 | https://anilist.co/anime/211181 | Episode 26 |
 | Kanojo no Tomodachi | My Girlfriend's Friend | https://anilist.co/anime/211877 | Episode 5 |
