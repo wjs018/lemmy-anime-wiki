@@ -148,7 +148,7 @@ These shows have had episodes air already, but no thread was created because the
 | Vertex Force | Vertex Force | https://anilist.co/anime/209562 | Episode 5 |
 | Wan Sheng Jie Specials: Gubao de Mimi | Wan Sheng Jie Specials: Gubao de Mimi | https://anilist.co/anime/218493 | Episode 2 |
 | Girigiri Warukunai Watame | Watame Did Borderline Nothing Wrong | https://anilist.co/anime/146004 | Episode 87 |
-| Aoki Denshou: Welsh and Shedar | Welsh and Shedar | https://anilist.co/anime/216895 | Episode 5 |
+| Aoki Denshou: Welsh and Shedar | Welsh and Shedar | https://anilist.co/anime/216895 | Episode 6 |
 | Kizu darake Seijo yori Houfuku wo Komete Season2 | With Vengeance, Sincerely, Your Broken Saintess Season 2 | https://anilist.co/anime/212144 | Episode 6 |
 | Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 429 |
 | Yuusanchi! from Yuuhachi | YU-SANCHi! from YU-HACHi | https://anilist.co/anime/214593 | Episode 10 |
