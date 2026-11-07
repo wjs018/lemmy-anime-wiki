@@ -75,7 +75,7 @@ These shows have had episodes air already, but no thread was created because the
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | Episode 19 |
 | GelPiyo 2 | GelPiyo 2 | https://anilist.co/anime/217282 | Episode 3 |
 | Gensou Suikoden | Gensou Suikoden | https://anilist.co/anime/187316 | Episode 5 |
-| Ghost Meets Gal! | Ghost Meets Gal! | https://anilist.co/anime/214703 | Episode 9 |
+| Ghost Meets Gal! | Ghost Meets Gal! | https://anilist.co/anime/214703 | Episode 10 |
 | Girls und Panzer: Motto Love Love Sakusen desu! | Girls und Panzer: Motto Love Love Sakusen desu! | https://anilist.co/anime/188034 | Episode 5 |
 | Girls und Panzer: Saishuushou 5 | Girls und Panzer: Saishuushou 5 | https://anilist.co/anime/202390 | Episode 1 |
 | Kyoufu Collector | HORROR COLLECTOR | https://anilist.co/anime/203473 | Episode 4 |
