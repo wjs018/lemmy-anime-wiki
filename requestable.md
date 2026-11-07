@@ -125,7 +125,7 @@ These shows have had episodes air already, but no thread was created because the
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 165 |
 | Rilakkuma | Rilakkuma | https://anilist.co/anime/183231 | Episode 31 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2856 |
-| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1359 |
+| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1360 |
 | Sirotan | Sirotan | https://anilist.co/anime/209709 | Episode 6 |
 | Tensei Goblin Dakedo Shitsumon Aru? | So What's Wrong with Getting Reborn as a Goblin? | https://anilist.co/anime/209219 | Episode 6 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 178 |
