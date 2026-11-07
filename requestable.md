@@ -52,7 +52,7 @@ These shows have had episodes air already, but no thread was created because the
 | BLEACH: Sennen Kessen-hen - Kashin-tan | BLEACH: Thousand-Year Blood War - The Calamity | https://anilist.co/anime/185874 | Episode 10 |
 | BanG Dream! Ave Mujica: prima aurora | BanG Dream! Ave Mujica: prima aurora | https://anilist.co/anime/197543 | Episode 1 |
 | Battle Spirits [Re] Zekkai no Kuu | Battle Spirits [Re] Zekkai No Ku | https://anilist.co/anime/187990 | Episode 5 |
-| Guangyin Zhi Wai 2 | Beyond Time's Gaze 2 | https://anilist.co/anime/213356 | Episode 20 |
+| Guangyin Zhi Wai 2 | Beyond Time's Gaze 2 | https://anilist.co/anime/213356 | Episode 21 |
 | Black Clover 2nd Season | Black Clover Season 2 | https://anilist.co/anime/195604 | Episode 5 |
 | Ao no Hako Season 2 | Blue Box Season 2 | https://anilist.co/anime/189123 | Episode 4 |
 | Chibi Godzilla no Gyakushuu Season 4 | Chibi Godzilla Raids Again Season 4 | https://anilist.co/anime/218008 | Episode 16 |
@@ -62,7 +62,7 @@ These shows have had episodes air already, but no thread was created because the
 | Dali Si Rizhi 3 | Dali Si Rizhi 3 | https://anilist.co/anime/168085 | Episode 4 |
 | Juuоu Mujin Dandivine | Dandivine | https://anilist.co/anime/213068 | Episode 5 |
 | Dawang Raoming 3 | Dawang Raoming 3 | https://anilist.co/anime/199353 | Episode 8 |
-| Meitantei Conan | Detective Conan | https://anilist.co/anime/235 | Episode 1218 |
+| Meitantei Conan | Detective Conan | https://anilist.co/anime/235 | Episode 1219 |
 | Demons' Crest | Devils' Crest | https://anilist.co/anime/203275 | Episode 1 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 940 |
 | Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | Episode 59 |
