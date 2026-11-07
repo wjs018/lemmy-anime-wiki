@@ -111,7 +111,6 @@ These shows have had episodes air already, but no thread was created because the
 | PSYЯEN | PSYREN | https://anilist.co/anime/204011 | Episode 4 |
 | Pan Dorobou | Pan Dorobou | https://anilist.co/anime/194207 | Episode 6 |
 | Pan no Akachan (TV) | Pan no Akachan (TV) | https://anilist.co/anime/212308 | Episode 19 |
-| PetitCure: Precure Fairies Season 3 | PetitCure: Precure Fairies Season 3 | https://anilist.co/anime/209541 | Episode 29 |
 | PetitCure: Precure Fairies Season 4 | PetitCure: Precure Fairies Season 4 | https://anilist.co/anime/217624 | Episode 6 |
 | Onee-chan Gokko | Playing Sister | https://anilist.co/anime/207084 | Episode 2 |
 | Uchi no Otouto-domo ga Sumimasen | Please Excuse My Younger Brothers | https://anilist.co/anime/203490 | Episode 18 |
@@ -140,7 +139,7 @@ These shows have had episodes air already, but no thread was created because the
 | Hyouken no Majutsushi ga Sekai wo Suberu II | The Iceblade Sorcerer Shall Rule the World II | https://anilist.co/anime/212503 | Episode 5 |
 | Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen | The Prince of Tennis II U-17 WORLD CUP: Final Member Selection Match | https://anilist.co/anime/199068 | Episode 6 |
 | Marronnier Oukoku no Shichinin no Kishi | The Seven Knights of the Marronnier Kingdom | https://anilist.co/anime/212799 | Episode 5 |
-| Shuiro no Kamen | The Vermilion Mask | https://anilist.co/anime/195571 | Episode 4 |
+| Shuiro no Kamen | The Vermilion Mask | https://anilist.co/anime/195571 | Episode 5 |
 | Doko yori mo Tooi Basho ni Iru Kimi e | To You in the Beyond | https://anilist.co/anime/207327 | Episode 1 |
 | Tokyo Revengers: Santen Sensou-hen | Tokyo Revengers: War of the Three Titans Arc | https://anilist.co/anime/178083 | Episode 6 |
 | Umayuru: Full Gate! | Umayuru: Full Gate! | https://anilist.co/anime/215835 | Episode 6 |
