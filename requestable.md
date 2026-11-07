@@ -64,7 +64,7 @@ These shows have had episodes air already, but no thread was created because the
 | Dawang Raoming 3 | Dawang Raoming 3 | https://anilist.co/anime/199353 | Episode 8 |
 | Meitantei Conan | Detective Conan | https://anilist.co/anime/235 | Episode 1218 |
 | Demons' Crest | Devils' Crest | https://anilist.co/anime/203275 | Episode 1 |
-| Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 939 |
+| Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 940 |
 | Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | Episode 59 |
 | Duel Masters LOST: Danzai no Shounen | Duel Masters LOST: Danzai no Shounen | https://anilist.co/anime/208367 | Episode 4 |
 | Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta | Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé | https://anilist.co/anime/200455 | Episode 5 |
