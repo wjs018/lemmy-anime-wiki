@@ -72,6 +72,7 @@ Episode|Link
 2|[Link](https://ani.social/post/38308394)
 3|[Link](https://ani.social/post/38613153)
 4|[Link](https://ani.social/post/38911444)
+5|[Link](https://ani.social/post/39205042)
 {.dense}
 
 ## FX Senshi Kurumi-chan • FX Fighter Kurumi-chan
