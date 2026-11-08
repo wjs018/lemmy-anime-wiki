@@ -83,7 +83,7 @@ These shows have had episodes air already, but no thread was created because the
 | Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu. | Hello, I am a Witch and my Crush Wants me to Make a Love Potion! | https://anilist.co/anime/207191 | Episode 5 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 391 |
 | Hotaru no Yomeiri: Choitashi | Hotaru no Yomeiri: Choitashi | https://anilist.co/anime/218938 | Episode 4 |
-| Dark Summoner to Dekiteiru | I'm Dating a Dark Summoner | https://anilist.co/anime/208025 | Episode 5 |
+| Dark Summoner to Dekiteiru | I'm Dating a Dark Summoner | https://anilist.co/anime/208025 | Episode 6 |
 | JK Dark Summoner to Deki......Dei Nai!? | I’m Dating a Dark Summoner Omake Shorts | https://anilist.co/anime/218217 | Episode 5 |
 | Jueshi Zhan Hun 2 | Jueshi Zhan Hun 2 | https://anilist.co/anime/213188 | Episode 22 |
 | Keroro Gunsou☆ | KERORO☆ | https://anilist.co/anime/216557 | Episode 6 |
@@ -101,7 +101,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yozakura-san Chi no Daisakusen 2nd Season Part 2 | Mission: Yozakura Family Season 2 Part 2 | https://anilist.co/anime/213657 | Episode 5 |
 | Mu Shen Ji 4 | Mu Shen Ji 4 | https://anilist.co/anime/211181 | Episode 26 |
 | Kanojo no Tomodachi | My Girlfriend's Friend | https://anilist.co/anime/211877 | Episode 6 |
-| Kanojo no Tomodachi Mini Anime Gekijou | My Girlfriend's Friend Mini Anime | https://anilist.co/anime/217782 | Episode 5 |
+| Kanojo no Tomodachi Mini Anime Gekijou | My Girlfriend's Friend Mini Anime | https://anilist.co/anime/217782 | Episode 6 |
 | Watashi no Shiawase na Kekkon Tokubetsu-hen | My Happy Marriage Special Episodes | https://anilist.co/anime/190054 | Episode 3 |
 | NINJA SKOOLER Pilot Film | NINJA SKOOLER Pilot Film | https://anilist.co/anime/177636 | Episode 1 |
 | Nezumi-kun no Chokki (TV) 2nd Season | Nezumi-kun no Chokki (TV) 2nd Season | https://anilist.co/anime/214968 | Episode 6 |
