@@ -36,6 +36,7 @@ Episode|Link
 3|[Link](https://ani.social/post/38510436)
 4|[Link](https://ani.social/post/38602577)
 5|[Link](https://ani.social/post/38898290)
+6|[Link](https://ani.social/post/39192858)
 {.dense}
 
 ## Cyberpunk: Edgerunners 2
