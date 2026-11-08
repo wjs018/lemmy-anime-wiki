@@ -123,7 +123,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sora wa Akai Kawa no Hotori | Red River | https://anilist.co/anime/207809 | Episode 18 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 165 |
 | Rilakkuma | Rilakkuma | https://anilist.co/anime/183231 | Episode 31 |
-| Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2856 |
+| Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2857 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1360 |
 | Sirotan | Sirotan | https://anilist.co/anime/209709 | Episode 6 |
 | Tensei Goblin Dakedo Shitsumon Aru? | So What's Wrong with Getting Reborn as a Goblin? | https://anilist.co/anime/209219 | Episode 6 |
