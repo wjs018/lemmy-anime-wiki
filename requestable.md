@@ -100,7 +100,7 @@ These shows have had episodes air already, but no thread was created because the
 | Mazenchu | Mazenchu | https://anilist.co/anime/217577 | Episode 6 |
 | Yozakura-san Chi no Daisakusen 2nd Season Part 2 | Mission: Yozakura Family Season 2 Part 2 | https://anilist.co/anime/213657 | Episode 5 |
 | Mu Shen Ji 4 | Mu Shen Ji 4 | https://anilist.co/anime/211181 | Episode 26 |
-| Kanojo no Tomodachi | My Girlfriend's Friend | https://anilist.co/anime/211877 | Episode 5 |
+| Kanojo no Tomodachi | My Girlfriend's Friend | https://anilist.co/anime/211877 | Episode 6 |
 | Kanojo no Tomodachi Mini Anime Gekijou | My Girlfriend's Friend Mini Anime | https://anilist.co/anime/217782 | Episode 5 |
 | Watashi no Shiawase na Kekkon Tokubetsu-hen | My Happy Marriage Special Episodes | https://anilist.co/anime/190054 | Episode 3 |
 | NINJA SKOOLER Pilot Film | NINJA SKOOLER Pilot Film | https://anilist.co/anime/177636 | Episode 1 |
