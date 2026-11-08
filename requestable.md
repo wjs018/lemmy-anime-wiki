@@ -105,7 +105,7 @@ These shows have had episodes air already, but no thread was created because the
 | Watashi no Shiawase na Kekkon Tokubetsu-hen | My Happy Marriage Special Episodes | https://anilist.co/anime/190054 | Episode 3 |
 | NINJA SKOOLER Pilot Film | NINJA SKOOLER Pilot Film | https://anilist.co/anime/177636 | Episode 1 |
 | Nezumi-kun no Chokki (TV) 2nd Season | Nezumi-kun no Chokki (TV) 2nd Season | https://anilist.co/anime/214968 | Episode 6 |
-| Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onnanoko wo Ippai Click Shimasu | Now That I Can Control Reality With A Mouse Cursor, I'm Gonna Click Away On The Girls! | https://anilist.co/anime/206774 | Episode 4 |
+| Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onnanoko wo Ippai Click Shimasu | Now That I Can Control Reality With A Mouse Cursor, I'm Gonna Click Away On The Girls! | https://anilist.co/anime/206774 | Episode 5 |
 | Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 32 |
 | Tempal: Item no Chikara | Overgeared | https://anilist.co/anime/212888 | Episode 7 |
 | PSYЯEN | PSYREN | https://anilist.co/anime/204011 | Episode 4 |
