@@ -121,7 +121,7 @@ These shows have had episodes air already, but no thread was created because the
 | Seishun Buta Yarou wa Dear Friend no Yume wo Minai | Rascal Does Not Dream of a Dear Friend | https://anilist.co/anime/199340 | Episode 1 |
 | Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai | Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! | https://anilist.co/anime/186541 | Episode 6 |
 | Sora wa Akai Kawa no Hotori | Red River | https://anilist.co/anime/207809 | Episode 18 |
-| Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 165 |
+| Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 166 |
 | Rilakkuma | Rilakkuma | https://anilist.co/anime/183231 | Episode 31 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2857 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1360 |
@@ -149,7 +149,7 @@ These shows have had episodes air already, but no thread was created because the
 | Aoki Denshou: Welsh and Shedar | Welsh and Shedar | https://anilist.co/anime/216895 | Episode 6 |
 | Kizu darake Seijo yori Houfuku wo Komete Season2 | With Vengeance, Sincerely, Your Broken Saintess Season 2 | https://anilist.co/anime/212144 | Episode 6 |
 | Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 430 |
-| Yuusanchi! from Yuuhachi | YU-SANCHi! from YU-HACHi | https://anilist.co/anime/214593 | Episode 10 |
+| Yuusanchi! from Yuuhachi | YU-SANCHi! from YU-HACHi | https://anilist.co/anime/214593 | Episode 11 |
 | Yani Neko Mini | Yani Neko Mini | https://anilist.co/anime/208105 | Episode 22 |
 | Yi Nian Yongheng 4 | Yi Nian Yongheng 4 | https://anilist.co/anime/199409 | Episode 18 |
 | Yuruyuru Zukan | Yuruyuru Zukan | https://anilist.co/anime/213298 | Episode 6 |
