@@ -99,7 +99,6 @@ These shows have had episodes air already, but no thread was created because the
 | Maomao no Hitorigoto 3rd Season | Maomao no Hitorigoto 3rd Season | https://anilist.co/anime/218532 | Episode 6 |
 | Mazenchu | Mazenchu | https://anilist.co/anime/217577 | Episode 6 |
 | Yozakura-san Chi no Daisakusen 2nd Season Part 2 | Mission: Yozakura Family Season 2 Part 2 | https://anilist.co/anime/213657 | Episode 5 |
-| Mu Shen Ji 4 | Mu Shen Ji 4 | https://anilist.co/anime/211181 | Episode 26 |
 | Kanojo no Tomodachi | My Girlfriend's Friend | https://anilist.co/anime/211877 | Episode 6 |
 | Kanojo no Tomodachi Mini Anime Gekijou | My Girlfriend's Friend Mini Anime | https://anilist.co/anime/217782 | Episode 6 |
 | Watashi no Shiawase na Kekkon Tokubetsu-hen | My Happy Marriage Special Episodes | https://anilist.co/anime/190054 | Episode 3 |
@@ -108,7 +107,7 @@ These shows have had episodes air already, but no thread was created because the
 | Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onnanoko wo Ippai Click Shimasu | Now That I Can Control Reality With A Mouse Cursor, I'm Gonna Click Away On The Girls! | https://anilist.co/anime/206774 | Episode 5 |
 | Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 32 |
 | Tempal: Item no Chikara | Overgeared | https://anilist.co/anime/212888 | Episode 7 |
-| PSYЯEN | PSYREN | https://anilist.co/anime/204011 | Episode 4 |
+| PSYЯEN | PSYREN | https://anilist.co/anime/204011 | Episode 5 |
 | Pan Dorobou | Pan Dorobou | https://anilist.co/anime/194207 | Episode 6 |
 | Pan no Akachan (TV) | Pan no Akachan (TV) | https://anilist.co/anime/212308 | Episode 19 |
 | PetitCure: Precure Fairies Season 4 | PetitCure: Precure Fairies Season 4 | https://anilist.co/anime/217624 | Episode 6 |
@@ -164,4 +163,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Fanren Xiu Xian Zhuan Di Wu Ji | Fanren Xiu Xian Zhuan Di Wu Ji | https://anilist.co/anime/202851 | November 14 at 04:00 |
 | Rakuen Tsuihou: Kokoro no Resonance | Rakuen Tsuihou: Kokoro no Resonance | https://anilist.co/anime/157330 | November 12 at 15:00 |
+| Soukou Kihei Votoms: Haiiro no Hexe | Soukou Kihei Votoms: Haiiro no Hexe | https://anilist.co/anime/206163 | November 19 at 15:00 |
+| Mahoutsukai no Yoru | Witch on the Holy Night | https://anilist.co/anime/143103 | November 19 at 15:00 |
 {.dense}
