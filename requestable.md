@@ -119,7 +119,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tanuki to Kitsune (TV) | Raccoon Dog and Fox | https://anilist.co/anime/218011 | Episode 6 |
 | Seishun Buta Yarou wa Dear Friend no Yume wo Minai | Rascal Does Not Dream of a Dear Friend | https://anilist.co/anime/199340 | Episode 1 |
 | Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai | Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! | https://anilist.co/anime/186541 | Episode 6 |
-| Sora wa Akai Kawa no Hotori | Red River | https://anilist.co/anime/207809 | Episode 18 |
+| Sora wa Akai Kawa no Hotori | Red River | https://anilist.co/anime/207809 | Episode 19 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 166 |
 | Rilakkuma | Rilakkuma | https://anilist.co/anime/183231 | Episode 31 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2857 |
