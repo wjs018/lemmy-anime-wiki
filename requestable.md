@@ -56,7 +56,7 @@ These shows have had episodes air already, but no thread was created because the
 | Black Clover 2nd Season | Black Clover Season 2 | https://anilist.co/anime/195604 | Episode 6 |
 | Ao no Hako Season 2 | Blue Box Season 2 | https://anilist.co/anime/189123 | Episode 5 |
 | Cardfight!! Vanguard Divinez Unmei Seisen-hen | CARDFIGHT!! VANGUARD Divinez: Parallactic Fate | https://anilist.co/anime/214536 | Episode 1 |
-| Chibi Godzilla no Gyakushuu Season 4 | Chibi Godzilla Raids Again Season 4 | https://anilist.co/anime/218008 | Episode 16 |
+| Chibi Godzilla no Gyakushuu Season 4 | Chibi Godzilla Raids Again Season 4 | https://anilist.co/anime/218008 | Episode 17 |
 | Chitose-kun wa Ramune Bin no Naka Part 2 | Chitose Is in the Ramune Bottle 2nd Cour | https://anilist.co/anime/198727 | Episode 5 |
 | DARK MACHINE: The Animation | DARK MACHINE THE ANIMATION | https://anilist.co/anime/179876 | Episode 5 |
 | Da Xia Shou Mu Ren | Da Xia Shou Mu Ren | https://anilist.co/anime/214974 | Episode 8 |
