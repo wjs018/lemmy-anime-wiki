@@ -133,7 +133,7 @@ These shows have had episodes air already, but no thread was created because the
 | TANK CHAIR: Sensha Isu | TANK CHAIR | https://anilist.co/anime/209499 | Episode 6 |
 | Tetsuryou! meet with Tetsudou Musume | TETSURYO! Meet With Tetsudou Musume | https://anilist.co/anime/199594 | Episode 5 |
 | Tougen Anki: Nikko・Kegon no Taki-hen | TOUGEN ANKI: Nikko Kegon Falls Arc | https://anilist.co/anime/204650 | Episode 6 |
-| Shiotaiou no Satou-san ga Ore ni dake Amai | The Cold Sato-san is Only Sweet to Me | https://anilist.co/anime/209502 | Episode 5 |
+| Shiotaiou no Satou-san ga Ore ni dake Amai | The Cold Sato-san is Only Sweet to Me | https://anilist.co/anime/209502 | Episode 6 |
 | Tantei wa mou, Shindeiru. Season 2 | The Detective Is Already Dead Season 2 | https://anilist.co/anime/152677 | Episode 5 |
 | Hyouken no Majutsushi ga Sekai wo Suberu II | The Iceblade Sorcerer Shall Rule the World II | https://anilist.co/anime/212503 | Episode 5 |
 | Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen | The Prince of Tennis II U-17 WORLD CUP: Final Member Selection Match | https://anilist.co/anime/199068 | Episode 6 |
