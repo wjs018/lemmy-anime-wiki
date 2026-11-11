@@ -61,7 +61,7 @@ These shows have had episodes air already, but no thread was created because the
 | DARK MACHINE: The Animation | DARK MACHINE THE ANIMATION | https://anilist.co/anime/179876 | Episode 5 |
 | Da Xia Shou Mu Ren | Da Xia Shou Mu Ren | https://anilist.co/anime/214974 | Episode 9 |
 | Dali Si Rizhi 3 | Dali Si Rizhi 3 | https://anilist.co/anime/168085 | Episode 5 |
-| Juuоu Mujin Dandivine | Dandivine | https://anilist.co/anime/213068 | Episode 5 |
+| Juuоu Mujin Dandivine | Dandivine | https://anilist.co/anime/213068 | Episode 6 |
 | Dawang Raoming 3 | Dawang Raoming 3 | https://anilist.co/anime/199353 | Episode 8 |
 | Meitantei Conan | Detective Conan | https://anilist.co/anime/235 | Episode 1219 |
 | Demons' Crest | Devils' Crest | https://anilist.co/anime/203275 | Episode 1 |
