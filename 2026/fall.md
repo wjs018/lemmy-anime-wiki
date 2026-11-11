@@ -165,6 +165,7 @@ Episode|Link
 3|[Link](https://ani.social/post/38440084)
 4|[Link](https://ani.social/post/38739264)
 5|[Link](https://ani.social/post/39037707)
+6|[Link](https://ani.social/post/39334612)
 {.dense}
 
 ## Marronnier Oukoku no Shichinin no Kishi • The Seven Knights of the Marronnier Kingdom
