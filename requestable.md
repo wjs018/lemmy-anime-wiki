@@ -107,7 +107,7 @@ These shows have had episodes air already, but no thread was created because the
 | Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 32 |
 | Tempal: Item no Chikara | Overgeared | https://anilist.co/anime/212888 | Episode 7 |
 | PSYЯEN | PSYREN | https://anilist.co/anime/204011 | Episode 5 |
-| Pan Dorobou | Pan Dorobou | https://anilist.co/anime/194207 | Episode 6 |
+| Pan Dorobou | Pan Dorobou | https://anilist.co/anime/194207 | Episode 7 |
 | Pan no Akachan (TV) | Pan no Akachan (TV) | https://anilist.co/anime/212308 | Episode 19 |
 | PetitCure: Precure Fairies Season 4 | PetitCure: Precure Fairies Season 4 | https://anilist.co/anime/217624 | Episode 7 |
 | Onee-chan Gokko | Playing Sister | https://anilist.co/anime/207084 | Episode 2 |
