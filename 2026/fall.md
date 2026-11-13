@@ -106,6 +106,7 @@ Episode|Link
 3|[Link](https://ani.social/post/38525534)
 4|[Link](https://ani.social/post/38826274)
 5|[Link](https://ani.social/post/39122628)
+6|[Link](https://ani.social/post/39416003)
 {.dense}
 
 ## JoJo no Kimyou na Bouken: Steel Ball Run - 2nd and 3rd STAGE • STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE
