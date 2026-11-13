@@ -111,7 +111,7 @@ These shows have had episodes air already, but no thread was created because the
 | Pan no Akachan (TV) | Pan no Akachan (TV) | https://anilist.co/anime/212308 | Episode 19 |
 | PetitCure: Precure Fairies Season 4 | PetitCure: Precure Fairies Season 4 | https://anilist.co/anime/217624 | Episode 7 |
 | Onee-chan Gokko | Playing Sister | https://anilist.co/anime/207084 | Episode 2 |
-| Uchi no Otouto-domo ga Sumimasen | Please Excuse My Younger Brothers | https://anilist.co/anime/203490 | Episode 18 |
+| Uchi no Otouto-domo ga Sumimasen | Please Excuse My Younger Brothers | https://anilist.co/anime/203490 | Episode 19 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 157 |
 | Pop Pap Polters | Pop Pap Polters | https://anilist.co/anime/217787 | Episode 6 |
 | Punirunes Puni 4 | Punirunes Puni 4 | https://anilist.co/anime/216860 | Episode 6 |
