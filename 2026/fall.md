@@ -209,6 +209,7 @@ Episode|Link
 4|[Link](https://ani.social/post/38562555)
 5|[Link](https://ani.social/post/38866747)
 6|[Link](https://ani.social/post/39158620)
+7|[Link](https://ani.social/post/39448102)
 {.dense}
 
 ## Sasaki to Pii-chan Season 2 • Sasaki and Peeps Season 2
