@@ -50,10 +50,9 @@ These shows have had episodes air already, but no thread was created because the
 | Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season | As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3 | https://anilist.co/anime/185756 | Episode 7 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 140 |
 | BLEACH: Sennen Kessen-hen - Kashin-tan | BLEACH: Thousand-Year Blood War - The Calamity | https://anilist.co/anime/185874 | Episode 10 |
-| BanG Dream! Ave Mujica: prima aurora | BanG Dream! Ave Mujica: prima aurora | https://anilist.co/anime/197543 | Episode 1 |
 | Battle Spirits [Re] Zekkai no Kuu | Battle Spirits [Re] Zekkai No Ku | https://anilist.co/anime/187990 | Episode 6 |
 | Guangyin Zhi Wai 2 | Beyond Time's Gaze 2 | https://anilist.co/anime/213356 | Episode 22 |
-| Black Clover 2nd Season | Black Clover Season 2 | https://anilist.co/anime/195604 | Episode 6 |
+| Black Clover 2nd Season | Black Clover Season 2 | https://anilist.co/anime/195604 | Episode 7 |
 | Ao no Hako Season 2 | Blue Box Season 2 | https://anilist.co/anime/189123 | Episode 5 |
 | Cardfight!! Vanguard Divinez Unmei Seisen-hen | CARDFIGHT!! VANGUARD Divinez: Parallactic Fate | https://anilist.co/anime/214536 | Episode 2 |
 | Chibi Godzilla no Gyakushuu Season 4 | Chibi Godzilla Raids Again Season 4 | https://anilist.co/anime/218008 | Episode 17 |
