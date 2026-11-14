@@ -102,13 +102,13 @@ These shows have had episodes air already, but no thread was created because the
 | Kanojo no Tomodachi Mini Anime Gekijou | My Girlfriend's Friend Mini Anime | https://anilist.co/anime/217782 | Episode 6 |
 | Watashi no Shiawase na Kekkon Tokubetsu-hen | My Happy Marriage Special Episodes | https://anilist.co/anime/190054 | Episode 3 |
 | NINJA SKOOLER Pilot Film | NINJA SKOOLER Pilot Film | https://anilist.co/anime/177636 | Episode 1 |
-| Nezumi-kun no Chokki (TV) 2nd Season | Nezumi-kun no Chokki (TV) 2nd Season | https://anilist.co/anime/214968 | Episode 6 |
+| Nezumi-kun no Chokki (TV) 2nd Season | Nezumi-kun no Chokki (TV) 2nd Season | https://anilist.co/anime/214968 | Episode 7 |
 | Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onnanoko wo Ippai Click Shimasu | Now That I Can Control Reality With A Mouse Cursor, I'm Gonna Click Away On The Girls! | https://anilist.co/anime/206774 | Episode 5 |
 | Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 32 |
 | Tempal: Item no Chikara | Overgeared | https://anilist.co/anime/212888 | Episode 7 |
 | PSYЯEN | PSYREN | https://anilist.co/anime/204011 | Episode 5 |
 | Pan Dorobou | Pan Dorobou | https://anilist.co/anime/194207 | Episode 7 |
-| Pan no Akachan (TV) | Pan no Akachan (TV) | https://anilist.co/anime/212308 | Episode 19 |
+| Pan no Akachan (TV) | Pan no Akachan (TV) | https://anilist.co/anime/212308 | Episode 20 |
 | PetitCure: Precure Fairies Season 4 | PetitCure: Precure Fairies Season 4 | https://anilist.co/anime/217624 | Episode 7 |
 | Onee-chan Gokko | Playing Sister | https://anilist.co/anime/207084 | Episode 2 |
 | Uchi no Otouto-domo ga Sumimasen | Please Excuse My Younger Brothers | https://anilist.co/anime/203490 | Episode 19 |
