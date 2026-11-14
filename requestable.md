@@ -15,7 +15,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Show Name | English Show Name | AniList Link | Most Recent Discussion |
 | :-------- | :---------------- | :----------- | :--------------------: |
 | #Zombie Sagashitemasu | #I'm Looking For a Zombie | https://anilist.co/anime/199007 | [Link](https://ani.social/post/38868718) |
-| Yasei no Last Boss ga Arawareta! 2nd Season | A Wild Last Boss Appeared! Season 2 | https://anilist.co/anime/204389 | [Link](https://ani.social/post/39161412) |
+| Yasei no Last Boss ga Arawareta! 2nd Season | A Wild Last Boss Appeared! Season 2 | https://anilist.co/anime/204389 | [Link](https://ani.social/post/39451806) |
 | Aoashi 2nd Season | Aoashi Season 2 | https://anilist.co/anime/191788 | [Link](https://ani.social/post/39192858) |
 | Dragon Ball Super: Beerus | Dragon Ball Super: Beerus | https://anilist.co/anime/206814 | [Link](https://ani.social/post/39205042) |
 | Seitokai ni mo Ana wa Aru! | Even the Student Council Has Its Holes! | https://anilist.co/anime/191656 | [Link](https://ani.social/post/39164139) |
@@ -55,7 +55,7 @@ These shows have had episodes air already, but no thread was created because the
 | Guangyin Zhi Wai 2 | Beyond Time's Gaze 2 | https://anilist.co/anime/213356 | Episode 22 |
 | Black Clover 2nd Season | Black Clover Season 2 | https://anilist.co/anime/195604 | Episode 6 |
 | Ao no Hako Season 2 | Blue Box Season 2 | https://anilist.co/anime/189123 | Episode 5 |
-| Cardfight!! Vanguard Divinez Unmei Seisen-hen | CARDFIGHT!! VANGUARD Divinez: Parallactic Fate | https://anilist.co/anime/214536 | Episode 1 |
+| Cardfight!! Vanguard Divinez Unmei Seisen-hen | CARDFIGHT!! VANGUARD Divinez: Parallactic Fate | https://anilist.co/anime/214536 | Episode 2 |
 | Chibi Godzilla no Gyakushuu Season 4 | Chibi Godzilla Raids Again Season 4 | https://anilist.co/anime/218008 | Episode 17 |
 | Chitose-kun wa Ramune Bin no Naka Part 2 | Chitose Is in the Ramune Bottle 2nd Cour | https://anilist.co/anime/198727 | Episode 5 |
 | DARK MACHINE: The Animation | DARK MACHINE THE ANIMATION | https://anilist.co/anime/179876 | Episode 5 |
