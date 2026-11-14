@@ -125,7 +125,7 @@ These shows have had episodes air already, but no thread was created because the
 | Rilakkuma | Rilakkuma | https://anilist.co/anime/183231 | Episode 32 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2857 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1360 |
-| Sirotan | Sirotan | https://anilist.co/anime/209709 | Episode 6 |
+| Sirotan | Sirotan | https://anilist.co/anime/209709 | Episode 7 |
 | Tensei Goblin Dakedo Shitsumon Aru? | So What's Wrong with Getting Reborn as a Goblin? | https://anilist.co/anime/209219 | Episode 7 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 179 |
 | Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 40 |
