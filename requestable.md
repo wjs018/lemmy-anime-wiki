@@ -88,7 +88,7 @@ These shows have had episodes air already, but no thread was created because the
 | Keroro Gunsou☆ | KERORO☆ | https://anilist.co/anime/216557 | Episode 7 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 83 |
 | Shiguang Dailiren III Part 1 | Link Click Season 3 Part 1 | https://anilist.co/anime/191832 | Episode 12 |
-| Odekake Kozame Season 2 | Little Shark's Day Out Season 2 | https://anilist.co/anime/204269 | Episode 31 |
+| Odekake Kozame Season 2 | Little Shark's Day Out Season 2 | https://anilist.co/anime/204269 | Episode 32 |
 | Luo Xiaohei Zhan Ji: Xue Qian Pian | Luo Xiaohei Zhan Ji: Xue Qian Pian | https://anilist.co/anime/206244 | Episode 3 |
 | Mahou Shoujo Ikusei Keikaku: restart | MAGICAL GIRL RAISING PROJECT restart | https://anilist.co/anime/160803 | Episode 6 |
 | Made in Abyss: Mezameru Shinpi | Made in Abyss: Mezameru Shinpi | https://anilist.co/anime/160275 | Episode 1 |
@@ -114,7 +114,7 @@ These shows have had episodes air already, but no thread was created because the
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 157 |
 | Pop Pap Polters | Pop Pap Polters | https://anilist.co/anime/217787 | Episode 6 |
 | Punirunes Puni 4 | Punirunes Puni 4 | https://anilist.co/anime/216860 | Episode 6 |
-| Tanuki to Kitsune (TV) | Raccoon Dog and Fox | https://anilist.co/anime/218011 | Episode 6 |
+| Tanuki to Kitsune (TV) | Raccoon Dog and Fox | https://anilist.co/anime/218011 | Episode 7 |
 | Rakuen Tsuihou: Kokoro no Resonance | Rakuen Tsuihou: Kokoro no Resonance | https://anilist.co/anime/157330 | Episode 1 |
 | Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai | Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! | https://anilist.co/anime/186541 | Episode 6 |
 | Sora wa Akai Kawa no Hotori | Red River | https://anilist.co/anime/207809 | Episode 19 |
@@ -149,7 +149,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yuusanchi! from Yuuhachi | YU-SANCHi! from YU-HACHi | https://anilist.co/anime/214593 | Episode 12 |
 | Yani Neko Mini | Yani Neko Mini | https://anilist.co/anime/208105 | Episode 22 |
 | Yi Nian Yongheng 4 | Yi Nian Yongheng 4 | https://anilist.co/anime/199409 | Episode 19 |
-| Yuruyuru Zukan | Yuruyuru Zukan | https://anilist.co/anime/213298 | Episode 6 |
+| Yuruyuru Zukan | Yuruyuru Zukan | https://anilist.co/anime/213298 | Episode 7 |
 | mofusand | mofusand | https://anilist.co/anime/204656 | Episode 45 |
 {.dense}
 
