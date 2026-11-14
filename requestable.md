@@ -41,6 +41,7 @@ These shows have had episodes air already, but no thread was created because the
 
 | Show Name | English Show Name | AniList Link | Most Recently Episode Number  |
 | :-------- | :---------------- | :----------- | :--------------------------: |
+| #Zombie Sagashitemasu | #I'm Looking For a Zombie | https://anilist.co/anime/199007 | Episode 6 |
 | Toaru Anbu no ITEM | A Certain Dark Item | https://anilist.co/anime/186742 | Episode 6 |
 | Zeri Feisheng | A Good Day to Ascend | https://anilist.co/anime/214260 | Episode 20 |
 | Kikansha no Mahou wa Tokubetsu desu 2nd Season | A Returner's Magic Should be Special Season 2 | https://anilist.co/anime/172192 | Episode 6 |
@@ -76,7 +77,7 @@ These shows have had episodes air already, but no thread was created because the
 | Gensou Suikoden | Gensou Suikoden | https://anilist.co/anime/187316 | Episode 6 |
 | Ghost Meets Gal! | Ghost Meets Gal! | https://anilist.co/anime/214703 | Episode 11 |
 | Girls und Panzer: Motto Love Love Sakusen desu! | Girls und Panzer: Motto Love Love Sakusen desu! | https://anilist.co/anime/188034 | Episode 6 |
-| Kyoufu Collector | HORROR COLLECTOR | https://anilist.co/anime/203473 | Episode 5 |
+| Kyoufu Collector | HORROR COLLECTOR | https://anilist.co/anime/203473 | Episode 6 |
 | Hotel Inhumans 2nd Season | HOTEL INHUMANS Season 2 | https://anilist.co/anime/199426 | Episode 6 |
 | Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu. | Hello, I am a Witch and my Crush Wants me to Make a Love Potion! | https://anilist.co/anime/207191 | Episode 6 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 391 |
@@ -159,7 +160,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
-| #Zombie Sagashitemasu | #I'm Looking For a Zombie | https://anilist.co/anime/199007 | November 14 at 15:30 |
 | Soukou Kihei Votoms: Haiiro no Hexe | Soukou Kihei Votoms: Haiiro no Hexe | https://anilist.co/anime/206163 | November 19 at 16:00 |
 | Mahoutsukai no Yoru | Witch on the Holy Night | https://anilist.co/anime/143103 | November 19 at 16:00 |
 {.dense}
