@@ -104,7 +104,7 @@ These shows have had episodes air already, but no thread was created because the
 | NINJA SKOOLER Pilot Film | NINJA SKOOLER Pilot Film | https://anilist.co/anime/177636 | Episode 1 |
 | Nezumi-kun no Chokki (TV) 2nd Season | Nezumi-kun no Chokki (TV) 2nd Season | https://anilist.co/anime/214968 | Episode 7 |
 | Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onnanoko wo Ippai Click Shimasu | Now That I Can Control Reality With A Mouse Cursor, I'm Gonna Click Away On The Girls! | https://anilist.co/anime/206774 | Episode 5 |
-| Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 32 |
+| Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 33 |
 | Tempal: Item no Chikara | Overgeared | https://anilist.co/anime/212888 | Episode 7 |
 | PSYЯEN | PSYREN | https://anilist.co/anime/204011 | Episode 5 |
 | Pan Dorobou | Pan Dorobou | https://anilist.co/anime/194207 | Episode 7 |
@@ -125,7 +125,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sirotan | Sirotan | https://anilist.co/anime/209709 | Episode 7 |
 | Tensei Goblin Dakedo Shitsumon Aru? | So What's Wrong with Getting Reborn as a Goblin? | https://anilist.co/anime/209219 | Episode 7 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 179 |
-| Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 40 |
+| Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 41 |
 | Choujun! Choujou Senpai | Super Psychic Policeman Chojo | https://anilist.co/anime/200294 | Episode 6 |
 | Sylvanian Families: Freya no Colorful Everyday | Sylvanian Families: Freya no Colorful Everyday | https://anilist.co/anime/218942 | Episode 7 |
 | TANK CHAIR: Sensha Isu | TANK CHAIR | https://anilist.co/anime/209499 | Episode 6 |
