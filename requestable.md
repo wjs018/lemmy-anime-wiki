@@ -65,6 +65,7 @@ These shows have had episodes air already, but no thread was created because the
 | Demons' Crest | Devils' Crest | https://anilist.co/anime/203275 | Episode 2 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 941 |
 | Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | Episode 61 |
+| Dragon Ball Super: Beerus | Dragon Ball Super: Beerus | https://anilist.co/anime/206814 | Episode 6 |
 | Duel Masters LOST: Danzai no Shounen | Duel Masters LOST: Danzai no Shounen | https://anilist.co/anime/208367 | Episode 4 |
 | Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta | Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé | https://anilist.co/anime/200455 | Episode 7 |
 | Fanren Xiu Xian Zhuan Di Wu Ji | Fanren Xiu Xian Zhuan Di Wu Ji | https://anilist.co/anime/202851 | Episode 24 |
@@ -77,7 +78,7 @@ These shows have had episodes air already, but no thread was created because the
 | Ghost Meets Gal! | Ghost Meets Gal! | https://anilist.co/anime/214703 | Episode 11 |
 | Girls und Panzer: Motto Love Love Sakusen desu! | Girls und Panzer: Motto Love Love Sakusen desu! | https://anilist.co/anime/188034 | Episode 6 |
 | Kyoufu Collector | HORROR COLLECTOR | https://anilist.co/anime/203473 | Episode 6 |
-| Hotel Inhumans 2nd Season | HOTEL INHUMANS Season 2 | https://anilist.co/anime/199426 | Episode 6 |
+| Hotel Inhumans 2nd Season | HOTEL INHUMANS Season 2 | https://anilist.co/anime/199426 | Episode 7 |
 | Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu. | Hello, I am a Witch and my Crush Wants me to Make a Love Potion! | https://anilist.co/anime/207191 | Episode 6 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 392 |
 | Hotaru no Yomeiri: Choitashi | Hotaru no Yomeiri: Choitashi | https://anilist.co/anime/218938 | Episode 5 |
@@ -158,7 +159,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
-| Dragon Ball Super: Beerus | Dragon Ball Super: Beerus | https://anilist.co/anime/206814 | November 15 at 15:16 |
 | Soukou Kihei Votoms: Haiiro no Hexe | Soukou Kihei Votoms: Haiiro no Hexe | https://anilist.co/anime/206163 | November 19 at 16:00 |
 | Mahoutsukai no Yoru | Witch on the Holy Night | https://anilist.co/anime/143103 | November 19 at 16:00 |
 {.dense}
