@@ -112,7 +112,7 @@ These shows have had episodes air already, but no thread was created because the
 | PetitCure: Precure Fairies Season 4 | PetitCure: Precure Fairies Season 4 | https://anilist.co/anime/217624 | Episode 7 |
 | Uchi no Otouto-domo ga Sumimasen | Please Excuse My Younger Brothers | https://anilist.co/anime/203490 | Episode 19 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 157 |
-| Pop Pap Polters | Pop Pap Polters | https://anilist.co/anime/217787 | Episode 6 |
+| Pop Pap Polters | Pop Pap Polters | https://anilist.co/anime/217787 | Episode 7 |
 | Punirunes Puni 4 | Punirunes Puni 4 | https://anilist.co/anime/216860 | Episode 7 |
 | Tanuki to Kitsune (TV) | Raccoon Dog and Fox | https://anilist.co/anime/218011 | Episode 7 |
 | Rakuen Tsuihou: Kokoro no Resonance | Rakuen Tsuihou: Kokoro no Resonance | https://anilist.co/anime/157330 | Episode 1 |
