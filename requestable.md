@@ -83,7 +83,7 @@ These shows have had episodes air already, but no thread was created because the
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 392 |
 | Hotaru no Yomeiri: Choitashi | Hotaru no Yomeiri: Choitashi | https://anilist.co/anime/218938 | Episode 5 |
 | Dark Summoner to Dekiteiru | I'm Dating a Dark Summoner | https://anilist.co/anime/208025 | Episode 7 |
-| JK Dark Summoner to Deki......Dei Nai!? | I’m Dating a Dark Summoner Omake Shorts | https://anilist.co/anime/218217 | Episode 6 |
+| JK Dark Summoner to Deki......Dei Nai!? | I’m Dating a Dark Summoner Omake Shorts | https://anilist.co/anime/218217 | Episode 7 |
 | Jueshi Zhan Hun 2 | Jueshi Zhan Hun 2 | https://anilist.co/anime/213188 | Episode 23 |
 | Keroro Gunsou☆ | KERORO☆ | https://anilist.co/anime/216557 | Episode 7 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 84 |
