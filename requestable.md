@@ -113,7 +113,7 @@ These shows have had episodes air already, but no thread was created because the
 | Uchi no Otouto-domo ga Sumimasen | Please Excuse My Younger Brothers | https://anilist.co/anime/203490 | Episode 19 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 157 |
 | Pop Pap Polters | Pop Pap Polters | https://anilist.co/anime/217787 | Episode 6 |
-| Punirunes Puni 4 | Punirunes Puni 4 | https://anilist.co/anime/216860 | Episode 6 |
+| Punirunes Puni 4 | Punirunes Puni 4 | https://anilist.co/anime/216860 | Episode 7 |
 | Tanuki to Kitsune (TV) | Raccoon Dog and Fox | https://anilist.co/anime/218011 | Episode 7 |
 | Rakuen Tsuihou: Kokoro no Resonance | Rakuen Tsuihou: Kokoro no Resonance | https://anilist.co/anime/157330 | Episode 1 |
 | Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai | Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! | https://anilist.co/anime/186541 | Episode 6 |
