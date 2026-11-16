@@ -81,7 +81,7 @@ These shows have had episodes air already, but no thread was created because the
 | Hotel Inhumans 2nd Season | HOTEL INHUMANS Season 2 | https://anilist.co/anime/199426 | Episode 7 |
 | Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu. | Hello, I am a Witch and my Crush Wants me to Make a Love Potion! | https://anilist.co/anime/207191 | Episode 6 |
 | Holo no Graffiti | Holo no Graffiti | https://anilist.co/anime/118123 | Episode 392 |
-| Hotaru no Yomeiri: Choitashi | Hotaru no Yomeiri: Choitashi | https://anilist.co/anime/218938 | Episode 5 |
+| Hotaru no Yomeiri: Choitashi | Hotaru no Yomeiri: Choitashi | https://anilist.co/anime/218938 | Episode 6 |
 | Dark Summoner to Dekiteiru | I'm Dating a Dark Summoner | https://anilist.co/anime/208025 | Episode 7 |
 | JK Dark Summoner to Deki......Dei Nai!? | I’m Dating a Dark Summoner Omake Shorts | https://anilist.co/anime/218217 | Episode 7 |
 | Jueshi Zhan Hun 2 | Jueshi Zhan Hun 2 | https://anilist.co/anime/213188 | Episode 23 |
