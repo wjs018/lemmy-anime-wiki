@@ -159,6 +159,7 @@ These shows have episodes scheduled to air in the near future but are not alread
 
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
+| Doupo Cangqiong Movie: Shuang Di Zhi Zhan | Doupo Cangqiong Movie: Shuang Di Zhi Zhan | https://anilist.co/anime/219986 | November 22 at 04:00 |
 | Soukou Kihei Votoms: Haiiro no Hexe | Soukou Kihei Votoms: Haiiro no Hexe | https://anilist.co/anime/206163 | November 19 at 16:00 |
 | Takopii no Genzai: Arigatou, Mata Ashita | Takopii no Genzai: Arigatou, Mata Ashita | https://anilist.co/anime/212539 | November 26 at 15:00 |
 | Mahoutsukai no Yoru | Witch on the Holy Night | https://anilist.co/anime/143103 | November 19 at 16:00 |
