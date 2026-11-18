@@ -225,6 +225,7 @@ Episode|Link
 4|[Link](https://ani.social/post/38736991)
 5|[Link](https://ani.social/post/39035921)
 6|[Link](https://ani.social/post/39330228)
+7|[Link](https://ani.social/post/39608496)
 {.dense}
 
 ## Seitokai ni mo Ana wa Aru! • Even the Student Council Has Its Holes!
@@ -250,6 +251,7 @@ Episode|Link
 4|[Link](https://ani.social/post/38736989)
 5|[Link](https://ani.social/post/39035920)
 6|[Link](https://ani.social/post/39330227)
+7|[Link](https://ani.social/post/39608494)
 {.dense}
 
 ## Tempal: Item no Chikara • Overgeared
