@@ -150,7 +150,7 @@ These shows have had episodes air already, but no thread was created because the
 | Yani Neko Mini | Yani Neko Mini | https://anilist.co/anime/208105 | Episode 22 |
 | Yi Nian Yongheng 4 | Yi Nian Yongheng 4 | https://anilist.co/anime/199409 | Episode 19 |
 | Yuruyuru Zukan | Yuruyuru Zukan | https://anilist.co/anime/213298 | Episode 7 |
-| mofusand | mofusand | https://anilist.co/anime/204656 | Episode 45 |
+| mofusand | mofusand | https://anilist.co/anime/204656 | Episode 46 |
 {.dense}
 
 ## Upcoming Shows
