@@ -30,7 +30,6 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Kusuriya no Hitorigoto 3rd Season | The Apothecary Diaries Season 3 | https://anilist.co/anime/195516 | [Link](https://ani.social/post/39415006) |
 | Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru | The Exiled Heavy Knight Knows How to Game the System | https://anilist.co/anime/180136 | [Link](https://ani.social/post/39377579) |
 | Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni "Kyouka Point" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu? | The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life | https://anilist.co/anime/207329 | [Link](https://ani.social/post/39572423) |
-| Koori no Jouheki 2nd Season | The Ramparts of Ice Season 2 | https://anilist.co/anime/213805 | [Link](https://ani.social/post/39376528) |
 | Sekai Saikyou no Majo, Hajimemashita | The World's Strongest Witch | https://anilist.co/anime/211778 | [Link](https://ani.social/post/39608494) |
 {.dense}
 
@@ -124,6 +123,7 @@ These shows have had episodes air already, but no thread was created because the
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1361 |
 | Sirotan | Sirotan | https://anilist.co/anime/209709 | Episode 7 |
 | Tensei Goblin Dakedo Shitsumon Aru? | So What's Wrong with Getting Reborn as a Goblin? | https://anilist.co/anime/209219 | Episode 7 |
+| Soukou Kihei Votoms: Haiiro no Hexe | Soukou Kihei Votoms: Haiiro no Hexe | https://anilist.co/anime/206163 | Episode 1 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 179 |
 | Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 41 |
 | Choujun! Choujou Senpai | Super Psychic Policeman Chojo | https://anilist.co/anime/200294 | Episode 7 |
@@ -144,9 +144,10 @@ These shows have had episodes air already, but no thread was created because the
 | Wan Sheng Jie Specials: Gubao de Mimi | Wan Sheng Jie Specials: Gubao de Mimi | https://anilist.co/anime/218493 | Episode 2 |
 | Girigiri Warukunai Watame | Watame Did Borderline Nothing Wrong | https://anilist.co/anime/146004 | Episode 88 |
 | Aoki Denshou: Welsh and Shedar | Welsh and Shedar | https://anilist.co/anime/216895 | Episode 7 |
-| Kizu darake Seijo yori Houfuku wo Komete Season2 | With Vengeance, Sincerely, Your Broken Saintess Season 2 | https://anilist.co/anime/212144 | Episode 7 |
+| Mahoutsukai no Yoru | Witch on the Holy Night | https://anilist.co/anime/143103 | Episode 1 |
+| Kizu darake Seijo yori Houfuku wo Komete Season2 | With Vengeance, Sincerely, Your Broken Saintess Season 2 | https://anilist.co/anime/212144 | Episode 8 |
 | Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 431 |
-| Yuusanchi! from Yuuhachi | YU-SANCHi! from YU-HACHi | https://anilist.co/anime/214593 | Episode 13 |
+| Yuusanchi! from Yuuhachi | YU-SANCHi! from YU-HACHi | https://anilist.co/anime/214593 | Episode 14 |
 | Yani Neko Mini | Yani Neko Mini | https://anilist.co/anime/208105 | Episode 22 |
 | Yi Nian Yongheng 4 | Yi Nian Yongheng 4 | https://anilist.co/anime/199409 | Episode 20 |
 | Yuruyuru Zukan | Yuruyuru Zukan | https://anilist.co/anime/213298 | Episode 7 |
@@ -161,7 +162,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Doupo Cangqiong Movie: Shuang Di Zhi Zhan | Doupo Cangqiong Movie: Shuang Di Zhi Zhan | https://anilist.co/anime/219986 | November 22 at 04:00 |
 | Shixiong A Shixiong Final | Shixiong A Shixiong Final | https://anilist.co/anime/220079 | November 26 at 03:00 |
-| Soukou Kihei Votoms: Haiiro no Hexe | Soukou Kihei Votoms: Haiiro no Hexe | https://anilist.co/anime/206163 | November 19 at 16:00 |
 | Takopii no Genzai: Arigatou, Mata Ashita | Takopii no Genzai: Arigatou, Mata Ashita | https://anilist.co/anime/212539 | November 26 at 15:00 |
-| Mahoutsukai no Yoru | Witch on the Holy Night | https://anilist.co/anime/143103 | November 19 at 16:00 |
+| Koori no Jouheki 2nd Season | The Ramparts of Ice Season 2 | https://anilist.co/anime/213805 | November 19 at 15:56 |
 {.dense}
