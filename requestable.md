@@ -68,6 +68,7 @@ These shows have had episodes air already, but no thread was created because the
 | Duel Masters LOST: Danzai no Shounen | Duel Masters LOST: Danzai no Shounen | https://anilist.co/anime/208367 | Episode 4 |
 | Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta | Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé | https://anilist.co/anime/200455 | Episode 7 |
 | Fanren Xiu Xian Zhuan Di Wu Ji | Fanren Xiu Xian Zhuan Di Wu Ji | https://anilist.co/anime/202851 | Episode 24 |
+| Hotaru no Yomeiri | Firefly Wedding | https://anilist.co/anime/205909 | Episode 7 |
 | Kanata Kara | From Far Away | https://anilist.co/anime/209463 | Episode 7 |
 | Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku | Full Clearing Another World under a Goddess with Zero Believers | https://anilist.co/anime/205896 | Episode 6 |
 | GROTESQQQUE | GROTESQQQUE | https://anilist.co/anime/178972 | Episode 1 |
@@ -161,7 +162,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Doupo Cangqiong Movie: Shuang Di Zhi Zhan | Doupo Cangqiong Movie: Shuang Di Zhi Zhan | https://anilist.co/anime/219986 | November 22 at 04:00 |
-| Hotaru no Yomeiri | Firefly Wedding | https://anilist.co/anime/205909 | November 20 at 15:30 |
 | Shixiong A Shixiong Final | Shixiong A Shixiong Final | https://anilist.co/anime/220079 | November 26 at 03:00 |
 | Takopii no Genzai: Arigatou, Mata Ashita | Takopii no Genzai: Arigatou, Mata Ashita | https://anilist.co/anime/212539 | November 26 at 15:00 |
 {.dense}
