@@ -136,7 +136,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tantei wa mou, Shindeiru. Season 2 | The Detective Is Already Dead Season 2 | https://anilist.co/anime/152677 | Episode 7 |
 | Hyouken no Majutsushi ga Sekai wo Suberu II | The Iceblade Sorcerer Shall Rule the World II | https://anilist.co/anime/212503 | Episode 7 |
 | Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen | The Prince of Tennis II U-17 WORLD CUP: Final Member Selection Match | https://anilist.co/anime/199068 | Episode 8 |
-| Marronnier Oukoku no Shichinin no Kishi | The Seven Knights of the Marronnier Kingdom | https://anilist.co/anime/212799 | Episode 7 |
+| Marronnier Oukoku no Shichinin no Kishi | The Seven Knights of the Marronnier Kingdom | https://anilist.co/anime/212799 | Episode 8 |
 | Shuiro no Kamen | The Vermilion Mask | https://anilist.co/anime/195571 | Episode 7 |
 | Tokyo Revengers: Santen Sensou-hen | Tokyo Revengers: War of the Three Titans Arc | https://anilist.co/anime/178083 | Episode 8 |
 | Umayuru: Full Gate! | Umayuru: Full Gate! | https://anilist.co/anime/215835 | Episode 8 |
