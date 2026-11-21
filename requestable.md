@@ -85,7 +85,7 @@ These shows have had episodes air already, but no thread was created because the
 | Dark Summoner to Dekiteiru | I'm Dating a Dark Summoner | https://anilist.co/anime/208025 | Episode 7 |
 | JK Dark Summoner to Deki......Dei Nai!? | I’m Dating a Dark Summoner Omake Shorts | https://anilist.co/anime/218217 | Episode 7 |
 | Jueshi Zhan Hun 2 | Jueshi Zhan Hun 2 | https://anilist.co/anime/213188 | Episode 24 |
-| Keroro Gunsou☆ | KERORO☆ | https://anilist.co/anime/216557 | Episode 7 |
+| Keroro Gunsou☆ | KERORO☆ | https://anilist.co/anime/216557 | Episode 8 |
 | Koupen-chan | Koupen-chan | https://anilist.co/anime/185646 | Episode 84 |
 | Shiguang Dailiren III Part 1 | Link Click Season 3 Part 1 | https://anilist.co/anime/191832 | Episode 12 |
 | Odekake Kozame Season 2 | Little Shark's Day Out Season 2 | https://anilist.co/anime/204269 | Episode 32 |
@@ -119,7 +119,7 @@ These shows have had episodes air already, but no thread was created because the
 | Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai | Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! | https://anilist.co/anime/186541 | Episode 7 |
 | Sora wa Akai Kawa no Hotori | Red River | https://anilist.co/anime/207809 | Episode 20 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 167 |
-| Rilakkuma | Rilakkuma | https://anilist.co/anime/183231 | Episode 32 |
+| Rilakkuma | Rilakkuma | https://anilist.co/anime/183231 | Episode 33 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2858 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1361 |
 | Sirotan | Sirotan | https://anilist.co/anime/209709 | Episode 7 |
