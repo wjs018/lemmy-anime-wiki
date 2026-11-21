@@ -119,6 +119,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sora wa Akai Kawa no Hotori | Red River | https://anilist.co/anime/207809 | Episode 20 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 167 |
 | Rilakkuma | Rilakkuma | https://anilist.co/anime/183231 | Episode 33 |
+| Romelia Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita | Romelia War Chronicle | https://anilist.co/anime/180894 | Episode 8 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2858 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1362 |
 | Sirotan | Sirotan | https://anilist.co/anime/209709 | Episode 8 |
@@ -161,7 +162,6 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Doupo Cangqiong Movie: Shuang Di Zhi Zhan | Doupo Cangqiong Movie: Shuang Di Zhi Zhan | https://anilist.co/anime/219986 | November 22 at 04:00 |
-| Romelia Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita | Romelia War Chronicle | https://anilist.co/anime/180894 | November 21 at 13:00 |
 | Shixiong A Shixiong Final | Shixiong A Shixiong Final | https://anilist.co/anime/220079 | November 26 at 03:00 |
 | Takopii no Genzai: Arigatou, Mata Ashita | Takopii no Genzai: Arigatou, Mata Ashita | https://anilist.co/anime/212539 | November 26 at 15:00 |
 {.dense}
