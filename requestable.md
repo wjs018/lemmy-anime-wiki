@@ -67,7 +67,7 @@ These shows have had episodes air already, but no thread was created because the
 | Dragon Ball Super: Beerus | Dragon Ball Super: Beerus | https://anilist.co/anime/206814 | Episode 6 |
 | Duel Masters LOST: Danzai no Shounen | Duel Masters LOST: Danzai no Shounen | https://anilist.co/anime/208367 | Episode 4 |
 | Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta | Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé | https://anilist.co/anime/200455 | Episode 7 |
-| Fanren Xiu Xian Zhuan Di Wu Ji | Fanren Xiu Xian Zhuan Di Wu Ji | https://anilist.co/anime/202851 | Episode 24 |
+| Fanren Xiu Xian Zhuan Di Wu Ji | Fanren Xiu Xian Zhuan Di Wu Ji | https://anilist.co/anime/202851 | Episode 25 |
 | Hotaru no Yomeiri | Firefly Wedding | https://anilist.co/anime/205909 | Episode 7 |
 | Kanata Kara | From Far Away | https://anilist.co/anime/209463 | Episode 7 |
 | Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku | Full Clearing Another World under a Goddess with Zero Believers | https://anilist.co/anime/205896 | Episode 6 |
