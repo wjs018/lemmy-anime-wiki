@@ -121,7 +121,7 @@ These shows have had episodes air already, but no thread was created because the
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 167 |
 | Rilakkuma | Rilakkuma | https://anilist.co/anime/183231 | Episode 33 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2858 |
-| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1361 |
+| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1362 |
 | Sirotan | Sirotan | https://anilist.co/anime/209709 | Episode 8 |
 | Tensei Goblin Dakedo Shitsumon Aru? | So What's Wrong with Getting Reborn as a Goblin? | https://anilist.co/anime/209219 | Episode 7 |
 | Soukou Kihei Votoms: Haiiro no Hexe | Soukou Kihei Votoms: Haiiro no Hexe | https://anilist.co/anime/206163 | Episode 1 |
