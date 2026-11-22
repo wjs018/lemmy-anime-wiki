@@ -90,7 +90,7 @@ Episode|Link
 8|[Link](https://ani.social/post/39647056)
 {.dense}
 
-## Gensou Suikoden
+## Gensou Suikoden • Suikoden
 
 Episode|Link
 :-:|:-:
