@@ -55,7 +55,6 @@ These shows have had episodes air already, but no thread was created because the
 | Chibi Godzilla no Gyakushuu Season 4 | Chibi Godzilla Raids Again Season 4 | https://anilist.co/anime/218008 | Episode 17 |
 | Chitose-kun wa Ramune Bin no Naka Part 2 | Chitose Is in the Ramune Bottle 2nd Cour | https://anilist.co/anime/198727 | Episode 6 |
 | DARK MACHINE: The Animation | DARK MACHINE THE ANIMATION | https://anilist.co/anime/179876 | Episode 6 |
-| Da Xia Shou Mu Ren | Da Xia Shou Mu Ren | https://anilist.co/anime/214974 | Episode 18 |
 | Juuоu Mujin Dandivine | Dandivine | https://anilist.co/anime/213068 | Episode 7 |
 | Dawang Raoming 3 | Dawang Raoming 3 | https://anilist.co/anime/199353 | Episode 10 |
 | Meitantei Conan | Detective Conan | https://anilist.co/anime/235 | Episode 1221 |
@@ -72,7 +71,6 @@ These shows have had episodes air already, but no thread was created because the
 | GROTESQQQUE | GROTESQQQUE | https://anilist.co/anime/178972 | Episode 1 |
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | Episode 19 |
 | GelPiyo 2 | GelPiyo 2 | https://anilist.co/anime/217282 | Episode 5 |
-| Gensou Suikoden | Gensou Suikoden | https://anilist.co/anime/187316 | Episode 7 |
 | Ghost Meets Gal! | Ghost Meets Gal! | https://anilist.co/anime/214703 | Episode 11 |
 | Girls und Panzer: Motto Love Love Sakusen desu! | Girls und Panzer: Motto Love Love Sakusen desu! | https://anilist.co/anime/188034 | Episode 7 |
 | Kyoufu Collector | HORROR COLLECTOR | https://anilist.co/anime/203473 | Episode 7 |
@@ -126,6 +124,7 @@ These shows have had episodes air already, but no thread was created because the
 | Soukou Kihei Votoms: Haiiro no Hexe | Soukou Kihei Votoms: Haiiro no Hexe | https://anilist.co/anime/206163 | Episode 1 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 180 |
 | Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 42 |
+| Gensou Suikoden | Suikoden | https://anilist.co/anime/187316 | Episode 7 |
 | Choujun! Choujou Senpai | Super Psychic Policeman Chojo | https://anilist.co/anime/200294 | Episode 7 |
 | Sylvanian Families: Freya no Colorful Everyday | Sylvanian Families: Freya no Colorful Everyday | https://anilist.co/anime/218942 | Episode 8 |
 | TANK CHAIR: Sensha Isu | TANK CHAIR | https://anilist.co/anime/209499 | Episode 7 |
@@ -133,6 +132,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tougen Anki: Nikko・Kegon no Taki-hen | TOUGEN ANKI: Nikko Kegon Falls Arc | https://anilist.co/anime/204650 | Episode 8 |
 | Shiotaiou no Satou-san ga Ore ni dake Amai | The Cold Sato-san is Only Sweet to Me | https://anilist.co/anime/209502 | Episode 7 |
 | Tantei wa mou, Shindeiru. Season 2 | The Detective Is Already Dead Season 2 | https://anilist.co/anime/152677 | Episode 7 |
+| Da Xia Shou Mu Ren | The Guardian of Daxia | https://anilist.co/anime/214974 | Episode 18 |
 | Hyouken no Majutsushi ga Sekai wo Suberu II | The Iceblade Sorcerer Shall Rule the World II | https://anilist.co/anime/212503 | Episode 7 |
 | Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen | The Prince of Tennis II U-17 WORLD CUP: Final Member Selection Match | https://anilist.co/anime/199068 | Episode 8 |
 | Shuiro no Kamen | The Vermilion Mask | https://anilist.co/anime/195571 | Episode 7 |
