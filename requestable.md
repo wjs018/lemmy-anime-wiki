@@ -112,7 +112,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tanuki to Kitsune (TV) | Raccoon Dog and Fox | https://anilist.co/anime/218011 | Episode 8 |
 | Rakuen Tsuihou: Kokoro no Resonance | Rakuen Tsuihou: Kokoro no Resonance | https://anilist.co/anime/157330 | Episode 1 |
 | Ranma 1/2 (2024) 3rd Season | Ranma1/2 (2024) Season 3 | https://anilist.co/anime/209872 | Episode 8 |
-| Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai | Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! | https://anilist.co/anime/186541 | Episode 7 |
+| Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai | Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! | https://anilist.co/anime/186541 | Episode 8 |
 | Sora wa Akai Kawa no Hotori | Red River | https://anilist.co/anime/207809 | Episode 20 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 167 |
 | Rilakkuma | Rilakkuma | https://anilist.co/anime/183231 | Episode 33 |
