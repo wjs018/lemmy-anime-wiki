@@ -68,7 +68,7 @@ These shows have had episodes air already, but no thread was created because the
 | Fanren Xiu Xian Zhuan Di Wu Ji | Fanren Xiu Xian Zhuan Di Wu Ji | https://anilist.co/anime/202851 | Episode 25 |
 | Hotaru no Yomeiri | Firefly Wedding | https://anilist.co/anime/205909 | Episode 7 |
 | Kanata Kara | From Far Away | https://anilist.co/anime/209463 | Episode 7 |
-| Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku | Full Clearing Another World under a Goddess with Zero Believers | https://anilist.co/anime/205896 | Episode 6 |
+| Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku | Full Clearing Another World under a Goddess with Zero Believers | https://anilist.co/anime/205896 | Episode 7 |
 | GROTESQQQUE | GROTESQQQUE | https://anilist.co/anime/178972 | Episode 1 |
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | Episode 19 |
 | GelPiyo 2 | GelPiyo 2 | https://anilist.co/anime/217282 | Episode 5 |
@@ -89,7 +89,7 @@ These shows have had episodes air already, but no thread was created because the
 | Mahou Shoujo Ikusei Keikaku: restart | MAGICAL GIRL RAISING PROJECT restart | https://anilist.co/anime/160803 | Episode 7 |
 | Kashita Maryoku wa [Revo Barai] de Kyousei Choushuu | Magic Repo Man: Dumped by My Party, I’ll Cash In With a Cute Support Fairy to Become the Strongest! | https://anilist.co/anime/202250 | Episode 8 |
 | Magical★Explorer: Eroge no Yuujin Chara ni Tensei Shitakedo, Game Chishiki Tsukatte Jiyuu ni Ikiru | Magical Explorer | https://anilist.co/anime/169581 | Episode 9 |
-| Mahou no Shimai LuluttoLilly Part 2 | Magical Sisters LuluttoLilly Part 2 | https://anilist.co/anime/209032 | Episode 7 |
+| Mahou no Shimai LuluttoLilly Part 2 | Magical Sisters LuluttoLilly Part 2 | https://anilist.co/anime/209032 | Episode 8 |
 | Maomao no Hitorigoto 3rd Season | Maomao no Hitorigoto 3rd Season | https://anilist.co/anime/218532 | Episode 7 |
 | Mazenchu | Mazenchu | https://anilist.co/anime/217577 | Episode 8 |
 | Yozakura-san Chi no Daisakusen 2nd Season Part 2 | Mission: Yozakura Family Season 2 Part 2 | https://anilist.co/anime/213657 | Episode 7 |
