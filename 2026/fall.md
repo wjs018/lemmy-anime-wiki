@@ -172,6 +172,7 @@ Episode|Link
 5|[Link](https://ani.social/post/38991222)
 6|[Link](https://ani.social/post/39286941)
 7|[Link](https://ani.social/post/39566765)
+8|[Link](https://ani.social/post/39849836)
 {.dense}
 
 ## Magic Knight Rayearth (2026)
