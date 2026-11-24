@@ -126,6 +126,13 @@ Episode|Link
 9|[Link](https://ani.social/post/39681101)
 {.dense}
 
+## Kanata Kara • From Far Away
+
+Episode|Link
+:-:|:-:
+8|[Link](https://ani.social/post/39829398)
+{.dense}
+
 ## Koori no Jouheki 2nd Season • The Ramparts of Ice Season 2
 
 Episode|Link
