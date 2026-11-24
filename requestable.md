@@ -111,7 +111,7 @@ These shows have had episodes air already, but no thread was created because the
 | Rakuen Tsuihou: Kokoro no Resonance | Rakuen Tsuihou: Kokoro no Resonance | https://anilist.co/anime/157330 | Episode 1 |
 | Ranma 1/2 (2024) 3rd Season | Ranma1/2 (2024) Season 3 | https://anilist.co/anime/209872 | Episode 8 |
 | Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai | Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship! | https://anilist.co/anime/186541 | Episode 8 |
-| Sora wa Akai Kawa no Hotori | Red River | https://anilist.co/anime/207809 | Episode 20 |
+| Sora wa Akai Kawa no Hotori | Red River | https://anilist.co/anime/207809 | Episode 21 |
 | Xian Ni | Renegade Immortal | https://anilist.co/anime/137653 | Episode 168 |
 | Rilakkuma | Rilakkuma | https://anilist.co/anime/183231 | Episode 33 |
 | Romelia Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita | Romelia War Chronicle | https://anilist.co/anime/180894 | Episode 8 |
