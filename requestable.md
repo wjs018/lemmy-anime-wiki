@@ -29,7 +29,7 @@ These shows are being tracked and are currently enabled in rikka's database. Thi
 | Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru | The Exiled Heavy Knight Knows How to Game the System | https://anilist.co/anime/180136 | [Link](https://ani.social/post/39654030) |
 | Koori no Jouheki 2nd Season | The Ramparts of Ice Season 2 | https://anilist.co/anime/213805 | [Link](https://ani.social/post/39681983) |
 | Marronnier Oukoku no Shichinin no Kishi | The Seven Knights of the Marronnier Kingdom | https://anilist.co/anime/212799 | [Link](https://ani.social/post/39739085) |
-| Sekai Saikyou no Majo, Hajimemashita | The World's Strongest Witch | https://anilist.co/anime/211778 | [Link](https://ani.social/post/39608494) |
+| Sekai Saikyou no Majo, Hajimemashita | The World's Strongest Witch | https://anilist.co/anime/211778 | [Link](https://ani.social/post/39896683) |
 {.dense}
 
 ## Requestable Shows
@@ -70,7 +70,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku | Full Clearing Another World under a Goddess with Zero Believers | https://anilist.co/anime/205896 | Episode 7 |
 | GROTESQQQUE | GROTESQQQUE | https://anilist.co/anime/178972 | Episode 1 |
 | Gekkan! Nanmono Anime | Gekkan! Nanmono Anime | https://anilist.co/anime/188753 | Episode 19 |
-| GelPiyo 2 | GelPiyo 2 | https://anilist.co/anime/217282 | Episode 5 |
+| GelPiyo 2 | GelPiyo 2 | https://anilist.co/anime/217282 | Episode 6 |
 | Ghost Meets Gal! | Ghost Meets Gal! | https://anilist.co/anime/214703 | Episode 11 |
 | Girls und Panzer: Motto Love Love Sakusen desu! | Girls und Panzer: Motto Love Love Sakusen desu! | https://anilist.co/anime/188034 | Episode 7 |
 | Kyoufu Collector | HORROR COLLECTOR | https://anilist.co/anime/203473 | Episode 7 |
