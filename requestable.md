@@ -130,7 +130,7 @@ These shows have had episodes air already, but no thread was created because the
 | Tougen Anki: Nikko・Kegon no Taki-hen | TOUGEN ANKI: Nikko Kegon Falls Arc | https://anilist.co/anime/204650 | Episode 8 |
 | Shiotaiou no Satou-san ga Ore ni dake Amai | The Cold Sato-san is Only Sweet to Me | https://anilist.co/anime/209502 | Episode 8 |
 | Tantei wa mou, Shindeiru. Season 2 | The Detective Is Already Dead Season 2 | https://anilist.co/anime/152677 | Episode 7 |
-| Da Xia Shou Mu Ren | The Guardian of Daxia | https://anilist.co/anime/214974 | Episode 18 |
+| Da Xia Shou Mu Ren | The Guardian of Daxia | https://anilist.co/anime/214974 | Episode 11 |
 | Hyouken no Majutsushi ga Sekai wo Suberu II | The Iceblade Sorcerer Shall Rule the World II | https://anilist.co/anime/212503 | Episode 7 |
 | Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni "Kyouka Point" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu? | The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life | https://anilist.co/anime/207329 | Episode 8 |
 | Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen | The Prince of Tennis II U-17 WORLD CUP: Final Member Selection Match | https://anilist.co/anime/199068 | Episode 8 |
@@ -148,7 +148,7 @@ These shows have had episodes air already, but no thread was created because the
 | Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 432 |
 | Yuusanchi! from Yuuhachi | YU-SANCHi! from YU-HACHi | https://anilist.co/anime/214593 | Episode 15 |
 | Yani Neko Mini | Yani Neko Mini | https://anilist.co/anime/208105 | Episode 22 |
-| Yi Nian Yongheng 4 | Yi Nian Yongheng 4 | https://anilist.co/anime/199409 | Episode 20 |
+| Yi Nian Yongheng 4 | Yi Nian Yongheng 4 | https://anilist.co/anime/199409 | Episode 21 |
 | Yuruyuru Zukan | Yuruyuru Zukan | https://anilist.co/anime/213298 | Episode 8 |
 | mofusand | mofusand | https://anilist.co/anime/204656 | Episode 47 |
 {.dense}
