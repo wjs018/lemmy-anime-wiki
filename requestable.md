@@ -46,7 +46,6 @@ These shows have had episodes air already, but no thread was created because the
 | Diamond no Ace act II: Second Season Part 2 | Ace of the Diamond act II -Second Season- | https://anilist.co/anime/213658 | Episode 7 |
 | Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season | As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3 | https://anilist.co/anime/185756 | Episode 9 |
 | BEYBLADE X | BEYBLADE X | https://anilist.co/anime/165159 | Episode 141 |
-| BLEACH: Sennen Kessen-hen - Kashin-tan | BLEACH: Thousand-Year Blood War - The Calamity | https://anilist.co/anime/185874 | Episode 10 |
 | Battle Spirits [Re] Zekkai no Kuu | Battle Spirits [Re] Zekkai No Ku | https://anilist.co/anime/187990 | Episode 8 |
 | Guangyin Zhi Wai 2 | Beyond Time's Gaze 2 | https://anilist.co/anime/213356 | Episode 23 |
 | Black Clover 2nd Season | Black Clover Season 2 | https://anilist.co/anime/195604 | Episode 8 |
@@ -141,7 +140,7 @@ These shows have had episodes air already, but no thread was created because the
 | Wan Sheng Jie Specials: Gubao de Mimi | Wan Sheng Jie Specials: Gubao de Mimi | https://anilist.co/anime/218493 | Episode 2 |
 | Girigiri Warukunai Watame | Watame Did Borderline Nothing Wrong | https://anilist.co/anime/146004 | Episode 89 |
 | Aoki Denshou: Welsh and Shedar | Welsh and Shedar | https://anilist.co/anime/216895 | Episode 8 |
-| Dali Si Rizhi 3 | White Cat Legend 3 | https://anilist.co/anime/168085 | Episode 14 |
+| Dali Si Rizhi 3 | White Cat Legend 3 | https://anilist.co/anime/168085 | Episode 7 |
 | Mahoutsukai no Yoru | Witch on the Holy Night | https://anilist.co/anime/143103 | Episode 1 |
 | Kizu darake Seijo yori Houfuku wo Komete Season2 | With Vengeance, Sincerely, Your Broken Saintess Season 2 | https://anilist.co/anime/212144 | Episode 8 |
 | Wushen Zhuzai: Da Wei Pian | Wushen Zhuzai: Da Wei Pian | https://anilist.co/anime/155723 | Episode 432 |
