@@ -126,8 +126,9 @@ These shows have had episodes air already, but no thread was created because the
 | Choujun! Choujou Senpai | Super Psychic Policeman Chojo | https://anilist.co/anime/200294 | Episode 8 |
 | Sylvanian Families: Freya no Colorful Everyday | Sylvanian Families: Freya no Colorful Everyday | https://anilist.co/anime/218942 | Episode 9 |
 | TANK CHAIR: Sensha Isu | TANK CHAIR | https://anilist.co/anime/209499 | Episode 8 |
-| Tetsuryou! meet with Tetsudou Musume | TETSURYO! Meet With Tetsudou Musume | https://anilist.co/anime/199594 | Episode 7 |
+| Tetsuryou! meet with Tetsudou Musume | TETSURYO! Meet With Tetsudou Musume | https://anilist.co/anime/199594 | Episode 8 |
 | Tougen Anki: Nikko・Kegon no Taki-hen | TOUGEN ANKI: Nikko Kegon Falls Arc | https://anilist.co/anime/204650 | Episode 8 |
+| Takopii no Genzai: Arigatou, Mata Ashita | Takopii no Genzai: Arigatou, Mata Ashita | https://anilist.co/anime/212539 | Episode 1 |
 | Shiotaiou no Satou-san ga Ore ni dake Amai | The Cold Sato-san is Only Sweet to Me | https://anilist.co/anime/209502 | Episode 8 |
 | Tantei wa mou, Shindeiru. Season 2 | The Detective Is Already Dead Season 2 | https://anilist.co/anime/152677 | Episode 8 |
 | Da Xia Shou Mu Ren | The Guardian of Daxia | https://anilist.co/anime/214974 | Episode 20 |
@@ -160,5 +161,4 @@ These shows have episodes scheduled to air in the near future but are not alread
 | Show Name | English Show Name | AniList Link | Airing Time (UTC) |
 | :-------- | :---------------- | :----------- | :---------------: |
 | Evergreen | Evergreen | https://anilist.co/anime/220237 | November 30 at 14:00 |
-| Takopii no Genzai: Arigatou, Mata Ashita | Takopii no Genzai: Arigatou, Mata Ashita | https://anilist.co/anime/212539 | November 26 at 15:00 |
 {.dense}
