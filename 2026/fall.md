@@ -154,6 +154,7 @@ Episode|Link
 6|[Link](https://ani.social/post/39082283)
 7|[Link](https://ani.social/post/39376528)
 8|[Link](https://ani.social/post/39681983)
+9|[Link](https://ani.social/post/39941436)
 {.dense}
 
 ## Kusuriya no Hitorigoto 3rd Season • The Apothecary Diaries Season 3
