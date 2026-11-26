@@ -115,6 +115,7 @@ These shows have had episodes air already, but no thread was created because the
 | Romelia Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita | Romelia War Chronicle | https://anilist.co/anime/180894 | Episode 8 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2859 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1362 |
+| Shixiong A Shixiong Final | Shixiong A Shixiong Final | https://anilist.co/anime/220079 | Episode 26 |
 | Sirotan | Sirotan | https://anilist.co/anime/209709 | Episode 8 |
 | Tensei Goblin Dakedo Shitsumon Aru? | So What's Wrong with Getting Reborn as a Goblin? | https://anilist.co/anime/209219 | Episode 8 |
 | Soukou Kihei Votoms: Haiiro no Hexe | Soukou Kihei Votoms: Haiiro no Hexe | https://anilist.co/anime/206163 | Episode 1 |
@@ -159,6 +160,5 @@ These shows have episodes scheduled to air in the near future but are not alread
 | :-------- | :---------------- | :----------- | :---------------: |
 | Evergreen | Evergreen | https://anilist.co/anime/220237 | November 30 at 14:00 |
 | Fool Night | Fool Night | https://anilist.co/anime/213457 | November 26 at 08:00 |
-| Shixiong A Shixiong Final | Shixiong A Shixiong Final | https://anilist.co/anime/220079 | November 26 at 03:00 |
 | Takopii no Genzai: Arigatou, Mata Ashita | Takopii no Genzai: Arigatou, Mata Ashita | https://anilist.co/anime/212539 | November 26 at 15:00 |
 {.dense}
