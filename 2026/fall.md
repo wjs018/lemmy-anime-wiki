@@ -89,6 +89,7 @@ Episode|Link
 6|[Link](https://ani.social/post/39077327)
 7|[Link](https://ani.social/post/39372113)
 8|[Link](https://ani.social/post/39647056)
+9|[Link](https://ani.social/post/39936950)
 {.dense}
 
 ## Fool Night
