@@ -132,7 +132,7 @@ These shows have had episodes air already, but no thread was created because the
 | Shiotaiou no Satou-san ga Ore ni dake Amai | The Cold Sato-san is Only Sweet to Me | https://anilist.co/anime/209502 | Episode 8 |
 | Tantei wa mou, Shindeiru. Season 2 | The Detective Is Already Dead Season 2 | https://anilist.co/anime/152677 | Episode 8 |
 | Da Xia Shou Mu Ren | The Guardian of Daxia | https://anilist.co/anime/214974 | Episode 20 |
-| Hyouken no Majutsushi ga Sekai wo Suberu II | The Iceblade Sorcerer Shall Rule the World II | https://anilist.co/anime/212503 | Episode 7 |
+| Hyouken no Majutsushi ga Sekai wo Suberu II | The Iceblade Sorcerer Shall Rule the World II | https://anilist.co/anime/212503 | Episode 8 |
 | Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni "Kyouka Point" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu? | The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life | https://anilist.co/anime/207329 | Episode 8 |
 | Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen | The Prince of Tennis II U-17 WORLD CUP: Final Member Selection Match | https://anilist.co/anime/199068 | Episode 9 |
 | Shuiro no Kamen | The Vermilion Mask | https://anilist.co/anime/195571 | Episode 7 |
