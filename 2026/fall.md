@@ -91,6 +91,13 @@ Episode|Link
 8|[Link](https://ani.social/post/39647056)
 {.dense}
 
+## Fool Night
+
+Episode|Link
+:-:|:-:
+12|[Link](https://ani.social/post/39934356)
+{.dense}
+
 ## Gensou Suikoden • Suikoden
 
 Episode|Link
