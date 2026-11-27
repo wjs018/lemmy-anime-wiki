@@ -170,6 +170,7 @@ Episode|Link
 6|[Link](https://ani.social/post/39121233)
 7|[Link](https://ani.social/post/39415006)
 8|[Link](https://ani.social/post/39690433)
+9|[Link](https://ani.social/post/39981962)
 {.dense}
 
 ## Kyouran Reijou Nia Liston • Nia Liston: The Merciless Maiden
