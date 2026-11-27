@@ -142,7 +142,7 @@ These shows have had episodes air already, but no thread was created because the
 | Vertex Force | Vertex Force | https://anilist.co/anime/209562 | Episode 8 |
 | Wan Sheng Jie Specials: Gubao de Mimi | Wan Sheng Jie Specials: Gubao de Mimi | https://anilist.co/anime/218493 | Episode 2 |
 | Girigiri Warukunai Watame | Watame Did Borderline Nothing Wrong | https://anilist.co/anime/146004 | Episode 90 |
-| Aoki Denshou: Welsh and Shedar | Welsh and Shedar | https://anilist.co/anime/216895 | Episode 8 |
+| Aoki Denshou: Welsh and Shedar | Welsh and Shedar | https://anilist.co/anime/216895 | Episode 9 |
 | Dali Si Rizhi 3 | White Cat Legend 3 | https://anilist.co/anime/168085 | Episode 7 |
 | Mahoutsukai no Yoru | Witch on the Holy Night | https://anilist.co/anime/143103 | Episode 1 |
 | Kizu darake Seijo yori Houfuku wo Komete Season2 | With Vengeance, Sincerely, Your Broken Saintess Season 2 | https://anilist.co/anime/212144 | Episode 9 |
