@@ -58,7 +58,7 @@ These shows have had episodes air already, but no thread was created because the
 | Juuоu Mujin Dandivine | Dandivine | https://anilist.co/anime/213068 | Episode 8 |
 | Dawang Raoming 3 | Dawang Raoming 3 | https://anilist.co/anime/199353 | Episode 10 |
 | Meitantei Conan | Detective Conan | https://anilist.co/anime/235 | Episode 1221 |
-| Demons' Crest | Devils' Crest | https://anilist.co/anime/203275 | Episode 4 |
+| Demons' Crest | Devils' Crest | https://anilist.co/anime/203275 | Episode 5 |
 | Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 942 |
 | Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | Episode 61 |
 | Doupo Cangqiong Movie: Shuang Di Zhi Zhan | Doupo Cangqiong Movie: Shuang Di Zhi Zhan | https://anilist.co/anime/219986 | Episode 1 |
