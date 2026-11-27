@@ -102,7 +102,7 @@ These shows have had episodes air already, but no thread was created because the
 | Pan Dorobou | Pan Dorobou | https://anilist.co/anime/194207 | Episode 9 |
 | Pan no Akachan (TV) | Pan no Akachan (TV) | https://anilist.co/anime/212308 | Episode 21 |
 | PetitCure: Precure Fairies Season 4 | PetitCure: Precure Fairies Season 4 | https://anilist.co/anime/217624 | Episode 9 |
-| Uchi no Otouto-domo ga Sumimasen | Please Excuse My Younger Brothers | https://anilist.co/anime/203490 | Episode 20 |
+| Uchi no Otouto-domo ga Sumimasen | Please Excuse My Younger Brothers | https://anilist.co/anime/203490 | Episode 21 |
 | Pocket Monsters (2023) | Pokémon Horizons: The Series | https://anilist.co/anime/158871 | Episode 159 |
 | Pop Pap Polters | Pop Pap Polters | https://anilist.co/anime/217787 | Episode 8 |
 | Punirunes Puni 4 | Punirunes Puni 4 | https://anilist.co/anime/216860 | Episode 8 |
