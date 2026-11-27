@@ -133,6 +133,7 @@ Episode|Link
 7|[Link](https://ani.social/post/39111095)
 8|[Link](https://ani.social/post/39404946)
 9|[Link](https://ani.social/post/39681101)
+10|[Link](https://ani.social/post/39971833)
 {.dense}
 
 ## Kanata Kara • From Far Away
