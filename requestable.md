@@ -99,7 +99,7 @@ These shows have had episodes air already, but no thread was created because the
 | Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onnanoko wo Ippai Click Shimasu | Now That I Can Control Reality With A Mouse Cursor, I'm Gonna Click Away On The Girls! | https://anilist.co/anime/206774 | Episode 6 |
 | Onegai AiPri | Onegai AiPri | https://anilist.co/anime/206523 | Episode 34 |
 | PSYЯEN | PSYREN | https://anilist.co/anime/204011 | Episode 6 |
-| Pan Dorobou | Pan Dorobou | https://anilist.co/anime/194207 | Episode 8 |
+| Pan Dorobou | Pan Dorobou | https://anilist.co/anime/194207 | Episode 9 |
 | Pan no Akachan (TV) | Pan no Akachan (TV) | https://anilist.co/anime/212308 | Episode 21 |
 | PetitCure: Precure Fairies Season 4 | PetitCure: Precure Fairies Season 4 | https://anilist.co/anime/217624 | Episode 9 |
 | Uchi no Otouto-domo ga Sumimasen | Please Excuse My Younger Brothers | https://anilist.co/anime/203490 | Episode 20 |
