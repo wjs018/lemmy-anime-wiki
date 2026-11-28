@@ -59,7 +59,7 @@ These shows have had episodes air already, but no thread was created because the
 | Dawang Raoming 3 | Dawang Raoming 3 | https://anilist.co/anime/199353 | Episode 11 |
 | Meitantei Conan | Detective Conan | https://anilist.co/anime/235 | Episode 1221 |
 | Demons' Crest | Devils' Crest | https://anilist.co/anime/203275 | Episode 5 |
-| Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 942 |
+| Doraemon (2005) | Doraemon (2005) | https://anilist.co/anime/8687 | Episode 943 |
 | Dou Po Cangqiong: Nian Fan 4 | Dou Po Cangqiong: Nian Fan 4 | https://anilist.co/anime/196613 | Episode 61 |
 | Doupo Cangqiong Movie: Shuang Di Zhi Zhan | Doupo Cangqiong Movie: Shuang Di Zhi Zhan | https://anilist.co/anime/219986 | Episode 1 |
 | Dragon Ball Super: Beerus | Dragon Ball Super: Beerus | https://anilist.co/anime/206814 | Episode 7 |
