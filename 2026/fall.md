@@ -209,6 +209,7 @@ Episode|Link
 2|[Link](https://ani.social/post/37953632)
 3|[Link](https://ani.social/post/38258512)
 8|[Link](https://ani.social/post/39739085)
+9|[Link](https://ani.social/post/40014225)
 {.dense}
 
 ## Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai • Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!
