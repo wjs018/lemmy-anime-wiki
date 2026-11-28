@@ -115,7 +115,7 @@ These shows have had episodes air already, but no thread was created because the
 | Rilakkuma | Rilakkuma | https://anilist.co/anime/183231 | Episode 34 |
 | Romelia Senki: Maou wo Taoshita nochi mo Jinrui Yabasou dakara Guntai Soshiki Shita | Romelia War Chronicle | https://anilist.co/anime/180894 | Episode 8 |
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2859 |
-| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1362 |
+| Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1363 |
 | Shixiong A Shixiong Final | Shixiong A Shixiong Final | https://anilist.co/anime/220079 | Episode 26 |
 | Sirotan | Sirotan | https://anilist.co/anime/209709 | Episode 9 |
 | Tensei Goblin Dakedo Shitsumon Aru? | So What's Wrong with Getting Reborn as a Goblin? | https://anilist.co/anime/209219 | Episode 8 |
