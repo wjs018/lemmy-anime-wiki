@@ -117,7 +117,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sazae-san | Sazae-san | https://anilist.co/anime/2406 | Episode 2859 |
 | Crayon Shin-chan | Shin Chan | https://anilist.co/anime/966 | Episode 1362 |
 | Shixiong A Shixiong Final | Shixiong A Shixiong Final | https://anilist.co/anime/220079 | Episode 26 |
-| Sirotan | Sirotan | https://anilist.co/anime/209709 | Episode 8 |
+| Sirotan | Sirotan | https://anilist.co/anime/209709 | Episode 9 |
 | Tensei Goblin Dakedo Shitsumon Aru? | So What's Wrong with Getting Reborn as a Goblin? | https://anilist.co/anime/209219 | Episode 8 |
 | Soukou Kihei Votoms: Haiiro no Hexe | Soukou Kihei Votoms: Haiiro no Hexe | https://anilist.co/anime/206163 | Episode 1 |
 | Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 181 |
