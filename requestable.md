@@ -120,7 +120,7 @@ These shows have had episodes air already, but no thread was created because the
 | Sirotan | Sirotan | https://anilist.co/anime/209709 | Episode 8 |
 | Tensei Goblin Dakedo Shitsumon Aru? | So What's Wrong with Getting Reborn as a Goblin? | https://anilist.co/anime/209219 | Episode 8 |
 | Soukou Kihei Votoms: Haiiro no Hexe | Soukou Kihei Votoms: Haiiro no Hexe | https://anilist.co/anime/206163 | Episode 1 |
-| Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 180 |
+| Douluo Dalu 2: Jueshi Tangmen | Soul Land 2: The Peerless Tang Clan | https://anilist.co/anime/137683 | Episode 181 |
 | Meitantei Precure! | Star Detective Precure! | https://anilist.co/anime/202957 | Episode 42 |
 | Gensou Suikoden | Suikoden | https://anilist.co/anime/187316 | Episode 8 |
 | Choujun! Choujou Senpai | Super Psychic Policeman Chojo | https://anilist.co/anime/200294 | Episode 8 |
